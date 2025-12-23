@@ -1,0 +1,3030 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Inhoudsopgave
+18
+
+Nationale en internationale regelgeving .................................................................18-5
+18.1
+
+Inleiding ................................................................................................................18-5
+
+18.2
+
+Wat leer je in dit hoofdstuk? ...............................................................................18-5
+
+18.3
+
+Internationale organisaties en hun namen .........................................................18-6
+
+18.3.1
+
+ITU ................................................................................................................18-6
+
+18.3.2
+
+CEPT .............................................................................................................18-6
+
+18.3.3
+
+IARU .............................................................................................................18-7
+
+18.3.4
+
+HAREC .........................................................................................................18-7
+
+18.4
+
+Afkortingen in het radioverkeer .........................................................................18-7
+
+18.4.1
+
+Algemeen ......................................................................................................18-7
+
+18.4.2
+
+Q-codes .........................................................................................................18-8
+
+18.4.3
+
+Amateurafkortingen ...................................................................................18-10
+
+18.4.4
+
+Internationale noodsignalen ......................................................................18-10
+
+18.5
+
+Roepletters in Nederland ...................................................................................18-11
+
+18.5.1
+
+Prefixen voor de Amateurdienst ...............................................................18-11
+
+18.5.2
+
+Suffixen en samenstelling van roepletters ................................................18-11
+
+18.5.3
+
+Buitenlandse radiozendamateurs in Nederland........................................18-12
+
+18.6
+
+Het internationale spellingsalfabet ...................................................................18-12
+
+18.7 Nationale en internationale regelgeving voor de amateurdienst en de
+amateursatellietdienst ....................................................................................................18-12
+18.7.1
+
+Overzicht ....................................................................................................18-12
+
+18.7.2
+
+Definitie van de amateurdienst in de ITU regulations .............................18-13
+
+18.7.3
+
+De status van de amateurdienst en de amateursatellietdienst .................18-13
+
+18.8
+
+Klassen van uitzending ......................................................................................18-15
+
+18.8.1
+
+Codes ...........................................................................................................18-15
+
+18.8.2
+
+Enkel- en multikanaalsuitzendingen ........................................................18-15
+
+18.8.3
+
+Hulpdraaggolven ........................................................................................18-16
+
+18.8.4
+
+Analoog en digitaal.....................................................................................18-16
+
+18.8.5
+
+De klassen van uitzending: opbouw van de codes ...................................18-17
+
+18.8.6
+
+Voorbeelden ...............................................................................................18-20
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.9
+
+CEPT-aanbevelingen..........................................................................................18-22
+
+18.10
+
+De Telecommunicatiewet en daarop gebaseerde regelingen .......................18-23
+
+18.10.1
+
+De Telecommunicatiewet ......................................................................18-23
+
+18.10.2
+
+De Examenregeling Frequentiegebruik 2008 .......................................18-24
+
+18.10.3
+
+Het Frequentiebesluit 2013 ...................................................................18-24
+
+18.10.4
+
+De Regeling gebruik van frequentieruimte met meldingsplicht 2015 18-25
+
+18.10.5
+
+Het antenneregister................................................................................18-28
+
+18.11
+
+Europese regelgeving: de EMC-richtlijn 2014/30/EG ..................................18-28
+
+18.12
+
+Frequentiebanden, beschikbaar voor de zendamateur ................................ 18-29
+
+18.12.1
+
+Rangen en standen .................................................................................18-29
+
+18.12.2
+
+Amateurfrequenties, toegankelijk voor N-geregistreerden .................18-29
+
+18.12.3
+
+Amateurfrequenties, toegankelijk voor F-geregistreerden. .................18-29
+
+18.13
+
+Maatschappelijke verantwoordelijkheid van de zendamateur ....................18-32
+
+18.13.1
+
+Inleiding ..................................................................................................18-32
+
+18.13.2
+
+Storingsproblemen .................................................................................18-33
+
+18.13.3
+
+Opheffen van storingen .........................................................................18-33
+
+18.13.4
+
+Gedrag in het radioverkeer ....................................................................18-33
+
+18.13.5
+
+Beperk vermogen, controleer je spullen ...............................................18-33
+
+18.14
+
+Operationele vaardigheden............................................................................18-34
+
+18.14.1
+
+Gebruik van frequentieruimte...............................................................18-34
+
+18.14.2
+
+Wellevendheid .......................................................................................18-34
+
+18.14.3
+
+Ontvangstrapport ...................................................................................18-34
+
+18.14.4
+
+Hoe maak je een verbinding? ................................................................ 18-35
+
+18.15
+
+Exameneisen ...................................................................................................18-37
+
+18.16
+
+Handig om te weten .......................................................................................18-37
+
+18.16.1
+
+Leeftijdsgrenzen voor een registratie ....................................................18-37
+
+18.16.2
+
+Hoe kom ik aan een registratie? ............................................................18-38
+
+18.16.3
+
+Het antenneregister................................................................................18-38
+
+18.17
+
+Opgaven ..........................................................................................................18-38
+
+18.17.1
+
+Opgave 18-1 ............................................................................................18-39
+
+18.17.2
+
+Opgave 18-2 ............................................................................................18-40
+
+18.17.3
+
+Opgave 18-3 ............................................................................................18-41
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.4
+
+Opgave 18-4 ............................................................................................18-42
+
+18.17.5
+
+Opgave 18-5 ............................................................................................18-43
+
+18.17.6
+
+Opgave 18-6 ............................................................................................18-44
+
+18.17.7
+
+Opgave 18-7 ............................................................................................18-45
+
+18.17.8
+
+Opgave 18-8 ............................................................................................18-46
+
+18.17.9
+
+Opgave 18-9 ............................................................................................18-47
+
+18.17.10
+
+Opgave 18-10 ..........................................................................................18-48
+
+18.17.11
+
+Opgave 18-11 ..........................................................................................18-49
+
+18.17.12
+
+Opgave 18-12 ..........................................................................................18-50
+
+18.17.13
+
+Opgave 18-13 ..........................................................................................18-51
+
+18.17.14
+
+Opgave 18-14 ..........................................................................................18-52
+
+18.17.15
+
+Opgave 18-15 ..........................................................................................18-53
+
+18.17.16
+
+Opgave 18-16 ..........................................................................................18-54
+
+18.17.17
+
+Opgave 18-17 ..........................................................................................18-55
+
+18.17.18
+
+Opgave 18-18 ..........................................................................................18-56
+
+18.17.19
+
+Opgave 18-19 ..........................................................................................18-57
+
+18.17.20
+
+Opgave 18-20 ..........................................................................................18-58
+
+18.18
+
+Antwoorden bij de opgaven ..........................................................................18-59
+
+18.18.1
+
+Antwoord bij Opgave 18-1 ....................................................................18-59
+
+18.18.2
+
+Antwoord bij Opgave 18-2 ....................................................................18-60
+
+18.18.3
+
+Antwoord bij Opgave 18-3 ....................................................................18-61
+
+18.18.4
+
+Antwoord bij Opgave 18-4 ....................................................................18-62
+
+18.18.5
+
+Antwoord bij Opgave 18-5 ....................................................................18-63
+
+18.18.6
+
+Antwoord bij Opgave 18-6 ....................................................................18-64
+
+18.18.7
+
+Antwoord bij Opgave 18-7 ....................................................................18-65
+
+18.18.8
+
+Antwoord bij Opgave 18-8 ....................................................................18-66
+
+18.18.9
+
+Antwoord bij Opgave 18-9 ....................................................................18-67
+
+18.18.10
+
+Antwoord bij Opgave 18-10 ..................................................................18-68
+
+18.18.11
+
+Antwoord bij Opgave 18-11 ..................................................................18-69
+
+18.18.12
+
+Antwoord bij Opgave 18-12 ..................................................................18-70
+
+18.18.13
+
+Antwoord bij Opgave 18-13 ..................................................................18-71
+
+18.18.14
+
+Antwoord bij Opgave 18-14 ..................................................................18-72
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.15
+
+Antwoord bij Opgave 18-15 ..................................................................18-73
+
+18.18.16
+
+Antwoord bij Opgave 18-16 ..................................................................18-74
+
+18.18.17
+
+Antwoord bij Opgave 18-17 ..................................................................18-75
+
+18.18.18
+
+Antwoord bij Opgave 18-18 ..................................................................18-76
+
+18.18.19
+
+Antwoord bij Opgave 18-19 ..................................................................18-77
+
+18.18.20
+
+Antwoord bij Opgave 18-20 ..................................................................18-78
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18 Nationale en internationale regelgeving
+18.1 Inleiding
+Bij het samenstellen van dit hoofdstuk is gebruik gemaakt van de Studiehulp versie 4 van
+SRE, de Stichting Radio Examens en te downloaden materiaal van Rijksinspectie Digitale
+Infrastructuur (RDI) (voorheen AT, Agentschap Telecom). De SRE was tot 1 juli 2023 de
+uitvoerende instantie voor de zendexamens. Daarna werd dat het CBR. Dat is de instantie
+die ook verantwoordelijk is voor de rijexamens. De Studiehulp zelf is van de webpagina
+van SRE te downloaden via deze link .
+Wetten en voorschriften hebben geen eeuwigheidswaarde. Als er zaken veranderen,
+zullen we proberen, die zo snel mogelijk in de cursus te verwerken.
+Internationaal wordt gesproken van een zendvergunning. In Nederland is de vergunning
+vervangen door een registratie. Amateurfrequenties heten daarom vergunningvrij, maar
+om ze voor zenddoeleinden te mogen gebruiken is registratie verplicht en om die
+registratie te krijgen moet je, net als vroeger, met goed gevolg examen doen. Dit hoofdstuk
+bevat de benodigde examenstof.
+
+18.2 Wat leer je in dit hoofdstuk?
+Zendamateurisme is een wereldwijde hobby met wereldwijde verbindingen. De
+regelgeving is dan ook voor een belangrijk deel afkomstig van of afgestemd met
+internationale organisaties. Dat zijn ITU, CEPT en IARU. Meer daarover staat in paragraaf
+18.3.
+In het amateurradioverkeer worden lettercodes gebruikt. Ze staan in de exameneisen en
+omvatten onder meer Q-codes. De andere zijn zogenoemde amateur-afkortingen. De
+tabellen in dit hoofdstuk geven voldoende informatie. Ook internationale noodsignalen
+horen daarbij.
+We behandelen de opbouw van roepletters die elk amateurstation voor identificatie moet
+hebben en wat je daaraan kunt zien (dat is de nationaliteit en soms de soort vergunning of
+registratie).
+Het internationale spellingsalfabet is verplichte kost, want wie iets moet spellen,
+bijvoorbeeld de eigen roepletters, moet dit alfabet gebruiken.
+Ook de ITU-regels in dit hoofdstuk zijn verplichte examenstof. De CEPT-aanbevelingen
+zijn samengevat tot wat van belang is voor de Nederlandse zendamateur.
+Vervolgens komen bepalingen in de Nederlandse Telecommunicatiewet en daaruit
+voortvloeiende zogenoemde besluiten aan de orde. Met cursieve letters zijn daaraan
+opmerkingen en ‘hertalingen’ in meer gebruikelijk Nederlands toegevoegd. De
+zogenoemde EMC-richtlijn wordt kort besproken.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Bij de ‘klassen van uitzending’ wordt de volledige codering behandeld van
+modulatiesoorten die amateurs mogen gebruiken. Die zijn examenstof, maar lang niet alle
+codes worden/werden ook daadwerkelijk gevraagd. Een aantal voorbeelden is uitgewerkt.
+In paragraaf 18.12 (Frequentiebanden, beschikbaar voor de zendamateur) worden alle
+frequentiebanden met het maximaal toegestane zendvermogen in twee tabellen
+weergegeven: één voor N- en één voor F- registratiehouders. De tabellen geven de situatie
+van eind 2024.
+In de daaropvolgende paragrafen gaan we in op zaken, die niet allemaal in geschreven of
+gedrukte vorm zijn vastgelegd, maar dan wel vormen van gewoonterecht zijn. Ook over
+zaken in die sfeer kunnen examenvragen worden gesteld.
+Vervolgens is er een link naar de F- en N- exameneisen en één naar een bestand op de
+cursussite, waarin per exameneis wordt aangegeven, in welk hoofdstuk de bijbehorende
+leerstof wordt behandeld. We sluiten af met een drietal handige weetjes.
+
+18.3 Internationale organisaties en hun namen
+18.3.1 ITU
+Voluit: International Telecommunication Union. De organisatie is gevestigd in Genève. Ze
+heeft 160 aangesloten landen. Ze maakt wereldwijd geldende afspraken over verdeling en
+gebruik van frequentieruimte door radiodiensten, over roepletters per land, klassen van
+uitzending en hun aanduiding, zogenoemde Q-codes (behandelen we verderop) en
+dergelijke. Tot de radiodiensten behoren de Amateurdienst en de Amateursatellietdienst.
+Die omvatten de gezamenlijke radiozendamateurs in de wereld. De afspraken staan in hun
+Radio Regulations. De ITU heeft de wereld ingedeeld in drie regio’s (examenstof!):
+Regio I. Europa, Afrika en een deel van Azië, waaronder landen van de voormalige SovjetUnie
+Regio II. Noord- en Zuid-Amerika
+Regio III. Zuidoost-Azië, Australië, Oceanië inclusief Nieuw-Zeeland.
+Nederland behoort tot Regio I.
+Frequentietoewijzingen gelden in principe wereldwijd, maar tussen de regio’s kunnen
+verschillen voorkomen. De ITU Radio Regulations zijn de basis voor de Nederlandse
+Telecommunicatiewet. Die wet regelt in Nederland de verdeling van frequenties tussen
+verschillende diensten. Gebaseerd op die wet regelt een aantal zogenoemde besluiten de
+verdeling van frequenties onder verschillende diensten en wat daarmee samenhangt.
+Meer info (geen examenstof) op ITU: Committed to connecting the world.
+18.3.2 CEPT
+CEPT (Conférence Européenne des Administrations des Postes et des
+Télécommunications) is een Europese organisatie. Hij bestaat sinds 1959 en is opgericht
+voor coördinatie tussen de afzonderlijke postdiensten en telecommunicatiemaatschappijen
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+en -diensten in Europa. Bedenk bij dit postkarakter dat ook in Nederland vroeger de
+amateurdienst onder het toezicht van het Staatsbedrijf der Posterijen, Telegrafie en
+Telefonie (PTT) viel. Dat viel op zijn beurt onder het ministerie van Verkeer en
+Waterstaat. Zendamateurs hadden te maken met de toenmalige Radiocontroledienst, later
+de HDTP, Hoofddirectie Telecommunicatie en Post. Dat was een technischer
+georiënteerde organisatie dan de huidige Rijksinspectie Digitale Infrastructuur (RDI), tot
+eind 2022 AT (Agentschap Telecom) geheten. De RDI valt onder het ministerie van
+Economische Zaken.
+Zendamateurs hebben via CEPT-aanbevelingen nog steeds met CEPT te maken. Deze
+aanbevelingen omvatten onder meer het tijdelijk gebruik van een amateurstation in het
+buitenland zonder dat daarvoor een vergunning van het betreffende land nodig is.
+Momenteel (2021) zijn 48 landen lid (zie CEPT.ORG - CEPT; geen examenstof).
+18.3.3 IARU
+Voluit: International Amateur Radio Union. Vertegenwoordiger van de radioamateurwereld in de ITU, waar ze bij regionale en wereldwijde radioconferenties de status
+van waarnemer heeft. De meeste landen zijn via een nationale amateurvereniging
+aangesloten bij de IARU. De IARU heeft onder meer bandplannen opgesteld om
+onderlinge storing in het amateurradioverkeer zoveel mogelijk te beperken. Deze
+bandplannen hebben binnen de amateurdienst de status van aanbeveling. Zie ook IARU |
+Global of Nederlandstalig via de link Ham-radio.nl. Ook op deze websites staat geen
+examenstof.
+18.3.4 HAREC
+Voluit: Harmonised Amateur Radio Examination Certificate. Strikt genomen is HAREC
+geen organisatie, maar een examenprogramma voor kandidaat-radiozendamateurs,
+waarvan de leerstof is opgegeven door CEPT. Het examen is in 1991 ingevoerd met het
+doel, de technische examenstof voor vergunning/registratie van zendamateurs in
+verschillende landen gelijk te trekken. De bedoeling daarvan is dat een amateur die in een
+bepaald land zijn/haar certificaat heeft behaald, probleemloos in een ander aangesloten
+land een volwaardige vergunning/registratie kan verkrijgen zonder opnieuw examen te
+hoeven doen. Zie als je wilt ook HAREC - Wikipedia, maar zoek ook daar geen
+examenstof.
+
+18.4 Afkortingen in het radioverkeer
+18.4.1 Algemeen
+De meeste afkortingen komen uit de telegrafie en zijn bedoeld om met weinig tekens
+veelvuldig uitgewisselde informatie over te brengen. We kennen Q-codes en
+amateurafkortingen. Q-codes zijn combinaties van 3 letters die altijd met een Q beginnen.
+De codes QRA t/m QUZ zijn via de ITU internationaal gestandaardiseerd (zie ook: Q-code
+- Wikipedia). Q-codes worden niet alleen in morsetelegrafie, maar ook in digitale
+verbindingen als RTTY, PSK, enz. gebruikt. Ook worden ze als niet-officieel
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+spraakgebruik onder zendamateurs gebezigd. De meest algemene staan in sub-paragraaf
+18.4.2 (Tabel 18.4-1).
+Amateurafkortingen komen uit de wereld van de telegrafieverbindingen. Ze zijn niet
+formeel gestandaardiseerd. Ze hebben hetzelfde doel als Q-codes: vaak gebruikte
+informatie met zo min mogelijk tekens overbrengen. Je komt een deel van deze
+“woordenschat” ook wel tegen in spraakverbindingen.
+18.4.2 Q-codes
+Q-codes met vraagteken zijn een vraag; zonder vraagteken zijn ze een melding, antwoord
+of bevestiging. Tabel 18.4-1 geeft een aantal gebruikelijke Q-codes.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Tabel 18.4-1. ITU-Q-codes die van belang zijn voor radio-zendamateurs.
+
+Code
+QRK
+
+QRM
+QRN
+
+QRO
+QRP
+QRT
+QRV
+QRX
+QRZ
+QSB
+QSL
+QSO
+QSY
+QTH
+
+V(raag)
+Betekenis
+A(ntwoord)
+V
+Wat is de neembaarheid van mijn
+signalen?
+A
+De neembaarheid van uw signalen is
+V
+Wordt u gestoord?
+A
+Ik ondervind storing
+V
+Heeft u last van atmosferische storingen?
+A
+Ik heb last van atmosferische storingen.
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+V
+A
+
+Zal ik mijn zendvermogen verhogen?
+Verhoog uw zendvermogen
+Zal ik mijn zendvermogen verminderen?
+Verminder uw zendvermogen
+Zal ik ophouden?
+Houd op
+Bent u beschikbaar?
+Ik ben beschikbaar
+Op welk tijdstip zult u mij weer roepen?
+Ik zal om ……. uur weer roepen
+Door wie word ik geroepen?
+U wordt geroepen door
+Verandert de sterkte van mijn signaal?
+De sterkte van uw signaal verandert
+Wilt u mij de ontvangst bevestigen?
+Ik bevestig u de ontvangst
+Kunt u rechtstreeks werken met ……..?
+Ik kan rechtstreeks werken met
+Zal ik op een andere frequentie zenden?
+Ga op een andere frequentie zenden
+Wat is uw positie (plaats)?
+Mijn positie is
+
+Ezelsbruggetje
+K van Kwaliteit
+
+M van Man made
+interference (storing)
+N van Natural
+(natuurlijke
+storingen)
+O van ophogen
+P van petty (klein)
+T in sTop
+V uit aVailable,
+beschikbaar
+X is kruisje, tijdstip
+Z van Zijt gij, wie
+ben jij?
+SB, Slenk en Bult
+L van Laat wat horen
+O van Over,
+rechtstreeks met
+Y uit ZwaaY naar
+freq.
+H van Home
+
+In spraakverbindingen krijgen codes soms betekenis in een zin, meestal die van
+zelfstandig naamwoord. Voorbeelden: Ik ontvang je met QRM; Ik werk met QRP (klein
+vermogen); Ik ga QRT (= ik stop er voor nu mee); Henk is vanavond QRV, zei hij; Ik
+ontvang je signaal met QSB; Heb je met dat station een QSO gemaakt? Mijn QTH is ……
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Q-codes in het spraakgebruik hebben geen formele status, maar zijn onder zendamateurs
+vrij algemeen.
+18.4.3 Amateurafkortingen
+Amateurafkortingen hebben onder zendamateurs een functie die vergelijkbaar is met die
+van Q-codes. Het verschil is dat ze niet in internationale verdragen zijn vastgelegd. Ze
+komen grotendeels uit de morse-telegrafie en worden daarnaast ook gebruikt in digitale
+tekstverbindingen als PSK of RTTY. Hun functie is, net als bij Q-codes, dat een station
+snel iets duidelijk kan maken zonder gebruik van veel en/of lange woorden.
+Tabel 18.4-2. Gebruikelijke afkortingen in het amateurverkeer.
+
+Code
+AR*
+BK
+CQ
+CW
+
+Betekenis
+Einde uitzending of bericht (Au revoir, Frans voor: tot ziens)
+Een lopende uitzending onderbreken (break)
+Algemene oproep aan alle stations (klinkt in het Engels als: seek you)
+Ongemoduleerde draaggolf (van: continuous wave) en aanduiding van klasse
+van uitzending A1A (hoofdstuk 18).
+DE
+Van (van het Franse woord de, wat “van” betekent). Scheidt de roepletters
+van het aangeroepen en het aanroepende station. Gebruik als ons lidwoord
+“de” komt nogal eens voor, maar is onjuist.
+K
+Uitnodiging om te zenden (over). Ook te lezen als kom maar
+MSG
+Bericht (afkorting van message, boodschap)
+PSE
+Alstublieft (please)
+RST
+Ontvangstrapport in 3 cijfers voor resp. leesbaarheid (readability),
+signaalsterkte (strength) en toonkwaliteit (tone).
+R
+Ontvangen (received)
+RX
+Ontvanger (receiver)
+SK*
+Einde verbinding/sluiten station (de uitdrukking Silent Key; wordt ook
+gebruikt om het overlijden van een amateur aan te geven)
+TRX
+Zendontvanger (transceiver)
+TX
+Zender (transmitter)
+UR
+Uw/jouw (klinkt als ‘your’)
+*Wordt in morse aaneengesloten geseind
+18.4.4 Internationale noodsignalen
+In de radiotelegrafie is het internationale noodsignaal een aan elkaar geseind SOS:
+…- - -…
+In telefonie is dat het woord “MAYDAY”.
+Het uitzenden of heruitzenden van valse noodsignalen is verboden en strafbaar.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Het kan gebeuren, dat een zendamateur een noodsignaal opvangt. De eerste actie is,
+erachter zien te komen of het signaal beantwoord is/wordt. Stoor in geen geval lopend
+noodverkeer. Informeer indien nodig en zinvol (bij signalen uit het buitenland zal dat
+zelden het geval zijn) de bevoegde instanties (zoals 112) en geef zoveel mogelijk
+opgevangen informatie door.
+
+18.5 Roepletters in Nederland
+18.5.1 Prefixen voor de Amateurdienst
+Aan Europees Nederland is in het internationale radioreglement van de ITU de letterserie
+PAA tot en met PIZ toegewezen voor de identificatie van Nederlandse radiostations, zoals
+voor scheepvaart, luchtvaart en ook radiozendamateurs.
+Voor de Amateurdienst wordt in Europees Nederland als prefix (= eerste deel van de
+roepnaam) de letterserie PA t/m PI gebruikt, gevolgd door een cijfer. De cijfers zijn:
+•
+•
+
+0 t/m 5 en 7 t/m 9 voor individuele radiozendamateurs
+6 voor bijzondere evenementen, conteststations en dergelijke.
+
+Voorbeelden: PA3, PF1, PD0.
+PA t/m PH zijn bestemd voor individuele zendamateurs; PI voor specifieke experimenten
+en voor verenigingen, onderwijsinstellingen en overige instellingen die in het kader van
+de radiowetenschap experimenteren op de amateurbanden. Voor PI heeft het cijfer in de
+prefix een betekenis, voor individuele amateurs niet. Zendamateurs kunnen met of via PIstations verbindingen maken, ongeacht het cijfer in de prefix.
+De Novice-klasse (N-registratie) is herkenbaar aan ”PD” in de prefix.
+Caraïbisch Nederland gebruikt PJ. PZ wordt gebruikt in de voormalige Nederlandse
+kolonie Suriname.
+18.5.2 Suffixen en samenstelling van roepletters
+De prefix wordt gevolgd door een suffix. De suffix bestaat uit één, twee of drie letters.
+Uitgesloten zijn de combinaties SOS en QOA t/m QUZ. De eerste is uitgesloten omdat het
+een noodsignaal is en de tweede set omdat dit Q-codes zijn. Prefix en suffix achter elkaar
+vormen de roepletters van een amateurstation. Onder zendamateurs heet dit de call.
+PE1ABC is een geldige call, maar PE1QRM zul je door de uitsluitingen nooit tegenkomen.
+Geen examenstof, maar misschien voor sommigen interessant, is een overzicht van de
+samenstelling van roepletters en over het aanvragen van bijzondere roepletters. Het
+document is te downloaden van de site van RDI via de link
+https://www.rdi.nl/documenten/richtlijnen/2019/10/01/toewijzen-radio-identificatiesradiozendamateurs .
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.5.3 Buitenlandse radiozendamateurs in Nederland
+Buitenlandse radiozendamateurs van wie de vergunning of registratie valt onder de CEPTaanbeveling T/R 61-01 (dit soort nummers is geen examenstof), maken tijdens hun verblijf
+in Nederland gebruik van hun eigen roepletters, voorafgegaan door “PA/”. Voor
+buitenlandse amateurs van de Novice (N-) klasse geldt ook dat ze gebruik maken van hun
+eigen roepletters, maar die worden voorafgegaan door “PD/”. Zie ook de CEPTaanbevelingen in paragraaf 18.9.
+
+18.6 Het internationale spellingsalfabet
+Sommigen van ons zullen het Nederlandse spellingsalfabet (Anna of Anton, Bernard,
+Cornelis, Dirk, enz.) kennen. Internationaal kom je daar (letterlijk) niet ver mee. Dat geldt
+voor alle nationale spellingsalfabetten. Daarom wordt bij radioverbindingen binnen en
+buiten Nederland gebruik gemaakt van het internationale spellingsalfabet. Dat is
+examenstof en staat hieronder in Tabel 18.6-1.
+Tabel 18.6-1. Internationaal spellingsalfabet. Bij enkele spelwoorden is de uitspraak cursief aangegeven.
+
+Letter
+A
+B
+C
+
+Spelwoord
+Alfa
+Bravo
+Charlie
+
+Letter
+J
+K
+L
+
+Spelwoord
+Juliett (Dzjoeliët)
+Kilo
+Lima
+
+Letter
+S
+T
+U
+
+Spelwoord
+Sierra
+Tango
+Uniform
+(Joeniform)
+Victor
+Whiskey
+X-ray
+Yankee
+Zulu (Zoeloe)
+
+D
+Delta
+M
+Mike (Maik)
+V
+E
+Echo (Ekko)
+N
+November
+W
+F
+Foxtrot
+O
+Oscar
+X
+G
+Golf
+P
+Papa
+Y
+H
+Hotel
+Q
+Quebec
+Z
+I
+India
+R
+Romeo
+Voorbeeld: het woord “Zendamateur” wordt gespeld als Zulu Echo November Delta Alfa
+Mike Alfa Tango Echo Uniform Romeo.
+
+18.7 Nationale en internationale regelgeving voor de amateurdienst en de
+amateursatellietdienst
+18.7.1 Overzicht
+Nederland is lid van de ITU. Tussen de aangesloten landen bestaan afspraken over
+verdeling en gebruik van frequentieruimte. Die afspraken zijn vastgelegd in een
+zogenoemde Conventie. Internationaal is het frequentiegebruik, zoals al gezegd,
+vastgelegd in het Radioreglement, de ITU Radio Regulations.
+In dit reglement staan de bandindeling voor het radiogebruik, de Q-codes en symbolen
+voor de klassen van uitzending. Die laatste bespreken we in paragraaf 18.8.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+In de deelnemende landen is het reglement uitgewerkt in wetten en regels. In Nederland
+zijn dat de Telecommunicatiewet en de bijbehorende regelgeving in het Frequentiebesluit
+en voor onder meer radiozendamateurs in de Regeling gebruik van frequentieruimte met
+meldingsplicht 2015 (https://wetten.overheid.nl/BWBR0036375/2024-01-01). Daarin
+staan onder meer de bepalingen waaraan zendamateurs zich hebben te houden. Leer al die
+zaken niet uit het hoofd. Wat in dit cursushoofdstuk staat, is genoeg.
+Radiozendamateurs kunnen zich bij de RDI registreren als frequentiegebruiker, nadat ze
+hun examen hebben gehaald. Daarvoor is een DigiD nodig. De URL is:
+https://www.rdi.nl/onderwerpen/radiozendamateurs/registreren-als-radiozendamateur.
+Voor de registratie betaal je jaarlijks een bedrag.
+18.7.2 Definitie van de amateurdienst in de ITU regulations
+• De amateurdienst is gedefinieerd in Artikel S1.56. “Amateurdienst: Een radiodienst
+van zelfontwikkeling, onderlinge radiogemeenschap en technische
+onderzoekingen, uitgeoefend door radioamateurs, dat wil zeggen door bevoegde
+personen die zijn geïnteresseerd in de radiotechniek, uitsluitend met een
+persoonlijk oogmerk en zonder geldelijk belang”. Deze lange zin is verplichte
+kennis.
+18.7.3 De status van de amateurdienst en de amateursatellietdienst
+De status van de amateurdienst en de amateursatellietdienst is omschreven in Artikel S25
+Hoofdstuk I (amateurdienst) en Hoofdstuk II (amateursatellietdienst). Hoofdstuk II blijft
+hier onbesproken. Voor zover bekend zijn over de amateursatellietdienst op het
+zendexamen nog nooit vragen gesteld. We bespreken de bepalingen van Hoofdstuk I
+hieronder. Het getal 25 heeft betrekking op het zojuist genoemde artikel S25. Cursief: de
+
+inhoud van het artikel in wat gemakkelijker Nederlands met soms wat aanvullingen.
+25.1: Radiocommunicatie tussen amateurstations van verschillende landen is toegestaan,
+tenzij de administratie van één van de betreffende landen heeft aangegeven,
+bezwaar te hebben tegen dergelijke communicatie.
+
+Je mag met amateurs in andere landen verbindingen maken zolang dat mag volgens
+de wetten van jouw land en volgens die van het andere land.
+25.2: Verbindingen tussen amateurstations van verschillende landen zijn beperkt tot
+communicatie, eigen aan het doel van de amateurdienst zoals omschreven in artikel
+1.56 en opmerkingen van een persoonlijk karakter.
+
+Je mag het in internationale verbindingen over niet meer hebben dan de zend- en
+luisterhobby en dingen van persoonlijke aard.
+25.2A: Verbindingen tussen amateurstations van verschillende landen mogen niet
+gecodeerd zijn met het doel, hun betekenis te verbergen; dit geldt niet voor
+stuursignalen die worden uitgewisseld tussen grond- en ruimtestations in de
+amateur-satellietdienst.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Geheimtaal en versleutelen zijn verboden. Alleen voor besturing van
+amateursatellieten mogen codes worden gebruikt.
+25.3: Amateurstations mogen, uitsluitend in geval van noodtoestanden of hulp tijdens
+rampen, worden gebruikt ten behoeve van internationale communicatie namens
+derden. Een administratie mag uitmaken of de toepassing van deze bepaling geldt
+voor amateurstations onder hun rechtsbevoegdheid.
+
+Onder normale omstandigheden mag een amateurstation niet worden gebruikt voor
+communicatie met of voor derden; lees: niet-amateurstations. Alleen als de overheid
+in het land van het amateurstation dat bij noodtoestanden of rampen toestaat, mag
+het wel.
+25.5: Administraties moeten beslissen of een persoon die een vergunning (in Nederland:
+registratie) wenst om een amateurstation te bedienen, al of niet moet aantonen te
+beschikken over de vaardigheid om teksten te kunnen zenden en ontvangen in
+Morsecode.
+
+In elk land maakt de overheid uit of je voor een zendexamen wel of niet moet
+kunnen omgaan met Morsecode. In Nederland is die eis afgeschaft, maar in sommige
+andere landen niet.
+25.6: Administraties moeten de operationele en de technische bekwaamheid toetsen van
+ieder persoon die een amateurstation wenst te bedienen.
+
+Overheden moeten vaststellen of iemand die zendamateur wil worden, daarvoor
+voldoende kennis heeft van techniek en goed kan omgaan met een zendstation. In
+Nederland gebeurt dat door middel van de examens radiozendamateur.
+25.7: Het maximale vermogen dat amateurstations mogen gebruiken, moet door de
+administratie die het betreft, worden vastgelegd.
+
+Elke overheid moet vastleggen, hoeveel vermogen een amateurstation in haar land
+mag gebruiken. Vreemd genoeg staat hier “gebruiken” en niet “uitzenden”. In
+Nederland ligt dat vast in de al genoemde “Regeling gebruik van frequentieruimte
+met meldingsplicht 2015”.
+25.9: Tijdens uitzendingen moeten amateurstations hun roepletters met korte tussenpozen
+vermelden.
+
+In Nederland zijn de ”korte tussenpozen” 5 minuten. Ook aan het begin en het eind
+van elke uitzending moeten de roepletters worden uitgezonden.
+25.9A: Administraties worden aangemoedigd de noodzakelijke stappen te zetten om
+amateurstations toe te staan, zich voor te bereiden op en te voldoen aan de
+communicatiebehoefte bij de ondersteuning tijdens rampen. Eigenlijk is dit niet
+meer dan een uitbreiding van art. 25.3. In Nederland hebben we daarvoor de
+organisatie DARES. Link: DARES – Dutch Amateur Radio Emergency Service.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+25.9B: Administraties mogen besluiten of zij al dan niet toestemming verlenen aan een
+persoon, aan wie vergunning is verleend door een andere administratie, om een
+amateurstation te bedrijven terwijl die persoon zich tijdelijk op hun grondgebied
+bevindt, dit onder de condities en beperkingen die hieraan gesteld zijn.
+
+Een overheid kan op eigen voorwaarden aan buitenlandse zendamateurs toestaan,
+binnen de eigen landsgrenzen een amateurstation in de lucht te brengen, maar mag
+die toestemming ook weigeren. Verwacht dus niet dat je met je Nederlandse
+registratie overal ter wereld mag zenden. In sub-paragraaf 18.9 (CEPTaanbevelingen) staat hierover wat meer.
+
+18.8 Klassen van uitzending
+18.8.1 Codes
+Voor klassen van uitzending (afgekort: KVU) worden codes van drie tekens gebruikt. Ook
+voor KVU-codes geldt dat ze onderdeel zijn van ITU-regelgeving. De KVU-codes bestaan
+uit een letter, een cijfer en weer een letter, bijvoorbeeld A1A voor CW (morsetelegrafie).
+Internationaal heet een KVU een Class Of Emission, afgekort COE. De voornaamste reden
+van bestaan van deze afkortingen is dat zo in een overzicht van toegelaten
+frequentiebanden kort en bondig kan worden aangegeven, welke modulatiesoorten met
+welke soort inhoud in een frequentieband zijn toegestaan. Klassen van uitzending worden
+op vrijwel elk examen gevraagd, maar zijn tot midden 2020 beperkt gebleven tot een
+tiental: A1A, A3E, F1A, F1B, F1D, F2C, F3E, G3E, J2A en J3E. Bedenk dat ook hier
+resultaten uit het verleden geen garantie bieden voor de toekomst! Bovendien zijn de
+examens sinds midden 2020 geen openbare stukken meer, zodat we over latere jaren
+weinig kunnen melden.
+Zendamateurs spreken meestal van modes in plaats van klassen van uitzending.
+Voorbeelden zijn SSB, FM of RTTY. In officiële documenten heten ze KVU. Verderop
+geven we volledige tabellen, maar eerst bespreken we enkelkanaals- en
+multikanaalsuitzendingen, het begrip hulpdraaggolf en gaan we kort in op de begrippen
+analoog en digitaal.
+18.8.2 Enkel- en multikanaalsuitzendingen
+Een frequentie waarop men elkaar ontmoet, heet ook wel een kanaal. Die benaming
+wordt in hoofdzaak gebruikt voor FM op VHF en UHF, waar de frequenties op afstanden
+van 12,5 kHz (lang geleden 25 kHz) liggen. Het 12,5 kHz-kanalenraster heet dat ook wel.
+Normaal gesproken speelt amateurverkeer zich af op 1 kanaal. Op één frequentie wordt
+dan één informatiestroom tegelijk overgedragen. In de professionele telecommunicatie
+komt het vaak voor dat op één draaggolf veel kanalen tegelijk worden overgedragen. In de
+amateurpraktijk bestaat dat niet of nauwelijks. Er zijn, voor zover ons bekend, nooit
+examenvragen over gesteld.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.8.3 Hulpdraaggolven
+Als we door middel van modulatie die normaal voor spraak wordt gebruikt, een
+morsecursus, RTTY, PSK of een andere vorm van “toontjesmodulatie” willen uitzenden,
+dan moet die modulatie daarvoor geschikt worden gemaakt. Dat gebeurt met een
+zogenoemde hulpdraaggolf. Bij morse ligt het eenvoudig: het geluid uit een morsepieper is
+de hulpdraaggolf. Voor andere modes wordt de hulpdraaggolf opgewekt in een modem
+(afkorting voor modulator-demodulator) of in de geluidskaart van een PC. Zulke
+toonfrequenties hebben een bandbreedte die meestal ruim kleiner is dan die van een
+spraaksignaal. Soms bevatten ze frequenties lager dan de gebruikelijke spraakfrequenties
+van 300-2700 of 300-3000 Hz, waarop een amateurzender is ingesteld. Die lage tonen
+komen dan vaak niet of slecht mee als je er niets aan doet.
+Daarom worden zulke signalen eerst op een laagfrequente hulpdraaggolf gemoduleerd
+waarvan de frequentie ergens midden in de spraakband ligt. Vaak komt dat neer op een
+aanpassing van de signaalfrequentie door een hulpfrequentie. Inderdaad: menging.
+Menging is in feite modulatie. In het Radioreglement heet zo’n laagfrequente draaggolf
+dan ook hulpdraaggolf.
+Een voorbeeld: RTTY-bulletins worden op 2 m vooral door verenigingszenders in FM
+uitgezonden. De enen en nullen van RTTY worden in frequentie gemoduleerd op een
+hulpdraaggolf van gemiddeld 1360 Hz. Bij een logische nul (space) gaat de toon omhoog
+naar 1445 Hz en bij een logische één (mark) gaat de toon naar 1275 Hz. Het verschil van
+170 Hz heet de shift. Dit in toonhoogte op en neer schakelende audiosignaal wordt als
+laagfrequentsignaal aangeboden aan een FM-zender voor spraak. De tonen zijn hoorbaar
+op een gewone FM-ontvanger. De uitgang van de ontvanger geeft het signaal door aan een
+zogenoemde telexconverter (antiek) of de geluidskaart van een computer. Via de software
+worden de toontjes omgezet naar enen en nullen en wordt de tekst op het scherm of de
+printer zichtbaar gemaakt. RTTY met hulpdraaggolf staat bekend als Audio Frequency
+Shift Keying (AFSK). Zo zijn er meer voorbeelden van gebruik van hulpdraaggolven.
+18.8.4 Analoog en digitaal
+Spraak is analoge informatie. Als er vóór het modulatieproces niet wordt gedigitaliseerd,
+blijft een analoog signaal analoog. Dan is het zaak, te zorgen voor zo min mogelijk
+vervorming. Als het microfoonsignaal wordt gedigitaliseerd, leidt dat tot een digitaal
+signaal, ook al was het oorspronkelijke signaal analoog. Zo kan ook video analoog worden
+overgedragen, zolang het camerasignaal maar niet wordt gedigitaliseerd. Kortom, krijgt
+het modulatiesysteem een analoog signaal aangeboden, dan is de overdracht analoog; is
+het aangeboden signaal digitaal, dan is de overdracht ook digitaal, zelfs al is het signaal
+zijn bestaan in analoge vorm begonnen.
+Analoge signalen zijn gevoelig voor ruis en vervorming. Digitale signalen veel minder.
+Zolang een “1” maar niet voor een “0” wordt aangezien of omgekeerd, is er niets aan de
+hand.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Morseschrift is een verhaal apart. Omdat de draaggolf er wel of niet is, is dat vergelijkbaar
+met “1” of “0”. Maar je kunt ook volhouden dat het niet digitaal is, omdat de lengte van
+punten en strepen niet dezelfde is. Maar dat is de spanning die een “1” of een “0” voorstelt,
+ook niet, is dan het tegenargument. De modulatie wordt standaard omschreven als “nietanaloog”. Niet wat het wel is, maar wel wat het niet is.
+18.8.5 De klassen van uitzending: opbouw van de codes
+Alle codes bestaan uit achtereenvolgens een letter, een cijfer, en weer een letter. Het al
+eerder genoemde A1A (morsetelegrafie zonder hulpdraaggolf) is daar een voorbeeld van.
+A1A staat voor een vorm van amplitudemodulatie (de eerste A), modulatie met
+onderbroken draaggolf (de 1) en voor morsetelegrafie om op het gehoor te worden
+opgenomen (de laatste A}.
+In de nu volgende tabellen (Tabel 18.8-1, Tabel 18.8-2 en Tabel 18.8-3 worden
+achtereenvolgens de betekenis van de eerste letter, het cijfer en de tweede letter
+behandeld. We beperken ons tot de codes die voor ons zendamateurs van belang zijn.
+Meer wordt op het zendexamen ook niet gevraagd.
+De betekenis van de eerste letter volgt nu in Tabel 18.8-1.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Tabel 18.8-1. Betekenis van het eerste symbool in de code voor klasse van uitzending (KVU).
+
+Symbool
+Betekenis
+N
+Ongemoduleerde draaggolf
+A
+Amplitudemodulatie, inclusief CW, al dan niet ‘verpakt’ in een
+hulpdraaggolf.
+Enkelzijband met volledige draaggolf. Je kunt het ook AM met één
+H
+onderdrukte zijband noemen. Het heet ook wel AME, AM-Equivalent. De
+modulatie is zonder BFO te detecteren, omdat de meegezonden draaggolf de
+functie van het BFO-signaal vervult. Komt onder amateurs weinig voor.
+.J
+Enkelzijband met onderdrukte draaggolf. Dit is de “normale” amateur-EZB
+(SSB)
+Enkelzijband met gedeeltelijk onderdrukte draaggolf of draaggolf met
+variabel niveau. Dit heet ook wel EZB met restdraaggolf of piloottoon.
+R
+Ontvangers met synchrone detectie gebruiken de restdraaggolf om exact op
+frequentie te staan. Daardoor klinkt spraak natuurlijker dan bij handmatige
+afstemming met een BFO. De restdraaggolf bevat meestal 10% van het PEPvermogen. De mode wordt (vrijwel) niet door amateurs gebruikt, maar wel
+professioneel.
+Restzijbandmodulatie. Wordt toegepast in analoge TV. Analoge TV op het
+kabelnet is AM met modulerende frequenties (video) tot bijna 5 MHz. Zou je
+dat volledig moduleren, dan wordt de bandbreedte 10 MHz. Dan moet het
+geluid er nog bij. De hoge zijband wordt volledig uitgezonden. Van de lage
+C
+zijband worden de hoogste videofrequenties onderdrukt. Wat overblijft heet
+restzijband. Er blijft dan een ongeveer 6 of 7 MHZ breed signaal over. Voor
+analoge amateur-TV op 70 cm is deze modulatiesoort de enige manier om
+binnen de voor ATV gereserveerde bandbreedte te blijven. Deze
+modulatievorm wordt steeds minder gebruikt door de overgang op digitale
+amateurtelevisie (DATV).
+F
+Frequentiemodulatie (FM). Wordt veel gebruikt voor spraak, packet,
+facsimile (fax), RTTY en ook televisie. Die laatste komt wegens de benodigde
+bandbreedte alleen voor op 23 cm, 13 cm en 3 cm. Fase- en
+frequentiemodulatie lijken zo sterk op elkaar, dat het symbool F ook wordt
+gebruikt als niet duidelijk is of het om FM of PM gaat.
+G
+Fasemodulatie (PM). Lijkt op FM. Wordt gebruikt voor spraak en data. Als
+niet bekend is of FM of PM wordt toegepast, dan wordt symbool F gebruikt.
+Het tweede symbool, een cijfer, staat voor het type signaal dat de draaggolf moduleert. De
+symbolen staan hieronder in Tabel 18.8-2.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Tabel 18.8-2. Betekenis van het tweede symbool in de klasse van uitzending (KVU).
+
+Symbool
+Betekenis
+0
+Geen modulatie. Een kale draaggolf dus.
+1
+Een enkel kanaal met niet-analoge informatie, waarbij geen gebruik wordt
+gemaakt van een modulerende hulpdraaggolf. De informatie kan morsecode
+zijn of een stroom bits (0 of 1) uit een telex, PC of gedigitaliseerde spraak. De
+bits gaan rechtstreeks naar de modulator van de zender, zonder tussenkomst
+van een modem.
+A1 komt er bij AM op neer dat een “1” de draaggolf inschakelt en een “0” de
+draaggolf uitschakelt. CW dus.
+Bij F1 hoort bij een “1” een andere draaggolffrequentie dan bij een “0”. Op
+deze manier uitgezonden tekst, bijvoorbeeld een RTTY-signaal, heet FSK,
+Frequency Shift Keying. Een FM-detector maakt er spanningspulsjes van;
+een EZB-ontvanger toontjes die bijvoorbeeld via de geluidskaart van een
+computer worden omgezet in bits.
+Ook morsecode kan worden uitgezonden in F1. De meeste bakenzenders in
+amateurbanden werken zo.
+2
+Een enkel kanaal met niet-analoge informatie, waarbij gebruik wordt
+gemaakt van een modulerende hulpdraaggolf. De informatie kan morsecode
+zijn of een stroom bits (0 of 1) uit een telexapparaat of computer. De bits
+worden in een modem gemoduleerd op de hulpdraaggolf. De gemoduleerde
+hulpdraaggolf is voor de zender het modulerende signaal. Let op: de eerste
+letter van de KVU wordt bepaald door de soort modulatie van de zender; niet
+die van de modem.
+Wordt een met de seinsleutel aan- en uitgesleutelde 1000 Hz hulpdraaggolf
+op een FM-zender gemoduleerd, dan wordt de KVU F2A (die A komt in
+Tabel 18.8-3 aan de orde). Wordt een in FSK gemoduleerde hulpdraaggolf
+van een telex op een EZB-zender gemoduleerd, dan wordt de KVU J2B (ook
+de B komt in Tabel 18.8-3 aan de orde).
+3
+Een enkel kanaal met analoge informatie. Die informatie kan spraak, fax
+SSTV (Slow Scan TV met stilstaande beelden, bv. weerkaarten), analoge
+telemetrie (analoge signalen van meetinstrumenten) of video zijn.
+Het derde symbool is weer een letter. Die staat voor de soort informatie die wordt
+uitgezonden. Tabel 18.8-3 geeft de zeven letters die voor zendamateurs van belang zijn,
+inclusief hun betekenis.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Tabel 18.8-3. Betekenis van het derde symbool in de klasse van uitzending (KVU).
+
+Symbool
+Betekenis
+N
+Geen informatie. Het kan om een kale draaggolf gaan, maar ook om een
+constante toon, zoals een vossenjachtzendertje dat een constante pieptoon
+uitzendt.
+A
+Morsetelegrafie, bestemd om op het gehoor te worden opgenomen. Of de
+morsetekens met de hand zijn gesleuteld of uit een PC komen, maakt niets
+uit, zolang het signaal maar op het gehoor kan worden opgenomen.
+B
+Telegrafie bestemd voor automatische ontvangst. Het meest bekende
+voorbeeld is de “automatische verreschrijver” of telex, onder amateurs
+bekend als RTTY, wat staat voor Radio TeleTYpe. Het gaat om modes
+waarbij de ontvangen tekst direct wordt geprint of op beeldscherm
+verschijnt. Een mode als PSK-31 moet dan ook worden aangeduid met een B
+en niet met een D, zoals je ook wel tegenkomt.
+C
+Facsimile (fax), het overbrengen van stilstaand beeldmateriaal. Het gaat om
+analoge faxmachines waarbij de signalen van de scanner (fotocel of
+fototransistor) worden uitgezonden als een in toonhoogte variërend signaal.
+Hieronder valt ook SSTV (Slow-scan TV, stilstaande beelden).
+D
+Datatransmissie. Voorbeeld: het overzenden van een computerbestand of een
+digitale foto. Ook packetradio wordt vaak met een D aangegeven, omdat in
+packetcommunicatie ook veel niet-rechtstreeks printbare tekens voorkomen
+zoals checksums, ACK (bevestiging) en dergelijke.
+E
+Telefonie. Uitzending van gesproken woord.
+F
+Televisie. Uitzending van bewegende beelden.
+De symbolen samengevat:
+1. Eerste letter: modulatievorm
+2. Cijfer in het midden: type van het modulerend signaal
+3. Laatste letter: soort informatie die wordt uitgezonden.
+18.8.6 Voorbeelden
+A1A Gewone CW (aan/uit gesleutelde draaggolf met morse)
+F1A
+
+CW door FSK op de draaggolf (veel in gebruik bij propagatiebakens; dat zijn bakens
+waarvan ontvangst van hun signaal aangeeft dat de plek waar ze staan, op de
+betreffende frequentie te bereiken is)
+
+F2A
+
+Morse-uitzending in FM met een hulpdraaggolf, in feite een toon. Je hoort ze
+bijvoorbeeld bij morsecursussen zoals die op 2 m soms te horen zijn.
+
+J2A
+
+Morse-uitzending in SSB (EZB) met een toon (dus een hulpdraaggolf). Bij
+morsecursussen hoort vaak gesproken tekst. Die wordt dan na afloop van de
+Morse-uitzending voorgelezen. Als de ontvanger in SSB zo is afgestemd dat de
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+spraak natuurlijk klinkt, hoeft aan de afstemming niets te veranderen als van
+spraak wordt overgegaan op Morse.
+F1B
+
+RTTY-uitzending door middel van rechtstreekse FSK van de draaggolf. Amateurs
+deden dat vroeger door met het contact van de telexmachine een snel relais te
+sturen dat een condensatortje parallel aan de VFO-kring schakelde bij een “mark”
+(logische 1). Zo is de wereldwijde afspraak ontstaan dat een “mark” een
+frequentieverschuiving omlaag moet zijn.
+
+F2B
+
+RTTY-uitzending via een modem of PC met geluidskaart (AFSK) in FM. De mode
+wordt onder meer gebruikt voor RTTY-bulletins van verenigingszenders op 2 m.
+
+F2C
+
+Fax- of SSTV-uitzending in FM.
+
+J2B
+
+RTTY-uitzending via een modem of PC met geluidskaart (AFSK) in SSB (de
+gebruikelijke manier op HF). Op een SSB-ontvanger merk je in principe geen
+verschil tussen F1B en F2B, behalve dat de aangegeven frequenties iets verschillen.
+Ook de mode PSK is met J2B aan te duiden.
+
+J2C
+
+Fax- of SSTV-uitzending in SSB
+
+F1D
+
+Data-uitzending in FM zonder gebruik van een modem. De bits veroorzaken dus
+rechtstreeks een frequentieverschuiving. In gebruik voor snelheden hoger dan
+1200 Baud.
+
+F2D
+
+Data-uitzending in FM met gebruik van een hulpdraaggolf uit een modem of PCgeluidskaart. De bits worden in de modem eerst in toontjes omgezet en dat signaal
+wordt in FM uitgezonden. Hieronder valt bijvoorbeeld 1200 Baud packet radio.
+
+G1D
+
+Data-uitzending in PM zonder gebruik van een hulpdraaggolf. Deze KVU wordt
+gebruikt voor een zeer snelle data-overdracht met bijvoorbeeld de modulatiewijze
+QPSK voor DATV (Digitale Amateur TV).
+
+J2D
+
+Data-uitzending in SSB met gebruik van modem of PC-geluidskaart.
+
+A3E
+
+Telefonie (spraak) in AM.
+
+F3E
+
+Telefonie in FM.
+
+J3E
+
+Telefonie in EZB (SSB). Welke zijband, bovenste of onderste, doet er niet toe.
+
+G3E
+
+Telefonie in PM. Veel oude voor amateurgebruik omgebouwde mobilofoons
+werken met PM.
+
+H3E
+
+Telefonie in SSB met volledige draaggolf, bijvoorbeeld om zich met SSB in een
+AM-net te kunnen inmelden of om op 2 m een bericht te kunnen uitzenden voor
+vossenjagers met AM-peilontvangers.
+
+C3F
+
+Televisie in restzijbandmodulatie (soms gebruikt op 70 cm)
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-21
+
+VRZA-cursus radiozendamateur
+
+F3F
+
+Hoofdstuk 18 volledig 20250330
+
+Televisie in FM (gebruikelijk op 23 cm, 13 cm en 3 cm)
+
+18.9 CEPT-aanbevelingen
+Wat CEPT is en doet, staat in sub-paragraaf 18.3.2. Er zijn drie aanbevelingen die
+betrekking hebben op de Amateurdienst. Downloaden kan via de links, maar eigenlijk
+staat alle voor ons amateurs zinvolle informatie onder de punten 1-3 hieronder.
+1. T/R 61-01 gaat over gebruik van je registratie in het buitenland. Wil je daarvan
+gebruik maken: neem je registratiebewijs mee naar het buitenland. Neem naast je
+registratiebewijs ook de brief mee die je na registratie van RDI ontvangt, de
+zogenoemde Radio Amateur Station Licence. Die bewijst aan buitenlandse
+instanties dat je een geregistreerde F-amateur bent. Er kan gecontroleerd worden!
+Zie ook: https://docdb.cept.org/document/925
+2. T/R 61-02 gaat over HAREC-afspraken over internationale harmonisatie van
+zendexamens voor de F-registratie (zie subparagraaf 18.3.4 en de link HAREC Wikipedia).
+Zie als je wilt ook https://docdb.cept.org/document/926
+3. De ECC-REC(05)06. Die gaat over
+a. De wederzijdse erkenning tussen landen van de N-exameneisen, waardoor
+je met het door de RDI uitgegeven N-certificaat in een aantal landen een
+permanente N-vergunning of gelijkwaardig kunt aanvragen en
+b. Het toestaan van tijdelijk gebruik van zendapparatuur door N-amateurs in
+het buitenland. Deze aanbeveling is in een beperkt aantal landen ingevoerd.
+Downloaden kan via https://docdb.cept.org/document/1024
+Wie wil weten in welke landen deze aanbeveling is overgenomen, vindt ze in
+groen op de kaart via de link https://docdb.cept.org/implementation/1024/map. Die
+kaart valt niet onder de exameneisen, maar kan handig zijn als je als N-amateur in
+het buitenland je zender wilt gebruiken en wilt weten of dit in het land van
+bestemming mag.
+Administraties (overheden) kunnen CEPT-aanbevelingen in hun nationale wetgeving
+verankeren. Ook niet-CEPT-landen kunnen eraan meedoen. De gebruiksbepalingen,
+verbonden aan de aanbevelingen T/R 61-01 zijn:
+1. Tijdelijk gebruik van amateurstations in CEPT-landen (maximaal 3 maanden) is
+toegestaan
+2. De houder moet zijn CEPT Radio Amateur License bij zich hebben en op verzoek
+van autoriteiten tonen
+3. De bevoegdheden zijn beperkt tot de bevoegdheden in het land waar de
+vergunning is afgegeven en de beperkingen van het gastland. ( Dus een optelsom
+van de beperkingen thuis en die in het gastland)
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+1. Identificatie van het amateurstation in het gastland (vindt plaats) door het
+uitzenden van de eigen roepletters, voorafgegaan door de landencode van het
+gastland en een “/” (breukstreep, bij telefonie heet dat stroke, spreek uit als strook).
+Voorbeeld: in Duitsland begin je met DO/, daarna de eigen roepletters.
+De regels hierboven gelden ook voor N-amateurs bij tijdelijk gebruik van hun zender in
+landen waar ECC-REC(05)06 (https://docdb.cept.org/document/1024) geldt.
+
+18.10 De Telecommunicatiewet en daarop gebaseerde regelingen
+18.10.1 De Telecommunicatiewet
+De Telecommunicatiewet zelf bevat enkele bepalingen die van belang zijn voor
+radiozendamateurs. Ze volgen hieronder. Maar eerst enkele regelingen die zijn gebaseerd
+op de Telecommunicatiewet of daaronder later zijn ondergebracht. Het Frequentiebesluit
+2013 is gebaseerd op de Telecommunicatiewet. In het Frequentiebesluit heeft een aantal
+artikelen betrekking op radiozendamateurs en er wordt naar de Regeling gebruik van
+frequentieruimte met meldingsplicht 2015 verwezen. De Examenregeling
+Frequentiegebruik 2008 is later onder het Frequentiebesluit geschoven. Nu eerst de voor
+ons zendamateurs belangrijke artikelen in de wet zelf. Artikelnummers onthouden is in
+alle gevallen overbodig; het gaat om de inhoud.
+HOOFDSTUK 1: Algemene bepalingen:
+Artikel 1.1.
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+•
+•
+
+Onze Minister: Onze Minister van Economische Zaken;
+Radioapparaten: een elektrisch of elektronisch product dat:
+- Doelbewust radiogolven uitzendt of ontvangt ten behoeve van
+radiocommunicatie of radiodeterminatie1
+- Moet worden aangevuld met een accessoire2 om doelbewust radiogolven te
+kunnen uitzenden en ontvangen ten behoeve van radiocommunicatie of
+radiodeterminatie.
+
+Hoofdstuk 15 van de Telecommunicatiewet gaat over handhaving. De voor zendamateurs
+belangrijke bepaling volgt hieronder.
+HOOFDSTUK 15: Handhaving
+§15.1 Algemeen
+Artikel 15.3
+Indien niet wordt voldaan aan de bij of krachtens deze wet gestelde regels ten aanzien van
+1
+
+“Radiodeterminatie” heeft betrekking op apparatuur waarmee door het uitzenden van radiogolven een
+positie bepaald wordt, zoals radar.
+2 Accessoires kunnen bijvoorbeeld een antenne, microfoon of voeding zijn. De bedoeling is dat bijvoorbeeld
+een kale transceiver zonder antenne, microfoon, voeding of nog wat anders nog steeds juridisch een
+radioapparaat is.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+de aanleg, het aanwezig hebben of het gebruik van radiozendapparaten, is onze minister
+bevoegd om aan de houder van een desbetreffend radiozendapparaat een geheel of
+gedeeltelijk zendverbod op te leggen. Wie zich niet aan de regels houdt, riskeert een
+
+zendverbod. Dat verbod kan volledig zijn of gedeeltelijk. “Gedeeltelijk” kan van alles zijn
+zolang het geen volledig zendverbod is.
+In meerkeuze-antwoorden bij examenvragen wordt in dit verband wel eens gesproken
+over inbeslagname van zendspullen. Zo’n antwoord is altijd fout, want in de wet wordt
+inbeslagname niet genoemd.
+18.10.2 De Examenregeling Frequentiegebruik 2008
+De regeling beschrijft de inhoud van examens radiozendamateur, zowel N als F. Hoe ze
+worden afgenomen en bij welke examenscore iemand is geslaagd, is gebaseerd op deze
+regeling. De exameneisen vind je op de site van SRE (Stichting Radio Examens) via de
+link: https://www.radio-examen.nl/exameneisen. Via het CBR, de instantie die sinds
+midden 2023 de examens afneemt, kan het ook.
+Voor F is dat:
+https://www.cbr.nl/nl/service/nl/breed/exameneisen-radiozendamateurs-full.
+En voor N:
+https://www.cbr.nl/nl/service/nl/breed/exameneisen-radiozendamateur-novice.
+18.10.3 Het Frequentiebesluit 2013
+Het Frequentiebesluit 2013 volgt uit de Telecommunicatiewet. Hoofdstuk 2, paragraaf 2.2
+van het Frequentiebesluit is op zijn beurt de basis van de Regeling gebruik van
+Frequentieruimte met meldingsplicht 2015. Daarin staat een aantal bepalingen die van
+belang zijn voor radiozendamateurs en dus examenstof zijn. Hoofdstuk 4 regelt het
+antenneregister. Ook daaraan zijn zendamateurs gebonden als ze een vast opgestelde
+antenne hebben. We behandelen beide, maar eerst het voor zendamateurs belangrijke
+artikel 5 uit het frequentiebesluit. Rechtop geprint: letterlijke tekst uit het
+Frequentiebesluit. Cursief: korte uitleg en/of commentaar.
+Punten tussen haakjes, (……) betekenen dat er op die plek een stukje van de
+oorspronkelijke zin is weggelaten. Dat stukje is dan niet van belang voor zendamateurs.
+Art. 5, lid 1. Degene die voornemens is frequentieruimte waarvoor geen vergunning is
+vereist te gebruiken (………) doet hiervan melding aan Onze Minister. Dit gaat over
+
+frequentiegebruik met meldingsplicht. Geldt voor alle amateurbanden. Je hoeft geen brief
+te schrijven aan de minister. Gebruik de daarvoor bestemde link bij RDI. Je hebt wel een
+DigiD nodig. De link is: https://www.rdi.nl/onderwerpen/radiozendamateurs/registrerenals-radiozendamateur. Staat ook in sub-paragraaf 18.16.2.
+Art. 5, lid 2. Onze Minister registreert het in de melding bedoelde frequentiegebruik,
+tenzij niet wordt voldaan aan bij ministeriële regeling te stellen regels. Wie zich aanmeldt
+
+voor een registratie moet geslaagd zijn voor het zendexamen.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Art. 5, lid 3. De frequentieruimte voor het gebruik waarvan geen vergunning is vereist,
+wordt slechts gebruikt indien het gebruik is geregistreerd overeenkomstig het tweede lid.
+
+Je mag pas op amateurfrequenties uitkomen als je je registratiebewijs hebt.
+Art. 5, lid 4. Met het oog op de identificatie van het radioapparaat kent Onze Minister bij
+ministeriële regeling te bepalen gevallen aan degene die de melding heeft gedaan een
+combinatie van letters of cijfers toe. Je krijgt bij je registratiebewijs roepletters (een call)
+
+waarmee je je station identificeert. Dat zijn de roepletters, waarover paragraaf 18.5 van dit
+hoofdstuk gaat.
+Art. 5, lid 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de
+melding, de registratie en de toekenning van de combinatie van letters of cijfers. De
+
+minister mag regels vaststellen voor je aanmelding, registratie en toekenning van je call.
+Die kom je vanzelf tegen als je de link volgt in het cursieve stukje onder lid 1 hierboven.
+18.10.4 De Regeling gebruik van frequentieruimte met meldingsplicht 2015
+Zendamateurs vallen tegenwoordig onder de Regeling gebruik frequentieruimte met
+meldingsplicht 2015. We bespreken de (delen van) artikelen die op zendamateurs
+betrekking hebben. Tekst rechtop is direct geciteerd uit de regeling. Tekst cursief geeft
+commentaar of weergave in meer gangbare taal aan. Punten tussen haakjes (……) geven
+aan dat er op die plek een stukje van de oorspronkelijke tekst is weggelaten.
+Artikel 4, lid 2. De radiozendamateur die een radioapparaat bedient, heeft met goed
+gevolg een examen als bedoeld in artikel 7 van de Examenregeling frequentiegebruik 2008
+afgelegd, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het
+bepaalde in bijlage 1.
+
+Als je een amateurzender wilt bedienen, moet je met goed gevolg examen hebben gedaan.
+Eigenlijk geeft artikel 5 van het frequentiebesluit (sub-paragraaf 18.10.3) dat ook aan. De
+in Artikel 4 lid 2 genoemde bijlage 1 bevat de frequentietabellen voor de registraties F en
+N. Die twee omvatten samen zoveel tekstruimte, dat we ze in een eigen paragraaf, 18.12,
+hebben gezet. Daarbij zit ook een tekst met de titel “Rangen en standen” (subparagraaf
+18.12.1) over de drie mogelijke statussen van verschillende soorten frequentiegebruikers
+en de daaruit volgende regels.
+Artikel 6, lid 1: De Minister registreert het voorgenomen frequentiegebruik
+overeenkomstig de melding, tenzij niet wordt voldaan aan de artikelen 2 tot en met 5 en
+7, en bericht hierover degene die de melding heeft gedaan, onder verstrekking van een
+bewijs van registratie aan degene wiens melding is geregistreerd. Een registratie kan door
+de Minister worden geweigerd voor zover een eerdere registratie is doorgehaald wegens
+overtreding van bij of krachtens de wet gestelde regels.
+
+Dat betekent onder meer dat de minister iemand pas registreert als zendamateur als
+diegene voor het examen is geslaagd en niet wegens fout gedrag de registratie is
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+kwijtgeraakt. Na registratie ontvangt degene die zich heeft aangemeld een
+registratiebewijs.
+Artikel 6, lid 3: Voor zover vereist op grond van het Radioreglement wordt bij de
+registratie een combinatie van letters of cijfers toegekend met het oog op de identificatie
+van het radiostation.
+
+Wie zich laat registreren als zendamateur krijgt bij de registratie roepletters toegewezen
+(zie paragraaf 18.5). Eigenlijk is dit een herhaling van artikel 5, lid 4 van het
+Frequentiebesluit (sub-paragraaf 18.10.3) Onder amateurs heet de “combinatie van letters
+en cijfers” een “call”. Met de call identificeert een station zich.
+Artikel 6, lid 4: Degene die op grond van de melding als frequentiegebruiker geregistreerd
+is, draagt ervoor zorg dat, indien het geregistreerde radioapparaat door een ander wordt
+bediend, daarbij de in deze regeling bepaalde voorschriften worden nageleefd.
+
+Iets breder geformuleerd: als een ander je zender gebruikt, blijf je zelf verantwoordelijk
+voor wat die ander ermee doet.
+Artikel 7, punt a: Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen
+en voorschriften ten aanzien van de beschikbare frequentieruimte, de toepassingen, het
+zendvermogen en de bekwaamheid die ten aanzien van frequentieruimte met de
+bestemming ‘amateur´ of ‘amateursatelliet´ zijn opgenomen in bijlage 1;
+
+De bijlage 1 aan het eind van de vorige zin is dezelfde als die, genoemd onder artikel 4, lid
+2. Daarin staan de tabellen met aan zendamateurs toegewezen frequenties voor resp. N- en
+F-geregistreerden. Ze staan in deze cursustekst in respectievelijk de sub-paragrafen
+18.12.2 en 0.
+Punt b van artikel 7 heeft geen betrekking op zendamateurs.
+Artikel 8: Bij gebruik van frequentieruimte als bedoeld in artikel 7 wordt voorts voldaan
+aan de volgende voorschriften:
+a. Het bewijs van registratie en (…...) zijn aanwezig bij het radioapparaat;
+
+Het registratiebewijs moet bij de zender liggen.
+b. Bij frequentiegebruik met een secundaire status wordt te allen tijde voorrang
+verleend aan frequentiegebruik met een primaire status
+
+Als je op een frequentie werkt, waarop je als amateur een secundaire status hebt,
+moet je altijd voorrang geven aan diensten met een primaire status (dat komt aan
+de orde in sub-paragraaf 18.12.1).
+c. Er worden geen ontoelaatbare storingen of belemmeringen veroorzaakt in andere
+uitrusting of radioapparaten en in het frequentiegebruik door anderen.
+
+Er wordt niet “ontoelaatbaar” gestoord. Dat betekent dat er ook “toelaatbare”
+storing moet zijn. Die is er ook, maar de vraag of iets wel of niet toelaatbaar is, kan
+tot juridisch gedoe leiden. Vermijd storing van anderen het als het even kan.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+d. Er worden geen valse of bedrieglijke alarmeringen, noodseinen, noodoproepen of
+noodberichten uitgezonden.
+
+Over de strafbaarheid van het uitzenden van valse noodsignalen hebben we het al
+gehad in sub-paragraaf 18.4.4.
+Tenslotte Artikel 10. Ook daarin staat een aantal zaken, waaraan een zendamateur zich
+heeft te houden. We bespreken ze hieronder.
+a. Artikel 10, lid 1, punt a. De radiozendamateur bedient het radioapparaat zelf en,
+indien hij niet aanwezig is, draagt er zorg voor dat alleen hij zijn radioapparaat op
+afstand kan bedienen.
+
+De zendamateur moet zelf zijn apparatuur bedienen. Bij afwezigheid mag hij/zij de
+spullen op afstand bedienen, maar blijft verantwoordelijk dat dit niet door een
+ander gebeurt.
+b. Artikel 10, lid 1, punt b. Het uitzenden van media-aanbod of
+reclameboodschappen als bedoeld in artikel 1.1 van de Mediawet 2008 is niet
+toegestaan.
+
+Geen omroepprogramma’s of reclame op amateurzenders.
+c. Artikel 10, lid 1, punt c. De in artikel 6, derde lid, bedoelde combinatie van letters
+of cijfers wordt ten minste bij het begin en bij het einde van elke uitzending en ten
+minste eenmaal per periode van vijf minuten uitgezonden, waarbij een reeks
+kortdurende uitzendingen wordt aangemerkt als één uitzending.
+
+Normaal begin je en eindig je een blok tekst (uitzending) met je roepletters (call).
+Duurt het blok langer dan vijf minuten, dan herhaal je je roepletters (call) elke vijf
+minuten. Alleen als je een serie heel korte tekstblokjes uitzendt, denk aan een of
+enkele zinnen per blokje, dan mag je zo’n serie blokjes als één blok zien.
+d. Artikel 10, lid 1, punt d. De combinatie van letters of cijfers is bij data- en
+beeldoverdracht aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar.
+
+Als je data of beelden uitzendt, moet je call bij ontvangst duidelijk te lezen zijn.
+e. Artikel 10, lid 1, punt e. Bij automatische telegrafie en bij data- of beeldoverdracht
+waarbij toepassing van onderdeel d stuit op technische belemmeringen wordt de
+combinatie van letters of cijfers kenbaar gemaakt door middel van spraak of
+morsetelegrafie.
+
+Krijg je je call aan de ontvangstzijde niet leesbaar in beeld om te voldoen aan punt
+d, dan mag je die ook uitzenden als gesproken tekst of in CW (morse-telegrafie).
+f. Artikel 10, lid 1, punt f. Informatie wordt niet versleuteld verzonden.
+Wisten we al van sub-paragraaf 18.7.3 (de ITU-regels, punt 25.2A).
+g. Artikel 10, lid 1, punt g. Radioverbindingen worden alleen tot stand gebracht met
+andere gebruikers van frequentieruimte met de bestemming ‘amateur´ of
+‘amateursatelliet´.
+
+Je mag als zendamateur alleen verbindingen maken met medegebruikers van
+amateurfrequenties.
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+h. Artikel 10, lid 1, punt h. Bij het spellen van de combinatie van letters of cijfers
+wordt gebruik gemaakt van het in bijlage 3 opgenomen spellingsalfabet.
+Dit in “bijlage 3 opgenomen spellingsalfabet” staat als Tabel 18.6-1 paragraaf 18.6.
+
+Je geeft je roepletters (call) gespeld volgens het internationale spelalfabet (Tabel
+18.6-1).
+In lid 2 van dit artikel worden groepsactiviteiten geregeld. Denk aan activiteiten van
+amateurverenigingen. Ook Radio Scouting Nederland wordt daarin genoemd. Er mag dan
+soms wat meer dan wat individuele zendamateurs mogen. Voorbeeld: bij door
+amateurverenigingen georganiseerde vossenjachten mogen zenders onbeheerd worden
+achtergelaten.
+18.10.5 Het antenneregister
+Het antenneregister is geregeld in hoofdstuk 4 van het Frequentiebesluit. De zendamateur
+komt daarin ter sprake in Artikel 23. Dat artikel bepaalt in lid 1, sub c dat een vast
+opgestelde antenne van een zendamateur in het antenneregister moet worden
+opgenomen. Zie ook sub-paragraaf 18.16.3 van deze hoofdstuktekst.
+In Artikel 24 staan de gegevens die voor het antenneregister moeten worden aangeleverd.
+Het gaat vooral om de toepassing (zendamateur), de hoogte, coördinaten in graden,
+minuten en seconden. Die coördinaten zijn met een smartphone met GPS-applicatie of
+een hand-GPS gemakkelijk te vinden. Voor de rest wijst het zich over het algemeen
+vanzelf. URL (inloggen met DigiD: https://www.rijksoverheid.nl/wetten-enregelingen/productbeschrijvingen/registreren-antenne-installatie-doorradiozendamateur).
+Dit laatste is weliswaar geen examenstof, maar handig om na het halen van het examen bij
+de hand te hebben.
+
+18.11 Europese regelgeving: de EMC-richtlijn 2014/30/EG
+EMC is de afkorting voor elektromagnetische compatibiliteit. Artikel 3, eerste lid, onder
+4, geeft de definitie van elektromagnetische compatibiliteit: het vermogen van uitrusting
+om op bevredigende wijze in haar elektromagnetische omgeving te functioneren zonder
+zelf elektromagnetische verstoringen te veroorzaken die ontoelaatbaar zijn voor andere
+uitrusting in die omgeving. Een beetje uit de losse pols vertaald: De mate waarin
+
+elektrische apparaten goed blijven werken in een elektromagnetisch veld, afkomstig van
+een ander apparaat.
+In Nederland verwijst het Besluit Elektromagnetische Compatibiliteit 2016 (wetten.nl Regeling - Besluit elektromagnetische compatibiliteit 2016 - BWBR0038913 (niet uit je
+hoofd leren!) hiernaar. Het speelt een rol bij onderzoek naar storingsklachten.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.12 Frequentiebanden, beschikbaar voor de zendamateur
+18.12.1 Rangen en standen
+Bij frequentietoewijzingen kan er per band meer dan één soort gebruiker zijn. Er zijn drie
+rangen: primair, secundair, en gebruikers op Non-Interference Basis (NIB).
+Een primaire dienst kun je zien als hoofdbewoner van de frequentie(band). Bij het gebruik
+heeft een primaire dienst hogere rechten dan de andere twee.
+Een secundaire dienst mag geen hinderlijke storing veroorzaken aan een primaire dienst
+en heeft geen rechten als hij wordt gestoord door een primaire dienst waaraan de
+frequentie(s) zijn toegekend. Hij mag op zijn beurt niet worden gestoord door stations van
+dezelfde dienst of andere diensten met secundaire status.
+De laagste rang is de NIB-status. Stations die tot een dienst in deze categorie behoren,
+mogen van de band gebruik maken op voorwaarde dat ze geen storing veroorzaken bij
+stations van diensten met een secundaire of primaire status, maar moeten storing door die
+stations wel accepteren.
+18.12.2 Amateurfrequenties, toegankelijk voor N-geregistreerden
+De frequentiebanden waarin N-amateurs mogen zenden, zijn weergegeven in Tabel
+18.12-1. De tabel geeft de situatie van eind december 2024. Onder “status” staat “p” voor
+primair en “s” voor secundair. NIB komt in de tabel niet voor.
+Het zendvermogen is gedefinieerd als: “Het door de direct met de antenne te koppelen
+trap van het radiozendapparaat afgegeven gemiddelde vermogen, gerekend over een
+periode van de hoogfrequent uitgangswisselspanning tijdens het maximum van de
+omhullende (Peak Envelope Power)”.
+Tabel 18.12-1. Frequentiebanden voor zendamateurs met N-registratie (stand van zaken vanaf 17 juni 2021)
+
+Toegestaan
+zendvermogen
+in Watt (PEP)
+100
+100
+100
+25
+25
+25
+
+Frequentie (MHz)
+van
+tot
+7,0
+14,0
+28,0
+144,0
+430,0
+436,0
+
+7,2
+14,35
+29,7
+146,0
+436,0
+438,0
+
+Status
+
+Bijzondere bepalingen
+
+p
+p
+p
+p
+p
+s
+
+18.12.3 Amateurfrequenties, toegankelijk voor F-geregistreerden.
+Ook hier is het zendvermogen gedefinieerd als: “het door de direct met de antenne te
+koppelen trap van het radiozendapparaat afgegeven gemiddelde vermogen, gerekend over
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+een periode van de hoogfrequent uitgangswisselspanning tijdens het maximum van de
+omhullende (Peak Envelope Power)”.
+De frequentiebanden met hun eventuele bijzondere bepalingen staan in Tabel 18.12-2.
+Deze zit net zo in elkaar als Tabel 18.12-1, maar is veel langer.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Tabel 18.12-2. Frequentiebanden voor zendamateurs met F-registratie (stand van zaken vanaf 17 juni 2021)
+
+Toegestaan
+zendvermogen
+in Watt (PEP)
+400
+100
+
+Frequentie (MHz)
+van
+tot
+
+Status
+
+Bijzondere bepalingen
+
+Alleen klasse A1A
+Alleen A1A, F1A, G1A,
+J2A; contesten zijn niet
+toegestaan
+
+0,1357
+0,472
+
+0,1378
+0,479
+
+s
+s
+
+1,81
+1,85
+3,5
+5,351.5
+
+1,85
+1,88
+3,8
+5,366.5
+
+p
+s
+p
+s
+
+400
+400
+
+7,0
+10,1
+
+7,2
+10,15
+
+p
+s
+
+400
+
+10,14
+
+10,15
+
+s
+
+400
+400
+400
+400
+400
+120
+30
+30
+
+14,0
+18,068
+21,0
+24,89
+28,0
+50,0
+50,0
+50,45
+
+14,35
+18,168
+21,45
+24,99
+29,7
+50,45
+50,45
+52,0
+
+p
+p
+p
+p
+p
+s
+s
+s
+
+50
+
+70,0
+
+70,5
+
+s
+
+400
+
+144,0
+
+146,0
+
+p
+
+400
+400
+400
+15 W e.i.r.p.
+
+Toegestaan effectief
+uitgestraald vermogen
+van de zendinrichting
+ten opzichte van een
+isotrope straler
+(equivalent isotropically
+radiated power)
+Contesten zijn niet
+toegestaan
+Bandbreedte max. 500
+Hz
+
+Alleen A1A en J3E
+Duplexverbindingen3
+zijn niet toegestaan
+Duplexverbindingen zijn
+niet toegestaan
+
+Duplexverbindingen zijn verbindingen waarbij twee stations op ongelijke frequenties
+zenden en ontvangen. Werken ze op dezelfde frequentie, dan heet dat een
+simplexverbinding. De meeste amateurverbindingen zijn simplex.
+3
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-31
+
+VRZA-cursus radiozendamateur
+
+400
+400
+120
+120
+120
+
+430,0
+436,0
+1240,0
+2320,0
+2400,0
+
+Hoofdstuk 18 volledig 20250330
+
+436,0
+440,0
+1300,0
+2400,0
+2450,0
+
+p
+s
+s
+s
+s
+
+Uitsluitend voor
+satellietverkeer (van
+aarde naar ruimte)
+
+120
+3400,0
+3410,0
+s
+120
+5650,0
+5850,0
+s
+120
+10000,0
+10500,0
+s
+120
+24000,0
+24050,0
+p
+120
+24050,0
+24250,0
+s
+120
+47000,0
+47200,0
+p
+120
+75500,0
+76000,0
+p
+120
+76000,0
+77500,0
+s
+120
+77500,0
+78000,0
+p
+120
+78000,0
+81500,0
+s
+120
+122250,0
+123000,0
+s
+120
+134000,0
+136000,0
+p
+120
+136000,0
+141000,0
+s
+120
+241000,0
+248000,0
+s
+120
+248000,0
+250000,0
+p
+Opmerking: Bijna alle examenvragen over amateurbanden gingen tot midden 2020 over
+frequenties van 1,81 tot en met 440 MHz. Die worden onder amateurs ook verreweg het
+meest gebruikt.
+
+18.13 Maatschappelijke verantwoordelijkheid van de zendamateur
+18.13.1 Inleiding
+Nu naar de wat minder formele, maar daarom nog niet minder belangrijke kanten van
+onze zendhobby.
+Een geregistreerde zendamateur mag veel. Naast bevoegdheden brengt dat ook
+verantwoordelijkheid met zich mee. De amateurfrequentiebanden zijn vooral bedoeld
+voor experimenteel radio-onderzoek. In die zin is elke zendamateur een onderzoeker,
+zelfs al houden zijn verbindingen niet meer in dan het uitwisselen van
+ontvangstrapporten. Het maken en/of uitproberen van een antenne, het effect van
+zendvermogen op een lange-afstandsverbinding (“DX”), de verschillende eigenschappen
+van frequentiebanden, effect op propagatie van seizoen of tijd van de dag, van activiteit
+van de zon en nog veel meer, het hoort er allemaal bij. En dan hebben we het nog niet
+gehad over allerhande vormen van zelfbouw. Die gaan van een klein hulpapparaatje tot
+antennesystemen of een complete zendontvanger en alles daartussenin. Een
+zelfbouwzender mag worden gebruikt zonder dat er een keuring aan te pas komt. Tot er
+©2021-2025, Vereniging van Radiozendamateurs VRZA 18-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+storingsklachten komen natuurlijk, maar een amateur met enige ervaring zal ze meestal
+zelf kunnen oplossen. Of er is een mede-amateur bereid om de helpende hand te bieden.
+Dat is een vorm van solidariteit van zendamateurs onder elkaar.
+18.13.2 Storingsproblemen
+Storingsproblemen zullen niet dagelijks optreden, maar vroeg of laat loopt vrijwel elke
+actieve zendamateur er tegenaan. Dat vraagt van de amateur niet alleen technische kennis
+en inzicht, maar ook sociale vaardigheid. De omgeving kijkt nu eenmaal vaak anders tegen
+de zendhobby aan dan de amateur zelf. Ook als voor jou volkomen duidelijk is dat een
+storing niet van jouw station afkomstig kan zijn, bijvoorbeeld omdat er geen zender
+aanstaat, valt het niet altijd mee, een ander daarvan te overtuigen. Word nooit boos.
+Probeer in redelijk overleg tot een oplossing te komen. Controleer altijd op een voor de
+klager duidelijke manier of een storing wel of niet bij jou vandaan komt. Is jouw zender
+toch de storingsbron, probeer dan het probleem zo goed mogelijk op te lossen.
+18.13.3 Opheffen van storingen
+Een zendamateur die op de hoogte is gebracht van storing als gevolg van zijn
+uitzending(en) kan zich niet aan zijn verantwoordelijkheid onttrekken. Een advies om
+een klacht in te dienen bij RDI, omdat je als amateur een registratie bij de Rijksoverheid
+hebt voor het gebruik van zendapparatuur en daarvoor examen hebt moeten doen, is
+onbehoorlijk. Je hoort mee te werken aan een oplossing door de storing op te heffen, te
+vermijden of op zijn minst het effect zo klein mogelijk te maken. Daar is vooral de leerstof
+in hoofdstuk 16 van deze cursus voor bedoeld.
+18.13.4 Gedrag in het radioverkeer
+Overheidsinstanties en internationale (amateur)organisaties hebben regels opgesteld om
+het radioverkeer op de amateurbanden zo storingvrij en effectief mogelijk te laten
+verlopen. De IARU (International Amateur Radio Union) bijvoorbeeld, heeft
+bandplannen gemaakt die aangeven, welke soort uitzending het best in welk deel van een
+band kan plaatsvinden. Je kunt op een amateurband bijvoorbeeld een banddeel vinden
+voor telefonie-uitzendingen, morsetelegrafie of digitale uitzendingen.
+Voor ITU Region 1 vind je deze bandplannen via de link https://www.iaru-r1.org/on-theair/band-plans/. De webpagina’s zijn Engelstalig. Op de Nederlandstalige website HamRadio zijn uitgewerkte bandplannen ook te vinden via de link BANDPLAN AMATEUR
+(ham-radio.nl). Op die pagina kun je met één muisklik kiezen voor HF of VHF en hoger.
+Houd je aan bandplannen. Zo zit je elkaar zo min mogelijk in de weg.
+18.13.5 Beperk vermogen, controleer je spullen
+Gebruik voor een verbinding liefst niet meer vermogen dan nodig. Het heeft bijvoorbeeld
+weinig nut, een verbinding te maken met iemand die bij wijze van spreken drie straten
+verderop woont bij een vermogen van 100 W. Dit kan onnodige hinder opleveren voor
+andere amateurs die op (veel) grotere afstand wonen.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Controleer de instelling van je apparatuur met enige regelmaat. Vermijd overmodulatie en
+splatter. Pas je instellingen aan als een mede-amateur je erop attent maakt dat er iets niet
+in orde is. Meestal is die wel bereid om te luisteren of de instelling na actie van jouw kant
+beter is geworden.
+Gebruik bij het testen van een zender een goede kunstantenne (dummyload, hoofdstuk
+16). Zo wordt vermeden dat anderen van het testen hinder ondervinden.
+
+18.14 Operationele vaardigheden
+18.14.1 Gebruik van frequentieruimte
+Gebruik frequentieruimte alleen voor doeleinden die eigen zijn aan de Amateurdienst.
+Die zijn in sub-paragraaf 18.13.1 al kort besproken. Gebruik de toegestane modes in
+overeenstemming met het bandplan dat bij de betreffende band hoort. Hier volgt
+nogmaals de link naar waar je bandplannen kunt vinden: https://www.iaru-r1.org/on-theair/band-plans/ of BANDPLAN AMATEUR (ham-radio.nl).
+Voor EZB-spraakverbindingen wordt op frequenties lager dan 10 MHz de onderste
+zijband (LSB) gebruikt, op hogere frequenties de bovenste (USB).
+Geen enkele amateur of groep van amateurs heeft een exclusief recht op een bepaalde
+frequentie. Een opmerking als “dit is onze frequentie” is dan ook in strijd met alle
+begrippen van wellevendheid onder amateurs. Maar als amateurs op een bepaalde
+frequentie al een verbinding hebben, zoek je natuurlijk een ander plekje op de band.
+Elkaar willens en wetens storen is niet netjes, om het zacht uit te drukken.
+Beantwoord “CQ DX” niet als het een station betreft dat naar de maatstaven van de band
+in de buurt zit. Is het bijvoorbeeld een Fransman op 20 m, dan is de oproep duidelijk niet
+voor West-Europeanen bedoeld. Voor een oproep met een werelddeel of land, zoals ”CQAfrica” geldt hetzelfde. Nederland ligt nu eenmaal niet in Afrika.
+18.14.2 Wellevendheid
+Gebruik geen krachttermen of andere uitdrukkingen waaraan een ander zich kan storen.
+Heb geduld als iemand iets niet lijkt te begrijpen, maar bezondig je niet aan
+terechtwijzingen en dergelijke. Het KBP of Korps Bandpolitie, zoals dat wel eens met
+enige spot wordt genoemd, kun je het beste maar negeren, laat staan je erbij voegen.
+Gelukkig is het zeldzaam.
+Zorg voor goede verstaanbaarheid. Spreek duidelijk en zorg dat er geen of in elk geval zo
+min mogelijk achtergrondgeluid is als je microfoon open staat. Houd pen/potlood en
+papier bij de hand voor snelle notities als rapporten, calls, antwoorden of te bespreken
+puntjes.
+18.14.3 Ontvangstrapport
+Bij elke verbinding hoort een uitwisseling van ontvangstrapporten. Bij een
+“toontjesverbinding” zoals CW, RTTY of PSK, is dat een RST- rapport. RST staat voor
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Readability (leesbaarheid/verstaanbaarheid), Strength (signaalsterkte), en Tone
+(toonkwaliteit). Daarvoor bestaan internationale afspraken. Tabel 18.14-1 toont de
+gebruikte codes voor R, S en T en hun betekenis.
+Tabel 18.14-1. RST-cijfers en hun betekenis.
+
+R(eadability)
+Onneembaar
+
+S(trength)
+Nauwelijks
+waarneembaar
+Zeer zwak
+Zwak
+
+T(one)
+1
+1
+1 Zeer ruwe en sissende
+toon
+2 Nu en dan neembaar
+2
+2 Zeer ruwe toon
+3 Met moeite neembaar 3
+3 Ruwe lage toon,
+enigszins muzikaal
+4 Neembaar
+4 Redelijk
+4 Vrij ruwe toon
+5 Uitstekend neembaar
+5 Vrij goed
+5 Muzikaal
+gemoduleerde toon
+6 Goed
+6 Gemoduleerde toon
+7 Tamelijk sterk
+7 Bijna zuivere toon met
+zachte rimpel
+8 Sterk
+8 Goede toon, spoortje
+rimpel
+9 Zeer sterk
+9 Zuivere strakke toon
+Een RST-rapport 349 betekent: “met moeite neembaar signaal, redelijk van sterkte en
+zuivere toon”.
+Voor spraakverbindingen vervalt de T en bestaat een ontvangstrapport uit twee cijfers,
+één voor R en één voor S. Voorbeeld: 57 betekent “een uitstekend verstaanbaar, tamelijk
+sterk signaal”.
+Geef eerlijke rapporten, bijvoorbeeld geen 59 als een tegenstation nauwelijks te verstaan
+is. Je komt ze helaas soms tegen, amateurs die 59 geven en vervolgens vragen om
+herhaling omdat ze nauwelijks iets hebben kunnen verstaan. Lees voor het geven van een
+rapport je S-meter af, ook al zijn die dingen zelden op en top nauwkeurig.
+18.14.4 Hoe maak je een verbinding?
+Het begint met luisteren en rustig “over de band draaien”, zoals dat heet. Misschien hoor
+je iemand CQ roepen. Stel dat dit het station PB1XYZ is. Jouw call is (voor deze
+gelegenheid) PG7PQR. Als PB1XYZ klaar is met zijn oproep, kun je antwoorden met
+
+PB1XYZ, dit is Papa Golf Zeven Papa Quebec Romeo(, Papa Golf Zeven Papa Quebec
+Romeo).
+Het stuk tussen haakjes, de herhaling dus, wordt lang niet altijd gebruikt. Het kan wat
+opdringerig overkomen, maar als het signaal van het aangeroepen station zwak is, of als
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+het te kennen geeft de reactie niet goed te hebben verstaan, kan herhaling zin hebben.
+Soms geeft het antwoordende station (PG7PQR dus) zijn call maar één keer, dus zo:
+
+Papa Golf Zeven Papa Quebec Romeo.
+Dat gebeurt bijvoorbeeld bij een contest (radiowedstrijd) of een pile-up. Dat laatste is een
+aantal amateurs die proberen verbinding te maken met een gewild station, bijvoorbeeld
+omdat het in een land zit waar weinig zendamateurs wonen.
+Een conteststation heeft altijd haast, want het wil zoveel mogelijk verbindingen in een zo
+kort mogelijke tijd maken. Elke verbinding levert nu eenmaal punten op. Luister eerst
+naar mede-amateurs die een verbinding maken, want meestal heeft het station na het
+ontvangstrapport een toevoeging nodig, zoals een volgnummer.
+We gaan weer terug naar PG7PQR en PB1XYZ. Als PB1XYZ reageert, gaat dat ongeveer
+zo (altijd de call van het andere station eerst!):
+
+PG7PQR, dit is PB1XYZ. Goedenavond, bedankt voor je antwoord. Je rapport is 58, 5 en
+8. Ik woon in Emmen, dat is in Drenthe. De naam is Wim. Hoe ontvang je me? PG7PQR
+van PB1XYZ.
+PG7PQR antwoordt dan bijvoorbeeld zo:
+
+PB1XYZ van PG7PQR. Goedenavond Wim, bedankt voor je rapport. Ik ontvang je ook 58
+met een klein beetje QRM. QTH is Alkmaar en de naam Johan. Mijn transceiver levert
+ongeveer 50 watt aan een drie-elements antenne die 12 meter boven de grond staat en
+jouw kant op straalt. Terug naar jou, PB1XYZ van PG9PQR.
+Hierna zal Wim wellicht vertellen hoe zijn installatie eruitziet en kan de verbinding
+worden afgesloten of er kan zich een gesprek tussen beide stations ontwikkelen. PG7PQR
+gebruikte enkele Q-codes als zelfstandig naamwoord. Dat is vrij gebruikelijk bij
+spraakverbindingen tussen zendamateurs, zoals al eerder vermeld in dit hoofdstuk.
+De afsluiting van de verbinding kan als volgt verlopen:
+
+PG7PQR van PB1XYZ, OK Johan, bedankt voor het QSO. Tot een volgende keer.
+PB1XYZ van PG7PQR, over en sluiten.
+PG7PQR kan nu bijvoorbeeld verder over de band draaien tot hij een oproep van een
+ander station hoort. Hij kan ook een rustig plekje op de betreffende band opzoeken en
+daar een oproep uitzenden. Voordat hij dit doet, moet hij redelijk zeker weten dat de
+gekozen frequentie niet in gebruik is bij een ander station dat misschien luistert naar een
+tegenstation dat PG7PQR niet kan horen. Hij zal een tijdje wachten of het stil blijft.
+Eventueel zou hij daarna een keer kunnen vragen of de frequentie in gebruik is. Die vraag
+kan natuurlijk een reactie oproepen van een amateur die op zoek is naar een verbinding
+en dan kan zich eenzelfde soort verbinding ontwikkelen als hierboven beschreven.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+Maar PG7PQR kan, als het stil blijft en hij er zo voldoende zeker van is dat er niemand op
+dezelfde frequentie zit, ook een oproep uitzenden. Dat gaat dan ongeveer als volgt.
+
+CQ, CQ, CQ, dit is PG7PQR, Papa Golf Zeven Papa Quebec Romeo, Papa Golf Zeven Papa
+Quebec Romeo, Papa Golf Zeven Papa Quebec Romeo geeft CQ en luistert naar mogelijke
+aanroepen.
+Als er een reactie komt, kan zich een verbinding ontwikkelen zoals hiervoor beschreven
+en anders geeft PG7PQR misschien nog een of enkele keren CQ.
+Bij telegrafieverbindingen verloopt de procedure op vrijwel dezelfde manier, alleen wordt
+een RST-rapport uitgewisseld in plaats van een RS-rapport. Bovendien bevat een
+telegrafieverbinding veel zogenoemde amateur-afkortingen. Dat geldt ook voor digitale
+“toontjesverbindingen” als RTTY en PSK. Daar wordt over het algemeen ook gewerkt met
+RST, hoewel op een toon die uit een computer komt meestal weinig aan te merken valt. Je
+zult merken dat voor T dan ook vrijwel altijd een 9 wordt gegeven.
+Zorg altijd dat de volle bandbreedte van je signaal binnen de toegestane frequentieband
+blijft. Houd bij voorkeur wat extra ruimte, dan kan er op het punt van overschrijding van
+bandgrenzen weinig misgaan.
+
+18.15 Exameneisen
+De exameneisen voor F vind je via de link:
+https://www.cbr.nl/nl/service/nl/breed/exameneisen-radiozendamateurs-full
+En die voor N via de link:
+https://www.cbr.nl/nl/service/nl/breed/exameneisen-radiozendamateur-novice
+Leer ze niet uit het hoofd. Het is veel werk met weinig of geen examenrendement. Zoek
+desnoods op de VRZA-cursuswebsite naar het kopje “Exameninformatie” en klik
+daaronder op “Exameneisen: wat vind je in welk hoofdstuk?” Dan krijg je de volledige lijst
+met exameneisen met achter elke eis het/de hoofdstuknummer(s) van deze cursus, waarin
+die eis aan de orde komt.
+
+18.16 Handig om te weten
+18.16.1 Leeftijdsgrenzen voor een registratie
+Die zijn er niet meer. Tot midden 2021 was de minimumleeftijd in Nederland 12 jaar voor
+de N-registratie en 14 jaar voor de F-registratie. Daarna zijn deze leeftijdsgrenzen komen
+te vervallen (Staatscourant 17 juni 2021). Het kan daarom voorkomen dat in uitgewerkte
+examenopgaven van vóór die datum de genoemde leeftijdsgrenzen als juist antwoord
+worden gegeven. Niets van aantrekken dus. Op het examen zelf zul je ze -als het goed isniet tegenkomen.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.16.2 Hoe kom ik aan een registratie?
+Eerst natuurlijk het N- of F-examen halen. Ga daarna naar
+https://www.rdi.nl/onderwerpen/radiozendamateurs/registreren-als-radiozendamateur. Je
+hebt daar je DigiD bij nodig.
+18.16.3 Het antenneregister
+We hadden het er eerder al over. Een amateur die één of meer vast opgestelde antennes
+heeft, is verplicht, die te registreren in het Antenneregister van het Antennebureau van
+RDI. Je leest er meer over op de URL (DigiD nodig): https://www.rijksoverheid.nl/wettenen-regelingen/productbeschrijvingen/registreren-antenne-installatie-doorradiozendamateur.
+
+18.17 Opgaven
+Aan de opgaven valt weinig uit te leggen. Het zijn in hoofdzaak weetjes, meer niet. Ze zijn
+behandeld in de tekst van dit hoofdstuk. Daarom volstaan we bij de uitwerkingen met het
+geven van het juiste antwoord. In de bundels examenopgaven op de cursuswebsite wordt
+wel verwezen naar teksten in dit hoofdstuk.
+De vragen zijn gebaseerd op de regelgeving na 2005. Oudere examens die op Internetsites
+af en toe opduiken, bevatten opgaven die zijn gebaseerd op deels niet meer geldende
+bepalingen.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.1 Opgave 18-1
+De code QSY? betekent:
+A. Zal ik van zendfrequentie veranderen?
+B. Bent u van frequentie veranderd?
+C. Ik ben van frequentie veranderd
+D. Wie roept mij?
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.2 Opgave 18-2
+Om in een CW-verbinding kenbaar te maken dat u bij de ontvangst last hebt van
+atmosferische storingen, gebruikt u de code:
+A. QRM
+B. QRN
+C. QRO
+D. QRP
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.3 Opgave 18-3
+Het woord “OLIFANT” wordt volgens het internationale spellingsalfabet als volgt gespeld:
+A. Oscar Lima Italy Fox Amsterdam November Tango
+B. Oscar Lima India Foxtrot Alfa Nancy Tango
+C. Oscar Lima India Fox Alfa November Teddy
+D. Oscar Lima India Foxtrot Alfa November Tango
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.4 Opgave 18-4
+De roepletters PC1XYQ worden als volgt gespeld:
+A. Peter Charlie Een X-ray Yankee Queen
+B. Papa Charlie Een X-ray Yokohama Quebec
+C. Prince Charlie Een X-ray Yankee Quebec
+D. Papa Charlie Een X-ray Yankee Quebec
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.5 Opgave 18-5
+Bewering 1: Nederland ligt in ITU-Region I
+Bewering 2: Australië ligt in ITU Region II
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 1
+C. Alleen bewering 2
+D. Beide beweringen
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.6 Opgave 18-6
+Een EZB-zender wordt gebruikt voor het uitzenden van RTTY. De klasse van uitzending
+is:
+A. J2B
+B. J2E
+C. A2B
+D. F2B
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.7 Opgave 18-7
+Een amateurstation zendt spraak uit in klasse J3E. Dit is
+A. Amplitudemodulatie met 1 draaggolf en 2 zijbanden
+B. Een vorm van frequentiemodulatie
+C. Enkelzijbandmodulatie met onderdrukte draaggolf
+D. Fasemodulatie met onderdrukte draaggolf
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.8 Opgave 18-8
+Een zendamateur met registratiebewijs F zendt in J3E uit op 3,65 MHz. Zijn zender heeft
+een uitgangsvermogen van 750 W. Dit is
+A. Verboden
+B. Toegestaan
+C. Toegestaan als hij de zender zo instelt dat het vermogen niet boven de 400 W komt
+D. Toegestaan als hij de zender zo instelt dat het vermogen niet boven de 100 W komt
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.9 Opgave 18-9
+Een AM-zender wordt via de geluidskaart van een computer gemoduleerd met morsecode
+voor opnemen op het gehoor. De klasse van uitzending is
+A. A1A
+B. F2A
+C. J3E
+D. A2A
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.10 Opgave 18-10
+Het uitzenden van amateurtelevisie met een bandbreedte van 6 MHz is toegestaan:
+A. In de band van 430-440 MHz
+B. In de band van 144-146 MHz
+C. In de band van 28-29,7 MHz (10 meter)
+D. Alleen in de banden van 1240 MHz en hoger
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.11 Opgave 18-11
+Een radiozendamateur mag via zijn zendstation uitzenden:
+A. Informatie bestemd voor een zakenrelatie
+B. Versleutelde informatie
+C. Informatie omtrent het zendstation dat hij nog aan het bouwen is
+D. Informatie voor een vriend in Italië die naast een zendamateur woont.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.12 Opgave 18-12
+Een radiozendamateur werkt op een frequentie waar de Amateurdienst een secundaire
+status heeft. Deze amateur is altijd verplicht om:
+A. Voorrang te geven aan diensten met een primaire status
+B. Te stoppen met zenden als hij een of meer andere amateurs blijkt te storen
+C. Voorrang te geven aan professionele diensten met een secundaire status
+D. Te stoppen met zenden als hij een station met een NIB-status blijkt te storen
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.13 Opgave 18-13
+Het zendvermogen is gedefinieerd als:
+Het door de direct met de ………. te koppelen trap van het radiozendapparaat afgegeven
+gemiddelde vermogen, gerekend over een periode van de hoogfrequent
+uitgangswisselspanning tijdens het maximum van de omhullende (Peak Envelope Power).
+Op de stippen (……….) moet staan:
+A. Stuurtrap
+B. Eindtrap
+C. Antenne-inrichting
+D. Transmissielijn
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.14 Opgave 18-14
+De Amateurdienst wordt uitgeoefend door bevoegde personen
+1. Die geïnteresseerd zijn in de radiotechniek
+2. Met uitsluitend een persoonlijk oogmerk en zonder geldelijke interesse
+Welk bewering is juist?
+A. Geen van beide beweringen
+B. Beide beweringen
+C. Bewering A
+D. Bewering B
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.15 Opgave 18-15
+Een amateurstation zendt spraak uit in klasse J3E. Dit is
+A. Amplitudemodulatie met 1 draaggolf en 2 zijbanden
+B. Frequentiemodulatie
+C. Enkelzijbandmodulatie met onderdrukte draaggolf
+D. Frequentiemodulatie met onderdrukte draaggolf
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.16 Opgave 18-16
+Bij een telefonieverbinding geeft een amateur het tegenstation een rapport 35. Dat
+betekent:
+A. Een goed verstaanbaar signaal, goed van sterkte
+B. Een met moeite te verstaan signaal, vrij goed van sterkte
+C. Een goed te verstaan, maar zwak signaal
+D. Een redelijk verstaanbaar en zeer sterk signaal
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.17 Opgave 18-17
+Wat doe je als je op een frequentie CQ wilt gaan geven?
+A. “Break break” roepen
+B. QRZ roepen
+C. Je ervan overtuigen dat de frequentie vrij is
+D. Gewoon beginnen en je merkt het vanzelf als iemand protesteert
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.18 Opgave 18-18
+Een amateur maakt een CW-verbinding met een tegenstation dat nogal beroerd seint
+waardoor zijn morseschrift lastig te lezen is. Het tegenstation produceert een sterk signaal,
+maar met een stevige bromtoon erop. Hij geeft een RST-rapport
+A. 383
+B. 595
+C. 399
+D. 132
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.19 Opgave 18-19
+Een zendamateur heeft buren die een nieuw TV-toestel hebben aangeschaft. Sindsdien
+krijgt hij af en toe klachten van de buren over storing op hun TV. Na enige tijd blijkt dat
+dit steeds gebeurt als hij zendt op een bepaalde amateurband. Wat doet hij?
+A. Niets, want hij heeft een registratie waarvoor hij examen heeft moeten doen, zodat
+hij alle recht heeft om in die band uit te komen.
+B. Hij adviseert de buren, contact op te nemen met de leverancier van hun TV
+C. Hij adviseert de buren, een klacht in te dienen bij Agentschap Telecom
+D. Hij mijdt de betreffende band en probeert een oplossing te vinden.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.17.20 Opgave 18-20
+In telegrafieverkeer betekent de afkorting R:
+A. Ontvanger (receiver)
+B. Herhaal (repeat)
+C. Ontvangen (received)
+D. Geef boodschap door (relay)
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18 Antwoorden bij de opgaven
+We spreken over antwoorden, en niet over uitwerkingen, omdat de antwoorden geen
+verdere toelichting krijgen. Het zijn weetjes, niet altijd even logisch.
+
+18.18.1 Antwoord bij Opgave 18-1
+De code QSY? betekent:
+A. Zal ik van zendfrequentie veranderen?
+B. Bent u van frequentie veranderd?
+C. Ik ben van frequentie veranderd
+D. Wie roept mij?
+Antwoord A is juist
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.2 Antwoord bij Opgave 18-2
+Om in een CW-verbinding kenbaar te maken dat u bij de ontvangst last hebt van
+atmosferische storingen, gebruikt u de code:
+A. QRM
+B. QRN
+C. QRO
+D. QRP
+Antwoord B is goed
+Je kunt QRM en QRN onderscheiden via de laatste letter. M is van ‘door Mensen gemaakt’
+en N is van ‘door de Natuur gemaakt’.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.3 Antwoord bij Opgave 18-3
+Het woord “OLIFANT” wordt volgens het internationale spellingsalfabet als volgt gespeld:
+A. Oscar Lima Italy Fox Amsterdam November Tango
+B. Oscar Lima India Foxtrot Alfa Nancy Tango
+C. Oscar Lima India Fox Alfa November Teddy
+D. Oscar Lima India Foxtrot Alfa November Tango
+Antwoord D is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.4 Antwoord bij Opgave 18-4
+De roepletters PC1XYQ worden als volgt gespeld:
+A. Peter Charlie Een X-ray Yankee Queen
+B. Papa Charlie Een X-ray Yokohama Quebec
+C. Prince Charlie Een X-ray Yankee Quebec
+D. Papa Charlie Een X-ray Yankee Quebec
+Antwoord D is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.5 Antwoord bij Opgave 18-5
+Bewering 1: Nederland ligt in ITU-Region I
+Bewering 2: Australië ligt in ITU Region II
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 1
+C. Alleen bewering 2
+D. Beide beweringen
+Antwoord B is goed. Australië ligt in Region III.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.6 Antwoord bij Opgave 18-6
+Een EZB-zender wordt gebruikt voor het uitzenden van een hulpdraaggolf met RTTY. De
+klasse van uitzending is:
+A. J2B
+B. J2E
+C. A2B
+D. F2B
+Antwoord A is goed
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.7 Antwoord bij Opgave 18-7
+Een amateurstation zendt spraak uit in klasse J3E. Dit is
+A. Amplitudemodulatie met 1 draaggolf en 2 zijbanden
+B. Een vorm van frequentiemodulatie
+C. Enkelzijbandmodulatie met onderdrukte draaggolf
+D. Fasemodulatie met onderdrukte draaggolf
+Antwoord C is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.8 Antwoord bij Opgave 18-8
+Een zendamateur met registratiebewijs F zendt in J3E uit op 3,65 MHz. Zijn zender heeft
+een uitgangsvermogen van 750 W. Dit is
+A. Verboden
+B. Altijd toegestaan
+C. Toegestaan als hij de zender zo instelt dat het vermogen niet boven de 400 W komt
+D. Toegestaan als hij de zender zo instelt dat het vermogen niet boven de 100 W komt
+Antwoord C is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.9 Antwoord bij Opgave 18-9
+Een AM-zender wordt via de geluidskaart van een computer gemoduleerd met morsecode
+voor opnemen op het gehoor. De klasse van uitzending is
+A. A1A
+B. F2A
+C. J3E
+D. A2A
+Antwoord D is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.10 Antwoord bij Opgave 18-10
+Het uitzenden van amateurtelevisie met een bandbreedte van 6 MHz is toegestaan:
+A. In de band van 430-440 MHz
+B. In de band van 144-146 MHz
+C. In de band van 28-29,7 MHz (10 meter)
+D. Alleen in de banden van 1240 MHz en hoger
+Antwoord A is goed, want de bandbreedte moet binnen de frequentieband passen.
+Antwoord D is fout vanwege het woord “Alleen”.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.11 Antwoord bij Opgave 18-11
+Een radiozendamateur mag via zijn zendstation uitzenden:
+A. Informatie bestemd voor een zakenrelatie
+B. Versleutelde informatie
+C. Informatie omtrent het zendstation dat hij nog aan het bouwen is
+D. Informatie voor een vriend in Italië die naast een zendamateur woont.
+Antwoord C is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.12 Antwoord bij Opgave 18-12
+Een radiozendamateur werkt op een frequentie waar de Amateurdienst een secundaire
+status heeft. Deze amateur is altijd verplicht om:
+A. Voorrang te geven aan diensten met een primaire status
+B. Te stoppen met zenden als hij een of meer andere amateurs blijkt te storen
+C. Voorrang te geven aan professionele diensten met een secundaire status
+D. Te stoppen met zenden als hij een station met een NIB-status blijkt te storen
+Antwoord A is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.13 Antwoord bij Opgave 18-13
+Het zendvermogen is gedefinieerd als:
+Het door de direct met de ………. te koppelen trap van het radiozendapparaat afgegeven
+gemiddelde vermogen, gerekend over een periode van de hoogfrequent
+uitgangswisselspanning tijdens het maximum van de omhullende (Peak Envelope Power).
+Op de stippen (……….) moet staan:
+A. Stuurtrap
+B. Eindtrap
+C. Antenne-inrichting
+D. Transmissielijn
+Antwoord C is goed
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.14 Antwoord bij Opgave 18-14
+De Amateurdienst wordt uitgeoefend door bevoegde personen
+1. Die geïnteresseerd zijn in de radiotechniek
+2. Met uitsluitend een persoonlijk oogmerk en zonder geldelijke interesse
+Welk bewering is juist?
+A. Geen van beide beweringen
+B. Beide beweringen
+C. Bewering A
+D. Bewering B
+Antwoord B is goed. Beide beweringen zijn goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.15 Antwoord bij Opgave 18-15
+Een amateurstation zendt spraak uit in klasse J3E. Dit is
+A. Amplitudemodulatie met 1 draaggolf en 2 zijbanden
+B. Frequentiemodulatie
+C. Enkelzijbandmodulatie met onderdrukte draaggolf
+D. Frequentiemodulatie met onderdrukte draaggolf
+Antwoord C is goed. Bij antwoord D: als je bij FM de draaggolf onderdrukt, ontstaat een
+onderdrukt signaal, want de amplitude van FM is de amplitude van de draaggolf.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.16 Antwoord bij Opgave 18-16
+Bij een telefonieverbinding geeft een amateur het tegenstation een rapport 35. Dat
+betekent:
+A. Een goed verstaanbaar signaal, goed van sterkte
+B. Een met moeite te verstaan signaal, vrij goed van sterkte
+C. Een goed te verstaan, maar zwak signaal
+D. Een redelijk verstaanbaar en zeer sterk signaal
+Antwoord B is goed
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.17 Antwoord bij Opgave 18-17
+Wat doe je als je op een frequentie CQ wilt gaan geven?
+A. “Break break” roepen
+B. QRZ roepen
+C. Je ervan overtuigen dat de frequentie vrij is
+D. Gewoon beginnen en je hoort het wel als iemand protesteert
+Antwoord C is goed. Daarbij past een kanttekening: ook als je zelf niets hoort, kan het zijn
+dat de frequentie wel in gebruik is. Dat kan bijvoorbeeld als je voor een van de
+betreffende stations in de stille zone zit (Hoofdstuk 14).
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.18 Antwoord bij Opgave 18-18
+Een amateur maakt een CW-verbinding met een tegenstation dat nogal beroerd seint
+waardoor zijn morseschrift lastig te lezen is. Het tegenstation produceert een sterk signaal,
+maar met een stevige bromtoon erop. Hij geeft een RST-rapport
+A. 383
+B. 595
+C. 399
+D. 132
+Antwoord A is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.19 Antwoord bij Opgave 18-19
+Een zendamateur heeft buren die een nieuw TV-toestel hebben aangeschaft. Sindsdien
+krijgt hij af en toe klachten van de buren over storing op hun TV. Na enige tijd blijkt dat
+dit steeds gebeurt als hij zendt op een bepaalde amateurband. Wat doet hij?
+A. Niets, want hij heeft een registratie waarvoor hij examen heeft moeten doen, zodat
+hij alle recht heeft om in die band uit te komen.
+B. Hij adviseert de buren, contact op te nemen met de leverancier van hun TV
+C. Hij adviseert de buren, een klacht in te dienen bij Agentschap Telecom
+D. Hij mijdt de betreffende band en probeert een oplossing te vinden.
+Antwoord D is goed.
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18 volledig 20250330
+
+18.18.20 Antwoord bij Opgave 18-20
+In telegrafieverkeer betekent de afkorting R:
+A. Ontvanger (receiver)
+B. Herhaal (repeat)
+C. Ontvangen (received)
+D. Geef boodschap door (relay)
+Antwoord C is goed
+
+©2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18-78
+
+

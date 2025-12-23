@@ -1,0 +1,2346 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Inhoudsopgave
+13
+
+Ontvangers, fasevergrendelde lus, digitale techniek ........................................... 13-3
+13.1
+
+Wat leer je in dit hoofdstuk ............................................................................. 13-3
+
+13.2
+
+Ontvangers ....................................................................................................... 13-3
+Inleiding ................................................................................................... 13-3
+Kristalontvanger: de eenvoudigste van allemaal ...................................... 13-3
+Rechtuitontvangers .................................................................................. 13-4
+De regeneratieve ontvanger ..................................................................... 13-5
+De superheterodyne-ontvanger (de super) .............................................. 13-7
+Frequentiefilters voor MF ...................................................................... 13-12
+Ongewenste effecten in een (dubbel)super ............................................ 13-13
+Enkele begrippen en grootheden bij ontvangers .................................... 13-13
+
+13.3
+
+Detectieschakelingen ..................................................................................... 13-16
+Omhullende-detector (AM) ................................................................... 13-16
+Detectie van DZB ................................................................................... 13-16
+Detectie van EZB.................................................................................... 13-17
+USB die LSB wordt (en omgekeerd) ....................................................... 13-18
+Detectie van CW-signalen ..................................................................... 13-18
+Ontvangers voor directe conversie (DC-ontvanger)s ............................. 13-18
+Detectie van FM-signalen ...................................................................... 13-19
+
+13.4
+
+Transceivers (zendontvangers) ...................................................................... 13-23
+
+13.5
+
+De S-meter ..................................................................................................... 13-24
+
+13.6
+
+Phase Locked Loop (PLL) of fasevergrendelde lus ......................................... 13-24
+Doel en werking van een PLL ................................................................ 13-24
+De PLL als FM-detector ......................................................................... 13-26
+De PLL als frequentiesynthesizer ........................................................... 13-26
+Zenden met een PLL .............................................................................. 13-27
+
+13.7
+
+Van analoog naar digitaal en terug ................................................................ 13-28
+Inleiding ................................................................................................. 13-28
+Bemonstering van analoge signalen ....................................................... 13-28
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Valkuilen bij signaalbemonstering; de regel van Nyquist-Shannon, aliasing
+13-29
+Convolutie .............................................................................................. 13-31
+Anti-aliasfilter ........................................................................................ 13-32
+Omzetting van analoog naar digitaal; kwantiseringsruis ....................... 13-32
+Signaalbewerking 1: FIR en IIR ............................................................. 13-33
+Signaalbewerking 2: Fourier en het frequentiedomein .......................... 13-37
+Directe digitale frequentiesynthese (DDS) ............................................. 13-39
+Samengevat ......................................................................................... 13-40
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-2
+
+VRZA-cursus radiozendamateur
+
+13
+
+Hoofdstuk 13_kort_20250925
+
+Ontvangers, fasevergrendelde lus, digitale techniek
+
+13.1 Wat leer je in dit hoofdstuk
+• De werking van ontvangers, van de simpele antieke kristalontvanger en de
+rechtuitontvanger naar modernere ontvangers met frequentie-omzetting (super of
+voluit superheterodyne) en dubbele frequentieomzetting (dubbelsuper).
+• Ongewenste frequenties in een super; hoe ze te vermijden. Nut van een verzwakker.
+• Spiegelfrequenties; hoe ontstaan ze en wat kun je eraan doen. Veraf-selectiviteit.
+• Nabij-selectiviteit in supers.
+• Ruis, ruisgetal, faseruis.
+• Detectieschakelingen voor AM, dubbel- en enkelzijband, CW (morsetelegrafie), FM
+en PM en ontvangers voor directe conversie (DC), transceivers.
+• Fasevergrendelde lus, of Phase Locked Loop (PLL), VCO (Voltage Controlled
+Oscillator). PLL-toepassingen bij FM-detectie, frequentiesynthese en als bouwsteen
+van zenders.
+• Signaalbemonstering en valkuilen die daarbij kunnen optreden als voorbereiding op
+digitale signaalbewerking en verwerking, aliasing en anti-alias-filters.
+• Analoog naar digitaal conversie (ADC). Alleen de toepassing, niet de werking.
+• Digitale signaalbewerking met Finite en Infinite Impulse Response filters, afgekort
+FIR en IIR.
+• Een korte inleiding tot signaalbewerking via digitale varianten van de
+Fouriertransformatie met Discrete Fourier Transform (DFT) en Fast Fourier
+Transform (FFT).
+• Een beknopte inleiding tot DDS (Direct Digital Synthesis, directe digitale synthese).
+
+13.2 Ontvangers
+Inleiding
+Een ontvanger dient om een ergens ter wereld uitgezonden signaal te selecteren en terug
+te brengen tot de modulatie die er in de zender in is “verpakt”. Dat heet detectie of
+demodulatie. We bekijken verschillende soorten ontvangers, van simpel tot ingewikkeld.
+Kristalontvanger: de eenvoudigste van allemaal
+
+Figuur 13.2-1. Kristalontvanger.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Figuur 13.2-1 toont een schema van een kristalontvanger. Zo’n ontvanger versterkt niet.
+Hij verwerkt AM. Het is een ding uit de oertijd van de radio.
+Een afstembare parallelkring dient voor zenderselectie. Heel effectief is dat niet. Vanuit
+de antenne komen allerlei signalen de ontvanger in. Stel dat de afstemkring een Q van 100
+heeft (dat is hoog) en op 1000 kHz wordt gebruikt. Dan is de bandbreedte (de afstand
+tussen de -3 dB-punten, zie hoofdstuk 5) gelijk aan 1000kHz/100 = 10 kHz. Het
+naastliggende station zit op die frequentie (“middengolf”) meestal 9 kHz verderop. Dat
+wordt dan een kleine 3 dB verzwakt. Dat verschil is net hoorbaar. Er kunnen dan ook
+gemakkelijk meerdere zenders tegelijk te horen zijn.
+Doordat versterking ontbreekt, is het signaal zwak. De gelijkrichtdiode is bij voorkeur een
+Ge-type met de bij Ge horende lage drempelspanning. Figuur 13.2-2 toont wat er gebeurt.
+2.0
+2.0
+
+1.0
+
+1.0
+
+Gelijkrichting
+0.0
+
+0.0
+0
+
+1
+
+Laagdoorlaatfilter
+
+2
+
+3
+
+(LDF)
+
+-1.0
+-2.0
+
+0
+
+1
+
+2
+
+3
+
+Figuur 13.2-2. Detectie met diode en laagdoorlaatfilter van een AM-signaal.
+
+De diode richt het AM-signaal gelijk. De vaste condensator onderdrukt het hoogfrequent.
+Dan blijft één kant van de omhullende over. Die heeft dezelfde vorm als de modulatie
+(Hoofdstuk 12). Zo wordt uit een AM-signaal de oorspronkelijke modulatie teruggehaald,
+= gedetecteerd of gedemoduleerd. De schakeling is een detector of demodulator. De
+weerstand parallel aan de condensator is de belasting. Die moet zo laag zijn dat de
+uitgangsspanning de omhullende volgt. De weerstand moet ook niet te laag zijn. Dat
+vermindert de Q onnodig. Dat is slecht voor de selectiviteit. Het gedetecteerde signaal is
+te zwak om een luidspreker aan te sturen. Het blijft bij een (hoogohmige) koptelefoon.
+Rechtuitontvangers
+In een rechtuitontvanger zit een HF-versterker. Het signaal wordt geselecteerd via een
+LC-kring, versterkt en met een detector (Figuur 13.2-2) omgezet in audio en versterkt om
+een koptelefoon of luidspreker te kunnen aansturen (Figuur 13.2-3). Een klassieke
+rechtuitontvanger is alleen geschikt voor AM.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+HFversterker
+LFversterker
+
+Luidspreker
+
+en detector
+
+Figuur 13.2-3 Blokschema van een rechtuit-ontvanger met één afstemkring.
+
+Met twee afgestemde kringen in plaats van één en een extra HF-versterker kunnen
+selectiviteit en gevoeligheid worden vergroot (Figuur 13.2-4).
+
+HFversterker
+
+HFversterker
+LFversterker
+
+Luidspreker
+
+en detector
+
+Figuur 13.2-4 Rechtuitontvanger met HF-versterker en twee gelijklopende afstemkringen. De stippellijn
+geeft de koppeling van de afstemcondensatoren weer.
+
+De beide afstemcondensatoren zijn gelijk en hebben de rotoren mechanisch gekoppeld
+doordat ze samen op één as zitten. Als de twee spoelen gelijk zijn, zijn de kringen bij elke
+stand van de afstemcondensator op dezelfde frequentie in resonantie.
+De selectiviteit op de korte golf is praktisch nooit voldoende. Bij een Q van 100 zit de -3
+dB-bandbreedte op de 7 MHz amateurband op 7 MHz⁄100 = 70 kHz. Een tweede
+afstemkring maakt van die -3 dB-punten -6 dB-punten. Dan zijn signalen ruim voorbij die
+punten nog steeds goed hoorbaar. Met een goede amateurontvanger voor AM zou je alleen
+iets moeten kunnen horen op een breedte van 6 kHz, meer dan 10x zo smal dus.
+De regeneratieve ontvanger
+Een verbetering, maar één met bezwaren, is/was de zogenoemde regeneratieve ontvanger.
+De verbetering is dat een deel van het versterkte HF-vermogen wordt teruggekoppeld
+naar de afgestemde kring. Daarmee worden de kringverliezen verkleind, zodat Q hoger
+wordt, de selectiviteit beter en de versterking groter. Het risico is, dat deze positieve
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+terugkoppeling kan leiden tot een oscillerende ontvanger. Samen met de antenne wordt
+dat een zendende ontvanger.
+De uitgezonden frequentie mengt zich met het ontvangen signaal. Gevolg: kleine
+frequentieverschillen en dus janktonen. Het verschijnsel had de bijnaam “Mexicaanse
+hond”. Stond zo’n ontvanger te oscilleren, dan genoten de buren mee. Maar de ontvanger
+was betaalbaar en vrij eenvoudig zelf te bouwen. Vóór Wereldoorlog II was dit dan ook
+hèt instrument waarmee amateurs de amateurbanden beluisterden.
+Een voorbeeld van een eenvoudige regeneratieve ontvanger is het schema in Figuur
+13.2-5. Om in stijl te blijven, is het schema opgebouwd rondom een triode.
+
+Ub
+R2
+L3
+
+C4
+
+L4
+
+C2
+C1
+
+L2
+
+HF-smoorsp.
+
+Q1
+
+C3
+
+C5
+R1
+
+L1
+
+Figuur 13.2-5. Schema van een eenvoudige regeneratieve ontvanger.
+
+De antenne is via L1 inductief gekoppeld met de afstemkring L2-C3. Die stuurt via C2 het
+rooster van triode Q1 aan. Q1 versterkt het signaal dat via de anode terechtkomt op L 3,
+waar ook de anodestroom doorheen loopt. Die koppelt het signaal in fase terug naar het
+rooster via de inductieve koppeling L3-L2. Om oscilleren te voorkomen, vormt R2 een
+instelbare shunt om L3. R2 wordt zo ingesteld dat de schakeling net niet oscilleert. Rechts
+in het schema gaat het gedetecteerde signaal via de HF-smoorspoel naar de koptelefoon.
+Detectie verloopt via een stokoude techniek die “roosterdetectie” heet. Die gebruikt de
+kromme triodekarakteristiek die ontstaat als het rooster een deel van een signaalperiode
+positief is ten opzichte van de kathode. Een deel van het AM-signaal wordt als het ware
+gemengd met zichzelf. Daarbij wordt de oorspronkelijke modulatie gedetecteerd. Ook het
+AM-signaal zelf wordt versterkt. Dat moet ook wel, anders werkt de terugkoppeling niet.
+Deze techniek dateert van het jaar 1914 en is achterhaald door een techniek uit 1918. Die
+laatste is de superheterodyne-ontvanger, afgekort tot super. De super was ooit een dure
+aanschaf en veel amateurs behielpen zich nog lange tijd met de regeneratieve ontvanger.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De superheterodyne-ontvanger (de super)
+Een super is gebaseerd op een mengschakeling (Hoofdstuk 12). Die zet de ontvangen
+frequentie om naar een vaste frequentie waarop een goede selectie van te ontvangen
+stations mogelijk is. Die frequentie heet middenfrequentie (MF), omdat hij tussen het HFdeel en het audio-deel van de ontvanger zit. Het blokschema van een super kan er
+bijvoorbeeld uitzien als Figuur 13.2-6.
+AGC
+
+Preselectie
+& HF-verst.
+
+MFversterker
+
+Detector
+
+Oscillator
+
+LFversterker
+
+BFO
+
+Figuur 13.2-6. Blokschema van een superheterodyne-ontvanger.
+
+De eerste trap is meestal een afgestemde kring met HF-versterker. De oscillator- en
+preselectiekringen zijn via de as van hun afstemcondensatoren zo gekoppeld, dat het
+verschil tussen oscillator- en ontvangstfrequentie gelijk blijft. Zo krijg je via boven- of
+ondermenging een vaste middenfrequentie. Bij bovenmenging is de oscillatorfrequentie
+hoger dan de te ontvangen frequentie, bij ondermenging lager. Nu de werking:
+• De HF-versterker/preselectietrap versterkt het signaal aan de ingang en bepaalt mede
+de gevoeligheid van de ontvanger. De trap bevat meestal een bandfilter dat vooral de
+verafgelegen frequenties onderdrukt (preselectie). De mate van onderdrukking van
+die frequenties heet dan ook veraf-selectiviteit.
+• De mengtrap levert de verschilfrequentie van signaal- en oscillatorfrequentie. Dat is
+de middenfrequentie.
+• In de MF-versterker bepaalt het MF-filter de bandbreedte van de ontvanger en
+daarmee de selectiviteit. Dat is de nabij-selectiviteit.
+• De detector detecteert de oorspronkelijke modulatie.
+• Het gedetecteerde signaal gaat naar de LF-versterker. Een deel ervan wordt
+gelijkgericht. De ontstane gelijkspanning is evenredig met de signaalamplitude. Hij
+wordt gebruikt om in de MF-versterker en vaak ook in de preselectietrap de
+versterking te regelen. Grote verschillen in signaalsterkte worden zo voor luidspreker,
+koptelefoon en menselijk oor hanteerbaar. Dat is Automatische VersterkingsRegeling
+(AVR). Op zijn Engels: AGC van Automatic Gain Control. In Figuur 13.2-6 is deze
+leiding aangegeven met AGC.
+• Als EZB moet worden gedetecteerd, moet de onderdrukte draaggolf weer worden
+toegevoegd door de BFO (Beat Frequency Oscillator) of CIO (Carrier Injection
+Oscillator). In het Nederlands zwevingsoscillator. De detector heet productdetector,
+want detectie gaat via menging (=vermenigvuldiging) van zijband en draaggolf.
+• Het gedetecteerde signaal gaat via de LF-versterker naar luidspreker of koptelefoon.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De volgorde in een super is dan ook (ezelsbrug cursief gedrukt)
+HF-trap
+
+Hij
+
+Mengtrap
+
+mengt
+
+Middenfrequent
+
+met
+
+Detectie
+
+de
+
+LF-trap
+
+lepel
+
+Een detector voor FM heet meestal discriminator. Klassieke discriminatorsoorten maken
+AM van FM en passen dan AM-detectie toe. Modernere detecteren FM rechtstreeks.
+Tussen MF-versterker en discriminator zit een begrenzer, een soort elektronische
+grasmaaier. Een grasmaaier snijdt grassprieten af op dezelfde hoogte. Een begrenzer doet
+dat met de signaalamplitude. Omdat in FM de informatie in de frequentie zit, leidt dat
+niet tot informatieverlies, Storingen zijn meestal AM-verschijnselen. Daarom is een
+begrenzer bij FM een goede storingsonderdrukker.
+Een ontvanger voor EZB en FM verwerkt twee bandbreedtes. FM vraagt 10-12 kHz, EZB
+hoogstens 2,7 kHz. Dat betekent twee soorten filters en twee demodulatoren. Figuur
+13.2-7 toont een mogelijk blokschema van zo’n ontvanger.
+AGC
+Preselectie
+& HF-verst.
+
+B=12kHz
+BFO
+
+Oscillator
+Algemeen
+AM/EZB
+FM/PM
+
+B=3kHz
+
+EZB MFversterker
+
+Detector
+
+FM MFversterker &
+begrenzer
+
+Discriminator
+
+LFversterker
+
+Figuur 13.2-7. Super voor AM/EZB en FM. De dubbele schakelaar S schakelt om tussen beide. Zwart:
+algemeen deel; Rood: EZB-deel; Blauw: FM-deel.
+
+Meestal wordt eerst gefilterd voor de modulatievorm met de grootste bandbreedte. In dit
+geval is dat FM. Daarna gaan FM- en EZB-signaal hun eigen weg (blauw, resp. rood in de
+figuur) en komen na demodulatie afzonderlijk terecht in de LF-versterker. Aan de
+omschakeling FM/EZB komen schakelaars te pas. Die zijn niet ingetekend.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De mengtrap
+Een mengtrap levert van twee aangeboden frequenties in elk geval de som- en
+verschilfrequentie, zagen we eerder. In een ontvanger gaat het om de verschilfrequentie.
+Figuur 13.2-8 toont een blokschema van een mengtrap en aanhangende schakelingen.
+
+HF
+
+MF
+
+450 kHz
+Afstemmingen HF en
+oscillator gekoppeld
+
+Oscillator
+
+Figuur 13.2-8. Mengtrap met MF-output op 450 kHz.
+
+Freqentie→
+
+De grafiek in Figuur 13.2-9 laat zien wat er gebeurt. Bovenmenging is groen en
+ondermenging blauw.
+
+ing
+nmeng
+e
+v
+o
+b
+bij
+uentie
+q
+e
+r
+f
+r
+ato
+g
+Oscill
+mmin
+e
+t
+s
+f
+a
+HF
+ng
+mengi
+r
+e
+d
+n
+ij o
+ntie b
+e
+u
+q
+e
+r
+atorf
+Oscill
+
+Middenfrequentie (MF)
+
+Afstemmingen HF & oscillator→
+Figuur 13.2-9. Onder- en bovenmenging in grafiekvorm. De middenfrequentie blijft steeds gelijk, namelijk
+het verschil tussen oscillatorfrequentie en HF-afstemming.
+
+De afstemfrequentie (rode lijn) en oscillatorfrequenties (en groen en blauw) lopen even
+steil op. Hun onderlinge afstanden blijven dus gelijk. De lijn van de oscillatorfrequenties
+voor bovenmenging ligt één middenfrequentie boven de rode lijn en die van de
+oscillatorfrequenties bij ondermenging één middenfrequentie eronder. De
+mengschakeling levert in beide gevallen de middenfrequentie (MF). De gestippelde
+kromme paarse pijlen geven dat aan. De MF-lijn loopt (vanzelfsprekend) horizontaal. De
+super lijkt een mooie oplossing voor het selectiviteitsprobleem. Dat is hij ook, maar niet
+gratis. We zagen eerder dat in mengschakelingen ongewenste frequenties kunnen
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+ontstaan. Eén soort ongewenste frequenties komt via de antenne binnen. Dat zijn de
+spiegelfrequenties.
+
+2 MF
+
+ng
+mengi
+n
+e
+v
+o
+ij b
+entie b
+u
+q
+e
+r
+f
+enging
+el
+m
+n
+e
+v
+Spieg
+j bo
+ntie bi
+e
+u
+q
+e
+r
+atorf
+Oscill
+g
+emmin
+t
+s
+f
+a
+HF
+ing
+rmeng
+e
+d
+n
+o
+bij
+uentie
+q
+e
+r
+f
+r
+ato
+ging
+Oscill
+ermen
+d
+n
+o
+j
+e bi
+quenti
+e
+r
+f
+l
+e
+Spieg
+
+2 MF
+
+Freqentie→
+
+Spiegelfrequenties en dubbelsupers
+We zagen dat in een mengschakeling een middenfrequentie op twee manieren tot stand
+kan komen: via bovenmenging en via ondermenging. Voor elke frequentie die via
+bovenmenging wordt omgezet in de middenfrequentie, is er een tweede frequentie die via
+ondermenging met dezelfde oscillatorfrequentie dezelfde middenfrequentie levert. Zulke
+frequenties heten spiegelfrequenties. Als die niet goed worden onderdrukt, ontvangt je
+ontvanger twee keer zoveel frequenties als er in werkelijkheid zijn. De enige zinvolle
+plek voor onderdrukking van spiegelfrequenties is vóór de menging, dus in de HF-trap.
+Spiegelonderdrukking hoort dan ook bij de veraf-selectiviteit. Figuur 13.2-10 laat een en
+ander zien. Hij is een uitbreiding van Figuur 13.2-9; nu met spiegelfrequenties erbij.
+
+Middenfrequentie (MF)
+
+Afstemmingen HF & oscillator→
+Figuur 13.2-10. Hetzelfde plaatje als Figuur 13.2-9, uitgebreid met spiegelfrequenties. Dat zijn de twee rode
+stippellijnen.
+
+De grafiek laat zien dat afstemfrequentie en spiegelfrequentie bij zowel boven- als
+ondermenging gespiegeld aan de overkant van de oscillatorfrequentie liggen.
+Het verband tussen afstemfrequentie fa, spiegelfrequentie fsp en middenfrequentie fm is bij
+ondermenging:
+𝑓𝑠𝑝 = 𝑓𝑎 − 2𝑓𝑚
+
+( 13.2-1)
+
+𝑓𝑠𝑝 = 𝑓𝑎 + 2𝑓𝑚
+
+( 13.2-2)
+
+en bij bovenmenging:
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Vergelijkingen ( 13.2-1) en ( 13.2-2) laten zien dat het verschil tussen fa en fsp kleiner
+wordt bij lagere fm. Een lage fm is goed voor de nabij-selectiviteit. De onderdrukking van
+spiegelfrequenties wordt beter, naarmate fsp meer verschilt met fa. Dat is bij een hoge fm.
+Anders gezegd: wil je geen last van spiegelfrequenties, dan moet de middenfrequentie
+hoog zijn. Maar een hoge middenfrequentie leidt tot een mindere nabij-selectiviteit. Dat
+vraagt twee mengschakelingen en twee MF’s. Een hoge MF tegen spiegelfrequenties en
+een lage voor een goede nabij-selectiviteit. Dat is de dubbelsuper. (Figuur 13.2-11).
+
+HF-trap
+(preselectie)
+
+MF1
+
+Osc-1
+VFO
+
+MF2
+
+Osc-2
+Xtal
+
+Figuur 13.2-11. Opzet van een dubbelsuper-ontvanger t/m de tweede MF.
+
+De HF-trap doet de voorselectie. Die moet de verre spiegelfrequenties die bij de
+frequenties van MF-1 en eerste oscillator (Osc-1) horen, zo goed mogelijk buiten de deur
+houden. De oscillator is afstembaar. “VFO” betekent Variable Frequency Oscillator,
+oscillator met variabele frequentie. Soms wordt hij Local Oscillator (LO) genoemd.
+De frequentie van MF1 in Figuur 13.2-11 is met het oog op spiegelonderdrukking relatief
+hoog, Het daarmee samenhangende risico van een minder goede frequentiestabiliteit van
+de VFO wordt ondervangen door een ingewikkelder opbouw.
+Na menging van het signaal met de frequentie van Osc-1 volgt de eerste MF-trap, MF1.
+Daarin worden spiegelfrequenties die bij de tweede oscillator (Osc-2) en de tweede MF
+horen, zo goed mogelijk onderdrukt. Tegenwoordig gaat dat met een kristalfilter. Zulke
+filters bestaan uit een aantal kristallen die onderling iets in resonantiefrequentie
+verschillen. Door hun grote selectiviteit heeft de tweede MF-trap geen last van
+spiegelfrequenties.
+Osc-2 kan een kristaloscillator zijn, want zowel de eerste als de tweede middenfrequentie
+zijn constant. Bij de tweede menging ontstaat de tweede middenfrequentie (MF2).
+De dubbelsuper andersom
+Bij een dubbelsuper zijn soms de vaste en de variabele oscillator ten opzichte van Figuur
+13.2-11 verwisseld. Eerst een kristaloscillator voor omzetting naar een variabele MF1,
+gevolgd door een VFO voor de omzetting naar een vaste MF2. Deze opbouw zien we in
+Figuur 13.2-12. Hij komt soms voor in examenopgaven, maar is in de praktijk achterhaald
+door die van 13.2-11.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+HF-trap
+(preselectie)
+
+MF1
+
+MF2
+
+Osc-1
+Xtal
+
+Osc-2
+VFO
+
+Figuur 13.2-12. Dubbelsuper met kristal-oscillator aan de eerste mengtrap en VFO aan de tweede.
+
+Bij deze opzet moet de bandbreedte van de eerste MF (MF-1) minstens gelijk zijn aan de
+breedte van de hele te ontvangen band. Voor de 2- en 10-meter amateurband
+bijvoorbeeld, is dat 2 MHz. De tweede oscillator moet dan voldoende hoog in frequentie
+zijn om in de mengtrap geen spiegelfrequenties uit de eerste MF te krijgen.
+Frequentiefilters voor MF
+Tegenwoordig zijn MF-filters meestal kristalfilters. Algemene frequenties zijn 10,7 en 9
+MHz. De filters hebben verschillende bandbreedtes voor verschillende modulatiesoorten.
+Toen kristalfilters nog niet of alleen voor veel geld te koop waren, werden LC-filters en
+mechanische filters toegepast. Die LC-filters waren inductief gekoppelde kringen. Voor
+een redelijk scherpe selectie voor amateur-AM van 6 kHz breed moet je op zo’n 100 kHz
+of lager zijn. Dan hebben we het nog niet over EZB of CW. Dit leidt wel tot een ander
+probleem, namelijk dat van spiegelfrequenties.
+Bij amateurexamens worden soms vragen gesteld over LC-bandfilters. Daarom wijden we
+er een subparagraaf(je) aan.
+De koppelfactor k geeft het deel van het vermogen dat per radiaal van de ene kring naar
+de andere wordt overgedragen. Tegelijkertijd beschrijft de kwaliteitsfactor Q het
+vermogensverlies per radiaal van de kring. Als 𝑄 = 20, dan verliest de kring per periode
+2/20 (ongeveer 1/3) van het vermogen. Q en k zijn dus een soort tegengestelde
+grootheden. Figuur 13.2-13toont een schema met doorlaatkrommen.
+dB
+
+dB
+
+in
+
+dB
+
+uit
+
+- kHz
+
++ kHz
+
+- kHz
+
+onderkritisch
+
++ kHz
+kritisch
+
+- kHz
+
++ kHz
+
+overkritisch
+
+Figuur 13.2-13. Een inductief gekoppeld bandfilter (links) en drie doorlaatkrommen voor onderkritische,
+kritische en overkritische koppeling.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De figuur laat drie situaties zien:
+•
+•
+
+•
+
+𝑘𝑄 < 1, De kringen zijn onderkritisch gekoppeld. De doorlaatkromme lijkt op die
+van een enkelvoudig filter, maar is op de flanken wat steiler.
+𝑘𝑄 = 1, De kringen zijn kritisch gekoppeld. De verliezen waarvoor Q een maat is,
+worden precies gecompenseerd. De doorlaatkromme heeft een wat vlakkere top
+dan bij onderkritische koppeling en de flanken zijn wat steiler,
+𝑘𝑄 > 1, De kringen zijn overkritisch gekoppeld. Bij waarden van kQ tot ongeveer
+1,2 is de top vlak, een hogere kQ dan 1,2 geeft een doorlaatkromme met “oortjes”
+en een dip er tussenin (Figuur 13.2-13 rechts).
+
+Het verschil tussen kritisch en onderkritisch is bij een enkele doorlaatkromme zonder
+vergelijkend exemplaar niet gemakkelijk te zien. De doorlaatkromme van flink
+overkritisch gekoppelde kringen pik je er daarentegen zo uit. Inderdaad, aan de “oortjes”!
+Ongewenste effecten in een (dubbel)super
+Een versterkerschakeling die meerdere frequenties tegelijk moet versterken, moet ze met
+zo min mogelijk vervorming aan de uitgang weer afleveren. Omdat in elk versterkend
+element, hoe goed ook ingesteld, wat menging optreedt, ontstaan daarin mengproducten.
+Dat effect is sterker naarmate karakteristieken als steilheid of hFE (), krommer zijn.
+Het simpelste ongewenste effect is blokkeren (Eng.: blocking). Een sterk signaal aan de
+ingang van de HF-trap kan de HF- of MF-versterker dichtdrukken door gelijkrichting. Dat
+komt door verschuiving van het werkpunt van het versterkende element. Dat kennen we
+van het van het in klasse C trekken van een versterkend element in een versterker
+(Hoofdstuk 9) of oscillator (Hoofdstuk 10).
+Nummer twee is kruismodulatie. Als twee signalen de RF-trap en (vooral) de mixer
+binnenkomen, moduleert de modulatie van het sterkere signaal ook het zwakkere signaal.
+Een smalle MF-doorlaat houdt dit niet tegen, want het leed is dan al geschied.
+De derde is intermodulatie. Ontvangen signalen maken ook in de HF-trap mengproducten
+die binnen de ontvangen bandbreedte kunnen vallen. Als twee signalen f1 en f2
+binnenkomen, kan bijvoorbeeld 2f1 – f2 of 2f2 - f1 ontstaan. Je hoort zo meer “stations” dan
+er zijn. Op intermodulatiefrequenties binnen het afstemgebied van de ontvanger hoor je
+ze ook nog eens door elkaar.
+Enkele begrippen en grootheden bij ontvangers
+Selectiviteit
+Selectiviteit is de mate waarin ongewenste frequenties worden onderdrukt ten opzichte
+van de frequentie waarop de ontvanger staat ingesteld. We onderscheiden
+•
+•
+
+Veraf-selectiviteit. Heeft vooral betrekking op de onderdrukking van
+spiegelfrequenties. Deze vorm van selectiviteit is de selectiviteit in de HF-trap.
+Nabij-selectiviteit. Beschrijft de onderdrukking van frequenties vlak bij de
+gewenste frequentie. Die zit in de MF-trap(pen).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Gevoeligheid en ruis
+Gevoeligheid is het vermogen aan de ingang dat nodig is om een verstaanbaar signaal aan
+de uitgang te krijgen. Meestal wordt dat uitgedrukt in V over de ingangsimpedantie
+(vrijwel altijd 50 ). Gevoeligheid hangt vooral af van de signaal/ruisverhouding S/N of
+SNR (Signal to Noise Ratio). Het is de verhouding van de vermogens P van signaal en ruis:
+𝑆⁄𝑁 = 𝑆𝑁𝑅 =
+
+𝑃𝑠𝑖𝑔𝑛𝑎𝑎𝑙
+𝑃𝑟𝑢𝑖𝑠
+
+( 13.2-3)
+
+Meer versterken bij ruisproblemen helpt niet. Ruis en signaal worden evenveel versterkt.
+Ruis ontstaat in elke geleider met een temperatuur boven het absolute nulpunt (0 𝐾 ≈
+−273 °𝐶). Hoe hoger de temperatuur, hoe meer ruis. Vooral versterkende elementen en
+dioden kunnen ruis veroorzaken. Ruis bestaat uit een oneindig aantal frequenties tegelijk.
+In Hoofdstuk 10 staat een oscilloscoopbeeld met ruis. Dat is een foto. In werkelijkheid
+beweegt alles voortdurend. Klik op Foto 13.2-1, dan zie en hoor je het.
+
+Foto 13.2-1. Oscilloscoopbeeld van ruis. Klik erop en er komt een bewegend beeld met geluid van ruis.
+Schaal verticaal: 20 mV per schaaldeel, horizontaal 50 s per schaaldeel.
+
+Het ruisgetal F
+Niet alleen via de antenne komt ruis binnen. Een ontvanger maakt ruis, want erbinnen
+loopt stroom en er zitten versterkende elementen en dioden. Het ruisgetal F is de signaalruisverhouding 𝑆𝑖𝑛 ⁄𝑁𝑖𝑛 op de ingang gedeeld door 𝑆𝑢𝑖𝑡 ⁄𝑁𝑢𝑖𝑡 op de uitgang. De
+vergelijking:
+𝑆𝑖𝑛
+𝑆𝑢𝑖𝑡
+𝑆𝑖𝑛 𝑁𝑢𝑖𝑡
+( 13.2-4)
+=𝐹
+→𝐹=
+𝑁𝑖𝑛
+𝑁𝑢𝑖𝑡
+𝑁𝑖𝑛 𝑆𝑢𝑖𝑡
+Bij een ideale ontvanger is 𝐹 = 1. Ideaal bestaat ook hier niet. In een ontvanger met aan
+de ingang een SNR van 1000 (30 dB) en aan de uitgang één van 200 (23 dB), geldt voor F
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+𝐹=
+
+1000
+=5
+200
+
+Of
+𝐹 = 30 dB − 23 dB = 7 dB
+
+F kan worden uitgedrukt als getal of in dB. Het is altijd opletten of achter een waarde voor
+F wel of geen “dB” staat!
+Faseruis
+Faseruis kan leiden tot zogenoemde reciproke menging. Daarbij kan een sterk signaal
+waarvan de frequentie niet ver van de gewenste frequentie ligt, worden meegemengd naar
+de MF. We laten dat zien in Figuur 13.2-14.%
+
+Ongewenst signaal
+Gewenst signaal
+
+MF met
+doorlaat
+
+Frequentie →
+
+LO (local oscillator)
+
+Situatie met faseruis
+
+Ongewenst signaal
+Gewenst signaal
+
+LO (local oscillator)
+
+MF met
+doorlaat
+
+Ideale situatie
+
+Frequentie →
+
+Figuur 13.2-14. Reciproke menging. Links de ideale situatie zonder faseruis. Het mengproduct van het
+paarse signaal valt buiten de MF-doorlaat. Rechts alles met faseruis. Het paarse mengproduct valt deels
+binnen de (zwart gestippelde) doorlaat van de MF-trap.
+
+Je luistert naar een gewenst signaal (blauw). Vlak ernaast zit een (veel) sterker ongewenst
+signaal (paars). Zonder faseruis, de ideale situatie in de linker figuur, valt het mengproduct
+van het paarse signaal netjes buiten de MF-doorlaat. In werkelijkheid (rechter figuur)
+maakt faseruis dat mengproducten van het paarse signaal deels binnen de MF-doorlaat
+vallen. Is het paarse signaal zwak ten opzichte van het gewenste, dan merk je er weinig
+van. Is dat signaal (veel) sterker, dan kan het overlast opleveren.
+HF-verzwakker
+Een goede ontvanger heeft een ingangsverzwakker in de HF-trap. De reden is het
+tegengaan van intermodulatie en kruismodulatie. Verzwak alle signalen en ongewenste
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+modulaties verdwijnen weliswaar niet altijd helemaal, maar de verstaanbaarheid van een
+gewenst signaal kan er wel beter op worden. De SNR (S/N) verandert er nauwelijks door.
+
+13.3 Detectieschakelingen
+Omhullende-detector (AM)
+Een omhullende-detector voor AM hebben we gezien in 13.2.2 bij de kristalontvanger. Na
+gelijkrichting hebben we:
+•
+•
+•
+•
+
+De draaggolffrequentie met harmonischen
+Draaggolffrequentie + LF
+Draaggolffrequentie – LF
+LF
+
+De eerste drie zijn veel hoger in frequentie dan het LF-signaal. Daardoor volstaat een
+simpel laagdoorlaatfilter om alleen het LF-signaal over te houden.
+Detectie van DZB
+Bij DZB ontbreekt de draaggolf (vrijwel). Voor detectie moet deze weer worden
+toegevoegd. Dat vraagt om een oscillator. Die heet net als bij EZB-detectie Carrier
+Injection Oscillator (CIO) of Beat Frequency Oscillator (BFO). Figuur 13.3-1 toont het
+blokschema van mengtrap en aanhangende schakelingen.
+
+LF (oorspronkelijke
+modulatie)
+
+DZB
+LDF
+BFO
+
+Figuur 13.3-1. Blokschema van DZB-detectie.
+
+Figuur 13.3-2 is een gestyileerde weergave van de frequentiesamenstelling van een DZBsignaal (Engels: DSB, Double Side Band).
+
+Figuur 13.3-2. Gestileerd spectrum van een DZB-signaal. Links de onderste zijband, rechts de bovenste. Het
+stippellijntje in het midden geeft de positie van de onderdrukte draaggolf weer. Hoe groter de afstand tot de
+stippellijn, des te hoger de frequentie van de oorspronkelijke modulatie.
+
+De beide zijbanden liggen symmetrisch aan weerskanten van de positie van de draaggolf.
+Die laatste is het stippellijntje in de figuur. Bij detectie komen de problemen. Ten eerste
+moeten de afstanden tussen draaggolfpositie en de zijbanden exact gelijk zijn. Zo niet, dan
+ontstaan uit bovenste en onderste zijband detectieproducten van ongelijke toonhoogte. De
+BFO in Figuur 13.3-1 moet dus exact dezelfde frequentie afleveren als die van de
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+oorspronkelijke draaggolf. Ten tweede moeten de fasen van de oorspronkelijke draaggolf
+en die uit de BFO gelijk zijn. Dit heet synchrone detectie. Bij verschuivend faseverschil
+gaat de LF-signaalsterkte op en neer. Dit leidt tot een ingewikkelde BFO.
+Detectie van EZB
+In EZB zit maar één zijband. De BFO-frequentie hoeft dan niet exact gelijk te zijn aan die
+van de oorspronkelijke draaggolf. EZB-detectie is dan ook eenvoudiger dan die van DZB.
+Een EZB-signaal (SSB in het Engels) kan de bovenste of de onderste zijband zijn. Dat
+maakt verschil bij het detectieproces. Bij de bovenste zijband (BZB of USB, Upper Side
+Band) is de signaalfrequentie de som van draaggolf en modulatie. Bij de onderste zijband
+(OZB of LSB, Lower Side Band) is dat het verschil van die twee (Figuur 13.3-3).
+
+Spraaksignaal
+
+USB-signaal
+Demoduleren USB
+
+USB
+
+LSB-signaal
+Demoduleren LSB
+
+Moduleren LSB
+
+Onderdrukte draaggolf
+
+Moduleren USB
+
+LSB
+
+Figuur 13.3-3. Gestileerd spectrum van een spraaksignaal en bijbehorend USB-signaal (rood) en LSB-signaal
+(blauw). Paars: onafhankelijk van USB of LSB.
+
+Figuur 13.3-3 laat ook zien dat bij demodulatie van een USB-signaal de frequentie van de
+BFO die op de plaats moet komen van de onderdrukte draaggolf, net onder de laagste
+frequentie van het USB-signaal ligt. Voor LSB ligt die frequentie daar net boven. Aan de
+BFO-frequentie uit een kristaloscillator valt weinig te verstemmen. Dan moet bij
+omschakelen tussen USB en LSB de oscillator voor menging naar MF worden verstemd.
+Beluister USB in de LSB-stand of LSB in de USB-stand en je hoort onverstaanbare taal.
+Het blokschema van een enkelsuper voor EZB kan er uitzien als in Figuur 13.3-4.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-17
+
+VRZA-cursus radiozendamateur
+
+HF-versterker
+
+Mixer
+
+Hoofdstuk 13_kort_20250925
+
+Middenfrequent
+versterker
+
+Mixer
+
+Laagfrequent
+(LF) versterker
+
+Local Oscillator (LO) Beat Frequency Oscillator (BFO)
+=
+Carrier Injection Oscillator (CIO)
+Figuur 13.3-4. Blokschema van een enkelsuper voor EZB-ontvangst.
+
+USB die LSB wordt (en omgekeerd)
+In sub-paragraaf 13.2.5 hebben we kennis gemaakt met onder- en bovenmenging.
+Bij ondermenging is de hulpfrequentie fL lager dan de signaalfrequentie fs, dus 𝑓𝐿 < 𝑓𝑠 .
+Voor de middenfrequentie fm geldt dan
+𝑓𝑚 = 𝑓𝑠 − 𝑓𝐿
+Omdat 𝑓𝐿 < 𝑓𝑠 , is fm positief. Maar bij bovenmenging is 𝑓𝑠 < 𝑓𝐿 . Er ontstaat geen negatieve
+frequentie. Die bestaat niet. De oplossing:
+𝑓𝑚 = 𝑓𝐿 − 𝑓𝑠
+Bij menging komt in de berekening van de frequentie van het mengproduct de hoogste
+frequentie voorop. Bij AM, DZB en EZB veranderen de zijbanden ten opzichte van elkaar
+van positie. Bij AM en DZB zijn beide zijbanden elkaars spiegelbeeld en daardoor
+verandert er in de praktijk niets. Bij EZB wordt een LSB- signaal USB en omgekeerd. In
+het LF-signaal worden de hoge tonen laag en de lage tonen hoog. Resultaat: een
+onverstaanbaar signaal. Oplossing: USB na menging behandelen als LSB en omgekeerd.
+Detectie van CW-signalen
+Een CW-signaal (Morsetelegrafie) is een kale draaggolf die aan of uit is. Met AM-detectie
+hoor je niets of ruis. Het CW-signaal wordt net zo gemengd als een EZB-signaal. Je hoort
+één toon. USB of LSB maakt niets uit, hoogstens voor de toonhoogte.
+Een EZB-ontvanger is daarom geschikt voor CW. Een apart CW-filter met een
+bandbreedte van ongeveer 500 Hz verbetert de ontvangst. Daarmee wordt ten opzichte
+van een EZB-ontvanger ruis weggefilterd: van een bandbreedte van 2700 Hz naar één in
+de buurt van 500 Hz. Dat is een factor 5,4. Ruim 7 dB in het voordeel van CW.
+Ontvangers voor directe conversie (DC-ontvanger)s
+Een DC-ontvanger converteert hoogfrequent meteen naar audio (LF) (Figuur 13.3-5).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-18
+
+VRZA-cursus radiozendamateur
+
+HF-versterker
+
+Mixer
+
+Hoofdstuk 13_kort_20250925
+
+Laagfrequent
+(LF) versterker
+
+Local Oscillator (LO)
+Figuur 13.3-5. Blokschema van een DC-ontvanger
+
+De frequentie van de LO (de termen BFO of CIO mogen hier ook) is gelijk aan die van de
+(onderdrukte) draaggolf. Dat betekent een MF van 0 Hz.
+Het laagdoorlaatfilter achter de mixer bepaalt de bandbreedte. De DC-ontvanger is een
+bruikbare DSB-ontvanger en is ook geschikt voor USB en LSB.
+De DC-ontvanger kan ook AM aan, maar er ontstaat gemakkelijk een hinderlijke toon
+door menging van LO-signaal en draaggolf. Als beide frequenties precies aan elkaar gelijk
+zijn, is de verschiltoon 0 Hz. Dit stelt een forse eis aan de frequentiestabiliteit van de LO.
+Detectie van FM-signalen
+Een FM-signaal laat zich niet demoduleren met schakelingen voor demodulatie van AM,
+DSB of EZB. Een FM-signaal bevat geen informatie in de amplitude. Om storende AMeffecten te verwijderen, wordt het FM-signaal in de ontvanger via een begrenzer op één
+vaste amplitude begrensd. We bespreken flankdetectie en kwadratuurdetectie. Aan het
+eind bespreken we een manier van ruisonderdrukking (squelch).
+Flankdetector
+Bij flankdetectie wordt het FM-signaal gedetecteerd op de flank en niet op de top van de
+doorlaat van een bandfilter, zoals bij AM. De frequentie het dichtst bij de top van de
+doorlaat krijgt een grotere amplitude dan één die daar verder vanaf ligt (Figuur 13.3-6).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+1.2
+Zwaai
+
+0.8
+
+0.4
+ve
+tcur
+a
+a
+l
+r
+Doo ndfilter
+ba
+
+0.0
+0.5
+
+Frequentie →
+1.5
+
+1.0
+
+Figuur 13.3-6. Schematische weergave van filtering bij flankdetectie.
+
+Het FM-gemoduleerde signaal komt met overal dezelfde amplitude het bandfilter in. De
+afstand tussen de rode lijnen in de figuur is de zwaai. De hoogste frequentie wordt het
+minst verzwakt, de laagste het meest. Bij gebruik van de tegenoverliggende flank van de
+doorlaatcurve is het andersom. Gebruik van de flank van de doorlaat verklaart de naam.
+De frequentie-afhankelijke verzwakking geeft het oorspronkelijke FM-signaal AM- èn
+FM-eigenschappen. Het wordt gedemoduleerd als was het een AM-signaal.
+Het gebruik van een krom deel van de doorlaatcurve samen met de betrekkelijk grote
+bandbreedte van een FM-signaal, maakt dat flankdetectie tot vervorming kan leiden. Ruis
+en storing van andere signalen worden minder goed onderdrukt. Daarvoor zijn vrij goede
+oplossingen. Eén is de verbeterde flankdetector (Figuur 13.3-7).
+
+L1
+
+C1
+
+C3
+
+R1
+
+MF-output
+in
+
+LF uit
+L2
+
+C2
+
+C4
+
+Figuur 13.3-7. Verbeterde flankdetector.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-20
+
+R2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De resonantiefrequenties van de kringen L1C1 en L2C2 verschillen iets. De spanningen
+over de kringen worden afzonderlijk gelijkgericht. Door de filters C3R1 en C4R2 blijft het
+LF-deel over. Het LF-signaal aan de uitgang is de spanning tussen beide filteruitgangen.
+De schakeling lijkt op het eerste gezicht op een dubbelzijdige gelijkrichter. Behalve de
+afgestemde kringen is het verschil dat rechts van de twee dioden de leidingen niet worden
+samengevoegd, maar dat de spanning tussen die twee de eigenlijke output is.
+Kwadratuurdetector
+De schakeling is weergegeven in Figuur 13.3-8.
+
+L
+MF-in
+
+C
+
+LF-uit
+
+Figuur 13.3-8. Kwadratuurdetector. Links het bandfilter met inductief gekoppelde kringen, in het midden
+de DBM en rechts een laagdoorlaatfilter bestaande uit een spoel en een condensator.
+
+Het hart van een kwadratuurdetector is een DBM (Double Balanced Modulator, of Double
+Balanced Mixer (Hoofdstuk 12). Hij werkt ook als fasedetector. In hoofdstuk 12 zagen we
+dat er tussen frequentie- en fasemodulatie weinig verschil is. Het FM- of PM-signaal komt
+de DBM binnen via twee ingangen. Eén keer rechtstreeks en één keer via een bandfilter
+dat is afgestemd op de MF. (Figuur 13.3-8).
+Aan de uitgang van de DBM verschijnen de som- en verschilfrequentie. De somfrequentie
+wordt effectief onderdrukt door het LC-laagdoorlaatfilter op de uitgang. De
+verschilfrequentie is 0 Hz, ofwel gelijkspanning. De grootte is afhankelijk van het
+faseverschil tussen de signaalingangen van de DBM. Het faseverschil ontstaat doordat één
+ingang het signaal rechtstreeks krijgt aangeboden en de andere via het bandfilter.
+Het bandfilter is afgestemd op de middenfrequentie. Bij de kleine veranderingen in
+frequentie, eigen aan FM en PM, heeft zo’n filter een aantal perioden nodig om de
+verandering te volgen. Daardoor ontstaat een faseverschil tussen de twee DBM-ingangen.
+De uitgangsspanning van de DBM volgt het veranderende faseverschil en is daarmee een
+wisselspanning geworden die de oorspronkelijke modulatie volgt.
+De naam kwadratuurdetector verwijst naar het feit dat de DBM twee signalen van gelijke
+frequentie vermenigvuldigt. Een kwadraat is het product van twee gelijke getallen of
+grootheden.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Andere FM-detectoren
+FM-detectoren (discriminatoren) die vroeger tot de examenstof behoorden, doen dat nu
+niet meer. Je kunt de namen tegenkomen in (praktisch altijd) foute antwoorden bij de
+multiple-choice examenvragen. Het gaat om
+•
+•
+
+Foster-Seeley-discriminator (of -detector)
+Ratiodetector
+
+Onthoud de namen zodat je ze kunt herkennen.
+Ruisonderdrukking (squelch)
+Bij afwezigheid van signaal produceert een FM-ontvanger als gevolg van de grote HF- en
+MF-versterking veel ruis die na verloop van tijd kan irriteren.
+Die ruis neemt af zodra er maar een heel klein signaal is. Dan neemt dat signaal als het
+ware de detector over.
+Om de ruis bij afwezigheid van signaal te onderdrukken, is er de squelch schakeling die de
+verbinding tussen detector en LF-versterker uitschakelt tot bij signaalontvangst de ruis
+beneden een instelbare waarde ligt. Figuur 13.3-9 geeft een voorbeeld van een squelchschakeling.
+
++
+LF van
+FM-detector
+Hoogdoorlaatfilter
+
+T2
+Vergelijker
+
+Gelijkrichter
+
+T1
+
+LF uit
+
+Instelling
+squelch-niveau
+Squelch-schakelaar
+Figuur 13.3-9. Voorbeeld van een squelch-schakeling.
+
+Het LF uit de detector (discriminator) komt linksboven binnen. Het loopt via een
+condensator door naar transistor T2. Een aftakking leidt een deel van het signaal via een
+hoogdoorlaatfilter en een gelijkrichter naar één van de twee ingangen van een
+spanningsvergelijker. Op de andere ingang staat een instelbare gelijkspanning. Als de
+gelijkgerichte ruisspanning hoger is dan de spanning op de aftakking van de potmeter,
+komt transistor T1 in geleiding. Daardoor wordt de basisspanning van T2 zo laag dat T2
+spert. Weg ruisgeluid. Zodra er een signaal aan de ingang verschijnt en de ruis wegdrukt,
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+gaat T1 dicht, T2 open en wordt via T2 het signaal onbelemmerd doorgegeven. Squelchschakelingen zijn ook toepasbaar voor andere modulatiesoorten als AM, EZB en DZB.
+
+13.4 Transceivers (zendontvangers)
+Tot nu toe hebben we zenders en ontvangers los van elkaar behandeld. De dagelijkse
+praktijk van de zendamateur is dat ze bijna altijd samen in één apparaat zitten. Zender en
+ontvanger delen dan enkele zaken als voeding en oscillatoren, afstemming en dergelijke.
+In het Engels heet dat een transceiver, een samentrekking van de woorden transmitter
+(zender) en receiver (ontvanger). In het Nederlands is dat zendontvanger. Onder
+zendamateurs heet dat meestal een set. Figuur 13.4-1 laat in een blokschema een
+voorbeeld zien van een transceiver voor de 20-meter amateurband, 14,000 – 14,350 MHz.
+DBM
+
+DBM
+EZB-filter
+9MHz
+
+Osc. 9 MHz
+
+LF
+
+PTT
+
+Stuurtrap
+
+VFO
+variabele osc.
+23-23,35 MHz
+
+Eindtrap
+(PA)
+
+Antennerelais
+
+DBM
+MF
+9 MHz
+
+HF
+
+MF
+455 kHz
+
+Detector
+
+LF
+
+DBM
+2e oscillator
+9,445 MHz
+
+Voeding
+
+Figuur 13.4-1. Blokschema van een EZB-TRX voor 14...14,35 MHz. Rood: hoort bij zender, blauw: hoort bij
+ontvanger, zwart: hoort bij beide. “PTT” (Push To Transmit) is de leiding van de microfoonschakelaar.
+Indrukken (push) betekent zenden, loslaten ontvangen.
+
+Het rode zenderdeel voor de amateurband van 14,000 tot 14,350 MHz (“20 m”) staat
+bovenin, het blauwe ontvangerdeel onder. De zwarte delen (antenne, antennerelais, VFO
+en voeding) hebben een algemene functie. De VFO geeft in de ontvanger bovenmenging
+naar een MF van 9 MHz. De vaste oscillator van 9,445 MHz geeft in de ontvanger
+bovenmenging naar 455 kHz, een gebruikelijke lage middenfrequentie.
+Het antennerelais schakelt de antenne van zender naar ontvanger. Het relais wordt
+aangestuurd door een schakelaar op de microfoon (PTT, Push To Transmit, indrukken om
+te zenden). Dit is maar een voorbeeld. Het kan allemaal ook anders.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+13.5 De S-meter
+Praktisch elke amateurontvanger heeft een S-meter. De S is van Signaalsterkte. De meter
+heeft een logaritmische schaal. Ook ons oor is min of meer logaritmisch. Een met 3 bB
+veranderde signaalsterkte betekent een verdubbeld of gehalveerd ontvangen vermogen.
+De meter wordt aangestuurd met een klein gelijkgericht deel van het ontvangen en
+versterkte signaal. Meestal is dat de AVR-spanning.
+De S-schaal geeft de effectieve spanning van het ontvangen signaal op de antenne-ingang.
+Op vrijwel elke amateurontvanger is de antenne-ingang 50 . Met de ingangsspanning
+ligt daarmee ook het ingangsvermogen vast. De schaal is niet in volts, maar in S-punten.
+De S-schaal loopt van 1-9. Elke stap omhoog met 1 punt komt overeen met een
+verdubbeling van de ingangsspanning. Dat betekent een stap van 6 dB per S-punt.
+Moderne ontvangers hebben een dynamisch bereik dat (veel) hoger ligt dan 9 S-punten.
+Dat betekent dat de S-schaal in de praktijk is uitgebreid tot S9 + 10 dB, S9 +20 dB, enz.
+Er is verschil tussen HF (tot 30 MHz) enerzijds en VHF en UHF (boven 30 MHz)
+anderzijds. Om precies te zijn: 20 dB. In spanning uitgedrukt is dat een factor 10. Voor HF
+is S9 = 50 V op de antenne-ingang., voor hogere frequenties is dat 5 V.
+In de praktijk zijn de meeste S-meters alleen redelijk goed geijkt voor S9. Zou je ze echt
+met een geijkte frequentiegenerator herijken, dan komen de S-punten meestal op
+ongelijke afstanden op de (analoge) schaal.
+Samengevat: S1-S9 klimt op met stappen van 6dB, daarboven is het S9 plus een aantal dB,
+meestal in stappen van 10.
+
+13.6 Phase Locked Loop (PLL) of fasevergrendelde lus
+Doel en werking van een PLL
+In het Nederlands heet de Phase Locked Loop, afgekort PLL, fasevergrendelde lus. Het is
+een manier om een variabele oscillator de stabiliteit van een kristaloscillator te geven. De
+aansturing van de variabele oscillator gaat elektronisch, in dit geval via een spanning.
+Uit hoofdstuk 10 kennen we de spanninggestuurde oscillator (VCO, Voltage Controlled
+Oscillator). De frequentie wordt geregeld met de spanning over een capaciteitsdiode.
+Hoe koppel je een kristaloscillator via een spanning aan een VCO? We kennen de
+kwadratuurdetector in 13.3.7. Dat was de DBM die, als hij twee gelijke frequenties
+aangeboden krijgt, behalve de somfrequentie een gelijkspanning afgeeft die afhangt van
+het faseverschil. De output van de DBM passeert een laagdoorlaatfilter, verliest de
+somfrequentie en een fase-afhankelijke spanning blijft over.
+Die overgebleven spanning stuurt een VCO aan. De frequentie van de VCO komt weer
+terecht op de ingang van de fase-vergelijkende DBM, enz. Het heet dan ook een faselus.
+Ook dit is een vorm van tegenkoppeling. Figuur 13.6-1 laat een blokschema zien.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Bufferversterker
+
+DBMfasevergelijker
+fin
+LDF
+VCO
+
+Figuur 13.6-1. Fasevergrendelde lus (PLL) met dubbel gebalanceerde mixer (DBM) en bufferversterker.
+
+Als bij inschakelen de VCO uit de pas loopt met de ingangsfrequentie, dan is op de uitgang
+van de fasevergelijker de verschilfrequentie van beide aanwezig. Die laat de frequentie
+van de VCO veranderen tot deze gelijk is aan die van de kristaloscillator. Dan blijft de
+frequentie zoals die op dat moment was. Die is vergrendeld of op zijn Engels locked en in
+slecht Nederlands gelockt. In zijn eenvoudigste vorm bestaat een PLL dus uit:
+•
+•
+•
+•
+
+Een fasevergelijker;
+Een laagdoorlaatfilter (LDF);
+Een VCO;
+Indien nodig een versterker tussen LDF en VCO
+
+Tot zover de analoge uitvoering van de PLL. Een digitale uitvoering bestaat ook. Daarin
+neemt een exclusieve OF-poort de functie van de DBM/fasevergelijker over. De VCOfrequentie is dan een blokspanning. Figuur 13.6-2 laat de werking zien.
+
+fin
+fVCO
+
+=1
+
+finfVCO
+
+fVCO
+
+Ugemidd.
+
+fin
+
+finfVCO
+Figuur 13.6-2. Fasevergelijker met EXOF-poort.
+
+Naarmate het faseverschil tussen fin en fVCO kleiner is, zijn de pulsjes smaller. Als de pulsjes
+vervolgens een laagdoorlaatfilter doorlopen, houden we de gemiddelde spanning over
+(Ugemidd., helemaal rechts in de figuur). Ook zo ontstaat een fase-afhankelijke spanning.
+Bij zowel de analoge als de digitale uitvoering komt de ingangsfrequentie over het
+algemeen direct of via een tussenstap uit een kristaloscillator. Zo’n oscillator wordt
+meestal referentie-oscillator genoemd (Figuur 13.6-3).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Fasevergelijker
+Referentieoscillator
+
+LDF
+
+VCO
+Figuur 13.6-3. PLL met referentieoscillator. De bufferversterker van Figuur 13.6-1 is niet meegetekend,
+want die hoeft er niet altijd in te zitten.
+
+De figuur laat zien dat de combinatie van fasevergelijker, LDF en VCO een gesloten lus
+vormt die wordt aangestuurd door de referentie-oscillator.
+Zoals gezegd, is een PLL eigenlijk een teruggekoppeld systeem zoals opampschakelingen
+en oscillatoren. Bij die laatste twee wordt spanning, stroom of vermogen teruggekoppeld,
+bij de PLL is dat fase.
+De PLL als FM-detector
+Vervang de referentie-oscillator door de MF van een FM-ontvanger (Figuur 13.6-4).
+
+FM-signaal
+
+Fasevergelijker
+
+LDF
+
+VCO
+
+LF
+
+Figuur 13.6-4 De PLL als FM-detector
+
+De regelspanning op de VCO moet zich nu steeds aanpassen om de uitgangsfrequentie van
+de VCO in de pas te laten lopen met die van de FM-ontvanger. Dan is de uitgangsspanning
+van het LDF de modulatie van het FM-signaal. Dat levert een demodulator voor FM (en
+PM).
+De PLL als frequentiesynthesizer
+Met een frequentiedeler in de faselus kan een PLL worden gebruikt als
+frequentievermenigvuldiger. Met een instelbare deler is de frequentie instelbaar. Figuur
+13.6-5 laat een blokschema zien.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Fasevergelijker
+Referentieoscillator
+
+LDF
+
+fref
+fVCO
+=fref
+n
+Frequentie
+deler (:n)
+
+fVCO
+
+VCO
+fVCO=nfref
+
+Aansluitingen
+voor
+instelling deler
+Figuur 13.6-5. PLL als instelbare frequentievermenigvuldiger.
+
+De frequentie fVCO van het uitgangssignaal van de VCO wordt in de frequentiedeler door n
+gedeeld. De frequentie uit de deler komt in de fasevergelijker samen met het signaal van
+de referentie-oscillator. Het resultaat daarvan passeert het laagdoorlaatfilter (LDF). De
+output van het LDF belandt als stuurspanning op de VCO. Na enkele perioden van de
+referentie-oscillator is een stabiele situatie bereikt: de PLL vergrendelt. De VCO levert nu
+n maal de frequentie van de referentie-oscillator. Is de referentiefrequentie bijvoorbeeld
+25 kHz, dan kan door instellen van het deeltal een frequentie in stappen van 25 kHz
+worden gemaakt. De PLL maakt van een frequentiedeler een frequentievermenigvuldiger!
+Zenden met een PLL
+Met een PLL is ook een frequentiemodulator te maken. Tel een microfoonsignaal op bij de
+stuurspanning op de VCO en je hebt bruikbare FM (Figuur 13.6-6).
+Referentieoscillator
+
+Fasevergelijker
+
+LDF
+
+VCO
+
+Optelschakeling
+
+Stuurtrap
+
+Eindtrap
+
+Figuur 13.6-6. FM-zender met PLL.
+
+De amplitude van het microfoonsignaal moet zo klein zijn dat de maximale zwaai van het
+VCO-signaal niet wordt overschreden. Er kan ook een frequentiedeler als in Figuur 13.6-5
+in het schema worden ingebouwd voor gebruik op hogere frequenties. Aandachtspunt:
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+een frequentiedeler met deeltal n in de lus geeft behalve een n maal zo hoge frequentie
+ook een n maal zo grote zwaai!
+
+13.7 Van analoog naar digitaal en terug
+Inleiding
+In amateurapparatuur worden steeds meer digitale technieken toegepast. Kennis daarvan
+hoort tot de exameneisen. De aanstaande zendamateur hoeft niet van alles het fijne te
+weten, maar enige kennis boven die van poorten, flipflops en schuifregisters is wel vereist.
+Een signaal komt vrijwel altijd analoog een ontvanger binnen en moet er vaak ook weer
+analoog uit, want onze oren zijn nu eenmaal analoog. Het ligt daarom voor de hand dat
+we beginnen met de vraag hoe je van een analoog signaal iets digitaals maakt en later van
+een bewerkt digitaal signaal weer iets analoogs. Daartussenin zit digitale
+signaalbewerking. Daarom komt die ook aan de orde.
+Een ontvanger kan voor een groter of kleiner deel digitaal zijn. Het meest algemeen is de
+DSP (Digital Signal Processor, digitale signaalverwerker) in het LF-deel. Daarmee kan
+bijvoorbeeld worden gespeeld met verschil in sterkte tussen hoge en lage tonen voor een
+zo goed mogelijke verstaanbaarheid. Een vrijwel geheel digitale ontvanger kan ook. Ook
+afstemming is vaak digitaal.
+De volgorde van analoog naar digitaal en terug is:
+1.
+2.
+3.
+4.
+
+Bemonstering van het analoge signaal;
+Omzetting van analoog naar digitaal (ADC, Analoog-Digitaal-Conversie);
+Bewerking van het digitale signaal, bij voorbeeld in een DSP;
+Omzetting van het digitale signaal naar analoog (DAC, Digitaal-AnaloogConversie);
+5. Toepassing van een reconstructiefilter, waarin de resten van de digitale
+behandeling als pulsen of trapjescurven, zo goed mogelijk worden gladgestreken.
+Bemonstering van analoge signalen
+Een analoog signaal kan gedurende elke tijdsperiode een oneindig aantal waarden
+aannemen. Een digitaal systeem kan dat niet. Dat kan een eindig aantal waarden en een
+eindig aantal tijdstappen aan. Een digitaal signaal bestaat uit opeenvolgende pulsen waarin
+binnen een puls niets verandert. 0 blijft 0 en 1 blijft 1.
+Voor digitale verwerking moet een analoog signaal eerst in stukjes met één waarde
+worden gebroken. Op vaste tijdsafstanden wordt de momentele waarde van het signaal
+gemeten. Signaalwaarde èn tijd worden elk omgezet in een reeks getallen. Een zo’n setje
+van tijd en meetwaarde heet een monster, in het Engels sample. Het analoge monster mag
+niet meetbaar in waarde veranderen tot het is omgezet in digitale code. Bemonsteren
+gebeurt met een zogenoemde sample and hold schakeling (Figuur 13.7-1).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+stuursignaal
+analoog
+signaal
+
+S
+
++
+
+digitaal
+signaal
+
+ADC
+C
+
++
+
+Figuur 13.7-1. Voorbeeld van een sample-and-hold-schakeling met analoog-digitaal converter (ADC) rechts.
+
+Het analoge signaal komt binnen op de niet-inverterende ingang van de spanningsvolger
+links. De uitgang ervan is verbonden met een schakelaar S. Die is altijd elektronisch en
+nooit mechanisch, zoals hier voor de eenvoud is getekend. De condensator na de
+schakelaar houdt de spanning vast tot de analoog naar digitaal converter (ADC) hem heeft
+omgezet naar een digitale waarde. Vervolgens wordt een nieuw monster genomen. De
+output van de ADC wordt digitaal opgeslagen en verwerkt. Figuur 13.7-2 toont wat er na
+bemonstering van een analoog sinusvormig signaal overblijft.
+1,00
+
+U/Umax
+
+0,50
+0,00
+-0,50
+-1,00
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Monster nr.
+Figuur 13.7-2. Sinusvormige spanning, 5 perioden, 100 maal bemonsterd.
+
+Elke rode stip is één monsterwaarde. Per sinusperiode zijn het er in dit geval 20. De
+sinusvorm is goed te herkennen. Maar er zijn complicaties.
+Valkuilen bij signaalbemonstering; de regel van Nyquist-Shannon, aliasing
+Voor een digitale beschrijving van een signaal moet je zoveel monsters nemen dat uit de
+lijst van getallen die daaruit ontstaat, nagenoeg hetzelfde signaal weer kan worden
+opgebouwd. Een signaal moet dan met een zekere minimale frequentie worden
+bemonsterd. Elke bemonstering levert een stip van het signaal, zoals in Figuur 13.7-2.
+In de stippen van Figuur 13.7-2 herkennen we moeiteloos een sinus. Er zijn 5 perioden die
+in totaal 100 maal zijn bemonsterd. De bemonsteringsfrequentie in Figuur 13.7-2 is 20
+maal de frequentie van de sinus. Stel dat de sinusfrequentie 100 Hz is. Dan is de
+bemonsteringsfrequentie 20 ∗ 100 Hz = 2 kHz. Bij de reconstructie van de sinus kunnen
+we een lijntje tussen twee opeenvolgende punten tekenen. Als we naar Figuur 13.7-2
+kijken, doen onze hersenen dat voor ons.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Stel dat het om een andere golfvorm gaat dan een sinus, bijvoorbeeld een blokgolf. Die
+bevat oneven harmonischen, weten we uit hoofdstuk 5. Die harmonischen mogen bij de
+bemonstering niet merkbaar worden aangetast. Dat zou ten koste van de golfvorm gaan.
+Om dat te laten zien, bevat de volledige tekst van dit hoofdstuk een experiment met een
+sinus en een blokgolf en een hoge en een lage bemonsteringsfrequentie.
+Wie wil terugkijken, gaat naar de volledige versie van dit hoofdstuk. We bespreken in
+deze verkorte tekst de uitkomsten. Het experiment toonde toenemende vervorming in de
+blokspanning bij afnemende bemonsteringsfrequentie. De flanken van de blokken werden
+schuin en de blokken zelf niet allemaal even breed. Daarmee verdween de symmetrie van
+de blokgolf. Een symmetrische blokspanning bevat alleen oneven harmonischen. Een
+pulsspanning, dus een spanning met andere afstanden tussen dan binnen de blokken,
+bevat ook even harmonischen. Die waren blijkbaar zomaar ontstaan. De schuine
+blokflanken gaven aan dat sommige oneven harmonischen van de blokgolf verzwakt of
+verdwenen waren. Er was een breder blok met lage herhalingsfrequentie. Een nieuwe lage
+frequentie? Zou ons bemonsteringsproces er even harmonischen bij hebben gemaakt? De
+sinus kwam ongeschonden door het bemonsteringsproces. Dit vraagt om een verklaring.
+De heren Harry Nyquist en Claude Shannon vonden die onafhankelijk van elkaar.
+Vandaar dat je soms de term Nyquist-frequentie tegenkomt en soms stelling (theorema) of
+regel van Shannon en soms stelling of regel van Nyquist-Shannon. De regel komt neer op
+het volgende:
+Om informatie uit een bemonsterd signaal te behouden, is een bemonsteringsfrequentie
+nodig die minstens 2x zo groot is als de hoogste frequentie in dat signaal.
+Die frequentie staat bekend als de Nyquist-frequentie. Anders gezegd: minstens 2
+monsterpunten per periode zijn “verplicht”.
+Dit verklaart het schuiner worden van de blokspanning door bemonsteren, want de
+hogere harmonischen zijn als gevolg van de lagere bemonsteringsfrequentie verdwenen.
+Het verklaart ook waarom de sinus intact bleef, want die heeft geen harmonischen. Maar
+het verklaart niet die rare veel lagere frequentie bij de blokspanning.
+Figuur 13.7-3 laat een uitkomst zien. Daarin zijn 5 bemonsteringen per 4 perioden gedaan,
+dus 1,25 per periode in plaats van het vereiste minimum van 2. De bemonsteringspunten
+zijn de dikke groene stippen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+1.0
+
+U/Umax
+
+0.5
+0.0
+-0.5
+-1.0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+Tijdstap
+
+Te bemonsteren signaal.
+Monstertijdstip, 5 per 4 perioden = 1 per 0,8 periode
+Monsterpunt, 1 per 0,8 periode = 1,25 per volle periode
+Alias door te weinig monsterpunten (Nyquist-Shannon: 1,25 per periode is minder dan 2)
+
+Figuur 13.7-3. Een te lage bemonsteringsfrequentie van de rode sinus (1,25 per volle periode terwijl het er
+volgens Nyquist-Shannon minimaal 2 moeten zijn) veroorzaakt een alias (blauwe streepjescurve door de
+groene stippen). De alias heeft hier een frequentie die 4x zo laag is als die van de bemonsterde sinus.
+
+Door de bemonsteringspunten past een sinus met twee perioden in plaats van de acht van
+de oorspronkelijke sinus.
+Dit laatste verschijnsel heet aliasing. In de signaalanalyse is een alias een frequentie die
+ontstaat door bemonstering met een te lage bemonsteringsfrequentie. De alias-frequentie
+is lager dan de oorspronkelijke frequentie èn lager dan de bemonsteringsfrequentie.
+De met blauwe stippellijn aangegeven sinus door de dikke groene monsterpunten heeft
+een frequentie die 4x zo laag is als die van de bemonsterde rode sinus in Figuur 13.7-3.
+Volgens Nyquist/Shannon had minstens 2x per sinusperiode moeten worden bemonsterd
+om een blauwe grafiek te krijgen met dezelfde frequentie als de rode.
+De figuur toont 8 perioden van de rode sinus. De bemonsteringsfrequentie is 1,25*8 =10
+keer per 8 sinusperioden. De frequentie van de alias is twee per 8 sinusperioden, want er
+staan twee volle perioden in de figuur. Blijkbaar is de frequentie van de alias het verschil
+tussen bemonsteringsfrequentie en sinusfrequentie: 10 min 8 eenheden is 2 eenheden.
+Convolutie
+De oorzaak van aliasfrequenties is als volgt te beredeneren. Bemonstering is een vorm van
+amplitudemodulatie. Tijdens een bemonsteringspuls wordt het signaal heel even
+doorgelaten, ofwel vermenigvuldigd met 1. Daarbuiten wordt niets doorgelaten. Dat
+betekent dat er dan is vermenigvuldigd met 0. Vermenigvuldigen van signalen is AM. Er
+ontstaan zo een som- en verschilfrequentie van bemonsterings- en signaalfrequentie.
+De bemonsteringsfrequentie is een pulsspanning. Daardoor levert de vermenigvuldiging
+van signaal en bemonsteringsfrequentie ook harmonischen van die laatste op. Ook die
+leveren mengproducten. Strikt genomen zijn dat ook aliassen. Ze liggen echter doorgaans
+buiten het frequentiegebied, waar ze na omzetten van het gedigitaliseerde signaal naar
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+analoog hinder kunnen opleveren. De productie van al deze signalen bij het samenkomen
+van twee signalen heet convolutie. Die term staat in de exameneisen.
+Anti-aliasfilter
+Bij signalen met een hoogste frequentie die groter dan 2x de bemonsteringsfrequentie is, is
+aliasing niet te voorkomen. Oplossen van het probleem kan op twee manieren:
+1. De bemonsteringsfrequentie zover verhogen dat die gelijk aan of hoger is dan 2x de
+hoogste frequentie in het signaal
+2. Vóór de analoge signaalingang een laagdoorlaatfilter plaatsen dat frequenties boven
+de halve bemonsteringsfrequentie onderdrukt. Dat heet een anti-aliasfilter.
+Omzetting van analoog naar digitaal; kwantiseringsruis
+We hebben gezien dat er voor omzetting van analoog naar digitaal schakelingen zijn die
+meestal als ADC, Analog to Digital Converter wordt aangeduid. Een voorbeeld van een
+ADC is een digitale voltmeter (multimeter). Je stopt er een analoge spanning in en de
+meetwaarde komt in cijfers op het display.
+Bij wijze van voorbeeld toont Figuur 13.7-4 een bemonsterde sinus voor en na conversie
+door een denkbeeldige 4-bits ADC.
+Origineel met monsterpunten
+Gedigitaliseerd 4-bit
+
+Figuur 13.7-4. Sinus met bemonsteringspunten. Rood: waarden als bemonsterd. Blauw: waarden na ADconversie.
+
+Gebruik van maar 4 bits is niet erg realistisch en alleen bedoeld om te laten zien dat er in
+een ADC conversiefouten optreden. Een eindig aantal beschikbare waarden maakt van
+een vloeiende kromme een trapjeskromme. De hoogte van een trede valt bijna nooit
+samen met de analoge waarde op het monsterpunt. In de figuur zijn van hoogste naar
+laagste waarde maar 9 van de 16 beschikbare waarden gebruikt en de treden zijn ongelijk
+van hoogte.
+Een AD-conversie met veel meer dan 4 bits is normaal. Het kan het probleem dat we in
+Figuur 13.7-4 zien, nooit voor 100% oplossen. De oorzaak, een oneindig aantal analoge
+waarden dat in een eindig aantal digitale waarden wordt geperst, blijft immers bestaan.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Dit verschijnsel levert ruis op die kwantiseringsruis wordt genoemd, ruis die wordt
+veroorzaakt door de omzetting van analoge waarden in digitale.
+Het aantal bits, de resolutie, van een ADC, geeft het aantal digitale waarden aan tussen
+laagst en hoogst mogelijke waarde van het analoge signaal. 16 bits bijvoorbeeld is 216 =
+65536 waarden. Dat is 96 dB tussen hoogst en laagst mogelijke waarde, het dynamisch
+bereik.
+Praktisch geen enkel signaal varieert tussen hoogst en laagst mogelijke ingangswaarde van
+de ADC. Zo blijft een deel van het dynamisch bereik onbenut. Neem een digitale
+voltmeter die 0,015 V meet bij een meetbereik van 9,999 V in 4 decimale cijfers. 2
+betekenisvolle cijfers blijven over en de rest is 0. ADC’s voor nauwkeurige toepassingen
+hebben dan ook een hoge resolutie, bijvoorbeeld 24 bits. Het aantal mogelijke waarden is
+dan 224 = 16 777 216. We hebben hiermee de aanloop naar de bewerking van het
+gedigitaliseerde signaal gehad. Figuur 13.7-5 brengt de gedane stappen in beeld.
+Analoog
+signaal
+
+Antialias
+
+Bemonstering
+
+Bewerking
+
+ADC
+
+Figuur 13.7-5. Blokschema van analoog signaal naar ADC Het vervolg is samengevat als “bewerking”.
+
+Signaalbewerking 1: FIR en IIR
+Twee gereedschappen voor digitale signaalbewerking zijn het FIR- en het IIR- of I2Rfilter. Voluit heten ze Finite Impulse Response filter en Infinite Impulse Response filter.
+De Nederlandse termen Eindig en Oneindig Impulsresponsiefilter kom je zelden tegen.
+FIR-filter
+We beginnen met het FIR-filter. Figuur 13.7-6 geeft een schema.
+
+Looprichting data
+Nieuwer
+Data
+in
+
+an
+
+xn
+
+Ouder
+
+xn-1
+
+an-1
+
+xn-2
+
+an-2
+
+xn-3
+
+an-3
+
+xn-4
+
+an-4
+
+x1
+
+a1
+Bewerkte
+data uit
+
+Figuur 13.7-6. Opbouw van een FIR-filter. Zwart: datatransport. Blauw: vermenigvuldigdeel. Rood:
+opteldeel.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De zwarte vierkantjes vormen een schuifregister met opeenvolgende signaalmonsters 𝑥𝑖 ,
+waarbij i afloopt van 𝑛 naar 1. Elke klokpuls stuurt de x-waarden 1 vakje naar rechts en
+links komt een nieuw signaalmonster binnen. Het oudste signaalmonster rechts verdwijnt.
+Omdat de data van links naar rechts schuiven, zitten de jongste links en de oudste rechts.
+Je kunt zo signaalmonsters van verschillende monstertijdstippen onderling en gelijktijdig
+manipuleren. Met analoge technieken kunnen we dat vergeten.
+Onder elk schuifregister-vierkant staat een blauw rondje met vermenigvuldigteken. Hier
+wordt de output x van het bovenliggende vierkant vermenigvuldigd met een getal a dat
+per rondje anders kan zijn. Het resultaat belandt in het onderliggende rode rondje met een
++ teken erin. Daarin wordt het opgeteld bij het optelresultaat dat van links het rode rondje
+binnenkomt. Het resultaat van de bewerkingen is “Bewerkte data uit”. Die noemen we
+gemakshalve y. De waarde van y is de som van alle waarden 𝑎𝑖 𝑥𝑖 waarbij i loopt van 𝑛 → 1.
+Als er 100 signaalmonsters in het register zitten en alle a de waarde 0,01 krijgen, dan is y
+de gemiddelde waarde van alle 100 monsters. Maar een FIR-filter kan veel meer.
+We werken één voorbeeld uit. Dat is het effect van een voortschrijdend gemiddelde. Dat
+is het gemiddelde van een vast aantal opeenvolgende waarden in een reeks. Die
+gemiddelden vormen zelf een eigen reeks.
+We geven in ons voorbeeld de som van 3 sinussen als invoer. Ze staan afzonderlijk in
+Figuur 13.7-7. De periodetijd van nummer 2 is 2x die van nummer 1; de periodetijd van
+nummer 3 is 2x die van nummer 2.
+Sinus 1
+Sinus 2
+
+2.0
+
+Sinus3
+
+Waarde
+
+1.0
+0.0
+-1.0
+-2.0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Tijdstap
+
+Figuur 13.7-7. Drie sinussen. De periode van de blauwe is 2x die van de rode; die van de groene is 2x die van
+de blauwe. De punten in de grafieken zijn signaalmonsters. Hun nummers staan op de horizontale as.
+
+Een tijdstap op de horizontale as is 1 bemonsteringspunt. De rode (snelste) sinus, sinus 1,
+heeft 10 punten per periode. In de grafiek staan 8 perioden. Dat maakt 80
+bemonsteringspunten. Sinus 2 heeft er 20 per periode, sinus 3 heeft 40.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De som van de drie sinussen die samen het FIR-filter ingaan, staat met de
+bemonsteringspunten in Figuur 13.7-8.
+Som
+
+2.0
+
+Waarde
+
+1.0
+0.0
+-1.0
+-2.0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Tijdstap
+
+Figuur 13.7-8. Grafiek van de som van de drie sinussen in Figuur 13.7-7., zoals ingevoerd in het FIR-filter.
+
+In het FIR-filter van Figuur 13.7-6 krijgen 10 opeenvolgende vermenigvuldigingsfactoren
+a de waarde 0,1. De rest krijgt de waarde 0. Dat levert een voortschrijdend gemiddelde
+van 10 monsterpunten. Het resultaat zien we in Figuur 13.7-9.
+Som na filter
+
+2.0
+
+Waarde
+
+1.0
+0.0
+-1.0
+-2.0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Tijdstap
+
+Figuur 13.7-9. Grafiek van de som van de drie sinussen in Figuur 13.7-7 na passage door het filter.
+
+De uitvoergrafiek van Figuur 13.7-9 verloopt zichtbaar vlakker dan de invoer in Figuur
+13.7-8. Figuur 13.7-10 met de gefilterde afzonderlijke sinussen laat zien wat er is gebeurd.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+Sinus 1 na filter
+Sinus 2 na filter
+
+2.0
+
+Sinus 3 na filter
+
+Waarde
+
+1.0
+0.0
+-1.0
+-2.0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Tijdstap
+
+Figuur 13.7-10. Grafiek van de som van de drie sinussen in Figuur 13.7-7 na passage door het filter.
+
+Sinus 1 is een rechte lijn op de nullijn geworden. Dat komt doordat de gemiddelde waarde
+van een sinus over elke volledige periode 0 is. Het voortschrijdend gemiddelde liep over
+10 opeenvolgende punten; precies het aantal in één periode van sinus 1. De amplitude van
+de gefilterde sinus 1 is daardoor 0 geworden. Die van de gefilterde sinus 2 is van 1
+teruggegaan naar ongeveer 0,6. Die van sinus 3 van 1 naar 0,9. Die laatste verzwakking is
+al bijna verwaarloosbaar. Gehele veelvouden van de frequentie van sinus 1 staan niet in de
+figuur, maar verdwijnen ook. Frequenties tussen de gehele veelvouden van sinus 1
+verdwijnen niet helemaal, maar worden flink verzwakt.
+Conclusie: we hebben een soort laagdoorlaat- en harmonischenfilter gemaakt. Het kan
+allemaal nog veel mooier en ingewikkelder, maar dat ligt (ver) buiten de exameneisen en
+dus ook buiten het doel van deze cursus.
+IIR- of I 2 R-filter
+IIR-filters zijn te vergelijken met FIR-filters. Het verschil is dat de uitvoer wordt
+teruggekoppeld. Daarmee wordt het een rondgaand filter. Een puls op de ingang kan in
+theorie oneindig blijven rondlopen. Vandaar de I van Infinite (oneindig) in de afkorting
+IIR. Figuur 13.7-11 laat de opbouw zien op dezelfde manier als de FIR in Figuur 13.7-6.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Looprichting data
+Data
+in
+
+x4
+
+a4
+
+x3
+
+a3
+
+x2
+
+a2
+
+x1
+
+a1
+
+x0
+
+a0
+
++
+
++
+
++
+
++
+
++
+
+-
+
+-
+
+-
+
+-
+
+-
+
+b0
+
+b1
+
+z0
+
+b2
+
+z1
+
+b3
+
+z2
+
+Bewerkte
+data uit
+
+b4
+
+z3
+
+z4
+
+Looprichting teruggekoppelde data
+Figuur 13.7-11. Opbouw IIR-filter. Zwart: datatransport. Blauw: vermenigvuldigdeel. Rood: opteldeel.
+
+Om heel veel bits te verwerken, hoeft het schuifregister van een IIR-filter niet als een FIR
+minstens evenveel geheugenblokjes te hebben als er signaalmonsters moeten worden
+verwerkt. Het mogen er minder zijn, omdat een IIR rondloopt. Alles komt toch aan de
+beurt. De waarden z in het terugkoppeldeel (onderin) worden vermenigvuldigd met
+waarden b. De uitkomst wordt vervolgens niet opgeteld bij, maar afgetrokken van de
+waarde in het optelcirkeltje. Vandaar het minteken aan de onderkant van de plus-cirkels.
+Door deze constructie omvat het filterproces minder stappen en is er minder
+rekencapaciteit nodig dan bij een FIR-filter. Daar staat tegenover dat een signaal in het
+IIR-filter kan gaan uitslingeren (“rinkelen”) en instabiel kan worden.
+Signaalbewerking 2: Fourier en het frequentiedomein
+Tot nu toe hebben we gekeken naar signaalbewerking in het tijdsdomein. Dat wil zeggen
+dat is gewerkt met signaalmonsters die op verschillende tijdstippen zijn gemeten en
+gedigitaliseerd. Soms laat een andere benadering een eenvoudiger signaalbehandeling toe.
+Zo’n benadering is de Fouriertransformatie. De naam Fourier is onder meer in hoofdstuk 5
+langsgekomen, toen harmonischen ter sprake kwamen.
+De Fouriertransformatie zet een zich herhalende golfvorm om in de frequenties waaruit
+hij is opgebouwd. Een wiskundige transformatie is niets anders dan een andere manier om
+naar een wiskundig probleem of natuurkundig proces te kijken.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+We gaan voorbij aan de wiskundige kant van de transformatie. Dat deze bewerking een
+golfvorm in het tijdsdomein omzet in frequenties en amplitudes in het frequentiedomein
+volstaat. De verzameling frequenties met hun amplitudes heet het spectrum van de golf.
+Zoals op een oscilloscoopscherm het verloop van spanning of stroom in de tijd zichtbaar
+wordt gemaakt (het tijdsdomein), laat het scherm van een spectrumanalyzer de in een
+signaal aanwezige frequenties met hun amplitude zien. Dat heet het frequentiedomein.
+Een spectrumanalyzer voert een Fouriertransformatie uit. Foto 13.7-1 laat het zien.
+
+Foto 13.7-1. Sinusspanning (20 kHz, geel), blokspanning (10 kHz, blauw) en hun frequentiespectra (onder).
+
+Boven zien we een sinus van 20 kHz (geel) en een symmetrische blokspanning van 10 kHz
+(blauw). Onder staat het resultaat van de Fouriertransformatie. De gele piek is de 20 kHz
+van de gele sinus. De blauwe pieken zijn van de blauwe blokspanning. De gele piek staat
+op de horizontale positie van 20 kHz. Verder zijn er geen gele pieken, want een sinus
+heeft geen harmonischen.
+De blauwe pieken beginnen links met één van ongeveer 4,2 schaaldelen hoog voor 10 kHz
+Dat is de grondgolf die ook wel eerste harmonische heet. Dan volgt één van 1,4
+schaaldelen voor 30 kHz, de derde harmonische. Een blokgolf heeft immers alleen maar
+oneven harmonischen (hoofdstuk 5). Hun amplitude is 1 gedeeld door het rangnummer
+van de harmonische. 1,4 is 1/3 van 4,2 dus dat klopt. Voor de volgende harmonischen is
+dat 1/5 van 4,2 is 0,8 schaaldelen, 1/7 van 4,2 is 0,6 schaaldelen, enzovoort.
+Een signaal dat bij bemonstering in stukjes is gehakt is geen bruikbare input meer voor
+een Fouriertransformatie die uitgaat van een continu analoog signaal. De oorspronkelijke
+remedie is de Discrete Fourier Transform, DFT. Als er precies evenveel tijd tussen
+opeenvolgende bemonsteringen zit, werkt die, maar kost veel rekenwerk en -tijd.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+De oplossing voor dit laatste is de veel efficiëntere Fast Fourier Transform, afgekort FFT.
+Die kan zo’n 1000 keer sneller zijn dan de DFT, maar vraagt wat extra voorwaarden. Het
+is voor het examen voldoende om de afkortingen DFT en FFT te kennen en te weten
+waarvoor ze staan.
+Zodra een signaal is omgezet in een spectrum, kunnen frequenties in amplitude worden
+vergroot, verkleind, toegevoegd of weggehaald. Eenmaal bewerkt, wordt het spectrum
+teruggetransformeerd tot een analoog signaal. Dat is de Inverse FourierTransformatie
+(IFT). Weten wat een IFT doet en de naam kennen is op het examen genoeg.
+Directe digitale frequentiesynthese (DDS)
+Het woord “direct” in de naam geeft aan dat er aan het maken van de frequentie geen
+terugkoppeling en oscillatie te pas komt. Wel is een klokpuls nodig. We gaan in het nu
+volgende voorbeeld uit van een DDS-generator die een sinus maakt, maar het kan elke
+andere functie zijn.
+De kern van onze voorbeeld-DDS is een tabel met sinuswaarden, bijvoorbeeld in stapjes
+van 0,1 graad. De tabel staat in een ROM (Read Only Memory) of als de DDS
+programmeerbaar moet zijn, een RAM (Random Access Memory). Elke geheugenplaats is
+m bits breed en heeft een binair adres van n bits. Het geheugenadres kan worden
+aangemaakt met een teller (Figuur 13.7-12).
+
+klokpuls
+
+n-bit
+teller
+
+n
+
+n
+
+sinus-ROM
+
+m
+m<n
+
+LDF
+m-bit
+DAC
+
+sinus
+
+Dit is het symbool voor een n-bits verbinding
+
+Figuur 13.7-12. Basisschema van een DDS-sinusgenerator.
+
+Elke klokpuls hoogt de stand van de teller met 1 op. Elk nieuw geheugenadres haalt de
+waarde van het bijbehorende sinusstapje op uit het geheugen en stuurt het naar de DAC
+(Digital to Analog Convrerter). Die maakt er een spanning (of stroom) van. Er ontstaat zo
+een analoge trapjescurve. Belangrijk is dat 𝑚 ≤ 𝑛. Anders ontstaat een niet-afgemaakte
+sinus.
+De DAC-trapjescurve uit de DAC moet worden “gladgestreken” door het laagdoorlaatfilter
+aan het eind van de schakeling. Zo’n filter heet niet voor niets herstelfilter of
+reconstructiefilter. Daarna is de sinus “klaar voor gebruik”.
+De klokfrequentie is 2m maal zo groot als de frequentie van de geproduceerde sinus, want
+de sinus bestaat uit 2m stappen. Dat beperkt het frequentiebereik van de sinus. Om een
+idee te krijgen: stel dat m=10. Dat betekent een 10-bits DAC. 210 = 1024. Voor een sinus
+van 1 MHz is dan een klokfrequentie nodig van 1024 MHz, of ruim 1 GHz.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 13_kort_20250925
+
+Dit was de eenvoudigste vorm van een DDS-schakeling, bedoeld om het werkingsprincipe
+duidelijk te maken. Er wordt bijvoorbeeld geen fase-informatie verwerkt. Complexere
+DDS-schakelingen kunnen dat wel. Voor het zendexamen is kennis daarvan niet nodig.
+Samengevat
+De leerstof voor het onderdeel digitale signaalverwerking kan als volgt worden
+samengevat.
+1. Voordat het analoge signaal wordt bemonsterd, passeert het een anti-aliasfilter.
+Dat is een laagdoorlaatfilter.
+2. Na het anti-aliasfilter volgt de bemonstering
+3. De monsters gaan een ADC (analoog-naar-digitaal-converter) in en komen er
+digitaal weer uit. Voor elk bit een lijntje. Eén lijn in, evenveel lijnen uit als er bits
+zijn.
+4. Dan volgt de digitale bewerking. Dat kan FIR, IIR, FFT met nabewerking plus IFT
+of een andere digitale bewerking via een microcontroller zijn.
+5. Dan moet het bewerkte digitale signaal weer analoog worden gemaakt via een
+DAC (digitaal-naar-analoog-converter)
+6. Daarna volgt een nieuw laagdoorlaatfilter dat de scherpe kantjes van de
+trapjeskromme “bijslijpt”- of van een pulsverzameling de omhullende overhoudt,
+net als bij een AM-detector. Zo’n filter heet herstelfilter of reconstructiefilter.
+Het hele gebeuren is zichtbaar gemaakt in het blokschema van Figuur 13.7-13.
+Analoog Antisignaal alias
+
+Bemonstering
+
+ADC
+
+Digitale
+bewerking
+
+DAC
+
+Herstelfilter
+
+Bewerkt
+analoog
+signaal
+
+Figuur 13.7-13. Blokschema van de digitale verwerking van een analoog signaal. De “doorgestreepte”
+verbindingen betekenen dat er in werkelijkheid voor elk bit een verbinding is, dus evenveel parallelle
+verbindingen als er bits zijn.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13-40
+
+

@@ -1,0 +1,883 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Inhoudsopgave
+15
+
+Meten en meetinstrumenten ............................................................................... 15-2
+15.1
+
+Wat leer je in dit hoofdstuk ............................................................................. 15-2
+
+15.2
+
+Algemene principes van meten........................................................................ 15-2
+
+15.3
+
+De universeelmeter of multimeter ................................................................... 15-3
+Inleiding ................................................................................................... 15-3
+De draaispoelmeter ................................................................................... 15-3
+Opbouw van een analoge universeelmeter .............................................. 15-4
+Buis-, FET- en transistorvoltmeters ......................................................... 15-8
+De digitale universeelmeter/multimeter .................................................. 15-9
+
+15.4
+
+De oscilloscoop. ................................................................................................ 15-9
+De analoge oscilloscoop ............................................................................ 15-9
+De digitale oscilloscoop .......................................................................... 15-11
+
+15.5
+
+De spectrumanalyzer ..................................................................................... 15-12
+
+15.6
+
+De dipper, dipmeter of griddipper ................................................................. 15-12
+
+15.7
+
+Frequentiemeting ........................................................................................... 15-14
+
+15.8
+
+De signaalgenerator........................................................................................ 15-16
+
+15.9
+
+De staandegolfmeter (SWR- of SGV-meter) .................................................. 15-16
+
+15.10
+
+De kunstantenne of dummyload ................................................................ 15-20
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+15 Meten en meetinstrumenten
+15.1 Wat leer je in dit hoofdstuk
+Elke meting heeft invloed op hetgeen gemeten wordt. Je meet dus nooit exact wat je wilt
+meten. Bij elke meting geldt de vraag, hoe het verschil tussen gemeten en echte waarde zo
+klein te houden dat de onvermijdelijke meetfout binnen gestelde grenzen blijft.
+Spanning, stroom en weerstand zijn drie grootheden die kunnen worden gemeten met het
+meest algemene meetinstrument onder zendamateurs, de universeelmeter of multimeter
+heet. We bespreken per grootheid de wijze van meten.
+De oscilloscoop kennen we van afbeeldingen in vorige hoofdstukken.
+Een apparaat dat op het eerste gezicht nogal op een oscilloscoop lijkt, maar elektronisch
+meer op een ontvanger, is de spectrum analyzer. We gaan daar niet heel diep op in. Het is
+vanouds een te duur instrument voor veel amateurs, maar er komen geleidelijk aan
+betaalbare en daarom voor de amateur interessante digitale varianten beschikbaar.
+Meting van de resonantiefrequentie van LC-kringen met de dipmeter is in amateurland al
+heel lang ingeburgerd en ook examenstof.
+Frequenties worden tegenwoordig eigenlijk alleen nog maar digitaal gemeten. Daarom
+behandelen we alleen frequentietellers.
+Een zelfbouwende amateur kan niet zonder signaalgenerator. Een schakeling voorzien
+van signaal is nu eenmaal de enige manier om de goede werking te controleren.
+Van de staandegolfverhouding (SWR) is eerder aangekondigd dat we de meting ervan in
+dit hoofdstuk zouden bespreken. De SWR-meter is onmisbaar als controle op de
+aanpassing van zender naar transmissieleiding en antenne.
+Bij metingen aan een uitgezonden signaal is de kunstantenne of dummy load onmisbaar.
+
+15.2 Algemene principes van meten
+Een natuurwet zegt dat elke meting invloed heeft op datgene dat wordt gemeten. Dat
+betekent dat wie meet, moet weten wat hij/zij doet. Goed meten is een vak.
+Als voorbeeld nemen we het meten van een spanning in een schakeling (Figuur 15.2-1).
+
+U
+
+RB
+
+RM
+
+V
+
+Figuur 15.2-1. Meten van de spanning van een niet-ideale bron met een niet-ideale voltmeter.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+De schakeling is een bron met inwendige weerstand RB. Elke meter heeft een inwendige
+weerstand RM. De twee weerstanden vormen een spanningsdeler. De voltmeter geeft de
+spanning op hun knooppunt.
+
+Gemeten spanning in % van EMK
+
+RM belast de bronschakeling tijdens de meting. De aflezing van de meter levert bij een
+𝑅
+belasting niet de spanning U (de EMK), maar de klemspanning. Hoe groter M⁄𝑅 , des te
+𝐵
+dichter komt de gemeten spanning bij U. De grafiek van Figuur 15.2-2 laat het zien.
+100
+80
+60
+40
+20
+0
+0.1
+
+1.0
+
+10.0
+
+100.0
+
+1 000.0
+
+Meterweerstand gedeeld door bronweerstand
+
+Figuur 15.2-2. Gemeten spanning in het schema van Figuur 15.2-1 in % van U (EMK) als functie van de
+verhouding van meterweerstand en bronweerstand.
+
+Zijn meter- en bronweerstand gelijk, dan geeft de meter 50% van de bronspanning U aan.
+Dat is bij de waarde 1,0 op de horizontale schaal. Hoe hoog de meterweerstand ook wordt,
+U komt nooit in zijn geheel over de meter te staan. Bij elke meting is iets vergelijkbaars
+aan de orde.
+
+15.3 De universeelmeter of multimeter
+Inleiding
+De universeelmeter of multimeter is onder zelfbouwende radioamateurs het meest
+gebruikte meetinstrument. In zijn oorspronkelijke vorm is het een analoog instrument
+voor het meten van spanning, stroom en weerstand.
+In de laatste decennia zijn digitale meters de analoge in aantal voorbijgestreefd. Digitale
+meters hebben vaak extra’s die analoge meters niet hebben. Maar we beginnen analoog.
+De draaispoelmeter
+De kern van een analoge universeelmeter is de draaispoelmeter. Dat is een spoeltje dat
+draaibaar is opgehangen in een magnetisch veld. Als er stroom door het spoeltje loopt,
+maakt het spoeltje een eigen veld. Dat verandert de stand van de spoel. Een spiraalveertje
+levert een tegenkracht. Daardoor is de stand van de spoel een aanwijzing voor de grootte
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+van de stroom die er doorheen loopt. Een aanwijsnaald geeft de stand van de spoel en
+daarmee de meetwaarde aan op een schaal (Figuur 15.3-1).
+
+Afleesschaal
+Spiraalveertje met bevestigingspunt
+Weekijzerlichaam
+
+Aanwijsnaald
+
+Magneetpool met
+poolaanduiding
+
+..
+
+S
+
+N
+
+Draaipunt
+
+Magneetpool met
+poolaanduiding
+
+Draadraam
+(draaispoel)
+
+Figuur 15.3-1. Opbouw van een draaispoelmeter. De wijzer (rood) zit vast aan het oranje spoeltje en wordt
+op zijn plaats gehouden door de spiraalveer (zwart). De spoel is opgehangen in het veld tussen twee
+permanente magneetpolen (donkergrijs); noord- en zuidpool aangegeven met N en S.
+
+Een draaispoelmeter is kwetsbaar bij overbelasting. Twee tegen elkaar in geschakelde
+dioden beschermen het instrument daartegen (Figuur 15.3-2).
+
+Figuur 15.3-2. Draaispoelmeter met diodebescherming.
+
+Wordt de drempelspanning van een diode overschreden, dan loopt de meeste stroom via
+de diode. Meestal wordt Ge gebruikt (0,2 à 0,3 V).
+Een draaispoelmeter reageert op stroom en is daarom een stroommeter. De meter van
+Figuur 15.3-1 meet stroom in één richting. Alleen rechts van de aanwijsnaald is er een
+schaal. Een meter met de naald in de middenstand bij nul stroom meet stroomsterkte in
+twee richtingen en geeft daarbij de stroomrichting aan.
+Opbouw van een analoge universeelmeter
+Universeelmeters hebben een schakelaar, waarmee de meetbereiken stroom, weerstand en
+spanning kunnen worden omgeschakeld. Foto 15.3-1 toont een voorbeeld. De meter is
+volgens de voorkant geschikt voor meting van: gelijkspanning (DCV), gelijkstroom (IDC),
+wisselspanning (ACV) en weerstand, met verschillende meetbereiken.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Foto 15.3-1. Een analoge universeelmeter uit 1976. De meter is geschikt voor gelijk- en wisselspanning,
+gelijkstroom en weerstand.
+
+Spanning en stroom meten
+Spanning in een schakeling meet je tussen twee punten (Figuur 15.3-3).
+
+V
+
+R
+
++U
+
+Figuur 15.3-3. Spanningsmeting. De spanning over weerstand en batterij wordt gemeten.
+
+Stroom meet je in de schakeling, omdat stroom door de schakeling loopt. Dat betekent dat
+de meter de leiding vervangt, waarin de stroom wordt gemeten. (Figuur 15.3-4).
+
+= Verbinding verwijderen
+vóór meting
+
+A
+
+R
+
+Figuur 15.3-4. Stroommeting. De stroom door weerstand en batterij wordt gemeten.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-5
+
++U
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Hoe maak je van een draaispoelmeter een multimeter-duizendpoot?
+Stroommeting
+Bij stroommeting moet rekening worden gehouden met de (kleine) weerstand van de
+draaispoelmeter. Stel dat de meter een weerstand van 100  heeft en bij 50 A vol
+uitslaat. Wordt de meter ingezet voor een meetbereik van 500 A, dan moet van die 500
+A precies 50 A door de meter lopen en de rest, 500 A - 50 A = 450 A via een omweg
+(shunt). De weerstand daarvan in Figuur 15.3-5 is 50⁄450 ∗ 100  = 11,1 .
+
+500  50 
+
+450 
+
+100 
+
+50 
+
+500 
+
+
+
+Shunt = 11,1 
+
+450 
+
+Figuur 15.3-5. Microampèremeter met inwendige weerstand van 100 ohm en een shunt van 11,1 ohm voor
+een 10x zo grote stroom als het eigenlijke meterbereik. 90% van de stroom wordt omgeleid via de shunt.
+
+Zo bereken je voor elk stroombereik bij bekende meterweerstand een shuntweerstand.
+Spanningsmeting
+Een draaispoelmeter kan met een serieweerstand worden omgezet in een spanningsmeter.
+De weerstandswaarde zo groot zijn dat bij de hoogste spanning van het meetbereik precies
+de stroom voor volle meteruitslag door de meter loopt. We gaan weer uit van 50 A.
+Laten we het meetbereik stellen op 1 V. De benodigde weerstand is 1 V⁄0,05 mA =
+
+19,9 k
+
+100 
+
+
+
+=
+a
+
+20 k
+
+20 k. 100  zit als inwendige weerstand in de meter. 20k − 100 = 20k −
+0,1k = 19,9k. Figuur 15.3-6 brengt het in beeld.
+
+V
+
+b
+
+Figuur 15.3-6. Van micro-ampèremeter (links) naar voltmeter met vervangingsschema (rechts).
+
+Het linkerplaatje (a) laat de schakeling zien, het rechterplaatje (b) het vervangingsschema
+met een ideale voltmeter en een inwendige parallelweerstand van 20 k.
+Dit brengt ons bij dé eigenschap van een universeelmeter: de totale weerstand van de als
+voltmeter toegepaste draaispoelmeterschakeling voor elk meetbereik. De eenheid is k/V.
+Het aantal k/V van een universeelmeter geeft per bereik de inwendige weerstand aan. In
+ons voorbeeld is de weerstand bij een meetbereik van 10 V gelijk aan 10 ∗ 20 kΩ =
+200 kΩ; voor het 100-voltbereik wordt dat 100 ∗ 20 kΩ = 2MΩ, enz.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Weerstandsmeting
+Voor weerstandmeting is een spanningsbron nodig, zoals een 1,5 V- of 3 V-batterij. Elke
+analoge universeelmeter heeft daarvoor ergens in zijn behuizing een houder. Het
+meetprincipe is: zet een spanninkje over de weerstand en meet de stroom (Figuur 15.3-7).
+
+
+R1
+
+Rs
+
+UB
+
+Rx
+
+Figuur 15.3-7. Het principe van weerstandmeting met een universeelmeter.
+
+De variabele weerstand R1 regelt de nulpuntsinstelling. Bij een ohmmeter is het nulpunt
+de volle meteruitslag. Rs beschermt de meter tegen een te hoge stroom. Sluit de
+aansluitklemmen kort en stel R1 zo in dat de meter 0  aanwijst. Is de meter ingesteld,
+dan kan Rx in de aansluitklemmen worden gezet en de weerstand via de stand van de
+aanwijsnaald op de schaal worden afgelezen. Foto 15.3-2 laat de afleesschalen van de
+meter van Foto 15.3-1 vergroot zien.
+
+Foto 15.3-2. De afleesschalen van de universeelmeter van Foto 15.3-1 vergroot. De bovenste is de
+weerstandsschaal.
+
+Een analoge universeelmeter heeft een aparte weerstandsschaal. Weerstand is omgekeerd
+evenredig met stroom. Daarom is de stroomschaal ongeschikt voor weerstandsmeting.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+De weerstandsschaal op Foto 15.3-2 is de bovenste. Daarop lopen de meetwaarden van
+rechts naar links van nul naar oneindig.
+Wisselspanningsmeting
+Een probleempje bij wisselspanningsmeting is de drempelspanning van de
+gelijkrichtdiode. Meters hebben daarvoor vaak een bruggelijkrichter. Dat geeft iets
+compensatie. Gezien hun lage drempelspanning worden meestal germaniumdioden
+gebruikt. Die laten bovendien onder de 0,2 V nog een mini-beetje stroom door. Dat geldt
+ook voor de meter van Foto 15.3-1. Daardoor kunnen de schalen op 0 beginnen, al zijn ze
+bij lage spanningen niet lineair. Hogere bereiken verschillen binnen de nauwkeurigheid
+van de meting niet van gelijkspanningsbereiken voor dezelfde waarden. Het schema voor
+een meterschakeling voor wisselspanning (AC) kan eruitzien als in Figuur 15.3-8.
+
+R1
+
+R2
+
+R3
+
+S
+
+Figuur 15.3-8. Multimeterschakeling voor wisselspanning. Schakelaar S (links) schakelt de meetbereiken.
+
+Het addertje onder het gras is dat de gelijkgerichte spanning niet gelijk is aan de effectieve
+spanning. We nemen een voorbeeld met een wisselspanning van 5 Veff. Dan is de
+piekspanning 𝑈𝑚𝑎𝑥 = 5V⁄ =7,07 V. De dubbelfasig gelijkgerichte spanning heeft een
+√2
+2
+gemiddelde waarde van ⁄ ∗ 𝑈𝑚𝑎𝑥 ≈ 4,5 V. Doen we niets, dan geeft de meter een te lage
+spanning aan. Oplossing: verlagen van de voorschakelweerstand van de draaispoelmeter.
+Het kan ook met één enkele diode, dus met enkelfasige gelijkrichting. Voordeel: één in
+plaats van twee kromme karakteristieken in serie. Nadeel: de gemiddelde gelijkgerichte
+spanning wordt gehalveerd, zodat ook de voorschakelweerstand half zo groot wordt als bij
+dubbelfasige gelijkrichting.
+Buis-, FET- en transistorvoltmeters
+De inwendige weerstand van een als voltmeter geschakelde universeelmeter is vooral in
+de lage bereiken niet hoog. Een gevoeligheid van 20 k/V en een meetbereik van 1 V
+levert een inwendige weerstand van 20 k. Een bereik van 10 V levert 200 k. Ook dat
+kan aan de krappe kant zijn. Het probleem is op te lossen met een versterkend element
+aan de ingang. Ooit was dat de buis, later vooral de FET. De bipolaire transistor is minder
+geschikt omdat het een stroomversterker is. Toch is hij wel toegepast. 2 M als
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+ingangsweerstand is bij FET- en buisvoltmeters niet ongewoon. De opkomst van de
+digitale universeelmeter heeft het belang van dit soort meters sterk verminderd.
+De digitale universeelmeter/multimeter
+Een digitale universeelmeter is gebaseerd op een ADC (Analoog naar Digitaal Converter).
+Hij heeft daarom altijd een batterij nodig, meestal van 9 V. Die is doorgaans sneller op dan
+de batterijtjes voor weerstandmeting in een analoge multimeter.
+Tegenover dit kleine bezwaar staan een grotere
+flexibiliteit, een (meestal) betere meetnauwkeurigheid en
+bij voltmeting een prettig hoge ingangsweerstand.
+Foto 15.3-3 hiernaast laat een voorbeeld van een digitale
+multimeter zien. Behalve de functionaliteiten van de
+analoge meter die we hiervoor hebben behandeld, heeft
+deze meter ook:
+• Wisselstroommeting
+• Meting van de hFE (β) van PNP- en NPN-transistoren
+• Capaciteitsmeting
+• Een beperkte mogelijkheid om frequenties te meten
+Niet elke digitale multimeter heeft al deze toevoegingen.
+De resolutie is 2000 punten en een + en een -. Dat
+betekent bijvoorbeeld voor het 2 V-bereik een
+aanduiding van -1,999 tot +1,999 V. Verwar resolutie niet
+met nauwkeurigheid! Een onnauwkeurige meting kan
+heel goed in hoge resolutie worden weergegeven.
+
+15.4
+
+De oscilloscoop.
+
+Foto 15.3-3. Voorbeeld van een
+digitale multimeter.
+
+Een oscilloscoop maakt snelle veranderingen in
+spanningen zichtbaar. In vorige hoofdstukken hebben we
+oscilloscoopbeelden gezien, waaronder ook digitale. We beginnen analoog.
+De analoge oscilloscoop
+Het centrale deel van een klassieke oscilloscoop (scoop voor veel elektronici) is de
+kathodestraalbuis of elektronenstraalbuis. Dit is een luchtledige glazen ballon met een iets
+bolle tot vrijwel vlakke voorkant die aan de binnenkant is bedekt met een fosforescerende
+stof. Dat laatste wil zeggen dat die stof licht uitstraalt waar hij door elektronen wordt
+getroffen. Naar achteren heeft de buis een lange ronde hals met een kathode die wordt
+gevolgd door verschillende elektroden.
+De elektroden bundelen de elektronen uit de kathode zo scherp mogelijk. Zoals een pen
+het duidelijkst schrijft als het spoor dun is, schrijft een elektronenstraal het duidelijkst als
+hij scherp gebundeld is. Tussen de bundelingselektroden en het scherm zitten twee keer
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+twee platen voor horizontale en verticale afbuiging. Het horizontale systeem is gekoppeld
+aan de tijdbasis. Die produceert een zaagtandvormige spanning (Figuur 15.4-1).
+
+U
+t→
+Figuur 15.4-1. Zaagtandspanning.
+
+Het schuin oplopende deel stuurt de elektronenbundel van links naar rechts over het
+scherm. Als deze de rechterkant van het scherm bereikt, valt de spanning terug naar de
+nulstand en begint het proces opnieuw.
+De verticale afbuigplaten zijn gekoppeld aan de versterker voor het zichtbaar te maken
+signaal, de Y-versterker. Zo ontstaat een grafiek van de gemeten spanning tegen de tijd.
+Aan het eind van alles volgt de naversnelling onder invloed van een anode met een
+positieve spanning van een aantal kV. Deze anode ligt pal tegen het scherm aan. Het is
+geen plaat, maar geleidend materiaal in een cirkelvormige of rechthoekige spiraalvorm,
+afhankelijk van de vorm van het scherm. De versnelde elektronen schieten erdoorheen en
+treffen zo de fosforescerende binnenlaag van het scherm. Foto 15.4-1 laat de voorkant van
+een analoge oscilloscoop zien.
+
+Foto 15.4-1. Voorkant van een oscilloscoop. Dit is een tweekanaalsuitvoering die twee signalen tegelijk kan
+laten zien (in feite worden ze afwisselend op het scherm gezet, maar dat gaat zo snel dat je het niet ziet).
+
+Het is een tweekanaals type. Dat kan twee signalen “tegelijk” tonen. Ze wisselen elkaar af,
+maar dat gaat onzichtbaar snel. De foto toont een sinus- en een driehoeksspanning.
+Links op de foto zitten de twee Y-versterkers boven elkaar. Links onder de
+kathodestraalbuis zitten regelknoppen voor de lichtintensiteit en scherpstellen en
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+horizontaal verschuiven van het beeld. Rechts zit de bediening van de tijdbasis. De
+centrale knop (grijs met rood in het midden) regelt de horizontale snelheid.
+Met de gevoeligheidsschakelaars op de Y-versterkers (grijze knoppen met schaaltje en
+rode middenknop voor de fijnregeling) wordt het aantal volt per schaaldeel op het scherm
+ingesteld. Het spanningsverloop is af te lezen via de schaalverdeling op het scherm.
+De digitale oscilloscoop
+Digitale oscilloscopen kunnen een eigen beeldscherm hebben. De kathodestraalbuis is dan
+vervangen door een LCD-scherm. Daardoor is een digitale scoop veel platter dan een
+analoge. Er zijn ook voorbeelden die het beeld via een USB-kabeltje en software zichtbaar
+maken op een computerscherm. Die zien er nog simpeler uit (Foto 15.4-2).
+
+Foto 15.4-2. Digitale oscilloscoopmodule. Boven: twee BNC-signaalingangen; rechtsonder de USBaansluitingen; linksonder de aansluiting voor een logic analyzer.
+
+De bijbehorende software is van Internet te downloaden. Het apparaatje heeft naast de
+standaard-oscilloscoopfuncties nog enkele mogelijkheden. Eén daarvan is die van logic
+analyzer. Daarmee kunnen tot acht digitale kanalen zichtbaar worden gemaakt, zoals het
+plaatje van de 4-bits frequentiedeler in hoofdstuk 11. Foto 15.4-3 laat het nog eens zien.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Foto 15.4-3. Nogmaals de output van de 4-bits frequentiedeler uit hoofdstuk 11. (1) de oorspronkelijke
+frequentie; (2) deling door 2; (3) deling door 4; (4) deling door 8; (5) deling door 16.
+
+15.5 De spectrumanalyzer
+Een spectrumanalyzer ontbindt een aangeboden signaal in frequenties en hun amplitudes.
+Uiterlijk lijkt zo’n apparaat op een oscilloscoop.
+Eigenlijk is een analoge spectrumanalyzer een scanner of panorama-ontvanger. Die laatste
+ontvangt een (heel) breed frequentiegebied tegelijk. De analyzer scant dit gebied
+razendsnel af door middel van een snel in frequentie variërende oscillator, een mengtrap
+en een (kristal)filter met versterker erachter. Net een echte ontvanger, maar dan één die
+niet met de hand, maar elektronisch verstemd wordt. De MF-spanning wordt daarbij
+voortdurend gelijkgericht en de gelijkgerichte spanning komt op de verticale afbuiging
+van een kathodestraalbuis terecht. Tegelijkertijd loopt de horizontale afbuiging mee met
+de frequentie. Output van een spectrumanalyzer hebben we gezien in Hoofdstuk 12, toen
+het over de spectrale samenstelling van een AM-signaal ging.
+Naast analoge spectrumanalyzers zijn er ook digitale. Het kleine apparaatje van Foto
+15.4-2 kan ook de spectrale samenstelling van een signaal laten zien, maar is wat
+mogelijkheden betreft niet te vergelijken met een professioneel apparaat.
+
+15.6 De dipper, dipmeter of griddipper
+Een dipper meet de resonantiefrequentie van een parallelle LC-kring. Het apparaat is een
+LC-oscillator, waarvan de spoel naar buiten is uitgevoerd. Als die vlak bij een andere
+afgestemde kring wordt gehouden en de dipper oscilleert op de resonantiefrequentie
+ervan, dan zal die kring energie opnemen uit het magnetisch veld van de dipperspoel. Die
+opname beïnvloedt de rooster-, gate- of basisspanning van het versterkende element in de
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+dipperoscillator. Dat is op de ingebouwde voltmeter te zien als een dip in de
+meteraanwijzing. Foto 15.6-1 laat een voorbeeld van een dipper zien.
+
+Foto 15.6-1. Dipper. De ronde schijf bovenin regelt de frequentie-instelling. De analoge meter onder laat de
+dip zien.
+
+De ronde schijf met randvertanding dient voor de frequentie-instelling. De zes
+verschillend gekleurde banen (A-F) verwijzen naar de zes bijbehorende spoelen. Met
+verwisselbare spoelen kan een groot frequentiegebied worden bestreken; in dit geval van
+1,4 – 250 MHz. De dip wordt zichtbaar gemaakt met de wijzermeter onder. Het apparaatje
+werkt op een 9 V batterij. De detailfoto (Foto 15.6-2) laat de gemonteerde spoel zien.
+
+Foto 15.6-2. Detail van de dipper van Foto 15.6-1, nu met gemonteerde spoel.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Omdat de spoel van de oscillator naar buiten is uitgevoerd, beïnvloedt de te meten kring
+de oscillatiefrequentie van de dipper. Een dipper is daarom geen precisie-instrument.
+
+15.7 Frequentiemeting
+Een zendamateur moet zelf kunnen vaststellen of hij/zij uitzendt op een toegestane
+frequentie en moet daarom -in theorie- frequenties kunnen meten. Met een kant en klaar
+gekochte zendontvanger zal dat niet gauw nodig zijn. Bij gebruik van zelfbouwapparatuur
+of omgebouwde spullen is het kunnen meten van frequenties vanzelfsprekend.
+Het analoge meetapparaat heette absorptie-frequentiemeter. In de volledige cursustekst is
+het kort beschreven. Tegenwoordig is frequentiemeting een digitale aangelegenheid. Het
+instrument heet frequentieteller, teller of op zijn Engels (frequency) counter.
+Een teller telt het aantal perioden in een bepaald tijdsbestek, bijvoorbeeld 0,01 s, 0,1 s, 1 s,
+enz. Om die meettijd nauwkeurig in te stellen, zit er een kristalgestuurde tijdbasis in.
+Voor meting met een digitaal systeem moet de meestal sinusvormige input soms worden
+versterkt en altijd worden omgezet naar een pulsspanning (Figuur 15.7-1).
+1
+
+0
+
+-1
+0
+
+Figuur 15.7-1. Omzetting van sinus (rood) naar puls (blauw).
+
+Daarna kan het omgezette signaal via een poortschakeling de teller in (Figuur 15.7-2).
+Tussengeheugen &
+conversie
+Signaalingang
+
+Display
+
+Omzetting 
+pulsspanning
+
+Poort
+
+Versterker
+
+Oscillator
+
+0,01 0,1 1 10
+seconde
+
+Tijdbasis
+
+Deler
+
+Figuur 15.7-2. Blokschema van een frequentieteller.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-14
+
+Teller
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+De poort staat open gedurende de op de kristalgestuurde tijdbasis ingestelde tijdsperiode.
+Daarna wordt de teller uitgelezen. De output van de teller wordt omgezet in code voor het
+display. Vervolgens wordt een nieuwe telling uitgevoerd, enz.
+Foto 15.7-1 toont een opstelling met een frequentieteller (boven), een digitale
+functiegenerator die een sinusvormige spanning afgeeft (midden) en een oscilloscoop die
+hem zichtbaar maakt (onder).
+
+Foto 15.7-1. Meetopstelling met frequentiegenerator (midden), oscilloscoop die het signaal toont en de teller
+die de frequentie toont.
+
+Wie scherp kijkt, ziet dat de telleraanwijzing 95 Hz (op 14,225 MHz) onder de frequentieinstelling van de functiegenerator ligt. Meestal is de teller nauwkeuriger dan de generator.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+15.8 De signaalgenerator
+Een signaalgenerator wekt een signaal op met instelbare frequentie en amplitude. Er is
+altijd een sinusvormig signaal, soms ook andere. Het signaal wordt gebruikt bij het testen
+van apparatuur. Een generator is te zien op Foto 15.7-1 (het middelste apparaat). Die is
+digitaal. Er zijn ook analoge instrumenten. Foto 15.8-1 toont er één uit het buizentijdperk.
+Het apparaat levert een sinusvormig signaal, desgewenst AM-gemoduleerd, voor
+frequenties tussen 10 en 485 MHz. Het (loodzware) instrument heeft een uitstekende
+verzwakker die amplitudes tussen 1 V en 5 mV over 50  levert. Het apparaat is geschikt
+voor meting van ingangsgevoeligheid, spiegelonderdrukking en meer bij ontvangers. Je
+kunt er ook een S-meter mee ijken.
+
+Foto 15.8-1. Marconi meetzender. Een met buizen uitgevoerd (loodzwaar) precisie-instrument uit 1966.
+
+Het veel kleinere en lichtere digitale apparaat van Foto 15.7-1 heeft andere
+mogelijkheden, zoals verschillende golfvormen. In tegenstelling tot het oudje van Foto
+15.8-1 dat tot 1 V komt, is de kleinste signaalamplitude van dit digitale apparaat 1 mV.
+Het is toepasbaar bij het bouwen en testen van zowel LF- als HF-apparatuur.
+
+15.9 De staandegolfmeter (SWR- of SGV-meter)
+De staandegolfmeter is een onmisbaar instrument voor de zendamateur. Hij geeft de
+kwaliteit van de aanpassing van de zender aan de antenne aan. In hoofdstuk 14 zijn de
+staandegolfverhouding (SGV, Engels: SWR) en zijn nut besproken.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+De SWR-meter meet de amplitudeverhouding van de voorwaartse en gereflecteerde
+stroom. Voorwaarts en gereflecteerd signaal worden opgepikt door twee inductief met de
+transmissieleiding gekoppelde draadstukjes. Die koppelstukjes zijn in spiegelbeeld
+geschakeld, zodat de één het voorwaartse en de ander het gereflecteerde signaal oppikt.
+Aan één kant zijn ze via een weerstand, gelijk aan de karakteristieke impedantie van de
+voedingsleiding, geaard. In coax-kabel zitten ze tussen mantel en binnengeleider. In
+fabrieksapparatuur is de mantel vervangen door een metalen buis of gootje. In het hart ligt
+de vervanger van de binnenader met de koppelstukken aan weerskanten (Foto 15.9-1).
+Het schema staat in Figuur 15.9-1.
+
+Foto 15.9-1. Binnenader met koppelstukjes in een SWR-meter. Links en rechts de kabelaansluitingen. Het
+metalen gootje verbindt de mantels; de middelste zilverkleurige leiding tussen de aansluitingen verbindt de
+binnenaders. Aan weerskanten van het binnenaderstuk de eveneens zilverkleurige koppelstukjes.
+
+Heengaand
+50 
+Koppelstuk heengaand
+Zender
+
+Antennekabel
+
+Schakelaar
+
+Koppelstuk gereflecteerd
+50 
+
+Gereflecteerd
+Figuur 15.9-1. Het schema van de staandegolfmeter van Foto 15.9-1. De 50-ohms weerstanden aan de
+uiteinden van de koppelstukken maken het apparaat geschikt voor gebruik bij 50-ohms aansluitingen. De
+koppelstukjes liggen tegen elkaar in om heengaand en gereflecteerd signaal te kunnen meten.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Bij het begin van de meting moet ervoor worden gezorgd
+dat zender en antenne aan de daarvoor bestemde
+aansluitingen zitten. De schakelaar komt nu in de stand
+“heengaand” (Forward). Zet de potentiometer in de laagste
+stand. Laat de zender een draaggolf geven, liefst op laag
+vermogen, zodat er niets kapot kan gaan. Draai nu de
+potmeter tot de SWR-meter volle uitslag geeft. Zet de
+schakelaar om naar teruggaand (Reflected) en lees op de
+meter de SWR af.
+Als de SWR in orde is, liefst minder dan 2, kan de meter in
+de leiding van zender naar antenne blijven zitten. Hij
+gebruikt nauwelijks vermogen. Ter verduidelijking laten we
+de voorkant van een eenvoudige SWR-meter zien op Foto
+15.9-2.
+Het is het apparaat dat we met verwijderd achterpaneel
+hebben gezien op Foto 15.9-1. De meter spreekt voor
+zichzelf. De schuifschakelaar op Foto 15.9-2 is de schakelaar
+in Figuur 15.9-1 en de draaiknop op Foto 15.9-2 is die van
+de potentiometer in Figuur 15.9-1.
+
+Foto 15.9-2. Eenvoudige
+SWR-meter
+
+De SWR-schaal van de meter op Foto 15.9-2 is bij wijze van
+waarschuwing rood gekleurd voor SWR>3. Boven staat de
+SWR-waarde, eronder het bijbehorend percentage
+gereflecteerd vermogen hoort. De meter is bruikbaar tot
+minimaal de 2-meterband (144-146 MHz).
+
+Er zijn SWR-meters met meer meetmogelijkheden en/of voor hogere frequentiebereiken.
+De meter op Foto 15.9-3 heeft twee frequentiebereiken: 1,6-160 MHz en 140 tot ruim 500
+MHz.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Foto 15.9-3. SWR-meter met meer mogelijkheden dan het apparaat van Foto 15.9-2.
+
+Een ander soort meterschaal voor SWR kun je ook tegenkomen. Dat zijn meters met twee
+wijzers en dus ook twee schalen. Heengaand (voorwaarts) en gereflecteerd komen beide
+in beeld. Op het snijpunt van de wijzers wordt de SWR afgelezen. Foto 15.9-4 laat de
+schaal van zo’n meter zien.
+
+Foto 15.9-4. Aanwijssysteem van een SWR-meter die voorwaarts en gereflecteerd vermogen aanwijst. Op
+het snijpunt van de wijzers wordt de SWR afgelezen (rode lijnen).
+
+Links de schaal voor voorwaarts vermogen, rechts die voor gereflecteerd. De rode curven
+in het midden geven de SWR. De SWR-waarde wordt aangegeven met het kruispunt van
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+de twee aanwijsnaalden. Een heel nauwkeurige aflezing van de SWR is zo niet mogelijk,
+maar ook niet nodig. Of de waarde nu 1,4 of 1,5 is, maakt in de praktijk weinig uit.
+
+15.10 De kunstantenne of dummyload
+In de vorige paragraaf bleek dat het uitgangsvermogen van een zender in principe te
+meten is met een SWR-meter. Verwacht daarvan geen grote nauwkeurigheid.
+Nauwkeuriger is meting met een capaciteits- en inductievrije weerstand die de antenne
+vervangt, de zogenoemde kunstantenne. In het Engels heet dat een dummy load.
+Daarvoor bestaan professionele instrumenten, zoals die van de firma Bird, maar zelfbouw
+kan ook. Foto 15.10-1 laat een voorbeeld zien. Wie een kunstantenne zelf wil maken,
+vermijdt draadgewonden weerstanden. Door de windingen zijn het voor HF-toepassingen
+spoelen met een heel lage Q. Niet doen dus.
+Het apparaatje op de foto bestaat uit 20
+koolweerstanden van elk 1 k en 0,5 W,
+samen 50  en 10 W. Als de meting kort
+(enkele seconden) duurt, kan 20 W ook.
+De weerstanden staan parallel in een
+cirkel en zijn verbonden via twee messing
+plaatjes. Bovenop zit de kabelaansluiting.
+Dit zelfbouwapparaatje geeft een SWR van
+vrijwel 1 tot meer dan 30 MHz. Een
+schema voor de meting van de maximale
+spanning Umax staat in afbeelding (a) van
+Figuur 15.10-1.
+Foto 15.10-1. Zelfbouw-kunstantenne (dummy
+load)
+
+a
+
+Meting Umax
+
+PEP=
+
+Umax2
+2ZG
+
+b
+
+Zendereindtrap
+Kunstantenne
+
+Oscilloscoopbeeld
+
+Zendereindtrap
+R=ZG
+
+V
+
+Umax
+
+Kunstantenne
+
+Figuur 15.10-1. PEP-bepaling van een zendersignaal (a) en maken oscilloscoopbeeld van een zendersignaal
+(b).
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15 kort 20251012
+
+Voorwaarde is dat de tijdconstante van de capaciteit van de condensator en de weerstand
+van de niet-ideale voltmeter groot genoeg is, bijvoorbeeld 3 seconden of meer.
+Uit Umax en de karakteristieke impedantie ZG valt PEP te berekenen volgens
+2
+𝑈𝑚𝑎𝑥
+( 15.10-1)
+2𝑍𝐺
+Voor meting van het draaggolfvermogen (FM/PM, CW of ongemoduleerde draaggolf) kan
+worden uitgegaan van dezelfde vergelijking Dan is de hoogste spanning voor elke
+signaalperiode even groot. De hiervoor genoemde tijdconstante mag dan (veel) kleiner
+zijn. We kunnen dan voor het bepalen van het vermogen P ook uitgaan van de effectieve
+spanning Ueff volgens
+
+𝑃𝐸𝑃 =
+
+2
+𝑈𝑒𝑓𝑓
+( 15.10-2)
+𝑃=
+𝑍𝐺
+Dat komt op hetzelfde neer. Het enige verschil is dat de waarde van 𝑈𝑚𝑎𝑥 bij een FM-,
+CW- of niet-gemoduleerde draaggolf voor elke periode dezelfde is en bij AM en zijn
+varianten niet. Dan moet de grootste signaalamplitude worden gevonden. Met een
+oscillogram (Figuur 15.10-1b) kan dat, maar minder nauwkeurig dan met een meter met
+grote tijdconstante.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA.
+
+15-21
+
+

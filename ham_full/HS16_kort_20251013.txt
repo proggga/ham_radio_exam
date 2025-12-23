@@ -1,0 +1,571 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+Inhoudsopgave
+16
+
+Storing en immuniteit .............................................................................................. 16-2
+16.1
+
+Wat leer je in dit hoofdstuk .................................................................................16-2
+
+16.2
+
+Soorten storingen in ontvangstapparatuur en LF-versterkers ...........................16-2
+
+16.2.1
+
+Blokkering ....................................................................................................16-2
+
+16.2.2
+
+Interferentie van gewenst en ongewenst signaal .......................................16-3
+
+16.2.3
+
+Intermodulatie en kruismodulatie .............................................................. 16-3
+
+16.2.4
+
+Laagfrequentdetectie (LFD of LF-inpraten)................................................16-3
+
+16.2.5
+
+Faseruis, chirp en tjoep ................................................................................16-4
+
+16.3
+
+Mogelijke oorzaken van storingen ......................................................................16-4
+
+16.3.1
+
+Veldsterkte....................................................................................................16-4
+
+16.3.2
+
+Ongewenste uitstralingen ............................................................................16-4
+
+16.3.3
+
+Ongewenste beïnvloeding van apparatuur .................................................16-4
+
+16.4
+
+Storingen voorkomen en verhelpen....................................................................16-5
+
+16.4.1
+
+Algemeen ......................................................................................................16-5
+
+16.4.2
+
+Filteren ..........................................................................................................16-5
+
+16.4.3
+
+Ontkoppelen .................................................................................................16-7
+
+16.4.4
+
+Afschermen.................................................................................................16-10
+
+16.4.5
+
+Oscillator stabiliseren (faseruis, chirp en tjoep) .......................................16-11
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+16 Storing en immuniteit
+16.1 Wat leer je in dit hoofdstuk
+Praktisch elke zendamateur die met enige regelmaat actief is op amateurbanden, krijgt
+vroeg of laat te maken met storingen in apparatuur in zijn/haar nabije omgeving. Elke
+storing in of door radioapparatuur gaat via een elektromagnetisch veld en elke zender
+straalt nu eenmaal zo’n veld uit. Zonder EM-veld geen radioverbinding.
+We behandelen de storingen blokkering, interferentie, intermodulatie,
+laagfrequentdetectie, faseruis, chirp, tjoep en hun oorzaken.
+Uiteindelijk moet de oorzaak van een storing worden gevonden en de storing zo mogelijk
+worden verholpen. Ook daarover gaat dit hoofdstuk.
+
+16.2 Soorten storingen in ontvangstapparatuur en LF-versterkers
+16.2.1 Blokkering
+Als een sterk signaal op de ingang van een versterkend element staat, kan dit leiden tot
+gelijkrichting van een deel van een halve periode. We kennen het verschijnsel uit de
+hoofdstukken 9 en 10, als een versterkertrap of oscillator zichzelf in klasse C “trekt”. Als
+dit door een ongewenst signaal gebeurt, heet dat blokkering (Engels: blocking).
+Blokkering kan behalve op een ingangstrap voorkomen in een mengtrap of een MFversterker. Figuur 16.2-1 laat aan de hand van een J-FET-schakeling zien wat er gebeurt.
+
++
+Positieve fasehelft signaal
+C1
+
+L1
+
+L2
+
+C2
+
+Gatestroom loopt tijdens positieve
+fasehelft zodra UGS>drempelspanning.
+Technische stroomrichting gatestroom
+
+Q
+
+Negatieve fasehelft signaal.
+Gate-source diode spert.
+
+R
+
+Figuur 16.2-1. Het proces van blokkering.
+
+Als door een sterk signaal de drempelspanning van de gate-source-diode wordt
+overschreden (het met rood gevulde deel van de positieve fasehelft), geleidt de diode
+waardoor positieve lading aan koppelcondensator C1 wordt onttrokken. In de negatieve
+blauwe fasehelft spert de gate-sourcediode. Het ladingverlies wordt niet gecompenseerd.
+Het werkpunt verschuift naar een lagere gatespanning tot bij de maximale waarde van de
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+ingangsspanning net genoeg gatestroom loopt om het ladingverlies via weerstand R te
+compenseren. De FET kan zover worden afgeknepen dat hij vrijwel dicht zit. Bij buis- of
+transistorschakelingen werkt het op een vergelijkbare manier.
+16.2.2 Interferentie van gewenst en ongewenst signaal
+Geen versterker is volledig lineair. Dat betekent dat altijd wel ergens menging optreedt.
+Bij menging beïnvloedt het ene signaal de versterking van het andere. AM-, DZB- en
+EZB-modulatoren zijn er een extreme vorm van.
+Interferentie ontstaat door menging van signalen. We zagen in hoofdstuk 13 dat het
+proces van menging allerlei harmonischen en som- en verschilfrequenties kan opleveren.
+Daardoor kunnen op de eigen TV of radio of die van buren allerlei storingen ontstaan.
+Op TV kan interferentiestoring warrelingen in het beeld veroorzaken. Voorbeeld: de
+vierde harmonische van een signaal tussen 144 en 145,5 MHz (2-meterband) ligt tussen
+576 en 582 MHz in kanaal 34 van de UHF-TV-band (574-582 MHz)
+16.2.3 Intermodulatie en kruismodulatie
+Intermodulatiestoring ontstaat als de som- of verschilfrequentie van twee sterke signalen
+of een harmonische daarvan (vrijwel) gelijk is aan de beluisterde frequentie. Filteren helpt
+niet, want het frequentieverschil tussen het storende en het gewenste signaal is te klein.
+Na detectie zullen dan ook beide signalen uit de luidspreker komen. Intermodulatie is
+hinderlijk bij luisteren naar zwakke signalen. Een sterk gewenst signaal overstemt meestal
+het intermodulatieproduct.
+Bij kruismodulatie ontstaan geen nieuwe frequenties, maar wordt de modulatie van een
+sterk ongewenst signaal als het ware overgenomen door het beluisterde signaal. Je hoort
+dan twee signalen tegelijk. Beide verschijnselen worden veroorzaakt door niet-lineariteit
+in HF- en/of mengtrap.
+16.2.4 Laagfrequentdetectie (LFD of LF-inpraten)
+In een LF-versterkertrap kan een EM-veld een HF-frequentie opwekken die AM-detectie
+ondergaat in een halfgeleider of een buis in het audiodeel van de schakeling. Apparatuur
+waarin dit gebeurt, is soms onvoldoende afgeschermd.
+AM veroorzaakt woordelijk te verstane taal, EZB en DZB onverstaanbaar geluid in
+spraakritme. Onvoldoende geïmmuniseerde apparatuur hoeft in Nederland niet (meer)
+door de “storende” amateur te worden ontstoord, maar omwille van de verstandhouding
+met de buren zullen veel amateurs dat wel doen.
+CW-signalen kunnen plopgeluiden veroorzaken bij het in- of uitschakelen van de zender
+via de seinsleutel. Een FM-signaal hoor je niet, maar het kan wel het werkpunt van een
+versterkerschakeling verschuiven, net als bij blokkeren (16.2.1).
+Er zijn regels voor de maximale veldsterkte waarbij een apparaat normaal hoort te
+werken. Die staan in de EMC-richtlijnen (afkorting van ElektroMagnetische
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+Compatibiliteit). De Europese aanduiding is CE. Die hoort ergens op de buitenkant van
+apparatuur te staan die aan immunisatieregels voldoet of hoort te voldoen.
+16.2.5 Faseruis, chirp en tjoep
+Faseruis komt van een onstabiele oscillator in de zender. Het uitgezonden signaal bevat
+aan weerskanten van de bedoelde frequentie een meer of minder brede parasitaire
+frequentiewolk. Faseruis is in hoofdstuk 13 behandeld. Chirp en tjoep komen bij CW
+(morsetelegrafie) voor. Chirp ontstaat door een korte parasitaire oscillatie na indrukken
+van de seinsleutel. Tjoep doordat bij indrukken van de seinsleutel de oscillator hoorbaar
+van frequentie verandert. Beide termen zijn een nabootsing van het bijbehorende geluid.
+
+16.3 Mogelijke oorzaken van storingen
+16.3.1 Veldsterkte
+Elke zendende antenne veroorzaakt een elektromagnetisch (EM-) veld. Hoe meer
+vermogen, des te groter de veldsterkte. Die wordt uitgedrukt in V/m, dus het elektrische
+deel. Samen met de magnetische veldsterkte (A/m) is het de vermogensdichtheid (W/m2.
+Vermogensdichtheid neemt kwadratisch af met toenemende afstand tot de antenne. De
+storingskans neemt daardoor met toenemende afstand tot de zendende antenne snel af.
+Bundeling door een antenne met richteffect maakt dat de ERP en dus ook de veldsterkte
+bij een betrekkelijk klein zendvermogen in één richting toch aanzienlijk kan zijn.
+16.3.2 Ongewenste uitstralingen
+Onder ongewenste of parasitaire uitstralingen valt alles buiten de bandbreedte van de
+draaggolf en de noodzakelijke bijbehorende modulatieproducten. Voorbeelden:
+•
+•
+•
+•
+•
+
+Oscillatorfrequenties;
+Ongewenste som- of verschilfrequenties die bij menging zijn ontstaan;
+Harmonischen van het uitgezonden signaal. Een klasse A-eindtrap geeft ze het
+minst, een klasse C-eindtrap het meest;
+Bij oudere zendapparatuur die met frequentievermenigvuldiging werken, kunnen
+parasitaire uitstralingen de oorspronkelijke frequentie en harmonischen ervan zijn.
+Faseruis. In de hoofdstukken 10 en (vooral) 13 hebben we die besproken.
+
+16.3.3 Ongewenste beïnvloeding van apparatuur
+Het EM-veld van een zendantenne kan langs vele wegen apparatuur binnendringen en
+daar storing veroorzaken. We noemen:
+•
+•
+•
+•
+•
+
+Antennes en antenneleidingen
+Netsnoeren,
+CD/DVD-aansluitingen
+Luidsprekersnoeren
+Instraling op de printplaat zelf
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+Stoorsignalen via de antenne leiden meestal tot interferentie, intermodulatie of
+blokkering. De andere vier geven merendeels aanleiding tot laagfrequentdetectie (LFD of
+laagfrequent inpraten).
+Sinds 2006 is in ons land de analoog uitgezonden TV vervangen door digitale. Daarmee is
+analoge ontvangst niet verdwenen. Vaak wordt een omzetter gebruikt om het TV-toestel
+te voorzien van een analoog signaal. Antennes en hun kabels zijn grotendeels verdwenen
+en vervangen door behoorlijk afgeschermde coax-kabels van kabel-TV of door glasvezel.
+Problemen met instraling via antenneleidingen zijn daardoor in aantal sterk verminderd.
+
+16.4 Storingen voorkomen en verhelpen
+16.4.1 Algemeen
+Fabriekstransceivers voldoen normaal gesproken aan de eisen in de voorschriften voor
+amateurzenders. Wie aan zelfbouw of aanpassing van fabrieksapparatuur doet, zal meestal
+ook in staat zijn, de maatregelen die in deze paragraaf zijn beschreven, zelf uit te voeren.
+Zorg voor een zo goed mogelijke aanpassing van zender naar antenne. Verbind
+symmetrische en asymmetrische aansluitingen met een passende balun. Dat voorkomt
+stromen aan de buitenkant van de mantel van de coax-kabel. Zorg dat de antenne straalt
+en niet de kabel.
+Maak bij een eindgevoede antenne (hoofdstuk 14) in elk geval een symmetrische
+aansluiting tussen tuner en antenne (“kippenladder”). Een in het midden gevoede antenne
+(dipool) geeft minder kans op problemen dan een eindgevoede.
+We bespreken enkele soorten methoden om storingen tegen te gaan of op te heffen:
+•
+•
+•
+•
+
+Filteren, zodat parasitaire signalen niet worden uitgestraald of aan de ontvangkant
+de ingang van de ontvanger niet bereiken;
+Ontkoppelen van verschillende soorten leidingen;
+Afschermen van schakelingen die hoogfrequente stralingsbronnen kunnen zijn.
+Stabiliseren van de oscillator in een zender.
+
+16.4.2 Filteren
+In of direct achter de zender
+Tussen zenderuitgang en antenneleiding kunnen harmonischen worden onderdrukt door
+een of twee extra laagdoorlaatfilters. Die moeten zo dicht mogelijk op de zenderuitgang
+worden geplaatst of, nog mooier maar niet altijd haalbaar, in de zender tussen
+aanpassingsfilter en uitgang. Zo’n filter zal meestal een pi- filter (Figuur 16.4-1 links) of
+een T-filter zijn (Figuur 16.4-1 rechts).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+L1
+
+L
+Zin
+
+C1
+
+C2
+
+Zuit
+
+Zin
+
+L2
+C
+
+Zuit
+
+Figuur 16.4-1. CLC Pi-filter (links) en LCL-T-filter (rechts).
+
+Het enige goede T-filter is een filter met twee spoelen tussen de signaalaansluitingen en
+een condensator als middenaftakking naar massa/aarde, zoals in Figuur 16.4-1 rechts. Eén
+met twee condensatoren in plaats van de spoelen en een spoel in plaats van de ene
+condensator is een hoogdoorlaatfilter, alleen goed voor impedantie-aanpassing.
+Een zogenoemde ferrietklem kan helpen tegen mantelstromen. Zo’n klem is een
+omhulling van ferriet die op het begin van de stralende kabel wordt geklemd (Foto
+16.4-1). Eventueel kan meer dan één klem worden aangebracht.
+
+Foto 16.4-1. Coax-kabel (10 mm dia.) met ferrietklemmen. Links: klem open; rechts: klem gesloten. Het
+muntje geeft de grootte aan.
+
+In de ontvanger
+In ontvangers kan het amateursignaal storende harmonischen of een blokkade
+veroorzaken. In dat geval kan een zuigkring in de vorm van een LC-seriekring worden
+geplaatst. De resonantiefrequentie moet gelijk zijn aan de frequentie van het uitgezonden
+storende signaal. De kring komt tussen antenne-ingang en aarde (Figuur 16.4-2 links).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+Zuigkring
+
+Sperkring
+
+ontvanger
+
+ontvanger
+
+Figuur 16.4-2. Zuigkring (links) en sperkring (rechts).
+
+Hetzelfde kan met een sperkring. Dat is een LC-parallelkring, met resonantiefrequentie
+die weer gelijk is aan die van het storende signaal. De kring wordt opgenomen in de
+signaalleiding direct na de antenne-ingang (Figuur 16.4-2 rechts).
+Bezwaar: ook frequenties hoger of lager dan de storende frequentie worden, afhankelijk
+van de Q van de kring en het frequentieverschil, meer of minder verzwakt.
+Een laag- of hoogdoorlaatfilter tussen antenne en ontvanger is daarom vaak een betere
+optie. Is de frequentie van het storende signaal hoger dan de gewenste frequentie, gebruik
+dan een laagdoorlaatfilter; gebruik in het tegengestelde geval een hoogdoorlaatfilter.
+Zit de zendfrequentie in het HF-gebied, dan zal deze altijd lager zijn dan de frequentie
+van een eventueel door de zender gestoord TV-signaal. Dan kan een hoogdoorlaatfilter in
+de antenneleiding van de ontvanger uitkomst bieden.
+16.4.3 Ontkoppelen
+Algemeen
+Een storend signaal heeft een keur aan mogelijkheden om een elektronisch apparaat
+binnen te komen:
+•
+•
+•
+•
+
+Het lichtnet;
+Luidsprekerleidingen;
+Signaalleidingen, zoals aansluitkabels;
+Directe instraling op de print.
+
+Het gaat hierbij vooral om LFD (sub-par. 16.2.4).
+Het lichtnet
+Om vast te stellen of het storende HF-signaal via het lichtnet binnenkomt, kan een
+laagdoorlaatfilter in de netaansluiting van het gestoorde apparaat worden opgenomen. Een
+platte keramische condensator van 1 à 10 nF met een doorslagspanning van 1 kV of meer
+over de netaansluiting is vaak genoeg. Zulke condensatoren hebben platte elektroden en
+hun inwendige zelfinductie is klein. Een ferrietring met het snoer een aantal keren door
+de ring kan helpen als alleen een condensator niet voldoende is (Foto 16.4-2).
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+Foto 16.4-2. Van links naar rechts: ferriet-ringkern, bewikkeld met netsnoer, keramische condensator van 1
+nF, 7,5 kV, keramische condensator van 2,2 nF, 3 kV. Door de lagere doorslagspanning en daarom dunner
+diëlektricum is de 2,2 nF kleiner dan die van 1 nF. Voor 230 V netspanning is 1 kV ruim voldoende.
+
+Deze foto toont zo’n bewikkelde ringkern met twee platte keramische condensatoren. Het
+filter komt zo dicht mogelijk bij de netaansluiting van de versterker. Heeft zo’n filter geen
+effect op de storing, dan neemt het storende signaal blijkbaar een andere route.
+Verdachten zijn dan luidspreker- en signaalleidingen (volgende kopjes).
+Luidsprekerleidingen
+LFD via luidsprekerleidingen is berucht. Die leidingen zijn vaak enkele meters lang. Alle
+gelegenheid om een flink HF-signaal op te bouwen. Reageert het geluid van de LFDstoring niet op de stand van de volumeregelaar, dan is het meestal de luidsprekerleiding
+die het storende signaal oppikt. Het wordt dan ergens in de eindtrap gelijkgericht. Dat
+betekent detectie van AM of een ander lid van de AM-familie: CW, DZB en EZB.
+Soms is een condensator van circa 1-10 nF met goede HF-eigenschappen (plat keramisch)
+tussen de twee aders van de luidsprekerleiding afdoende. De condensator komt indien
+mogelijk op de luidsprekeraansluiting van de versterker en anders zo dicht mogelijk erbij.
+Een laagspanningstype is genoeg. Luidsprekeraansluitingen zijn laagohmig.
+Helpt dat onvoldoende, pas dan behalve de condensatoren ook ferriet toe, op dezelfde
+manier als bij netaansluitingen. Het verschil is de doorslagspanning van de condensatoren.
+Voor de rest is Foto 16.4-2 ook van toepassing op luidsprekerleidingen.
+Signaalleidingen
+HF kan ook binnenkomen via audio-signaalleidingen en LFD veroorzaken. De frequentie
+van een HF- of VHF-signaal is vele malen hoger dan die van het audio-signaal dat de
+versterker hoort te verwerken. Dan is een laagdoorlaatfilter in de leiding de oplossing.
+Reageert het geluidsvolume van de storing op de volumeregelaar, dan komt de storing via
+een signaalleiding binnen. Maak alle signaalleidingen los, verbind ze één voor één en
+controleer of de storing weer optreedt. Het probleem zit meestal in het eerste
+versterkende element dat het stoorsignaal tegenkomt op de in Figuur 16.4-3 aangegeven
+plekken.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+1
+
+2
+
+3
+
+Zsign
+
+Zsign
+
+Zsign
+
+Figuur 16.4-3. In de gestippelde rode cirkel zit bij de drie verschillende versterkende elementen de bron van
+LFD-storing: (1) de emitter-basisdiode; (2) de gate-source-diode en (3) stuurrooster/ kathode. Zsign is de
+impedantie van de signaalbron.
+
+Er ontstaat gelijkrichting als de amplitude van het storende signaal daarvoor groot genoeg
+is. Figuur 16.2-1 voor blokkering geldt ook voor LFD. AM geeft verstaanbare taal, EZB en
+DZB iets onverstaanbaars in het ritme van de stem. CW leidt tot plopgeluiden en
+geluidsonderbrekingen in het ritme van het uitgezonden signaal. FM veroorzaakt
+geluidsvermindering of -onderbreking, maar brengt zelf geen geluiden mee.
+In alle gevallen moet worden voorkomen dat een (te) sterk HF-signaal in het versterkende
+element terechtkomt. De eerste en meestal afdoende mogelijkheid is ontkoppelen met een
+condensator (Figuur 16.4-4).
+
+1
+
+2
+
+3
+
+Zsign
+
+Zsign
+
+Zsign
+C
+
+C
+
+C
+
+Figuur 16.4-4. LFD-ontkoppeling van de signaalingang met een condensator C (rood). (1) NPN-transistor;
+(2) N-kanaals J-FET; (3) buis.
+
+Bij FET of buis is de signaalingang hoogohmig. Dan is de impedantie Zsign van de
+signaalbron bepalend voor de capaciteit van C. Als de reactantie XC van de condensator
+voor de storende frequentie grofweg een factor 10 lager is dan Zsign, zal dat bijna altijd
+voldoende zijn. Die 10 is niet kritisch. 3 of 15 zal meestal ook werken. Vergelijking:
+𝐶 ≈ 10⁄(2𝜋𝑓𝑍
+
+𝑠𝑖𝑔𝑛 )
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16 kort 20251013
+
+De werking van de capaciteit kan worden vergroot door in de signaalleiding vóór de
+ontkoppel-C een of meer ferrietkralen (Foto 16.4-3) toe te passen. Een kleine weerstand
+van een enkele honderden ohm in plaats van ferriet kan soms ook goed werken.
+Een HF-smoorspoel in de emitter-, source- of kathodeleiding opnemen is ook een optie.
+Die vormt een sterkere tegenkoppeling naarmate de frequentie hoger is. Combinatie met
+een ontkoppel-C als in Figuur 16.4-4 kan in een (zeldzaam) hardnekkig geval ook nut
+hebben.
+De HF-smoorspoel is gemakkelijk zelf te maken met ferriet. In volgorde van toenemende
+grootte van de zelfinductie zijn dat één of meer ferrietkralen met één gat, met twee gaten
+(“varkensneusje”) of varkensneusje(s) met grotere gaten, waarin meer dan één winding
+past (Foto 16.4-3).
+
+Foto 16.4-3. Drie ferrietvormen die voor een HF-smoorspoel kunnen worden gebruikt, van links naar rechts
+in volgorde van toenemende zelfinductie.
+
+16.4.4 Afschermen
+Afschermen komt neer op zorgen dat
+•
+•
+
+Een elektromagnetisch veld dat binnen een apparaat ontstaat in zijn verbreiding zo
+wordt beperkt dat het de werking van het apparaat niet nadelig beïnvloedt;
+Een elektromagnetisch veld van buitenaf het binnenste van een apparaat niet
+bereikt of zover wordt verzwakt dat het daar geen kwaad meer kan.
+
+We beginnen met EM-velden die binnen een apparaat ontstaan.
+•
+
+Scherm alles dat een frequentie opwekt, af. Dat wordt onder amateurs ook wel
+“inblikken” genoemd. Bij fabrieksapparatuur is de gebruiker er vrijwel van
+verzekerd dat de afscherming in orde is. De zelfbouwer moet daar zelf voor zorgen.
+In de handel zijn blikken doosjes met losse blikken afschermschotjes in allerlei
+maten te koop. Ook van printplaat zijn afgeschermde doosjes te maken.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-10
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 16 kort 20251013
+
+Gebruik voor het doorvoeren van voedingsleidingen doorvoercondensatoren. Dat
+zijn condensatoren waarvan de buitenkant één elektrode is of daarmee verbonden
+is en de leiding die er doorheen loopt verbonden is met de andere (Foto 16.4-4).
+
+Foto 16.4-4. Doorvoercondensatoren met verschillende manieren van monteren. Links: leiding moet in de
+condensator worden gesoldeerd; midden: taps toelopende buitenkant met doorvoer (oogje en draadeind);
+rechts: met soldeerflens en doorvoer (oogje en draadeind).
+
+•
+•
+
+Signaalleidingen worden uitgevoerd als afgeschermde kabels. Bij doorgang door
+een afschermschotje wordt de afscherming aan het schotje gesoldeerd.
+Het kan nodig zijn, uitgangen van versterkende elementen af te schermen van de
+signaalingang door een geaard metalen plaatje er tussenin aan te brengen. Dat
+voorkomt oscillatie.
+
+Storingen van buitenaf die direct instralen op de bedrading (print):
+•
+
+Er zit weinig anders op dan het gestoorde deel te vinden en af te schermen (“in te
+blikken”). Heel vaak komt dit niet voor, maar het is één van de lastigst op te lossen
+storingsproblemen. Soms helpt het, de kast aan de binnenkant te beplakken met
+aluminiumfolie en die te aarden.
+
+16.4.5 Oscillator stabiliseren (faseruis, chirp en tjoep)
+Dit kan nodig zijn bij problemen met faseruis en chirp. Soms is een verbeterde stabilisatie
+van de voedingsspanning voldoende. Een oscillator hoort mechanisch solide in elkaar te
+zitten zonder wiebelende draden en behoorlijk te zijn afgeschermd met goed vastzittend
+plaatmateriaal.
+Bij chirp en tjoep kan het nodig zijn, de oscillator tussen de CW-tekens gewoon door te
+laten lopen en de onderbreking elders te realiseren. Dat kan bijvoorbeeld door het signaal
+uit de oscillator via een buffertrap en een door de seinsleutel geschakelde transistor of FET
+te laten lopen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16-11
+
+

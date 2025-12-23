@@ -1,0 +1,2206 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Inhoudsopgave
+14
+
+Antennes, transmissielijnen en voortplanting van elektromagnetische golven ...14-3
+14.1
+
+Wat leer je in dit hoofdstuk .................................................................................14-3
+
+14.2
+
+Antennes en transmissielijnen ............................................................................14-3
+Elektromagnetisch veld ...............................................................................14-3
+De halve golf-dipoolantenne .......................................................................14-5
+Vervangingsschema van een dipoolantenne ..............................................14-7
+Transmissielijnen..........................................................................................14-8
+Symmetrische en asymmetrische transmissielijnen ...................................14-9
+Koppeling van een symmetrische transmissielijn aan de antenne ..........14-11
+De transmissielijn als afgestemde kring en impedantietransformator ....14-11
+De halve-golf transmissielijn. ....................................................................14-13
+Coaxiale kabel als transmissielijn; de balun ..............................................14-13
+Gewikkelde baluns .................................................................................14-15
+De eindgevoede dipoolantenne (“Zeppelin antenne” of “Zepp”) ........14-16
+Staande-golf-verhouding (“Standing Wave Ratio”, SWR)...................14-17
+Aanpassing van de zender aan transmissielijn en antenne ..................14-20
+De antennetuner of Antenna Tuning Unit (ATU) ............................... 14-22
+Leidingverliezen .....................................................................................14-23
+De golfgeleider .......................................................................................14-24
+
+14.3
+
+Propagatie van elektromagnetische golven ......................................................14-25
+Polarisatierichting van EM-golven ........................................................... 14-25
+Zichtverbindingen .....................................................................................14-25
+Directe golf, grondgolf of bodemgolf en ruimtegolf ................................ 14-26
+Propagatie van VHF- en UHF-golven.......................................................14-27
+Propagatie via de ionosfeer ........................................................................14-29
+
+14.4
+
+Antennevariaties ................................................................................................ 14-34
+De isotrope straler, een theoretische maat voor antenne”versterking” ..14-34
+Afstand en verzwakking ............................................................................14-34
+Verticale antennes (groundplane) ............................................................. 14-34
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+De gevouwen dipool ..................................................................................14-36
+Antennes met parasitaire elementen ........................................................14-36
+Dipool met sperkringen .............................................................................14-38
+Apertuur-antennes .....................................................................................14-38
+Horizontale en verticale stralingsdiagrammen .........................................14-40
+De effectief ontvangende oppervlakte van een antenne .......................... 14-44
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+14 Antennes, transmissielijnen en voortplanting van
+elektromagnetische golven
+14.1 Wat leer je in dit hoofdstuk
+Dit hoofdstuk gaat over de reis van EM-golven van zendereindtrap naar zendantenne en
+dan naar ontvangstantenne. De leerstof is verdeeld over 3 paragrafen.
+De eerste paragraaf gaat over de vraag, hoe een signaal van de zendereindtrap in de
+zendantenne komt. Dat gaat via de volgende stappen:
+•
+•
+•
+•
+•
+
+Elektromagnetische (EM-) velden en golven, verband tussen frequentie,
+verplaatsingssnelheid en golflengte;
+Eén soort antenne en zijn vervangingsschema; andere soorten antennes komen in de
+laatste paragraaf;
+Een signaal gaat van zender naar antenne via een transmissielijn. We behandelen ze in
+drie soorten: symmetrisch (open), asymmetrisch (gesloten) en golfpijp;
+Enkele kunstjes met transmissielijn, zoals er een afgestemde kring van maken,
+overgang van symmetrische naar asymmetrische transmissielijn via een balun;
+Aanpassing van de zender aan de transmissielijn, staande-golf-verhouding (SWR),
+leidingverliezen en de ATU, de Antenna Tuning Unit of tuner.
+
+De tweede paragraaf gaat over de reis van zend- naar ontvangstantenne:
+•
+•
+•
+
+Polarisatierichting en verschil tussen directe golf, grondgolf en ruimtegolf;
+Propagatie van VHF- en UHF-golven, die vooral via het onderste deel van de
+atmosfeer loopt, maar ook via de maan of geïoniseerde sporen van meteoren;
+Propagatie via het buitenste deel van de atmosfeer, de ionosfeer.
+
+De derde paragraaf gaat vooral over soorten antennes. We beperken ons tot de soorten die
+op het examen kunnen worden gevraagd:
+•
+•
+•
+•
+•
+•
+
+Een theoretische antenne: de isotrope straler en verzwakking van EM-golven met
+toenemende afstand tot de zendantenne;
+Horizontale en verticale antennes;
+Antennes met parasitaire elementen. Die parasieten blijken nuttig te zijn;
+Antennes voor meer dan één frequentie;
+Apertuurantennes (schotels bijvoorbeeld);
+Stralingsdiagrammen en de effectief ontvangende oppervlakte van een antenne.
+
+14.2 Antennes en transmissielijnen
+Elektromagnetisch veld
+Rond een stroomvoerende geleider bevindt zich een elektromagnetisch veld. Dat bestaat
+uit een een magnetisch veld H en elektrisch veld E. H heeft veldlijnen in vlakken
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+loodrecht op de geleider; E heeft veldlijnen in vlakken ongeveer evenwijdig aan de
+geleider. Elektrisch en magnetisch veld staan loodrecht op elkaar (Figuur 14.2-1).
+
+E
+H
+
+Figuur 14.2-1. Magnetisch veld rond een stroomvoerende geleider (cursus 1999, iets gewijzigd).
+
+De afstand waarover iets zich in een bepaalde tijd verplaatst, volgt uit
+𝐴𝑓𝑠𝑡𝑎𝑛𝑑 = 𝑠𝑛𝑒𝑙ℎ𝑒𝑖𝑑 ∗ 𝑡𝑖𝑗𝑑
+De snelheid waarmee een elektromagnetisch veld (afgekort: EM-veld) zich uitbreidt, is in
+vacuüm (luchtledig) gelijk aan en in lucht vrijwel gelijk aan de lichtsnelheid c, afgerond
+300 000 km/s.
+Het “langskomen” van één EM-golf duurt even lang als de periodeduur T van de
+wisselstroom/spanning die hem veroorzaakt. De frequentie f is het aantal perioden in 1
+seconde. Dan is f ook het aantal golven dat achter elkaar gezet in 300 000 km past.
+Daaruit volgt de lengte van een enkele golf, de golflengte  volgens
+
+ = 𝑐. 𝑇
+
+( 14.2-1)
+
+Het verband tussen frequentie f en periodeduur T is
+1
+( 14.2-2)
+𝑓
+Vul dat in in ( 14.2-1) en we krijgen we het verband tussen golflengte en frequentie:
+𝑇=
+
+𝑐
+𝑐
+( 14.2-3)
+→ 𝑓=
+𝑓
+
+In woorden: golflengte is lichtsnelheid gedeeld door frequentie. Frequentie is
+lichtsnelheid gedeeld door golflengte. Je kunt er dezelfde driehoek voor gebruiken als bij
+de wet van Ohm (Figuur 14.2-2).
+
+=
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+c
+f
+
+. 
+
+Figuur 14.2-2. Vermenigvuldig- en deeldriehoek voor vergelijkingen ( 14.2-3).
+
+Figuur 14.2-1 liet zien dat het elektrische en het magnetische veld loodrecht op elkaar
+staan. Figuur 14.2-3 laat zien hoe je je dat kunt voorstellen.
+
+E
+Voortplantingsrichting
+H
+
+Figuur 14.2-3. Richting van het elektrische deel E en het magnetische deel H van een EM-veld.
+
+De halve golf-dipoolantenne
+De lengte van een antenne hangt samen met de golflengte waarvoor de antenne geschikt
+is. Stel je een oneindig lange rechte draad voor waar een wisselstroom doorheen loopt. De
+lengte van één periode is één golflengte (Figuur 14.2-4).
+1.0
+
+sinus I/A
+
+0.5
+0.0
+
+½
+
+-0.5
+-1.0
+0.0
+
+0.5
+
+1.0
+
+golflengte 
+
+Figuur 14.2-4. Een sinusperiode van één hele golflengte λ. Tussen de pijlpunten zit een halve golflengte.
+
+De golf verplaatst zich langs de draad met bijna de lichtsnelheid. De verhouding snelheid
+in de draad/lichtsnelheid is ongeveer 0,96. Dat heet de verkortingsfactor. De golflengte λ
+in zo’n draad is de verkortingsfactor maal de golflengte in de omringende lucht.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+De golf verplaatst zich met gelijkblijvende amplitude langs de draad. Zo’n golf heet een
+lopende golf. Klik op Figuur 14.2-5 voor een animatie.
+
+Figuur 14.2-5. Afbeelding van een lopende golf met golflengte . (Wikipedia)
+
+Bij staande golven varieert de amplitude. De nulpunten blijven op hun plaats.
+We beschouwen een stuk draad van een halve golflengte lang. Het staat aangegeven in
+Figuur 14.2-4: de gestippelde tweepuntige pijl met de aanduiding ½ . Stuur een
+wisselstroom met die golflengte dat stuk draad in (hoe, komt later).
+Bij stroom hoort een magnetisch veld. De stroom “botst” onvermijdelijk tegen de
+uiteinden van de draad. De energie van het magnetisch veld moet dan ergens heen. Die
+probeert de stroom op gang te houden. Stroom is transport van lading. De lading hoopt
+zich op aan de uiteinden van de draad. De ladingen die zich op de uiteinden ophopen, zijn
+tegengesteld. Er is dus spanning tussen de uiteinden van de draad en er is een bijbehorend
+elektrisch veld. Naarmate zich meer lading ophoopt, loopt de spanning tussen de
+draaduiteinden op. Het bijbehorend elektrische veld wordt sterker. Onder invloed
+daarvan zal uiteindelijk stroom de andere kant op gaan lopen De ladingen en het
+elektrische veld nemen af. Het magnetische veld bouwt zich in tegengestelde richting
+weer op, enz. Zo wisselen elektrisch en magnetisch veld voortdurend energie uit.
+Stroom- en spanningsgolf in het draadstuk blijven op hun plek. Het zijn staande golven.
+Ze zwakken geleidelijk af als er geen nieuwe energie wordt toegevoerd. Een klein deel is
+warmteverlies. Maar het EM-veld blijft zich uitbreiden. In elke periode gaat een deel van
+het vermogen ”de wijde wereld in”. Zo werkt een zendende antenne. Figuur 14.2-6 toont
+de verdeling van spanning en stroom over een halve golf-antenne.
+Stroom
+Spanning
+
+½
+
+Figuur 14.2-6. Verdeling van stroom en spanning over een halve golf-antenne. De spanningen op de
+uiteinden zijn in tegenfase.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+In het midden is de amplitude van de stroom het grootst en die van de spanning het
+kleinst. Op de uiteinden is het omgekeerd. Waar de draad eindigt, is de stroom 0 en de
+spanning hoog. Daaruit volgt dat de impedantie in het midden laag is en op de uiteinden
+heel hoog. Zo’n antenne heet een dipool.
+De theoretische impedantie in het midden bedraagt 73 ohm als de antenne hoog genoeg is
+opgehangen voor een verwaarloosbare invloed van het aardoppervlak. Een hoogte van een
+kwart golflengte komt redelijk in de buurt. Minder hoogte geeft een lagere impedantie.
+De zender vult de energie die de antenne uitzendt, aan via een transmissielijn
+(subparagraaf 14.2.4 en volgende). Die lijn is verbonden met de zenderuitgang. Het
+aansluitpunt is bijvoorbeeld het midden van de antenne, waar de laagste impedantie zit,
+zoals in Figuur 14.2-7.
+
+Voedingspunt
+¼
+
+¼
+
+Figuur 14.2-7. Dipoolantenne bestaande uit twee helften van ¼ golf lang. Het voedingspunt met lage
+impedantie zit in het midden.
+
+Vervangingsschema van een dipoolantenne
+Als de halve golf precies in de dipool past, heet het dat de antenne in resonantie is. Dat
+doet denken aan een LC-kring. En dat is precies het vervangingsschema (Figuur 14.2-8).
+
+L
+
+C
+
+R
+
+
+Figuur 14.2-8. Vervangingsschema van een middengevoede halve-golf dipool met wisselspanningsbron.
+
+Condensator en zelfinductie zijn in werkelijkheid verdeeld over de volle lengte van de
+antenne. Bij resonantie is hun gezamenlijke reactantie 0 en blijft weerstand R over. R is
+twee weerstanden in één:
+•
+•
+
+De verliesweerstand die een (klein) deel van het vermogen omzet in warmte.
+De stralingsweerstand die staat voor het in de ruimte verdwijnen van vermogen via
+elektromagnetische straling. Bij de antenne van Figuur 14.2-7 is dat 73 .
+
+Voor wat betreft de impedantie kunnen zich drie situaties voordoen.
+•
+
+De halve golflengte die bij de frequentie hoort, past precies in de antenne. Dan heffen
+de reactanties van condensator en spoel elkaar op en blijft een Ohmse weerstand over.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-7
+
+VRZA-cursus radiozendamateur
+
+•
+
+•
+
+Hoofdstuk 14 kort 20251009
+
+De halve golflengte is langer dan de antenne. Dan is de frequentie die bij de golflengte
+hoort, lager dan de resonantiefrequentie. De reactantie van C is dan groter dan die van
+L en de antenne gedraagt zich als een capaciteit in serie met R.
+De halve golflengte is korter dan de antenne. Dan is de frequentie die bij de golflengte
+hoort, hoger dan de resonantiefrequentie. De reactantie van L is daardoor groter dan
+die van C en de antenne gedraagt zich als een zelfinductie in serie met R.
+
+Transmissielijnen
+Een goede transmissielijn heeft twee eigenschappen.
+•
+•
+
+De lijn verliest onderweg zo min mogelijk energie
+De lijn geeft een maximale overdracht van vermogen van zender naar antenne of
+van antenne naar ontvanger.
+
+Er zijn drie hoofdsoorten transmissielijn:
+•
+•
+•
+
+Symmetrische of open leidingen
+Asymmetrische of gesloten leidingen
+Golfgeleiders (“golfpijp”).
+
+Figuur 14.2-9 laat drie uitvoeringen van open leidingen zien. De stroomvoerende delen
+zijn bij voorkeur van het goed geleidende koper. Vandaar hun kleur.
+
+Spreiders
+
+1
+
+2
+
+Geleiders
+
+3
+
+Figuur 14.2-9. Drie soorten symmetrische of open leidingen. 1. Twee draden met isolerende spreiders die de
+onderlinge afstand gelijk houden. Onder radioamateurs: “Kippenladder”. 2. Platte leiding met kunststofisolatie die ook de afstand tussen beide draden gelijk houdt. 3. Variant op (2) die door de openingen lichter
+is en veel lucht in de isolatie heeft. De geleiders zijn zo goed mogelijk koperkleurig gemaakt.
+
+De asymmetrische of gesloten leiding is een coaxiale kabel of kortweg coaxkabel. Ook die
+heeft twee geleiders, de binnengeleider en de mantel. De binnengeleider is omsloten door
+de mantel (Figuur 14.2-10).
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Binnengeleider (koper)
+Binnenisolatie
+Koperen mantel
+Buitenisolatie
+Figuur 14.2-10. Coaxkabel in dwars- en langsdoorsnede. De geleiders zijn ook hier zo goed mogelijk
+koperkleurig gemaakt.
+
+Figuur 14.2-11 toont het vervangingsschema van een ideale symmetrische transmissielijn.
+
+Figuur 14.2-11. Vervangingsschema van een ideale symmetrische transmissielijn.
+
+Een niet-ideale lijn heeft weerstand. In een lijn van goede kwaliteit is die weerstand klein.
+Capaciteiten en zelfinducties zijn net als bij een antenne niet gescheiden. Ze kunnen dan
+ook in willekeurig aantal worden voorgesteld. Hoe meer, hoe realistischer.
+Spanning en stroom in de ene geleider zijn in tegenfase met die in de andere. De
+bijbehorende elektromagnetische velden zijn even groot en tegengesteld. De straling van
+de één wordt opgeheven door die van de ander. Doordat de geleiders niet exact kunnen
+samenvallen, is dat net niet helemaal zo, maar praktisch gezien straalt de lijn vrijwel niet.
+Een oneindig lange lijn gedraagt zich op het aansluitpunt als weerstand. Toch hebben we
+het over impedantie, omdat de leiding nu eenmaal zelfinductie en capaciteit bevat. De
+impedantie hangt af van de opbouw van de lijn. De impedantie van een oneindig lange lijn
+heet karakteristieke impedantie. Voor open leidingen is die meestal tussen 100 en 600 .,
+Meten van de karakteristieke impedantie met een ohmmeter is zinloos. Die werkt met
+gelijkstroom. Daarbij geldt de Ohmse weerstand.
+Als we een eindig stuk transmissielijn afsluiten met een weerstand die even groot is als de
+karakteristieke impedantie, lijkt de lijn vanaf het aansluitpunt nog steeds oneindig lang.
+Symmetrische en asymmetrische transmissielijnen
+Open lijn is symmetrisch. De ene lijn is identiek aan de andere. Stroom en spanning in de
+ene lijn hebben hun spiegelbeeld in de andere (Figuur 14.2-12).
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
++
+
++
+
++
+-
+
+
+
+Stroom
+Spanning
+
++
+-
+
+-
+
+-
+
+Figuur 14.2-12. Momentopname van stroom en spanning in een open transmissielijn met lopende golven.
+Lijnen koperkleurig getekend. (figuur volgens cursus 1999).
+
+Coax is asymmetrisch. De mantel omsluit de binnengeleider. Door het verschil in
+constructie verschilt de aansturing tussen open lijn en coax (Figuur 14.2-13).
+
+
+
+
+
+Symmetrische leiding
+
+Asymmetrische leiding
+
+Figuur 14.2-13. Aansluiting symmetrische leiding (boven) en asymmetrische leiding (onder). Figuur volgens
+cursus 1999.
+
+Een symmetrische leiding heeft geen aard- of massa-aansluiting. In beide helften gebeurt
+hetzelfde, maar in spiegelbeeld. De leidinghelften “zweven” ten opzichte van aarde.
+In een asymmetrische leiding doet de binnengeleider hetzelfde als één helft van een
+symmetrische leiding. De mantel is behalve de tweede leiding ook massa/aarde. Daarom is
+voor een coaxiale leiding Figuur 14.2-14 een betere benadering dan Figuur 14.2-11.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Figuur 14.2-14 Vervangingsschema asymmetrische transmissielijn.
+
+De karakteristieke impedantie van coaxiale kabel ligt meestal tussen 50 en 100 . De
+verkortingsfactor is kleiner dan bij losse draad of symmetrische leidingen. Dat komt
+vooral door het grotere contactoppervlak met het isolerende materiaal. Bij gangbare coax
+ligt de verkortingsfactor rond 0,65; bij symmetrische leidingen rond 0,95. Bij verliesarme
+coax, waarin de isolatie in de kabel veel lucht bevat, ligt de waarde vaak rond 0,7 – 0,75.
+Bij isolatie met sommige soorten kunststof zoals teflon kan deze boven 0,8 liggen.
+Koppeling van een symmetrische transmissielijn aan de antenne
+Figuur 14.2-8 liet zien dat we ons de dipool kunnen voorstellen als een seriekring van
+zelfinductie, capaciteit en weerstand. Als de antenne in resonantie is, is er elektrisch
+gezien alleen een weerstand. Als die weerstand even groot is als de karakteristieke
+impedantie van de transmissielijn, is het een kwestie van aansluiten. Anders zijn
+maatregelen nodig. Die komen verderop in dit hoofdstuk aan de orde.
+De antenne is te beschouwen als een LC-kring in resonantie. De transmissielijn die ook
+wel voedingsleiding heet, levert een vermogensstroom aan de antenne. In de antenne is
+evenwicht als de voedingsleiding evenveel vermogen naar de antenne brengt als de
+antenne uitstraalt en dissipeert. De waarde van Q van de antenne bepaalt bij welke
+amplitude van de staande golf in de antenne dat het geval is.
+Een dipoolantenne die wordt gevoed via een symmetrische (open) transmissielijn is ook
+op te vatten als een transmissielijn met naar buiten gebogen uiteinden.
+De transmissielijn als afgestemde kring en impedantietransformator
+We zagen eerder hoe een stuk draad een antenne kan zijn voor een frequentie waarvan de
+halve golflengte gelijk is aan de antennelengte. Met transmissielijn zijn soortgelijke dingen
+mogelijk. We beginnen met een stuk symmetrische transmissielijn ter lengte van ¼ .
+De halve-golf-dipool die we in subparagraaf 14.2.2 bespraken, bestaat uit twee
+kwartgolfstukken. Elk stuk heeft een uiteinde met lage en met hoge impedantie. Een
+kwartgolfstuk transmissielijn doet net zoiets (Figuur 14.2-15).
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Open uiteinde
+
+Kortgesloten uiteinde
+
+Stroom
+Spanning
+Geleider
+
+1
+
+2
+
+¼
+
+¼
+Vervangingsschema
+
+Vervangingsschema
+
+Figuur 14.2-15. Symmetrische kwartgolf transmissielijn. 1) Open eind. 2) Kortgesloten eind.
+
+Lijn 1 (links) heeft een open uiteinde; de twee geleiders zijn niet verbonden. De
+spanningen over het uiteinde zijn daardoor hoog: een hoge impedantie. Op het
+aansluitpunt links is de spanning laag en de stroom hoog: een lage impedantie. De
+schakeling gedraagt zich als een serie-LC-kring die op de resonantiefrequentie (vrijwel)
+een kortsluiting geeft. Een zuigkring heet dat ook wel.
+Lijn 2 heeft een kortgesloten eind. Het impedantiebeeld is omgekeerd aan dat van lijn 1.
+De lage impedantie zit op de kortsluiting, de hoge bij de aansluiting. De schakeling
+gedraagt zich als parallelkring: bij resonantie een hoge impedantie op de ingang.
+Een kwartgolflijn kan ook een impedantietransformator zijn als we er een eindige
+impedantie op aansluiten. Het verband tussen de aangesloten impedantie Zin, de
+karakteristieke impedantie ZG van het stuk lijn en de impedantie Zuit aan de uitgang is:
+𝑍𝐺2 = 𝑍𝑖𝑛 . 𝑍𝑢𝑖𝑡
+
+( 14.2-4)
+
+𝑍𝐺 = √𝑍𝑖𝑛 . 𝑍𝑢𝑖𝑡
+
+( 14.2-5)
+
+of
+
+Zie Figuur 14.2-16 hieronder.
+
+¼
+Zin
+
+ZG= Zin.Zuit
+
+Figuur 14.2-16. Kwartgolf transmissielijntransformator
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-12
+
+Zuit
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Wat we hier over symmetrische (open) lijn hebben besproken, is ook van toepassing op
+coaxiale transmissielijn. De enige extra voorwaarde is dat bij gebruik van coax
+binnengeleider aan binnengeleider en mantel aan mantel komt.
+De halve-golf transmissielijn.
+Figuur 14.2-17 toont afbeeldingen met spanning- en stroomverdeling van een halvegolftransmissielijn, één met open en één met kortgesloten uiteinde.
+
+½
+
+
+
+1
+
+½
+
+Stroom
+Spanning
+Leiding
+
+
+
+2
+
+Figuur 14.2-17. Verdeling van spanning en stroom in een halvegolf-transmissielijn. Links (1) met open
+uiteinde. Rechts (2) met kortgesloten uiteinde.
+
+De cirkel met wisselstroomsymbool links in beide schakelingen stelt een generator voor
+die de wisselstroom en -spanning produceert. Let vooral op de verwisseling van de curven
+die het verloop van stroom, respectievelijk spanning aangeven.
+Nu de vraag, wat in een halvegolf-transmissielijn gebeurt als hij tussen twee andere
+transmissielijnen wordt geschakeld. Een transmissielijn van een halve golflengte lang is
+twee kwartgolf stukken in serie. Dat betekent twee keer achtereen de
+impedantietransformatie van een kwartgolf-transmissielijn. Als de aangesloten
+transmissielijn aan beide kanten dezelfde karakteristieke impedantie heeft, ontstaan twee
+exact tegengestelde transformaties. Resultaat: aan in- en uitgang dezelfde impedantie. Is
+dat alles? Nee. Kijk goed naar Figuur 14.2-17. Begin en eind zijn in tegenfase!
+Conclusie: Een transmissielijn van een halve golf lang laat de impedantie ongemoeid als
+op de uiteinden dezelfde impedantie wordt aangesloten en keert de fase om. Het
+halvegolf-stuk zelf mag elke impedantie hebben.
+Coaxiale kabel als transmissielijn; de balun
+Een dipoolantenne is symmetrisch. Antenne-aansluitingen op amateurzenders en ontvangers zijn bijna altijd coaxiaal met een impedantie van 50 .
+Kun je een coaxiale en dus asymmetrische transmissielijn ongestraft op een symmetrische
+antenne aansluiten? Een coaxiale lijn straalt normaal gesproken niet. Dat komt doordat
+EM-stralingen van de binnengeleider en de mantel even groot en tegengesteld zijn en
+elkaar naar buiten toe teniet doen. Daaruit valt af te leiden dat de stroom in de mantel aan
+de binnenkant moet lopen: het huideffect (Hoofdstuk 6).
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+De binnengeleider van de coaxkabel kan zonder bezwaar aan één helft van de dipool
+worden verbonden. Wordt de mantel rechtstreeks verbonden met de andere dipoolhelft,
+dan zou er in de mantel stroom aan de buitenkant lopen. Dan gaat de kabel EM-straling
+uitzenden. Vermogen dat door de kabel wordt uitgezonden, wordt niet uitgezonden door
+de antennehelft die met de mantel is verbonden. De antenne straalt daardoor
+asymmetrisch. In gebruikelijk Nederlands: ¨de antenne straalt scheef”.
+Dan is er een risico dat die EM-straling van de kabel terechtkomt waar hij storing kan
+veroorzaken of wordt gedissipeerd in (bijvoorbeeld) een boomkruin.
+Een balun corrigeert dit. Balun is een afkorting van “Balanced to unbalanced” of anders
+gezegd: van symmetrisch naar asymmetrisch. Vanuit de antenne gezien klopt dat: de
+antenne “ziet” een symmetrische aansluiting en de kabel een asymmetrische. Men spreekt
+ook wel van balun transformers.
+Om een symmetrische antenne met een impedantie van 200  aan te sluiten op een
+coaxiale kabel met een karakteristieke impedantie van 50 , kan een halvegolf stuk
+transmissielijn worden toegepast. Zoiets heet ook wel een halvegolf-stub (Figuur 14.2-18).
+
+¼
+
+¼
+
+200 
+
+Voedingsleiding 50 
+
+½ golf omloopstuk
+Figuur 14.2-18. Dipool 200  met balun 1:4 voor aanpassing aan 50  coax.
+
+In de tekening zien we een coax-voedingsleiding van 50  en een ½  stuk coax dat is
+aangegeven met “½ golf omloopstuk”. De mantel op de uiteinden van het ½ golf stuk is
+doorverbonden met de mantel van de voedingslijn. De linkerhelft van de dipool is via de
+binnenader van het omloopstuk verbonden met de binnenader van de voedingskabel.
+Omloopstuk en voedingslijn vormen samen eigenlijk één voedingslijn waarin op ½
+golflengte vóór het eind een aftakking op de binnengeleider is gemaakt (Figuur 14.2-19).
+
+Aansluiting links Z=2ZG
+
+Aansluiting rechts Z=2ZG
+Coaxkabel Z=ZG
+
+½
+Figuur 14.2-19. De balun van Figuur 14.2-18 meer schematisch getekend.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Tussen de twee dipoolaansluitingen zit een coaxstub van ½ . De aansluitpunten zitten
+vlakbij elkaar door de kleine afstand tussen de antenne-aansluitingen. Vandaar de bocht
+in Figuur 14.2-18. In het schematische plaatje van Figuur 14.2-19 staat die niet. Een
+halvegolfstuk veroorzaakt alleen een fase-omkering. Dat is nodig, want dipoolhelften
+moeten in tegenfase worden gevoed. Op de rechter aansluiting wordt aan de kabel de helft
+van de stroom onttrokken, want een halve golflengte verderop, waar de andere helft
+wordt onttrokken, is de impedantie dezelfde. De halve stroom betekent dubbele
+impedantie op het aftakpunt, want aan de fase en de grootte van de spanning verandert
+niets. Dus daar is 𝑍 = 2𝑍𝐺 . Op de eindaansluiting zit de linkerhelft van de dipool
+aangesloten. De karakteristieke impedantie is dezelfde als het eerdere aftakpunt, want de
+stub is ½ λ lang. Ook hier loopt de halve stroom, dus opnieuw 𝑍 = 2𝑍𝐺 . De 2 stuks
+impedantie van 2𝑍𝐺 staan, van het ene aansluitpunt naar het andere gezien, in serie.
+Daarmee wordt de totale impedantie op de aansluiting 4𝑍𝐺 .
+Samengevat: de twee voedingsstromen zijn even groot en in tegenfase. De karakteristieke
+impedantie van de kabel is met 4 vermenigvuldigd. De uitkomst is gelijk aan de
+karakteristieke impedantie van de antenne.
+Slotopmerking: Bij het berekenen van de lengte van coaxiale stubs moet worden uitgegaan
+van de verkortingsfactor. Bij veel coax ligt die rond de 0,66, maar niet bij alle typen. Vind
+in een voorkomend geval op de kabel het type en zoek de factor op via Internet.
+Gewikkelde baluns
+Baluns kunnen ook op een ringkern gewikkeld zijn. Dan zijn ze prettig compact zonder
+lange einden coax. Ringkernen (Foto 14.2-1) kunnen van verschillend magnetisch
+permeabel materiaal zijn gemaakt, zoals ferrieten, ijzercarbonyl of ijzerpoederkernen, een
+isolerend keramisch materiaal met fijne ijzerdeeltjes er in.
+
+Foto 14.2-1. Voorbeelden van ringkernen. De kleur geeft het meest passende frequentiegebied aan. De
+grootte heeft te maken met het maximale vermogen dat de kern aan kan. Links een bewikkelde kern.
+
+Een ringkern is zelfafschermend. Het magnetisch veld blijft vrijwel helemaal opgesloten
+in de ring door de relatief hoge permeabiliteit ervan en doordat de ring rond is, waardoor
+het magnetisch veld ononderbroken binnen het materiaal doorloopt. Figuur 14.2-20 toont
+een ringkernuitvoering van de balun in Figuur 14.2-18 en Figuur 14.2-19.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Balun 1:4
+Schema
+
+Coax
+
+Uitvoering
+
+Coax
+Symmetrisch
+Symmetrisch
+
+Figuur 14.2-20. Balun 1:4; de ringkernuitvoering van de balun in Figuur 14.2-18 en Figuur 14.2-19. Links
+het schema, rechts de prtaktische uitvoering.
+
+De manier van wikkelen in Figuur 14.2-20 is twee draden naast elkaar. Deze manier van
+wikkelen heet bifilair. Een 1:1 balun is meestal trifilair gewikkeld. Dat is met drie draden.
+Er zijn baluns voor allerlei impedantieverhoudingen.
+De eindgevoede dipoolantenne (“Zeppelin antenne” of “Zepp”)
+We hebben de dipoolantenne behandeld als in het midden gevoede antenne. Maar het
+aansluitpunt kan ook op het hoogohmige einde. De stroom is dan vrijwel 0 en praktisch
+alle vermogen zit in elektrische lading. Dan zijn daar de spanningen en dus ook de
+impedantie hoog. Figuur 14.2-21 geeft een schematische tekening van een eindgevoede
+antenne.
+
+Open eind
+
+Antenne
+
+Spanning
+Open voedingslijn
+
+Stroom
+Leiding
+
+Figuur 14.2-21. Eindgevoede dipoolantenne (“Zeppelin” of “Zepp”).
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Er zijn allerlei varianten van deze Zeppelin antenne, zoals een klein stukje dipool aan het
+linkereind van de voedingslijn dat in Figuur 14.2-21 doodloopt. Praktisch al die varianten
+zijn bedoeld om extreem hoge spanningen op het voedingspunt te vermijden.
+Staande-golf-verhouding (“Standing Wave Ratio”, SWR)
+Tot nu toe zijn we uitgegaan van een perfecte aanpassing van transmissielijn aan antenne.
+Figuur 14.2-22 geeft een plaatje. De golf in de voedingslijn is een lopende golf zoals in
+Figuur 14.2-5. Bronweerstand R1 en belastingsweerstand R2 zijn -gezien vanuit de
+transmissielijn- gelijk.
+
+R1=R2=ZG Perfecte aanpassing - lopende golf
+ZG
+R1
+
+R2
+Stroom
+Spanning
+
+Bron
+
+Figuur 14.2-22. Bron (links), met inwendige weerstand R1, transmissielijn en belasting R2. Alle
+weerstanden/impedanties zijn gelijk.
+
+Stroom en spanning zijn in fase. In de figuur zijn ze niet even groot getekend. Reden: het
+zijn verschillende grootheden en twee lijnen op elkaar zie je niet afzonderlijk.
+Bij het koppelen van lijnen en antennes zijn karakteristieke impedanties in de praktijk
+zelden exact gelijk. We beginnen met twee extremen. Praktische situaties zitten altijd
+ergens tussen ideaal en extreem of tussen twee extremen. De extremen zijn de open en de
+kortgesloten transmissielijn. De eerste heeft aan het eind een oneindige impedantie; de
+tweede 0 ohm.
+De open en de kortgesloten transmissielijn
+De open lijn houdt abrupt op. De weerstand tussen beide geleiders is op het eindpunt
+theoretisch oneindig. De kortgesloten lijn eindigt even abrupt, maar op het eindpunt is de
+weerstand tussen beide geleiders 0 (Figuur 14.2-23).
+Open transmissielijn
+
+Kortgesloten transmissielijn
+
+Figuur 14.2-23. Open en kortgesloten transmissielijn. Boven: symmetrisch. Onder: asymmetrisch.
+
+Een golf die de transmissielijn ingaat, komt in beide gevallen terug, doordat het vermogen
+in de golf aan het eind van de lijn nergens heen kan. In een antenne zou het vermogen
+deels worden uitgestraald, maar een goede transmissielijn straalt niet of nauwelijks..
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+In de lijn met open einde hoopt zich op de uiteinden van beide geleiders tegengestelde
+lading op. De tegengestelde ladingen zetten zich na het maximum of minimum
+halverwege een halve periode om in tegengestelde stromen.
+In de kortgesloten transmissielijn is het andersom. Daar is op de uiteinden de amplitude
+van de stroom maximaal en die van de spanning 0. Op de uiteinden blijft de amplitude van
+de stroom de grootste en die van de spanning de kleinste. Dat betekent dat we te maken
+hebben met staande golven. De golf wordt op de uiteinden weerkaatst.
+De weerkaatste spanning is vergelijkbaar met een echo, zoals geluid tegen een muur
+weerkaatst. De stroomgolf gaat op het kortgesloten eind “de bocht om” en loopt via de
+tegenoverliggende leiding weer terug. Stroom èn spanning leveren heen en terug even
+grote golven. Dat geeft een staande golf. Figuur 14.2-24 toont daar een voorbeeld van.
+Klik erop en je ziet de animatie.
+
+Figuur 14.2-24. Staande golf met vaag op de achtergrond de twee samenstellende lopende golven die tegen
+elkaar in lopen (Staande golf - Wikipedia).
+
+R1=ZG R2=
+
+Open eind - staande golf
+
+Stroom
+Spanning
+ZG
+
+R2=
+
+R1
+Bron
+
+Figuur 14.2-25. Staande golven in een transmissielijn met open uiteinde. Op het uiteinde is de stroomgolf 0
+en de spanningsgolf maximaal.
+
+De maximale amplitude van de staande golf is de som van die van de lopende golven. De
+staande golven die ontstaan op het open uiteinde van de open lijn zijn stilstaand afgebeeld
+in Figuur 14.2-25. De arceringen zijn bedoeld om aan te geven dat de staande golf bij zijn
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+op en neer bewegen de hele ruimte binnen de sinusvormige krommen gebruikt. Kijk
+eventueel nog eens naar Figuur 14.2-24.
+Het plaatje voor de kortgesloten transmissielijn (Figuur 14.2-26) lijkt op dat van Figuur
+14.2-25, maar de spanning op het rechter uiteinde is 0. Daar is de stroom is maximaal.
+
+R1=ZG R2=0
+
+Kortgesloten eind - staande golf
+
+Stroom
+Spanning
+
+ZG
+
+R2=
+
+R1
+Bron
+
+Figuur 14.2-26. Staande golven in een transmissielijn met kortgesloten uiteinde. Op het uiteinde is de
+spanningsgolf 0 en de stroomgolf maximaal.
+
+Figuur 14.2-24 t/m Figuur 14.2-26 laten samengevat het volgende zien:
+•
+•
+
+•
+•
+
+De maximale amplitudes zijn het dubbele van de amplitudes van de lopende golven
+in Figuur 14.2-22.
+De tekeningen lijken een frequentieverdubbeling te zijn ten opzichte van Figuur
+14.2-22. Dat is schijn. Twee opeenvolgende “bobbels” in de grafiek zijn rwee
+helften van één sinusgolf. Als een sinushelft in de één positief is, die in de volgende
+(en vorige) negatief. Dat is te zien in de animatie van Figuur 14.2-24.
+Bij de open transmissielijn (Figuur 14.2-25) is de spanningssinus op het open eind
+(rechts) maximaal.
+Bij de kortgesloten transmissielijn (Figuur 14.2-26) is de stroomsinus op het
+kortgesloten eind (rechts) maximaal.
+
+De praktijk
+Praktische situaties liggen ergens tussen Figuur 14.2-22 (ideale aanpassing) en Figuur
+14.2-25 of Figuur 14.2-26 (open of gesloten transmissielijn) in. Dan is er tussen
+aansluitpunt en antenne gelijktijdig een lopende en een staande golf.
+Het gereflecteerde deel vermindert naarmate de impedanties van de aansluitende delen
+(zender, transmissielijn, antenne) onderling minder verschillen en verdwijnt als ze gelijk
+zijn. De staande-golf-verhouding s (ook wel SGV of SWR van Standing Wave Ratio in het
+Engels) geeft de verhouding van som en verschil van voorwaartse en gereflecteerde
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+spanning of stroom. De uitkomst is voor stroom en spanning dezelfde. Als we spanning
+gebruiken is de voorwaartse spanning 𝑢𝐹 (met de F van Forward) en de gereflecteerde
+spanning 𝑢𝑅 (met de R van Reflected). De SWR-waarde s is gedefinieerd als
+𝑢𝐹 + 𝑢𝑅
+( 14.2-6)
+𝑢𝐹 − 𝑢𝑅
+Voor zowel Figuur 14.2-25 als Figuur 14.2-26 geldt 𝑠 = ∞ (oneindig), want 𝑢𝐹 = 𝑢𝑅 .
+𝑠=
+
+Ook de verhouding 1:s, (“1 op s”) wordt wel SWR genoemd. De waarde van s is ook gelijk
+aan de verhouding van de twee verschillende op elkaar aangesloten impedanties:
+𝑠=
+
+ℎ𝑜𝑜𝑔𝑠𝑡𝑒 𝑖𝑚𝑝𝑒𝑑𝑎𝑛𝑡𝑖𝑒 𝑍𝑚𝑎𝑥
+=
+𝑙𝑎𝑎𝑔𝑠𝑡𝑒 𝑖𝑚𝑝𝑒𝑑𝑎𝑛𝑡𝑖𝑒
+𝑍𝑚𝑖𝑛
+
+( 14.2-7)
+
+Een voorbeeld met getallen:
+Een antenne met een impedantie van 100 ohm op het aansluitpunt wordt aangestuurd via
+een transmissielijn van 70 ohm. Dan is
+𝑠=
+
+100 
+≈ 1,4
+70 
+
+De omgekeerde verhouding van de impedanties, antenne 70 ohm en transmissielijn 100
+ohm, geeft dezelfde uitkomst. De combinatie van zender, transmissielijn en antenne blijft
+het redelijk doen, zolang s kleiner is dan ongeveer 2.
+Aanpassing van de zender aan transmissielijn en antenne
+De impedantie van een zendereindtrap wordt aangepast aan die van de transmissielijn met
+een impedantietransformator. Aansluitingen van zenders zijn vrijwel altijd gebaseerd op
+coax met een karakteristieke impedantie van 50 ohm. We behandelen twee klassieke
+schakelingen: het pi-filter en het T-filter.
+Het pi-filter
+Figuur 14.2-27 geeft het schema van een pi-filter. De vorm is die van het afvlakfilter in
+wisselspanningsvoedingen en lijkt een beetje op de Griekse letter π (pi).
+
+L
+Zin
+
+C1
+
+C2 Zuit
+
+Figuur 14.2-27. Een pi-filter.
+
+Het pi-filter is een laagdoorlaatfilter en onderdrukt ongewenste hogere frequenties, maar
+is vóór alles bedoeld als impedantietransformator. De impedantieverhouding tussen in- en
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+uitgang hangt vooral af van de verhouding C1/C2. De laagste impedantie zit in het
+algemeen aan de kant van de hoogste capaciteit.
+De uitgangsimpedantie zal meestal maar 50 ohm zijn. Daardoor zal de kwaliteitsfactor Q
+niet heel hoog zijn en de bandbreedte omvat gemakkelijk een volledige amateurband.
+Verstemmen is dan niet aan de orde. Is de gewenste transformatie met één pi-filter slecht
+te realiseren, dan kunnen er ook meerdere achter elkaar worden gezet (Figuur 14.2-28).
+L1
+Zin
+
+L2
+
+C1
+
+C2
+
+C3
+
+Zuit
+
+Figuur 14.2-28. Dubbel pi-filter. De middelste condensator C2 is de som van de vereiste uitgangscapaciteit
+van het linker filter en de vereiste ingangscapaciteit van het rechter.
+
+De spoelen kunnen verliesarm worden gehouden door ze op een ringkern te wikkelen. De
+condensatoren kunnen instelbare types zijn voor een eenmalige nauwkeurige afstemming.
+Het T-filter
+Figuur 14.2-29 geeft het schema van een T-filter met twee spoelen en één condensator.
+L1
+Zin
+
+L2
+C
+
+Zuit
+
+Figuur 14.2-29. T-filter met twee spoelen en een condensator.
+
+Ook dit is een laagdoorlaatfilter. De impedantieverhouding van in- en uitgang wordt
+vooral bepaald door de spoelen. De hoogste impedantie zit aan de kant van de hoogste L.
+Spoelen en condensatoren kunnen worden verwisseld (Figuur 14.2-30). Dan ontstaat een
+hoogdoorlaatfilter dat wel impedanties transformeert, maar geen harmonischen
+onderdrukt.
+
+Zin
+
+C1
+
+C2
+L
+
+Figuur 14.2-30. T-filter met twee condensatoren en één spoel.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-21
+
+Zuit
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+De antennetuner of Antenna Tuning Unit (ATU)
+Een antennetuner dient voor een zo goed mogelijke aanpassing tussen zender en
+transmissielijn. Is die aanpassing vanzelf al goed genoeg, dan is een ATU (“tuner” in
+dagelijkse taal) niet nodig.
+Een goede tuner moet op alle kortegolf-amateurbanden kunnen werken met zowel coax
+als symmetrische transmissielijn. Condensator(en) en spoel(en) zijn variabel. Variabele
+spoelen zijn schakelbaar of het zijn rolspoelen. Een rolspoel heeft een geleidend wieltje op
+de niet-geïsoleerde spoeldraad. Het wieltje zit aan een schuifcontact op een metalen as.
+Een bekende vorm is het T-filter van Figuur 14.2-30. Foto 14.2-2 toont het binnenste van
+een zelfbouwtuner met schakelbare spoelaftakkingen (de rode draden).
+
+Foto 14.2-2. Het binnenste van een antennetuner met geschakelde spoel. Rechts twee variabele
+condensatoren. Achter links: printje voor SWR-meter, midden achter: bifilair op ferriet ringkern
+gewikkelde balun voor aanpassing naar symmetrische lijn. Bouwer: wijlen Henny Schoeman, PA3AKQ.
+
+Foto 14.2-3 toont het binnenste van een fabriekstuner met rolspoel (MFJ-962D).
+
+Foto 14.2-3. Het binnenste van een fabriekstuner met rolspoel (rechts). Het wieltje zit niet buitenop maar
+binnen de spoel en is daardoor niet te zien De twee variabele condensatoren zitten links naast elkaar; het
+printje voor de SWR-meting linksachter en de aansturing van de (analoge) SWR- en vermogensmeters
+onder, rechts van het midden. De ronde balun voor aanpassing aan een symmetrische lijn zit middenachter.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Omdat het contactwieltje binnenin de rolspoel zit, is het op de foto niet zichtbaar. Het
+SWR-printje zit linksboven, de meters voor SWR en vermogen onder tegen de voorkant.
+Het eigenlijke tunerdeel in schemavorm zien we in Figuur 14.2-31. Het is een kopie van
+Figuur 14.2-30, maar nu met variabele L en C.
+
+Zin
+
+C1
+
+C2
+L
+
+Zuit
+
+Figuur 14.2-31. Antennetuner op basis van een T-filter met 2 condensatoren en 1 variabele spoel.
+
+Een tuner kan ook worden gemaakt op basis van een pi-filter of een T-filter met twee
+spoelen en één condensator op basis van Figuur 14.2-29. Die constructie onderdrukt wèl
+ongewenste harmonischen, maar de zelfinductie van de spoelen moet 2x zo groot zijn als
+die in Figuur 14.2-31. Er zijn nog heel veel meer mogelijkheden.
+Leidingverliezen
+Elke transmissielijn heeft verliezen. Ze dempen het signaal dat door die lijn gaat. Demping
+is frequentie-afhankelijk. Ze wordt per frequentie opgegeven, meestal in dB per 100 m. Is
+het verlies 10 dB/100 m, dan geeft 60 m van de lijn 6 dB verlies. Dan is het vermogen dat
+de zender erin stopt geslonken tot ¼ van de oorspronkelijke waarde. Uitzonderlijk is dat
+niet. Figuur 14.2-32 toont drie voorbeelden van onder amateurs gebruikelijke coaxkabel.
+
+Verliezen (dB/100 m)
+
+25.0
+RG 213 U (10,3 mm)
+Ecoflex 10 (10,2 mm)
+Ecoflex 15 (15 mm)
+
+20.0
+15.0
+10.0
+5.0
+0.0
+10
+
+100
+
+1 000
+
+Frequentie (MHz)
+
+Figuur 14.2-32. Verliezen van drie soorten coaxkabel: de klassieke RG213/U met massieve kunststofisolatie
+(diëlektricum) en twee diameters Ecoflex, dat is een kunststof met fijne luchtblaasjes, een soort gestold
+schuim dus.
+
+Uit de grafiek zijn enkele conclusies te trekken:
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-23
+
+VRZA-cursus radiozendamateur
+
+•
+•
+•
+•
+
+Hoofdstuk 14 kort 20251009
+
+Een massief diëlektricum (RG213) leidt tot grotere verliezen dan een diëlektricum
+met een relatief hoog gehalte aan lucht (Ecoflex)
+Hoe groter de diameter, des te kleiner de verliezen
+Hoe hoger de frequentie, des te groter de verliezen
+Bij frequenties boven ongeveer 1000 MHz (1 GHz) lopen de verliezen sterk op.
+
+Door de oplopende verliezen in het GHz-gebied is een ander soort transmissielijn nodig
+dan coax of symmetrische lijn. Dat is de golfgeleider of golfpijp.
+De golfgeleider
+De golfgeleider of golfpijp wordt toegepast op frequenties van circa 3-30 GHz. Het is
+metalen buis, rond of rechthoekig, van binnen bekleed met koper, zilver of goud. We
+gaan uit van rechthoekige buis (Figuur 14.2-33), maar ronde golfpijp bestaat ook.
+
+¼
+
+¼
+
+Figuur 14.2-33. Rechthoekige golfpijp, ½ golflengte breed.
+
+Het doorzichtige rood gearceerde vlak in het midden is op te vatten als een symmetrische
+transmissielijn. Op afstanden van ¼  lopen de verticale zijkanten van de buis.
+Een aan één kant kortgesloten ¼ λ open-lijn-stub heeft aan het open einde een zeer hoge
+impedantie. De linker- en rechterbuishelften zijn op te vatten als een parallelschakeling
+van een oneindig aantal van die stubs. De “transmissielijn” is zo aan alle kanten
+afgeschermd.
+Dit type golfpijp is ook geschikt voor golflengten kleiner dan twee pijpbreedtes, niet voor
+grotere. Dat geldt ook voor ronde pijp met een diameter gelijk aan de breedte van de
+rechthoekige buis. Golfpijp is daarom ook een hoogdoorlaatfilter.
+Een zendersignaal kun je in een golfpijp krijgen met bijvoorbeeld een coaxkabel waarvan
+de mantel aan de pijp is gesoldeerd en waarvan de binnenader met ¼ golflengte doorloopt
+in de golfpijp, maar er geen contact mee maakt.
+Een bekend type antenne in combinatie met golfpijp is de hoornantenne (Figuur 14.2-34).
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Golfpijp
+
+Hoorn
+Figuur 14.2-34 Hoornantenne aan golfpijp (Cursus 1999, aangepast).
+
+In een golfpijp plant zich een elektromagnetisch veld voort. De hoorn fungeert door zijn
+vorm als impedantieovergang van golfpijp naar vrije ruimte. Hoe groter de hoorn, des te
+sterker is de bundeling van de uitgestraalde energie. Het EM-veld is vóór de hoorn veel
+sterker dan erachter. Dat heet versterking, maar eigenlijk is het bundeling.
+De verliezen zijn bij golfpijp klein. Golfpijp met sleuven of spleten kan fungeren als
+antenne (Figuur 14.2-35).
+
+Figuur 14.2-35. Sleufantennes (Cursus 1999).
+
+14.3 Propagatie van elektromagnetische golven
+Polarisatierichting van EM-golven
+De polarisatierichting van een EM-golf is de richting van het elektrische deel. Bij een
+dipool ligt het elektrische deel van het EM-veld tussen de uiteinden, dus evenwijdig aan
+de antenne. Een horizontale dipool geeft horizontale polarisatie, een verticale dipool
+polariseert verticaal. Op VHF/UHF is het raadzaam, de polarisatierichting bij zend- en
+ontvangantenne gelijk te hebben. Bij wereldwijd radioverkeer op de korte golf maakt het
+weinig uit door reflecties in de ionosfeer en de kromming van het aardoppervlak.
+Zichtverbindingen
+Een zichtverbinding is een verbinding langs een rechte lijn. Door de kromming van het
+aardoppervlak overbrugt een zichtverbinding een beperkte afstand. Hoe hoger de
+antennemast, des te groter is de overbrugbare afstand, net als de zichtafstand vanaf een
+uitkijktoren. Figuur 14.3-1 geeft het verband tussen hoogte en maximaal zichtbereik
+tussen twee even hoge antennes in volkomen vlak gebied.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-25
+
+Zichtafstand bij onbelemmerd zicht (km)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Hoogte van beide antennes (m)
+
+Figuur 14.3-1. Lengte van een zichtverbinding als functie van de antennehoogte bij even hoge antennes.
+
+Vuistregel 1: als je 10 m hoog staat, is de zichtafstand 10 km. Hoogte n keer zo groot geeft
+een zichtafstand van √𝒏 keer zo ver.
+Vuistregel 2: zichtafstand in km = 𝟒√𝒉, h in m.
+Bij 2 antennes tel je de beide zichtafstanden op.
+Bij controle met de grafiek blijkt vuistregel 1 een iets te kleine afstand te leveren,
+vuistregel 2 een iets te grote. In werkelijkheid worden op de meeste amateurbanden
+veelvouden van die afstanden overbrugd. Bij radioverbindingen moet dus meer aan de
+hand zijn.
+Directe golf, grondgolf of bodemgolf en ruimtegolf
+Bij zichtverbinding spreken we van een directe golf. Daartoe worden ook de golven
+gerekend die in het onderste deel van de atmosfeer, de troposfeer, worden teruggebogen
+naar de aarde. Ze worden ook wel aangeduid met de term troposferische golven.
+Daarnaast kennen we de grond- of bodemgolf en de ruimtegolf.
+De grondgolf volgt min of meer het aardoppervlak en wekt in de aarde stromen op. Dat
+leidt tot vermogensverlies. Bij verticale polarisatie zijn de aardstromen het kleinst en de
+verliezen dus ook. De grondgolf volgt vooral bij lage frequenties de kromming van het
+aardoppervlak. De verliezen maken hoge vermogens nodig om de golf op grote afstand
+waarneembaar te houden. Hoe lager de frequentie, hoe kleiner de verliezen en des te
+groter het bereik.
+De ruimtegolf verdwijnt niet altijd in de ruimte. Vooral op de korte golf worden EMgolven in de hoogste laag van de atmosfeer, de ionosfeer, vaak teruggebogen naar de
+aarde. Dit waren de voor propagatie van EM-golven belangrijkste atmosfeerlagen. Op rij:
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-26
+
+VRZA-cursus radiozendamateur
+
+•
+•
+
+Hoofdstuk 14 kort 20251009
+
+De troposfeer. Het is de onderste laag, ongeveer 6 km dik in de poolgebieden en
+16-18 km bij de evenaar. In Nederland is de dikte ongeveer 10 km.
+De ionosfeer is de hoogste en meest ijle laag. De onderkant ligt op een hoogte van
+circa 80 km. De zonnestraling (ultraviolet en Röntgenstraling) ioniseert de ijle
+lucht. Ionisatie is de omzetting van atomen en moleculen in elektrisch geladen
+deeltjes. In geïoniseerde ijle lucht worden radiogolven geabsorbeerd of afgebogen,
+vooral op de midden- en korte golf. Afbuiging maakt overbrugging van grote
+afstanden mogelijk. ’s Nachts vermindert de ionisatiegraad.
+
+Tussen deze twee lagen liggen de stratosfeer van ongeveer 40 km dik en daarboven de
+mesosfeer van gemiddeld ruim 30 km dik. Voor radioverkeer zijn ze van weinig belang.
+Tabel 14.3-1 geeft een indruk, welk soort golf bij welke frequenties belangrijk is. In
+werkelijkheid zijn de overgangen niet scherp. Amateurs maken bijvoorbeeld ook af en toe
+verbindingen met ruimtegolven tot in de 144-146 MHz-band (2 meter).
+Tabel 14.3-1. Overzicht van frequentiebanden met golflengte, gebruik (niet volledig) en soort golf.
+
+Band
+
+Frequentie
+
+Golflengte
+
+VLF
+LF
+MF
+
+Beneden 30 kHz
+30-300 kHz
+300-3000 kHz
+
+>10 000 m
+10 000 – 1 000 m
+1 000 – 100 m
+
+HF
+
+3-30 MHz
+
+100 – 10 m
+
+VHF
+UHF
+SHF
+
+30-300 MHz
+300 – 3000 MHz
+3 – 30 GHz
+
+10 – 1 m
+1 m – 10 cm
+10-1 cm
+
+EHF
+
+30 – 300 GHz
+
+1 cm – 1 mm
+
+Belangrijkste
+gebruiker(s)
+Navigatie
+Omroep
+Omroep,
+amateur
+Omroep,
+amateur
+RTV, amateur
+RTV, amateur
+Radar, satelliet
+amateur
+Satelliet
+
+Soort golf
+(overwegend)
+Bodemgolf (grondgolf)
+Bodemgolf (grondgolf)
+Bodemgolf (grondgolf)
+Ruimtegolf
+Directe golf, troposfeer
+Directe golf, troposfeer
+Directe golf
+Directe golf
+
+Propagatie van VHF- en UHF-golven
+Troposfeer
+Voor de propagatie van VHF- en UHF-golven is vooral de troposfeer van belang, Voor
+VHF kan ook de ionosfeer een rol spelen. Dat bespreken we in de volgende sub-paragraaf.
+Een optisch opstapje
+De propagatie van VHF en UHF in de troposfeer lijkt wat op het gedrag van licht. Vandaar
+dit uitstapje naar de optiek. Het is geen examenstof, maar helpt om het gedrag van VHF en
+UHF in de troposfeer te begrijpen. We beginnen met Figuur 14.3-2. Daarin is een
+lichtstraal onder water onder verschillende hoeken naar het wateroppervlak gericht.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-27
+
+VRZA-cursus radiozendamateur
+
+lucht
+
+lucht
+
+a
+b
+
+Hoofdstuk 14 kort 20251009
+
+lucht
+a
+
+water
+
+1
+
+b
+
+water
+
+b b
+
+water
+
+3
+
+2
+
+Figuur 14.3-2. Gedrag van een lichtstraal die onder verschillende hoeken een wateroppervlak bereikt. De
+streepjeslijn staat loodrecht op het wateroppervlak.
+
+In plaatje 1 zien we hoe de lichtstraal aan het oppervlak wordt gebroken. Het
+onderwaterdeel maakt een hoek b met de verticale streepjeslijn, het bovenwaterdeel een
+hoek a. De verhouding sin 𝑎⁄sin 𝑏 is gelijk aan de verhouding van de snelheden van licht
+in lucht en in water. De verhouding van de sinussen ligt dus vast. We vergroten nu hoek
+b, waardoor ook de hoek a zich vergroot (plaatje 2). Nu is de vraag, wat er gebeurt als
+hoek a groter dan 90 graden zou moeten worden. Dat laat plaatje 3 zien. Het
+wateroppervlak gedraagt zich dan als een spiegel. De lichtstraal wordt onder dezelfde
+hoek als waarmee die het wateroppervlak raakt, weer het water in gereflecteerd volgens
+de spiegelwet “hoek van inval = hoek van terugkaatsing”.
+Warme en koude lucht; temperatuurinversies
+Ook in de troposfeer is de voortplantingssnelheid van licht en andere EM-golven niet in
+alle luchtsoorten dezelfde.
+De voortplantingssnelheid van EM-golven in lucht is iets kleiner dan in het luchtledige
+(vacuüm). Hoe ijler de lucht, des te meer benadert de lichtsnelheid die in vacuüm. Omdat
+de luchtdruk vanaf het aardoppervlak naar boven afneemt of -anders gezegd- lucht naar
+boven toe ijler wordt, worden ook EM-golven iets naar beneden afgebogen. Meestal is de
+kromming van het aardoppervlak te sterk om ze naar het aardoppervlak te laten
+terugkeren en zo verre verbindingen mogelijk te maken.
+Warme lucht is bij gelijke luchtdruk iets ijler dan koude. Normaal gesproken neemt in de
+troposfeer de luchttemperatuur van beneden naar boven af met gemiddeld ongeveer 0,6
+graden per 100 m omhoog Maar soms ligt er een laag warme lucht boven een koudere. Dat
+heet een temperatuurinversie of kortweg inversie. Inversie betekent omkering. Bij een
+inversie kan het verschil in snelheid van EM-golven in de twee luchtlagen net genoeg zijn
+om een EM-golf wèl terug te buigen naar de aarde. Dan ontstaat een verschijnsel dat je
+kunt vergelijken vergelijkbaar verschijnsel als met water en lucht in plaatje 3 van Figuur
+14.3-2. Radiogolven worden dan teruggekaatst of teruggebogen naar de aarde. Dan
+kunnen op VHF en UHF afstanden van vele honderden km worden overbrugd.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+EM-golven die een inversie onder een vrij grote hoek treffen, gaan er doorheen, net als de
+lichtstraal door het wateroppervlak in plaatjes 1 en 2 van Figuur 14.3-2. Loopt de EM-golf
+bijna evenwijdig aan de inversie, dan kan het gedrag van plaatje 3 in Figuur 14.3-2
+ontstaan. Omdat een inversie niet overal op precies dezelfde hoogte zit, en golvingen kan
+hebben, kan een via deze weg ontvangen signaal in sterkte variëren.
+Een duct is ingewikkelder. Dan vindt in de troposfeer een aantal reflecties plaats tussen
+luchtlagen of meer reflecties langs een inversie. Dat kan leiden tot verbindingen over vele
+honderden tot meer dan 1000 km.
+Ook kan verstrooiing van radiogolven optreden. Dat heet scatter. Het verstrooide deel van
+de EM-golven is vooral in hogere lagen van de troposfeer klein en de verliezen groot. Bij
+hoge zendvermogens is er soms een en ander aan leuke verbindingen “te halen”.
+Meteor scatter
+Een bijzondere methode van propagatie is zogenoemde meteor scatter. Als de aarde de
+baan van een meteorenzwerm kruist, komen meteoren in de dampkring terecht. Ze laten
+dan een geïoniseerd (14.3.5) spoor achter dat gedurende korte tijd (enkele seconden is al
+vrij lang) radiogolven weerkaatst. Daardoor kunnen -met veel herhaling van weinig
+informatie- op VHF en UHF verbindingen worden gemaakt. De zwermen en hun baan om
+de zon zijn bekend en hun optreden is vrij nauwkeurig te voorspellen. Verbindingen
+worden veelal gemaakt in snelle CW of digitale modes, vanwege de korte duur van de
+“bursts”. Geïnteresseerden kunnen -helaas in het Engels- informatie vinden op de site van
+de ARRL, de Amerikaanse radioamateurvereniging.
+Moonbounce, EME
+Een exotischer manier om op VHF en UHF verbindingen te maken is via reflectie tegen
+de maan. Dat heet moonbounce of EME, afkorting van Earth-Moon-Earth. De maan staat
+op circa 380 000 km afstand. Dan is de halve aardbol te bestrijken. Dat gaat niet met een
+standaard amateurzender en dito antenne. De maan is ver weg en een slechte reflector. Je
+hebt een antenne nodig die het uitgezonden signaal scherp bundelt (waarover verderop
+meer) en een flink zendvermogen. Om zo min mogelijk last van ruis te hebben, gaan de
+verbindingen doorgaans in CW. Engelstalige informatie vind je bijvoorbeeld hier.
+Propagatie via de ionosfeer
+Eigenschappen, ionisatie
+De ionosfeer is ijl. De dichtheid neemt van boven naar beneden toe, maar op de grens met
+de mesosfeer is deze nog steeds maar een fractie van die aan het aardoppervlak.
+De zonnestraling bevat er veel straling van hoge energie zoals (ver) ultraviolet en
+Röntgenstraling. Er zijn vrije elektronen die door de hoge energie van hun atomen zijn
+afgesplitst. Een atoom of molecuul met een elektron te weinig is positief geladen. Dat heet
+een positief ion. Ionen worden weer gewone gasdeeltjes als ze een vrij elektron oppikken.
+Dat laatste heet recombinatie. Ionen beïnvloeden de richting van EM-straling.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Hoe minder hoog, des te minder ijl de lucht en des te groter de concentratie aan ionen en
+losse elektronen. Daarmee gaat recombinatie van boven naar beneden ook steeds sneller,
+tot er in de mesosfeer nauwelijks nog ionisatie optreedt.
+Er worden drie geïoniseerde lagen onderscheiden:
+•
+•
+•
+
+De D-laag, 70-80 km boven het aardoppervlak, aan de onderkant van de ionosfeer;
+De E-laag (Kennelly-Heaviside-laag), ongeveer 110 km boven het aardoppervlak;
+De F-laag (Appleton-laag), 250-280 km boven het aardoppervlak,
+
+Figuur 14.3-3 brengt ze schematisch in beeld.
+ionosfeer
+
+F laag
+
+ca. 250 km
+
+mesosfeer en
+stratosfeer
+
+ca. 100 km
+ca. 80 km
+
+aardoppervlak
+
+10 km
+
+E laag
+D laag
+troposfeer
+
+Figuur 14.3-3. De geïoniseerde lagen in de ionosfeer (niet op schaal; cursus 1999).
+
+Van de D- en de E-laag wordt de ionisatie bepaald door de aan- of afwezigheid van
+zonnestraling. ’s Nachts recombineren ionen en elektronen groptendeels. Ook de F-laag
+dankt zijn ionisatie aan de zon. Op deze hoogte is de recombinatie door de ijle lucht traag
+en blijft de F-laag ’s nachts bestaan. Overdag splitst de laag zich in de F1- en de F2-laag.
+Ionosferische lagen en de voortplanting van EM -golven
+Geïoniseerde lucht beïnvloedt de voortplanting van EM-golven van MF tot VHF, maar op
+verschillende wijze. Het gaat om reflectie en absorptie.
+De D-laag absorbeert overdag ruimtegolven tot boven 2 MHz. Alleen de grondgolf blijft
+dan over. Na zonsondergang lost de D-laag op, bereiken de golven de F-laag en worden
+alsnog gereflecteerd. De 160 m-amateurband (in NL: 1810-1880 kHz) is daardoor vooral
+een nachtband. De reflectie van EM-golven in de ionosfeer hangt af van factoren als
+•
+•
+•
+
+Frequentie
+De elektronenconcentratie in de ionosfeerlaag
+De hoek waaronder de golf de laag treft.
+
+Dat laatste kennen we van de tekst over de troposfeer, maar natuurkundig gezien gaat het
+in de ionosfeer om een ander proces.
+Kritische frequentie en maximaal bruikbare frequentie (MUF)
+Bij het gedrag van een ionosferische laag horen twee belangrijke grootheden. Dat zijn:
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-30
+
+VRZA-cursus radiozendamateur
+
+•
+•
+
+Hoofdstuk 14 kort 20251009
+
+De kritische frequentie. Dat is de hoogste frequentie waarbij een verticaal
+uitgezonden golf nog wordt gereflecteerd.
+De maximaal bruikbare frequentie (MUF, afkorting van Maximum Usable
+Frequency). Dat is de hoogste frequentie waarvan de EM-golven bij vlakke
+instraling nog net worden gereflecteerd naar het aardoppervlak.
+
+Max. Bruikbare Freq. In Mhz
+
+De frequenties hangen grotendeels af van de zonnestand, dat wil zeggen de tijd van de dag
+en het seizoen. Figuur 14.3-4 geeft een idee hoe de MUF over de dag kan veranderen.
+
+Plaatselijke Tijd
+Figuur 14.3-4. De reflecterende eigenschappen van de ionosfeer veranderen gedurende de dag (cursus 1999).
+
+Van groot belang hierbij is de zonneactiviteit. Die beïnvloedt onder meer de hoeveelheid
+ioniserende straling. De zonneactiviteit varieert in een 11-jarige cyclus. De activiteit is
+ongeveer af te lezen aan het aantal zonnevlekken, vandaar de naam zonnevlekkencyclus.
+Hoe meer vlekken, hoe actiever de zon en des te hoger de ionisatiegraad in de ionosfeer
+en des te groter de kans op verre radioverbindingen op HF.
+In de zomer staat de zon veel hoger boven de horizon dan in de winter en levert veel
+meer vermogen per m2 dan ‘s winters. Dat beïnvloedt de E-laag. In het zomerhalfjaar zijn
+vooral overdag soms verbindingen van enkele duizenden km mogelijk op de hogere HFfrequenties en minder vaak ook op VHF. Deze sporadische E-reflecties zijn niet te
+voorspellen. Zijn ze er, dan bijna altijd overdag. Een sterk geïoniseerde E-laag kan
+verbindingen via de F-laag blokkeren door reflectie vóór EM-golven de F-laag bereiken.
+Sprongafstand (skip distance) en stille zone (dead zone)
+Uit de definities van kritische frequentie en MUF volgt dat er op aarde een zone is, waar
+tussenliggende frequenties als het ware overheen springen. Is de stralingshoek te steil, dan
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+worden EM-golven wel afgebogen, maar te weinig om naar de aarde terug te keren. Is de
+hoek vlakker, dan worden ze wel gereflecteerd. Figuur 14.3-5 geeft een plaatje.
+
+F
+G
+
+D
+A
+
+B
+Stille zone
+
+C
+
+Sprongafstand
+
+Figuur 14.3-5. Effect van de opstralingshoek op de propagatie, sprongafstand (skip distance) en stille zone
+(dead zone). (cursus 1999, aangepast)
+
+Vanaf punt A wordt een EM-golf uitgezonden. Het steilste deel (lijn AE) verdwijnt in de
+ruimte. De minder steil opgestraalde golf langs de route AFB wordt gereflecteerd. Het
+gebied tussen A en B ontvangt via de ruimtegolf niets. Als de grondgolf van A tot D reikt,
+stopt de ontvangst voorbij D. De stille zone waarin het station op punt A niet te
+ontvangen is, loopt dan van D tot B. In het Engels heet die zone de dead zone. De afstand
+AB heet sprongafstand, in het Engels skip distance. AGC heeft de kleinste opstralingshoek
+van de drie. Het reflectiepunt is lager. De sprongafstand is groter. Figuur 14.3-6 toont
+mogelijke verbanden tussen sprongafstand, opstralingshoek en frequentie.
+
+5
+
+-
+
+g
+a
+er
+a
+- l end
+E
+z
+
+2M
+
+6M
+
+Hz
+Hz
+aardoppervlak
+
+30M
+
+hz
+
+z
+MH z
+16 M H
+10 z
+H
+6M
+
+F
+
+g
+a
+a
+l
+
+Hz
+0M
+
+Figuur 14.3-6. Voorbeeld van het verband tussen frequentie en sprongafstand of skip distance. (Opnieuw
+getekend naar cursus 1999).
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Frequenties van 30 MHz en hoger worden in dit voorbeeld niet gereflecteerd. Lagere
+frequenties worden gereflecteerd in de ionosfeer; 10 en 16 MHz via de F-laag. Een vlak
+opgestraalde 6 MHz wordt al in de E-laag teruggebogen, de steilere wordt pas afgebogen
+in de veel hogere F-laag. De 2 MHz ontmoet alleen de E-laag en heeft een bijna even grote
+sprongafstand als de vlak opgestraalde 6 MHz. Sprongafstanden verschillen per frequentie.
+Fading
+De ontvangen signaalsterkte van stations op de korte golf kan snel en sterk wisselen. Dat
+heet fading. Fading is meestal een gevolg van wisselingen in de ionisatietoestand en/of
+verandering van hoogte van ionosferische lagen. Figuur 14.3-7 laat zien hoe fading op
+verschillende manieren kan ontstaan.
+
+F
+
+D
+
+g
+laa
+F
+
+E
+
+g
+laa
+E
+
+B
+C
+A
+
+G
+Figuur 14.3-7. Het ontstaan van fading.
+
+De zender in A zendt onder verschillende verticale hoeken EM-golven uit. Meer hierover
+komt in sub-paragraaf 14.4.8.
+Golf ABC is een oppervlaktegolf. Golf AEG is een ruimtegolf die wordt weerkaatst door de
+E-laag. Een steiler uitgezonden ruimtegolf wordt in D weerkaatst door de F-laag en in C
+ontvangen. Ook wordt deze ruimtegolf gereflecteerd door het aardoppervlak, bereikt de
+F-laag weer in punt F en wordt daar opnieuw weerkaatst en ontvangen in G. Dat is een
+dubbele reflectie (Engels: two-hop transmission). Bij meer van die reflecties, heet dat
+multi-hop transmission.
+De in C ontvangen golf is de som van twee golven: de grondgolf via B en de weerkaatste
+ruimtegolf via D. Door verschil in afgelegde afstanden kunnen ze in fase, in tegenfase of
+iets daartussenin zijn. Zijn ze in fase, dan geven ze samen een sterk signaal. Bij tegenfase is
+het ontvangen signaal zwak. De reflectiehoogte is niet constant, het faseverschil dus ook
+niet. Bij een reflectiehoogte van circa 250 km en een golflengte van 20 meter leiden
+minimale hoogteveranderingen tot grote faseverschuivingen en daarmee samenhangende
+verschillen in sterkte van een ontvangen signaal.
+Niet alleen grondgolf en weerkaatste ruimtegolf kunnen samenkomen. Dat kan ook met
+twee weerkaatste ruimtegolven. Het steilere deel van de afstraling in punt A gaat via de F© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+laag. Het minder steile deel via de E-laag. Als ze beide in punt G samenkomen, ontstaat
+ook fading. Opnieuw is de oorzaak veranderend faseverschil.
+Tenslotte kennen we selectieve fading. Die ontstaat als de fading over de bandbreedte van
+een signaal verschilt. Bij DSB en AM leidt dat tot onbalans tussen twee zijbanden en
+daarmee samenhangende vervorming.
+
+14.4 Antennevariaties
+De isotrope straler, een theoretische maat voor antenne”versterking”
+Iets heet isotroop als het in alle richtingen dezelfde eigenschappen heeft. Een bol is
+isotroop. Het tegendeel van isotroop is anisotroop. Geen enkele “echte” antenne straalt
+naar alle kanten evenveel vermogen uit en is dus minstens een beetje anisotroop.
+Een isotrope straler verdeelt het uitgestraalde vermogen exact gelijk over alle richtingen.
+Hij wordt gebruikt als theoretische maatstaf voor de “versterking” van een antenne.
+Een antenne bundelt uitgestraalde energie in bepaalde mate. De “versterking”, ook wel
+gain genoemd, is de verhouding tussen het uitgestraald vermogen van de antenne in de
+richting waarin dit het sterkst is en dat van een isotrope straler. De verhouding wordt
+uitgedrukt in dBi, met de “i” van isotroop.
+Een in de vrije ruimte geplaatste dipool heeft een gain van 2,15 dBi. Dat wil zeggen dat
+het loodrecht op de antenne uitgestraalde vermogen 2,15 dB groter is dan het rondom
+uitgestraalde vermogen van een isotrope straler bij gelijk aangeleverd vermogen.
+Afstand en verzwakking
+Hoe groter de afstand tot de zendende antenne is, des te zwakker wordt het door de
+antenne uitgestraalde EM-veld. De sterkte wordt uitgedrukt als vermogensdichtheid. Dat
+is het vermogen per oppervlakte loodrecht op de stralingsrichting. De eenheid van
+vermogensdichtheid is daarom W/m2. De vermogensdichtheid is omgekeerd evenredig
+met het kwadraat van de afstand tot de zendende antenne. In getallen: afstand twee keer
+zo groot, vermogensdichtheid 4x zo klein.
+Verticale antennes (groundplane)
+Zet een dipool op zijn kant en klaar is Kees, zou je kunnen denken. Dat heeft zijn
+bezwaren. Meestal zal een verticale dipool evenwijdig zijn aan de metalen mast waarin hij
+is gemonteerd. Dat geeft ongewenste beïnvloeding, verliezen en verstemming. De
+onderste antennepunt staat dichter bij de aarde dan de bovenste. Dat gaat ten koste van de
+symmetrie. Dat effect is kleiner naarmate de antenne, gemeten in golflengten, hoger staat.
+Meestal is een verticale antenne een kwart golf lang en geen halve golf. Een “ideale” aarde
+spiegelt het andere kwart erbij. De echte aarde is geen heel goede geleider. Die geleider
+moet worden gemaakt. Een aantal draden van ¼ lang (of iets langer) straalsgewijs vanuit
+de onderkant van de ¼ -antenne volstaat. Die noemen we meestal radialen.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Als de radialen een hoek van 90 graden maken met de straler, is de impedantie op het
+voedingspunt tussen radialen en straler ruim 30 ohm. Bij 135 graden is die 50 ohm. Dan
+past de antenne perfect aan op 50 ohms coax. Figuur 14.4-1 laat beide zien met rechts nog
+één met coax-aansluiting. De binnenader is verbonden met de straler; de mantel met de
+radialen. De antenne is asymmetrisch, dus balunvrij en wordt groundplane genoemd.
+
+¼
+
+¼
+
+¼
+
+Straler
+
+Radialen
+1
+
+2
+
+3
+
+Figuur 14.4-1. Groundplane antenne. 1) met horizontale radialen; 2) met radialen onder een hoek van
+135met de straler; 3) uitvoering met coax-aansluiting.
+
+De afstraling van de groundplane is bijna horizontaal. Dat kan een voordeel zijn met het
+oog op ionosferische propagatie.
+Het elektrische deel van het EM-veld staat verticaal. Daarom is de straling van een
+groundplane verticaal gepolariseerd, De antenne is rondom gevoelig. Hij wordt meestal
+voor VHF en UHF gebruikt. Voor HF wordt de antenne al gauw erg hoog (een kwart golf
+op 80 m is 20 m)
+Een variant op de groundplane is de sleeve-antenne. Sleeve betekent mouw. Kijk naar de
+afbeelding van Figuur 14.4-2 en de term zal waarschijnlijk meteen duidelijk zijn.
+
+Figuur 14.4-2. Sleeve-antenne
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+De radialen zijn vervangen door een ¼ lange metalen bus rondom de coaxiale
+voedingskabel omlaag vanaf het voedingspunt. De impedantie op het voedingspunt is bij
+dit soort antennes ongeveer 75 ohm. De binnenader van de coax is verbonden met de
+antenne, de mantel met de sleeve.
+De gevouwen dipool
+De gevouwen dipool is een hele golflengte lang en in tweeën gevouwen, zodat het geheel
+maar ½λ lang is (Figuur 14.4-3).
+
+½
+
+Transmissielijn naar
+zender/ontvanger
+Figuur 14.4-3. Gevouwen dipool.
+
+De twee bochten liggen een kwart golflengte van het aansluitpunt. Bij een halve-golfdipool zouden hier de hoogohmige uiteinden liggen. Ook in dit geval is de impedantie op
+de bochten hoog om weer heel laag te worden in het midden van de bovenste helft van de
+dipool. De ingangsimpedantie is 4x zo hoog als de 73 ohm van de enkelvoudige dipool; dat
+is dus een kleine 300 ohm. De oorzaak is dat nu niet één, maar twee in serie geplaatste
+kwartgolf stralers de EM-golf uitzenden. Vergeleken met de halvegolf-dipool komt dat
+neer op de halve stroom bij dubbele spanning op de aansluiting = viervoudige impedantie.
+Antennes met parasitaire elementen
+Parasitaire elementen worden aan antennes toegevoegd om het uitgezonden vermogen te
+bundelen en zoveel mogelijk één richting op te sturen. Daarmee wordt meer vermogen in
+de gewenste richting uitgezonden, anders gezegd: gebundeld. Bij ontvangst is de antenne
+voor signalen uit diezelfde richting gevoeliger. De bundeling werkt dus twee kanten op.
+We beginnen met een dipool zoals die in subparagraaf 14.2.2. Wordt vlak bij een dipool
+een geleider (draad of staaf) geplaatst, dan ontvangt die de EM-golf van de antenne en
+straalt hem ook weer uit. Het faseverschil tussen ontvangen en (her)uitgezonden signaal
+hangt af van de lengte van de geleider. Is de geleider (iets) langer dan een halve golflengte,
+dan gedraagt hij zich inductief en zendt de golf iets vertraagd weer uit. Is hij korter dan
+een halve golflengte, dan werkt de geleider capacitief en zendt de golf versneld (en
+verzwakt) uit. Zo’n geleider heet een parasitair element.
+Een inductief element kan als reflector werken. Het wordt op een afstand van 0,15 tot
+0,25 λ evenwijdig aan de straler geplaatst. De afstand hangt af van de lengteverhouding
+van straler en reflector. De reflector straalt de ontvangen golf weer uit, maar met
+vertraging en met een zodanig faseverschil dat de van de straler afkomstige golf achter de
+reflector zoveel mogelijk wordt verzwakt. De gereflecteerde golf is, aangekomen bij de
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+straler, door de afgelegde afstand in fase met de golf uit de straler en versterkt deze.
+Daardoor straalt de antenne naar één kant veel meer vermogen uit dan naar de andere. De
+richting met de versterkte uitstraling heet voor en die met de verzwakte uitstraling achter.
+Een capacitief (korter) element werkt andersom. Het heet director en wordt vóór de
+straler geplaatst. Daarmee wordt de voorwaartse golf beter gebundeld. Antennes hebben
+vaak meer dan één director, soms meer dan 10. Figuur 14.4-4 laat de opbouw van een
+antenne met drie elementen zien Van groot naar klein zijn dat respectievelijk de reflector
+(A), de straler (B. in tweeën gedeeld voor de kabelaansluiting) en een director (C) Dit
+soort antenne heet naar één van zijn uitvinders Yagi-antenne.
+
+A
+
+B
+
+C
+
+Figuur 14.4-4. Halvegolf-straler (B) met links een reflector (A) en rechts een director (C) (cursus 1999)
+
+De straler mag een gevouwen dipool zijn. De impedantie is 4x die van een enkele dipool.
+Voor/achterverhouding
+Omdat een yagi vooral naar voren straalt, is de eigenschap voor/achterverhouding van
+belang. Dat is de verhouding van het naar voren en het naar achteren uitgestraalde
+vermogen. Het wordt uitgedrukt in dB. Een voor/achterverhouding van 12 dB betekent
+dat naar voren 16x zoveel vermogen wordt uitgestraald als naar achteren. Het betekent
+ook dat de antenne bij ontvangst van een station ervóór een 12 dB sterker signaal
+doorgeeft naar de ontvanger dan van een station met gelijke veldsterkte erachter.
+Gain, antennewinst of antenneversterking
+Deze drie termen betekenen hetzelfde: de verhouding van vermogen dat door een
+bepaalde antenne naar voren wordt uitgestraald en dat van een isotrope straler of van een
+dipool bij dezelfde vermogensinput. De verhouding met een isotrope straler gaat in dBi,
+die met een dipool in dBd. Een dipool heeft enig richteffect en is dus niet isotroop. De
+uitstraling in de langsrichting is praktisch 0. Dat “uitgespaarde” vermogen wordt in de
+dwarsrichting uitgezonden. De verhouding in gain G in dBi met dat in dBd is 2,15:
+𝐺(dBi) = 𝐺(dBd) + 2,15
+
+( 14.4-1)
+
+Effective radiated power (ERP)
+In het Nederlands heet dat effectief uitgestraald vermogen. Dat is het aan de antenne
+toegevoerde vermogen maal de getalswaarde van de gain (dus niet in dB) ten opzichte van
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+een dipoolantenne. Bij een antenne met een versterking van 12 dBd is de versterking in
+getalvorm 16. Een antenne-input van 10 W betekent dan een ERP van 160 W.
+Als een isotrope straler als uitgangspunt wordt genomen spreken we van EIRP met de I
+van Isotropic. Dat scheelt de inmiddels bekende 2,15 dB. Afgerond is dat een factor 1,6.
+De EIRP in het voorbeeld wordt 1,6 ∗ 160 W ≈ 260 W. Opletten bij antennegegevens!
+Dipool met sperkringen
+Een dipool is met een vrij eenvoudige truc geschikt te maken voor meer dan één
+frequentie. De truc heet trap (spreek uit: trep). Een trap is een LC-parallelkring die in de
+antenne is opgenomen (Figuur 14.4-5). Zo’n kring heeft op zijn resonantiefrequentie een
+in theorie oneindige impedantie (Hoofdstuk 5).
+
+5,05 m
+
+1,05 m
+
+Transmissielijn
+
+1,05 m
+
+Figuur 14.4-5. Schema van een antenne met traps voor de 10- en de 15-m amateurband
+
+Bij een dipool die op diezelfde frequentie resoneert, kun je op de beide uiteinden een trap
+monteren. Die doet daar nauwelijks iets, want de dipool is daar toch al heel hoogohmig.
+Maar de trap laat wel toe dat de dipool voorbij de trap kan worden verlengd voor een
+lagere frequentie zonder dat de resonantiefrequentie van het dipooldeel tussen
+aansluitpunt en trap verandert. Voor de lagere frequentie waarbij de hele antenne in
+resonantie komt, is de trap een inductief stukje van de totale antenne. Zo ontstaat een
+antenne voor twee frequenties. De antenne in Figuur 14.4-5 is er één voor de 10- en de 15
+m amateurband (resp. 28-30 MHz en 21-21,45 MHz).
+Er is geen enkel bezwaar tegen een tweede set traps op de uiteinden van de tweebands
+antenne die de antenne geschikt maakt voor een derde band met weer lagere frequentie.
+Bij sommige fabrieksantennes zijn twee traps listig samengevoegd tot ogenschijnlijk één
+trap voor twee extra banden. Traps worden ook toegepast in verticale antennes.
+Apertuur-antennes
+In subparagraaf 14.2.16 hebben we kennis gemaakt met één soort apertuurantenne, de
+hoornantenne. Bij gebruik van apertuurantennes is de straler of reflector (veel) groter dan
+de gebruikte golflengte.
+Een vorm is de paraboolantenne. Daarin heeft de dwarsdoorsnede van de reflector de
+vorm van een parabool. Wie een heel grote (25 m diameter) wil zien, kan naar het
+Dwingelderveld (Drenthe), waar een groep zendamateurs een afgedankte astronomische
+radiotelescoop een nieuw leven heeft gegeven. Foto 14.4-1 laat hem zien. De website is:
+Dwingeloo Radiotelescoop | CAMRAS – C.A. Muller Radioastronomie Station | PI9CAM.
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Foto 14.4-1. De voormalige radiotelescoop in Dwingeloo. Voor de maat: zie de kleine mensjes op de trap.
+Foto: PA9JOO.
+
+Voor amateurgebruik op UHF en vooral SHF zijn er handzamer exemplaren. De
+hoornantenne van subparagraaf 14.2.16 kan worden gebruikt voor het “belichten” (zo
+heet dat) van een parabool van bijvoorbeeld metaalgaas. Als de hoorn in het brandpunt
+staat, kan de parabool een scherpere bundeling met grotere ERP leveren dan de hoorn
+zelf. Boven de schotel op Foto 14.4-1 zien we een constructie met die functie.
+Figuur 14.4-6 toont een tekening van een spiraalvormige antenne (helix- of helicalantenne) met reflector. Deze antenne geeft circulaire (draaiende) polarisatie.
+
+reflectorvlak
+
+Figuur 14.4-6. Helical antenne met reflector (cursus 1999)
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Horizontale en verticale stralingsdiagrammen
+Een horizontaal stralingsdiagram toont, welk vermogensdeel in welke richting wordt
+uitgestraald. De grafiek is rond. Op de buitenrand staat de richting in graden. 0 en 180
+graden zijn respectievelijk “voor” en “achter”. De binnencirkels geven de relatieve
+vermogensdichtheid. Soms in dB, soms in verhoudingsgetallen. De grootste
+vermogensdichtheid is 0 dB; bij verhoudingsgetallen is dat 1. Figuur 14.4-7 toont het
+horizontale stralingsdiagram van een ½λ dipoolantenne met de vermogensdichtheid in
+dB. De buitenrand vertegenwoordigt met 0 dB de hoogste waarde. Naar binnen toe zijn
+daardoor de dB-getallen negatief.
+0
+30
+
+330
+-6 -6
+dB
+-12dB
+-12
+
+60
+
+300
+
+-18dB
+-18
+-24dB
+-24
+
+-30
+-30dB
+-36dB
+-36
+
+90
+
+270
+
+120
+
+240
+
+150
+
+210
+180
+
+Figuur 14.4-7. Stralingsdiagram van een ½ λ-dipoolantenne.
+
+De antenne is het middelpunt van de cirkels. Trek een lijn vanaf het middelpunt naar een
+bepaalde richting, zeg 30 graden. Die snijdt de blauwe grafiek op ongeveer -2 dB. In die
+richting is de vermogensdichtheid 2 dB lager dan in de richting 0 graden. Door de
+symmetrie vind je dezelfde uitkomst bij 150, 210 en 330 graden. Bij 60 graden wordt de
+uitkomst ongeveer -8 dB. Er zijn nog 3 punten van -8 dB. Zoek en vind ze. Bij 90 en 270
+graden wordt niets uitgestraald. Dat is de lengterichting van de antenne.
+Soms is dit soort diagrammen lineair. Dan staat de omtrek voor het getal 1 en lopen de
+waarden op de as van omtrek naar middelpunt van 1 naar 0 in plaats van in dB. Alle
+waarden worden gedeeld door de hoogste waarde en de uitkomst wordt weergegeven. Bij
+weergave in dB gebeurt dat ook, maar worden de uitkomsten omgezet in dB. Figuur
+14.4-8 toont een lineair stralingsdiagram van een antenne met reflector en director(en).
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+0
+30
+
+0.9
+0,9
+
+330
+
+0.8
+0,8
+0.7
+0,7
+0.6
+0,6
+
+60
+
+300
+
+0.5
+0,5
+0.4
+0.4
+0.3
+0,3
+0.2
+0,2
+0.1
+0,1
+
+90
+
+270
+
+0.0
+
+120
+
+240
+
+150
+
+210
+180
+
+Figuur 14.4-8. Lineair stralingsdiagram van een antenne met straler en reflector. Dat wil zeggen dat de
+waarden evenredig zijn met het in de gegeven richting uitgestraald vermogen, zonder omzetting naar dB
+zoals in Figuur 14.4-7 wel is gedaan.
+
+In het diagram zien we dat de lob naar 0 graden ongeveer 9x zo lang is als de lob richting
+180 graden. De voor/achter-verhouding is dan 9,5 dB, afgerond 10 dB. Deze uitkomst
+toont het nut van diagrammen in dB. In een dB-diagram zijn veel grotere verschillen
+zichtbaar te maken dan in een lineair diagram als Figuur 14.4-8. In Figuur 14.4-7 loopt de
+schaal tot -36 dB en is zonder problemen verder uit te breiden. In Figuur 14.4-8 kom je
+wat afleesbaarheid betreft niet veel verder dan ongeveer 0,05 is -13 dB.
+Verticale stralingsdiagrammen; effect van antennehoogte op de stralingshoek
+Verticale stralingsdiagrammen tonen de hoek met het aardoppervlak, waaronder hoeveel
+vermogen door de antenne wordt afgestraald. Verticaal is 90 graden. De hoekwaarde loopt
+in zulke diagrammen links en rechts van 90 graden af naar 0.
+De afstralingsrichting in het verticale vlak wordt vooral bij horizontale antennes bepaald
+door de hoogte van de antenne boven de grond. Wordt de hoogte gegeven in golflengten,
+dan volstaat één diagram voor alle frequenties. Voor verbindingen over grote afstand (DX)
+hebben we het liefst een zo vlak mogelijke afstraling. Dan is de kans op reflectie in de
+ionosfeer het grootst.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Figuur 14.4-9 toont de afstraling van een horizontaal geplaatste halvegolf-dipool in
+afhankelijkheid van de plaatsingshoogte (in golflengten )
+
+Figuur 14.4-9. Afstralingsrichting van een horizontale halvegolf-dipool in relatie tot de hoogte in golflengtes
+ boven het aardoppervlak. De lezer kijkt in de lengterichting van de antenne (ARRL Antenna Book, 2002)
+
+De langsrichting van de antenne is loodrecht op de figuur. De schaal is bij alle
+diagrammen gelijk en gebaseerd op de grootste uitstraling in één richting in de figuur. Dat
+is in diagram E met antennehoogte 5/8 . Zo zijn de diagrammen onderling vergelijkbaar.
+De buitenste krommen geven de situatie bij een aardoppervlak dat volkomen vlak en
+perfect geleidend is. De lijnen rond het iets donkerder deel in een diagram geven de
+situatie bij een “gemiddelde” bodemgesteldheid.
+Als we diagrammen nader bezien, blijkt dat bij geringe antennehoogte, hier voorgesteld
+door 1/8 , veel vermogen vrijwel recht omhooggaat. Voorbeeld: een antenne voor de 80meterband die 10 m hoog hangt.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+Bij een antennehoogte van ½  ontstaan twee lobben waarvan het midden 30 graden
+omhoog wijst. Deze hoogte wordt vaak gezien als een goed compromis tussen wens en
+realiteit. Bij grotere antennehoogtes ontstaan meer lobben die deels ook minder steil zijn.
+De afstraling van verticale antennes is ook hoogte-afhankelijk, maar anders dan die van
+horizontale antennes. Figuur 14.4-10 geeft verticale grafieken voor een groundplaneantenne met vier radialen.
+
+Figuur 14.4-10. Hoogte-afhankelijkheid van de afstraling van een groundplane met 4 radialen. (ARRL
+Antenna Book, 2002)
+
+Er vallen enkele dingen op:
+•
+
+•
+
+•
+
+De aardverliezen zijn groter dan bij de horizontale dipool. Dat komt doordat tussen
+vier radialen door nog veel vermogen de grond bereikt. Zeker een vlak bij de grond
+geplaatste groundplane moet liefst meer radialen hebben dan 4. Dat beperkt de
+aardverliezen. De radialen zijn bij voorkeur ook wat langer dan ¼ golflengte.
+Verticale antennes ontwikkelen net als horizontale antennes meer lobben
+naarmate ze hoger staan. De aardverliezen worden wat kleiner dan bij lage
+plaatsing, maar blijven groter dan bij een horizontale antenne.
+Bij hogere plaatsing wordt de afstraling iets minder vlak. Dat is een verschil met
+horizontale antennes.
+
+Toch hebben horizontale antennes bij amateurs vaak de voorkeur. Redenen: een flinke
+antenne-gain met bijbehorende hoge ERP en een gunstige voor/achter-verhouding is met
+een horizontale antenne gemakkelijker te behalen dan met een verticale. Door een
+horizontale antenne te draaien, kan (over)last van sterke stations worden verminderd,
+kunnen zwakke stations beter worden beluisterd en wordt men in de stralingsrichting
+gemakkelijker gehoord. Een groundplane is in alle horizontale richtingen even gevoelig.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14 kort 20251009
+
+De effectief ontvangende oppervlakte van een antenne
+Waarom hebben VHF- en vooral UHF-yagi’s vaak zoveel elementen? Ze worden ook met
+veel elementen niet onhanteerbaar groot omdat de golflengte klein is. Met veel elementen
+heb je een mooie antennewinst. Dat is een deel van het antwoord. Het andere is de
+grootte van hun effectief ontvangende oppervlakte.
+Stel je een EM-golf voor als een groot oppervlak dat zich vanaf de zendende antenne met
+de lichtsnelheid verplaatst. De ontvangende antenne snijdt een stukje uit dat oppervlak.
+Bij kortere golflengte wordt dat stukje kleiner. Dat is het andere deel van het antwoord op
+de beginvraag. De oppervlakte A van het uitgesneden stukje is te berekenen volgens
+( 14.4-2)
+𝐺 2
+4𝜋
+Daarin is G de antennewinst ten opzichte van een isotrope straler. Voor een isotrope
+straler geldt daarom dat G=1. Voor een halvegolf-dipool is G 2,15 dB hoger. Dat komt
+overeen met een factor 1,64, afgerond 1,6. Als we daarmee vergelijking ( 14.4-2)
+uitwerken voor een halvegolf-dipool, dan vinden we
+
+𝐴=
+
+𝐴 ≈ 0,13 2
+
+( 14.4-3)
+
+We zien dat de oppervlakte A van het “venster” voor het door de antenne opgevangen
+vermogen evenredig is met het kwadraat van de golflengte. Bij een half zo grote golflengte
+wordt met een halvegolf-dipool 4x zo weinig vermogen opgevangen.
+Versterking door reflector(en) en director(en) leidt tot een grotere waarde voor A. Wat
+geldt bij zenden, geldt ook bij ontvangen. Heeft een zendantenne 10 dB gain, dan heeft
+diezelfde antenne dat ook bij gebruik voor ontvangst.
+
+© 2021-2025, Vereniging van RadioZendAmateurs VRZA
+
+14-44
+
+

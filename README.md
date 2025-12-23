@@ -99,14 +99,28 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 ### 1.8 Modulated Signals (Gemoduleerde signalen)
 - [ ] **Analogue:**
   - [ ] **CW (Morse):** Keying the carrier on/off. Narrow bandwidth (~100 Hz).
-  - [ ] **AM:** Carrier + 2 Sidebands. Bandwidth is approx 2 * max_mod_freq.
-  - [ ] **SSB (EZB):** Single Sideband (LSB/USB). Suppressed carrier and one sideband. Efficient. Bandwidth approx 2.4 - 2.7 kHz.
-  - [ ] **FM:** Frequency varies. Amplitude constant.
-    - [ ] **Deviation (Frequentiezwaai):** Max freq change.
-    - [ ] **Modulation Index:** Deviation / Modulating Freq.
+  - [ ] **AM (Amplitude Modulation):**
+    - [ ] **Modulation Depth (M):** Ratio of audio amplitude to carrier amplitude. M=1 (100%) is max before overmodulation.
+    - [ ] **Spectrum:** Carrier + Lower Sideband (LSB) + Upper Sideband (USB).
+    - [ ] **Bandwidth:** B = 2 * f_max (e.g., 2 * 3kHz = 6 kHz).
+    - [ ] **Power:** At M=100%, Sideband power is 50% of Carrier power (each SB is 25%). PEP = 4 * Carrier Power.
+  - [ ] **SSB (Enkelzijband, EZB):** Suppressed carrier and one sideband.
+    - [ ] **Efficiency:** All power goes into information. Bandwidth approx 2.7 kHz.
+  - [ ] **FM (Frequency Modulation) / PM (Phase Modulation):**
+    - [ ] **Deviation (Frequentiezwaai, df):** Max freq change from center.
+    - [ ] **Modulation Index (m):** m = df / f_mod.
+    - [ ] **Bandwidth (Carson's Rule):** B = 2 * (df + f_mod) = 2 * f_mod * (1 + m).
+      - [ ] Amateur FM (NBFM): Approx 12 kHz BW.
 - [ ] **Digital:**
-  - [ ] **Types:** FSK (Freq Shift Keying), PSK (Phase Shift Keying), QAM (Quadrature Amplitude Modulation).
-  - [ ] **Rates:** Bit rate (data speed) vs Baud rate (symbol speed).
+  - [ ] **Rates:**
+    - [ ] **Bit rate (bps):** Bits per second.
+    - [ ] **Symbol rate (Baud, Bd):** Changes of state per second.
+    - [ ] Relationship: Bit rate = Symbol rate * bits_per_symbol.
+  - [ ] **Types:**
+    - [ ] **ASK (Amplitude Shift Keying):** Digital AM.
+    - [ ] **FSK (Frequency Shift Keying):** Digital FM (Mark/Space frequencies).
+    - [ ] **PSK (Phase Shift Keying):** Phase changes (BPSK=2 states, QPSK=4 states).
+    - [ ] **QAM (Quadrature Amplitude Modulation):** Combination of ASK and PSK (Amplitude and Phase).
   - [ ] **Correction:** CRC (Check), ARQ (Request Retransmission), FEC (Forward Error Correction).
 
 ### 1.9 Power and Energy (Vermogen en energie)
@@ -127,6 +141,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Sampling:** Taking snapshots of voltage.
 - [ ] **Nyquist Theorem:** Sample rate must be at least **2x** the highest frequency component (fs > 2 * f_max) to avoid aliasing.
 - [ ] **Aliasing:** False signals created if sampling is too slow.
+- [ ] **Quantisation:** Assigning a digital value to the sample. Leads to Quantisation Noise (resolution error).
 - [ ] **Filters:** Anti-alias filter (before ADC) and Reconstruction filter (after DAC).
 
 ---
@@ -196,17 +211,43 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ### 2.6 Transistor (Transistor)
 - [ ] **Bipolar (BJT - NPN/PNP):** Current amplifier (Ic = Beta * Ib).
+  - [ ] **Beta (hFE):** Current gain factor (Ic / Ib).
 - [ ] **FET (Field Effect Transistor):** Voltage amplifier (Gate voltage controls Drain current). High input impedance.
+  - [ ] **JFET:** Junction FET (N-channel/P-channel). Reverse biased PN junction.
+    - [ ] **Steepness (Steilheid, S):** Change in Id / Change in Ugs (mA/V).
+    - [ ] **Pinch-off:** Voltage where current stops.
+  - [ ] **MOSFET:** Metal Oxide Semiconductor. Insulated gate (very high Z).
+    - [ ] **Dual-gate:** Used for mixing or gain control (like a Tetrode/Pentode).
 - [ ] **Configurations:**
   - [ ] **Common Emitter (BJT) / Source (FET):** Voltage and Current gain. Phase inversion (180 deg).
   - [ ] **Common Collector / Drain (Follower):** High Input Z, Low Output Z. No voltage gain. Buffer.
   - [ ] **Common Base / Gate:** Low Input Z, High Output Z. HF amps.
 
 ### 2.7 Other Components (Overige componenten)
-- [ ] **Vacuum Tubes:** Triode, Pentode. High voltage, high impedance.
+- [ ] **Vacuum Tubes:**
+  - [ ] **Triode:** Cathode, Anode, Control Grid. Like a FET but high voltage.
+  - [ ] **Pentode:** Adds Screen Grid (g2, reduces capacitance) and Suppressor Grid (g3, prevents secondary emission).
+- [ ] **Operational Amplifiers (Op-amps):**
+  - [ ] **Ideal:** Infinite gain, infinite input Z, zero output Z.
+  - [ ] **Feedback:** Negative feedback reduces gain but improves linearity and bandwidth.
+  - [ ] **Types:** Inverting, Non-inverting, Summing, Differential, Comparator.
 - [ ] **Digital Logic:**
-  - [ ] **Gates:** AND, OR, NOT, NAND, NOR, XOR.
-  - [ ] **Flip-flops:** Memory elements.
+  - [ ] **Number Systems:**
+    - [ ] **Binary:** Base 2 (0, 1).
+    - [ ] **Hexadecimal:** Base 16 (0-9, A-F).
+  - [ ] **Boolean Algebra:**
+    - [ ] **De Morgan's Laws:** NAND is equivalent to OR with inverted inputs; NOR is equivalent to AND with inverted inputs.
+  - [ ] **Gates:** AND, OR, NOT, NAND, NOR, XOR (Exclusive OR), XNOR.
+  - [ ] **Sequential Logic:**
+    - [ ] **Flip-flops:** Memory elements.
+      - [ ] **RS Flip-flop:** Set/Reset.
+      - [ ] **D Flip-flop:** Data latch, takes input on clock edge.
+      - [ ] **JK Flip-flop:** Configurable, can toggle.
+    - [ ] **Counters/Dividers:** Divide frequency by 2^n.
+    - [ ] **Shift Registers:** Serial-to-Parallel or Parallel-to-Serial conversion.
+  - [ ] **Combinational Logic:**
+    - [ ] **Adders:** Half Adder (2 bits), Full Adder (3 bits including carry).
+    - [ ] **Parity:** Error detection bit (Even/Odd).
 
 ---
 
@@ -245,16 +286,29 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] Half-wave (1 diode), Full-wave centre-tap (2 diodes), Bridge (4 diodes).
 - [ ] **Smoothing:** Large capacitor to reduce Ripple (Rimpel). 
   - [ ] Capacitor charges to U_peak, discharges during gaps.
-- [ ] **Stabilisation:** Zener diode or Regulator IC (7805, 7812).
-  - [ ] **Zener Calculation:** Series resistor R = (U_in - U_zener) / (I_zener + I_load).
+- [ ] **Stabilisation:**
+  - [ ] **Zener:** Simple parallel regulator. Series resistor R = (U_in - U_zener) / (I_zener + I_load).
+  - [ ] **Series Regulator:** Zener ref + Transistor (Emitter follower) for higher current.
+  - [ ] **Integrated Circuits:** 78xx (Positive), 79xx (Negative).
 - [ ] **Switch Mode (SMPS):** High efficiency, small, but creates RF noise (EMC).
+  - [ ] **PWM:** Pulse Width Modulation controls output voltage.
 
 ### 3.4 Amplifiers (Versterker)
+- [ ] **Coupling Methods:**
+  - [ ] **RC Coupling:** Resistor + Capacitor. Audio/Wideband.
+  - [ ] **LC/Choke Coupling:** Higher efficiency for RF.
+  - [ ] **Transformer:** Impedance matching, isolation. Used in RF and Push-Pull.
+- [ ] **Operating Characteristics:**
+  - [ ] **Load Line (Belastingslijn):** Graphical line on characteristic curves representing the load. Intersection with device curve is the Operating Point (Werkpunt).
+  - [ ] **Dissipation:** Heat loss (P = U * I). Must stay within the Dissipation Hyperbola (Safe Operating Area).
+- [ ] **Feedback (Terugkoppeling):**
+  - [ ] **Negative Feedback (Tegenkoppeling):** Reduces gain, reduces distortion, increases bandwidth. (e.g., unbypassed emitter resistor).
+  - [ ] **Positive Feedback (Meekoppeling):** Increases gain, reduces bandwidth. Used in oscillators.
 - [ ] **Classes:**
-  - [ ] **Class A:** Conducts 100% of cycle (360 deg). Lowest distortion, lowest efficiency.
-  - [ ] **Class B:** Conducts 50% (180 deg). Push-pull needed. Crossover distortion.
-  - [ ] **Class AB:** Compromise (e.g., 200 deg conduction).
-  - [ ] **Class C:** Conducts < 50%. Pulses. High efficiency. RF PA only.
+  - [ ] **Class A:** Conducts 100% (360 deg). High linearity, low efficiency (max 25-50%).
+  - [ ] **Class B:** Conducts 50% (180 deg). Push-pull needed to avoid Crossover Distortion. Efficiency ~78%.
+  - [ ] **Class AB:** Conducts >50% but <100%. Compromise.
+  - [ ] **Class C:** Conducts < 50%. Pulses. High efficiency. RF PA only (requires output tank circuit to restore sine wave).
 - [ ] **Distortion:** Harmonic (multiples of freq), Intermodulation (mixing of two freqs).
 
 ### 3.5 Detectors (Detector)
@@ -263,11 +317,16 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **FM Detector:** Discriminator, Ratio Detector.
 
 ### 3.6 Oscillators (Oscillator)
-- [ ] **Condition:** Positive feedback + Gain = 1.
-- [ ] **Types:**
-  - [ ] **LC:** Hartley (tapped coil), Colpitts (capacitive divider).
-  - [ ] **Crystal:** Pierce. Very stable freq.
-- [ ] **VCO:** Freq controlled by DC voltage.
+- [ ] **Condition:** Barkhausen criterion (Loop gain = 1, Phase shift = 0 or 360).
+- [ ] **LC Oscillators:**
+  - [ ] **Meissner:** Inductive coupling (transformer).
+  - [ ] **Hartley:** Tapped coil (Inductive divider).
+  - [ ] **Colpitts:** Capacitive divider.
+  - [ ] **Clapp / Seiler:** Variations of Colpitts with series capacitors for better stability.
+- [ ] **Crystal Oscillators:** Piezoelectric effect. High Q.
+  - [ ] **Pierce:** Crystal between Base and Collector (or Gate/Drain).
+  - [ ] **Overtone:** Crystal vibrates at odd harmonic (3rd, 5th). Requires LC tank to select overtone.
+- [ ] **VCO:** Voltage Controlled Oscillator. Uses Varicap (D).
 - [ ] **Phase Noise:** Jitter in time domain = noise sidebands in freq domain.
 
 ### 3.7 PLL (Phase Locked Loop)
@@ -446,3 +505,10 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Emergency:**
   - [ ] MAYDAY (Life threat) > PAN PAN (Urgency).
   - [ ] Amateur radio is a backup resource during disasters (DARES in NL).
+
+---
+
+## Acknowledgements (Dankwoord)
+Special thanks to the **VRZA (Vereniging van Radio Zend Amateurs)** for their comprehensive course material which served as a primary resource for the detailed expansions in this guide.
+
+*   [VRZA Cursus Radiozendamateur](https://cursus.vrza.nl/wp/2017/12/04/vrza-cursus-zendamateur-2017-2019/)
