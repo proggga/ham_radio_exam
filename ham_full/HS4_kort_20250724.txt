@@ -1,0 +1,630 @@
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+Inhoudsopgave
+4
+
+Condensatoren en spoelen ................................................................................................ 2
+4.1
+
+Overzicht van dit hoofdstuk ..................................................................................... 2
+
+4.2
+
+Elektrische en magnetische velden .......................................................................... 2
+
+4.2.1
+
+Elektrische velden ............................................................................................. 2
+
+4.2.2
+
+Magnetische velden........................................................................................... 3
+
+4.3
+
+Condensatoren ........................................................................................................... 4
+
+4.3.1
+
+Opbouw en schemasymbool ............................................................................. 4
+
+4.3.2
+
+Een condensator opladen uit een spannings- of stroombron ......................... 4
+
+4.3.3
+
+De eenheid van capaciteit ................................................................................. 5
+
+4.3.4
+
+Waarvan hangt de capaciteit van een condensator af? ................................... 5
+
+4.3.5
+
+Doorslagspanning .............................................................................................. 5
+
+4.3.6
+
+Uitvoeringen van condensatoren ..................................................................... 5
+
+4.4
+
+Spoelen ....................................................................................................................... 6
+
+4.4.1
+
+Schemasymbool ................................................................................................. 6
+
+4.4.2
+
+Inductie en zelfinductie .................................................................................... 6
+
+4.4.3
+
+Het op gang komen en eindigen van een stroom in een zelfinductie ............ 7
+
+4.4.4
+
+Wat bepaalt de zelfinductie van een spoel? ..................................................... 8
+
+4.5
+
+Condensatoren of spoelen samen met weerstanden; tijdconstante ........................ 9
+
+4.6
+
+Parallel- en serieschakeling van condensatoren en spoelen ................................. 10
+
+4.6.1
+
+Verschil tussen parallel- en serieschakeling .................................................. 10
+
+4.6.2
+
+Parallelschakeling van condensatoren ........................................................... 10
+
+4.6.3
+
+Serieschakeling van condensatoren ............................................................... 10
+
+4.6.4
+
+Parallelschakeling van spoelen ....................................................................... 11
+
+4.6.5
+
+Serieschakeling van spoelen ........................................................................... 11
+
+4.6.6
+
+Samenvattend overzicht ................................................................................. 12
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+4 Condensatoren en spoelen
+4.1 Overzicht van dit hoofdstuk
+Je maakt kennis met twee veelgebruikte componenten (onderdelen) die elektrische
+energie tijdelijk kunnen opslaan. Dat zijn condensatoren die dat doen in een elektrisch
+veld en spoelen die iets soortgelijks doen in een magnetisch veld. We beginnen daarom
+met elektrische en magnetische velden. Daarna volgen condensatoren en spoelen, wat er
+in een schakeling gebeurt als ze elektrische energie ‘stallen’ in een elektrisch,
+respectievelijk magnetisch veld en als die velden terug worden omgezet naar elektrische
+energie. Vervolgens komen combinaties met weerstanden aan de beurt. Daarbij gaat het
+om het opbouwen en uitdoven van spanningen en stromen. We sluiten af met het bepalen
+van vervangende waarden voor parallel en in serie geschakelde condensatoren en spoelen.
+
+4.2 Elektrische en magnetische velden
+4.2.1 Elektrische velden
+Een elektrisch veld is het krachtveld tussen elektrische ladingen. Ladingen kunnen
+positief of negatief zijn. Positieve lading betekent minder elektronen dan protonen,
+negatieve lading meer elektronen dan protonen.
+Tegengestelde ladingen trekken elkaar aan, gelijksoortige ladingen stoten elkaar af. De
+kracht van afstoting is dezelfde bij twee even grote positieve of negatieve ladingen en
+gelijke onderlinge afstand dezelfde. Bij punt- of bolvormige ladingen is de kracht in alle
+richtingen even groot en omgekeerd evenredig met het kwadraat van de afstand: afstand
+2x zo groot, kracht 4x zo klein. Voor de aantrekkingskracht tussen tegengestelde ladingen
+geldt dat ook. Lading heeft symbool Q; de eenheid is de coulomb, symbool C.
+Een elektrisch veld bevat energie. Door elkaar onderling afstotende ladingen te verbinden,
+bijvoorbeeld via een weerstand, loopt er even een stroom. Daarna is het ladingsverschil en
+is de weerstand iets warmer geworden. Dat bewijst dat het om energie gaat.
+De afstotings- of aantrekkingskracht in een elektrisch veld is evenredig met de elektrische
+veldsterkte 𝐸⃗ . De pijl geeft aan dat 𝐸⃗ een vectorgrootheid is. Een vectorgrootheid heeft
+naast een grootte ook een richting. De eenheid is Vm-1, volt per meter dus. Bij een
+potentiaalverschil U over een klein afstandje d geldt:
+𝐸⃗ =
+
+𝑈
+𝑑
+
+( 4.2-1)
+
+In de praktijk wordt de pijl vaak achterwege gelaten, vooral als de richting van het veld
+toch wel duidelijk of niet van belang is. Een elektrisch veld heeft veldlijnen, de route die
+een puntlading zou volgen van of naar een lading die het veld veroorzaakt. Veldlijnen zijn
+daarom eigenlijk stroomlijnen. Het aantal veldlijnen in een elektrisch veld is oneindig.
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+Soms moeten elektrische velden worden afgeschermd, bijvoorbeeld als een deel van een
+schakeling een ander deel niet via het veld mag beïnvloeden. Afscherming wordt bereikt
+door tussen de delen die elkaar niet mogen ‘zien’, een elektrisch geleidend scherm te
+plaatsen en dat met een vaste spanning als aarde of massa te verbinden. Dat scherm kan
+een plaatje metaal tussen beide delen zijn. Het deel dat niet mag storen of worden
+gestoord, kan ook in zijn geheel worden ingeblikt, zoals dat vaak wordt genoemd.
+4.2.2 Magnetische velden
+Een magnetisch veld is de invloedssfeer van een magneet. In theorie is dat veld oneindig
+groot. Magneten kunnen permanent of tijdelijk zijn. Permanente magneten zijn altijd
+magnetisch; tijdelijke magneten hebben daar een elektrische stroom voor nodig.
+Een magnetisch en een elektrisch veld verschillen niet van vorm. Bij een magnetisch veld
+hebben we het niet over positief en negatief maar over noord en zuid. Een magneet heeft
+polen, Gelijke polen stoten elkaar af en ongelijke polen elkaar aan. Het filmpje over
+aantrekken en afstoten laat het zien. Met de kracht van aantrekking en afstoting gaat het
+net als in een elektrisch veld: afstand 2x zo groot, kracht 4x zo klein.
+Een magnetisch veld kan worden gebundeld door materiaal dat het veld goed geleidt.
+Zulk materiaal heeft een hoge magnetische permeabiliteit. Voorbeelden zijn ijzer, nikkel,
+ferriet of een permeabel mineraal (bv. magnetiet). Het filmpje over magnetische
+permeabiliteit laat het verschijnsel zien.
+Een magnetisch veld heeft net als een elektrisch veld veldlijnen en op elke plaats een
+sterkte (veldsterkte) en een richting. Een kompasnaald neemt de richting aan van de
+veldlijn ter plaatse. De vorm van een magnetisch veld is in het filmpje daarover te zien.
+Een stroomvoerende geleider heeft een magnetisch veld rondom zich. Dit geeft aan dat
+zo’n veld verband houdt met stroom. Een elektrisch veld houdt verband met spanning.
+De veldlijnen van het magnetisch veld van een stroomvoerende draad liggen als cirkels
+rond de draad. Keert de stroom om, dan keert ook het veld om. Dat is te zien in het
+filmpje over de omkering van stroom en het bijbehorende magnetische veld.
+Een sterker magnetisch veld dan met een draad bij dezelfde stroomsterkte maak je met
+een spoel. Een spoel is eigenlijk een herhaling van steeds dezelfde draad. Een spoel
+rondom een magnetisch permeabel materiaal maakt een nog sterker magnetisch veld. Dat
+is te zien in het filmpje over elektromagnetisme.
+Magnetische veldsterkte heeft net als elektrische veldsterkte een richting en een grootte.
+Het is dus ook een vectorgrootheid. Het gebruikelijke symbool voor magnetische
+veldsterkte is ⃗⃗⃗⃗
+𝐻. Ook hier laten we in de praktijk de pijl vaak weg, dus H. De eenheid is
+A/m, ampère per meter. Dat geeft aan dat een magnetisch veld samenhangt met stroom.
+Afscherming van magnetische velden wordt toegepast om dezelfde reden als afscherming
+van elektrische velden. Het gaat op een vergelijkbare manier, maar een goede elektrische
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+afscherming is niet automatisch ook een goede magnetische afscherming. Voor een
+magnetische afscherming is materiaal met een hoge magnetische permeabiliteit nodig.
+Daarvoor bestaan speciale metaallegeringen (mengsels) die bekend staan onder de naam
+mu-metaal. Meer informatie vind je op https://nl.wikipedia.org/wiki/Mumetaal. Mumetaal is ook elektrisch geleidend en schermt dus ook elektrische velden redelijk af.
+Ferrieten zijn in principe ook bruikbaar voor magnetische afscherming. Ze zijn niet
+elektrisch geleidend en schermen elektrische velden dus niet af.
+
+4.3 Condensatoren
+4.3.1 Opbouw en schemasymbool
+Een condensator slaat energie op in een elektrisch veld. Dat veld zit tussen twee platen
+Tussen die platen zit een isolator, het diëlektricum. De opbouw zien we terug in de
+verschillende schemasymbolen voor condensatoren (Figuur 4.3-1).
+
+Figuur 4.3-1. Schemasymbolen voor condensatoren. 1: vaste condensator; 2: variabele condensator; 3:
+instelbare condensator (trimcondensator of trimmer) 4: elektrolytische condensator (elco), oud symbool; 5:
+elektrolytische condensator (elco), modern symbool.
+
+De elektrolytische condensator heeft een + en een – aansluiting. Het diëlektricum ontstaat
+uit een elektrochemische reactie. Verkeerd om aansluiten vernielt het.
+Het elektrische veld blijft in stand zolang er een spanning U tussen de platen is. De
+richting van het veld is loodrecht op de platen. Als de afstand tussen de platen d is, geldt
+voor de elektrische veldsterkte E (zonder pijl boven de E, want de richting is overal gelijk)
+𝐸=
+
+𝑈
+𝑑
+
+(4.3-1)
+
+4.3.2 Een condensator opladen uit een spannings- of stroombron
+Als een ongeladen condensator met een stroomsterkte I wordt opgeladen uit een
+stroombron, loopt de lading Q evenredig op met de oplaadtijd t. Er geldt:
+𝑄 = 𝐼𝑡
+
+(4.3-2)
+
+De spanning U is evenredig met de lading Q en omgekeerd evenredig met de capaciteit C:
+𝑈=
+
+𝑄
+wat hetzelfde is als 𝑄 = 𝑈𝐶
+𝐶
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+4
+
+(4.3-3)
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+Een condensator die wordt opgeladen uit een spanningsbron neemt letterlijk ‘in no time’
+de spanning van de bron over als de weerstand tussen bron en condensator 0 is en de bron
+een oneindig grote stroom kan leveren. In de praktijk wordt aan geen van beide
+voorwaarden voldaan. Het duurt dus altijd even, voordat de condensator is opgeladen.
+4.3.3 De eenheid van capaciteit
+Bij een condensator is de capaciteit C de evenredigheidsfactor tussen lading en spanning,
+zie vergelijking (4.3-3). Capaciteit wordt uitgedrukt in farad. De farad F is C/V (= CV-1). In
+woorden: een condensator van 1 F heeft bij een spanning van 1 V een lading van 1 C. Let
+op het verschil in schrijfwijze tussen de C voor capaciteit (4.3-4) en de C voor coulomb.
+De afkorting voor condensator in schema’s is meestal ook C. Rechtop, want een
+condensator is een ding en geen grootheid. Wordt het symbool als grootheid opgevat, dan
+wordt het C.
+4.3.4 Waarvan hangt de capaciteit van een condensator af?
+De capaciteit C van een condensator hangt af van
+-
+
+De oppervlakte A van de platen (eenheid: cm2)
+De afstand d tussen de platen (eenheid: cm)
+De relatieve diëlektrische constante r. (de Griekse letter  heet ‘epsilon’)
+𝐶 = 0,0885𝜀𝑟
+
+𝐴
+𝑑
+
+(4.3-4)
+
+Let op!! C is hier in pF!.
+Het verband dat (4.3-4) weergeeft, is examenstof. Het getal 0,0885 niet. Dat een n maal zo
+grote relatieve diëlektrische constante r leidt tot een n maal zo grote capaciteit, weer wel.
+Een moderner woord voor relatieve diëlektrische constante is relatieve permittiviteit.
+Relatief is hier ten opzichte van vacuüm ofwel luchtledig. De waarde van r geeft het
+aantal malen dat r groter is dan de  van luchtledig (symbool 0). Dat verklaart de
+vreemde constante 0,0885 in vergelijking (4.3-4). Voor vacuüm geldt 𝜀𝑟 = 1, net als
+(bijna) voor lucht. Voor de meeste vaste stoffen geldt een waarde tussen 1 en 10.
+4.3.5 Doorslagspanning
+Als de spanning over een condensator te groot wordt, dan ontstaat vonkoverslag. Er
+ontstaat dan een gat in het diëlektricum. Sommige soorten zijn zelfherstellend, de meeste
+niet. Op condensatoren is de maximale spanning vrijwel altijd aangegeven.
+4.3.6 Uitvoeringen van condensatoren
+Condensatoren kunnen verschillen in diëlektricum en opbouw. De verschillen bepalen in
+veel gevallen de toepassing. Condensatoren kunnen een vaste waarde hebben
+(schemasymbool 1 in Figuur 4.3-1) maar van sommige is de waarde binnen bepaalde
+grenzen instelbaar. De instelling kan éénmalig zijn (trimcondensatoren of trimmers, nr. 3
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+in Figuur 4.3-1) of permanent mogelijk (variabele condensatoren, nr. 2 in Figuur 4.3-1).
+Elco’s (zie 4.3.1) hebben een grote, maar onnauwkeurige capaciteit.
+
+4.4 Spoelen
+4.4.1 Schemasymbool
+In Figuur 4.4-1 staan een oud en een modern schemasymbool voor een spoel
+
+Figuur 4.4-1. Schemasymbool van een spoel. Boven: oud; onder: modern.
+
+4.4.2 Inductie en zelfinductie
+Stroom door een draad of spoel veroorzaakt een magnetisch veld. Elektromagnetisme heet
+dat. Zie (nogmaals) het filmpje elektromagnetisme. Een veranderend magnetisch veld
+rond een draad of door een spoel leidt tot een stroom. Dat heet inductie (filmpje inductie).
+Inschakelen van een stroom in een spoel betekent de opbouw van een magnetisch veld in
+en rondom de spoel. Als in dat veld nog een tweede spoel aanwezig is, veroorzaakt het
+veranderende veld daarin een stroom in tegengestelde richting (Figuur 4.4-2).
+
+Figuur 4.4-2. Twee spoelen; links met spanningsbron, schakelaar en weerstand, rechts met ampèremeter.
+
+Na het sluiten van de schakelaar S gaat er door de linker spoel een stroom lopen die een
+magnetisch veld veroorzaakt. Daardoor ontstaat een korte stroompiek I2 in tegengestelde
+richting in de rechter spoel. Die valt terug op 0, zodra de stroom in de linker spoel de
+sterkte bereikt die door de spanning van de bron links en de weerstand R wordt bepaald
+(Wet van Ohm, U=IR en I=U/R). De stroom I2 heet inductiestroom.
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+Omdat I2 de omgekeerde richting heeft van de stroom die hem veroorzaakt, werken I2 en
+spoel L2 de vorming van het magnetisch veld van spoel L1 en stroom I1 tegen.
+Als er maar één spoel is, zit die spoel midden in zijn eigen magnetisch veld. Als in de spoel
+een stroom ontstaat, bouwt die een magnetisch veld op. De opbouw van dat veld
+veroorzaakt een tegenstroom in de spoel. De netto stroom in de spoel is dan de som van
+twee tegengestelde stromen. Daardoor komt de stroom in de enkelvoudige spoel niet
+ineens, maar geleidelijk op gang.
+Ook dit is inductie, maar doordat de inductiestroom als tegenstroom in dezelfde spoel
+loopt als de stroom die het magnetisch veld veroorzaakt, heet dit verschijnsel zelfinductie.
+Een stroomverandering in een zelfinductie werkt zichzelf tegen. Dat zegt de wet van
+Lenz. Zie (bijvoorbeeld): https://nl.wikipedia.org/wiki/Wet_van_Lenz.
+4.4.3 Het op gang komen en eindigen van een stroom in een zelfinductie
+Figuur 4.4-3 toont de gang van zaken voor een spanningsbron (plaatje 1) en een
+stroombron (plaatje 2). Alle onderdelen zijn ideaal verondersteld. Nergens is weerstand.
+
+Figuur 4.4-3. Op gang komen en stoppen van stroom door een zelfinductie (spoel), gevoed door een
+spanningsbron (1) en door een stroombron (2). De groene lijmen geven het verloop van de stroom, de rode
+dat van de spanning. Het rode bliksemsymbool geeft aan dat in de schakelaar vonkvorming kan optreden.
+
+Eerst plaatje 1. Op tijdstip 1 op de horizontale as wordt schakelaar S gesloten. Spoel en
+spanningsbron zijn nu verbonden. De bronspanning is U, de zelfinductie van de spoel L.
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+Na het sluiten van de schakelaar S neemt de stroom I door de spoel evenredig toe met de
+tijd t . Dat is de schuine groene lijn in de grafiek.
+𝐼=
+
+𝑈𝑡
+𝐿
+
+(4.4-1)
+
+De eenheid van zelfinductie is de henry (H). In een spoel van 1 H loopt bij een spanning
+van 1 V de stroom met 1 A/s op. Hoe groter L, des te trager de toename van I.
+Wordt S weer geopend (punt 3 op de tijdas), dan moet met de energie in het gevormde
+magnetische veld iets gebeuren, want zonder stroom geen magnetisch veld. Er ontstaat
+dan heel kort een hoge spanning tussen de schakelcontacten. Dat gaat doorgaans gepaard
+met vonkvorming. Vandaar het bliksemsymbool in de figuur.
+De start van de stroom in plaatje 2 van Figuur 4.4-3 vraagt wat toelichting. Een
+theoretische stroombron maakt desnoods een oneindig hoge spanning on de stroom te
+realiseren, vandaar de pijl omhoog voor de beginspanning in de grafiek. Zonder vonk in
+de schakelaar. Die is gesloten en er staat dus geen spanning over. De stroom is dan (in
+theorie) meteen gelijk aan de ingestelde stroom van de bron. Een stroombron in de echte
+wereld levert die spanning natuurlijk niet en gaat niet hoger dan zijn schakeling en
+bijbehorende voedingsspanning toelaten. Het op gang komen van de stroom neemt dan
+wat meer tijd dan 0 s. Bij weer openen van de schakelaar gebeurt hetzelfde als in plaatje 1.
+4.4.4 Wat bepaalt de zelfinductie van een spoel?
+De zelfinductie L van een spoel hangt af van
+-
+
+Het aantal windingen n
+De dwarsdoorsnede A van de spoel (cm2)
+De bewikkelde lengte l van de spoel (cm)
+De relatieve magnetische permeabiliteit r van het kernmateriaal
+
+De magnetische permeabiliteit wordt meestal gegeven als de relatieve permeabiliteit r.
+Ook deze grootheid is, net als de relatieve diëlektrische constante, genomen ten opzichte
+van luchtledig (vacuüm). De permeabiliteit van vacuüm heeft symbool 0. De
+permeabiliteit van lucht is bijna gelijk aan die van vacuüm. Voor lucht geldt dus 𝜇𝑟 ≈ 1.
+Een vergelijking die voor spoelen met één wikkellaag bij benadering geldt, is
+𝜇0 𝜇𝑟 𝑛 2 𝐴
+𝐿=
+𝑙
+
+( 4.4-2)
+
+De zelfinductie L is in H. In tegenstelling tot de vergelijking voor capaciteit komt in
+vergelijking ( 4.4-2) geen lastig getal voor. Let vooral op het kwadraat van n, l die in de
+noemer staat en het gebruik van doorsnede A en dus niet de diameter D. Deze vergelijking
+geldt voor spoelen waarvan de lengte heel groot is ten opzichte van de dikte.
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+4.5 Condensatoren of spoelen samen met weerstanden; tijdconstante
+In veel schakelingen komen condensatoren samen met een weerstand voor. Wat minder
+vaak zien we ook zelfinducties samen met een weerstand. Van belang is daarbij hoe snel
+een condensator zich op- of ontlaadt en hoe snel de stroom in de zelfinductie toeneemt of
+uitdooft. Al dit soort schakelingen heeft een tijdconstante, symbool de Griekse letter 
+(tau).
+Voor een RC-schakeling geldt
+
+ = 𝑅𝐶
+
+( 4.5-1)
+
+Het product RC is daadwerkelijk tijd. 1 F=1 s. Het opladen en ontladen van een
+condensator C via een weerstand R zien we hieronder in Figuur 4.5-1.
+
+Figuur 4.5-1. Opladen en ontladen van een condensator C via een weerstand R.
+
+Na inschakelen van de spanning (linkerdeel van Figuur 4.5-1) loopt de spanning op de
+condensator in RC seconden op tot afgerond 63% van de bronspanning U. Na een tijd van
+2RC is 63% van de resterende 37% overbrugd. Samen met de eerste 63% wordt dat 86,5%
+en zo gaat dat door. In theorie wordt de 100% nooit bereikt; in de praktijk gaan we ervan
+uit dat dit na 5RC (= 5) wel het geval is.
+Bij het ontladen gaat alles in omgekeerde richting (rechterdeel van Figuur 4.5-1). Ook de
+stroomrichting keert om, want C wordt nu ontladen. Omdat er geen bron aan te pas komt,
+maar een opgeladen condensator, gebruiken we als symbool voor de beginspanning U0. De
+0 staat voor tijdstip 0. Na 1 RC is 63% van U0 verdwenen. Er is dus nog 37% over. Na 2RC
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+is van de resterende 37% weer 63% verdwenen. Je kunt ook zeggen dat er dan nog 37%
+van 37%, dat is 13,5%, over is en zo vervolgens. Ook hier mag je er in de praktijk van
+uitgaan dat na 5RC (= 5) de condensator volledig ontladen is.
+Bij een RL-schakeling gebeurt ongeveer hetzelfde, alleen is het dan de stroom die op gang
+komt en vervolgens weer uitdooft. Voor  geldt bij een RL-schakeling
+
+=
+
+𝐿
+𝑅
+
+( 4.5-2)
+
+Dus H/ = s. De opbouw- en uitdovingsgrafieken zien er precies zo uit als die in Figuur
+4.5-1, alleen staat er op de verticale as stroom in plaats van spanning. De maximale stroom
+wordt bepaald door de weerstand R en de bronspanning U, dus Imax=U/R.
+
+4.6 Parallel- en serieschakeling van condensatoren en spoelen
+4.6.1 Verschil tussen parallel- en serieschakeling
+Bij parallelschakeling is de spanning gemeenschappelijk, bij serieschakeling de stroom.
+Voor elke schakeling is met dat uitgangspunt de vergelijking voor de vervangende
+condensator- of spoelwaarde te bepalen. We geven hier alleen de uitkomsten; die zijn
+voor het zendexamen voldoende.
+4.6.2 Parallelschakeling van condensatoren
+
+Figuur 4.6-1. Parallelschakeling van condensatoren
+
+De vergelijking voor de vervangingswaarde Ctot is
+𝐶𝑡𝑜𝑡 = 𝐶1 + 𝐶2 + 𝐶3 + ⋯ + 𝐶𝑛
+
+( 4.6-1)
+
+Tel alle capaciteiten bij elkaar op en je vindt de vervangingswaarde. Het eindresultaat is
+groter dan de grootste capaciteit in het rijtje.
+4.6.3 Serieschakeling van condensatoren
+
+Figuur 4.6-2. Serieschakeling van condensatoren
+
+De vergelijking voor de vervangingswaarde Ctot is
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+10
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+1
+1
+1
+1
+1
+= + + + ⋯+
+𝐶𝑡𝑜𝑡 𝐶1 𝐶2 𝐶3
+𝐶𝑛
+
+( 4.6-2)
+
+Je vindt de omgekeerde waarde van de vervangingswaarde Ctot door de omgekeerde
+waarden van alle capaciteiten bij elkaar op te tellen. Ctot is kleiner dan de kleinste
+capaciteit in het rijtje.
+4.6.4 Parallelschakeling van spoelen
+
+Figuur 4.6-3. Parallelschakeling van onderling afgeschermde spoelen (met vonkblusdiode)
+
+De berekening geldt alleen voor parallel geschakelde spoelen die elkaar niet mogen
+beïnvloeden. Ze mogen elkaar niet ‘zien’; dat is: ze mogen niet binnen (een deel van)
+elkaars veld liggen. Vandaar de afschermingen in Figuur 4.6-3. De berekening is
+onafhankelijk van de vonkblusdiode. Meer over diodes komt in hoofdstuk 7.
+De vergelijking voor de vervangingswaarde Ltot is:
+1
+𝐿𝑡𝑜𝑡
+
+=
+
+1
+1
+1
+1
++ + + ⋯+
+𝐿1 𝐿2 𝐿3
+𝐿𝑛
+
+( 4.6-3)
+
+De vergelijking voor parallel geschakelde spoelen is dezelfde als die voor in serie
+geschakelde condensatoren. Ltot is kleiner dan de kleinste zelfinductie in het rijtje.
+4.6.5 Serieschakeling van spoelen
+
+Figuur 4.6-4. Serieschakeling van onderling afgeschermde spoelen (met vonkblusdiode)
+
+Ook hier geldt de berekening alleen voor spoelen die elkaar niet ‘zien’, vandaar de
+afscherming. De diode heeft geen functie in de vergelijking. Die luidt:
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+11
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 4 verkorte tekst 20250724
+
+𝐿𝑡𝑜𝑡 = 𝐿1 + 𝐿2 + 𝐿3 + ⋯ + 𝐿𝑛
+
+( 4.6-4)
+
+De vergelijking voor in serie geschakelde spoelen is dus dezelfde als die voor parallel
+geschakelde condensatoren. Ltot is groter dan de grootste zelfinductie in het rijtje.
+4.6.6 Samenvattend overzicht
+Tabel 4.6-1 geeft een overzicht van de vergelijkingen voor parallel- en serieschakeling.
+Om alles compleet te maken zijn ook de vergelijkingen voor serie- en parallelschakeling
+van weerstanden opgenomen.
+Tabel 4.6-1. Overzicht van vergelijkingen voor de vervangingswaarde bij parallel- en serieschakeling van
+weerstanden, condensatoren en spoelen. De stof voor weerstanden is behandeld in Hoofdstuk 3.
+
+Soort
+schakeling
+
+Weerstand R
+
+Serie
+
+𝑅𝑡𝑜𝑡 = 𝑅1 + ⋯ + 𝑅𝑛
+
+1
+1
+1
+= + ⋯+
+𝐶𝑡𝑜𝑡 𝐶1
+𝐶𝑛
+
+𝐿𝑡𝑜𝑡 = 𝐿1 + ⋯ + 𝐿𝑛
+
+Parallel
+
+1
+1
+1
+=
++ ⋯+
+𝑅𝑡𝑜𝑡 𝑅1
+𝑅𝑛
+
+𝐶𝑡𝑜𝑡 = 𝐶1 + ⋯ + 𝐶𝑛
+
+1
+
+©2021-2025 Vereniging van radiozendamateurs VRZA
+
+Capaciteit C
+
+Zelfinductie L
+
+𝐿𝑡𝑜𝑡
+
+12
+
+=
+
+1
+1
++ ⋯+
+𝐿1
+𝐿𝑛
+
+

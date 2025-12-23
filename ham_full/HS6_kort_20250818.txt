@@ -1,0 +1,480 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+Inhoudsopgave
+6
+
+Transformatoren en de opbouw van spoelen .................................................................. 2
+6.1
+
+Wat leer je in dit hoofdstuk ...................................................................................... 2
+
+6.2
+
+Opbouw van transformatoren, schemasymbool ...................................................... 2
+
+6.3
+
+Werking ..................................................................................................................... 4
+
+6.3.1
+
+Transformeren van spanning en stroom .......................................................... 4
+
+6.3.2
+
+Transformeren van impedanties ....................................................................... 5
+
+6.4
+
+Faseverschil en serieschakeling van transformatoren ............................................. 6
+
+6.5
+
+Transformatoren met aftakkingen: de autotransformator ...................................... 6
+
+6.6
+
+Nullaststroom, de smoorspoel................................................................................... 7
+
+6.7
+
+Verliezen in trafo’s .................................................................................................... 8
+
+6.8
+
+Transformatoren en spoelen voor hoge frequenties (HF) ....................................... 8
+
+6.8.1
+
+Overeenkomsten en verschillen met LF .......................................................... 8
+
+6.8.2
+
+Afscherming van HF-spoelen en transformatoren .......................................... 9
+
+6.8.3
+
+Afgestemde kringen ........................................................................................ 10
+
+6.9
+
+Het rekenwerk samengevat .................................................................................... 10
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+6 Transformatoren en de opbouw van spoelen
+6.1 Wat leer je in dit hoofdstuk
+Je maakt kennis met de opbouw, de werking en de toepassing van transformatoren voor
+lage frequenties (LF), zoals die voor stroomafname van het lichtnet, maar ook met spoelen
+en transformatoren voor hogere frequenties. Eerst bespreken we de werkingsprincipes van
+transformatoren voor laagfrequente wisselspanningen en -stromen. Daarna volgen
+toepassingen voor hogere frequenties.
+Een transformator transformeert wisselspanningen en –stromen tot hogere of lagere
+spanningen en tot kleinere of grotere stromen door middel van een magnetisch veld. We
+hebben het ook over smoorspoelen en hun reactantie (schijnbare weerstand) tegen
+wisselstroom. Transformatoren en spoelen zijn wat opbouw betreft sterk verwant. Net als
+voor de werkingsprincipes geldt dat voor transformatoren en spoelen voor lage èn hoge
+frequenties. De natuurkundige principes van beide zijn dezelfde, maar de bijbehorende
+technieken niet. Daarom hebben ze in dit hoofdstuk een eigen plek gekregen.
+
+6.2 Opbouw van transformatoren, schemasymbool
+De werking van een transformator is gebaseerd op koppeling van spoelen via een
+magnetisch veld, inductie. Als een spoel zich in een veranderend magnetisch veld
+bevindt, veroorzaakt dat een spanning over de spoel en als de uiteinden van de spoel zijn
+verbonden via iets dat geleidt, ook stroom.
+Verandering van een magnetisch veld kan veroorzaakt worden door een bewegende
+magneet, zoals in een dynamo. In een transformator wordt deze veroorzaakt door
+wisselstroom in een spoel. Daardoor wordt in een tweede spoel in hetzelfde magnetische
+veld spanning geïnduceerd en als de spoel is aangesloten op iets dat geleidt, ook stroom.
+Bij transformatoren heet een spoel wikkeling. Een wikkeling bestaat uit een (meestal
+groot) aantal windingen, maar ook wel eens uit één of zelfs een halve winding. De
+wikkeling die de verandering van het magnetisch veld veroorzaakt, heet de primaire
+wikkeling. De wikkeling(en) die daarop reageert/reageren, heet/heten de secundaire
+wikkeling(en). In een transformator vindt overdracht van energie plaats van de primaire
+wikkeling naar één of meer secundaire wikkelingen.
+Het belangrijkste bij het ontwerpen van een transformator is, te zorgen dat het
+magnetisch veld zo goed mogelijk binnen de spoelen blijft. Dan zijn de verliezen minimaal
+en de energieoverdracht maximaal. Bij een goede transformator loopt het veld vrijwel in
+zijn geheel door de kern. De wikkelingen liggen om de kern. De kern bestaat uit materiaal
+met een hoge magnetische permeabiliteit. Bij transformatoren voor lage frequenties zoals
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+die van het lichtnet (in Europa 50 Hz) is dat meestal weekijzer. Dat is ijzer dat zijn
+magnetisme razendsnel verliest als het veld dat het veroorzaakt, wegvalt. De term
+transformator wordt vaak afgekort tot trafo. De opbouw van een trafo is enigszins
+schematisch weergegeven in Figuur 6.2-1.
+
+Figuur 6.2-1. Opbouw van een transformator. De kern ligt niet alleen in, maar ook om de wikkelingen,
+zodat ook het deel van het veld buiten de wikkelingen van pool naar pool wordt geleid met weinig verliezen
+en zo het deel van het veld binnen de wikkelingen effectiever maakt.
+
+Het schemasymbool weerspiegelt de opbouw met een primaire en een secundaire
+wikkeling, kortweg de primaire en de secundaire. Je kunt er altijd aan aflezen hoe het zit
+met het aantal wikkelingen en hun eventuele aftakkingen (Figuur 6.2-2).
+
+Figuur 6.2-2. Schemasymbolen van een eenvoudige trafo zoals in Figuur 6.2-1 (links) en een wat
+ingewikkelder type (rechts). Het tweede type heeft twee primaire wikkelingen en een secundaire wikkeling
+met aftakkingen. De verticale getrokken lijnen stellen de ijzerkern voor.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+6.3 Werking
+6.3.1 Transformeren van spanning en stroom
+Een transformator werkt alleen voor wisselstroom, want gelijkstroom levert een constant
+magnetisch veld en een transformator moet het van een veranderend veld hebben. In
+theorie is een trafo dus geschikt om een onzuivere wisselstroom te ontdoen van zijn
+gelijkstroomdeel. Het is alleen oppassen dat het kernblik, zoals het weekijzer vaak wordt
+genoemd, door de gelijkstroom niet in verzadiging komt. Dat laatste houdt in dat boven
+een zekere magnetische veldsterkte de magnetische permeabiliteit van de kern afneemt.
+Dat gaat ten koste van de werking voor wisselstroom.
+Bij de ideale trafo gaat er bij een zuivere wisselstroom evenveel energie de primaire
+wikkeling in als er op de secundaire uitkomt. Over verliezen bij trafo’s in de werkelijke
+wereld zullen we het verderop hebben. Voorlopig houden we het bij de ideale trafo. Een
+goede ‘echte’ trafo komt daar redelijk dichtbij.
+We noemen het aantal windingen van een wikkeling N. Dan is N1 het aantal windingen
+op de primaire wikkeling en N2 dat op de secundaire. N1 en N2 bepalen de verhouding van
+de spanningen U1 over de primaire en U2 over de secundaire wikkeling volgens de
+transformatievergelijking voor de spanning:
+𝑈1 𝑈2
+𝑁2
+=
+→ 𝑈2 = 𝑈1
+𝑁1 𝑁2
+𝑁1
+
+en
+
+𝑈1 = 𝑈2
+
+𝑁1
+𝑁2
+
+( 6.3-1)
+
+Een getallenvoorbeeld
+Een primaire wikkeling telt 1000 windingen en een secundaire 250. Over de primaire
+staat een spanning van 100 V. Het aantal windingen van de secundaire is een kwart van
+het aantal primaire windingen. Dan is de spanning over de secundaire ook een kwart van
+de spanning over de primaire, dat is 25 V.
+Een ideale trafo geeft geen vermogensverlies. Dan moet de stroom door de secundaire dus
+niet 4x zo laag, maar 4x zo hoog zijn als die in de primaire. Dat brengt ons bij de
+transformatievergelijking voor de stroom. Daarin zijn de rollen van I1 en I2 verwisseld ten
+opzichte van die van U1 en U2 in vergelijking ( 6.3-1). I1 en I2 zijn de stromen in
+respectievelijk de primaire en de secundaire. Dus:
+𝐼2
+𝐼1
+=
+𝑁1 𝑁2
+
+→
+
+𝐼2 = 𝐼1
+
+𝑁1
+𝑁2
+
+en
+
+𝐼1 = 𝐼2
+
+𝑁2
+𝑁1
+
+( 6.3-2)
+
+Bij een ideale transformator gaat stroom in de primaire pas lopen als van de secundaire
+stroom wordt afgenomen. Daaruit volgt (om te onthouden):
+De spanning over de primaire wikkeling bepaalt de spanning over de secundaire. De
+stroomafname van de secundaire wikkeling bepaalt de stroom in de primaire.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+Een alternatieve rekenmethode
+Het is mogelijk, vergelijkingen ( 6.3-1) en ( 6.3-2) ogenschijnlijk te omzeilen.
+Ogenschijnlijk, omdat ze eigenlijk wel worden toegepast.
+We gebruiken daarbij de begrippen volt per winding (V/w) voor spanning en
+ampèrewinding (Aw) voor stroom. Let op! V/w is een deling, Aw een vermenigvuldiging.
+We passen daarvoor ons getallenvoorbeeld van 1000 windingen primair en 250 secundair
+weer toe.
+100 V op de primaire betekent 0,1 V/w. Die grootheid geldt ook voor de secundaire. Die
+heeft dan een spanning van 250 windingen maal 0,1 V/w is 25 V.
+Stel dat er 4 A door de secundaire loopt, dat is 4A*250 windingen is 1000Aw. Die 1000 Aw
+heeft ook betrekking op de primaire. Die heeft 1000 windingen. Terugrekenen door
+1000Aw te delen door 1000 windingen is 1 A.
+Beide uitkomsten kloppen met wat we eerder uit ( 6.3-1) en ( 6.3-2) kregen. Wie wil, mag
+proberen te achterhalen hoe deze vereenvoudiging wiskundig in elkaar zit.
+6.3.2 Transformeren van impedanties
+We weten nu dat een trafo stromen en spanningen op tegengestelde wijze transformeert.
+Dan kan het niet anders of impedanties worden óók getransformeerd. Anders kunnen een
+hogere stroom en een lagere spanning (of omgekeerd) niet samengaan met de natuurwet
+die zegt dat energie nooit uit het niets ontstaat of in het niets verdwijnt.
+In het getallenvoorbeeld van hiervoor transformeerden we 100V naar 25 V. We breiden
+het getallenvoorbeeld uit door aan te nemen dat we bij die 100 V een stroom van 1A
+hadden, dat is 100 W. Om hetzelfde vermogen van 100 W te behouden, moest bij 25V de
+stroom 4 A zijn. Als van de secundaire 1A wordt afgenomen, is de primaire stroom 0,25 A.
+Volgens de Wet van Ohm hebben we bij een spanning van 100V en een stroom van 1 A te
+maken met een impedantie van 100V/1A =100 . Bij 25V en 4 A wordt dat 25V/4A=
+6,25. Een transformatieverhouding voor de spanning van 4:1 leidt dus tot een
+transformatieverhouding voor de impedantie van 100:6,25 is 16:1. Die is het kwadraat van
+de wikkelverhouding van 4:1. Dat brengt ons tot de vergelijking voor de
+transformatieverhouding voor de impedantie:
+𝑍1 𝑁12
+𝑁1 2
+= 2=( )
+𝑍2 𝑁2
+𝑁2
+
+( 6.3-3)
+
+Een transformatieverhouding van bijvoorbeeld 3:1 voor de spanning betekent een
+transformatieverhouding van 1:3 voor de stroom en daardoor 1:9 voor de impedantie.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+6.4 Faseverschil en serieschakeling van transformatoren
+In een transformatorwikkeling zijn de spanningen aan de uiteinden in tegenfase. Dat is
+van belang als wikkelingen in serie worden gezet. Worden van twee gelijke wikkelingen
+de verkeerde uiteinden verbonden, dan is tussen de uiteinden van die schakeling van twee
+wikkelingen de spanning 0. Het kan erger: worden twee wikkelingen parallel geschakeld
+met de verkeerde fase, dan betekent dat kortsluiting met alle gevolgen van dien.
+In Figuur 6.4-1 zien we als voorbeeld twee transformatoren met de primaire wikkelingen
+in serie en de secundaire parallel. Wat onderling in fase is, of moet zijn, is aangegeven met
+een zwart rondje.
+Je zou hier kunnen denken aan twee transformatoren voor een elektriciteitsnet in de
+Verenigde Staten, waar de netspanning 110 V is, en die in Nederland worden toegepast.
+Het verschil van 110 V en 115 V per wikkeling zal zelden een probleem geven.
+
+115 V
+
+12 V
+
+230 V
+
+12 V
+12 V
+
+115 V
+
+Figuur 6.4-1. Twee transformatoren met hun primaire wikkelingen in serie en de secundaire wikkelingen
+parallel. De zwarte rondjes geven de aansluitingen aan die onderling in fase zijn.
+
+6.5 Transformatoren met aftakkingen: de autotransformator
+Een transformator kan aftakkingen op elke wikkeling hebben, elk voor een andere
+spanning. De autotrafo heeft maar één wikkeling met aftakking(en). Die wikkeling is dus
+tegelijk primaire en secundaire. Een eenvoudige vorm zien we in Figuur 6.5-1.
+
+Figuur 6.5-1. Autotransformator met twee aansluitpunten en één aftakking.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+Bij de autotrafo in Figuur 6.5-1 kan de primaire stroom lopen tussen de paren
+aansluitingen 1 en 2, 2 en 3 en tussen 1 en 3. De secundaire aansluiting bestaat dan uit één
+aansluiting van die paren en de overgebleven aansluiting. Op het eerste gezicht lijkt de
+autotrafo een prettig goedkope oplossing, maar er zijn bezwaren. Als die er niet zouden
+zijn, zou dit type trafo het meest van alle soorten transformatoren worden toegepast.
+Het kleinste bezwaar is dat bij een autotrafo een deel van de wikkeling tegelijk als
+primaire en als secundaire fungeert. Het gevolg is dat zowel de primaire als de secundaire
+stroom gezamenlijk door een deel van de totale wikkeling lopen. De wikkeling moet dan
+op de som van die stromen zijn ingericht.
+Een veel groter bezwaar is dat de uit een autotrafo gevoede schakeling een geleidende
+verbinding heeft met het lichtnet of daarvan, zoals dat heet, niet galvanisch is gescheiden.
+De autotrafo is daarom als voeding van schakelingen in huis een onveilige oplossing. Hij
+vindt wel toepassing in de hoogspanningstechniek en in hoogfrequente schakelingen..
+Een transformator met aftakkingen op de secundaire, waardoor daarvan verschillende
+wisselspanningen kunnen worden afgenomen, heeft alleen het bezwaar dat verschillende
+delen van een wikkeling ongelijke stromen voeren. Door het gemeenschappelijk deel van
+de secundaire loopt de som van de afgenomen stromen, zoals links in Figuur 6.5-2. De
+betere oplossing met afzonderlijke secundaire wikkelingen staat rechts in de figuur.
+
+Figuur 6.5-2. Secundaire wikkeling met aftakkingen (links) en met afzonderlijke wikkelingen (rechts)
+
+6.6 Nullaststroom, de smoorspoel
+In een ideale transformator voert de primaire geen stroom als de secundaire geen stroom
+levert. Dat zou betekenen dat de primaire een oneindig hoge impedantie heeft. Die bestaat
+niet. Dus loopt er door elke primaire wikkeling ook een (kleine) stroom als secundair geen
+stroom wordt afgenomen. Die stroom heet nullaststroom. De trafo werkt dan als
+smoorspoel. Het schemasymbool van de smoorspoel staat in Figuur 6.6-1. Het ziet eruit als
+dat van een halve trafo, één zonder secundaire wikkeling. En zo zitten smoorspoelen ook
+vrijwel altijd in elkaar.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+Figuur 6.6-1. Schemasymbool van een smoorspoel met ijzerkern.
+
+Een smoorspoel wordt hoofdzakelijk gebruikt om van een onzuivere wisselstroom het
+gelijkstroomdeel door te laten en het wisselstroomdeel zoveel mogelijk tegen te houden,
+dus te smoren. Dat is het omgekeerde van een trafo die alleen de wisselstroom doorgeeft.
+
+6.7 Verliezen in trafo’s
+Een trafo heeft drie soorten verliezen.
+Om te beginnen heeft het koperdraad, waarmee verreweg de meeste trafo’s zijn
+gewikkeld, weerstand, ook al is die klein. Verliezen door opwarming van het koperdraad
+heten heel toepasselijk koperverliezen.
+Het ijzer in de kern, ook wel het kernblik genoemd, is geleidend. We weten wat er
+gebeurt in een geleider die zich in een wisselend magnetisch veld bevindt: er gaat stroom
+lopen. In een transformator noemt men zulke stromen wervelstromen. Die worden
+tegengegaan door geen massief ijzer te gebruiken, maar op elkaar gestapelde lamellen. Die
+lamellen zijn onderling geïsoleerd door om en om een ijzerplaat en een dun blad isolerend
+materiaal te stapelen. Bij elke halve wisselstroomperiode wordt het ijzer een beetje
+gemagnetiseerd. Bij de volgende halve periode wordt die magnetisering ongedaan gemaakt
+en ontstaat een kleine magnetisering in de tegenovergestelde richting. Ook dat vraagt
+steeds een beetje energie. Dit verschijnsel heet hysteresis. Een 100% verliesvrije ijzerkern
+bestaat dus ook al niet. Daarom warmt een transformatorkern altijd op. De verliezen die
+hiermee gemoeid zijn, heten ijzerverliezen.
+De derde verliessoort ontstaat doordat een magnetisch veld wel grotendeels, maar nooit
+helemaal binnen de transformatorkern is te houden. Een klein deel van het veld
+verspreidt zich in zijn omgeving. Deze vorm staat bekend als spreidingsverliezen.
+
+6.8 Transformatoren en spoelen voor hoge frequenties (HF)
+6.8.1 Overeenkomsten en verschillen met LF
+Achter de werking van transformatoren voor lage frequenties zoals tot hier besproken en
+die voor hoge frequenties steekt dezelfde natuurkunde. Een verandering van de stroom
+door wikkeling A verandert een magnetisch veld, waardoor de stroom door wikkeling B
+verandert.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+Er zijn technische verschillen. De aantallen windingen bij HF zijn aanzienlijk kleiner, het
+materiaal voor kern en afscherming is anders. Bij heel hoge frequenties werkt een kern
+helemaal niet meer en is vaak ook het wikkeldraad anders. We gaan dat nader bekijken.
+Het aantal windingen. Een bepaalde waarde van de reactantie wordt bij hogere
+frequenties bij lagere zelfinductie bereikt. Lagere zelfinductie vraagt minder windingen.
+Het kernmateriaal. Kernmateriaal moet bij een gegeven frequentie een relatief hoge
+magnetische permeabiliteit hebben en een zo laag mogelijk elektrisch
+geleidingsvermogen. Dat laatste is hetzelfde als een zo hoog mogelijke soortelijke
+weerstand. Weekijzer voldoet niet aan die voorwaarde. Vandaar de onderling geïsoleerde
+lamellen bij een transformator voor netspanning. Bij hogere frequenties werken die niet
+goed meer. Van groot belang is ook dat weekijzer, zoals in transformatoren voor
+netspanning, zich magnetisch niet heel snel laat ompolen.
+Voor HF worden vaak ferrieten, poederijzerkernen of ijzercarbonylkernen gebruikt.
+Ferriet is keramisch materiaal, meestal met de een of andere ijzerverbinding, poederijzer
+is, zoals de naam zegt, verpoederd ijzer, maar samengehouden met een niet-geleidend
+bindmiddel. IJzercarbonyl is een chemische verbinding van ijzer, koolstof en zuurstof. Bij
+heel hoge frequenties werken ze geen van allen meer.
+Tot slot het wikkeldraad. Voor niet al te hoge frequenties wordt meestal massief
+koperdraad gebruikt. Het materiaal is bedekt met een dunne doorzichtige laklaag die als
+isolatie dient. Bij solderen moet die bij het draadeinde worden afgekrabd. Bij hogere
+frequenties maakt het huideffect, skin effect in het Engels, dat de draadweerstand
+toeneemt. Dat komt doordat bij toenemende frequentie de stroom steeds meer de
+buitenkant van de draad opzoekt. Dat geeft meer weerstand. Een middel daartegen is
+verzilveren van de draad. Het buitenste laagje is dan zilver. Dat geleidt beter dan koper.
+Een andere mogelijkheid is het gebruik van litzedraad. Dat bestaat uit een groot aantal
+onderling geïsoleerde dunne draadjes. Samen hebben die per lengte een groter oppervlak
+dan massief draad met dezelfde doorsnede als de litzedraadjes samen. Het gevolg bij hoge
+frequenties is een lagere weerstand dan bij gebruik van massief draad.
+6.8.2 Afscherming van HF-spoelen en transformatoren
+Afscherming is bedoeld om te voorkomen dat het ene deel van de schakeling het andere
+via zijn elektrisch en/of magnetisch veld beïnvloedt. Bij niet al te hoge frequenties kan de
+magnetische afscherming bestaan uit ferriet. Dat geleidt het magnetisch veld van de spoel
+en voorkomt zo dat een groot deel van het veld ruim buiten de spoel komt.
+Een gebruikelijke manier van afschermen bij hogere frequenties is een koperen of
+aluminium bus rondom de schakeling. Die is niet magnetisch geleidend, maar wel
+elektrisch. De bus is eigenlijk een kortgesloten “jasje” om de spoel. Daarin ontstaan onder
+invloed van het wisselende elektrische en magnetische veld stromen die de invloed van
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Verkorte tekst 20250818
+
+het veld buiten de bus tenietdoen. Zo’n “jasje” vermindert de zelfinductie doordat het
+magnetische veld minder ruimte krijgt.
+Een ringkern is een andere vorm van afscherming. In zo’n kern zit het magnetisch veld
+van de spoel vrijwel opgesloten, vooral doordat de kern geen uiteinde heeft. Ook dat
+beperkt het veld buiten de spoel.
+6.8.3 Afgestemde kringen
+De meeste spoelen voor HF-toepassingen zijn onderdeel van een afgestemde kring, maar
+ook smoorspoelen voor HF zijn algemeen. Inductief gekoppelde kringen die je ook
+afgestemde transformatoren kunt noemen, worden vrij algemeen toegepast.
+Terwille van de afstemming kan het gewenst zijn om de zelfinductie te regelen. Dat kan
+met een magnetisch permeabele kern van bijvoorbeeld poederijzer die met een
+schroefdraad in en uit de spoel kan worden gedraaid. Bij indraaien wordt de zelfinductie
+groter, bij uitdraaien kleiner. Bij heel hoge frequenties worden ook metalen en dus
+elektrisch geleidende kernen gebruikt. Die verlagen juist de zelfinductie bij indraaien
+door dezelfde oorzaak als een metalen afschermbus dat doet.
+
+6.9 Het rekenwerk samengevat
+Bij LF-transformatoren is de belangrijkste grootheid de wikkelverhouding, dat is de
+𝑁
+verhouding 1⁄𝑁 van het aantal primaire windingen N1 en het aantal secundaire
+2
+windingen N2.
+𝑈1
+⁄𝑈 van de primaire spanning U1 en de
+2
+secundaire spanning U2 gelijk aan de wikkelverhouding.
+Bij spanningstransformatie is de verhouding
+
+𝐼
+Bij stroomtransformatie is de verhouding 1⁄𝐼 van de primaire stroom I1 en de secundaire
+2
+
+stroom I2 gelijk aan het omgekeerde van de wikkelverhouding.
+𝑍1
+⁄𝑍 van de primaire impedantie Z1 en de
+2
+2
+𝑁
+secundaire impedantie Z2 gelijk aan het kwadraat ( 1⁄𝑁 ) van de wikkelverhouding.
+2
+Hetzelfde geldt voor de transformatie van weerstand en reactantie. Voor autotrafo’s
+gelden dezelfde regels als voor trafo’s met afzonderlijke primaire en secundaire
+wikkeling(en).
+Bij impedantietransformatie is de verhouding
+
+Bij HF-transformatoren “vervagen” de rekenregels door technische oorzaken: kleiner
+aantal windingen, huideffect en afnemende effectiviteit van kernmateriaal.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+10
+
+

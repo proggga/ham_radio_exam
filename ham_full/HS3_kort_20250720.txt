@@ -1,0 +1,1003 @@
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Inhoudsopgave
+3
+
+Lading, stroom, spanning en weerstand .................................................................... 3-2
+3.1
+
+Wat leer je in dit hoofdstuk?.............................................................................. 3-2
+
+3.2
+
+Elektrische lading en stroom ............................................................................. 3-2
+
+3.3
+
+Elektrische stroom, spanning, weerstand en vermogen .................................... 3-4
+
+3.3.1
+
+De technische stroomrichting .................................................................... 3-4
+
+3.3.2
+
+Spanning of elektrische potentiaal ............................................................. 3-4
+
+3.3.3
+
+Weerstand, wet van Ohm .......................................................................... 3-5
+
+3.3.4
+
+Stroom-spanningskarakteristiek: de wet van Ohm als grafiek ................... 3-6
+
+3.4
+
+Meten van spanning, stroom en weerstand ....................................................... 3-6
+
+3.5
+
+Energie en arbeid, vermogen en dissipatie ........................................................ 3-8
+
+3.6
+
+Uitvoeringsvormen van weerstanden ................................................................ 3-9
+
+3.6.1
+
+Vaste weerstanden ..................................................................................... 3-9
+
+3.6.2
+
+Thermistors .............................................................................................. 3-10
+
+3.6.3
+
+Variabele weerstanden ............................................................................. 3-11
+
+3.7
+
+Schakelingen van weerstanden ........................................................................ 3-11
+
+3.7.1
+
+Soorten schakelingen, wetten van Kirchhoff ........................................... 3-11
+
+3.7.2
+
+Serieschakeling van weerstanden............................................................. 3-13
+
+3.7.3
+
+Parallelschakeling van weerstanden ........................................................ 3-13
+
+3.7.4
+Een nuttige controle op de vervangingsweerstand bij serie- en
+parallelschakeling .................................................................................................... 3-14
+3.7.5
+
+Spanningsdelers ........................................................................................ 3-14
+
+3.7.6
+
+De potentiometer iets uitgebreider .......................................................... 3-16
+
+3.8
+
+Spannings- en stroombronnen, afzonderlijk en geschakeld ............................ 3-17
+
+3.8.1
+
+De bronnen............................................................................................... 3-17
+
+3.8.2
+
+De spanningsbron, EMK en klemspanning .............................................. 3-17
+
+3.8.3
+
+Hoeveel vermogen leveren een ideale en een niet-ideale bron? .............. 3-17
+
+3.8.4
+
+Schakelen van spanningsbronnen ............................................................ 3-19
+
+3.8.5
+
+Schakelen van stroombronnen ................................................................. 3-19
+
+3.8.6
+
+De capaciteit van een batterij of accu ....................................................... 3-20
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-1
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+3 Lading, stroom, spanning en weerstand
+3.1 Wat leer je in dit hoofdstuk?
+Dit hoofdstuk gaat over elektrische lading, stroom, spanning, weerstand en verbanden
+tussen die drie.
+We beginnen met elektrische stroom, geleiders en isolatoren. Dan komen spanning en
+weerstand en hoe je ze meet.
+Daarna behandelen we vermogen, arbeid (energie) en dissipatie (verbruik van vermogen).
+Dat deel wordt gevolgd door verschillende manieren van schakelen van weerstanden en
+de berekening van vervangingsweerstanden die is gebaseerd op twee behoudswetten.
+Tot slot bespreken we hoe je spannings- en stroombronnen in een schakeling opneemt en
+welke combinaties wel, niet, of alleen met beperkingen mogelijk zijn.
+
+3.2 Elektrische lading en stroom
+Stroom is verplaatsing van elektronen. Elektronen zijn onderdelen van atomen. Een
+elektron is de kleinst mogelijke elektrische lading. Die lading noemen we negatief.
+In atoomkernen zitten protonen en neutronen. Een proton heeft de kleinst mogelijke
+positieve lading. Een neutron heeft geen lading. Protonen en neutronen zijn even groot;
+de massa van een elektron is 0,0022 maal de massa van een proton.
+Gelijke ladingen stoten elkaar af en tegengestelde ladingen trekken elkaar aan. Een proton
+en een elektron hebben samen 0 lading. Dat noemen we elektrisch neutraal.
+Protonen zijn onderdeel van atoomkernen. Ze blijven in de atoomkern, doordat daarin
+ook ongeladen neutronen zitten die protonen aantrekken. Een atoomkern is dus positief
+geladen en trekt daardoor elektronen aan. Die draaien om de kern.
+Doordat elektronen elkaar afstoten, blijven ze in hun baan om hun atoomkern zover
+mogelijk bij elkaar uit de buurt. Wel zit er steeds een aantal op dezelfde afstand van de
+kern. Elektronen op gelijke afstand vormen een elektronenschil of kortweg schil. De
+binnenste schil is vol met twee elektronen, de daaropvolgende met 8 en de
+daaropvolgende met 18. Heel grote atomen hebben nog meer schillen. Als een schil
+elektronen bevat, is de schil daarbinnen vol. Enkele voorbeelden staan in Figuur 3.2-1. Ze
+zijn tweedimensionaal (plat) getekend. In werkelijkheid zijn ze driedimensionaal.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-2
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Figuur 3.2-1. Schematische voorbeelden van atoomkernen. Waterstof is het kleinst mogelijke atoom.
+
+Als een materiaal niet evenveel protonen als elektronen bevat, noemen we het elektrisch
+geladen. Zijn er meer elektronen dan protonen, dan is de lading negatief; zijn de protonen
+in de meerderheid, dan is de lading positief.
+Als de buitenste schil bijna leeg is, kunnen de elektronen gemakkelijk van het ene atoom
+naar het andere springen en weer verder naar het volgende. Dit verschijnsel heet
+geleiding. Een stof waarin geleiding gemakkelijk tot stand komt, heet een geleider.
+Alle metalen zijn geleiders. Vrijwel alle andere stoffen niet. Een bekende uitzondering is
+koolstof. Stoffen die niet geleiden heten isolatoren. Hoewel de ene geleider beter geleidt
+dan de andere en de ene isolator beter isoleert dan de andere, is er geen geleidelijke
+overgang tussen geleiders en isolatoren. Een stof geleidt of isoleert.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-3
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+3.3 Elektrische stroom, spanning, weerstand en vermogen
+3.3.1 De technische stroomrichting
+Elektrische stroom is verplaatsing van elektrische lading. De verplaatsing gaat altijd met
+elektronen. Als positieve lading zich verplaatst van A naar B, dan zijn het eigenlijk de
+negatief geladen elektronen die zich verplaatsen van B naar A. De technische
+stroomrichting is de richting waarin de positieve lading zich ‘verplaatst’. Elektronen
+verplaatsen zich tegen de technische stroomrichting in. Dit is een ongelukkige erfenis uit
+de tijd waarin men wel wist dat er ‘iets’ stroomde, maar niet wat het precies was.
+In de elektriciteitsleer wordt nagenoeg altijd uitgegaan van de technische stroomrichting,
+dus van plus naar min.
+De eenheid van lading is de coulomb, afgekort C. 1 C is de lading van 6,24*1018 protonen;
+-1 Coulomb is de lading van 6,24*1018 elektronen Het symbool voor de grootheid lading is
+Q. De eenheid van stroomsterkte is de ampère, afgekort A. Het symbool voor de grootheid
+stroom is I. Bij een stroom van 1A wordt elke seconde 1 C verplaatst. De vergelijking:
+𝑄 = 𝐼𝑡
+
+( 3.3-1)
+
+Dat kan ook worden geschreven als
+𝑄
+𝑄
+( 3.3-2)
+en 𝑡 =
+𝑡
+𝐼
+Figuur 3.3-1 toont hoe je vergelijking ( 3.3-1) omzet in de twee vergelijkingen van (
+3.3-2). De figuur is bruikbaar voor alle vergelijkingen, waarin één grootheid het product is
+van twee andere.
+𝐼=
+
+Figuur 3.3-1. Zo vind je de vergelijking om Q, I of t uit de andere twee grootheden te berekenen. Denk de te
+berekenen grootheid weg. De andere twee geven het rechterlid van de juiste vergelijking.
+
+3.3.2 Spanning of elektrische potentiaal
+Spanning is potentiaalverschil tussen twee punten. Potentiaal is energie per lading.
+Verderop zullen we de grootheid energie bespreken.
+Uit de eerste regel van deze sub-paragraaf blijkt dat spanning altijd een verschil is.
+Je kunt spanning bijvoorbeeld vergelijken met drukverschil tussen de binnen- en
+buitenkant van een opgeblazen en dichtgeknepen ballon. Als de ballon opengaat, stroomt
+lucht naar buiten, want binnen is de druk hoger dan buiten. Het drukverschil veroorzaakt
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-4
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+een luchtstroom. Potentiaalverschil (spanning) over een geleider veroorzaakt op
+vergelijkbare wijze een stroom van elektronen.
+De eenheid van spanning is de volt, symbool V. De grootheid spanning heeft U als
+symbool. Spanning meet je tussen twee punten, bijvoorbeeld de polen van een batterij.
+Stroom stroomt dus onder invloed van spanning. Bij een geleider gaat dat gemakkelijk, bij
+een isolator bijna niet. Als de spanning te groot wordt, kan stroom toch door een isolator
+lopen. Die is daarna meestal stuk. Doorslag heet dat. Een voorbeeld is de bliksem.
+3.3.3 Weerstand, wet van Ohm
+Stroom door een geleider wordt bepaald door de spanning over die geleider en de
+elektrische weerstand ervan. De eenheid is de Ohm, symbool  (omega). Het symbool
+voor de grootheid weerstand is R. Het verband tussen spanning U, stroom I en weerstand
+R staat bekend als de wet van Ohm:
+𝑈 = 𝐼𝑅
+
+( 3.3-3)
+
+Figuur 3.3-2 geeft een manier om uit twee van de grootheden in vergelijking ( 3.3-3) de
+derde te berekenen. Het gaat net als in Figuur 3.3-1.
+
+Figuur 3.3-2. Zo vind je de vergelijking om U, I of R uit de andere twee grootheden te berekenen. Denk de
+te berekenen grootheid weg. De andere twee geven het rechterlid van de juiste vergelijking.
+
+De weerstand van een stuk geleider, bijvoorbeeld een draad, een plaat of een blokje, hangt
+af van de vorm, de afmetingen en de soortelijke weerstand. Elk materiaal heeft zijn eigen
+soortelijke weerstand. Bij een isolator is die heel hoog, bij een geleider heel laag. De
+soortelijke weerstand is gevoelig voor temperatuur. Die gevoeligheid is afhankelijk van
+het materiaal. We bekijken Figuur 3.3-3.
+
+Figuur 3.3-3. Ronde geleider met doorsnede A en lengte L.
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-5
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Die stelt een ronde draad voor met een doorsnede A en lengte L. De weerstand in de
+tichting van L is evenredig met L en omgekeerd evenredig met de doorsnede A. Om de
+weerstand te kunnen berekenen, ontbreekt nog de soortelijke weerstand  (rho, spreek
+uit: ‘ro’), de Griekse letter r. De vergelijking:
+( 3.3-4)
+𝐿
+𝐴
+L gaat in m, A in m2, Als R in  wordt uitgedrukt, moet  worden uitgedrukt in m,
+anders komen we een lengte-eenheid te kort.
+
+𝑅=
+
+Let op het verschil tussen diameter en doorsnede. Diameter is de afstand tussen
+tegenoverliggende punten op de doorsnede van een ronde draad (Figuur 3.3-4).
+
+Figuur 3.3-4. Verschil tussen diameter D en doorsnede A en hoe je A berekent uit D.
+
+3.3.4 Stroom-spanningskarakteristiek: de wet van Ohm als grafiek
+Een grafische weergave van de wet van Ohm is de stroom-spanningskarakteristiek. Zet I
+uit op de verticale as en U op de horizontale. De grafiek wordt dan een rechte lijn. Voor
+elke waarde van R gaat die lijn onder een andere hoek omhoog. Een lage R leidt tot een
+steile lijn (snel oplopende stroom), een hoge R tot een vlakkere (langzaam oplopende
+stroom). Zie Figuur 3.3-5 hieronder.
+
+Figuur 3.3-5. Stroom-spanningskarakteristiek voor een lage en voor een hoge weerstand.
+
+3.4 Meten van spanning, stroom en weerstand
+We beginnen met enkele schemasymbolen (Figuur 3.4-1).
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-6
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Figuur 3.4-1. Enkele schemasymbolen.
+
+Spanning meet je tussen twee punten. Figuur 3.4-2 geeft drie voorbeelden.
+
+Figuur 3.4-2. Spanningsmeting. a) Spanning over R1; b) Spanning over R2; c) Spanning over de hele
+schakeling.
+
+Een voltmeter heeft een hoge weerstand ten opzichte van die van de schakeling.
+Stroom meet je in de stroomvoerende leiding, dus niet zoals spanning ten opzichte van
+een ander punt. In veel gevallen moet je de ampèremeter in de leiding opnemen. Als je
+geluk hebt, is een indirecte meting mogelijk, namelijk als er een bekende weerstand in de
+leiding zit. Meet de spanning over die weerstand met een voltmeter zoals aangegeven in
+Figuur 3.4-2 en reken de stroom uit met de wet van Ohm. Figuur 3.4-3 geeft drie
+voorbeelden van stroommeting door opnemen van de ampèremeter in de stroomvoerende
+leiding.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-7
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Figuur 3.4-3. Stroommeting. a) Stroom door R1; b) Stroom door R2; c) Stroom door de hele schakeling.
+
+Een ampèremeter heeft een lage weerstand ten opzichte van de schakeling.
+Voor het meten van weerstand meet je spanning over en stroom door de weerstand.
+Bereken vervolgens de weerstand met de wet van Ohm. Een multimeter geeft de
+weerstand zonder rekenwerk, omdat de afleesschaal daarvoor is aangepast. Je kunt de
+weerstand tijdens de meting niet in de schakeling laten zitten. Dan zou de meetstroom
+niet alleen door de weerstand lopen, maar door de hele schakeling. De weerstand moet er
+dus uit en wordt na de meting weer teruggeplaatst. Maar de meeste weerstanden hebben
+een kleurcode die de waarde aangeeft. Meten van een weerstand in een schakeling is dus
+zelden nodig, tenzij we denken dat hij stuk is. Figuur 3.4-4 toont de weerstandsmeting.
+
+Figuur 3.4-4. Weerstandsmeting
+
+De Brug van Wheatstone, ook een manier van weerstand meten, komt aan de orde bij de
+spanningsdelers. De verschillen tussen spannings-, stroom- en weerstandsmeting zijn
+samengevat in Tabel 3.4-1.
+Tabel 3.4-1. Verschillen tussen spannings-, stroom- en weerstndsmeting
+
+Meting
+
+Soort meter
+
+Spanning
+Stroom
+Weerstand
+
+Voltmeter
+Ampèremeter
+Ohmmeter
+
+Positie van het
+meetinstrument
+Over de schakeling
+In de schakeling
+Over de losse weerstand
+
+Inwendige weerstand
+Zeer hoog
+Zeer laag
+Niet aan de orde
+
+3.5 Energie en arbeid, vermogen en dissipatie
+Energie en arbeid betekenen hetzelfde. Het symbool is W (van het Engelse work). De SIeenheid is de joule, afgekort J.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-8
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Vermogen P is energie per tijd, dus J/s. De eenheid van vermogen is de watt, afgekort W.
+1 W is 1 J/s . Verwar die rechtopstaande W niet met de cursieveW van energie! Er geldt:
+( 3.5-1)
+
+𝑊 = 𝑃𝑡
+
+Arbeid is vermogen maal tijd. Vermogen is arbeid per tijd. 100 W=100 J/s en 100 J=100
+Ws. Nu naar stroom en spanning. Het SI-stelsel zit zo netjes in elkaar, dat
+( 3.5-2)
+
+𝑃 = 𝑈𝐼
+
+Alweer vergelijkingen waarin één grootheid het product is van twee andere. Geschikt
+voor de driehoekstruc die we al kennen van onder meer de wet van Ohm (Figuur 3.3-2).
+
+Figuur 3.5-1. Hulpje bij vergelijking ( 3.5-2)
+
+De driehoek voor vergelijking ( 3.5-1) kun je nu wel zelf invullen. We kunnen nu ook via
+de wet van Ohm de weerstand erbij betrekken.
+2
+
+𝑈 = 𝐼𝑅 𝑒𝑛 𝑃 = 𝑈𝐼 → 𝑃 = 𝐼𝑅. 𝐼 = 𝐼 𝑅
+
+( 3.5-3)
+
+En
+( 3.5-4)
+𝑈
+𝑈 𝑈2
+𝐼=
+𝑒𝑛 𝑃 = 𝑈𝐼 → 𝑃 = 𝑈. =
+𝑅
+𝑅
+𝑅
+Ook hiervoor is de driehoekstruc toepasbaar. Vergelijking ( 3.5-3) spreekt voor zichzelf;
+vergelijking ( 3.5-4) verbouw je eerst tot U 2=PR en dan werkt de truc ook. We zien hier
+dat het vermogen dat in een weerstand wordt omgezet in warmte, evenredig is met het
+kwadraat van de spanning U en ook met het kwadraat van de stroom I.
+
+Elke weerstand waar stroom doorheen loopt, wordt dus warm. Dat verschijnsel heet
+dissipatie. Een weerstand dissipeert vermogen. De term verbruiken in plaats van
+dissiperen is ook gangbaar. Onthoud ze dus beide.
+
+3.6 Uitvoeringsvormen van weerstanden
+3.6.1 Vaste weerstanden
+Vaste weerstanden hebben één waarde. Die ligt na hun fabricage vast. De belangrijkste
+typen zijn koolfilmweerstanden, metaalfilmweerstanden en draadgewonden weerstanden.
+Draadgewonden weerstanden zijn meestal bedoeld voor de wat hogere vermogens.
+Koolfilmweerstanden bestaan uit een baan koolstof die spiraalsgewijs om een keramisch
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-9
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+kokertje ligt. Metaalfilmweerstanden hebben net zo’n opbouw, maar de weerstandsbaan
+bestaat uit heel dun metaal.
+De waarde van kool- en metaalfilmweerstanden is meestal aangegeven in de vorm van een
+kleurcode, zelden in cijfers. De kleurcode bestaat uit vier of vijf gekleurde ringen. Die met
+vier ringen is het meest algemeen. Tabel 3.6-1 toont de kleuren en hun betekenis.
+Tabel 3.6-1. Kleurcode voor weerstanden met ezelsbrug om de betekenis van de kleuren te onthouden.
+
+Grijs
+
+Wit
+
+grijs
+
+weer
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+-
+
+-
+
+Ring 2
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+-
+
+-
+
+Ring 3
+
+100=1
+
+101
+
+102
+
+103
+
+104
+
+105
+
+106
+
+107
+
+-
+
+-
+
+10-2
+
+10-1
+
+Ring 41
+
+-
+
+±1%
+
+±2%
+
+-
+
+-
+
+±0,5%
+
+-
+
+-
+
+-
+
+-
+
+±10%
+
+±5%
+
+brengt
+
+rozen
+
+op
+
+Geel
+
+1
+
+Zij
+
+Rood
+
+Goud
+
+Violet
+vies
+
+Zilver
+
+Blauw
+
+Groen
+
+Oranje
+
+bij
+
+-
+
+Ezelsbrug
+
+Bruin
+
+Zwart
+
+graf
+
+Ring 1
+
+Kleur
+
+Gerrits
+
+Een voorbeeld: Een weerstand heeft opeenvolgende ringen van groen, blauw, oranje en
+goud. Groen is 5, blauw 6, oranje 3 nullen en goud een tolerantie van 5%. De
+tolerantiegrenzen zijn dan 56 k ± 5%, dat is 56 k + 280  en 56 k - 280 .
+Weerstanden zijn temperatuurafhankelijk. Bij metaal is de temperatuurcoëfficiënt positief.
+Dan loopt de weerstand bij stijgende temperatuur iets op. Koolweerstanden gedragen zich
+omgekeerd: hun weerstand daalt bij stijgende temperatuur. Het effect is bij normale
+werktemperaturen klein, dus zelden van belang.
+3.6.2 Thermistors
+
+Figuur 3.6-1. Weerstand, temperatuur en temperatuurcoëfficiënt van thermistors.
+
+Figuur 3.6-1 toont het gedrag van weerstanden die met opzet zó zijn gemaakt, dat hun
+weerstand flink verandert bij stijgende of dalende temperatuur. Ze heten thermistors. We
+1
+
+Als ring 4 ontbreekt, is de tolerantie 20%.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-10
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+kennen PTC en NTC-thermistors. PTC staat voor Positieve TemperatuurCoëfficiënt, NTC
+van Negatieve TemperatuurCoëfficient. Hun schemasymbolen staan in Figuur 3.6-2.
+3.6.3 Variabele weerstanden
+Van variabele weerstanden kun je de waarde instellen. Het zijn weerstanden met een
+instelbare aftakking. Meestal zijn er drie uiteinden: de twee ‘normale’ aansluitingen van
+een weerstand en één daartussen. Als alle drie de aansluitingen worden gebruikt, spreekt
+men van een potentiometer of kortweg potmeter. Een potentiometer dient om in een
+schakeling een spanning in te stellen. Dat instellen kan éénmalig zijn. Dan spreken we
+over een instel- of trimpotentiometer. Het kan ook de bedoeling zijn om de werking van
+een schakeling voortdurend te kunnen beïnvloeden. Hoe dat precies werkt, zien we bij
+het schakelen van weerstanden (paragraaf 3.7). De schemasymbolen staan in Figuur 3.6-2.
+
+Figuur 3.6-2. Schemasymbolen voor potentiometer, variabele weerstand en thermistors. Bij de
+potentiometer is de lijn met de pijl het schuifcontact.
+
+3.7 Schakelingen van weerstanden
+3.7.1 Soorten schakelingen, wetten van Kirchhoff
+Weerstanden kunnen in serie of parallel worden geschakeld. In serie betekent: kop aan
+staart. Parallel betekent naast elkaar, dus kop aan kop, staart aan staart. Bij serieschakeling
+loopt door de seriegeschakelde weerstanden dezelfde stroom, bij parallelschakeling staat
+over de parallel geschakelde weerstanden dezelfde spanning. Dit uitgangspunt hebben we
+nodig als we bij een schakeling de wet van Ohm willen toepassen.
+Daarbij gebruiken we de wetten van Kirchhoff. Er zijn er twee, de eerste en de tweede
+wet van Kirchhoff. De eerste wet van Kirchhoff gaat over stroom. Hij luidt: “een
+knooppunt van een elektrisch netwerk ontvangt evenveel stroom als eruit gaat”. Figuur
+3.7-1 geeft zo’n knooppunt weer. Via de rode takken loopt evenveel stroom het
+knooppunt in als er via de blauwe takken uitloopt.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-11
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Figuur 3.7-1. Stroomknooppunt met vijf takken. De stromen naar het knooppunt zijn rood, die van het
+knooppunt af zijn blauw.
+
+Je kunt de eerste wet van Kirchhoff heel goed de “wet van behoud van stroom” noemen.
+Hij heet dan ook wel de Stroomwet van Kirchhoff.
+Bij een stroomwet hoort een spanningswet. Dat is de tweede wet van Kirchhoff. Die
+bekijken we aan de hand van Figuur 3.7-2.
+
+Figuur 3.7-2. Kring met batterij en twee weerstanden.
+
+De batterij levert een spanning Ub. De pluskant van de batterij zit rechts. Over weerstand
+R1 staat spanning U1. De spanning op de rechter aansluiting van de weerstand is lager dan
+die op de linker. Dan is de linkerkant de ‘pluskant’ van de weerstand. Hetzelfde geldt voor
+R2 waar spanning U2 overheen staat. De polariteit over de weerstanden is dus andersom
+vergeleken met de batterij. Samen zijn U1 en U2 even groot als Ub, maar hun polariteit is
+tegengesteld aan die van Ub. De som van de drie spanningen is dus inderdaad 0. Er komt
+nergens stiekem een millivoltje bij en er gaat nergens ééntje vanaf. De “wet van behoud
+van spanning” dus.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-12
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+3.7.2 Serieschakeling van weerstanden
+
+Figuur 3.7-3. Serieschakeling van drie weerstanden.
+
+De weerstanden in Figuur 3.7-3 staan in serie. De stroom I wordt bepaald door de
+spanning U en de drie weerstanden. Dezelfde stroom loopt door alle drie de weerstanden.
+In en tussen de weerstanden komt er niets bij en gaat er niets af, zegt Kirchhoff. Dan moet
+de totale weerstand Rtot wel gelijk zijn aan de som van de weerstanden R1 t/m R3. Dus
+( 3.7-1)
+𝑅𝑡𝑜𝑡 = 𝑅1 + 𝑅2 + 𝑅3
+Rtot wordt de vervangingsweerstand genoemd. I bereken je met de wet van Ohm uit U en
+Rtot. De afzonderlijke spanningen U1 t/m U3 bereken je uit I en de weerstanden R1 t/m R3.
+Voor n weerstanden in serie kunnen we schrijven
+
+𝑅𝑡𝑜𝑡 = 𝑅1 + 𝑅2 + ⋯ + 𝑅𝑛
+
+( 3.7-2)
+
+Onthoud:
+Bij serieschakeling van weerstanden is de vervangingsweerstand gelijk aan de som van de
+in serie geschakelde weerstanden.
+3.7.3 Parallelschakeling van weerstanden
+
+Figuur 3.7-4. Parallelschakeling van drie weerstanden.
+
+Figuur 3.7-4 toont de parallelschakeling van drie weerstanden. De spanning U staat over
+alle drie de weerstanden. De stroom I door de hele schakeling is de som van de stromen I1
+t/m I3 door de weerstanden R1 t/m R3. I is omgekeerd evenredig met R (Wet van Ohm).
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-13
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Daarom is het omgekeerde van de vervangingsweerstand Rtot de som van de omgekeerden
+van de drie weerstanden. Dus
+1
+1
+1
+1
+=
++ +
+𝑅𝑡𝑜𝑡 𝑅1 𝑅2 𝑅3
+
+( 3.7-3)
+
+En voor n weerstanden geldt:
+1
+1
+1
+1
+( 3.7-4)
+=
++ +⋯+
+𝑅𝑡𝑜𝑡 𝑅1 𝑅2
+𝑅𝑛
+Voor twee parallel geschakelde weerstanden R1 en R2v is uit ( 3.7-3) af te leiden:
+𝑅𝑡𝑜𝑡 =
+
+𝑅1 𝑅2
+𝑅1 + 𝑅2
+
+( 3.7-5)
+
+Onthoud:
+Bij parallelschakeling van weerstanden is de omgekeerde van de vervangingsweerstand
+gelijk aan de som van de omgekeerden van de afzonderlijke weerstanden.
+Dit is de algemene regel. Voor twee parallel geschakelde weerstanden geldt:
+Bij parallelschakeling van twee weerstanden is de vervangingsweerstand gelijk aan het
+product van beide gedeeld door de som van beide.
+3.7.4 Een nuttige controle op de vervangingsweerstand bij serie- en parallelschakeling
+Uit de vergelijkingen ( 3.7-2) en ( 3.7-4) zijn twee controles op rekenuitkomsten af te
+leiden:
+1. Bij serieschakeling van weerstanden is de vervangingsweerstand altijd groter dan
+de grootste afzonderlijke weerstandswaarde
+2. Bij parallelschakeling van weerstanden is de vervangingswaarde altijd kleiner dan
+de kleinste afzonderlijke weerstandwaarde.
+3.7.5 Spanningsdelers
+
+Figuur 3.7-5 Spanningsdeler met drie weerstanden en spanningsverloop aangegeven in kleur (van rood via
+groen naar blauw en zwart). Knooppunten A en B met spanning UA en UB.
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-14
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Een spanningsdeler bestaat uit twee of meer in serie geschakelde weerstanden zoals
+weergegeven in Figuur 3.7-5. De hoogste spanning is U op de plusaansluiting links.
+Binnen elke weerstand daalt de potentiaal gelijkmatig van het linker naar het rechter
+aansluitpunt. Dat is aangegeven met een kleurverloop. Rood is U en zwart is 0. Over elke
+weerstand staat een potentiaalverschil. Voor de weerstanden R1, R2 en R3 is dat
+respectievelijk U1, U2 en U3. Elke Un is evenredig met de bijbehorende weerstand Rn.
+Een verbindingsleiding heeft maar één kleur. Langs leidingen verandert de potentiaal nu
+eenmaal niet merkbaar. De knooppunten tussen de weerstanden heten A en B. De
+spanning UA op A is U-U1 en UB is U-U1-U2, maar ook gelijk aan U3.
+De spanning op een knooppunt in een serieschakeling van weerstanden is gelijk aan de
+spanning over de hele schakeling, vermenigvuldigd met de weerstand die de stroom nog
+moet passeren en gedeeld door de totale weerstand.
+Voor knooppunt A moeten R2 en R3 nog worden gepasseerd. De totale weerstand is
+R1+R2+R3, zoals het hoort bij in serie geschakelde weerstanden. Dan geldt voor de
+spanning UA:
+𝑈𝐴 = 𝑈
+
+𝑅2+ 𝑅3
+𝑅1 + 𝑅2 + 𝑅 3
+
+( 3.7-6)
+
+Voor UB waar de stroom alleen R3 nog moet passeren, geldt dan
+𝑈𝐵 =
+
+𝑅3
+𝑅 1 + 𝑅2 + 𝑅3
+
+( 3.7-7)
+
+En dat is óók gelijk aan U3.
+Als we in Figuur 3.7-5 R3 weglaten, ontstaat een spanningsdeler met maar twee
+weerstanden R1 en R2 en één knooppunt, A. Die zien we in Figuur 3.7-6.
+
+Figuur 3.7-6. Spanningsdeler als in Figuur 3.7-5, maar met twee weerstanden en dus één knooppunt.
+
+Daarvoor geldt volgens de vetgedrukte regel op deze bladzijde:
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-15
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+𝑈A = 𝑈
+
+𝑅2
+𝑅1 + 𝑅2
+
+( 3.7-8)
+
+3.7.6 De potentiometer iets uitgebreider
+Figuur 3.7-6 geeft eigenlijk niets anders weer dan een potentiometer (schemasymbool in
+Figuur 3.6-2). Hij heeft alleen met twee vaste weerstanden zoiets als een vastgezet
+schuifcontact. Vergelijking ( 3.7-8) heeft door die gelijkenis niet alleen betrekking op het
+gedrag van de spanningsdeler in Figuur 3.7-6, maar ook op de spanning op het
+schuifcontact van een potentiometer (Figuur 3.7-7).
+
+Figuur 3.7-7. Potentiometervariant van Figuur 3.7-6. R1 en R2 staan tussen haakjes omdat ze samen één
+potentiometer vormen. Het gestippelde dunne scheidingslijntje valt samen met het schuifcontact dat
+knooppunt A voorstelt.
+
+De waarde van de R1+R2 in vergelijking ( 3.7-8) is in een potentiometer onveranderlijk.R1
+en R2 variëren tussen 0 en de volle weerstand tussen de aansluitpunten. Een
+potentiometer kan dan ook dienen als variabele weerstand (Figuur 3.7-8).
+
+Figuur 3.7-8. Links een potentiometer. Rechts de potentiometer als variabele weerstand in twee varianten.
+
+De batterij in de figuur is niet strikt nodig. Ook daarzonder is een weerstand een
+weerstand. Van de variabele weerstand in het midden is het linker contact niet
+aangesloten, bij de rechter wel. In beide gevallen doet alleen het rechterdeel van de
+potentiometer mee. Praktisch is er geen verschil tussen beide schakelingen.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-16
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+3.8 Spannings- en stroombronnen, afzonderlijk en geschakeld
+3.8.1 De bronnen
+Vaak worden schema’s getekend met ideale stroom- en spanningsbronnen. De
+schemasymbolen zien we in Figuur 3.8-1.
+
+Figuur 3.8-1. Schemasymbolen voor de ideale spanningsbron (links) en de ideale stroombron (rechts).
+
+3.8.2 De spanningsbron, EMK en klemspanning
+Een ideale spanningsbron heeft geen weerstand. Een echte spanningsbron heeft die wel.
+Sluit een batterij aan op een voltmeter en je meet een spanning. Sluit dan een lampje aan
+op de batterij. De gemeten batterijspanning is dan lager. De batterij moet daarom van
+binnen weerstand hebben.
+Een spanningsbron in de ‘echte’ wereld kun je splitsen in een serieschakeling van een
+ideale bron en een weerstand. Als er geen stroom wordt afgenomen, levert de combinatie
+de bronspanning, want zonder stroom staat over de weerstand 0V. De spanning die we
+dan meten, heet ElektroMotorische Kracht, afgekort EMK. Een betere, maar minder
+gangbare naam is bronspanning. De weerstand heet de inwendige weerstand. Zodra er
+stroom loopt, ontstaat er een spanning over de inwendige weerstand. Dan is de spanning
+op de aansluitingen lager dan de EMK. Die spanning heet klemspanning, vaak aangeduid
+met symbool Uk (Figuur 3.8-2).
+
+Figuur 3.8-2. Niet-ideale spanningsbron met belasting in de vorm van een lampje. Inwendige weerstand,
+stroom I, EMK en klemspanning Uk aangegeven.
+
+3.8.3 Hoeveel vermogen leveren een ideale en een niet-ideale bron?
+Voor een ideale spanningsbron geldt: hoe kleiner de belastingsweerstand R, hoe groter het
+vermogen P dat buiten de bron beschikbaar komt. Vergelijking ( 3.5-4) geeft het antwoord
+in vergelijkingvorm:
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-17
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+( 3.5-4)
+𝑈2
+𝑅
+De bronspanning U ligt vast. R staat in de noemer, dus hoe kleiner R, hoe groter P.
+
+𝑃=
+
+Bij een niet-ideale bron verbruikt de inwendige weerstand een deel van het vermogen. De
+totale weerstand R van de stroomkring is de som van Ri en de uitwendige weerstand Ru,
+want die twee staan in serie. R en de EMK bepalen de stroom. Voor twee extreme situaties
+valt eenvoudig te bedenken wat er gebeurt:
+
+Situatie 1: Ru is 0 (kortsluiting). Dan is R = Ri. Dit is vergelijking ( 3.5-4) van de ideale
+bron die meer vermogen levert, naarmate R kleiner is.
+Situatie 2: Ru is oneindig (niets aangesloten). Het geleverde vermogen is 0, want de
+weerstand van de hele stroomkring is oneindig.
+Als we Ru van 0 naar oneindig laten groeien, gaan we van situatie 1 naar situatie 2. We
+doen dat in twee stappen en aan de hand van Figuur 3.8-3.
+
+Figuur 3.8-3. Vermogensdissipatie P van een niet-ideale bron (inzet; bron en inwendige weerstand Ri in
+blauw veld en uitwendige weerstand Ru). De eenheid voor dissipatie is de maximale dissipatie Pmax. Die
+ontstaat bij kortgesloten aansluitpunten (Ru=0). Eenheid van weerstand is de inwendige weerstand Ri.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-18
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Stap 1. Ru gaat van 0 naar Ri. Dat is de waarde 1 op de horizontale schaal. De totale
+weerstand R in de kring is dan gelijk aan Ri +Ru. Als Ru =Ri, dan is R =2Ri =2Ru. Het
+vermogen P in de kring gehalveerd. Omdat Ri en Ru even groot zijn, is P gelijk verdeeld
+over beide weerstanden. Elk de helft van de helft is elk een kwart van Pmax. Dat is op het
+snijpunt van de blauwe en de rode curve.
+Stap 2. Naarmate Ru groter wordt, neemt het vermogen verder af. Ri blijft gelijk. Het
+aandeel van Pi in P neemt steeds verder af. Doordat het totale vermogen P met
+toenemende Ru afneemt, doet Pu (blauwe curve) dat ook, al is het langzamer dan Pi. De
+grafiek loopt tot Ru = 10Ri, maar het proces loopt door tot oneindig.
+Conclusie: Een niet-ideale bron levert het hoogste vermogen aan een uitwendige
+weerstand als die gelijk is aan de inwendige weerstand.
+Dit is het belangrijkste uitgangspunt als het erom gaat, uit een zender zoveel mogelijk
+energie de antenne in te krijgen. De zender is de bron, de antenne de belasting.
+3.8.4 Schakelen van spanningsbronnen
+Spanningsbronnen kunnen heel goed in serie worden geschakeld. De totaalspanning is de
+som van de spanningen van de afzonderlijke bronnen.
+Bij serieschakeling van niet-ideale spanningsbronnen tel je behalve de spanningen ook de
+inwendige weerstanden op om de vervangende niet-ideale spanningsbron te vinden.
+Parallel schakelen van spanningsbronnen kan in theorie. Ze moeten dan volledig identiek
+zijn, want bij elk klein spanningsverschilletje stuurt de ene bron een stroom door de
+andere. Dat geldt ook voor niet-ideale bronnen.
+Een overzicht voor in serie en parallel geschakelde niet-ideale spanningsbronnen staat in
+Tabel 3.8-1.
+Tabel 3.8-1. Overzicht serie- en parallelschakeling van niet-ideale spanningsbronnen met spanning U en
+inwendige weerstand Ri.
+
+Schakeling
+Serie (n bronnen)
+Parallel (n bronnen)
+
+Ri
+𝑅𝑖 = 𝑅𝑖1 + ⋯ + 𝑅𝑖𝑛
+𝑅𝑖1
+𝑅𝑖𝑛
+𝑅𝑖 =
+=⋯=
+𝑛
+𝑛
+
+U
+𝑈 = 𝑈1 + ⋯ 𝑈𝑛
+𝑈 = 𝑈1 = ⋯ = 𝑈𝑛
+
+Beperking
+Bronnen identiek
+
+3.8.5 Schakelen van stroombronnen
+Stroombronnen parallel schakelen kan. De afzonderlijke stromen worden opgeteld. In
+serie schakelen werkt niet. Bron A wil stroom A leveren, bron B stroom B. Beide stromen
+moeten dan samen door beide bronnen lopen en dat gaat niet.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-19
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 3. Verkorte tekst 20250720
+
+Niet-ideale stroombronnen hebben een inwendige weerstand die niet oneindig is. Voor
+parallel geschakelde stroombronnen wordt de vervangende inwendige weerstand
+berekend als de vervangende weerstand van een parallelschakeling.
+3.8.6 De capaciteit van een batterij of accu
+De capaciteit van een batterij of van een accu wordt meestal uitgedrukt in Ah, ampèreuur. 1 Ah betekent 1 A gedurende precies 1 uur, ½ A gedurende 2 uur, 2 A gedurende ½
+uur, enz. De capaciteit is het product van stroom en tijdsduur waarin die stroom kan
+worden geleverd. De Ah is een broertje van de C (coulomb), de eenheid van lading. 1
+coulomb is gelijk aan 1 As, ampèreseconde, dus 1 C=1 As.
+Capaciteit is dan ook niet hetzelfde als energie, maar is de hoeveelheid lading die een accu
+of batterij kan leveren. Ook met spanning heeft deze grootheid niets te maken. Een
+batterij van 120 V en 1 Ah geeft 100 maal zoveel energie als één van 1,2 V en 1 Ah, maar
+heeft toch een even grote capaciteit.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3-20
+
+
