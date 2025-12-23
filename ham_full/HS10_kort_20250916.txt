@@ -1,0 +1,1303 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Inhoudsopgave
+10
+
+Terugkoppeling, op-amps, oscillatoren, laagspanningsvoedingen .............................3
+10.1
+
+Wat leer je in dit hoofdstuk?..................................................................................3
+
+10.2
+
+Terugkoppeling ......................................................................................................3
+
+10.2.1
+
+Inleiding .........................................................................................................3
+
+10.2.2
+
+Tegenkoppeling ..............................................................................................3
+
+10.2.3
+
+Meekoppeling .................................................................................................4
+
+10.3
+
+Toegepaste tegenkoppeling: de operationele versterker ........................................5
+
+10.3.1
+
+Eigenschappen ................................................................................................5
+
+10.3.2
+
+De tegengekoppelde inverterende versterker ................................................6
+
+10.3.3
+
+De spanningsvolger ........................................................................................7
+
+10.3.4
+
+De tegengekoppelde niet-inverterende versterker ........................................7
+
+10.3.5
+
+De optelversterker ..........................................................................................8
+
+10.3.6
+
+De verschilversterker .....................................................................................8
+
+10.3.7
+
+De spanningsvergelijker .................................................................................9
+
+10.4
+
+Toegepaste meekoppeling: oscillatoren .................................................................9
+
+10.4.1
+
+Inleiding .........................................................................................................9
+
+10.4.2
+
+De Meissner-oscillator.................................................................................. 10
+
+10.4.3
+
+Aan een oscillator te stellen eisen ................................................................ 11
+
+10.4.4
+
+De twee hoofdtypen van de LC-oscillatoren ................................................11
+
+10.4.5
+
+Oscillatoren in GDS, GCS (en GAS) ............................................................. 12
+
+10.4.6
+
+Oscillatoren in GGS, GBS en GRS ................................................................ 14
+
+10.4.7
+
+Oscillatoren in GSS, GES (en GKS) .............................................................. 15
+
+10.4.8
+
+De spanningsgestuurde oscillator (VCO, Voltage Controlled Oscillator) .... 16
+
+10.5
+
+Kristaloscillatoren ................................................................................................ 17
+
+10.5.1
+
+Kwartskristallen ........................................................................................... 17
+
+10.5.2
+
+De Pierce-oscillator ...................................................................................... 18
+
+10.5.3
+
+Colpitts-oscillator met kristal ....................................................................... 18
+
+10.5.4
+
+De overtone oscillator .................................................................................. 19
+
+10.5.5
+
+De Miller-oscillator ...................................................................................... 19
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+10.6
+
+Faseruis................................................................................................................. 20
+
+10.7
+
+Spanningsstabilisatoren en lineaire voedingsschakelingen .................................. 20
+
+10.7.1
+
+Inleiding ....................................................................................................... 20
+
+10.7.2
+
+De zenerdiode als stabilisator ....................................................................... 20
+
+10.7.3
+
+Zenerschakeling met emittervolger ............................................................. 21
+
+10.7.4
+
+Tegengekoppelde voedingsschakelingen. ..................................................... 21
+
+10.8
+
+Schakelende voedingen ........................................................................................ 23
+
+10.8.1
+
+Inleiding ....................................................................................................... 23
+
+10.8.2
+
+Een door een blokspanning gestuurde gestabiliseerde schakelende voeding.
+23
+
+10.8.3
+
+Pulsbreedtemodulator .................................................................................. 24
+
+10.8.4
+
+Drie soorten schakelingen met een PWM ................................................... 25
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+10 Terugkoppeling, op-amps, oscillatoren, laagspanningsvoedingen
+10.1 Wat leer je in dit hoofdstuk?
+Dit hoofdstuk gaat over terugkoppeling en een aantal toepassingen. Bij terugkoppeling
+onderscheiden we tegen- en meekoppeling. Beide leiden tot totaal verschillende effecten,
+waarvan we toepassingen bespreken.
+Bij de tegenkoppeling bespreken we de operationele versterker en enkele toepassingen
+ervan. Bij de meekoppeling komen oscillatoren aan bod. Dat zijn schakelingen die een
+frequentie produceren. Eerst bespreken we oscillatoren die zijn gebaseerd op een LCkring, daarna die met een kristal. Dan komen ook overtone-oscillatoren aan bod. Dat zijn
+oscillatoren die een oneven harmonische van de grondfrequentie produceren. Daarna
+volgt een stukje over faseruis.
+De laatste paragraaf in het hoofdstuk gaat over toepassingen, waarin tegenkoppeling
+meestal en een oscillator soms een rol speelt. Dat zijn de gestabiliseerde
+(laagspannings)voedingen die bijna altijd voor halfgeleiderschakelingen zijn bedoeld.
+
+10.2 Terugkoppeling
+10.2.1 Inleiding
+Terugkoppeling in een versterkerschakeling is het terugvoeren van een deel van het
+versterkte signaal naar de ingang. Is het teruggekoppelde signaal in fase met het
+ingangssignaal, dan spreken we over meekoppeling. Is het teruggekoppelde signaal in
+tegenfase met het ingangssignaal, dan heet het tegenkoppeling. Het gaat dus om 360º = 0º
+faseverschil bij meekoppeling en 180º faseverschil bij tegenkoppeling.
+Bij gelijkspanning of -stroom komt meekoppeling nauwelijks voor, tegenkoppeling wel. In
+het laatste geval heeft de teruggevoerde spanning (of stroom) een tegengesteld teken.
+10.2.2 Tegenkoppeling
+Tegenkoppeling in versterkerschakelingen leidt tot minder versterking en tot minder
+vervorming. Een niet-ontkoppelde sourceweerstand in een FET-versterkerschakeling is
+daarvan een voorbeeld. Om dat duidelijk te maken bekijken we Figuur 10.2-1. Daarin
+staan twee schema’s met een FET-versterker, één zonder sourceweerstand (niettegengekoppeld) links, en één met sourceweerstand (tegengekoppeld) rechts.
+Voor een niet ontkoppelde emitter- of kathodeweerstand geldt precies hetzelfde.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.2-1. FET-versterkerschakeling zonder en met tegenkoppeling via niet-ontkoppelde
+sourceweerstand RS.
+
+Links zien we een rechttoe-rechtaan GSS-versterker zonder sourceweerstand. Rechts is
+een sourceweerstand RS toegevoegd.
+Links is de zaak eenvoudig: de spanning UGS tussen gate en source is de
+signaalwisselspanning die via de drain versterkt en in tegenfase de FET weer uitkomt.
+Rechts ligt de zaak wat ingewikkelder als gevolg van RS. Als de gatespanning stijgt, stijgt
+de sourcespanning mee. De spanning UGS tussen gate en source loopt dus niet volledig mee
+met de gatespanning. Dat is de tegenkoppeling die door RS wordt veroorzaakt. We hebben
+eerder gezien dat de sourceweerstand in feite in serie staat met het omgekeerde van de
+steilheid 1/S. Als de steilheidskarakteristiek zoals gewoonlijk niet recht is, is de
+karakteristiek van de serieschakeling van weerstand en 1/ S in elk geval een stuk rechter,
+want de karakteristiek van een weerstand is per definitie recht.
+Bovendien gebruikt de schakeling een kleiner stuk van de steilheidskarakteristiek. Een
+klein stuk van een kromme lijkt meer op een rechte dan een groot stuk. Dat is een oude
+wiskundige wijsheid. Daardoor veroorzaakt de kromming minder vervorming.
+De prijs is een lagere versterking van de schakeling, maar toevoeging van een extra
+tegengekoppelde schakeling om dit nadeel op te heffen, levert nog altijd minder
+vervorming dan één niet-tegengekoppelde versie.
+10.2.3 Meekoppeling
+De werking van meekoppeling hangt af van de verhouding tussen de versterking door de
+schakeling en de grootte van het teruggekoppelde deel van het uitgangssignaal. Als de
+schakeling 10 keer versterkt en 1/10 deel van het signaal wordt teruggekoppeld, houdt dat
+signaal zichzelf precies in stand. Is het teruggekoppelde deel groter, dan zal de schakeling
+zelf een wisselspanning produceren. Over dat verschijnsel zullen we het hebben bij de
+oscillatoren. Voor de zendamateur is dat veruit de belangrijkste vorm van meekoppeling.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+10.3 Toegepaste tegenkoppeling: de operationele versterker
+10.3.1 Eigenschappen
+Operationele versterkers, meestal opamps genoemd, zijn eigenlijk heel extreme dingen.
+Een ideale opamp heeft
+•
+•
+•
+•
+
+Een oneindig grote versterking
+Een oneindig hoge ingangsweerstand
+Een uitgangsweerstand van 0 ; een ideale spanningsbron dus.
+Een frequentiebereik van 0 (gelijkspanning/stroom) tot oneindig
+
+Een werkelijke opamp heeft
+•
+•
+•
+•
+•
+
+Een zeer hoge versterking
+Een zeer hoge ingangsweerstand
+Een lage uitgangsweerstand.
+Een laag uitgangsvermogen
+Een frequentiebereik (bandbreedte) dat afhangt van de gerealiseerde versterking
+(bandbreedte maal gerealiseerde versterking is een vast getal dat afhangt van het
+type). Een opamp versterkt ook gelijkspanning.
+
+Een opamp heeft verder
+•
+
+•
+•
+
+Twee ingangen. De één inverteert (=zet op de uitgang het signaal op zijn kop), de
+ander niet. In wisselspanningstermen: de één veroorzaakt op de uitgang een
+signaal in tegenfase, de ander in meefase met het ingangssignaal. De versterking
+via beide is even groot, maar tegengesteld.
+Meestal één uitgang
+Twee voedingsspanningen, een positieve en een even grote negatieve. De voeding
+heet dan symmetrisch. De 0 V zit er midden tussen. In schema’s worden de
+voedingsspanningen meestal niet getekend. Ze zijn vanouds +15 V en – 15 V. Er is
+geen principieel bezwaar tegen kleinere voedingsspanningen. Bij beschikbaarheid
+van een enkele voedingsspanning kan de 0 V vaak via een spanningsdeler tussen
+de positieve (of negatieve) voedingsspanning en 0 V (massa) worden gerealiseerd.
+
+Figuur 10.3-1 (links) toont het schemasymbool van een opamp met voedingsaansluitingen.
+In schema’s worden die vaak weggelaten. Rechts in de figuur zien we de opamp met twee
+spanningsbronnen als voeding.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.3-1. Schemasymbool operationele versterker (opamp). Inverterende ingang aangegeven met –
+(min), niet inverterende met +. De aansluitingen voor de voedingsspanning die in schema’s zelden wordt
+getekend, zijn aangegeven met +U en -U. De aansluiting rechts op de punt van de driehoek is de
+signaaluitgang. Rechts een opamp met gebruikelijke symmetrische voeding.
+
+De spanningsversterking van een opamp ligt zonder tegenkoppeling in de orde van 10 5 tot
+106. Dat heet de open-lusversterking. We gebruiken er het symbool A0 voor. 105 - 106 is bij
+versterking vrijwel altijd een goede benadering van  (oneindig). Deze waarden gelden
+voor frequenties tot circa 10 of hooguit enkele tientallen Hz. De open-lusversterking
+neemt lineair af met toenemende frequentie.
+Via tegenkoppeling wordt die reusachtige versterking teruggebracht tot hanteerbare
+waarden. Diezelfde tegenkoppeling maakt ook dat de vervorming vrijwel nul is. We laten
+nu een aantal verschillende opamp-schakelingen de revue passeren.
+10.3.2 De tegengekoppelde inverterende versterker
+Het schema is te zien in Figuur 10.3-2.
+
+Figuur 10.3-2. Tegengekoppelde inverterende opamp. R2 is de tegenkoppelweerstand, R1 de
+ingangsweerstand.
+
+Dat hier sprake is van tegenkoppeling blijkt uit de weerstand R2 tussen uitgang en
+inverterende ingang. Een sinusvormige spanning wordt via R2 in tegenfase (“op de kop”)
+teruggevoerd naar de ingang en een positieve gelijkspanning als negatieve spanning.
+Omdat de open-lusversterking A0 bijna oneindig is, kan er maar een verwaarloosbaar klein
+verschilletje in spanning zijn tussen de inverterende en niet-inverterende ingang.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Een voorbeeld met getallen: Stel dat de uitgangsspanning Uuit 10 V is en A0 = 105 = 100
+000. Dan moet de spanning op de niet-inverterende ingang 10 V/100 000 = 0,0001 V = 0,1
+mV groter zijn dan die op de inverterende. In de praktijk is dat 0 V. Dat leidt tot de
+belangrijkste regel in opamp-land: bij een tegengekoppelde opamp zijn de spanningen op
+de inverterende en de niet-inverterende ingang praktisch gezien gelijk.
+Terug naar Figuur 10.3-2. De niet-inverterende ingang ligt aan massa en heeft een
+spanning van 0 V. Dan moet de inverterende ingang ook 0 V hebben. R1 en R2 vormen een
+spanningsdeler tussen Uin en Uuit met 0 V op het knooppunt. Dan staat over R1 de
+spanning Uin en over R2 staat -Uuit. De weerstanden moeten evenredig zijn met de
+spanningen erover want de ingangen van de opamp trekken (praktisch) geen stroom, dus
+𝑈in : (−𝑈uit ) = 𝑅1 : 𝑅2
+( 10.3-1)
+Een bekende rekenregel is dat je in zo’n vergelijking de twee binnenste en de twee
+buitenste delen mag vermenigvuldigen en er dan een ‘=’-teken tussen moet zetten. Dus
+𝑅2
+𝑈
+𝑅1 in
+De ingangsweerstand van de schakeling is R1, want Uin “ziet” 0 V via R1.
+(−𝑈uit )𝑅1 = 𝑈in 𝑅2 → 𝑈uit = −
+
+( 10.3-2)
+
+Een voorbeeld met getallen: Stel Uin = 1 V, R1 = 10 k en R2 = 22 k. Dan is Uuit = -2,2 V,
+want 1V ∗ (−22⁄10) = −2,2V.
+10.3.3 De spanningsvolger
+Dit is de simpelste schakeling van allemaal (Figuur 10.3-3).
+
+Figuur 10.3-3. De spanningsvolger
+
+De inverterende ingang is direct verbonden met de uitgang. Via een weerstand mag ook,
+want de ingang trekt (praktisch) geen stroom. De ingangsspanning Uin staat op de nietinverterende ingang. Omdat de spanningen op de inverterende en niet-inverterende
+ingangen gelijk moeten zijn en Uuit op de inverterende ingang staat, moet gelden dat
+𝑈uit = 𝑈in . Het nut: omzetten van hoog- naar laagohmig.
+10.3.4 De tegengekoppelde niet-inverterende versterker
+Het schema zien we in Figuur 10.3-4. De ingangsspanning Uin staat nu op de nietinverterende ingang. De inverterende ingang is via R1 verbonden met massa, oftewel 0 V.
+Figuur 10.3-4 is Figuur 10.3-2, verwisselde rollen voor 0 V en Uin.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.3-4. Niet-inverterende tegengekoppelde opamp. De tegenkoppellus is dezelfde als bij de
+inverterende opamp, alleen is R1 verbonden met massa.
+
+Uin staat volgens de regel die we eerder vonden, ook op de inverterende ingang. R1 en R2
+zijn dus opnieuw een spanningsdeler, maar nu tussen Uuit en 0 V met Uin op het
+knooppunt. Nu kunnen we de vergelijking uit hoofdstuk 3 voor spanningsdelers met 0V
+op een uiteinde gebruiken:
+𝑅1
+𝑅1 + 𝑅2
+
+𝑈in = 𝑈uit
+
+( 10.3-3)
+
+Daaruit volgt
+𝑈uit 𝑅1 + 𝑅2
+𝑅2
+=
+=1+
+𝑈in
+𝑅1
+𝑅1
+Een net iets andere uitkomst dan in vergelijking ( 10.3-2). Opletten dus.
+
+( 10.3-4)
+
+10.3.5 De optelversterker
+Het schema staat in Figuur 10.3-5. De bijbehorende vergelijking luidt
+𝑈uit = − (
+
+𝑈1 𝑈2 𝑈3
++
++
+) 𝑅4
+𝑅1 𝑅2 𝑅3
+
+( 10.3-5)
+
+Figuur 10.3-5. Optelschakeling met een opamp.
+
+Doordat het om een inverterende versterker gaat, is de uitkomst voorzien van een
+minteken. Dat is desgewenst weg te krijgen met behulp van een tweede inverterende
+versterker met versterking -1. Daarvoor kun je Figuur 10.3-2 met R1 = R2 gebruiken
+10.3.6 De verschilversterker
+Het schema zien we in Figuur 10.3-6.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.3-6. Opamp als verschilversterker.
+
+Hier zijn zowel de inverterende als de niet-inverterende ingang in gebruik. We geven
+alleen de oplossing voor 4 gelijke weerstanden dus R1=R2=R3=R4. Dan geldt
+𝑈uit = 𝑈2 − 𝑈1
+
+( 10.3-6)
+
+10.3.7 De spanningsvergelijker
+De spanningsvergelijker of comparator is een opamp zonder tegenkoppeling (Figuur
+10.3-7)
+
++
+Uref
+
+Uuit
+
+Uin
+
++
+-
+
+Figuur 10.3-7. Opamp (met voedingsaansluitingen) als spanningsvergelijker.
+
+Uuit is maximaal positief als Uin > Uref en maximaal negatief als Uin < Uref. De comparator
+komt vooral voor in schakelingen voor omzetting van analoog naar digitaal. Tot nu toe
+zijn alleen analoge schakelingen aan de orde geweest. Digitaal komt in hoofdstuk 11.
+
+10.4 Toegepaste meekoppeling: oscillatoren
+10.4.1 Inleiding
+Een oscillator wekt zelf een frequentie op zonder die toegevoerd te krijgen. Dat is het
+verschil met een versterkerschakeling. Dat signaal wordt als het ware in de schakeling
+rondgepompt. Dat betekent meekoppeling. In 10.2.3 is dat al even genoemd. Als de
+versterking A is, moet het teruggekoppelde signaaldeel 1/A zijn en als de oscillatie op gang
+moet komen, meer dan 1/A. Het product van versterking en teruggekoppeld signaaldeel
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+heet ook wel rondgaande versterking. Is de rondgaande versterking 1, dan blijft het
+signaal net in stand. Is de rondgaande versterking groter, dan kan een signaal ontstaan en
+groter worden.
+Een oscillator stelt zich vanzelf zo in dat het teruggekoppelde deel 1/ A wordt. Dat
+mechanisme kennen we uit hoofdstuk 9 van de schakelingen die zich vanzelf in klasse C
+instellen. En anders begrenst de voedingsspanning de groei van een oscillatorsignaal wel.
+Er zijn veel denkbare soorten oscillatoren. Hun gemeenschappelijke eigenschap is dat ze
+door een combinatie van weerstanden, condensatoren en/of spoelen één frequentie meer
+versterken dan alle andere. Deze paragraaf gaat over oscillatoren met spoelen en
+condensatoren (LC-oscillatoren).
+Samengevat zijn er voor oscilleren drie voorwaarden waaraan moet worden voldaan
+•
+•
+•
+
+Een frequentiebepalend element, in deze paragraaf een LC-kring;
+Koppeling in fase, dus meekoppeling, tussen in- en uitgang;
+Een versterker die de verliezen in de trillingskring compenseert.
+
+10.4.2 De Meissner-oscillator
+De schakeling is niet heel algemeen, maar geeft een duidelijk beeld van terugkoppeling.
+We laten een schakeling met een N-FET (Figuur 10.4-1) zien. Met buis of bipolaire
+transistor werkt hij ook. Drain en gate zijn in de schakeling inductief gekoppeld.
+
+Figuur 10.4-1. Meissner-oscillator met de FET in GSS. De stippen in de spoelen geven aan hoe de spoelen
+ten opzichte van elkaar moeten staan om onderling 0 ºfaseverschuiving te krijgen.
+
+In de figuur staat de FET in GSS (gemeenschappelijke sourceschakeling). Met GGS of GDS
+gaat het ook. L1 en C1 vormen de afgestemde kring. L1 en L2 zijn inductief gekoppeld. L2
+ontvangt zijn signaal van de drain. De dikke punten op de uiteinden van L1 en L2 geven
+aan dat ze op die uiteinden onderling in fase zijn. In het schema staan ze tegenover elkaar.
+Dus wordt bij de koppeling de fase omgekeerd. In GSS zijn de signalen op gate en drain in
+tegenfase Door op deze manier te koppelen, wordt de fase nog eens omgekeerd zodat het
+teruggekoppelde signaal in fase is met dat op de gate. In GGS of GDS moet de kring de fase
+juist niet omkeren. Oplossing: verwissel de aansluitingen op L2.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+10.4.3 Aan een oscillator te stellen eisen
+Een goede oscillator moet:
+•
+•
+
+Een constante frequentie leveren. Als de oscillator eenmaal is ingesteld, mag die
+frequentie niet merkbaar verlopen.
+Er moeten zo min mogelijk harmonischen in het signaal zitten. Met andere
+woorden: uit de oscillator moet een zo zuiver mogelijke sinus komen.
+
+Dat is te bereiken door een zo los mogelijke koppeling van het versterkende element met
+de afgestemde kring. Anders gezegd: bij het begin van de oscillatie moet de rondgaande
+versterking weinig groter zijn dan 1. Dat heeft twee effecten:
+•
+•
+
+Het versterkende element wordt zo min mogelijk in klasse C getrokken, of blijft
+misschien zelfs wel in klasse B.
+Doordat het versterkende element warm wordt, veranderen capaciteiten binnen
+het element. Die zijn er altijd). Hoe losser de koppeling, des te kleiner is het effect
+daarvan op de eigenschappen van de afgestemde kring. Eén van die effecten kan
+verlaging van Q zijn.
+
+Voor Q geldt: hoe hoger de Q van de kring, des te minder harmonischen.
+Dit alles is te bereiken door de terugkoppeling te laten verlopen via een aftakking op de
+afgestemde kring (denk aan de autotrafo van hoofdstuk 6). De aftakking mag op de spoel,
+maar ook in het condensatordeel. Voor elke oscillatorkring geldt de vergelijking van
+Thomson die we al in Hoofdstuk 5 zijn tegengekomen. Hier komt-ie nog een keer:
+𝜔=
+
+1
+√𝐿𝐶
+
+wat hetzelfde is als 𝑓 =
+
+1
+
+( 10.4-1)
+
+2𝜋√𝐿𝐶
+
+10.4.4 De twee hoofdtypen van de LC-oscillatoren
+Figuur 10.4-2 toont de kringen van de twee hoofdtypen LC-oscillatoren met aftakking.
+
+Figuur 10.4-2. Kringen met aftakking van de twee hoofdtypen LC-oscillatoren. Links het type Hartley met
+inductieve aftakking; rechts het type Colpitts met capacitieve aftakking.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Eerst een ezelsbruggetje om te onthouden, welke naam waarbij hoort. De naam Hartley
+begint met de H van Henry, de eenheid van zelfinductie: aftakking op de spoel. De naam
+Colpitts begint met de C van Capaciteit: aftakking op de condensator.
+Hartley-oscillatoren zijn te onderscheiden in parallel- en seriegevoed. Bij seriegevoede
+schakelingen loopt de voedingsgelijkstroom samen met de wisselstroom van het
+oscillatorsignaal door (een deel van) de spoel, bij parallelle voeding heeft het
+oscillatorsignaal een eigen route via een of meer condensatoren.
+Bij Colpitts-oscillatoren is van serievoeding geen sprake. Een capacitieve aftakking geleidt
+nu eenmaal geen gelijkstroom.
+Met alle drie de basisschakelingen (Hoofdstuk 8) van FET, bipolaire transistor en buis valt
+een oscillator te maken. We beginnen met oscillatoren in GDS, GCS en GAS. Voor de
+buisschakelingen met triode is de voedingsspanning hoger, maar voor de rest lijken ze op
+het versterkende element na sterk op de overeenkomstige FET-schakeling. Vandaar dat de
+buis in de volgende drie subparagrafen af en toe ontbreekt.
+10.4.5 Oscillatoren in GDS, GCS (en GAS)
+We beginnen met serie- en parallelgevoede Hartley op basis van een FET (Figuur 10.4-3).
+
+Figuur 10.4-3 (a) Seriegevoede Hartley-oscillator in GSS met FET en (b) vergelijkbare schakeling, parallel
+gevoed.
+
+De oscillatie speelt zich af tussen gate en source. Het signaal op de gate komt wat spanning
+betreft licht verzwakt en wat stroom betreft enorm versterkt op de drain. Dan passeert het
+het onderste deel van de spoel. De spoel is zo ook autotrafo en transformeert de spanning
+omhoog. Die komt weer op de gate, en zo verder. Voedingsstroom en wisselstroom volgen
+in schema (a) buiten de FET dezelfde route (serievoeding). In schema (b) zijn hun routes
+gescheiden (parallelvoeding). Het signaal wordt dan via C3 van de drain afgenomen.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+In Figuur 10.4-4 zien we een vergelijkbare schakeling, maar met een capacitieve aftakking
+op de kring: de Colpitts-oscillator.
+
+Figuur 10.4-4. Een vergelijkbare schakeling in GSS met die in Figuur 10.4-3, maar nu als Colpitts uitgevoerd.
+Het signaal wordt afgenomen op de source. Via de drain of een inductieve koppeling met L1 kan dat ook.
+
+Deze schakeling werkt op dezelfde manier als die in Figuur 10.4-3, alleen verloopt de
+terugkoppeling via het knooppunt van C1 en C2 en niet via een aftakking op de spoel.
+Varianten van de Colpitts zijn Clapp en Seiler, beide bedoeld om een lossere koppeling
+tussen kring en versterkend element te maken (Figuur 10.4-5).
+
+Figuur 10.4-5. (a) Clapp-oscillator; (b) Seiler-oscillator, beide met N-FET.
+
+Tot slot voor wat betreft de oscillatoren in GDS, GCS (of GAS) een voorbeeld van een
+parallelgevoede Hartley-oscillator in GCS met een NPN-transistor.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.4-6 Parallel gevoede Hartley-oscillator als in Figuur 10.4-3 (b) met NPN-transistor.
+
+10.4.6 Oscillatoren in GGS, GBS en GRS
+Net als in het voorgaande type basisschakeling zijn signaalingang en -uitgang in fase. De
+nu volgende schakelingen zijn daarom op de signaalingang en -uitgang ook weinig anders.
+Figuur 10.4-7 geeft de seriegevoede Hartley-variant.
+
+Figuur 10.4-7. Hartley-oscillator in GGS met N-FET (a), in GBS met NPN-transistor (b) en in GRS met
+triode (c).
+
+De FET-schakeling (a) en de triodeschakeling (c) lijken op het versterkende element na als
+twee druppels water op elkaar. Source en kathode zijn signaalingang, drain en anode zijn
+signaaluitgang. De zelfinducties L2 voorkomen dat het signaal weglekt. De GBS-schakeling
+(b) heeft de spanningsdeler R1 en R2 voor de basisspanning in samenwerking met R3. R3
+mag niet ontkoppeld zijn, want ontkoppeling zou leiden tot afvoer van het signaal.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.4-8. Colpitts-oscillator in GGS met N-FET (a), in GBS met NPN-transistor (b) en in GRS met
+triode (c). Schakelingen verder als die in Figuur 10.4-7.
+
+Figuur 10.4-8 toont eenzelfde set schema’s als Figuur 10.4-7, maar nu met een Colpittsschakeling.
+10.4.7 Oscillatoren in GSS, GES (en GKS)
+In hoofdstuk 8 zagen we dat dit type basisschakeling een fasedraaiing met 180º geeft: het
+signaal op de uitgang is in tegenfase met dat op de ingang. Voor meekoppeling is daarom
+nog een fasedraaiing met 180º nodig. Die is te realiseren door niet het uiteinde van de
+kring, maar een punt middenin met een vaste spanning te verbinden. De schakeling
+gedraagt zich dan min of meer als de wipwap in een speeltuin: het ene eind omhoog, het
+andere omlaag. Figuur 10.4-9 toont er twee, een FET- (a) en een transistorschakeling (b).
+Beide zijn Hartley-types; de FET is parallel gevoed, de transistor seriegevoed.
+
+Figuur 10.4-9. (a) Parallel gevoede Hartley-oscillator met N-kanaals FET en parallelkring tussen gate en
+drain. (b) Seriegevoede Hartley-oscillator met NPN-transistor en parallelkring tussen basis en collector.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Drain en collector zijn signaaluitgang. Gate, resp. basis zijn signaalingang.
+In Figuur 10.4-10 zien we de Colpitts, voor de verandering met een PNP-transistor.
+
+Figuur 10.4-10. Colpitts-oscillator met afstemkring tussen basis en collector van een PNP-transistor.
+
+Het nulpunt ligt nu op het aftakpunt van de kring. De GES-schakeling van de transistor
+geeft 180º faseverschuiving. De extra 180º voor meekoppeling ontstaat door de
+afstemcondensator uit twee gelijke secties (C1 en C2) te laten bestaan met het nulpunt op
+de rotor. Dan ontstaat een soort elektronische wipwap: het ene einde van de kring is in
+tegenfase met het andere. De kring is via C3 en C4 capacitief gekoppeld met de transistor.
+De met condensator C5 ontkoppelde emitterweerstand R3 verzorgt met de weerstanden R1
+en R2 de gelijkstroominstelling van de transistor.
+10.4.8 De spanningsgestuurde oscillator (VCO, Voltage Controlled Oscillator)
+Uit hoofdstuk 8 kennen we de varicap, de capaciteitsdiode waarvan de capaciteit afhangt
+van de spanning erover. Als we de condensator van een LC-kring geheel of deels
+vervangen door een varicap, hebben we een oscillator waarvan de frequentie afhankelijk
+is van de spanning over de varicap. Figuur 10.4-11 laat er één zien.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.4-11. Clapp-oscillator met afstemdiode (D1). Eventueel kan de capaciteit worden vergroot met een
+parallel geschakelde condensator (C5).
+
+Het is een Clapp-oscillator volgens Figuur 10.4-5a, waarin C5 is vervangen door de varicap
+D1. Als die te weinig capaciteit heeft, kan er een vaste condensator C5 parallel aan worden
+gezet, zoals in Figuur 10.4-11 ook is gedaan (leiding gestippeld). De spanning op de
+varicap wordt via weerstand R2 toegevoerd. De weerstand moet groot zijn (orde van
+grootte: 100 k tot 1 M) om de Q van de kring op een redelijke waarde te houden.
+
+10.5 Kristaloscillatoren
+10.5.1 Kwartskristallen
+Een kwartskristal heeft piëzo-elektrische eigenschappen. Splijt het kristal, slijp er een dun
+plaatje van, zet druk op één kant en er ontstaat een elektrische spanning tussen beide
+kanten. Dat alleen is niet heel opwindend, maar het omgekeerde kan ook: zet er een
+spanning overheen en het plaatje buigt een klein beetje, al is het voor het oog onzichtbaar
+weinig. Metalliseer de tegenoverliggende vlakken van het plaatje voor een beter elektrisch
+contact en je hebt een stukje materiaal dat elektrische energie omzet in een buiging en
+bijna zonder verliezen de buiging terug omzet in elektrische energie als het plaatje trilt.
+Zo’n kwartsplaatje kan in trilling raken onder invloed van een wisselspanning. Maar het
+heeft zijn eigen trillingsfrequentie. Die hangt af van de dikte, de lengte en de breedte van
+het plaatje. Als het in zijn eigen frequentie in trilling wordt gebracht, lijkt het in zijn
+gedrag op een LC-kring. Omdat de energie-omzetting bij een plaatje van kwartkristal
+bijna verliesvrij is, heeft het een extreem hoge Q. Zulke kristallen -we spreken over een
+kristal en laten de toevoegingen ‘kwarts’en ‘plaatje’ weg- worden toegepast in oscillatoren.
+Een kristal in een oscillator kan zich gedragen als een parallel- of een seriekring met elk
+een eigen frequentie. Die frequenties verschillen meestal zo weinig, dat we er ons als
+amateur-elektronici niet druk over hoeven te maken. Schemasymbolen zien eruit als in
+Figuur 10.5-1. In deze cursus gebruiken we het symbool links in de figuur.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.5-1. Schemasymbool van een kwartskristal. In deze cursus gebruiken we het symbool links (met
+open rechthoek). In andere teksten kun je ook het rechter symbool (met zwarte rechthoek) tegenkomen.
+
+10.5.2 De Pierce-oscillator
+Het schema van de Pierce-oscillator is eenvoudig. Figuur 10.5-2 toont het met een N-FET.
+
+Figuur 10.5-2. Pierce-oscillator.
+
+Met een buis of transistor werkt de schakeling ook. Het lijkt een vreemde schakeling,
+want het faseverschil tussen de signalen op drain en gate is 180º. Het kristal maakt de
+resterende 180º erbij, doordat plus aan de ene kant leidt tot min aan de andere, zodat de
+schakeling als geheel toch werkt. Trimcondensator C1 kan de frequentie iets bijregelen.
+10.5.3 Colpitts-oscillator met kristal
+
+Figuur 10.5-3. Colpitts-oscillator met kristal in plaats van een afgestemde LC-kring
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Figuur 10.5-3 toont een Colpitts-oscillator met kristal. De condensatoren C1 en C2 hebben
+hier de functie van spanningsdeler en hebben vrijwel geen invloed op de frequentie.
+10.5.4 De overtone oscillator
+Het Nederlandse woord voor overtone is boventoon. Die laatste term wordt vooral in de
+wereld van de muziek gebruikt. Een boventoon is een harmonische van de grondtoon. In
+een overtone-oscillator trilt het kristal op een oneven harmonische van zijn frequentie.
+Meestal de derde, soms de vijfde. Op elke hogere harmonische komt het kristal moeilijker
+in overtone. Een Pierce-oscillator kan in overtone komen door opname van een op de
+overtone afgestemde kring in drain-, collector- of anodeleiding (Figuur 10.5-4). Deze
+kring bestaat uit C3 en de linker wikkeling van transformator T. Het oscillatorsignaal
+wordt afgenomen via de rechter wikkeling van T.
+
+Figuur 10.5-4. Pierce-oscillator voor overtone-oscillatie. De afgestemde kring van de linker wikkeling van
+trafo T en condensator C3 moet resoneren op de betreffende oneven harmonische. Het signaal wordt
+afgenomen op de rechter wikkeling van T.
+
+10.5.5 De Miller-oscillator
+
+Figuur 10.5-5. De Miller-oscillator.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Deze vreemde schakeling werkt via een capacitieve koppeling binnen de FET tussen de
+LC-kring in de drainleiding en het kristal tussen gate en 0 V. De oscillatiefrequentie ligt
+iets onder de resonantiefrequentie van kring en kristal. Die twee gedragen zich hierdoor
+inductief en dat is samen met de interne capaciteit van de FET voldoende voor oscillatie.
+De Miller-oscillator kan ook in overtone werken als de LC-kring ongeveer op de
+betreffende overtone (oneven harmonische) van het kristal resoneert.
+
+10.6 Faseruis
+Faseruis is het verschijnsel dat opeenvolgende perioden in een oscillatorsignaal niet exact
+even snel tot stand komen. Daardoor is het onderlinge faseverschil net niet nul. Een
+oscillatorsignaal wiebelt altijd wel een beetje. Dat wiebelen is met wat voorzorgen wel
+vergaand, maar nooit helemaal te voorkomen. Het belangrijkste middel is een oscillator
+die zo los mogelijk is gekoppeld met de afstemkring. Daarover hadden we het al eerder.
+
+10.7 Spanningsstabilisatoren en lineaire voedingsschakelingen
+10.7.1 Inleiding
+Elke gelijkspanning die afkomstig is van een gelijkrichter met afvlakfilter, bevat een
+restant wisselspanning. Dat restant heet wisselspanningsrimpel. Die gelijkspanning is een
+onzuivere wisselspanning met (hopelijk) weinig wisselspanning en veel gelijkspanning.
+Zo’n bron heeft bovendien een vaak niet te verwaarlozen inwendige weerstand. Door die
+inwendige weerstand kan een niet te verwaarlozen signaal vanuit een versterkertrap op de
+voedingsleiding terechtkomen. Langs die weg kan signaal zich in de schakeling
+verspreiden met alle (meekoppel)gevolgen van dien.
+Een goede gestabiliseerde voeding kan dan uitkomst bieden. De stabilisatie komt tot stand
+door tegenkoppeling te combineren met een (vrijwel) vaste referentiespanning. We
+beginnen met de referentiespanning en gaan dan verder met de tegenkoppeling.
+10.7.2 De zenerdiode als stabilisator
+Het standaardgereedschap om een gestabiliseerde spanning te krijgen is de zenerdiode,
+zoals in de schakeling van Figuur 10.7-1.
+
+Iin
+
+Iuit
+
+R
+IZ
+
+Uin
+
+Uuit
+
+Rb
+
+Iin > Iuit
+Figuur 10.7-1. Eenvoudige spanningsstabilisatie met een weerstand R, een zenerdiode en een
+belastingsweerstand Rb (met gestippelde aansluiting).
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Bij een ideale zenerdiode met een zenerspanning die onafhankelijk is van de zenerstroom,
+zou daarmee het probleem van een stroom-onafhankelijke referentiespanning zijn
+opgelost. Helaas bestaan zulke dioden niet. Ook de spanning over een zenerdiode is
+enigszins stroomafhankelijk, vooral bij lage stroomsterkten. Wel is de schakeling van
+Figuur 10.7-1 een verbetering ten opzichte van de combinatie gelijkrichter en afvlakfilter.
+Een bezwaar is, dat de stroom Iuit tot enkele tientallen mA beperkt is.
+Een kanttekening: volgens de eerste wet van Kirchhoff zijn Iuit en IZ samen even groot als
+Iin. Iin wordt bepaald door R en de zenerspanning (en dus Uuit). Als Iuit groter wordt, wordt
+IZ kleiner. De schakeling werkt daarom alleen als er stroom voor IZ overblijft.
+10.7.3 Zenerschakeling met emittervolger
+Als we achter de schakeling van Figuur 10.7-1 een emittervolger zetten, kan de schakeling
+β maal zoveel stroom leveren.
+
+R
+Uin
+
+UZ
+Re
+
+Uuit  UZ -0,6 V
+
+Figuur 10.7-2. Spanningsstabilisatie met zenerdiode en silicium-emittervolger. De uitgangsspanning is ten
+opzichte van de zenerspanning ongeveer 0,6 V (de basis-emitterspanning) lager.
+
+Figuur 10.7-2 laat zo’n schakeling zien. De uitgangsspanning Uuit is bij een Si-transistor
+ongeveer 0,6 V lager dan de zenerspanning UZ. Dat is de prijs voor de stroomversterking.
+10.7.4 Tegengekoppelde voedingsschakelingen.
+Tegenkoppeling levert een verdere verbetering op van de stabiliteit en de inwendige
+weerstand van een spanningsbron. Bovendien kan zo’n tegengekoppelde gestabiliseerde
+voeding desgewenst een regelbare spanning geven. In Figuur 10.7-3 zien we een
+voorbeeld van zo’n schakeling.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+T2
+R1
+
+Uin
+
+R2
+
+R3
++
+
++
+
+T1
+
+R5
+
+C2
+
+Uuit
+
+Tegenkoppellus
+
+C1
+R4
+
+D1
+
+Figuur 10.7-3. Tegengekoppelde en regelbare gestabiliseerde voeding. De regelaar is potentiometer R5. De
+tegenkoppellus is in rood aangegeven.
+
+De transistor T1 is het hart van de tegenkoppellus. Die is met een kromme rode pijl
+aangegeven. De werking is als volgt:
+De emitter wordt op referentiespanning gehouden door zenerdiode D1. Daalt de
+basisspanning, dan stijgt de collectorspanning, want T1 staat in GES. Als de
+collectorspanning van T1 stijgt, stijgt ook de basisspanning van T2. Daardoor stijgt Uuit en
+stijgt via de rij weerstanden R3, R4 en potmeter R5 ook de basisspanning van T1, en wordt
+de collectorspanning van T1 “teruggefloten”, waarmee de tegenkoppellus rond is.
+De basisspanning op T1 mag niet zo laag worden dat de transistor geen stroom meer voert,
+want dan wordt de tegenkoppellus verbroken. De ondergrens is de zenerspanning van D1
+plus de drempelspanning van de emitter-basisovergang van T1.Vandaar de weerstand R4.
+Het kan ook met een opamp in de tegenkoppellus (Figuur 10.7-4)
+
+T2
+R1
++
+Uin
+
++ U
+uit
+C2
+
+-
+
++
+C1
+
+R3
+
+D1
+
+R4
+
+Figuur 10.7-4. Schakeling als in Figuur 10.7-3 met transistor T1 vervangen door een als spanningsvergelijker
+geschakelde opamp. R2 doet niet meer mee.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Een puntje van aandacht is dat de versterking van de opamp beter wat kan worden
+afgeremd met een tegenkoppellus, omdat anders de regeling erg abrupt wordt met kans op
+onstabiliteit. Om de gedachten te bepalen: iets in de orde van grootte van -100. Een RClaagdoorlaatfilter aanbrengen tussen de uitgang van de opamp en de basis van T2 kan ook.
+Tegengekoppelde spanningsstabilisatoren voor vaste spanningen zijn ruim verkrijgbaar,
+net als stabilisatoren waarvan je via een uitwendige schakeling de spanning kunt instellen.
+
+10.8 Schakelende voedingen
+10.8.1 Inleiding
+Gelijkspanning transformeren gaat niet, zagen we onder meer in hoofdstuk 6. Het lukt
+wel als je hem laat samengaan met een wisselspanning, in het bijzonder een blok- of
+pulsspanning. Als die wisselspanning dan ook nog een stuk hoger in frequentie is dan de
+50 Hz van ons lichtnet, kunnen spoelen en condensatoren kleiner en lichter worden
+uitgevoerd dan voor 50 Hz. Denk aan frequenties in de orde van 10 – 100 kHz, maar heel
+precies hoeft dat niet. We verlaten hiermee het rijk van de lineaire voedingen van de
+vorige paragraaf. Onze behandeling van het onderwerp is beperkt in de zin dat we ons
+hier niet druk maken over de manier van opwekking van de blok- of pulsspanning. Bij de
+digitale schakelingen (hoofdstuk 11) komt daarover nog het een en ander.
+Schakelende voedingen kun je op basis van zowel zelfinductie als capaciteit maken. In
+deze verkorte tekst behandelen we alleen schakelingen op basis van zelfinductie.
+10.8.2 Een door een blokspanning gestuurde gestabiliseerde schakelende voeding.
+We beginnen met een eerste voorbeeld in de vorm van de schakeling van Figuur 10.8-1.
+Het rechterdeel ervan doet denken aan het tegenkoppeldeel van de gestabiliseerde
+voedingsschakeling van Figuur 10.7-4, de rest niet.
+D1
+
+L1
+
++
+
++
+R2
+
+Uin
+
++ Osc.
+C1
+
+R1
+
+T1
+
+R3
+
+IC1
+Uref
+
+Aan/uit
+
+C2
+
++
+
+Uuit
+
+R4
+
+D2
+Figuur 10.8-1. Schakelende voeding met spoel, een oscillator die een blokspanning opwekt en een
+regelcircuit via de spanningsvergelijker IC1.
+
+De regelspanning uit de opamp IC1 stuurt nu geen eindtransistor, maar een
+blokgolfoscillator aan. Zit de uitgangsspanning van de spanningsvergelijker IC1, de
+regelspanning, boven een kritisch niveau -en Uuit dus onder de ingestelde waarde- dan
+gaat de oscillator aan. Komt die regelspanning daaronder, dan gaat de oscillator uit.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+De blokspanning stuurt transistor T1 aan via R1. T1 geleidt en spert daardoor in het ritme
+van de blokgolf. Geleidt T1, dan bouwt zich een stroom op in de spoel L1, zoals beschreven
+in Hoofdstuk 4. Diode D1 voorkomt dat condensator C2 leegloopt. Zodra T1 stopt met
+geleiden als de blokspanning terugvalt op 0, dan wil de stroom door L1 zichzelf in stand
+houden en veroorzaakt een spanningspiek. Diode D1 gedraagt zich dan net zoals de
+vonkblusdiode van hoofdstuk 4 en laadt C2 op uit de energie van het magnetisch veld van
+L1. Zo wordt magnetische energie omgezet in ladingsenergie. Zodra de uitgangsspanning
+Uuit zo hoog is, dat de spanning op het knooppunt van R3 en R4 groter wordt dan de
+referentiespanning Uref, klapt de spanning op de uitgang van de spanningsvergelijker IC1
+om en gaat de blokgolfoscillator op “Uit”. Gebeurt het omgekeerde, dan gaat de oscillator
+op “Aan”. En zo verder. Dit is een tegenkoppellus via een blokgolfoscillator. Totaal anders
+dan bij de lineaire stabilisatorschakelingen die we eerder zagen, maar zo werkt het ook.
+De schakeling van Figuur 10.8-1 transformeert gelijkspanning omhoog. Probeer dat maar
+eens met een lineaire schakeling. Omlaag kan niet, doordat diode D1 de minimale waarde
+van Uuit al op die van Uin houdt (min de drempelspanning van D1).
+10.8.3 Pulsbreedtemodulator
+De tegenkoppeling in Figuur 10.8-1 is met niet meer dan de mogelijkheid van “Aan” of
+“Uit” van de oscillator nogal abrupt. Het kan een stuk soepeler door de blokspanning te
+vervangen door een pulsspanning, waarbij de puls die transistor T1 open stuurt, naar
+behoefte in breedte kan variëren. Daartoe wordt de blokspanningsgenerator vervangen
+door een zogenoemde pulsbreedtemodulator. Hoe dat van binnen werkt, is geen
+examenstof.. Het komt erop neer dat die schakeling een pulsspanning van een vaste
+frequentie produceert, waarbij de duur van een puls variëert. Transistor T1 wordt dan door
+een (in dit geval positieve) puls open gestuurd.
+Bij een pulsspanning (of stroom) hoort het begrip Duty Cycle (D). Dat is de duur van een
+puls, uitgedrukt in % van de periodeduur T. Figuur 10.8-2 laat het een en ander zien.
+T
+Aan
+D = 50%
+
+D = T .100%
+tp
+
+tp
+
+Uit
+Aan
+
+D = 10%
+
+Uit
+Figuur 10.8-2. Duty cycle D van een pulsvormige spanning voor D= 50% en 10%. D=50% is een blokgolf.
+Meestal gaat het om spanning, maar het kan ook stroom zijn.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Een blokgolf is een bijzonder geval van een pulsspanning. Elk positief blok neemt 50%
+van de periode in; elk negatief blok ook.
+Een pulsbreedtemodulator, afgekort PWM (Pulse Width Modulator), geeft pulsen af met
+een duty cycle D die afhankelijk is van een stuurspanning. Daarmee wordt de schakelende
+transistor in een stabilisator langer of korter opengestuurd om de uitgangsspanning op peil
+te houden. Dat gebeurt naar gelang de stroomopname via de uitgang van de
+stabilisatieschakeling. Zo wordt een spanning via een PWM vloeiender gereguleerd dan
+met een oscillator die alleen maar aan of uit kan.
+10.8.4 Drie soorten schakelingen met een PWM
+We behandelen nu drie stabilisatieschakelingen die nogal op elkaar lijken. Dat zijn
+•
+•
+•
+
+één die de ingangsspanning omhoog brengt (step-up)
+één die de ingangsspanning omlaag brengt (step-down)
+één die de ingangsspanning inverteert. Plus wordt min of min wordt plus
+(inverter).
+
+De step-up schakeling
+Eigenlijk is Figuur 10.8-1 al een schema van een step-up schakeling. We hebben daar al
+gezien dat de uitgangsspanning groter moet zijn dan de ingangsspanning.
+In Figuur 10.8-3 komen we de schakeling weer tegen, maar nu met PWM. De
+tegenkoppelschakeling staat in grijs in het schema. De eigenlijke regelschakeling staat in
+zwart. Dat is gedaan omdat het er op het examen vooral op aan komt dat je een schakeling
+herkent aan de opzet van de regelschakeling. In het schema geven blauwe en rode pijlen
+de stroomrichting aan, resp. tijdens een puls en tussen de pulsen. De schakelende
+transistor mag ook een (MOS)FET zijn.
+L1
++
+
+P
+
++
+D1
+
+Uin
+
++ PWM
+R1
+C1
+Regelspanning
+
+I door L1
+
+T1
+
+R3
+
+IC1
+
+C2
+Uref
+
+U op punt P
+
+PWM
+
++
+
+Uuit
+
+R4
+
+Uuit>Uin
+
+Figuur 10.8-3. Step-up schakeling. Regelcircuit in grijs, de eigenlijke step-up schakeling in zwart. De vorm
+van de stroom door de spoel en die van de spanning op punt P staan schetsmatig onder het schema, samen
+met de pulsspanning uit de PWM; de laatste in grijs. Stroompad bij T1 in geleiding: rode pijlen. Stroompad
+bij T1 gesperd: blauwe pijlen.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10 kort 20250916
+
+Afgezien van de PWM zien we hier dezelfde schakeling als in Figuur 10.8-1. De rode
+pijlen markeren de stroomloop tijdens de puls, de blauwe pijlen die tussen de pulsen. Uuit
+is groter dan Uin.
+De step-down schakeling
+Figuur 10.8-4 toont de step-down schakeling. Uuit is hier kleiner dan Uin.
+
++
+
+T1
+
+Uin
+
++ PWM
+C1
+
+L1
+
+P
+
++
+
+R1
+
+R3
+D1
+
+IC1
+
+C2
+Uref
+
+Regelspanning
+
++
+
+Uuit
+
+R4
+
+Udiode
+I door L1
+
+U op punt P
+
+Uuit<Uin
+
+PWM
+Figuur 10.8-4. Step-down converter. De eigenlijke converterschakeling in zwart, de stabilisatieschakeling in
+grijs. De vorm van de stroom door de spoel L1 en die van de spanning op punt P staan schetsmatig onder het
+schema, samen met de pulsspanning uit de PWM; de laatste in grijs. Stroompad bij T1 in geleiding: rode
+pijlen. Stroompad bij T1 gesperd: blauwe pijlen.
+
+Transistor T1 staat nu in de invoerleiding waar in de step-up schakeling de spoel zat en
+diode D1 staat op de plek waar in de step-up schakeling de transistor zat.
+Dat heeft gevolgen voor de uitgangsspanning. Uuit is altijd kleiner dan Uin, omdat anders
+bij ingeschakelde T1 geen stroom door L1 kan ontstaan. Dan is de stroom langs de rode
+pijlen 0, doet de spoel niets en wordt C2 in de “blauwe” periode niet opgeladen. Zakt Uuit
+onder Uin, dan loopt er stroom volgens de rode pijlen; de spoel bouwt een magnetisch veld
+op en als de transistor weer in sperstand gaat, wordt C2 opgeladen met de stroom die
+wordt aangegeven met de blauwe pijlen.
+Aangetoond kan worden dat de uitgangsspanning Uuit ongeveer gelijk is aan de duty cycle
+Dpuls van de pulsspanning op de basis van T1 vermenigvuldigd met ingangsspanning Uin:
+𝑼𝒖𝒊𝒕 ≈ 𝑫𝒑𝒖𝒍𝒔 . 𝑼𝒊𝒏
+
+( 10.8-1)
+
+De inverterende schakeling
+Het schema van de schakeling is weergegeven in Figuur 10.8-5. Dit is voor het gevoel de
+vreemdste van het drietal, omdat het teken van de uitgangsspanning Uuit tegengesteld is
+aan dat van de ingangsspanning Uin.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+26
+
+VRZA-cursus radiozendamateur
+
++
+
+Uin
+
+T1
++ PWM
+
+Hoofdstuk 10 kort 20250916
+
+P
+
+D1
+
+R1
+
+R3
+L1
+
+C1
+
+IC1
+
+C2
+Uref
+
+Regelspanning
+
++
+
+Uuit
+
+R4
+
++
+I door L1
+PWM
+
+U op punt P 0
+-
+
+Uin> 0 V
+Uuit< 0 V
+
+Figuur 10.8-5. Inverterschakeling. De eigenlijke schakeling in zwart, de stabilisatieschakeling in grijs. De
+vorm van de stroom door de spoel L1 en die van de spanning op punt P staan schetsmatig onder het schema,
+samen met de pulsspanning uit de PWM; de laatste in grijs.
+
+Spoel en diode hebben ten opzichte van Figuur 10.8-4 van plaats gewisseld. De diode heeft
+zijn anode naar C2 gericht. De polariteit van C2 is omgekeerd. Als de transistor wordt
+ingeschakeld, loopt er een stroom door de spoel volgens de rode pijlen. Wordt T1
+uitgeschakeld, dan loopt er stroom volgens de blauwe pijlen en wordt een negatieve
+uitgangsspanning Uuit opgebouwd. De diode D1 voorkomt dat er tijdens de “rode” periode
+positieve lading op C2 terechtkomt.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+27
+
+

@@ -1,0 +1,1100 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Inhoudsopgave
+8
+
+Versterkende elementen, basisschakelingen ................................................................... 2
+8.1
+
+Wat leer je in dit hoofdstuk ...................................................................................... 2
+
+8.2
+
+Veldeffect-transistor (Field Effect Transistor, FET) ................................................ 2
+
+8.2.1
+
+Opbouw, schemasymbool en werking ............................................................. 2
+
+8.2.2
+
+Versterking ........................................................................................................ 5
+
+8.2.3
+
+MOSFET’s .......................................................................................................... 8
+
+8.3
+
+Elektronenbuizen ...................................................................................................... 8
+
+8.3.1
+
+Opbouw en werking ......................................................................................... 8
+
+8.3.2
+
+De triode ............................................................................................................ 9
+
+8.3.3
+
+De penthode .................................................................................................... 11
+
+8.3.4
+
+Schemasymbolen, vergelijking van FETs en buizen ..................................... 12
+
+8.4
+
+Bipolaire transistoren .............................................................................................. 14
+
+8.4.1
+
+Opbouw, schemasymbool en werking ........................................................... 14
+
+8.4.2
+
+Grootheden en karakteristieken ..................................................................... 16
+
+8.4.3
+
+Regelen van de basisstroom ............................................................................ 18
+
+8.5
+
+De drie basisschakelingen ....................................................................................... 21
+
+8.5.1
+
+Inleiding ........................................................................................................... 21
+
+8.5.2
+
+Combinatie A. Gemeenschappelijke source/kathode/emitterschakeling .... 23
+
+8.5.3
+
+Combinatie B. Gemeenschappelijke gate/rooster/basisschakeling ............... 23
+
+8.5.4
+
+Combinatie C. Gemeenschappelijke drain- anode- en collectorschakeling. 24
+
+8.5.5
+
+De basisschakelingen samengevat .................................................................. 25
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+8 Versterkende elementen, basisschakelingen
+8.1 Wat leer je in dit hoofdstuk
+We bespreken veldeffect-transistoren (FET’s), enkele soorten buizen en ‘gewone’
+transistoren. Ze hebben gemeen dat ze, afhankelijk van de manier waarop ze zijn
+geschakeld, spanning, stroom of beide kunnen versterken. We beginnen met FET’s,
+daarna komen de buizen en tenslotte de transistoren. FET’s en buizen worden aangestuurd
+met spanning. Die spanning stuurt een stroom. Die kan daarna weer worden omgezet in
+spanning. In transistoren wordt stroom aangestuurd door stroom.
+FET’s en buizen lijken dus voor wat betreft hun aansturing meer op elkaar dan op
+transistoren. Daarom behandelen we FET’s en buizen direct na elkaar en dan pas de
+transistoren. Bij alle drie kijken we naar de manier van instellen en de basisschakelingen.
+Dat zijn er voor elk soort element drie. Die drie lijken nogal op elkaar. Daarom
+behandelen we ze in deze korte versie gelijktijdig en niet per versterkend element.
+
+8.2 Veldeffect-transistor (Field Effect Transistor, FET)
+8.2.1 Opbouw, schemasymbool en werking
+De FET’s die we hier behandelen zijn meest Si-FET’s. Ze hebben één PN-junctie. Die
+moet gesperd staan. De stroom loopt langs, niet door de junctie. Het deel waar de stroom
+doorheen loopt, heet het kanaal. Er zijn N- en P-kanaals FETs, afgekort N- of P-FET. Het
+kanaal heeft twee aansluitingen, source en drain, de in- en uitgang voor ladingsdragers.
+Die zijn bij de P-FET gaten, bij de N-FET elektronen. De aansluiting aan de andere kant
+van de junctie heet gate. Figuur 8.2-1 toont schemasymbolen en aansluitingen.
+
+Figuur 8.2-1. Schemasymbolen van een N-FET (links) en een P-FET (rechts). De symbolen met en zonder
+cirkel betekenen hetzelfde. Die met cirkel zijn ouderwets. De richting van de pijl van de gate geeft aan of
+het om een N- of P-FET gaat.
+
+Langs de gesperde junctie tussen gate en kanaal ligt de uitputtingszone (Hoofdstuk 7). De
+N-kanaals FET dient als voorbeeld. Bij een P-kanaals FET werkt alles net zo, maar met
+omgekeerde polariteit van spanningen en omgekeerde stroomrichtingen.
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.2-2 toont de opbouw en de belangrijkste toestanden van een N-FET.
+
+Figuur 8.2-2. Werking van een N-kanaals FET. Boven: opbouw en uitputtingszone. Onder: spanningen op
+de elektroden grafisch weergegeven. De kleur stelt het materiaal voor, niet de polariteit.
+a. opbouw; D is drain, G is gate en S is source. De gate bestaat in de tekening uit twee rode elektrisch
+verbonden delen.
+b. spanningen op alle aansluitingen gelijk. De uitputtingszone is overal even breed.
+c. drainspanning positiever dan sourcespanning; gatespanning het laagst. De spanning tussen gate en kanaal
+neemt van source naar drain toe, Daardoor wordt de uitputtingszone van source naar drain breder en het
+geleidende deel van het kanaal smaller.
+d. gatespanning zo laag dat het hele kanaal uitputtingszone is: het afknijppunt is bereikt.
+
+Afbeelding a toont alleen de opbouw.
+Afbeelding b toont de situatie met gelijke spanningen op source, gate en drain. Als ze alle
+drie dezelfde spanning hebben loopt er geen stroom. Wel is het kanaal, op een smalle
+uitputtingszone na, geleidend. Bij kleine spanningen tussen source en drain blijft dat
+vrijwel zo, maar dan loopt er wel stroom. Het kanaal is dan te beschouwen als een
+weerstand waarvan de grootte wordt bepaald door de spanning tussen gate en kanaal.
+Afbeelding c toont het effect van een grotere spanning UDS tussen drain en source bij een
+gatespanning die iets lager is dan die op de source. De spanning UGS tussen gate en source
+is dan negatief. Doordat de kanaalspanning van source naar drain positiever wordt, is er in
+dezelfde richting een oplopende spanning tussen kanaal en gate. De uitputtingszone in het
+kanaal wordt daardoor van source naar drain wijder en het geleidende restant van het
+kanaal smaller. Het gevolg is een van source naar drain toenemende kanaalweerstand. Die
+toename is sterker, naarmate UDS hoger is. Gevolg: de invloed van UDS op de
+stroomsterkte in het kanaal is beperkt: hogere spanning veroorzaakt meer weerstand.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Afbeelding d toont het effect van een sterk negatieve gatespanning. Het kanaal is over de
+volle breedte uitputtingszone geworden, zodat de stroom geblokkeerd is. De gatespanning
+waarbij dit gebeurt, heet het afknijppunt. De half-Engelse term is pinch-off-spanning.
+De stroom door de FET neemt toe, naarmate de spanning UGS tussen gate en source stijgt.
+UGS moet daarbij lager blijven dan de drempelspanning van de junctie tussen gate en
+kanaal, anders wordt het systeem een diode in doorlaatrichting. Omgekeerd neemt de
+stroom af naarmate UGS lager wordt, totdat het afknijppunt is bereikt en de stroom stopt.
+In een FET wordt zo een stroom gestuurd met een spanning. Figuur 8.2-3 toont de grafiek.
+
+Figuur 8.2-3. Drainstroom ID van de N-FET BF245C uitgezet tegen de spanning UGS tussen gate en source
+van een N-FET. Omdat ook de spanning tussen UDS tussen drain en source enige invloed op de stroom heeft,
+hoort de bijbehorende waarde van UDS in de grafiek te staan. Verder staat er de bijbehorende
+junctietemperatuur Tj in, want ook die heeft invloed op het gedrag van halfgeleiders en dus ook van FET’s.
+
+In Figuur 8.2-3 ligt het afknijppunt bij UGS  -6,5 V. De helling van de grafiek heet de
+steilheid, symbool S. S is niet gelijk voor elke waarde van UGS, want de grafiek is krom. De
+definitie van S is dan ook niet eenvoudig IDS/UGS, maar de veroorzaakte verandering van
+IDS gedeeld door de veroorzakende verandering van UGS. S wordt uitgedrukt in mA/V.
+Steilheid is het omgekeerde van weerstand. Weerstand is spanning gedeeld door stroom
+(wet van Ohm), steilheid is (verandering van) stroom gedeeld door (verandering van)
+spanning.
+Aan de drainkant gebeurt iets totaal anders. In Figuur 8.2-2c kunnen we zien dat de voor
+stroom beschikbare ruimte in het kanaal, dat is de ruimte buiten de uitputtingszone,
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+kleiner wordt naarmate de spanning UGS toeneemt. Meer spanning, grotere weerstand
+dus. Gevolg: de drainstroom ID neemt vanaf een zekere waarde van de drainspanning UDS
+bij verder toenemende UDS maar weinig toe. De grafiekenbundel in Figuur 8.2-4 laat dat
+zien. Bij elke gatespanning UGS hoort een andere grafiek van ongeveer dezelfde vorm.
+
+Figuur 8.2-4. ID-UDS karakteristieken van de N-FET BF245C. We zien de drainstroom ID tegen de drainsource-spanning UDS bij verschillende UGS. Tj is de junctietemperatuur waarvoor de grafieken gelden. Data
+uit Philips databoek Field-effect transistors.
+
+De bijna horizontale delen van de grafieken geven aan dat daar de drain-source spanning
+UDS maar weinig invloed heeft op de drainstroom ID. Dat betekent een hoge inwendige
+weerstand (symbool Ri) van de FET. Ri is in het gebied van de vlakke karakteristieken veel
+groter dan 1/S. De versterking van de FET berust op deze twee grootheden.
+8.2.2 Versterking
+Volgens de grafiek van Figuur 8.2-3 veroorzaakt een verandering van UGS van -2 V naar -1
+V, 1 V verschil dus, een verandering van de drainstroom ID met ongeveer 3,9 mA. S= 3,9
+mA/V komt overeen met 1/S 260 . Figuur 8.2-4 laat ook zien dat een verhoging van de
+drainspanning UDS van 5 naar 15 V bij UGS = -2 V een verandering van de drainstroom met
+ongeveer 0,6 mA veroorzaakt. Dat komt neer op Ri  17 k. Bij deze FET zit dus ongeveer
+een factor 70 tussen 1/S en Ri, of wiskundig wat netter uitgedrukt: Ri 70/S. Vergeleken
+met het source-gate-systeem is de drainaansluiting dus hoogohmig. Trekken we dit in het
+extreme door, dan ontstaat een voorstelling van een ‘ideale’ FET (Figuur 8.2-5, boven).
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Die heeft aan de source 0  -een ideale spanningsbron- en aan de drain een oneindige Ri,
+een ideale stroombron. De ‘werkelijke’ FET zien we onderin.
+
+Figuur 8.2-5. Boven: model van een ideale N-kanaals FET als omvormer van een spanningsbron (de source)
+naar een stroombron (de drain). Onder: de werkelijke situatie met weerstand 1/S in serie met de
+spanningsbron en de stroombron op de drain is veranderd in een spanningsbron ter grootte van Ri..
+
+Aan de sourcekant zit in de werkelijke FET een niet-ideale spanningsbron met inwendige
+weerstand 1/S en aan de drainkant een niet-ideale stroombron met inwendige weerstand
+Ri. De onvolkomen stroombron op de drainkant is gelijkwaardig aan een onvolkomen
+spanningsbron met dezelfde inwendige weerstand. We bekijken nu Figuur 8.2-6, waarin
+een FET-schakeling is getekend.
+
+Figuur 8.2-6. FET-schakeling met signaalbron (uin), drainweerstand RD en versterkte signaalspanning uuit aan
+de drain. De kleine letters u geven aan dat het wisselspanning betreft. De condensator laat alleen het
+wisselspanningsdeel van de drainspanning door.
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+De drainstroom ID is een onzuivere wisselstroom. De grootte van het wisselstroomdeel
+wordt bepaald door de wisselspanning uin en de steilheid S. De spanning tussen drain en
+source heeft weinig invloed op de kanaalstroom ID als gevolg van de hoge Ri.
+Voor spanningsversterking groter dan 1 (grotere signaalspanning op de uitgang dan op de
+ingang) moet RD groter zijn dan 1/S. Een getallenvoorbeeld:
+Stel de steilheid S is 4 mA/V en RD is 3 k. Een signaalwisselspanning uin van 0,1 V
+produceert een signaalwisselstroom van 0,4 mA in het kanaal van de FET. Op de drain
+moet die stroom door 3 k worden ge’duwd’. Daarvoor is een spanning uuit nodig van 0,4
+mA maal 3 k is 1,2 V. De spanningsversterking is dan 12 (van 0,1 V naar 1,2 V). De
+spanningsversterking Au van de FET in Figuur 8.2-6 is dus gelijk aan SRD. De
+vergelijkingen ( 8.2-1) en ( 8.2-2) geven de wiskundige vorm.
+𝑢𝑢𝑖𝑡
+1
+= 𝑅𝐷 :
+𝑢𝑖𝑛
+𝑆
+
+( 8.2-1)
+
+In vergelijking ( 8.2-1) staat links van het =-teken de spanningsversterking Au van de
+schakeling in Figuur 8.2-6, want Au is de verhouding van uuit en uin. Dus
+𝑢𝑢𝑖𝑡
+𝑅𝐷
+( 8.2-2)
+=
+= 𝑆𝑅𝐷
+1
+𝑢𝑖𝑛
+⁄𝑆
+Nu de spanningsversterking in eenzelfde schakeling als in Figuur 8.2-6, maar dan met een
+sourceweerstand RS. De schakeling zien we in Figuur 8.2-7.
+𝐴𝑢 =
+
+Figuur 8.2-7. FET-schakeling als in Figuur 8.2-6, maar met sourceweerstand RS. Ook hier zijn de
+wisselspanningscomponenten aan in- en uitgang met een kleine letter u aangegeven.
+
+De weerstand RS heeft twee effecten.
+•
+
+Hij veroorzaakt een negatieve gatespanning UGS, doordat de gelijkspanning op de
+source positief wordt ten opzichte van de gate die gemiddeld 0 V blijft. Als de source
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 8 kort 20250908
+
+positief is ten opzichte van de gate, is de gate negatief ten opzichte van de source. Dat
+vervangt de negatieve spanningsbron in de gateleiding van Figuur 8.2-6.
+De steilheid van de schakeling wordt verlaagd doordat RS in serie staat met 1/S. Dat
+heeft gevolgen voor de spanningsversterking. Die gaat omlaag, want de effectieve
+steilheid wordt kleiner. De weerstand van het source-gatecircuit is dan RS +1/S.
+
+Vanaf de voorlaatste stap van vergelijking ( 8.2-2) is dit gemakkelijk te verwerken: vul op
+de plaats van 1/S de uitdrukking 1/S + RS in en de zaak is geregeld:
+𝑢𝑢𝑖𝑡
+𝑅D
+=
+1⁄ + 𝑅
+𝑢𝑖𝑛
+S
+𝑆
+Als RS veel groter is dan 1/S, dan is vergelijking ( 8.2-3) te benaderen met
+𝐴𝑢 =
+
+𝐴𝑢 =
+
+𝑢𝑢𝑖𝑡 𝑅D
+≈
+𝑢𝑖𝑛
+𝑅S
+
+( 8.2-3)
+
+( 8.2-4)
+
+Door het verwaarlozen van 1/S zal vergelijking ( 8.2-4) altijd een te hoge uitkomst voor de
+spanningsversterking Au opleveren, maar als handige vuistregel voldoet hij.
+Er zijn andere versterkerschakelingen met een J-FET mogelijk dan die in Figuur 8.2-7. Die
+behandelen we na de elektronenbuizen en de transistoren. Die elementen hebben die
+lijken op die met FET’s, ook al gebeurt er binnenin de elementen niet hetzelfde.
+8.2.3 MOSFET’s
+De benaming MOSFET is de afkorting van Metal Oxide Semiconductor Field Effect
+Transistor. Het is geen examenstof, maar MOSFET’s zitten tegenwoordig in allerhande
+amateurapparatuur. We noemen ze dus wel, maar we zijn er kort over. De naam vertelt de
+opbouw van de gate: een laagje Metaal op een laagje siliciumOxide (zeg maar glas) op
+halfgeleider-(Semiconductor-)materiaal. In dit type FET spelen het metaal en de oxidelaag
+samen dezelfde rol als de diodejunctie van de gate bij de N- of P-FET, maar dit type gate
+geleidt nooit, ongeacht de gatespanning. De gateweerstand is veel hoger dan bij de
+gesperde junctie van een J-FET. Een MOSFET is daardoor kwetsbaar voor doorslag als
+gevolg van statische spanningen die bijvoorbeeld optreden bij vastpakken met de hand.
+Moderne types zijn daar redelijk tegen beveiligd. Wie meer wil weten, kan terecht op
+bijvoorbeeld https://nl.wikipedia.org/wiki/MOSFET.
+
+8.3 Elektronenbuizen
+8.3.1 Opbouw en werking
+Elektronen kunnen zich goed verplaatsen in vacuüm (luchtledig). In lucht botsen ze tegen
+luchtmoleculen, waardoor de vaart er binnen een onzichtbaar kleine afstand uit is. Lucht
+is dus een goede isolator. Het probleem met geleiding in vacuüm is, hoe je elektronen een
+vacuüm in krijgt. Dat lukt pas als de geleider zo heet is dat hij een rode tot oranje gloed
+uitstraalt. Hoge temperatuur betekent sneller trillende atomen en moleculen. Als de
+trilling sterk genoeg is, worden elektronen buiten de geleider geslingerd. In vacuüm
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+kunnen ze zich van de geleider verwijderen. Doordat de geleider positief wordt door het
+verlies aan elektronen, keren elektronen er ook weer op terug. De zaak is in evenwicht als
+er evenveel elektronen de gloeiende geleider verlaten als erop terugkeren. Een gloeiende
+geleider in vacuüm heeft dan ook een elektronenwolk om zich heen.
+Brengen we een tweede en koelere geleider in het vacuüm en geven we die een positieve
+spanning ten opzichte van de gloeiende draad, dan worden de elektronen door de tweede
+geleider aangetrokken. Zo ontstaat een elektronenstroom door het vacuüm. Doordat de
+tweede geleider niet heet is, kunnen de elektronen er wel in, maar er niet uit. Zo werkt de
+vacuümdiode die ook wel buisdiode wordt genoemd.
+Figuur 8.3-1 toont die situatie. De gloeidraad is de kathode die elektronen uitzendt; de
+metalen plaat eromheen de anode die ze opvangt. Een kathode die tegelijk gloeidraad is,
+noemen we direct verhit.
+
+Figuur 8.3-1. Buisdiode. De kathode is hier een gloeidraad die elektronen uitzendt; de anode is de ronde
+plaat eromheen (bron: VRZA-cursus 1999)
+
+Als de gloeidraad wordt gevoed met wisselstroom wordt hij omgeven een geleidend
+buisje. Dat buisje is dan de eigenlijke kathode. Die heet dan indirect verhit.
+8.3.2 De triode
+Tussen kathode en anode kan een rooster worden opgenomen. Dat bestaat meestal uit een
+dunne draad die als een spiraal om de kathode ligt (Figuur 8.3-2). De kathode is in dit
+geval indirect verhit
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.3-2. De triode. De kathode is hier indirect verhit; de gloeidraad zit binnen de oranje gekleurde
+kathode. Het rooster is een dunne draad en de anode ziet eruit als in Figuur 8.3-1.
+
+Bij een triode, want zo heet zo’n ding met kathode, rooster en anode, mag het rooster niet
+positief ten opzichte van de kathode worden. Dan werkt het als een tweede anode. Voor
+de rest gedraagt het rooster zich als de gate bij een N-FET. Er bestaat geen P-vorm, want
+een buis kent alleen elektronen als ladingdrager.
+De versterking door een triode gaat ongeveer in zijn werk als bij een N-FET, maar in de
+buizenwereld zijn de spanningen veel hoger. Buizen voor klein vermogen hebben al gauw
+anodespanningen rond 200 of 250 V, bij zendbuizen met hoog vermogen kan die spanning
+in de kilovolts (kV) lopen.
+Een triode heeft een steilheid S en een inwendige weerstand Ri, net als een FET. De
+namen van de drie elektroden verschillen wel. Tabel 8.3-1 geeft een overzicht.
+Tabel 8.3-1. Benamingen van overeenkomstige elektroden bij FET en buis (triode)
+
+Naam bij FET
+Naam bij buis (triode)
+Source
+Kathode
+Gate
+Rooster (Engels: grid)
+Drain
+Anode
+Het verhaal bij versterking is identiek aan dat bij de FET. Alleen heet de sourceweerstand
+bij de buis kathodeweerstand (Rk) en de drainweerstand anodeweerstand (Ra).
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.3-3. Voorbeeld van een Ia/Ug-karakteristiek (steilheid, links) en Ia/Ua-karakteristieken van een
+triode.
+
+Figuur 8.3-3 toont links de steilheidsgrafiek (Ia/Ug-karakteristiek) van een triode. Die lijkt
+sterk op de ID/UGS-karakteristiek van een FET. De Ia/Ua-karakteristiekenbundel van een
+triode, rechts in de figuur, lijkt echter helemaal niet op de ID/UDS-karakteristiekenbundel
+van een FET, zoals we die zagen in Figuur 8.2-4.
+Dat komt vooral doordat het elektrisch veld van de anode van invloed is op de
+elektronenstroom uit de kathode. De afscherming ervan door het rooster is niet heel
+effectief. S en Ri van FET en triode zijn desondanks in grootte vergelijkbaar.
+8.3.3 De penthode
+De penthode is te zien als een (sterk) verbeterde triode. Deze buis heeft tussen kathode en
+anode drie roosters. Het rooster dat het dichtst bij de kathode ligt, heet stuurrooster (g1).
+De functie is dezelfde als het rooster van de triode: het regelen van de elektronenstroom
+van kathode naar anode. Het tweede rooster (g2) heeft een constante positieve spanning.
+Het versnelt de elektronen en onttrekt daardoor een klein deel van de elektronenstroom
+aan de buis. Maar de grote meerderheid van de elektronen schiet er doorheen op weg naar
+de anode. Dit rooster schermt de invloed van het elektrisch veld van de anode op de
+kathode vrij effectief af en verkleint daardoor de invloed van de anodespanning op de
+elektronenstroom uit de kathode. Dit tweede rooster heet daarom schermrooster.
+De inwendige weerstand van een penthode is door het schermrooster (veel) groter dan die
+van een triode. Daardoor kan de spanningsversterking hoger zijn dan bij een triode.
+Voor een goede werking mag de schermroosterspanning niet worden beïnvloed door het
+te versterken signaal. Daarom is het schermrooster via een weerstand verbonden met een
+positieve spanning en ontkoppeld via een condensator. Weerstand en condensator vormen
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+een laagdoorlaatfilter (Hoofdstuk 5). Dat verzwakt eventuele resten van de
+signaalspanning op de schermroosterspanning.
+Het derde rooster (g3) is nodig, doordat het schermrooster de elektronen versnelt. Bij hun
+‘landing’ op de anode kunnen ze zoveel energie hebben dat ze elektronen uit de anode
+losmaken. Dat maakt de anode tot een tweede elektronenbron. Dat verschijnsel heet
+secundaire emissie. Die leidt tot ongewenste effecten. Het derde rooster is verbonden met
+de kathode en daardoor negatief ten opzichte van de anode. ‘Losgeslagen’ elektronen
+worden daardoor meteen teruggestuurd naar de anode. Zo hebben ze geen invloed op wat
+er verder in de buis gebeurt. Bovendien remt het derde rooster de door het schermrooster
+versnelde elektronen af. Het derde rooster staat bekend onder verschillende namen:
+remrooster, vangrooster of keerrooster en wordt in databladen aangeduid met g3. Een
+voorbeeld van een steilheidsgrafiek Ia/Ug1 en een bundel Ia/Ua-karakteristieken van een
+penthode is weergegeven in Figuur 8.3-4.
+
+Figuur 8.3-4. Karakteristieken van een penthode, geldend bij een schermroosterspanning (Ug2) van 250 V.
+De stuurroosterspanningen zijn aangegeven met Ug1.Links steilheid, rechts: Ia/Ua-karakteristieken.
+
+De steilheidsgrafiek ziet er net zo uit als bij de triode (Figuur 8.3-3) of de FET in Figuur
+8.2-3. De Ia/Ua-karakteristieken in Figuur 8.3-4 lijken niet op die van de triode. Ze doen
+meer denken aan de ID/UDS-karakteristieken van de FET (Figuur 8.2-4). Het verschil met
+de triode is een gevolg van de afschermende werking van het schermrooster.
+8.3.4 Schemasymbolen, vergelijking van FETs en buizen
+De schemasymbolen van alle behandelde buizen zien we in Figuur 8.3-5.
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.3-5. Schemasymbolen voor diode, triode en penthode met benamingen van de samenstellende
+delen. Bij de penthode is het vangrooster intern verbonden met de kathode. Dat is meestal zo.
+
+Er zijn meer soorten buizen dan getoond. Die vallen buiten de exameneisen.
+In Figuur 8.3-6 zien we twee versterkerschakelingen, één met een FET (links) en één met
+een triode (rechts).
+
+Figuur 8.3-6. Versterkerschakeling met FET (links) en met triode (rechts). De gloeidraad van de triode is in
+buizenschema’s zo vanzelfsprekend dat het voedingscircuit van de gloeidraad niet is opgenomen.
+
+De gelijkenis is groot. Het verschil is de voedingsspanning. In buizenschema’s wordt het
+gloeidraadcircuit meestal weggelaten, want een gloeidraad spreekt vanzelf. Vandaar het
+ogenschijnlijk niet-aangesloten eindje gloeidraad van de triode.
+De spanningsversterking is bij de triode iets kleiner dan anodeweerstand gedeeld door
+kathodeweerstand, Ra/Rk. De oorzaak is dezelfde als bij de FET: 1/S staat in serie met Rk.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.3-7. Links dezelfde triodeschakeling als in Figuur 8.3-6, rechts een gelijkwaardige schakeling met
+een penthode, waarin het vangrooster binnenin de buis al is doorverbonden met de kathode.
+
+Figuur 8.3-7 laat links dezelfde triodeschakeling zien als Figuur 8.3-6. Rechts zien we een
+gelijksoortige schakeling met een penthode. De penthodeschakeling lijkt ingewikkelder.
+Dat komt door het schermroostercircuit met het filter Rg2 en Cg2, besproken in 8.3.3.
+De elektronenstroom in de penthode splitst zich in anode- en schermroosterstroom. Voor
+wie voorkeur heeft voor de technische stroomrichting: de anode- en schermroosterstroom
+verenigen zich tot de kathodestroom, zoals in de figuur. De spanningsversterking van de
+schakeling is iets kleiner dan de verhouding Ra/Rk.
+
+8.4 Bipolaire transistoren
+8.4.1 Opbouw, schemasymbool en werking
+Bipolaire transistoren hebben twee PN-overgangen. Daarom heten ze bipolair. Bi staat
+voor twee. Een FET heeft maar één PN-overgang en heet daarom ook wel unipolaire
+transistor. Uni staat voor één.
+Je kunt je een bipolaire transistor die we hierna gewoon transistor zullen noemen,
+voorstellen als een sandwich of op zijn Nederlands: een dubbele boterham. Het brood is
+N-materiaal en er zit P-beleg tussen. Dat heet een NPN-transistor. Het kan ook andersom:
+P-brood met N-beleg ertussen heet een PNP-transistor. De ladingdragers bij een NPNtransistor zijn elektronen, die bij een PNP-transistor gaten. Een NPN werkt net als een
+PNP, maar met omgekeerde spanningspolariteit en stroomrichting. We bekijken nu een
+NPN-transistor in dwarsdoorsnede (Figuur 8.4-1). Er zijn drie elektroden. Van boven naar
+beneden: collector, basis en emitter.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.4-1. Opbouw van een NPN-transistor met namen van de elektroden en geschematiseerde
+spanningsverdeling.
+
+Wie de verdeling van de spanningen in de blokgrafiek rechts bekijkt, ziet dat de onderste
+PN-overgang geleidt als de spanning tussen emitter en basis groot genoeg is. De bovenste
+overgang is gesperd. Bij omkering van de spanningen is er weer één geleidende en één
+niet-geleidende PN-overgang. Dit vraagt om uitleg.
+Eigenlijk zien we twee dioden die hun anode, in dit geval de basis, delen. De andere
+elektroden heten emitter (uitzender) en collector (verzamelaar). De emitter-basisdiode
+geleidt. Er stromen elektronen van emitter naar basis. Dat verklaart de naam ´emitter’.
+De collectorspanning is positief ten opzichte van de emitter. De collector trekt zo de
+elektronen aan die vanuit de emitter in de basis zijn beland. De meeste elektronen steken
+zo de basis-collector- junctie over voordat ze een gat zijn tegengekomen om mee te
+recombineren. De weinige recombinaties in de basis leiden wel tot een basisstroom, maar
+die is maar een fractie van de emitterstroom. Figuur 8.4-2 brengt dat in beeld. De pijl staat
+in de technische stroomrichting. De figuur toont aan dat de emitterstroom de som is van
+basis- en collectorstroom. Dat volgt uit de eerste wet van Kirchhoff.
+
+Figuur 8.4-2. Spanningsverdeling over een NPN-transistor (links) en de stroomverdeling (rechts). De letter
+e staat voor emitter, b voor basis en c voor collector. Pijl in de technische stroomrichting.
+
+Schemasymbolen voor de PNP- en NPN-transistor staan in Figuur 8.4-3.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.4-3. Schemasymbolen voor PNP en NPN-transistor.
+
+8.4.2 Grootheden en karakteristieken
+Van essentieel belang is dat er in een transistor een tamelijk vast verband is tussen basisen collectorstroom. De grootheid die dat verband beschrijft wordt aangegeven als β, de
+Griekse letter voor b. Ook gebruikelijk is het symbool hFE. Dat hoort tot de zogenoemde
+h- parameters. Die zijn geen examenstoof. Alleen deze onthouden dus. Vergelijking::
+ℎ𝐹𝐸 = 𝛽 =
+
+𝐼C 𝑐𝑜𝑙𝑙𝑒𝑐𝑡𝑜𝑟𝑠𝑡𝑟𝑜𝑜𝑚
+=
+𝐼b
+𝑏𝑎𝑠𝑖𝑠𝑠𝑡𝑟𝑜𝑜𝑚
+
+( 8.4-1)
+
+De waarde van β verschilt per type transistor en kan tussen ongeveer 5 en 1000 liggen.
+Binnen één type kan de waarde gemakkelijk met een factor 2 variëren. Ook is β vrij sterk
+temperatuurafhankelijk. Dat kan lastig zijn als een transistor tijdens gebruik warm wordt.
+Kort samengevat is een transistor een ding waarmee je met een kleine basisstroom een
+grote collectorstroom stuurt. Het is dus een stroomversterker. Daarin verschilt de
+transistor van FET en buis, waarin een spanning een stroom stuurt.
+In de praktijk is het verschil niet zo groot als het nu misschien lijkt. De basisstroom kan
+(mede) worden bepaald door een spanning over een weerstand en de collectorstroom kan,
+net als de drain- of anodestroom bij FET of buis, via een weerstand weer worden omgezet
+in een spanning.
+Een groot verschil is dat door een buis of FET een stroom loopt, ook als de gate- of
+stuurroosterspanning 0 V is. Een transistor spert als de emitter-basis- junctie niet geleidt.
+Er moet een stroom tussen basis en emitter lopen om de transistor te kunnen laten
+werken. De emitter-basisjunctie is tenslotte een diode.
+Figuur 8.4-4 toont de karakteristiek van de transistor BC337: collectorstroom Ic tegen
+basis-emitterspanning Ube.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.4-4. Grafiek van collectorstroom Ic tegen basis-emitterspanning Ube bij een spanning van 5 V tussen
+collector en emitter voor de transistor BC337 (gegevens Philips).
+
+Figuur 8.4-4 verraadt dat het om een Si-transistor gaat. Bij een Ge-transistor zou het
+knikpunt van de grafiek in de buurt van Ube = 0,2 V liggen, hier tussen 0,5 en 0.6 V. De
+grafiek doet denken aan de steilheidskarakteristiek van FET en penthode, maar is steiler.
+
+Figuur 8.4-5. Ic/Uce-karakteristieken van de NPN Si-transistor BC107 (data Philips).
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+In Figuur 8.4-5 zien we de Ic/Uce-karakteristiekenbundel van de Si-transistor BC107. Deze
+lijkt op de grafieken voor de FET (Figuur 8.2-4) en de penthode (Figuur 8.3-4). Wat opvalt
+is de steil oplopende lijn links en de vlakke en rechte karakteristieken in het rechterdeel.
+Een collector-emitterspanning Uce van 1 V is genoeg om in het vlakke en hoogohmige deel
+van de karakteristieken terecht te komen.
+8.4.3 Regelen van de basisstroom
+Ook bij de transistor zien we een hoogohmige uitgang (collector), maar de ingang
+(emitter-basis circuit) is laagohmig. Ook al werkt hij anders dan FET of buis, het recept
+voor spanningsversterking is bij de transistor eigenlijk ongeveer hetzelfde. Het
+belangrijkste verschil is dat de transistor basisstroom van buitenaf nodig heeft om te
+kunnen werken. Doordat β meestal hoog is -reken op 100 of meer voor transistoren voor
+kleine signalen- is de vereiste basisstroom klein. Wel moet die worden gedoseerd en
+afgestemd op de collectorweerstand en -als die er is- de emitterweerstand. De instelstroom
+kan via een weerstand van de juiste grootte worden afgenomen van de voedingsspanning.
+De vraag is nu wat de juiste grootte is en hoe je die vindt. De eenvoudigste maar niet altijd
+de beste manier is die in Figuur 8.4-6.
+
+Figuur 8.4-6. Transistorinstelling door middel van een weerstand Rb tussen basis en voedingsspanning.
+
+De schakeling heeft geen emitterweerstand, wel een collectorweerstand. De basis is
+signaalingang; de collector is signaaluitgang. De condensatoren dienen om alleen
+wisselspanning/stroom door te geven. De basisweerstand Rb verzorgt de basisstroom. De
+voedingsspanning is (willekeurig gekozen) 10 V. We gaan uit van een siliciumtransistor.
+Uit Figuur 8.4-5 blijkt dat een collector-emitterspanning van 1 V genoeg is om de
+collectorkant van de transistor in het hoogohmige deel van de karakteristieken te houden.
+Die waarde van 1 V kan overigens tussen typen transistor iets verschillen. De
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+collectorspanning kan niet hoger zijn dan de voedingsspanning, hier 10 V. Om zoveel
+mogelijk ruimte voor de signaalamplitude te hebben, moet de collector worden ingesteld
+op een gelijkspanning halverwege die 1 V en 10 V, is 5,5 V. Dan kan de amplitude van de
+collectorspanning maximaal 10 V-5,5 V of 5,5 V- 1 V is 4,5 V zijn.
+Stel de collectorweerstand Rc = 1 k. Over Rc komt een spanning van 4,5 V. Dan is de
+collectorstroom Ic = 4,5 mA. Als bijvoorbeeld β=200, dan is volgens vergelijking ( 8.4-1) de
+basisstroom Ib= 4,5 mA/200 is 22,5 A. De basisspanning is ongeveer 0,6 V. Over de
+basisweerstand Rb moet dan 9,4 V staan. Bij de al gevonden 22,5 A betekent dit Rb = U/I
+= 9,4 V/22,5 A  0,42 M = 420 k.
+Let op: bij gebruik van V en A krijg je M uit de wet van Ohm!
+Het recept samengevat:
+1. Bepaal de gewenste collectorspanning uit de voedingsspanning en de minimaal
+benodigde collector-emitterspanning Uce
+2. Bepaal de collectorstroom uit collectorweerstand en verschil tussen voedingsspanning
+en de zojuist gevonden collectorspanning.
+3. Bepaal de basisstroom uit collectorstroom en β (hFE kan ook; is hetzelfde als β)
+4. Bepaal de basisweerstand uit voedingsspanning min basisspanning en de basisstroom.
+Een zwak punt is de hoge versterking van de schakeling. Dat klinkt misschien vreemd.
+Maar laten we nog eens goed naar Figuur 8.4-4 kijken. Je kunt daar een steilheid uit
+aflezen. Die komt voor het rechte deel van de grafiek neer op ongeveer 13 mA per 0,05 V
+is 260 mA/V. Bij een bescheiden collectorweerstand Rc van 1 k is de spanningsversterking
+260!. Bij de aangenomen en heel gangbare stroomversterking β van 200 komt dat neer op
+een vermogensversterking van 52000. Verderop in deze cursus zullen we zien dat heel
+hoge versterkingen in één element of versterkertrap gemakkelijk leiden tot instabiliteit in
+de versterker. Dat is een goede reden om de schakeling te voorzien van een
+emitterweerstand (Re). Omdat 1/S zo klein is, is de spanningsversterking bij een transistor
+nagenoeg gelijk aan Rc/Re.
+Een ander zwak punt is de waarde van β. Die kan binnen een transistortype met ruwweg
+een factor 2 variëren en is temperatuurafhankelijk. Als een transistor warm wordt, kan
+het werkpunt (in ons voorbeeld de collectorspanning van 5,5 V) verschuiven. Bij kleine
+signalen zal het bijna altijd goed gaan. Bij grotere kan het zijn dat het signaal aan plus- of
+minkant niet meer past binnen de grenzen van de collectorspanning. Het resultaat is
+vervorming. Een betrouwbaarder schakeling dan de enkele basisweerstand is dan de
+spanningsdeler. Figuur 8.4-7 toont hem, met emitterweerstand.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.4-7. Instelling van een siliciumtransistor met een spanningsdeler (R1 en R2) en een
+emitterweerstand Re. Bij een Ge-transistor moet de 0,6 V tussen emitter en basis 0,2 V zijn.
+
+De spanningsdeler bestaat ogenschijnlijk uit R1 en R2. Maar let op, de emitterweerstand Re
+doet ook mee, al is het beperkt. Oorzaak: de basisstroom is gelijk aan de emitterstroom
+gedeeld door (β+1). Dan lijkt Re via de basis β+1 keer vergroot. Omdat β>>1 en in de
+praktijk geen nauwkeurig getal is, mag je voor β+1 ook β schrijven. De onderste helft van
+de spanningsdeler is dan de vervangingsweerstand van de parallel geschakelde R2 en βRe.
+De basisspanning is bij een geleidende Si-transistor ruwweg gelijk aan de emitterspanning
+plus 0,6 V. Bij een Ge-transistor is dat emitterspanning plus 0,2 V.
+Onthoud:
+1. Het verschil tussen basisspanning en emitterspanning bij een siliciumtransistor is
+ongeveer 0,6 V; bij een germaniumtransistor ongeveer 0,2 V
+2. De weerstand, gemeten tussen basis en massa (0 V), is β+1 keer zo groot als de
+emitterweerstand. Afgerond: β keer, want β is veel groter dan 1 en onnauwkeurig.
+Nu het bepalen van de transistorinstelling. Bij een stroomvoerende transistor veroorzaakt
+de emitterweerstand Re een emitterspanning 𝑈𝑒 > 0𝑉. Die gaat ten koste van de ruimte
+voor het versterkte signaal op de collectorspanning 𝑈𝑐 . We nemen 𝑈𝑒 daarom niet te
+groot, zeg 1 V. Als Re 1 k is, moet de emitterstroom 1 mA zijn. Om de transistor goed te
+laten werken, gaan we uit van Figuur 8.4-5: minimaal 1 V over de transistor. Die 1 V is
+inclusief de basis-emitterspanning. Dat maakt 2 V van de 10 V over transistor en Re. Dan
+is er 8V= 2x 4V over voor de spanningsruimte op de collector. Dat betekent een
+collectorspanning 𝑈𝑐 van 2 V + 4 V = 6 V. Dan kan 𝑈𝑐 evenveel omhoog als omlaag. Over
+de collectorweerstand Rc moet dan 10 V – 6 V = 4 V staan. Bij een stroom van 1 mA is dat
+bij verwaarlozing van de basisstroom 4 k. Spanningsversterking: bijna 4 (4 k / 1 k).
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Nu de spanningsdeler. Als  =200, dan is Re = 200 k. Als we R2 flink kleiner nemen dan
+Re, bijvoorbeeld 20 k, dan is het effect van Re verwaarloosbaar. Dus 𝑅2 ≈ 20 k.
+Daarover staat 1 V emitterspanning plus ongeveer 0,6 V basis-emitterspanning, is
+ongeveer 1,6 V. Over R1 staat de voedingsspanning van 10V − 1,6 V = 8,4 𝑉. Dan is
+𝑅1 ⁄𝑅2 = 8.4⁄1,6. R220 k, dus R1 8,4.20 k/1,6  52,5 k.
+
+8.5 De drie basisschakelingen
+8.5.1 Inleiding
+In het voorgaande hebben we enkele versterkerschakelingen gezien. Er zijn er meer. Die
+gaan we systematisch bespreken. Met elk van de drie soorten versterkende elementen zijn
+er drie vergelijkbare schakelingen mogelijk. Steeds geldt hetzelfde principe: laagohmig
+waar de ladingdragers het element ingaan en hoogohmig waar ze er uitkomen. Er zijn drie
+soorten schakelingen per element. Tabel 8.5-1 geeft de overeenkomstige aansluitingen,
+Figuur 8.5-1 de schemasymbolen en de overeenkomstige nummers in de tabel.
+Tabel 8.5-1. Overeenkomstige aansluitingen van versterkende elementen. Schemasymbolen met
+overeenkomstige nummers van de elektroden in Figuur 8.5-1.
+
+Element
+
+Elektrode nummer
+2
+Gate
+(Stuur)rooster
+Basis
+
+1
+FET
+Buis
+Transistor
+
+Source
+Kathode
+Emitter
+
+3
+Drain
+Anode
+Collector
+
+Figuur 8.5-1. De elementen uit Tabel 8.5-1 met schemasymbool. De nummers verwijzen naar de
+genummerde kolommen in de tabel.
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Geschikt als signaalingang zijn de elektroden gemerkt 1 en 2. Die kunnen de
+stroomdoorgang door het element voldoende beïnvloeden. Voor de nummers 3 geldt dat
+niet. Die zijn verbonden met een hoogohmige inwendige weerstand. Ze beïnvloeden de
+stroomdoorgang weinig en zijn daarom ongeschikt als signaalingang.
+Geschikt als signaaluitgang zijn de elektroden 1 en 3, omdat ze in staat zijn, stroom te
+leveren. Dat is een onmisbare eigenschap bij versterking van vermogen. De elektroden 2
+kunnen dat niet en vallen dus af als signaaluitgang.
+De derde elektrode noemen we gemeenschappelijk. Alle drie de elektroden kunnen die
+rol vervullen. Daarmee houden we drie mogelijke combinaties over die we aangeven met
+A, B en C (Tabel 8.5-2).
+Tabel 8.5-2. De drie mogelijke combinaties bij versterkerschakelingen
+
+Combinatie
+Ingang
+Uitgang
+Gemeenschappelijk
+A
+2
+3
+1
+B
+1
+3
+2
+C
+2
+1
+3
+Schakelingen worden steeds genoemd naar de gemeenschappelijke elektrode. De
+benamingen en de bijbehorende signaal-in- en uitgangen staan in Tabel 8.5-3.
+Tabel 8.5-3. De drie keer drie combinaties van basisschakelingen met signaalingang, -uitgang en
+gemeenschappelijke elektrode, benaming en afkorting.
+
+Comb.
+A
+
+B
+
+C
+
+Element
+FET
+Buis
+Transistor
+FET
+Buis
+Transistor
+FET
+Buis
+Transistor
+
+Ingang
+Gate
+Rooster
+Basis
+Source
+Kathode
+Emitter
+Gate
+Rooster
+Basis
+
+Uitgang
+Drain
+Anode
+Collector
+Drain
+Anode
+Collector
+Source
+Kathode
+Emitter
+
+Gemeenschappelijk, naam
+Gem. sourceschakeling
+Gem. kathodeschakeling
+Gem. emitterschakeling
+Gem. gateschakeling
+Gem. roosterschakeling
+Gem. basisschakeling
+Gem. drainschakeling
+Gem. anodeschakeling
+Gem. collectorschakeling
+
+Afkorting
+GSS
+GKS
+GES
+GGS
+GRS
+GBS
+GDS
+GAS
+GCS
+
+We behandelen de drie combinaties A, B en C uit Tabel 8.5-3 in afzonderlijke
+subparagrafen. In de figuren worden voor de spanningen op de elektroden steeds (ideale)
+bronnen gebruikt. De signaalbron wordt weergegeven als (ideale) wisselspanningsbron.
+Bedenk dat in werkelijkheid niets ideaal is. De weerstand, impedantie of reactantie van de
+schakeling die het versterkte signaal ontvangt, wordt weergegeven als weerstand RL (met
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+de L van beLasting of het Engelse Load). Transistoren zijn NPN, FET’s zijn N-FET’s,
+buizen triodes. De ladingdragers zijn dus in alle besproken gevallen elektronen.
+8.5.2 Combinatie A. Gemeenschappelijke source/kathode/emitterschakeling
+We beginnen met het soort schakeling dat we eerder hebben gezien. Signaalingang is
+gate/rooster/basis, signaaluitgang drain/anode/collector. De schakelingen staan voor alle
+drie de elementen in hun eenvoudigste vorm in Figuur 8.5-2.
+
+Figuur 8.5-2. De basisschakelingen GSS (1), GKS (2) en de GES (3). Signaalingangen zijn aangegeven met
+“in”; uitgangen met “uit”.
+
+De signaaluitgangen drain, anode en collector zijn alle drie hoogohmig, dat wil zeggen dat
+de stroom via drain, anode of collector weinig spanningsafhankelijk is.
+Bij de signaalingangen gate, rooster en basis is er verschil tussen FET en buis enerzijds en
+de transistor anderzijds. Bij FET en buis is de stroom door het element spanninggestuurd.
+De steilheid ligt in dezelfde orde van grootte, meestal 2-10 mA/V. Een transistor wordt in
+geleiding gebracht door basisstroom. die de basis-emitterovergang in geleiding brengt. Dat
+gebeurt, als de basis-emitterspanning ongeveer 0,6 V is.
+De ‘steilheid’ van een transistor, voorzover je daarvan kunt spreken, is veel groter dan die
+van FET of buis. Daardoor is de spanningsversterking bij een transistor vrijwel gelijk aan
+de verhouding collectorweerstand/emitterweerstand. De spanningsversterking bij FET en
+buis is iets kleiner dan de vergelijkbare verhouding sourceweerstand/drainweerstand,
+respectievelijk kathodeweerstand/anodeweerstand.
+Een belangrijke eigenschap van combinatie A is dat de wisselspanning op de
+signaaluitgang in tegenfase is met die op de signaalingang.
+8.5.3 Combinatie B. Gemeenschappelijke gate/rooster/basisschakeling
+De drie schakelingen staan in hun eenvoudigste vorm in Figuur 8.5-3.
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+Figuur 8.5-3. De basisschakelingen GGS (1), GRS (2) en de GBS (3). Signaalingangen zijn aangegeven met
+“in”; uitgangen met “uit”.
+
+Hier zijn source, kathode en emitter de signaalingangen. Die zijn allen laagohmig.
+De stroom op de signaaluitgang is even groot als die op de signaalingang; alleen bij de
+transistor is de vrijwel altijd verwaarloosbaar kleine basisstroom afgetakt.
+De stroomversterking is dus 1 en bij de transistor praktisch 1. De spanningsversterking is
+even groot als bij combinatie A (8.5.2), de GSS, GKS en de GES.
+De signaaluitgangen zijn dezelfde als in Combinatie A en dus ook hier hoogohmig.
+Uitgangs- en ingangssignaal zijn in fase. Dat is dus tegengesteld aan Combinatie A.
+8.5.4 Combinatie C. Gemeenschappelijke drain- anode- en collectorschakeling.
+De schakelingen zijn in hun eenvoudigste vorm weergegeven in Figuur 8.5-4.
+
+Figuur 8.5-4. De basisschakelingen GDS (1), GAS (2) en GCS (3). Signaalingangen zijn aangegeven met “in”;
+uitgangen met “uit”.
+
+De signaaluitgang is de source, kathode of emitter. De spanningsversterking is bij FET en
+buis iets minder dan 1, voor de transistor vrijwel 1. Het kleine verschil zit in de steilheid.
+De stroomversterking is bij alle drie groot: voor FET en buis in theorie oneindig, voor de
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8 kort 20250908
+
+transistor ongeveer gelijk aan β. De signaalspanning op de uitgang volgt vrijwel de
+spanning op de signaalingang. Een andere naam voor deze drie schakelingen is source-,
+kathode- of emittervolger. In- en uitgangssignaal zijn in fase.
+8.5.5 De basisschakelingen samengevat
+De eigenschappen van de drie basisschakelingen zijn voor de drie versterkende elementen
+samengevat in Tabel 8.5-4. Waar de stroomversterking als “zeer hoog” is aangegeven, is
+de weerstand op de signaalingang (in theorie) oneindig. De ingangsweerstand voor het
+signaal bij de gemeenschappelijke collectorschakeling (emittervolger) is gelijk aan β+1 (in
+de praktijk β omdat β veel groter is dan 1) maal de vervangingsweerstand van de
+emitterweerstand Re en de daaraan parallel staande belastingsweerstand RL.
+Tabel 8.5-4. Overzicht van de eigenschappen van de basisschakelingen voor de drie versterkende elementen.
+
+Element
+Gemeenschappelijk
+Signaalingang
+Signaaluitgang
+Ingangsweerstand
+Uitgangsweerstand
+Spanningsversterking
+Stroomversterking
+Faseverschil in/uit
+Gemeenschappelijk
+Signaalingang
+Signaaluitgang
+Ingangsweerstand
+Uitgangsweerstand
+Spanningsversterking
+Stroomversterking
+Faseverschil in/uit
+Gemeenschappelijk
+Gangbare benaming
+Signaalingang
+Signaaluitgang
+Ingangsweerstand
+
+FET
+Source
+Gate
+Drain
+Hoog
+Hoog
+Hoog
+Zeer hoog
+180º
+Gate
+Source
+Drain
+Laag
+Hoog
+Hoog
+1
+0º
+Drain
+Sourcevolger
+Gate
+Source
+Hoog
+
+Buis
+Kathode
+Rooster
+Anode
+Hoog
+Hoog
+Hoog
+Zeer hoog
+180º
+Rooster
+Kathode
+Anode
+Laag
+Hoog
+Hoog
+1
+0º
+Anode
+Kathodevolger
+Rooster
+Kathode
+Hoog
+
+Uitgangsweerstand
+Spanningsversterking
+Stroomversterking
+Faseverschil in/uit
+
+Laag
+Iets minder dan 1
+Zeer hoog
+0º
+
+Laag
+Iets minder dan 1
+Zeer hoog
+0º
+
+© 2021, 2025, Vereniging van Radiozendamateurs VRZA
+
+25
+
+Transistor
+Emitter
+Basis
+Collector
+Vrij laag
+Hoog
+Hoog
+β
+180º
+Basis
+Emitter
+Collector
+Laag
+Hoog
+Hoog
+Vrijwel 1
+0º
+Collector
+Emittervolger
+Basis
+Emitter
+𝑅e 𝑅L
+(hoog)
+𝛽
+𝑅e + 𝑅L
+Laag
+Vrijwel 1
+β
+0º
+
+

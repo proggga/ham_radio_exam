@@ -1,0 +1,624 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Inhoudsopgave
+9
+
+Versterkerschakelingen .................................................................................................... 2
+9.1
+
+Wat leer je in dit hoofdstuk ...................................................................................... 2
+
+9.2
+
+Instelling van versterkende elementen, belastingslijnen ........................................ 2
+
+9.2.1
+
+Inleiding ............................................................................................................. 2
+
+9.2.2
+
+Belastingslijnen.................................................................................................. 2
+
+9.3
+
+Dissipatie en dissipatiehyperbolen ........................................................................... 5
+
+9.4
+
+Koppelen van versterkertrappen .............................................................................. 7
+
+9.4.1
+
+Inleiding ............................................................................................................. 7
+
+9.4.2
+
+Weerstandskoppeling........................................................................................ 7
+
+9.4.3
+
+Smoorspoelkoppeling ...................................................................................... 10
+
+9.4.4
+
+Transformatorkoppeling ................................................................................. 11
+
+9.5
+
+Klassen van instelling van versterkers ................................................................... 12
+
+9.5.1
+
+Inleiding ........................................................................................................... 12
+
+9.5.2
+
+Klasse A ............................................................................................................ 13
+
+9.5.3
+
+Klasse B ............................................................................................................ 14
+
+9.5.4
+
+Klasse C ............................................................................................................ 16
+
+9.5.5
+
+Klasse AB ......................................................................................................... 18
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+9 Versterkerschakelingen
+9.1 Wat leer je in dit hoofdstuk
+Versterkende elementen worden meestal zo ingesteld dat ze een zo groot mogelijk signaal
+kunnen versterken bij zo min mogelijk vervorming. Dat is te bereiken via de
+gelijkstroominstelling. Een belangrijk gereedschap daarbij is de belastingslijn.
+Een versterkend element moet daarbij niet zoveel energie dissiperen dat het te heet wordt
+en stuk gaat. Om dat in de hand te houden, combineren we belastingslijnen met
+dissipatiehyperbolen.
+Omdat een versterker meestal uit meer dan één versterkertrap bestaat, worden die
+trappen onderling gekoppeld. We bespreken weerstandskoppeling, smoorspoelkoppeling
+en transformatorkoppeling.
+Bij versterkers voor groot vermogen is rendement belangrijk. We bespreken in dat
+verband verschillende klassen van instelling. Bij sommige klassen wordt de eis van
+minimale vervorming ingeruild voor die van hoger rendement.
+
+9.2 Instelling van versterkende elementen, belastingslijnen
+9.2.1 Inleiding
+Versterkende elementen worden meestal zo ingesteld, dat ze een zo groot mogelijk signaal
+met zo min mogelijk vervorming kunnen verwerken. Dat gebeurt met de instelling voor
+gelijkstroom en -spanningen via weerstanden en soms aparte spanningsbronnen.
+N-FET en buis krijgen een spanning op gate of stuurrooster die negatief is ten opzichte
+van source, resp. kathode. Een P-FET heeft juist een positieve gatespanning nodig. Bij een
+transistor moet de emitter-basisdiode in geleiding zijn.
+Bij de onderlinge afstemming van spanningen en stromen door een versterkend element is
+de belastingslijn een belangrijk hulpmiddel. Dat stukje gereedschap bespreken we nu.
+9.2.2 Belastingslijnen
+Een belastingslijn is kort gezegd een lijn in een karakteristiekengrafiek (stroom door
+versus spanning over het element) die de punten met (1) nul stroom door en maximale
+spanning over het element en (2) maximale stroom door en nul spanning over het element
+verbindt. Dat zijn theoretische punten, maar het meeste ertussen is reëel.
+Figuur 9.2-1a toont een versterkerschakeling met een N-FET en Figuur 9.2-1b een bundel
+schematische ID/UDS-karakteristieken. De belastingslijn is de paarse stippellijn van punt A
+op de verticale as naar punt B op de horizontale.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.2-1. Een N-kanaal FET-versterker (a) met geschematiseerde ID/UDS – karakteristiek en belastingslijn
+(b).
+
+Op punt A is de spanning UDS tussen drain en source 0 V. De FET gedraagt zich als
+kortsluiting. Deze situatie is niet reëel, maar nodig voor de berekening. De stroom wordt
+dan bepaald door de voedingsspanning van 25 V en de weerstanden RD en RS in Figuur
+9.2-1a. Op punt B spert de FET, want ID=0 en dus is de spanning UDS over de FET gelijk
+aan de voedingsspanning van 25 V. Ook dit is niet reëel voor een versterkerschakeling.
+Midden op de paarse lijn bij punt P is de situatie wel realistisch. UDS kan dan ongeveer
+evenveel omhoog als omlaag. Dat betekent dat de FET in de gegeven situatie een zo groot
+mogelijk signaal kan verwerken: een halve voedingsspanning omhoog en een halve
+omlaag. Punt P zou dan ook een goed instelpunt, dat heet werkpunt, kunnen zijn.
+Zoals zo vaak, is er een maar. Die maar is de lijn die de knikpunten (kniepunten) van de
+ID/UDS-karakteristieken verbindt. Pas rechts van die lijn ligt het gebied waarin de
+inwendige weerstand van de FET in de praktijk min of meer constant en hoog is. Zou de
+instelling van de FET in het gebied links daarvan terechtkomen, dan komt het werkgebied
+van de FET voorbij een kniepunt met ernstige signaalvervorming tot gevolg.
+Dit is de reden voor een tweede punt A, aangegeven als A’ (spreek uit: A-accent). Dat
+punt ligt op de steil oplopende zwarte lijn. Rechts daarvan kan met minimale vervorming
+worden versterkt, links niet. Punt B blijft waar het was. Door de verschuiving van A naar
+A’ verschuift het werkpunt P naar punt P’. Nu een rekenvoorbeeld.
+Punt P’ ligt vlak bij de karakteristiek voor UGS = -3 V. Gemakshalve doen we of het punt
+erop ligt. Dan moet de spanning over de sourceweerstand RS 3 V zijn. De bijbehorende
+stroom lezen we af op de verticale as: 8 mA. De wet van Ohm levert RS = 3/8 k = 375 .
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+De drainspanning UDS voor punt P’ is uit de grafiek af te lezen op de horizontale as. Die is
+ongeveer 14 V. De spanning over de drainweerstand is dan 25V-14V-3V= 8V.
+Drainstroom = sourcestroom = 8 mA. Daaruit volgt RD = 8 V/8 mA =1 k.
+De spanningsversterking Au van de hele schakeling is dan te berekenen volgens
+𝑅D
+( 9.2-1)
+1
+𝑅S + ⁄𝑆
+De steilheid S is bij gebrek aan een ID/UGS-karakteristiek af te lezen uit de grafiekenbundel
+van Figuur 9.2-1. De lijnen liggen 4 mA uit elkaar en UGS verschilt per lijn 1 V. Dus S = 4
+mA/V en 1/S = 250 . Volgens vergelijking ( 9.2-1) is Au = 1000 /(375 + 250) = 1,6.
+𝐴𝑢 =
+
+De versterking voor wisselspanningen kan zonder weerstanden te veranderen worden
+verhoogd. Het recept: ontkoppel de sourceweerstand RS met een capaciteit die zo groot is
+dat de reactantie bij de betreffende frequentie(s) klein is vergeleken met RS (Figuur 9.2-2).
+
+Figuur 9.2-2. Schakeling met N-FET als in Figuur 9.2-1 met ontkoppelde sourceweerstand RS (a) en de
+bijbehorende belastingslijn (b).
+
+Ook dan is Au te berekenen, omdat RS in de noemer van vergelijking ( 9.2-1) 0 wordt. We
+krijgen dan
+𝑅D
+( 9.2-2)
+= 𝑆𝑅D
+1⁄
+𝑆
+Vergelijking (( 9.2-2) levert dan Au = 1000 /250 =4. Denk erom dat als S in mA/V staat,
+RD in k moet!
+𝐴𝑢 =
+
+Voor buis en bipolaire transistor verloopt het bepalen en interpreteren van een
+belastingslijn net als bij de FET. Voor transistoren geldt dat het verschil tussen
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+emitterstroom en collectorstroom (= basisstroom) verwaarloosbaar moet zijn. Dat is bijna
+altijd zo. Het is dus niet nodig, buis en transistor hier apart te bespreken. Wat opgaat voor
+de FET, gaat ook op voor buis en transistor.
+
+9.3 Dissipatie en dissipatiehyperbolen
+Aan een versterkend element toegevoerde vermogen P wordt grotendeels omgezet in
+warmte. Deze dissipatie 𝑃𝑑𝑖𝑠𝑠 is te berekenen als het product van de drainstroom ID en de
+spanning UDS tussen drain en source, dus:
+𝑃𝑑𝑖𝑠𝑠 = 𝐼D 𝑈DS
+
+( 9.3-1)
+
+Voor ID mag je ook IS schrijven, want beide stromen zijn gelijk. Vervang ID door Ik en UDS
+door Uak en je hebt de vergelijking voor een buis. Daarbij verwaarlozen we de gloeidraad
+die bij een buis voor klein vermogen vaak de grootste energieslurper is. Bij bipolaire
+transistoren mag je 𝐼𝑐 en 𝐼𝑒 gelijkstellen als β groot genoeg is om de basisstroom te mogen
+verwaarlozen. Dat is vrijwel altijd zo.
+Elk type FET heeft maximale waarden voor UDS en voor de stroom ID. Die gegevens staan
+in databladen die op internet wel zijn te vinden. Op het examen zul je ze niet aantreffen.
+Als je die maximale waarden met elkaar vermenigvuldigt zoals in ( 9.3-1), kom je (ver)
+boven de maximale dissipatie Pmax uit. Hetzelfde geldt voor buis en transistor.
+Een belastingslijn wordt daarom wel gecombineerd met een dissipatiegrafiek. Daarvoor
+zet je 𝑃𝑑𝑖𝑠𝑠 vast op een bepaalde waarde. Dan kun je ID en UDS tegen elkaar uitzetten in
+een grafiekenbundel, voor elke waarde van 𝑃𝑑𝑖𝑠𝑠 één. Dat lijkt dus op een bundel
+karakteristieken als in Figuur 9.2-1b. De bijbehorende vergelijking is ( 9.3-1), maar anders
+opgeschreven:
+𝐼D =
+
+𝑃𝑑𝑖𝑠𝑠
+𝑈DS
+
+( 9.3-2)
+
+Hoe dat er in grafiekvorm uitziet, zien we in Figuur 9.3-1, met grafieken voor P = 100
+mW, P = 250 mW, P = 500 mW en P = 1 W. De wiskundige naam voor een grafiek van
+deze vorm is hyperbool. Als het een dissipatiegrafiek is, heet hij een dissipatiehyperbool.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.3-1. Dissipatiehyperbolen voor vier verschillende dissipaties (1 W, 500 mW, 250 mW en 100 mW.
+
+In Figuur 9.3-1 kun je ook de maximale waarden voor ID en UDS opnemen. Dan krijg je
+een grafiek met ‘verboden gebieden’. Stel dat het maximum voor UDS 25 V is en voor ID 50
+mA, dan krijgen we twee grenzen van verboden gebied, een horizontale en een verticale
+(Figuur 9.3-2).
+
+Figuur 9.3-2. Dezelfde figuur als Figuur 9.3-1, aangevuld met ‘verboden gebied’ (gearceerd), begrensd door
+de lijnen UDS = 25 V en ID = 50 mA.
+
+Om te controleren of een werkpunt binnen of buiten een dissipatiehyperbool ligt, kan de
+bijbehorende hyperbool worden toegevoegd aan een grafiek met een belastingslijn zoals
+getekend in Figuur 9.2-1. Dat leidt tot Figuur 9.3-3.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.3-3. Geschematiseerde ID/UDS – karakteristieken met belastingslijn van Figuur 9.2-1 met
+dissipatiehyperbolen voor P=100 mW en P=250 mW.
+
+De eerder bepaalde werkpunten P en P’ liggen net boven de hyperbool van 100 mW. Nu
+is 100 mW in halfgeleiderland een weinig voorkomende maximale dissipatie. 250 mW
+komt vaker voor. Daar komt de belastingslijn in Figuur 9.3-3 lang niet aan toe, maar het
+komt voor dat een belastingslijn en een dissipatiehyperbool elkaar wel kunnen ‘bijten’.
+
+9.4 Koppelen van versterkertrappen
+9.4.1 Inleiding
+In de meeste schakelingen levert één enkele versterkertrap niet genoeg versterking. Er
+moeten dan meer trappen achter elkaar worden geschakeld. Het versterkte signaal van
+één trap wordt dan doorgegeven naar de volgende. Die koppeling kan zijn:
+•
+•
+•
+
+Weerstandskoppeling
+Smoorspoelkoppeling
+Transformatorkoppeling
+
+9.4.2 Weerstandskoppeling
+Figuur 9.4-1 toont een voorbeeld van weerstandskoppeling tussen twee N-kanaals FETversterkertrappen. De term weerstandskoppeling is eigenlijk onjuist, maar ingeburgerd.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.4-1. Schema met weerstandskoppeling van N-FET-versterkertrappen.
+
+De twee drainweerstanden van 1 k koppelen niets. Ze zetten de stroom door de FET om
+in een spanning. Het wisselspanningsdeel daarvan wordt via de condensatoren Ck1 en Ck2
+overgebracht naar de volgende versterkertrap. Dat zijn de koppelelementen. Hun
+reactantie moet bij de laagste te versterken frequentie lager zijn dan de weerstand van het
+gatecircuit van de volgende trap, want de condensator vormt een hoogdoorlaatfilter met
+de weerstand (hoofdstuk 5). Weerstand 2x zo klein, condensator 2x zo groot. Reken voor
+Ck1 en Ck2 in een audioversterker (bijvoorbeeld 15-15 000 Hz) met FET op 10 à 100 nF.
+Voor de sourcecondensatoren CS1 en CS2 geldt hetzelfde. De sourceweerstanden van 220
+ zijn in dit voorbeeld bijna 50x zo klein als die van 1 M tussen gate en massa. CS1 en
+CS2 moeten dan bijna 50x zo groot zijn als Ck1. Dat is ongeveer 0,5-5 F. Dan hebben we
+het nog niet gehad over de waarde van 1/S, waardoor de condensatoren nog ruwweg een
+factor 2 groter moeten zijn. In de praktijk zijn het daarom bij audiofrequenties meestal
+elektrolytische condensatoren. Die hebben bij klein volume al een hoge capaciteit, maar
+zijn alleen geschikt voor LF-toepassingen.
+Bij bipolaire transistoren zijn de ingangsweerstanden lager en is de capaciteit van de
+koppelcondensatoren evenredig hoger. Hetzelfde geldt voor de ontkoppelcondensatoren
+over de emitterweerstanden. Bedenk dat de “steilheid” van transistoren veel groter is dan
+die van FET’s. Figuur 9.4-2 laat een voorbeeld van een versterker met bipolaire
+transistoren zien.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.4-2. Schema voor weerstandkoppeling tussen versterkertrappen met NPN-transistoren.
+
+De schakelingen in zowel Figuur 9.4-1 als Figuur 9.4-2 zijn voornamelijk geschikt voor
+LF-toepassingen (audio). Die versterkers moeten alle frequenties in het hoorbare gebied
+ongeveer evenveel versterken. Een voorbeeld van het frequentiediagram van een (zeer)
+goede audioversterker zien we in Figuur 9.4-3.
+
+Figuur 9.4-3. Voorbeeld van een frequentiekarakteristiek van een (zeer) goede audioversterker uit omstreeks
+1955. (data ontleend aan Hellings, Het ontwerpen van versterkers. Muiderkring, 1958).
+
+Voor radiodoeleinden is zo’n goede frequentiekarakteristiek of doorlaatkarakteristiek niet
+nodig of zelfs ongewenst. In HF-versterkers, dus bijvoorbeeld versterkers voor
+radiosignalen, wordt nagenoeg nooit weerstandskoppeling toegepast, maar koppeling via
+LC-kringen. Daarvan zien we verderop een voorbeeld bij de transformatorkoppeling
+(9.4.4).
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+9.4.3 Smoorspoelkoppeling
+Bij smoorspoelkoppeling is de drainweerstand in Figuur 9.4-1 of de collectorweerstand in
+Figuur 9.4-2 vervangen door een smoorspoel. Het werkelijke koppelelement is opnieuw
+de koppelcondensator, net als in die beide figuren. Een smoorspoel heeft het voordeel dat
+hij, althans in theorie, geen vermogen dissipeert. Een voorbeeld van smoorspoelkoppeling
+met FETs zien we in Figuur 9.4-4, een variant van Figuur 9.4-1.
+
+Figuur 9.4-4. Een voorbeeld van smoorspoelkoppeling. FET Q1 is via smoorspoel L en koppelcondensator Ck
+gekoppeld met FET Q2 die zelf via een transformatorschakeling met de signaaluitgang is gekoppeld.
+
+Bij smoorspoelkoppeling kan een hogere versterking worden bereikt dan bij
+weerstandskoppeling. De oorzaken:
+•
+•
+
+Hogere spanning (vrijwel voedingsspanning) op drain, collector of anode als gevolg
+van de lage Ohmse weerstand van een spoel
+De signaalspanning op de uitgang kan in theorie uitslingeren tot 2x de
+voedingsspanning (Figuur 9.4-5), in werkelijkheid iets minder.
+
+Figuur 9.4-5. Verschil in uitgangssignaal bij weerstandskoppeling (a) en smoorspoelkoppeling (b).
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Smoorspoelkoppeling wordt meestal in HF-schakelingen toegepast die maar een
+betrekkelijk klein frequentiegebied hoeven te versterken. In LF-schakelingen zoals
+audioversterkers wordt smoorspoelkoppeling allang niet meer toegepast, omdat
+•
+•
+
+De smoorspoel een grote zelfinductie moet hebben. Dat maakt hem groot, zwaar
+en duur
+De reactantie toeneemt met de frequentie. De versterking is daardoor frequentieafhankelijk. Voor audioschakelingen, waarin alle frequenties over een breed
+spectrum evenveel moeten worden versterkt, is dat ongewenst.
+
+9.4.4 Transformatorkoppeling
+Bij transformatorkoppeling doorloopt het uitgangssignaal van een versterkertrap de
+primaire van een transformator die via zijn secundaire de ingang van de volgende
+versterkertrap aanstuurt.
+In hoogfrequentversterkers is deze manier van koppelen algemeen In LF-versterkers is hij
+op enkele bijzondere toepassingen na uitgestorven. Voor HF zijn transformatoren kleiner
+en handzamer dan voor LF, omdat de zelfinductie en dus het aantal wikkelingen veel
+lager mag zijn en zulke trafo’s daardoor klein van gewicht en afmetingen zijn.
+De koppeltransformator kan een “gewone” transformator zijn of één, waarvan één of alle
+wikkelingen zijn uitgevoerd als afgestemde kring, dus met een parallelle condensator. In
+het laatste geval hebben we te maken met inductief gekoppelde afgestemde kringen
+(bandfilters). Figuur 9.4-6 toont een schakeling met zo’n transformator tussen Q1 en Q2.
+Die aan de uitgang van Q2 heeft één afgestemde kring en een zogenoemde
+uitkoppelwikkeling die de signaaluitgang vormt.
+
+Figuur 9.4-6. Voorbeeld van transformatorkoppeling tussen FETs met afgestemde wikkelingen. Q 2 is een
+dual-gate MOSFET. De reden daarvoor komt in Hoofdstuk 10 aan de orde.
+
+Dit soort koppeling is gebruikelijk in ontvangers, waarin ongewenste frequenties zoveel
+mogelijk moeten worden weggefilterd. Q2 is een dual-gate MOSFET (hoofdstuk 8). De
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+bovenste gate is ontkoppeld met een condensator en vervult dezelfde rol als het
+schermrooster in een penthode. Zo wordt de capacitieve koppeling tussen de drainkring
+van Q2 en de uitkoppelwikkeling van Q1 zo klein mogelijk. Het waarom komt in
+Hoofdstuk 10 bij de oscillatoren aan de orde.
+
+9.5 Klassen van instelling van versterkers
+9.5.1 Inleiding
+Elk versterkend element werkt op gelijkstroom. De stroom gaat er maar in één richting
+doorheen. De wisselstroom van een signaal moet meeliften met de gelijkstroom. Samen
+zijn ze een onzuivere wisselstroom. De amplitude van het wisselstroomdeel kan nooit
+groter worden dan de van het gelijkstroomdeel, want dan zou de stroom een deel van de
+tijd in omgekeerde richting lopen.
+De dissipatie van het element blijft daardoor met en zonder signaal praktisch gelijk. In
+grafiekvorm ziet dat er ongeveer uit als de paarse, resp. de oranje grafiek in Figuur 9.5-1.
+
+Figuur 9.5-1. Voorstelling van de onzuivere wisselstroom van signaalstroom en gelijkstroom in een
+versterkend element (rood en paars) en het signaaldeel (blauw). Het element is over zijn volle bereik lineair
+verondersteld, wat in de praktijk nooit zo is.
+
+De gelijkstroom (oranje) heeft in de figuur dezelfde waarde als de amplitude van de
+sinusvormige signaalstroom (blauw). Op de uitgang van het versterkende element loopt de
+som van beide, een onzuivere wisselstroom (paars). De effectieve waarde van de
+gelijkstroom is 1 eenheid; die van de wisselstroom ½√2  0,7 eenheid. Als we de
+vermogensverdeling die aan een vervolgschakeling wordt doorgegeven uitrekenen, staat
+het gelijkstroomdeel voor 12=1 eenheid vermogen en het wisselstroomdeel voor (½√2)2 =
+0,5 eenheid, samen 1,5 eenheid. Daarvan zit dus één derde deel = 33%, in het
+wisselstroomdeel. Het gelijkstroomdeel gaat volledig op in warmte: vermogensverlies.
+Vooral in versterkers met groot vermogen beperken we dat verlies graag. De klassen van
+instelling, aangeduid als A, B, C en AB, hebben te maken met de mate van beperkung.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+9.5.2 Klasse A
+De instelling in Klasse A levert bijvoorbeeld de paarse sinus in Figuur 9.5-1. Als we
+vervorming willen vermijden, mag de paarse sinus naar beneden niet tot 0 lopen, omdat
+hij daar in het niet-lineaire gebied van de transistor, FET of buis komt. Figuur 9.5-1 is dus
+geïdealiseerd. Daarom haalt een versterker in klasse A een rendement van hooguit 25%.
+Kenmerken van Klasse A zijn
+•
+•
+•
+•
+
+De opgenomen gelijkstroom blijft met en zonder signaal ongeveer gelijk
+De vervorming is klein
+Toepasbaar in zowel HF als LF-versterkerschakelingen
+Rendement zoals gezegd hooguit 25 %.
+
+Figuur 9.5-2. Schakelingen in klasse A met drie soorten versterkende elementen; (a) met N-FET, (b) met
+(voor de verandering) een PNP-transistor en (c) een penthode zonder ontkoppelingscondensator aan de
+kathode (ook voor de verandering).
+
+Figuur 9.5-2 laat versterkerschakelingen met FET (a), bipolaire transistor (b) en penthode
+(c) in klasse A zien. Alle versterkende schakelingen die we tot nu toe hebben gezien,
+stonden in klasse A. Figuur 9.5-3 toont een geïdealiseerde steilheidsgrafiek (ID/UGS) voor
+de situatie in klasse A bij een N-FET.
+Vervang in de figuur ID en -UGS door Ia en -Ug1 en je hebt een grafiek voor een buis.
+Vervang ze door Ic en Ube en je hebt er één voor een NPN-transistor. Dat geldt voor alle
+grafieken van de klassen van instelling die we hierna zullen zien.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.5-3. Voorstelling van een steilheidsgrafiek voor een N-FET in Klasse A.
+
+9.5.3 Klasse B
+In klasse B wordt de gelijkstroomdissipatie beperkt. Dat leidt tot een hoger rendement.
+100% reductie kan niet. Zonder gelijkstroom geen werkend element.
+Klasse B houdt in dat het versterkende element precies in het afknijppunt wordt ingesteld,
+dus aan het onderste puntje van de steilheidsgrafiek. Het versterkende element voert dan
+net geen stroom zonder signaal, maar voor één helft van de sinus wel (Figuur 9.5-4).
+
+Figuur 9.5-4. Steilheidsgrafiek voor een N-FET in Klasse B.
+
+Daar komt vervorming van. Van elke sinus wordt maar één helft versterkt en
+doorgegeven. De andere helft verdwijnt. Daaraan is op twee manieren iets te doen.
+1. Een dubbele versterkertrap, waarbij één halve sinus door de ene, en de andere
+halve sinus door de andere helft van de trap wordt versterkt. Dat heet een
+balansversterker.
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+2. Eén of meer afgestemde filters. Vervorming betekent harmonischen. Als die
+worden weggefilterd, houden we een complete sinus van dezelfde frequentie over.
+Vooral bij buizen is de lineariteit vaak goed genoeg om de versterking voor grote en kleine
+signalen redelijk gelijk te houden. Bij bipolaire transistoren is dat vaak een probleem. Bij
+grote signalen is de versterking redelijk lineair, bij kleine niet. FETs zitten daar tussenin.
+Een klasse B-versterker haalt een rendement rond de 50%. Figuur 9.5-5 toont voorbeelden
+van klasse B-schakelingen voor een N-FET, een NPN-transistor en een penthode.
+
+Figuur 9.5-5. Schakelingen in Klasse B. (a) N-FET met -UGS toegevoerd via een smoorspoel; (b) schakeling
+met NPN-transistor, eveneens met smoorspoel aan de ingang en basisspanning gelijk aan U be door middel
+van een diode en (c) penthodeschakeling met -Ug toegevoerd via een smoorspoel en met afgestemde kring
+aan de ingang.
+
+FET en buis hebben een aparte bron voor de negatieve gate-, resp. roosterspanning nodig.
+Die moet zo zijn ingesteld dat het versterkend element precies in zijn afknijppunt staat. In
+de figuur wordt die spanning via een smoorspoel, dus een vrijwel HF-dichte verbinding,
+geleverd. Bij de transistor levert een in voorwaartse richting geschakelde diode (Ge bij
+germanium- en Si bij siliciumtransistoren) een basisspanning waarbij net nog geen of een
+verwaarloosbaar kleine emitterstroom loopt.
+Figuur 9.5-6 geeft een voorbeeld van een balansversterker.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Figuur 9.5-6. Balansschakeling met NPN-transistoren in klasse B. Q1 versterkt de ene periodehelft, Q2 de
+andere.
+
+9.5.4 Klasse C
+Bij Klasse C ligt de instelling ligt niet op, maar onder het afknijppunt. Bij buizen en Nkanaal FETs is de spanning op stuurrooster of gate nog negatiever dan in klasse B het geval
+is. Er is dan een flink signaal op de ingang nodig om het element stroom te laten
+doorlaten. Bij bipolaire transistoren kun je de diode zoals die te zien is in Figuur 9.5-5b en
+de weerstand naar de positieve voedingsspanning (bij een PNP naar de negatieve
+spanning) weglaten. De spoel blijft, anders wordt het signaal kortgesloten naar massa. Een
+versterker in klasse C versterkt alleen de top van een halve sinusperiode (Figuur 9.5-7).
+
+Figuur 9.5-7. Steilheidsgrafiek voor een N-kanaals FET in Klasse C.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+Een klasse C-versterker vervormt daardoor meer dan één in klasse B. Harmonischen
+moeten nog beter worden weggefilterd, De verhouding tussen grotere en kleinere
+signaalamplitudes wordt door versterkers in klasse C niet meer goed bewaard, want grote
+signalen worden meer versterkt dan kleine en nog kleinere worden niet eens
+doorgegeven. Het rendement bij klasse C kan tot ongeveer 75% bedragen.
+Behalve met behulp van een spanning op de signaalingang zoals in Figuur 9.5-5, kan een
+versterkend element zichzelf in klasse C ‘trekken’ door gelijkrichting van een deel van het
+aangeboden signaal. We zien drie van die schakelingen in Figuur 9.5-8.
+
+Figuur 9.5-8, Schakelingen die door gelijkrichting van een deel het te versterken signaal zichzelf in klasse C
+trekken; (a) N-kanaals FET, (b) NPN transistor die al van nature in klasse C staat, maar er wel “dieper” kan
+worden ingetrokken; (c) een buis.
+
+Bij alle drie de schakelingen is de signaalingang via een weerstand verbonden met een
+vaste spanning. De koppelcondensator vormt met de weerstand een ladingreservoir dat
+zich langzaam ontlaadt. Hoe langzaam, hangt af van de tijdconstante van weerstand en
+condensator (Hoofdstuk 4). Als gate, basis of stuurrooster eventjes positief wordt, wordt
+een deel van het signaal gelijkgericht. Elk gelijkgericht stukje periode laadt de
+condensator op, tot de spanning over de weerstand zo hoog is dat via de weerstand
+evenveel lading weglekt als er door gelijkrichting bij komt. Zo kan een schakeling zich
+door het signaal in klasse C “trekken”.
+Deze manier van instellen is slecht controleerbaar. Een voorspanning die via een
+zelfinductie op de signaalingang komt, zoals in de klasse B-schakeling voor FET en buis in
+Figuur 9.5-5 is beter in de hand te houden. Door de voorspanning aan te passen, is de
+versterker even gemakkelijk in klasse C te zetten als in B. Bij de bipolaire transistor komt
+de voorspanning voor klasse B van de diode in het basiscircuit (Figuur 9.5-5b). Verwijder
+de diode en je hebt vanzelf klasse C. De schakeling in Figuur 9.5-8b staat dus ook zonder
+signaal in C, mèt signaal nog wat meer. De andere twee (a en c) doen dat alleen met
+voldoende signaal.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9 kort 20250914
+
+9.5.5 Klasse AB
+Klasse AB is een compromis tussen de klassen A en B. Het versterkende element staat niet
+helemaal afgeknepen. Daardoor staat de schakeling voor kleine signalen in klasse A en
+voor grote vrijwel in B. Voor FET en buis is het een kwestie van zodanig aanpassen van de
+gate- of stuurroosterspanning, dat er zonder signaal een kleine stroom door het element
+loopt. Voor bipolaire transistoren is de instelling ingewikkelder door de steile
+diodekarakteristiek van de emitter-basisovergang. Om de zaak in het gareel te houden, is
+er eigenlijk altijd wel een kleine emitterweerstand (denk aan 1  of iets in die buurt)
+nodig. Figuur 9.5-9 toont een steilheidsgrafiek voor klasse AB.
+
+Figuur 9.5-9. Steilheidsgrafiek voor een N-kanaals FET in Klasse AB. Voor kleine signalen is dit klasse A,
+voor grote vrijwel klasse B.
+
+Het rendement van een klasse AB-eindtrap ligt tussen de rendementen van de klassen A
+en B in en hangt vooral af van de gelijkstroominstelling. Meer naar klasse A, het midden
+van de grafiek in Figuur 9.5-9, betekent een lager rendement en betere lineariteit, meer
+naar B, dus naar de linker punt, een hoger rendement en een mindere lineariteit.
+
+©2021, 2025, Vereniging van radiozendamateurs VRZA
+
+18
+
+

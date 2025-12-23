@@ -1,0 +1,2450 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Inhoudsopgave
+11
+
+Digitale techniek (korte versie) .................................................................................... 3
+11.1
+
+Wat leer je in dit hoofdstuk ...................................................................................... 3
+
+11.2
+
+Logische functies en schakelingen ........................................................................... 3
+
+11.2.1
+
+Inleiding ............................................................................................................. 3
+
+11.2.2
+
+Digitaal en analoog ............................................................................................ 3
+
+11.2.3
+
+Binair, decimaal en hexadecimaal .................................................................... 4
+
+11.2.4
+
+Binair rekenen ................................................................................................... 5
+
+11.3
+
+Logische functies ....................................................................................................... 7
+
+11.3.1
+
+Van 1 en 0 tot tegenstelling .............................................................................. 7
+
+11.3.2
+
+Poorten............................................................................................................... 8
+
+11.4
+
+Booleaanse algebra (schakelalgebra) ...................................................................... 11
+
+11.4.1
+
+Inleiding ........................................................................................................... 11
+
+11.4.2
+
+Regels met 1 of 0 ............................................................................................. 11
+
+11.4.3
+
+Regels met één variabele................................................................................. 11
+
+11.4.4
+
+Regels met twee of meer variabelen .............................................................. 12
+
+11.5
+
+Combinatielogica (“combinational logic”) ............................................................. 15
+
+11.5.1
+
+Inleiding ........................................................................................................... 15
+
+11.5.2
+
+Een EN- of OF -poort met n ingangen ........................................................... 15
+
+11.5.3
+
+Enkele toepassingen van de stellingen van De Morgan ................................ 16
+
+11.5.4
+
+Compacte tekenwijze ...................................................................................... 17
+
+11.5.5
+
+De optelschakeling .......................................................................................... 18
+
+11.6
+
+Sequentiële logica: flipflops .................................................................................... 20
+
+11.6.1
+
+Inleiding ........................................................................................................... 20
+
+11.6.2
+
+De RS-flipflop .................................................................................................. 20
+
+11.6.3
+
+De impulsgestuurde (geklokte) RS-flipflop ................................................... 21
+
+11.6.4
+
+Het master-slave systeem................................................................................ 22
+
+11.6.5
+
+De flankgestuurde RS-flipflop ........................................................................ 22
+
+11.6.6
+
+De D-flipflop.................................................................................................... 23
+
+11.6.7
+
+De JK-flipflop................................................................................................... 24
+
+11.6.8
+
+De master-slave D-flipflop als frequentiedeler.............................................. 25
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur
+
+11.6.9
+11.7
+
+Hoofdstuk 11_kort_20250918
+
+De flipflops samengevat .................................................................................. 26
+
+Frequentiedelers, tellers en registers...................................................................... 26
+
+11.7.1
+
+Frequentiedelers en -tellers ............................................................................ 26
+
+11.7.2
+
+Delers en tellers voor andere getallen dan machten van 2 ........................... 27
+
+11.7.3
+
+Schuifregisters ................................................................................................. 27
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+11 Digitale techniek (korte versie)
+11.1 Wat leer je in dit hoofdstuk
+Digitale techniek is gebaseerd op het tweetallige (binaire) getalstelsel dat als enige cijfers
+de 0 en de 1 kent. We leggen verbanden met het voor ons “normale” tientallige (decimale)
+stelsel en met het zestientallige (hexadecimale) stelsel.
+Daarna volgen zogenoemde logische functies in de vorm van poortschakelingen en hoe je
+daaraan kunt rekenen met Booleaanse algebra die ook wel schakelalgebra wordt genoemd.
+Als sluitstuk van dit deel dat ook wel combinatielogica heet, behandelen we een
+optelschakeling voor binaire getallen met de zogenoemde half adders en full adders.
+Vervolgens komt een stuk sequentiële logica aan bod. Daarin wordt behalve van poorten
+gebruik gemaakt van opslag van gegevens (data) in zogenoemde registers. Die registers
+hebben een geheugenfunctie, maar bevatten vrijwel altijd ook poorten.
+Al deze schakelingen worden tegenwoordig niet meer gemaakt van losse transistoren of
+FETs, maar als geïntegreerde schakelingen waarin heel veel van die elementen zijn
+samengebracht op één Si-chip.
+
+11.2 Logische functies en schakelingen
+11.2.1 Inleiding
+Logische functies zijn functies rondom de begrippen “waar” of “niet waar”. Die worden
+aangeduid met de getallen 0 of 1. 0 en 1 worden voorgesteld door spanningen. De
+spanning voor de 0 ligt meestal onder de 0,8 V en voor de 1 tussen de halve en de hele
+(positieve) voedingsspanning.
+Het tientallige stelsel is ongeschikt voor logische schakelingen. Dan zou een schakeling 10
+goed te onderscheiden toestanden (lees: spanningen) moeten kunnen weergeven en die
+ook nog eens feilloos kunnen onderscheiden. Als dat miljoenen keren per minuut moet
+gebeuren, is dat voor onze elektronica te veel gevraagd. Vandaar dat zonder uitzondering
+het eenvoudigst denkbare getalstelsel wordt gebruikt: het tweetallige of binaire.
+11.2.2 Digitaal en analoog
+Digitale schakelingen is een andere term voor logische schakelingen. Digitaal is afgeleid
+van het Latijnse woord voor vinger, digitus. Rekenen op je tien vingers is vooral iets voor
+de lagere klassen van de basisschool. Dat we voor dagelijks gebruik het tientallige
+getalstelsel hebben, is daarom niet vreemd.
+Een binair cijfer, afgekort tot bit van het Engelse binary digit kan 0 of 1 zijn. Meer
+mogelijkheden zijn er niet. Met 2 bits zijn 22=4 combinaties mogelijk (00, 01, 10 en 11),
+met 3 bits maak je 23=8 combinaties en zo verder. “Digitaal” betekent altijd een eindig
+aantal bitcombinaties.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Tot nu toe hebben we ons in deze cursus niet bekommerd om dit soort zaken. Dat kwam
+doordat we steeds bezig zijn geweest met analoge systemen. In theorie kennen die een
+oneindig aantal toestanden. Een spanning, stroom of vermogen kan oneindig veel
+waarden hebben. In theorie kun je die meten, maar in de praktijk is de nauwkeurigheid
+van de meting beperkend. Is die bijvoorbeeld 0,1% van de maximale waarde, dan zijn
+verschillen kleiner dan die 0,1% niet vast te stellen.
+11.2.3 Binair, decimaal en hexadecimaal
+Binaire getallen hebben het getal 2 als basis, decimale getallen het getal 10 en
+hexadecimale het getal 16. Dat stond al in hoofdstuk 2, maar we doen een korte herhaling.
+Het tweetallige stelstel kent twee cijfers, 0 en 1
+Het tientallige stelsel kent er tien: 0, 1, 2, 3, 4, 5, 6, 7, 8 en 9
+Het zestientallige stelsel kent er zestien: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E en F
+De betekenis van de cijfervolgorde in een getal is bij alle drie dezelfde. Van (let op!) rechts
+naar links: het aantal maal het grondtal n tot de macht 0, n tot de macht 1, 2 en zo verder.
+In Tabel 11.2-1 zien we de weergave van het getal 237 in de drie getallenstelsels.
+Tabel 11.2-1. Weergave van het getal 237 in binair, decimaal en hexadecimaal
+
+𝑛7
+𝑛4
+𝑛6
+𝑛3
+𝑛2
+𝑛1
+𝑛0
+𝑛5
+Basis
+2
+1
+1
+1
+0
+1
+1
+0
+1
+10
+2
+3
+7
+16
+E
+D
+0
+1
+Het getal is als volgt terug te rekenen. Voor tweetallig naar decimaal: 1. 2 + 0. 2 +
++1. 22 + 1. 23 + 0. 24 + 1. 25 + 1. 26 + 1. 27 = 1 + 0 + 4 + 8 + 0 + 32 + 64 + 128 = 237
+Voor decimaal naar decimaal: 7. 100 + 3. 101 + 2. 102 = 7 + 30 + 200 = 237
+Voor hexadecimaal naar decimaal: 13. 160 + 14. 161 = 13 + 14.16 = 13 + 224 = 237
+Hoe groter het grondtal, des te korter is de schrijfwijze van een getal. Dat is de reden voor
+het gebruik van het zestientallige stelsel in de computertechniek. Binaire getallen zijn
+prachtig voor een machine, maar lastig voor ons menselijk brein. Het getal 16 is 24 en de
+cijferreeks 0-15 omvat dus precies 4 bits. Zestientallig omvat dus opeenvolgende blokken
+van 4 bits. De rechter 1101 van het binaire getal is gelijk aan 13 decimaal en D
+hexadecimaal. De linker 1101 is 14 decimaal en E hexadecimaal (of kortweg “hex”).
+Hoe reken je nu decimaal om naar binair? Dat gaat in drie stappen:
+Stap 1. Is het meest rechtse decimale cijfer oneven of even? Is het oneven, dan is het
+meest rechtse binaire cijfer een 1, zoals in Tabel 11.2-1 te zien is. Is het even, dan
+is het meest rechtse binaire cijfer een 0. Dat cijfer wordt wel aangeduid met de
+afkorting “LSB”. Dat staat voor “Least Significant Bit”, het minst betekenende bit.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Stap 2. Trek het gevonden binaire getal (dus 0 of 1) af van het oorspronkelijke decimale.
+Deel de uitkomst door 2. Is het meest rechtse cijfer van het gevonden decimale
+getal oneven of even? In andere woorden: levert delen door 2 een rest van 1 of
+van 0? Is de rest 1, dan komt links van het laatst gevonden binaire cijfer een 1; is
+de rest 0, dan komt daar een 0.
+Stap 3. Herhaal stap 2 tot de hele uitkomst 0 is, dus zonder rest. Het laatst ingevulde
+binaire cijfer wordt wel aangeduid met “MSB”, “Most Significant Bit”.
+LSB en MSB worden ook wel geschreven als LSD en MSD, waarbij de D staat voor “Digit”.
+
+52
+26
+13
+6
+3
+1
+0
+
+rest
+rest
+rest
+rest
+rest
+rest
+rest
+
+1
+0
+0
+1
+0
+1
+1
+
+MSB
+
+105:2 =
+52:2 =
+26:2 =
+13:2 =
+6:2 =
+3:2 =
+1:2 =
+
+LSB
+
+Een voorbeeld met het getal 105 decimaal is uitgewerkt in Figuur 11.2-1. De
+terugrekening naar decimaal die we voor Tabel 11.2-1 al hebben toegepast, staat er ook in.
+
+1 1 0 1 0 0 1
+26 25 24 23 22 21 20
+
+1*26 = 1*64 = 64
+1*25 = 1*32 = 32
+0*24 = 0*16 = 0
+1*23 = 1* 8 = 8
+0*22 = 0* 4 = 0
+0*21 = 0* 2 = 0
+1*20 = 1* 1 = 1 +
+105
+Figuur 11.2-1. Omzetting van het decimale getal 105 naar het binaire getal 1101001 met dezelfde waarde en
+daarna weer terug. MSB staat voor “Most Significant Bit”; LSB voor “Least Significant Bit”. Blauwe pijlen:
+decimaal naar binair; rode pijlen: binair naar decimaal.
+
+11.2.4 Binair rekenen
+Doordat de opbouw van de getallen dezelfde is, zijn de rekenregels voor binaire getallen
+dezelfde als die voor decimale. Bij binair rekenen is 0 + 0 = 0; 0 + 1 = 1; 1 + 0 = 1 en
+1 + 1 = 10. 10 binair is 2 decimaal. Bij een optelling met een optelstreep eronder komt
+dan een 0 te staan en is het “1 bewaren” voor de volgende kolom cijfers (Figuur 11.2-2).
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Figuur 11.2-2. Binair optellen. Links de basisbewerkingen met enkelvoudige bits; rechts met meerdere bits.
+
+Met binair aftrekken is 1 − 0 = 1, 1 − 1 = 0 en 10 − 1 = 1 (Figuur 11.2-3)
+
+Figuur 11.2-3. Binair aftrekken. Links de basisbewerkingen met enkelvoudige bits; rechts met meerdere
+bits.
+
+Binair vermenigvuldigen is schuiven naar links. Een getal met twee vermenigvuldigen is
+er rechts een 0 tegenaan zetten. Net als bij vermenigvuldigen met 10 in het decimale
+stelsel.
+Binair delen moet dan wel schuiven naar rechts zijn en dat is het ook. Bij delen door 10 (2
+decimaal) gaat het getal een plekje naar rechts. Als rechts een 1 staat, wordt dat een “rest”.
+Je kunt verder werken met negatieve machten (cijfers achter de komma), maar dat doen
+we hier niet.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Figuur 11.2-4. Binair vermenigvuldigen en delen. Vermenigvuldigen is schuiven naar links, delen naar
+rechts. Zelfs een klassieke staartdeling werkt.
+
+11.3 Logische functies
+11.3.1 Van 1 en 0 tot tegenstelling
+1 en 0 hoeven niet altijd een getal te betekenen. “Waar” en “niet waar”, “ja” en “nee” of
+“aan” en “uit” kunnen evengoed. Van dit laatste geven we een voorbeeld in Figuur 11.3-1.
+
+S1
+S1
+
+S2
+
++
+
++
+a
+
+L
+
+S2
+b
+
+-
+
+L
+
+S1.S2
+
+S1+ S2
+
+Figuur 11.3-1. a. EN (AND)-schakeling met schakelaars, b. OF (OR)-schakeling met schakelaars.
+
+In afbeelding a zijn de schakelaars S1 en S2 beide open (uit). Het lampje L brandt pas als S1
+èn S2 gesloten (aan) zijn. In afbeelding b moet S1 óf S2 gesloten (aan) zijn om L te laten
+branden. De schakeling links heet daarom een EN-schakeling, die rechts een OFschakeling. In symbolentaal:
+𝐿 = 𝑆1 𝑆2  𝐿 = 𝑆1 . 𝑆2 voor afbeelding a en 𝐿 = 𝑆1 𝑆2  𝐿 = 𝑆1 + 𝑆2 voor afbeelding b.
+Het symbool “” betekent: “is precies hetzelfde als”. Spreek afbeelding a uit als: L is S1 èn
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+S2. Voor afbeelding b: L is S1 òf S2. Je kunt het gedrag van beide schakelingen in de vorm
+van 0 en 1 samenvatten in een waarheidstabel, zoals in Tabel 11.3-1.
+Tabel 11.3-1 Waarheidstabellen voor de schakelingen a en b in Figuur 11.3-1.
+
+Schakeling a
+Schakeling b
+𝐿 = 𝑆1 𝑆2 = 𝑆1 . 𝑆2
+𝐿 = 𝑆1 𝑆2 = 𝑆1 + 𝑆2
+S1
+S2
+S1
+S2
+L
+L
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+Nog iets over de gebruikte symbolen: “” en ”.” staan voor EN. Beide mogen worden
+gebruikt. De “.” kom je het meest tegen. “” en “+” staan voor OF. Je komt de “+” bijna
+alleen maar tegen. Verwar “.” en “+” niet met de precies gelijke vermenigvuldig- of
+opteltekens. Uit de tekst blijkt vanzelf waarover het gaat.
+11.3.2 Poorten
+De schakelingen in Figuur 11.3-1 kun je zien als poorten. De stand van de schakelaars gaat
+erin. Eruit komt wel of geen licht van het lampje. In de digitale elektronica zijn invoer en
+uitvoer een spanning. Een spanning tussen de halve en de hele voedingsspanning staat
+voor een 1 en minder dan 0,8 V voor een 0. De voedingsspanning is meestal 5 V of 3,5 V.
+Zo zijn de waarden 0 en 1 in logische schakelingen eenvoudig foutloos te onderscheiden.
+De belangrijkste poorten zien we in Figuur 11.3-2.
+
+Buffer
+
+A
+
+1
+
+A
+
+NIET (NOT)
+(inverter)
+
+A
+
+1
+
+A
+
+A
+
+1
+
+A
+
+EN (AND)
+
+A
+B
+
+&
+
+A.B
+
+NEN (NAND)
+
+A
+B
+
+&
+
+A.B
+
+A
+B
+
+&
+
+A.B
+
+OF (OR)
+
+A
+B
+
+
+
+A+B
+
+NOF (NOR)
+
+A
+B
+
+
+
+A+B
+
+A
+B
+
+
+
+A+B
+
+In plaats van "." mag ook "" worden geschreven en in plaats van "+" ook ""
+Figuur 11.3-2. Poorten en wat eruit komt in IEC-tekenwijze. Links de poorten zonder NIET, rechts die met
+NIET. De streep boven uitdrukkingen is een negatiestreep of NIET-streep. Het rondje of driehoekje geeft
+een genegeerde ofwel NIET-uitgang aan.
+
+De tekenwijze is volgens de norm van IEC (International Electrotechnical Commission).
+In Europa is dat de standaard. Amerikaanse symbolen worden soms gebruikt. Ze staan in
+de volledige tekst, maar zijn geen exameneis. Daarom noemen we ze hier alleen maar.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Poorten die een NIET maken, zijn aan de uitgang voorzien van een rondje of driehoekje.
+Het rondje komt het meest voor. De uitkomsten hebben een streep, de negatiestreep
+̅̅̅̅̅̅̅̅
+boven de symbolen. 𝐴̅ betekent dus NIET A en de uitdrukking 𝐴
++ 𝐵 NIET A of B.
+De eenvoudigste zijn de buffer en de NIET-poort. Wat er bij de buffer ingaat, komt er ook
+uit. Toepassing: als een poortuitgang meer ingangen moet aansturen dan waarvoor hij
+gemaakt is. De NIET-poort maakt van een 0 een 1 en van een 1 een 0. Daarom heet hij
+ook wel inverter, wat omkeerder betekent.
+De bijbehorende waarheidstabellen zijn de eenvoudigste van allemaal (Tabel 11.3-2)
+Tabel 11.3-2. Waarheidstabellen voor de buffer (links) en voor de NIET-poort of inverter (rechts)
+
+𝑄 = 𝐴̅
+Ingang (A)
+Uitgang (Q)
+1
+0
+0
+1
+
+𝑄=𝐴
+Ingang (A)
+Uitgang (Q)
+1
+1
+0
+0
+De wereld in zijn eenvoudigste vorm, zogezegd.
+
+Voor de EN-poort geldt dat de uitgang 0 is, tenzij A èn B 1 zijn. Voor de NEN geldt het
+omgekeerde: de uitgang is 1, tenzij A èn B 1 zijn. De waarheidstabellen in Tabel 11.3-3
+laten het zien.
+Tabel 11.3-3. Waarheidstabellen voor de EN-poort (links) en voor de NEN-poort (rechts)
+
+𝑄 = 𝐴. 𝐵  𝐴𝐵
+
+A
+
+B
+
+̅̅̅̅̅
+̅̅̅̅̅̅̅
+𝑄 = 𝐴.
+𝐵𝐴
+𝐵
+
+Q
+
+A
+
+B
+
+Q
+
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+0
+De tabellen laten zien dat één ingang met een 0 de invloed van de andere ingang op de
+toestand Q van de uitgang blokkeert. Datzelfde geldt voor EN- en NEN-poorten met meer
+dan 2 ingangen. Het verschil tussen EN en NEN is dat de uitgang (Q in de tabel) bij de EN
+dan 0 is en bij de NEN 1. Dat komt door de ingebouwde inverter in de NEN-poort. In een
+EN-poort ontbreekt die. Tabel 11.3-4 geeft de waarheidstabellen voor OF- en NOF-poort.
+Tabel 11.3-4. Waarheidstabellen voor de OF-poort (links) en voor de NOF-poort (rechts)
+
+𝑄 = 𝐴+𝐵 𝐴𝐵
+
+𝑄 = ̅̅̅̅̅̅̅̅
+𝐴 + 𝐵  ̅̅̅̅̅̅̅
+𝐴𝐵
+
+A
+
+B
+
+Q
+
+A
+
+B
+
+Q
+
+0
+1
+0
+1
+
+0
+0
+1
+1
+
+0
+1
+1
+1
+
+0
+1
+0
+1
+
+0
+0
+1
+1
+
+1
+0
+0
+0
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Voor de OF-poort geldt dat de toestand Q van de uitgang 1 is als maar één van de
+ingangen 1 is. Dat geldt ook voor OF-poorten met meer dan 2 ingangen. Hetzelfde geldt
+voor de NOF-poort, met dit verschil dat Q dan 0 is. Ook hier: kwestie van aan- of
+afwezigheid van een inverter vóór de poortuitgang.
+Om te onthouden.
+1. Een EN of NEN met een 0 op één enkele ingang is ongevoelig voor wat er op de
+andere ingang(en) gebeurt. De EN heeft dan een 0 op de uitgang, de NEN een 1.
+2. Een OF of NOF met een 1 op één enkele ingang is ongevoelig voor wat er op de
+andere ingang(en) gebeurt. De OF heeft dan een 1 op de uitgang, de NOF een 0.
+Dan zijn er nog twee bijzondere leden van de familie Poort. Dat is de Exclusieve OF en de
+Exclusieve NOF. Eigenlijk bestaan ze uit meer dan één poort en het aantal ingangen is
+altijd 2. Het bijzondere eraan is dat de uitgang aangeeft of de toestand op beide ingangen
+dezelfde of is of verschilt. We beginnen met de IEC-schemasymbolen (Figuur 11.3-3).
+
+A
+B
+
+=1
+
+Q=A.B+A.B=AB
+
+A
+B
+
+=1
+
+A
+B
+
+=1
+
+Q=A.B+A.B=AB
+
+Figuur 11.3-3. Schemasymbolen met vergelijking voor EXOF (links) en EXNOF (rechts).
+
+Het symbool voor Exclusieve OF is , een OF-teken met een rondje eromheen. De
+waarheidstabellen staan in Tabel 11.3-5.
+Tabel 11.3-5. Waarheidstabellen voor de EXOF-poort (links) en voor de EXNOF-poort (rechts).
+
+𝑄 = 𝐴. 𝐵̅ + 𝐴̅. 𝐵 = 𝐴  B
+
+𝑄 = ̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+𝐴. 𝐵 + 𝐴. 𝐵 = ̅̅̅̅̅̅̅̅
+𝐴B
+
+A
+
+B
+
+Q
+
+A
+
+0
+1
+0
+1
+
+0
+0
+1
+1
+
+0
+1
+1
+0
+
+0
+1
+0
+1
+
+B
+
+Q
+
+0
+1
+0
+0
+1
+0
+1
+1
+Voor de EXOF-poort is het resultaat 𝑄 = 1 als A en B ongelijk zijn. De uitkomst is 0 als ze
+gelijk zijn. Voor de EXNOF geldt vanzelfsprekend het omgekeerde: is A ongelijk aan B,
+dan geldt 𝑄 = 0; is 𝐴 = 𝐵, dan geldt 𝑄 = 1.
+De EXOF kun je gebruiken om vast te stellen of twee binaire getallen gelijk of ongelijk
+aan elkaar zijn. Je hebt dan een rij EXOF’s (of EXNOF’s) nodig. Evenveel poorten als de
+getallen bits hebben. 15 bits per getal betekent 15 stuks EXOF of EXNOF. In Figuur 11.3-4
+staat een voorbeeld met EXNOF’s en een EN met net zoveel ingangen als er bits zijn.
+Het kan ook met EXOF’s. Dan moet de EN-poort in het schema een OF-poort worden.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+10
+
+VRZA-cursus radiozendamateur
+
+A1
+B1
+A2
+B2
+
+Hoofdstuk 11_kort_20250918
+
+A en B bestaan uit n bits,
+A1...An en B1...Bn
+
+=1
+
+=1
+&
+
+A3
+B3
+
+An
+Bn
+
+i is volgnummer van een
+bit. i loopt van 1 t/m n
+
+Q
+
+=1
+
+Q=1 als elke Ai = Bi
+en dus A=B
+Q=0 als niet elke Ai = Bi
+en dus AB
+
+=1
+
+Figuur 11.3-4. Vergelijken van twee binaire getallen die elk bestaan uit n bits, A 1…An en B1…Bn. De poorten
+zijn EXNOF’s. De EN-poort moet n ingangen hebben. Die kan eventueel uit meer dan één EN-poort worden
+samengesteld.
+
+Hoe je een EN-poort met een heleboel ingangen kunt maken uit kleinere poorten, zie je
+nadat we de Booleaanse algebra hebben behandeld.
+
+11.4 Booleaanse algebra (schakelalgebra)
+11.4.1 Inleiding
+Bij de verschillende poorten stonden algebra-achtige uitdrukkingen. Daarmee zijn
+inderdaad algebra-achtige bewerkingen mogelijk. Een ontworpen schakeling kan ermee
+worden vereenvoudigd en er kan worden gecontroleerd of hij doet wat de bedoeling is.
+Dit rekensysteem met zijn eigen regels is ontworpen en in 1847 gepubliceerd door de
+Britse wiskundige George Boole. Het meeste spreekt redelijk vanzelf, maar soms is het
+opletten. De stellingen van De Morgan (aan het eind) zijn het belangrijkst.
+11.4.2 Regels met 1 of 0
+Er zijn maar twee binaire cijfers en ook maar twee regels.
+1̅ = 0
+0̅ = 1
+Zoals in de volledige tekst van dit hoofdstuk ook al staat: meer smaken zijn er niet.
+11.4.3 Regels met één variabele
+De variabele heet hier A. A stelt één binair cijfer voor en dat kan 0 of 1 zijn.
+𝐴̿ = 𝐴
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+11
+
+( 11.4-1)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Twee strepen erboven, NIET NIET heft elkaar op, net als twee mintekens achter elkaar.
+1̅ = 1, 0̅ = 0, ̅̅̅̅̅̅̅̅
+𝑃𝑖𝑒𝑡𝑗𝑒 = 𝑃𝑖𝑒𝑡𝑗𝑒
+𝐴. 𝐴 = 𝐴
+
+( 11.4-2)
+
+Als 𝐴 = 0, dan is 𝐴. 𝐴 = 0; is 𝐴 = 1, dan is 𝐴. 𝐴 = 1. De punt in de gelijkheid 𝐴. 𝐴 = 𝐴
+kun je ook schrijven als , dus 𝐴  𝐴 = 𝐴.
+Ook geldt:
+𝐴. 1 = 𝐴
+
+( 11.4-3)
+
+( 11.4-3) zegt dat als één ingang van een EN-poort met 2 ingangen 1 is, dan volgt de
+uitgang de toestand op de andere ingang. Dat kwam al aan de orde bij de behandeling van
+de EN-poort.
+En dan krijgen we meteen het broertje van ( 11.4-3) met voor de verandering “” i.p.v. “.”:
+𝐴0= 0
+
+( 11.4-4)
+
+Is één ingang van een EN-poort 0, dan is de uitgang altijd 0.
+Voor OF-poorten is er iets dergelijks:
+𝐴+𝐴 =𝐴
+
+( 11.4-5)
+
+𝐴+0=𝐴
+
+( 11.4-6)
+
+𝐴+1=1
+
+( 11.4-7)
+
+Nu volgt het OF-zusje van ( 11.4-4)
+
+En het OF-zusje van ( 11.4-3):
+
+Een tenslotte de OF-versie van ( 11.4-2):
+𝐴̅ + 𝐴 = 1
+
+( 11.4-8)
+
+In ( 11.4-8) is altijd één van de twee variabelen een 1, zodat de uitkomst altijd 1 is..
+11.4.4 Regels met twee of meer variabelen
+Verwisseling van volgorde
+𝐴. 𝐵 = 𝐵. 𝐴
+
+( 11.4-9)
+
+Bij een EN-poort met twee ingangen maakt het niets uit wat aan welke ingang hangt. Bij
+drie, vier en meer ingangen geldt hetzelfde. Dat geldt voor alle soorten poorten. Dus ook:
+𝐴+𝐵 =𝐵+𝐴
+Of
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+12
+
+( 11.4-10)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+̅̅̅̅̅̅̅̅
+̅̅̅̅̅̅̅̅
+𝐴
+𝐵 =𝐵
+𝐴
+
+( 11.4-11)
+
+Een EXOF heeft altijd twee ingangen, nooit meer!
+Associatieve en distributieve wetten
+Vertaald: verbindingswetten en verdelingswetten. Die gaan over het gebruik van haakjes.
+Verbindingswetten hebben betrekking op haakjes in vergelijkingen met één soort
+bewerking, verdelingswetten op alle andere. De betekenis van haakjes is vergelijkbaar met
+die in de gewone rekenkunde: wat tussen haakjes staat, doe je eerst. Er is één verschil: er
+is geen voorrang voor bepaalde bewerkingen, zoals we dat kennen van de rekenkunde.
+Daarin heeft bijvoorbeeld vermenigvuldigen voorrang boven optellen. Voor EN en OF
+geldt: in volgorde van links naar rechts afwerken (behalve bij aanwezigheid van haakjes).
+𝐴. (𝐵. 𝐶) = (𝐴. 𝐵). 𝐶 = 𝐴. 𝐵. 𝐶
+
+( 11.4-12)
+
+Van twee EN-poorten met twee ingangen, maak je zo effectief één EN-poort met drie
+ingangen. 𝐵. 𝐶 is één poort en de uitkomst gaat met A de volgende poort in. Of 𝐴. 𝐵 is er
+één en de uitkomst gaat met C de volgende poort in.
+𝐴 + (𝐵 + 𝐶) = (𝐴 + 𝐵) + 𝐶 = 𝐴 + 𝐵 + 𝐶
+
+( 11.4-13)
+
+Hetzelfde verhaal als bij ( 11.4-12): van twee OF-poorten met twee ingangen maak je er
+effectief één met drie ingangen.
+Nu twee verschillende soorten bewerkingen, EN en OF in één schakeling:
+𝐴. (𝐵 + 𝐶) = 𝐴. 𝐵 + 𝐴. 𝐶
+
+( 11.4-14)
+
+( 11.4-14) gaat net als bij de rekenkunde. Maar de volgende wijkt af doordat OF en EN
+gelijkwaardig zijn. Eén om te onthouden!
+𝐴 + (𝐵. 𝐶) = (𝐴 + 𝐵). (𝐴 + 𝐶)
+
+( 11.4-15)
+
+Absorptiewetten
+Dit zijn wetten waarbij iets verdwijnt, waardoor vereenvoudiging optreedt. Er zijn vier
+van die verdwijntrucs. Maak eventueel voor elk een waarheidstabel.
+𝐴 + 𝐴. 𝐵 = 𝐴
+
+( 11.4-16)
+
+Want als 𝐴 = 0, komt er 0 uit en als 𝐴 = 1, is de uitkomst 1.
+𝐴. (𝐴 + 𝐵) = 𝐴
+
+( 11.4-17)
+
+Eigenlijk hetzelfde verhaal als bij ( 11.4-16), want 𝐴. 𝐴 = 𝐴 en dan blijft 𝐴 + 𝐴. 𝐵 over.
+De volgende is ook zoiets:
+𝐴. (𝐴̅ + 𝐵) = 𝐴. 𝐵
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+13
+
+( 11.4-18)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+𝐴. 𝐴̅ = 0; daarmee houden we 0 + 𝐴. 𝐵 = 𝐴. 𝐵 over. Zie vergelijking ( 11.4-6).
+Dan verdwijntruc nummer 4:
+𝐴 + 𝐴̅. 𝐵 = 𝐴 + 𝐵
+
+( 11.4-19)
+
+Deze is wat lastiger te snappen. Maar vul een keer 𝐴 = 0 en een keer 𝐴 = 1 in. Kijk wat er
+gebeurt. Begin met 𝐴 = 0. Dan krijgen we 0 + 1. 𝐵. Dat is 𝐴 + 𝐵, want een EN-poort met
+een 1 op de ene ingang en B op de andere levert op de uitgang B. Nu A=1: 1 + 0. 𝐵 = 𝐴.
+Bij een OF bepaalt de ene ingang die 1 is, dat de uitgang ook 1 is. Die B mag blijven staan,
+want bij 𝐴 = 1 heeft hij geen invloed op de uitkomst.
+Verwar ( 11.4-19) niet met ( 11.4-16)!
+De stellingen van De Morgan
+Zoals in het begin van deze paragraaf gemeld, zijn dit de twee belangrijkste regels van de
+Booleaanse algebra. We laten ze zien met schema’s en vatten ze daarna samen in 1 recept.
+De stellingen komen neer op het omzetten van een NEN- naar een OF-poort met
+genegeerde ingangen (ingangen met ingebouwde NIET-poort) en van een NOF- naar een
+EN-poort. Hier komen ze.
+̅̅̅̅̅
+𝐴.
+𝐵 = 𝐴̅ + 𝐵̅
+
+( 11.4-20)
+
+Een NEN-poort voor A en B is dus een OF-poort voor 𝐴̅ en 𝐵̅. Datzelfde trucje geldt voor
+een NOF-poort, maar nu komt er een EN-poort voor 𝐴̅ en 𝐵̅ uit, dus ook met genegeerde
+ingangen.
+̅̅̅̅̅̅̅̅
+𝐴
++ 𝐵 = 𝐴̅. 𝐵̅
+
+( 11.4-21)
+
+In Figuur 11.4-1 komen beide vergelijkingen terug in de vorm van schema’s en
+waarheidstabellen.
+
+Vergelijking (11.4-20)
+A
+B
+
+&
+
+
+
+1
+
+A
+
+
+A.B
+
+Vergelijking (11.4-21)
+A
+B
+
+A
+
+B
+
+1
+
+B
+
+A
+
+1
+
+A
+
+A+B
+
+A.B is hetzelfde als AB
+
+&
+B
+
+1
+
+B
+
+A+B
+
+A.B
+
+A B A.B A+B
+0 0 1 1
+1 0 1 1
+0 1 1 1
+1 1 0 0
+A B A+B A.B
+0 0 1
+1
+1 0 0
+0
+0 1 0
+0
+1 1 0
+0
+
+Figuur 11.4-1.Vergelijkingen van De Morgan ( 11.4-20) en ( 11.4-21) in beeld met waarheidstabellen.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Het recept:
+•
+•
+•
+•
+
+Vervang elke EN door OF;
+Vervang elke OF door EN;
+Waar een NIET stond, verdwijnt deze;
+Waar geen NIET stond, komt er één.
+
+In de hoofdtekst heetten deze vier regels samen “het rode recept”.
+
+11.5 Combinatielogica (“combinational logic”)
+11.5.1 Inleiding
+Combinatielogica is het zodanig aan elkaar knopen van poorten dat het geheel een zeker
+doel dient. Booleaanse algebra helpt hierbij, vooral de stellingen van De Morgan. De
+Morgan-toepassingen duiken met enige regelmaat op in zendexamens.
+11.5.2 Een EN- of OF -poort met n ingangen
+Dit is toepassing van de vergelijkingen ( 11.4-12) en ( 11.4-13). Een voorbeeld voor EN
+vinden we in Figuur 11.5-1, voor OF in Figuur 11.5-2. EN- en OF-poorten zijn in IC-vorm
+met vele aantallen ingangen te krijgen. De meer gangbare hebben er niet meer dan 4,
+maar aantallen van 5 en zelfs 12 kun je tegenkomen. Zijn veel ingangen nodig, dan kan de
+benodigde poort ook van meerdere poorten worden gemaakt. De schakeling bevat minder
+poorten, naarmate poorten met meer ingangen worden gebruikt, want één ingang is altijd
+nodig om de uitkomst van het voorgaande deel van de rij verder te verwerken.
+A1
+A2
+
+&
+
+A1 A2
+A3
+
+&
+
+A1 A2 A3
+An
+
+&
+
+A1 A2 An
+
+Figuur 11.5-1. Een EN-poort met n ingangen maak je op deze manier.
+
+Voor een grote NEN-poort gebruik je ook EN-poorten op de laatste na, die een NEN moet
+zijn of een inverter (Figuur 11.5-2).
+A1
+A2
+
+&
+
+A1 A2
+A3
+
+&
+
+A1 A2 A3
+An
+
+&
+
+1
+
+A1 A2 An
+
+Figuur 11.5-2. De NEN-versie van de schakeling van Figuur 11.5-1.
+
+Voor het maken van heel grote OF-poorten geldt precies hetzelfde als voor EN:
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+15
+
+VRZA-cursus radiozendamateur
+
+A1
+A2
+
+
+
+Hoofdstuk 11_kort_20250918
+
+A1+ A2
+A3
+
+
+
+A1+ A2+A3
+An
+
+
+
+A1+ A2++ An
+
+Figuur 11.5-3. Een OF-poort met n ingangen maak je op dezelfde manier als de EN in Figuur 11.5-1.
+
+De grote NOF komt op dezelfde manier tot stand als de grote NEN (Figuur 11.5-2):
+A1
+A2
+
+
+
+A1+ A2
+A3
+
+
+
+A1+ A2+A3
+An
+
+
+
+1
+
+A1+ A2++ An
+
+Figuur 11.5-4. De NOF-versie van Figuur 11.5-3.
+
+11.5.3 Enkele toepassingen van de stellingen van De Morgan
+Figuur 11.5-5 geeft een eerste voorbeeld. Gebruik het rode recept en je vindt de uitkomst.
+
+A
+B
+
+&
+
+AB
+&
+
+C
+D
+
+
+
+C+D
+
+Q=AB(CD)
+ A.B.(C+D)
+
+De Morgan
+
+Q=AB(CD)
+ A+B+(C.D)
+
+Figuur 11.5-5. EN- en OF-poort, samen gevolgd door EN-poort met toepassing van het rode recept.
+
+Een tweede voorbeeld is Figuur 11.5-6.
+A
+B
+C
+
+D
+
+1
+1
+
+A+B
+
+C
+
+1
+1
+
+Y=(A+B)+(C+D)
+
+C+D
+
+Figuur 11.5-6. Schema met een inverter en drie NOF-poorten. Uitwerking in de tekst.
+
+Wat binnen de haakjes staat, blijft ongemoeid. Dan verdwijnt de lange ontkenningsstreep
+(negatiestreep) en de twee negatiestrepen boven de uitdrukkingen tussen de haakjes. De
+OF ertussenin wordt een EN. Dat levert de vergelijking
+𝑌 = (𝐴 + 𝐵). (𝐶̅ + 𝐷)
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Het bijbehorende schema staat in Figuur 11.5-7.
+
+A
+B
+
+
+
+C
+
+1
+
+A+B
+C
+
+&
+
+Y=(A+B).(C+D)
+
+ C+D
+
+D
+
+Figuur 11.5-7. Het omgezette schema van Figuur 11.5-6
+
+Er staan evenveel poorten in, maar de inverterende uitgangen zijn op één na weg..
+Een voorbeeld met een EXNOF-poort, vinden we in Figuur 11.5-8. Een EXOF of EXNOF
+behandel je het gemakkelijkst als was het een enkele variabele.
+
+A
+B
+
+=1
+
+AB
+&
+
+1
+
+C
+
+Z=(AB)C
+
+C
+
+De Morgan
+
+Z=(AB)+C
+
+Z=(AB)+C
+
+Figuur 11.5-8. Zo behandel je een EXNOF via de stellingen van De Morgan. De EXOF-uitdrukking wordt in
+zijn geheel behandeld als was het een enkele variabele.
+
+11.5.4 Compacte tekenwijze
+Schema’s met IEC-blokken kunnen worden vereenvoudigd door ze tegen elkaar aan te
+tekenen. Dan vervallen lijnen die verbindingen tussen poorten voorstellen. Dit leidt vaak
+tot overzichtelijker schema’s. Figuur 11.5-9 laat wat voorbeelden zien.
+
+a
+
+&
+
+
+
+1
+&
+c
+
+&
+&
+
+1
+
+&
+
+1
+
+&
+1
+
+=1
+1
+
+&
+
+
+d
+
+&
+
+&
+
+
+
+b
+
+1
+
+
+
+1
+&
+
+&
+
+&
+Figuur 11.5-9. Omzetting van “normale” naar compact getekende schema’s. Links van elke pijl het
+“normale” schema, rechts ervan de compacte variant.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+17
+
+=1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+11.5.5 De optelschakeling
+Met poorten kun je getallen optellen. Het hart van een optelschakeling is de EXOF-poort.
+Tabel 11.5-1 geeft de waarheidstabel.
+Tabel 11.5-1. Waarheidstabel voor de EXOF-poort (kopie van Tabel 11.3-5)
+
+𝑄 = 𝐴. 𝐵̅ + 𝐴̅. 𝐵 = 𝐴  B
+
+A
+
+B
+
+Q
+
+0
+0
+0
+1
+0
+1
+0
+1
+1
+1
+1
+0
+Het optellen gaat goed tot en met de derde regel. In regel 4 is 1+1 binair 10. De 0 staat er
+netjes in, maar de 1 van “1 bewaren” is er niet. In poortentaal heet die “carry”, dat is “1
+bewaren”. Die 1 moet naar een volgende kolom die de EXOf-schakeling niet biedt.
+Die wordt “buitenom” gerealiseerd met een poortschakeling die een 1 oplevert als 𝐴 = 1
+èn 𝐵 = 1. Een EN-poort dus. Een EXOF en een EN met twee ingangen zijn genoeg. Figuur
+11.5-10 toont het schema met waarheidstabel.
+
+A
+B
+
+=1
+
+S
+
+&
+
+C
+
+A
+0
+1
+0
+1
+
+B
+0
+0
+1
+1
+
+C
+0
+0
+0
+1
+
+S
+0
+1
+1
+0
+
+Figuur 11.5-10. Half-adder met waarheidstabel voor de som S en de carry C.
+
+Dit schema heet een half adder, een halve opteller. Wat er half aan is? De ingang voor de
+carry van een eventuele vorige opteltrap ontbreekt. Een full adder voorziet daarin. Die
+omvat twee EXOF’s, twee keer EN en een OF. Figuur 11.5-11 toont de schakeling met
+waarheidstabel.
+
+A
+B
+Cin
+
+=1
+
+=1
+
+S
+
+&
+&
+
+1
+
+Cuit
+
+A
+0
+1
+0
+1
+0
+1
+0
+1
+
+B
+0
+0
+1
+1
+0
+0
+1
+1
+
+Cin Cuit S
+0 0 0
+0 0 1
+0 0 1
+0 1 0
+1 0 1
+1 1 0
+1 1 0
+1 1 1
+
+Figuur 11.5-11. Full adder met waarheidstabel. A1 en A2 zijn signaalinvoeren; Cin (groen) is de invoer voor de
+carry (transportbit), Cuit (blauw) de uitvoer van de carry (transportbit) en S (rood) is de uitvoer van de som.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+In blokschema wordt het overzichtelijker (Figuur 11.5-12).
+
+A
+
+half
+adder
+
+B
+
+A
+B
+Cin
+
+S
+Cuit
+
+S
+
+full
+adder
+
+Cuit
+
+Figuur 11.5-12. Half adder en full adder in blokschema.
+
+Hiermee hebben we een full adder, een optelschakeling, voor 2 getallen van 1 bit plus een
+carry van een voorgaand bitpaar.
+Voor het optellen van twee getallen met n bits in het grootste getal zijn 𝑛 optellers nodig.
+Daarbij is het opletten met de volgorde. Normaal bekijken we alles, tekst en schema’s, van
+links naar rechts. Bij het optellen van getallen werken we van rechts naar links. Bij decimale
+getallen doen we dat voor ons gevoel vanzelf, omdat we dat ooit op school zo hebben
+geleerd. Bij binaire getallen gaat dat net zo, want een binair getal is net zo ingedeeld als een
+decimaal getal. De kleinste waarde staat rechts, de grootste links. Het meest rechtse bit heet
+Least Significant Bit, afgekort LSB. Het meest linkse bit heet Most Significant Bit, MSB.
+Vaak zitten optellers in IC’s met 4 stuks op één chip. De LSB’s van beide getallen 𝐴0 … 𝐴3
+en 𝐵0 … 𝐵3 komen binnen op de meest rechtse opteller.
+Dat zou dus een half adder mogen zijn, maar in de praktijk wordt dit soort schakelingen
+ook voor grotere getallen gebruikt en daarom achter elkaar gezet. Dan is een half adder
+voor één stel bits rechts alleen maar verwarrend, Figuur 11.5-13 laat een schakeling van
+vier full adders zien.
+
+A3 B3
+
+Cin
+
+A2 B2
+
+full
+adder
+
+Cin
+
+A1 B1
+
+full
+adder
+
+Cin
+
+A0 B0
+
+full
+adder
+
+full
+adder
+
+Cuit
+
+Cuit
+
+S4=Cuit
+S4
+
+Cuit
+S3
+
+S2
+
+0
+S1
+
+S0
+
+Figuur 11.5-13. Optelschakeling voor twee 4-bits getallen A en B. Sommen S in rood, carry-bits Cin en Cuit in
+blauw.
+
+Als er aan het eind, links dus, een bit (carry) overblijft, kan dat ofwel naar een volgende
+optelschakeling, ofwel het is het vijfde bit van de uitkomst, S4 dus. In vergelijkingvorm:
+𝐴0 … 𝐴3 + 𝐵0 … 𝐵3 = 𝑆0 … 𝑆4
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+In blokvorm ziet het eruit als in Figuur 11.5-14.
+input A
+A3 A2 A1 A0
+Carry uit
+of S4
+
+input B
+B3 B2 B1 B0
+
+4-bit adder
+
+Carry in
+
+S3 S2 S1 S0
+output S
+Figuur 11.5-14. Schematische weergave van een 4-bits adder
+
+11.6 Sequentiële logica: flipflops
+11.6.1 Inleiding
+In schakelingen met poorten, combinatielogica, wordt de gang van zaken bepaald door de
+toestand op de ingangen van de betrokken poorten. Bij sequentiële logica worden de
+gebeurtenissen mede bepaald door vorige toestanden op de ingangen. Die vorige
+toestanden moeten dan worden onthouden. Dat kan, als de schakeling geheugen bevat.
+Dat geheugen zit in zogenoemde flipflops. Dat zijn schakelingen die twee stabiele
+toestanden kennen. Ze hebben twee gelijke helften, die elkaars toestand bepalen. De ene
+helft geleidt, de andere helft staat gesperd. De sperring van één helft zorgt dat de andere
+helft geleidt en andersom. Als we de ene toestand 1 noemen, is de andere 0 en omgekeerd.
+Omklappen van 1 naar 0 of omgekeerd gebeurt door middel van een blok- of pulsvormig
+signaal. Deze paragraaf gaat over soorten flipflops en hun eigenschappen.
+11.6.2 De RS-flipflop
+Flipflops kun je maken met NOF- en NEN-poorten (Figuur 11.6-1).
+
+S
+
+R
+
+
+
+Q
+
+
+
+Q
+
+S
+
+R
+
+&
+
+Q
+
+&
+
+Q
+
+Figuur 11.6-1. RS-flipflops. Links: gebaseerd op NOF-poorten. Rechts: gebaseerd op NEN-poorten.
+Waarheidstabellen in Tabel 11.6-1.
+
+De figuur toont twee RS-flipflops. Links één, gemaakt van twee NOF-poorten en rechts
+één van twee NEN-poorten. R en S staan voor resp. “reset” en “set”. De betekenis van die
+termen volgt iets verderop. Eerst de twee schema’s.
+We beginnen met de NOF-poorten) (links). In rust zijn R en S beide 0. De uitgang van de
+bovenste NOF is verbonden met de overgebleven ingang van de onderste NOF-poort, de
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+uitgang van de onderste NOF met de overgebleven ingang van de bovenste. Welke van de
+twee uitgangen is nu 1? Antwoord: als 𝑄 = 1, dan is 𝑄̅ = 0 en omgekeerd. Beide poorten
+hebben elkaar in een houdgreep. Maak 𝑅 = 1, dan geldt 𝑄 = 0 en 𝑄̅ = 1. Maken we 𝑆 =
+1, dan ontstaat 𝑄 = 1 en 𝑄̅ = 0. Dat verklaart de namen R voor “Reset” en S voor “Set”.
+Bij een OF en een NOF reageert de uitgang niet op de toestand van een ingang als de
+andere ingang 1 is. Bij EN en NEN is het andersom: als één van de ingangen 0 is, reageert
+de uitgang niet op de toestand van de andere ingang. Dat vertaalt zich in de
+waarheidstabellen voor de schakelingen van Figuur 11.6-1 (Tabel 11.6-1)
+Tabel 11.6-1. Waarheidstabellen van de flipflops van Figuur 11.6-1. Links: waarheidstabel voor de RSflipflop van NOF-poorten. Rechts: idem voor die van NEN-poorten.
+
+R
+
+S
+
+Q
+
+0
+1
+0
+1
+
+0
+0
+1
+1
+
+𝑄
+0
+1
+0
+
+Niet Q
+𝑄̅
+
+Toestand
+onthoud
+reset
+set
+“verboden”
+
+1
+0
+0
+
+R
+
+S
+
+Q
+
+1
+0
+1
+0
+
+1
+1
+0
+0
+
+𝑄
+0
+1
+1
+
+Niet Q
+𝑄̅
+1
+0
+1
+
+Toestand
+onthoud
+reset
+set
+“verboden”
+
+𝑅 = 1 en 𝑆 = 1 zijn samen een “verboden” toestand voor de NOF-flipflop, want ze sturen
+de flipflop in een tegengestelde toestand: 𝑄 en 𝑄̅ moeten tegelijk 0 zijn. Dat kan niet en
+daardoor is de toestand onvoorspelbaar geworden. Dat is het laatste wat je in een digitale
+schakeling wilt. Voor de uit NEN’s opgebouwde flipflop is de “verboden toestand” 0 op R
+en S tegelijk, wat zou moeten leiden tot de onmogelijke situatie van een 1 op 𝑄 èn op 𝑄̅ .
+Het korte en meest gebruikte schemasymbool voor de RS-flipflop staat in Figuur 11.6-2.
+
+S
+
+Q
+
+R
+
+Q
+
+Figuur 11.6-2. Schemasymbool voor een RS-flipflop.
+
+11.6.3 De impulsgestuurde (geklokte) RS-flipflop
+Een gewone RS-flipflop is gevoelig voor stoorpulsjes. Daar is wat aan te doen met de
+impulsgestuurde RS. Opbouw en schemasymbool staan in Figuur 11.6-3.
+
+Opbouw
+S
+
+&
+S
+R
+
+T
+R
+
+Schemasymbool
+1S
+C1
+1R
+
+Q
+Q
+
+&
+
+Q
+Q
+
+Figuur 11.6-3. Links: impulsgestuurde RS-flipflop die alleen kan schakelen als T=1. Rechts: schemasymbool.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+De EN-poorten maken dat de flipflop alleen gevoelig is voor S en R als 𝑇 = 1. Hoe korter
+de duur van de T-puls, des te minder gevoelig is de schakeling voor storingen. De
+waarheidstabel verschilt ten opzichte van Tabel 11.6-1 maar op één punt: een extra regel
+voor 𝑇 = 0. Wat R en S ook zijn, bij 𝑇 = 0 verandert de inhoud van de flipflop niet.
+11.6.4 Het master-slave systeem
+De master-slave flipflop bestaat uit twee flipflops, de meester en de slaaf. De meester
+bestuurt de slaaf. Het signaal komt binnen bij de meester, de slaaf neemt het over. Figuur
+11.6-4 toont opbouw en schemasymbool.
+Opbouw
+
+S
+R
+T
+
+1S
+C1
+1R
+
+1
+
+M
+M
+
+Schemasymbool
+1S
+C1
+1R
+
+Q
+1S
+C1
+1R
+
+Q
+
+T
+
+Q
+Q
+
+Figuur 11.6-4. Master-slave RS-flipflop. Links: opbouw, rechts: schemasymbool.
+
+De eerste flipflop (master) neemt de toestand van R en S over als 𝑇 = 1. De tweede
+flipflop (slave) ontvangt dan via de NIET-poort een 𝑇̅.
+̅ over als 𝑇 = 0, want dan is 𝑇̅ = 1.
+De slave neemt de informatie op de uitgangen 𝑀 en 𝑀
+In het schemasymbool is het master-slave principe te herkennen aan de hoekjes bij de
+uitgangen. Het systeem is minder storingsgevoelig dan de geklokte enkele flipflop.
+Storingen die optreden terwijl 𝑇 = 1 hebben geen invloed op de toestand van de
+uitgangen 𝑄 en 𝑄̅ . De uitgangen nemen de inhoud van R en S over van het ogenblik
+direct vóór de overgang van 𝑇 = 1 naar 𝑇 = 0, mits 𝑅 = 𝑆̅.
+11.6.5 De flankgestuurde RS-flipflop
+Ook bij de master-slave kan er ongewenste inhoud in de flipflop terecht komen. De
+betrouwbaarste van allemaal is de flankgestuurde flipflop. Die reageert op de op- of
+neergaande flank van een klokpuls. Korter dan een flank kun je het niet hebben.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+(S=R)
+1
+
+S
+Q
+
+1S
+C1
+1R
+
+T
+
+Q
+
+0
+1
+0
+1
+
+Q
+
+0
+Figuur 11.6-5. Flankgestuurde RS-flipflop. Links: schemasymbool. Rechts: een voorbeeld van de gang van
+zaken. Een hoge positie is 1, een lage 0. Verondersteld is dat 𝑆 = 𝑅̅.
+
+Figuur 11.6-5 toont het schemasymbool en de gang van zaken bij het overnemen van R en
+S. Q verandert op de voorflank van de klokpuls T. Wat tussentijds op de R- en S-ingangen
+staat, doet er niet toe. Het driehoekje in het schemasymbool bij C1 betekent flanksturing.
+11.6.6 De D-flipflop
+De D-flipflop heeft geen “verboden” toestand. Er is maar één D-ingang. Door de inverter
+geldt gegarandeerd dat 𝑆 = 𝑅̅ (Figuur 11.6-6).
+
+Opbouw
+D
+1
+
+Schemasymbool
+
+S
+
+Q
+
+R
+
+Q
+
+D
+
+Q
+Q
+
+Figuur 11.6-6. D-flipflop.
+
+De waarheidstabel (Tabel 11.6-2) is op het eerste gezicht aangenaam eenvoudig.
+Tabel 11.6-2. Waarheidstabel van de D-flipflop in Figuur 11.6-6.
+
+𝑄
+𝑄̅ Toestand
+0
+0
+1
+Reset
+1
+1
+0
+Set
+Helaas is de werking zo versimpeld dat de D-flipflop ongeschikt is om de toestand van D
+̅ in de vorm van 𝑄̅ als toegift.
+te onthouden. Hij is een doorgeefluik voor D met 𝐷
+
+D
+
+Maar in geklokte vorm wordt hij interessant. Q kan zich dan alleen aan D aanpassen
+tijdens een klokpuls. Dan onthoudt het ding tussen twee klokpulsen in wèl iets.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+23
+
+VRZA-cursus radiozendamateur
+
+D
+
+1D
+
+Q
+
+T
+
+C1
+
+Q
+
+Hoofdstuk 11_kort_20250918
+
+D
+x
+0
+1
+
+𝑇
+0
+1
+1
+
+𝑄̅
+𝑄̅
+1
+0
+
+𝑄
+𝑄
+0
+1
+
+Toestand
+Onthoud
+Reset
+Set
+
+Figuur 11.6-7. Geklokte D-flipflop. Links: schemasymbool. Rechts: waarheidstabel.
+
+De waarheidstabel in Figuur 11.6-7 laat het zien. Links zien we het schemasymbool. Met
+een master-slave opbouw kan het ook. Figuur 11.6-8 laat het schemasymbool zien.
+
+D
+
+1D
+
+Q
+
+T
+
+C1
+
+Q
+
+Figuur 11.6-8. Master-slave D-flipflop.
+
+Het schemasymbool ziet er net zo uit als dat in Figuur 11.6-7, maar nu met de bekende
+hoekjes bij de uitgangen. Met een flankgestuurde flipflop kan het ook (Figuur 11.6-9)
+D
+
+1D
+
+Q
+
+T
+
+C1
+
+Q
+
+D
+x
+x
+0
+1
+
+𝑇
+0
+1
+0→1
+0→1
+
+𝑄̅
+𝑄̅
+𝑄̅
+
+𝑄
+𝑄
+𝑄
+0
+1
+
+1
+0
+
+Toestand
+Onthoud
+Onthoud
+Reset
+Set
+
+Figuur 11.6-9. Flankgestuurde D-flipflop. Links: schemasymbool. Rechts: waarheidstabel.
+
+Deze geklokte flipflop heet ook wel bistable latch.
+11.6.7 De JK-flipflop
+Ook de master-slave JK-flipflop is een flipflopschakeling zonder verboden toestand. De
+opbouw en het schemasymbool zijn weergegeven in Figuur 11.6-10.
+
+Opbouw
+
+J
+
+&
+
+Schemasymbool
+S
+1S
+C1
+1R
+
+T
+K
+
+&
+
+Q
+
+1J
+C1
+1K
+
+Q
+
+R
+
+Figuur 11.6-10. De JK-flipflop. Links de opbouw, rechts het schemasymbool.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+24
+
+Q
+Q
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+De schakeling bestaat uit een geklokte master-slave RS-flipflop. De R- en de S-ingang
+worden voorafgegaan door een EN-poort. Die voor de S-ingang is met één ingang
+verbonden met de 𝑄̅ -uitgang, de andere is de J-ingang. Bij de R-ingang zien we hetzelfde,
+maar is de EN met één ingang verbonden met de Q-uitgang en is de andere de K-ingang.
+De klokingang is T. Tabel 11.6-3 is de waarheidstabel. De vierde regel met 𝐽 = 1 en 𝐾 = 1
+maakt een frequentiedeler: de klokfrequentie wordt door 2 gedeeld (Foto 11.6-1).
+Tabel 11.6-3. Waarheidstabel van een J-K flipflop.
+
+J
+
+K
+
+0
+0
+1
+1
+
+0
+1
+0
+1
+
+𝑇
+010
+010
+010
+010
+
+𝑄
+𝑄
+0
+1
+𝑄 → 𝑄̅
+
+Niet Q
+𝑄̅
+1
+0
+̅
+𝑄→𝑄
+
+Toestand
+Onthoud
+Reset
+Set
+Omslag
+
+Foto 11.6-1. Frequentiedeling met een JK-flipflop bij J=1 en K=1. Geel: klok. Blauw: Spanning op uitgang Q.
+
+11.6.8 De master-slave D-flipflop als frequentiedeler
+Als de 𝑄̅ -uitgang wordt verbonden met de D-ingang, ontstaat ook een frequentiedeler.
+
+D
+D
+
+1D
+
+Q
+
+T
+
+C1
+
+Q
+
+x
+0
+1
+
+𝑇
+0
+1
+1
+
+𝑄
+𝑄
+0
+1
+
+𝑄̅
+𝑄̅
+1
+0
+
+Toestand
+Onthoud
+Reset
+Set
+
+Figuur 11.6-11. De master-slave D-flipflop van Figuur 11.6-8 (links) met rechts de bijbehorende
+waarheidstabel.
+
+En nu de als frequentiedeler geschakelde M-S D-flipflop (Figuur 11.6-12):
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+T
+
+1D
+
+Q
+
+C1
+
+Q
+
+Figuur 11.6-12. Als frequentiedeler geschakelde Master-Slave D-flipflop.
+
+Daarin is 𝐷 = 𝑄̅ . Bij elke klokpuls is er een set of een reset (zie waarheidstabel in Figuur
+11.6-11). Ook dat leidt tot een frequentiedeler, vergelijkbaar met het beeld op Foto 11.6-1.
+11.6.9 De flipflops samengevat
+Het rijtje flipflops dat we hebben gezien is:
+1. De RS-flipflop in zijn simpelste vorm: geen klok, alleen een R- en een S-ingang. En
+één “verboden” toestand.
+2. De geklokte RS-flipflop. Minder storingsgevoelig, wel een “verboden” toestand.
+3. De master-slave (M-S) RS-flipflop. Nog minder storingsgevoelig, nog steeds een
+“verboden” toestand.
+4. De flankgestuurde RS-flipflop, bijna immuun voor storingen, wel een “verboden”
+toestand
+5. De D-flipflop; in zijn eenvoudigste vorm een vrij nutteloos ding, maar in geklokte
+vorm geschikt als geheugenelement en in M-S-vorm bruikbaar als frequentiedeler.
+Geen “verboden” toestand.
+6. De M-S JK-flipflop: 2 ingangen zonder verboden toestand, geschikt als
+geheugenelement èn als frequentiedeler. De veelzijdigste en ingewikkeldste.
+
+11.7 Frequentiedelers, tellers en registers
+11.7.1 Frequentiedelers en -tellers
+Frequenties delen door elke gewenste hele macht van 2 kan met een rij M-S JK-flipflops.
+Het aantal is even groot als de macht van 2 waardoor wordt gedeeld. Voor een 16-deler
+bijvoorbeeld, dus delen door 24, zijn 4 delers nodig (Figuur 11.7-1).
+
+Q4
+Q4
+
+1J 1
+C1
+1K 1
+
+Q3
+
+1J 1
+C1
+1K 1
+
+Q3
+
+Q2
+Q2
+
+1J 1
+C1
+1K 1 Q1
+
+1J 1
+C1
+1K 1
+
+T
+
+Q1
+
+Figuur 11.7-1. Asynchrone 4-bits frequentiedeler, bestaand uit 4 JK-flipflops.
+
+Q1 levert de klokfrequentie T gedeeld door 21=2, Q2 is T gedeeld door 22 =4 en zo verder.
+
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 11_kort_20250918
+
+Foto 11.7-1.Golfvormen van de schakeling van Figuur 11.7-1. Spoor 1 (rood) is de klokpuls op ingang T.
+Spoor 2 (oranje) is Q1; spoor 3 (groen) is Q2; spoor 4 (geel) is Q3 en spoor 5 (blauw) is Q4.
+
+Foto 11.7-1 laat de klokpuls T zien (spoor 1), de klokfrequentie gedeeld door 2 (spoor 2),
+door 4 (spoor 3), door 8 (spoor 4) en door 16 (spoor 5).
+De deler is asynchroon, dat wil zeggen dat de afzonderlijke delers pas reageren als ze de
+signaalsprong van de voorgaande schakeling binnen krijgen. Omdat elke deler een kleine
+vertraging veroorzaakt, reageert de laatste deler iets later dan de eerste. Om een
+synchrone deler te maken waarin de afzonderlijke deeltrappen wel gelijktijdig reageren, is
+aanvullende elektronica nodig die (ver) buiten de exameneisen valt.
+De schakeling van Figuur 11.7-1 is ook een teller. Q1 t/m Q4 vormen een binair getal
+waarvan de laagste waarde 0 is en de hoogste waarde 15.
+11.7.2 Delers en tellers voor andere getallen dan machten van 2
+Voor ons zijn binaire getallen lastige dingen om mee te werken. Vaak wordt dan de BCDcode gebruikt. BCD is een afkorting van binary coded decimal, tweetallig gecodeerd
+tientallig. Dat kan door de teller zichzelf na 9 terug te laten zetten op 0 en een volgende
+teller een pulsje bij te laten tellen. Dan krijg je het decimale getal 10 (of 20 of 30, enz.).
+11.7.3 Schuifregisters
+Schuifregisters zijn verwant aan tellers. Hun uitgangstoestand hangt niet alleen af van
+aantallen klokpulsen, maar ook van data die ze op een data-ingang krijgen aangeleverd.
+De databits worden bij elke klokpuls een plekje doorgeschoven. Datadoorgifte vraagt om
+een flankgestuurde flipflop. De eenvoudige reden is dat bij een pulsgestuurd register data
+op de data-ingang tijd heeft om gedurende de puls door te rollen naar de laatste flipflop in
+de rij. Bij flanksturing is die tijd er niet en komt een databit per keer maar 1 flipflop
+verder. Dat is ook de bedoeling. Figuur 11.7-2 toont de opzet van een 4-bits schuifregister.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+27
+
+VRZA-cursus radiozendamateur
+
+Q4
+
+Q4
+
+Q3
+
+1D C1
+
+Hoofdstuk 11_kort_20250918
+
+Q3
+
+1D C1
+
+Q2
+
+Q2
+
+1D C1
+
+Q1
+
+Q1
+
+1D C1
+D
+T
+
+Figuur 11.7-2. De opbouw van een 4-bits schuifregister met D-flipflops.
+
+Het kan ook met master-slave flipflops. Dan wordt bij elke flipflop de toestand op de
+ingang bij het optreden van de voorflank van de klokpuls, pas bij het optreden van de
+achterflank doorgegeven aan de uitgang van de flipflop. Zo is bij het opnemen van een
+nieuw bit door de slaaf de doorgifte naar de volgende flipflop alweer geblokkeerd.
+Deze manier van bit-voor-bit doorgeven heet serieel. Je kunt de toestand van een register
+ook parallel uitlezen, dat is alle bits, 𝑄1 … 𝑄𝑛 , in één keer uitlezen in een daarvoor
+geschikte schakeling. Veel registers kunnen ook parallel worden voorzien van inhoud,
+waarna eventueel de inhoud wordt doorgeklokt als een serie bits. Het eerste heet serieparallel conversie (omzetting), het tweede parallel-serie conversie.
+De parallelle uitvoer kan bijvoorbeeld naar een optelschakeling gaan. De inhoud één
+plaats vooruit klokken is vermenigvuldigen met 2, één plaats terug is delen door 2. Figuur
+11.7-3 is een voorbeeld van zo’n register. Niet uit het hoofd leren, wel snappen!
+Serieuitvoer
+
+Q4
+&
+
+Serie/par
+uitvoer contr.
+
+&
+
+Q3
+&
+
+&
+
+Q2
+&
+
+&
+
+Q1
+&
+
+&
+
+1
+
+1D C1
+
+1D C1
+
+1D C1
+
+1D C1
+T
+
+1
+&
+Serie/par
+invoer contr.
+
+1
+
+1
+
+&
+
+&
+
+1
+&
+Serieinvoer
+
+1
+D4
+
+D3
+
+D2
+
+D1
+
+Figuur 11.7-3. 4-bits serie-parallel- en parallel-serie-omzetter, deels getekend met de poorten in compacte
+vorm.
+©2021,2025. Vereniging van radiozendamateurs VRZA
+
+28
+
+

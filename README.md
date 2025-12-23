@@ -37,8 +37,10 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Insulators (Isolatoren):** High resistance (e.g., Glass, Ceramic, Plastic).
 - [ ] **Basic Quantities:**
   - [ ] **Current (I, Ampere):** Flow of charge (Q) per time (t). Formula: I = Q / t
+  - [ ] **Direction:** Technical direction (Plus to Minus) vs Electron flow (Minus to Plus).
   - [ ] **Voltage (U, Volt):** Potential difference.
   - [ ] **Resistance (R, Ohm):** Opposition to current flow.
+  - [ ] **Specific Resistance (Soortelijke weerstand):** Resistance based on material properties (rho) and dimensions (R = rho * L / A).
 - [ ] **Ohm's Law (Wet van Ohm):**
   - [ ] Formula: U = I * R
 - [ ] **Kirchhoff's Laws (Wetten van Kirchhoff):**
@@ -134,6 +136,11 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 ### 2.1 Resistor (Weerstand)
 - [ ] **Function:** Limits current, dissipates heat.
 - [ ] **Unit:** Ohm.
+- [ ] **Types:**
+  - [ ] **Fixed:** Carbon film, Metal film, Wirewound (Draadgewonden).
+  - [ ] **Variable:** Potentiometer (Voltage divider), Rheostat (Variable resistor).
+  - [ ] **Thermistors:** NTC (Negative Temp Coeff - R drops as T rises), PTC (Positive Temp Coeff).
+- [ ] **Color Code (Kleurcode):** Rings indicating value and tolerance (e.g., Black=0, Brown=1, Red=2... Gold/Silver=Tolerance).
 - [ ] **Tolerance:** Accuracy.
 - [ ] **Dissipation:** Max power rating (P = I^2 * R).
 
@@ -154,7 +161,12 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Reactance (Xl):** Opposition to AC increases as frequency rises.
   - Formula: Xl = 2 * pi * f * L
 - [ ] **Phase:** Voltage **leads** Current by 90 degrees (ELI).
-- [ ] **Q-Factor:** Quality (Xl / R_series). High Q = sharp resonance.
+- [ ] **Q-Factor:** Quality of a resonant circuit.
+  - [ ] **Series LC:** Q = Xl / R_series (Voltage magnification).
+  - [ ] **Parallel LC:** Q = R_parallel / Xl (Current magnification).
+  - [ ] **Bandwidth:** B = f_res / Q.
+- [ ] **Skin Effect (Huideffect):** HF current flows on the surface of the conductor. Increases resistance.
+  - [ ] Mitigation: Silver plating, Litz wire (Litzedraad).
 
 ### 2.4 Transformers (Transformatoren)
 - [ ] **Function:** Transform Voltage/Current/Impedance.
@@ -163,8 +175,19 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] Voltage: Us / Up = Ns / Np
   - [ ] Current: Is / Ip = Np / Ns
   - [ ] Impedance: Zp / Zs = (Np / Ns)^2
+- [ ] **Autotransformer (Autotransformator):** Single winding with a tap. Not galvanically isolated (unsafe for mains).
+- [ ] **Losses (Verliezen):**
+  - [ ] **Copper Loss:** Resistance of the wire (I^2 * R).
+  - [ ] **Iron Loss:**
+    - [ ] **Eddy Currents (Wervelstromen):** Induced currents in core -> Use laminated core (gelamelleerd).
+    - [ ] **Hysteresis:** Energy lost reversing magnetic field -> Use soft iron/ferrite.
+  - [ ] **Leakage:** Magnetic field lines missing the secondary coil.
 
 ### 2.5 Diode (Diode)
+- [ ] **Semiconductor Theory:**
+  - [ ] **Doping (Dotering):** Adding impurities to create N-type (Donor, e.g., Phosphorus) or P-type (Acceptor, e.g., Boron).
+  - [ ] **Depletion Zone (Uitputtingszone):** Non-conductive region at the PN junction.
+  - [ ] **Threshold Voltage (Drempelspanning):** ~0.6-0.7V for Silicon, ~0.2V for Germanium.
 - [ ] **PN Junction:** Allows current one way (Anode to Cathode).
 - [ ] **Rectifier:** AC to DC conversion.
 - [ ] **Zener:** Voltage stabilisation (conducts in reverse at breakdown voltage).
@@ -202,6 +225,10 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Time Constants (tau):**
   - [ ] RC Circuit: tau = R * C (Time to charge to 63%).
   - [ ] RL Circuit: tau = L / R.
+- [ ] **Impedance (Z):** Vector sum of Resistance (R) and Reactance (X).
+  - [ ] Series RC/RL: Z = sqrt(R^2 + X^2)
+  - [ ] Parallel RC/RL: 1/Z = sqrt((1/R)^2 + (1/X)^2)
+
 
 ### 3.2 Analogue Filters (Analoge filters)
 - [ ] **Resonant Circuits (LC):**
@@ -216,8 +243,10 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 ### 3.3 Power Supply (Voeding)
 - [ ] **Rectification:**
   - [ ] Half-wave (1 diode), Full-wave centre-tap (2 diodes), Bridge (4 diodes).
-- [ ] **Smoothing:** Large capacitor to reduce Ripple.
+- [ ] **Smoothing:** Large capacitor to reduce Ripple (Rimpel). 
+  - [ ] Capacitor charges to U_peak, discharges during gaps.
 - [ ] **Stabilisation:** Zener diode or Regulator IC (7805, 7812).
+  - [ ] **Zener Calculation:** Series resistor R = (U_in - U_zener) / (I_zener + I_load).
 - [ ] **Switch Mode (SMPS):** High efficiency, small, but creates RF noise (EMC).
 
 ### 3.4 Amplifiers (Versterker)

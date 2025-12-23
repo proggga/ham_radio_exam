@@ -1,0 +1,2352 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Inhoudsopgave
+12
+
+Radio: modulatie en zenders....................................................................................12-3
+12.1
+
+Wat leer je in dit hoofdstuk .................................................................................12-3
+
+12.2
+
+Analoge modulatie ............................................................................................... 12-3
+
+12.2.1
+
+Wat is modulatie? .........................................................................................12-3
+
+12.2.2
+
+Amplitudemodulatie, AM ............................................................................12-4
+
+12.2.3
+
+Het frequentiespectrum van AM ................................................................ 12-7
+
+12.2.4
+
+De bandbreedte van een AM-signaal ..........................................................12-7
+
+12.2.5
+
+Het vermogen van een AM-signaal, Peak Envelope Power (PEP) ...........12-8
+
+12.2.6
+
+Kan die informatieloze draaggolf niet weg? Jawel! ....................................12-9
+
+12.2.7
+
+Enkelzijbandmodulatie (EZB): nog zuiniger ............................................12-10
+
+12.2.8
+
+Morse-telegrafie (CW) ...............................................................................12-11
+
+12.2.9
+
+Frequentie- en fasemodulatie (FM en PM) ...............................................12-12
+
+12.3
+
+Digitale modulatie .............................................................................................. 12-17
+
+12.3.1
+
+Inleiding ......................................................................................................12-17
+
+12.3.2
+
+Transmissiesnelheid: de twee eenheden bps en Bd ..................................12-17
+
+12.3.3
+
+Amplitude Shift Keying (ASK) ..................................................................12-17
+
+12.3.4
+
+Frequency Shift Keying (FSK) ...................................................................12-18
+
+12.3.5
+
+Phase Shift Keying (PSK) ...........................................................................12-19
+
+12.3.6
+
+Quadrature Amplitude Modulation (QAM) .............................................12-21
+
+12.3.7
+
+Overzicht van tot nu toe behandelde modulatevormen .......................... 12-22
+
+12.3.8
+
+Enkele andere vormen van digitale modulatie in het amateurverkeer ...12-22
+
+12.3.9
+
+Pariteit: nog een manier van foutcontrole ................................................12-23
+
+12.4
+
+Zenders en modulatoren ....................................................................................12-24
+
+12.4.1
+
+Een zender zonder modulator ...................................................................12-24
+
+12.4.2
+
+Mengschakelingen en het maken van AM, DZB en EZB ........................12-25
+
+12.4.3
+
+Schakelingen voor CW ..............................................................................12-34
+
+12.4.4
+
+Schakelingen voor FM ...............................................................................12-34
+
+12.4.5
+
+Schakelingen voor PM ...............................................................................12-35
+
+12.5
+
+De decibel en zenders ........................................................................................12-36
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+12.5.1
+
+De basis .......................................................................................................12-36
+
+12.5.2
+
+Rekenen met dB .........................................................................................12-36
+
+12.5.3
+
+De dB bij spanningen en stromen in plaats van bij vermogens. ..............12-37
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+12 Radio: modulatie en zenders
+12.1 Wat leer je in dit hoofdstuk
+Modulatie maakt dat een laagfrequent signaal (LF) als spraak of tekst op een hoogfrequent
+signaal (HF) van zender naar ontvanger kan “meeliften”. Zonder modulatie geen radio.
+Modulatie verpakt het over te brengen LF-signaal in het HF-signaal. Samen worden ze
+één HF-signaal. Modulatie kan analoog en digitaal. We behandelen eerst analoge
+modulatievormen, daarna digitale.
+Analoge modulatie omvat amplitudemodulatie (AM) en de daarvan afgeleide vormen
+dubbelzijband (DZB) en enkelzijband (EZB), CW (morsetelegrafie met onderbroken
+draaggolf), frequentiemodulatie (FM) en fasemodulatie (PM). Bij CW gaat het om tekst.
+Bij de andere modulatievormen gaat het om geluid, meestal spraak. Ook digitale
+modulatievormen kunnen meestal met analoge modulatie worden overgebracht.
+De digitale modulatievormen vormen tegenwoordig een omvangrijk gezelschap. Er komen
+er nog steeds bij. We beperken ons tot de vormen die bij het examen worden gevraagd. Je
+maakt kennis met de basisbegrippen baud en bps (bits per seconde). Daarna volgen ASK
+(Amplitude Shift Keying), FSK (Frequency Shift Keying), BPSK (Binary Phase Shift
+Keying), QPSK (Quadrature Phase Shift Keying), QAM (Quadrature Amplitude
+Modulation) en begrippen die bij digitale modulatievormen horen.
+Daarna volgen zenders en schakelingen voor analoge modulatievormen, gevolgd door een
+korte paragraaf met iets meer informatie over de decibel (dB) dan in vorige hoofdstukken.
+
+12.2 Analoge modulatie
+12.2.1 Wat is modulatie?
+Laagfrequente informatie (LF) zoals spraak kan niet zonder meer via een antenne worden
+uitgezonden om op afstanden van enkele tot duizenden km te worden ontvangen en
+verstaan. Daarom moet ze meereizen met een hogere frequentie waarmee dat wel kan. Die
+hoge frequentie heet draaggolf. Het LF-signaal wordt verpakt in de draaggolf. Dat heet
+moduleren. Een LF-signaal dat een draaggolf moduleert, wordt aangeduid met modulatie.
+Voor verstaanbare spraak gebruikt men frequentiegebied van 300–2700 Hz of 300-3000
+Hz. Lagere frequenties voegen aan de verstaanbaarheid weinig toe, hogere ook niet. Bij de
+zendamateur staat verstaanbaarheid centraal. Wat spraakmodulatie betreft beperken we
+ons daarom tot het gebied van 300-3000 Hz.
+Naast spraakmodulatie kan ook tekst worden overgebracht. Op Morsetelegrafie (CW) na
+gaat het daarbij om digitale modulaties. Die komen in de volgende paragraaf aan de orde.
+We behandelen de volgende soorten modulatie
+•
+
+Amplitudemodulatie (AM) en daarvan afgeleide modulatiesoorten
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-3
+
+VRZA-cursus radiozendamateur
+
+•
+•
+
+Hoofdstuk 12 kort 20250922
+
+Morse- telegrafie (CW)
+Frequentie- en fasemodulatie
+
+12.2.2 Amplitudemodulatie, AM
+Een ongemoduleerde draaggolf is niet meer dan een hoogfrequente wisselspanning of stroom zonder dat er informatie in zit. Bij amplitudemodulatie (AM) varieert de amplitude
+van de draaggolf (HF, ook wel RF genoemd van RadioFrequent) met die van het
+audiosignaal (AF, audiofrequent).
+Bij modulatie worden AF en HF wiskundig gezien met elkaar vermenigvuldigd. Bij een
+hoge momentele waarde van het AF hoort een grote amplitude van het HF en bij een lage
+momentele waarde van het AF een kleine HF-amplitude. De momentele waarde van het
+AF mag geen minteken hebben, want dan zou de amplitude van het HF ook een minteken
+krijgen. Negatieve amplitudes bestaan niet. De oplossing is eenvoudig: tel bij het AF de
+waarde van de maximale amplitude op en alle mintekens verdwijnen.
+De gang van zaken is weergegeven in Figuur 12.2-1. De verticale as geeft de signaalwaarde
+gedeeld door zijn amplitude, zodat AF en RF beide tussen +1 en -1 variëren. Zoals gezegd
+komt er bij het AF-bestanddeel vervolgens 1 bij. De horizontale as geeft de fase van het
+AF-deel (het modulerende signaal of kortweg modulatie) in eenheden . Een 1 op de
+horizontale as betekent daarom 1.  = .
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+2.0
+
+U/amplitude
+
+U/amplitude
+1.0
+0.0
+
+AF
+
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+U/amplitude
+
+2.0
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+Fase van de modulatie / 
+
+3.0
+
+3.5
+
+1+U/amplitude
+
+1.0
+0.0
+
+1+AF
+
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+U/amplitude
+
+2.0
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+Fase van de modulatie / 
+
+3.0
+
+3.5
+
+draaggolf
+
+1.0
+0.0
+
+RF
+
+-1.0
+-2.0
+
+U/amplitude LF-signaal
+
+-0.5
+
+0.0
+
+0.5
+
+2.0
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+Fase van de modulatie / 
+
+3.0
+
+3.5
+
+AM signaal
+
+1.0
+0.0
+
+RF.(1+AF)
+
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+Fase van het AF-deel / 
+Figuur 12.2-1. Van audiosignaal (AF) via 1+AF en RF-draaggolf naar amplitudegemoduleerd RF-signaal.
+
+Trek nu een verbindingslijn langs de bovenkanten en de onderkanten van het AMsignaal. Dan ontstaan twee curven die samen de omhullende heten (Figuur 12.2-2).
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+U/amplitude
+
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+Fase van de modulatie / 
+Figuur 12.2-2. AM-signaal uit Figuur 12.2-1 met omhullende (blauw). De vorm van de omhullende is
+dezelfde als die van het oorspronkelijke AF-signaal: één keer zoals in de tweede grafiek van Figuur 12.2-1 en
+één keer het spiegelbeeld ervan.
+
+De omhullende heet in het Engels envelope. De vorm is die van het modulerende signaal,
+één keer in fase en één keer in tegenfase.
+In Figuur 12.2-2 hebben de curven van de omhullende een even grote amplitude als de
+oorspronkelijke draaggolf. Kleiner kan ook, bijvoorbeeld de helft, zoals in Figuur 12.2-3.
+
+U/amplitude
+
+2.0
+1.0
+0.0
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+Fase van de modulatie / 
+Figuur 12.2-3. AM-signaal als in Figuur 12.2-2, maar met een AF-signaal waarvan de amplitude die de helft
+is van dat in Figuur 12.2-2,
+
+De amplitude van de gemoduleerde draaggolf varieert nu tussen 0,5 maal en 1,5 maal de
+amplitude van de oorspronkelijke draaggolf. De grootheid M, de modulatiediepte, is de
+grootheid die dat beschrijft. M is minimaal 0 en maximaal 1, of 0% en 100%. Dat komt op
+hetzelfde neer. M is de verhouding van de amplitudes van de oorspronkelijke draaggolf en
+de amplitude van het modulerende signaal. In Figuur 12.2-2 is 𝑀 = 1, in Figuur 12.2-3 is
+𝑀 = 0,5. Pogingen om de modulatiediepte te vergroten tot boven de 100% leiden tot
+vervorming. Dat heet overmodulatie. 𝑀 = 0 betekent dat er geen modulerend signaal is.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+12.2.3 Het frequentiespectrum van AM
+Figuur 12.2-4 laat het frequentiespectrum zien van een draaggolf van afgerond 145 MHz,
+AM-gemoduleerd met één frequentie van 3 kHz. De modulatiediepte M is 1 (100%). Het
+spectrum omvat drie frequenties:
+1. De draaggolffrequentie met amplitude in het midden,
+2. Een zijband met de som van draaggolffrequentie en audiofrequentie en met de
+halve draaggolfamplitude rechts
+3. Een zijband met het verschil van draaggolffrequentie en audiofrequentie en met de
+halve draaggolfamplitude links.
+
+Figuur 12.2-4. Spectrum van een AM-signaal op 145 MHz met zijbanden 3 kHz erboven en 3 kHz eronder.
+Als amplitudes van de draaggolf en die van het modulerend signaal even groot zijn (modulatiediepte M=1),
+is de amplitude van de zijbanden half zo groot (VRZA-cursus 1999, iets aangepast).
+
+De hoogte van elke piek staat voor de amplitude van de bijbehorende frequentie. De
+amplitude van elke zijbande is de helft van die van de draaggolf (midden). Het vermogen
+van elke zijband is een kwart (¼) van dat van de draaggolf., want vermogen is evenredig
+met het kwadraat van de amplitude. Bij AM met 𝑀 = 100% zit de informatie in twee
+kwarten (= de helft) van het draaggolfvermogen. De draaggolf bevat geen informatie.
+12.2.4 De bandbreedte van een AM-signaal
+We zijn tot hier uitgegaan van een modulerend signaal dat bestaat uit 1 frequentie. Spraak
+bevat een heleboel frequenties tegelijk met elk hun eigen amplitude. Een AM-modulator
+levert van elke frequentie in het spraaksignaal twee gespiegelde zijbandfrequenties. Zo
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+ontstaan aan weerszijden van de draaggolf twee frequentiegebieden die elkaars
+spiegelbeeld zijn. Figuur 12.2-5 toont ze in gestileerde vorm.
+Draaggolf
+Onderzijband
+
+Bovenzijband
+
+Figuur 12.2-5. Gestileerd frequentiespectrum van een AM-signaal met audiomodulatie (VRZA-cursus 1999).
+
+De frequentiegebieden lopen van binnen naar buiten op. Dat toont waar de lage en hoge
+spraakfrequenties zitten. Hoe verder van de draaggolf, hoe hoger. Als de onderzijband
+zich uitstrekt tot 3 kHz onder de draaggolffrequentie en de bovenzijband tot 3 kHz
+erboven, dan is de bandbreedte van dit AM-signaal 6 kHz. De algemene regel bij AM: de
+
+bandbreedte is 2x de hoogste modulerende frequentie.
+12.2.5 Het vermogen van een AM-signaal, Peak Envelope Power (PEP)
+Een gemoduleerd AM-signaal verandert steeds van amplitude. Het vermogen verandert
+mee. Daarom kun je bij AM niet spreken van “het” vermogen. De gangbare aanduiding is
+PEP, Peak Envelope Power. Dat is het gemiddelde vermogen van één sinusperiode van het
+gemoduleerde signaal, waarvan maximum en minimum samenvallen met de hoogste, resp.
+laagste waarde van de omhullende (Figuur 12.2-6, de rode gestippelde pijlen).
+
+U/amplitude
+
+2.0
+
+Top van de omhullende
+
+1.0
+0.0
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+Fase van de modulatie / 
+Figuur 12.2-6. Vorm van de omhullende (envelope) bij een modulatiediepte M=1 (100%). Rode pijlen: plaats
+waar PEP optreedt.
+
+Bij een belasting R geldt
+𝑃𝑃𝐸𝑃 =
+
+2
+𝑈𝑒𝑓𝑓
+𝑅
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-8
+
+( 12.2-1)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+De spanning UDG van de draaggolf is bij een modulatiediepte 𝑀 = 1 de helft van UPEP.
+Dan geldt voor het draaggolfvermogen PDG
+
+𝑃𝐷𝐺 =
+
+2
+1
+(2 𝑈𝑒𝑓𝑓 )
+
+𝑅
+
+( 12.2-2)
+
+1
+= 𝑃𝑃𝐸𝑃
+4
+
+Het draaggolfvermogen is bij een modulatiediepte van 1 gelijk aan ¼ PEP. PEP is gelijk
+aan 4x het draaggolfvermogen. In getallen: bij een draaggolfvermogen PDG van 100 W is
+PEP gelijk aan 400 W als 𝑀 = 1.
+Bij een gemoduleerd spraaksignaal zijn er veel frequenties en amplitudes tegelijk. Het
+recept: vind het hoogste punt van de omhullende. Daar zit de PEP (Figuur 12.2-7).
+U
+
+PEP-positie van
+getoond stukje signaal
+
+0
+
+tijd
+Figuur 12.2-7. Positie van PEP-punt in een stukje AM-modulatie dat wat meer “uit het leven gegrepen” is
+dan in vorige grafieken.
+
+12.2.6 Kan die informatieloze draaggolf niet weg? Jawel!
+We hebben gezien dat de vermogensverhouding onderzijband : draaggolf : bovenzijband
+gelijk is aan 1:4:1. De informatie zit in de zijbanden die maar half zoveel vermogen krijgen
+als de draaggolf.
+Inderdaad kan de vermogen vretende draaggolf weg. Dan blijven de zijbanden over. Die
+modulatievorm heet dubbelzijbandmodulatie, afgekort DZB of in het Engels DSB (“double
+sideband”). Figuur 12.2-8 laat zien wat er gebeurt.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+U/amplitude
+
+2.0
+1.0
+0.0
+-1.0
+
+AM
+
+-2.0
+
+U/amplitude
+
+2.0
+
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+2.5
+
+3.0
+
+3.5
+
+2.5
+
+3.0
+
+3.5
+
+Fase van de modulatie / 
+
+1.0
+0.0
+-1.0
+
+Draaggolf eruit
+-2.0
+
+U/amplitude
+
+2.0
+
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+Fase van de modulatie / 
+
+1.0
+0.0
+-1.0
+
+DZB blijft over
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+Fase van de modulatie / 
+Figuur 12.2-8 Van AM naar DZB door verwijdering van de draaggolf.
+
+De twee zijbanden (DZB) blijven over. De grafiek van DZB (onder) ziet er anders uit dan
+AM-modulatie. De omhullende heeft twee keer zoveel maxima en minima in dezelfde tijd
+en zijn amplitude is de helft van die van het oorspronkelijke AM-signaal. De PEP van het
+DZB-signaal is daarvan dan ¼. De bandbreedte is dezelfde als bij AM.
+12.2.7 Enkelzijbandmodulatie (EZB): nog zuiniger
+Het kan nog zuiniger. De twee DZB-zijbanden zijn elkaars spiegelbeeld met dezelfde
+informatie. Dan kan er één weg. Nog eens 2x zo efficiënt en een gehalveerde bandbreedte
+en gehalveerde ruis als extraatje. Dat heet EZB (enkelzijband) of SSB (single sideband).
+Onder amateurs is de afkorting SSB gebruikelijk.
+De bovenzijband, het hoogst in frequentie, is de som van de modulatiefrequentie en de
+oorspronkelijke draaggolffrequentie. De onderzijband is het verschil van die twee. De
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+amplitude van de modulatie zit in beide. Is er even geen LF, dan is er geen en in de
+praktijk nagenoeg geen signaal.
+De bovenzijband heet vrijwel standaard USB, (Upper Sideband), niet te verwarren met
+een bepaald type computeraansluiting. De onderzijband heet LSB (Lower Sideband). Ze
+zijn gelijkwaardig. Per amateurband kan de voorkeur voor een van de twee verschillen.
+Bij een op USB ingestelde ontvanger is LSB onverstaanbaar. Omgekeerd geldt hetzelfde.
+Het belangrijkste nadeel van AM en de AM-varianten is storinggevoeligheid. De meeste
+storingen, of ze nu uit een apparaat of uit de atmosfeer komen, zijn van het AM-soort.
+Ter afronding een “familieportret” van de “AM-familie” (Figuur 12.2-9)
+
+frequentie
+
+frequentie
+
+USB
+
+amplitude
+
+LSB
+
+amplitude
+
+amplitude
+
+DZB (DSB)
+
+amplitude
+
+AM
+
+frequentie
+
+frequentie
+
+Figuur 12.2-9. “Familieportret” van het spectrum van AM en zijn varianten.
+
+12.2.8 Morse-telegrafie (CW)
+Morse-telegrafie is de oudste manier om berichten via radio over te brengen. Onder
+amateurs heet dit CW van Continuous Wave. CW betekent in de wereld weinig meer.
+Onder amateurs leeft het volop. Een zender is met weinig onderdelen te maken en met
+weinig vermogen kunnen toch grote afstanden worden overbrugd. CW werkt alleen voor
+tekst. De modulatie is draaggolf aan, draaggolf uit. Meer niet. Figuur 12.2-10 laat het zien.
+2.00
+1.75
+1.50
+
+1
+
+1.25
+1.00
+0.75
+0.50
+0.25
+
+2
+
+0.00
+-0.25
+-0.50
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Figuur 12.2-10. Signaalvorm bij morse-telegrafie (CW). (1): bron (seinsleutel); (2) gemoduleerd signaal. De
+figuur toont de letter a.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+De figuur toont de letter “a” in morseschrift. Een ontvanger maakt er een korte en een
+lange toon van.
+De abrupte overgang van draaggolf naar geen draaggolf kan storing veroorzaken, zowel op
+amateurbanden als bij de buren. De storingen heten sleutelclicks. De scherpe overgang
+wordt gedempt via een laagdoorlaatfilter in het circuit van de seinsleutel. Dan ziet het
+beeld van Figuur 12.2-10 er in werkelijkheid ongeveer uit als in Figuur 12.2-11.
+
+1
+
+2
+0.0
+
+Figuur 12.2-11. Signaalvorm bij CW met filtering. (1) bron; (2) gemoduleerd signaal.
+0
+
+Het voordeel van CW is de kleine bandbreedte. Filters voor CW in zendontvangers
+hebben meestal een bandbreedte van ongeveer 500 Hz, nog geen 20% van de bandbreedte
+van een gebruikelijk EZB-filter (circa 2700 Hz). Dat leidt tot overeenkomstig minder ruis.
+12.2.9 Frequentie- en fasemodulatie (FM en PM)
+De golfvorm, frequentiezwaai
+FM en PM moduleren niet de hoogte, maar de breedte van elke draaggolfperiode. Dat is
+de periodetijd T. Als je T van de draaggolf laat afhangen van de momentele waarde van
+het modulerende signaal, varieer je de frequentie f. Dit is frequentiemodulatie (FM).
+Bij fasemodulatie (PM) hangt de draaggolffrequentie niet af van de hoogte van de
+momentele waarde, maar van de snelheid waarmee de momentele waarde verandert. De
+fase van de draaggolf moet de fase van de modulerende frequentie “bijsloffen”.
+Beide modulatievormen zijn afgebeeld in Figuur 12.2-12.
+Voor wie zich afvraagt waar die “P” in PM vandaan komt: de Engelse benaming is Phase
+Modulation. Omdat in het Nederlands Frequentie en Fase allebei met een F beginnen, is
+de Engelse afkorting PM ook in ons land de standaard geworden. Heel lang geleden werd
+in het Nederlands het woord fase trouwens ook als phase gespeld.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+U/amplitude
+
+2
+
+AF-signaal
+
+1
+0
+-1
+-2
+
+U/amplitude
+
+2
+
+-0,5
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+2,5
+
+3,0
+
+3,5
+
+2,5
+
+3,0
+
+3,5
+
+2,5
+
+3,0
+
+3,5
+
+Fase van de modulatie / 
+FM-gemoduleerd
+signaal
+
+1
+0
+-1
+-2
+2
+
+-0,5
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+Fase van de modulatie / 
+
+U/amplitude
+
+PM-gemoduleerd signaal
+1
+0
+-1
+-2
+-0,5
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+Fase van de modulatie / 
+
+Figuur 12.2-12. FM en PM van eenzelfde AF-signaal. FM heeft de hoogste frequentie bij de toppen en de
+laagste bij de dalen van het AF-signaal. PM heeft de hoogste frequentie bij de opgaande flanken van het AFsignaal en de laagste bij de dalende flanken.
+
+Wie Figuur 12.2-12 bekijkt, ziet dat FM en PM weinig verschillen. Dat gaat zo ver, dat het
+signaal van een PM-zender die met een constante toon wordt gemoduleerd, via metingen
+niet te onderscheiden is van een FM-zender die met diezelfde toon wordt gemoduleerd.
+Dat kan pas als de frequentie fi van de modulerende toon verandert.
+De frequentiezwaai f is het verschil tussen de draaggolffrequentie fd en de hoogste
+momentele frequentie fmax:
+∆𝑓 = 𝑓𝑚𝑎𝑥 − 𝑓𝑑
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-13
+
+( 12.2-3)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+De modulatie-index m is de verhouding van de frequentiezwaai en de frequentie fi (met de
+i van informatie) van het modulerende signaal, de bovenste grafiek in Figuur 12.2-12.
+𝑚=
+
+∆𝑓
+𝑓𝑖
+
+( 12.2-4)
+
+De zwaai verandert bij PM recht evenredig met fi. Een PM-zender werkt dan ook met een
+constante modulatie-index.
+Het verschil tussen FM en PM is in de praktijk zo klein, dat een FM-signaal prima met een
+PM-ontvanger of omgekeerd kan worden ontvangen. In de praktijk wordt tussen beide
+modulatievormen vaak geen onderscheid gemaakt.
+Bandbreedte
+De frequentieverandering in een FM- of PM-gemoduleerd signaal houdt een afwijking
+van de zuivere sinusvorm in. Dat betekent zijbanden. Het spectrum omvat de
+draaggolffrequentie met aan weerskanten frequenties op afstanden die gehele veelvouden
+zijn van de modulerende frequentie. Een draaggolf van bijvoorbeeld 1000 kHz die met 1
+kHz is gemoduleerd, levert de draaggolf zelf, frequenties van 1001 kHz, 1002 kHz, 1003
+kHz, enz. en 999 kHz, 998 kHz, 997 kHz, enz. Hoe verder van de draaggolf, des te kleiner
+wordt hun amplitude. In theorie gaat dat oneindig ver door, maar in werkelijkheid zijn de
+verste zo klein dat ze in de ruis verdwijnen. De modulatie-index m bepaalt het aantal
+zijbanden waarmee men rekening moet houden.
+Figuur 12.2-13 toont enkele spectrumgrafieken. Een AM-spectrum dient als vergelijking.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Spectrum AM, modulatie 1 kHz, M=1
+
+1,0
+
+Amplitude (Adraaggolf =1)
+
+Amplitude (Adraaggolf =1)
+
+Ongemoduleerde draaggolf
+0,8
+0,6
+0,4
+0,2
+0,0
+
+-1
+
+0
+
++1
+f-fdraaggolf (kHz)
+
+1,0
+0,8
+0,6
+0,4
+0,2
+0,0
+
+-2
+
+-1
+
+0,8
+0,6
+
+LSB
+
+USB
+
+-1
+
+0 +1 +2
+f-fdraaggolf (kHz)
+
+0,4
+0,2
+0,0
+
+-2
+
+Spectrum FM, modulatie 1 kHz, m=1
+
+Amplitude (Adraaggolf =1)
+
+Amplitude (Adraaggolf =1)
+
+Spectrum FM, modulatie 1 kHz, m=0,5
+
+1,0
+
+1,0
+0,8
+0,6
+0,4
+0,2
+0,0
+
+0 +1 +2
+f-fdraaggolf (kHz)
+
+-3
+
+-2
+
+-1
+
+0
+
++1 +2 +3
+f-fdraaggolf (kHz)
+
+Amplitude (Adraaggolf =1)
+
+Spectrum FM, modulatie 1 kHz, m=2
+1,0
+0,8
+0,6
+0,4
+0,2
+0,0
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
++1
+
++2 +3 +4
+f-fdraaggolf (kHz)
+
+Figuur 12.2-13. Spectra van een draaggolf (linksboven), een AM-signaal met 100% modulatie (rechtsboven),
+FM-modulatie met modulatie-index m=0,5 (midden links), m=1 (midden rechts) en m=2 (onder). Alle
+modulerende frequenties zijn 1 kHz. Waar FM staat, mag je ook PM lezen.
+
+De FM/PM-grafieken laten zien dat bij toenemende m het spectrum breder wordt. Een
+hogere modulatie-index en een hogere modulatiefrequentie leiden daarom beide tot een
+grotere bandbreedte. De bandbreedte van een FM- of PM-signaal is groter dan die van een
+AM-signaal, laat staan die van een EZB-signaal.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Bij FM en PM kun je niet zeggen, waar het spectrum eindigt, want het eindigt niet.
+Daarom wordt de bandbreedte ervan meestal gedefinieerd als het frequentiegebied
+waarbinnen 99% van het uitgezonden vermogen zit. Dat betekent dat 1% = -20 dB buiten
+deze “bandbreedte” ligt. Die 20 dB zit aan weerskanten van het signaal. Per kant is dat -23
+dB. Een vuistregel voor de bandbreedte B bij een m die niet veel groter is dan 1, is
+𝐵 ≈ 2(𝑓𝑖 + ∆𝑓)
+
+( 12.2-5)
+
+Dat is hetzelfde als
+𝐵 ≈ 2𝑓𝑖 (1 +
+
+∆𝑓
+) = 2𝑓𝑖 (1 + 𝑚)
+𝑓𝑖
+
+We geven eenvoorbeeld met getallen: Op amateurbanden wordt meestal een hoogste
+audiofrequentie fi gehanteerd van 3 kHz. Als de maximale frequentiezwaai, of kortweg
+zwaai, gelijk is aan die 3 kHz, is m=1, dan vinden we voor B:
+𝐵 ≈ 2𝑓𝑖 (1 + 𝑚) = 2.3. (1 + 1) kHz ≈ 12 kHz
+Voor m = 0,5 wordt dat
+𝐵 ≈ 2𝑓𝑖 (1 + 𝑚) = 2.3. (1 + 0,5) kHz ≈ 9 kHz
+Er zijn examenvragen die hierop ingaan. Verwissel het antwoord niet met dat voor AM en
+DZB (beide 6 kHz) of EZB (SSB): bij een fi tussen 300 Hz en 3 kHz is 𝐵 = 2,7 kHz !
+Een FM-ontvanger moet die grote FM- of PM-bandbreedte kunnen verwerken. Maken
+we de bandbreedte te groot voor de ontvanger, dan ontstaat vervorming bij ontvangst.
+Bij FM en PM is de amplitude van het totale gemoduleerde signaal constant. Kijk maar
+naar Figuur 12.2-12. Bij AM en daarvan afgeleide modulatievormen is dat anders. Bij een
+EZB-signaal bijvoorbeeld, varieert de amplitude van het gemoduleerde signaal met die van
+het modulerende signaal, bij FM en PM niet. Het gevolg is dat FM of PM nauwelijks
+gevoelig zijn voor storingen die een AM-karakter hebben, zoals piekjes op het lichtnet,
+oude elektrische koffiemolens of onweer.
+Nadelen van FM/PM
+• In tegenstelling tot AM en zijn varianten levert een FM- of PM-zender altijd
+evenveel vermogen, ook al is het modulerende signaal afwezig. Een zendervoeding
+wordt met FM en PM dan ook veel warmer dan bij EZB met gelijk vermogen.
+• Door hun minstens 3x zo grote bandbreedte zijn FM en PM minder geschikt voor
+het overbruggen van grote afstanden dan EZB.
+• Hun bandbreedte maakt FM en PM minder geschikt voor de toch al drukke
+amateurbanden op de korte golf. Je vindt ze dan ook vooral op de hogere
+amateurfrequenties. Daar is de beschikbare frequentieruimte groter.
+Voordelen van FM/PM
+• De afstemming is niet kritisch. Van een afstemfout van 1 of 2 kHz merk je weinig.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-16
+
+VRZA-cursus radiozendamateur
+
+•
+•
+
+•
+
+Hoofdstuk 12 kort 20250922
+
+De constructie van de zender is eenvoudiger dan bij EZB. HF-trappen kunnen
+worden ingesteld in klasse C, want de amplitude is met of zonder modulatie gelijk.
+FM en PM hebben minder last van storingen, want die houden merendeels
+beïnvloeding van de amplitude in. Je kunt storing verder onderdrukken met een
+schakeling die de amplitude begrenst door alles boven een bepaalde amplitude, “op
+maat te knippen”. Zo’n schakeling heet niet voor niets een clipperschakeling.
+Bij gebruik van FM/PM is de kans dat je stem (vervormd) uit de luidspreker bij de
+buren komt, minimaal. Bij EZB is dat wel anders. Dat bespreken we in hoofdstuk
+16, want een zendamateur moet in staat zijn, dit soort storingen te verhelpen.
+
+12.3 Digitale modulatie
+12.3.1 Inleiding
+Alle digitale modulatievormen die voor het zendexamen worden gevraagd, gaan over
+transmissie (overbrenging) van tekst. We beginnen daarom met het begrip
+transmissiesnelheid. Daarna volgen vier modulatievormen die voor het examen worden
+gevraagd. Dat zijn FSK, 2-PSK, 4-PSK en QAM. Daarbij behandelen we ook de
+modulatievorm ASK, omdat QAM zonder ASK moeilijk te begrijpen is. De betekenissen
+van die afkortingen worden uitgelegd waar ze in dit hoofdstuk worden behandeld.
+12.3.2 Transmissiesnelheid: de twee eenheden bps en Bd
+Transmissiesnelheid is de snelheid waarmee informatie effectief wordt overgebracht.
+Daarvoor kennen we twee eenheden, bits per seconde en baud:
+•
+•
+
+Bits per seconde, afgekort bps, is het aantal overgebrachte bits per seconde. We
+kennen ook kbps (kilobits per seconde) en Mbps (megabits per seconde).
+Baud, afgekort Bd is tekens of symbolen per seconde. Hij kan ook in kBd of MBd gaan.
+Bd is met hoofdletter, want genoemd naar de Fransman Emile Baudot.
+
+Bestaat een teken of symbool uit 1 bit, dan is de snelheid in Bd gelijk aan het aantal bps.
+Een (lees)teken omvat meestal meer dan 1 bit, want met enkel 0 en 1 komen we niet ver.
+Bestaat een teken uit 2 bits, dan is het aantal Bd ½ maal het aantal bps, bij 4 bits ¼, enz.
+12.3.3 Amplitude Shift Keying (ASK)
+ASK is een soort digitale AM. Bij de wisseling tussen 0 en 1 blijven fase en frequentie
+dezelfde; de amplitude verandert. Voor de binaire 0 is hij kleiner dan voor de 1 (Figuur
+12.3-1, midden). De meest extreme vorm heet “on/off keying”. Daarbij is de amplitude
+afwezig bij een binaire 0 en aanwezig bij een 1, zoals bij CW (Figuur 12.3-1, onder). De
+symboolsnelheid is bij ASK gelijk aan de bitsnelheid.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-17
+
+VRZA-cursus radiozendamateur
+
+2.0
+
+1
+
+Hoofdstuk 12 kort 20250922
+
+1
+
+1
+
+1
+
+1.0
+
+1
+
+0.5
+
+1.5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.0
+
+1.0
+
+-0.5
+
+0.5
+
+-1.0
+-1.5
+
+0.0
+
+2.0
+-0.5
+
+1
+
+1
+
+1.5
+-1.0
+1.0
+
+1
+
+0
+0
+
+4
+
+1
+
+0
+8
+
+12
+
+0
+16
+
+20
+
+-2.0
+1.0
+
+1
+24
+
+-2.5
+0.5
+
+0
+28
+
+0
+32
+
+36
+
+40
+
+-3.0
+0.0
+
+-0.5
+
+0.5
+
+-1.0
+-1.5
+
+0.0
+
+-2.0
+-0.5
+
+-2.5
+
+-1.0
+
+-3.0
+0
+4
+8
+12
+16
+20
+24
+28
+32
+36
+40
+Figuur 12.3-1. Digitaal signaal boven (rood). Midden: “gewone” ASK (blauw). Onder On/Off keying
+modulatie (groen).
+
+12.3.4 Frequency Shift Keying (FSK)
+De Nederlandse naam die vrijwel niemand gebruikt, is frequentieverschuivingsmodulatie.
+FSK bestaat uit twee frequenties met een even grote amplitude. De hogere frequentie staat
+doorgaans voor de 1, de lagere voor de 0. In diagram kan dat eruitzien als in Figuur 12.3-2.
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0.0
+
+1.0
+
+Zeile 483
+
+Zeile 443
+
+Zeile 403
+
+Zeile 363
+
+Zeile 323
+
+Zeile 283
+
+Zeile 243
+
+Zeile 203
+
+Zeile 163
+
+Zeile 123
+
+Zeile 83
+
+Zeile 43
+
+Zeile 3
+
+-1.0
+
+Figuur 12.3-2. FSK-modulatie. Boven: digitaal signaal (rood). Onder: gemoduleerd signaal (blauw). Voor de
+duidelijkheid zijn frequentieverschillen overdreven voorgesteld.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+De twee frequenties liggen bij amateurverkeer meestal 170 Hz uit elkaar. Dat verschil heet
+shift. In theorie is elke shift toepasbaar. Hogere shifts vragen meer bandbreedte. Gevolg:
+meer ruimtebeslag op amateurbanden en meer ruis bij ontvangst. In Figuur 12.3-2 is voor
+de duidelijkheid van de figuur het frequentieverschil sterk overdreven. Bij “normale” FSK
+zijn baud- en bitsnelheid gelijk. Symbolen (tekens) worden seriëel, dat is bit voor bit,
+overgebracht, net als bij ASK.
+Als de bitsnelheid gelijk is aan de symboolsnelheid (baud rate) fS en de bandbreedte B van
+de modulatie gelijk is aan f = de halve shift (zoals ook bij FM en PM), geldt ongeveer
+𝐵 ≈ 2(1,6𝑓𝑆 + ∆𝑓)
+
+( 12.3-1)
+
+Bij ∆𝑓 = 170 Hz en een bitsnelheid van 50 bps wordt dat 170+160 Hz = 330 Hz. Het is in
+principe ook mogelijk, bij FSK met drie frequenties te werken. Dan kun je per
+frequentieverandering symbolen van twee bits tegelijk overbrengen en is het aantal Bd
+gelijk aan de helft van het aantal bps. Dat gebeurt in de praktijk weinig. Onder amateurs
+wordt bij FSK meestal Morse-code op het signaal gemoduleerd.
+12.3.5 Phase Shift Keying (PSK)
+Zoals FSK werkt met wisseling van frequentie, werkt PSK met wisseling van fase. De
+wisseling is een fasesprong. De sprong kan onder meer 180, 90 of 45 graden zijn. In 360º
+past 2x 180º. Dat betekent dat dan één fasesprong dan één bit is: een sprong van 1 naar 0
+of van 0 naar 1. Is de fasesprong 90º, dan kan een fasesprong een twee-bits code omvatten
+(00, 01, 10 en 11), dus een getal 0-3. Bij 45º worden dat drie bits met getallen van 0-7, enz.
+Binary phase shift keying (BPSK of 2-PSK)
+De eenvoudigste vorm van PSK is BPSK (soms 2-PSKgenoemd). De fasesprong is 180º
+(Figuur 12.3-3).
+2.0
+1.5
+
+1
+
+1
+
+1
+
+1
+
+1.0
+
+1
+
+0.5
+
+0
+
+0
+
+1.0
+0.5
+0.0
+
+0
+
+0
+
+0
+
+0.0
+-0.5
+-1.0
+-1.5
+-2.0
+
+-0.5
+-1.0
+
+-2.5
+
+-3.0
+0
+4
+8
+12
+16
+20
+24
+28
+32
+36
+40
+Figuur 12.3-3. Voorbeeld van BPSK. Een 1 begint op 0 ºen een 0 op 180 º (). Het aantal sinusperioden per
+bit is groter dan in de tekening, maar voor de duidelijkheid van de figuur is dat aantal klein gehouden.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+De fasesprong zit bij 2-PSK bij de nullijn. Dat voorkomt plotselinge sprongen in de
+spanning en de daarmee samenhangende extra bandbreedte. Een sinusgolf voor een 1
+begint bij 0º, één voor een 0 bij 180º. In vectorvorm ziet dat eruit als in Figuur 12.3-4.
+
+0
+180 ()
+
+0 ()
+0→1
+
+Figuur 12.3-4. BPSK of 2-PSK in vectorvorm met fasesprongen 1→0 (rode stippellijn) en 0→1 (groene
+stippellijn).
+
+Quadrature Phase Shift Keying (QPSK of 4 -PSK)
+Bij 4-PSK is de fasesprong 90º. Zo kunnen vier binaire waarden worden aangegeven: 00,
+01, 10 en 11, decimaal 0, 1, 2 en 3. Figuur 12.3-5 toont links het fasediagram De 00 ligt op
+45º en vervolgens komen 01, 11 en 10, steeds 90º verder. Rechts in de figuur zijn de
+vectorpijlpunten vervangen door rondjes. Dat noemt men een constellatiediagram.
+
+00 (45)
+
+00
+
+11
+
+10
+
+se
+fa
+4
+
+fa
+se
+3
+
+2
+se
+fa
+
+01
+
+fa
+se
+1
+
+01 (135)
+
+11 (225)
+
+10 (315)
+Vectordiagram
+
+Constellatiediagram
+
+Figuur 12.3-5. 4-PSK (QPSK) in vectorvorm (links) en als constellatiediagram (rechts).
+
+1.0
+
+00
+
+01
+
+11
+
+10
+
+00
+
+0.5
+0.0
+-0.5
+-1.0
+0
+80
+160
+240
+320
+Figuur 12.3-6. De bitcombinaties 00, 01, 10, en 11 in QPSK. Let op de fasesprongen.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-20
+
+400
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Figuur 12.3-6 toont een grafiek met de vier bitcombinaties en fasesprongen daartussen. De
+figuur laat zien dat overgangen tussen de bitcombinaties steile spanningssprongen kunnen
+zijn. Die dragen bij aan de bandbreedte van een 4-PSK signaal.
+De bitsnelheid van QPSK is twee keer zo groot als die van BPSK bij dezelfde
+sinusfrequentie, want bij fasewisselingen worden twee bits in plaats van één overgebracht.
+De symboolsnelheid is bij 4-PSK daarom de helft van de bitsnelheid.
+8-PSK
+Met 8 fasesprongen in plaats van 4 kun je drie bits tegelijk overbrengen. Dat heet 8-PSK.
+Daarmee codeer je drie bits per fasesprong. De fasesprong van 45 graden is wat moeilijker
+te detecteren dan de 90 graden bij 4-PSK.
+
+13
+
+00
+0
+45
+
+
+1
+01
+
+5
+
+0
+5
+1
+10
+100
+
+11
+0
+
+22
+
+001
+
+31
+
+270
+
+180
+5
+
+111
+
+90
+
+010
+
+De symboolsnelheid bij 8-PSK is 3x zo klein als de bitsnelheid, want 1 symbool bevat drie
+bits. Vector- en constellatiediagram staan in Figuur 12.3-7.
+
+Figuur 12.3-7. Vectordiagram (links) en constellatiediagram (rechts) van 8PSK.
+
+12.3.6 Quadrature Amplitude Modulation (QAM)
+QAM is ASK en PSK in één modulatie. Door amplitude mee te moduleren, is een snellere
+gegevensoverdracht mogelijk. Als we uitgaan van QPSK (4-PSK) en twee amplitudes, dan
+kan zo’n systeem 3 bits tegelijk aan. Dat heet 8-QAM. De symboolsnelheid is dan 1/3 van
+de bitsnelheid. Het constellatiediagram staat in Figuur 12.3-8
+
+Figuur 12.3-8. Constellatiediagrammen van 8-QAM in 2 uitvoeringen. Bij 1 is de fase bij kleine en grote
+amplitude gelijk, bij plaatje 2 verschillend (45om precies te zijn).
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Er is ook 16-QAM, 32-QAM, enz. 16-QAM heeft 4 bits per symbool, 32-QAM 5, enz.
+12.3.7 Overzicht van tot nu toe behandelde modulatevormen
+Tabel 12.3-1 geeft een overzicht van tot hiertoe behandelde modulatievormen.
+Tabel 12.3-1. Overzicht van analoge en digitale modulatiesystemen die binnen de exameneisen vallen.
+
+Analoog
+CW, Continuous
+Wave
+AM, amplitudemod.
+FM, frequentiemod.
+PM, fasemodulatie
+
+Kenmerk
+Draaggolf aan/uit
+
+Digitaal
+Opt/glasvezel
+
+Kenmerk
+LED/Laser aan/uit
+
+Freq. constant,
+amplitude variabel
+Freq. variabel,
+amplitude constant
+Freq. en amplitude
+constant, fase var.
+
+ASK, Amplitude
+Shift Keying
+FSK, Frequency
+Shift Keying
+PSK, Phase Shift
+Keying
+QAM, Quadrature
+Amplitude Mod.
+
+Freq. const., amplit.
+variabel of aan/uit
+Amplitude constant,
+frequentie variabel
+Ampl. & freqentie
+constant, fase var.
+Combinatie ASK en
+PSK
+
+12.3.8 Enkele andere vormen van digitale modulatie in het amateurverkeer
+In deze sub-paragraaf gaat het om digitale modulatiesoorten die zelf geen onderdeel
+uitmaken van de exameneisen. Echter: ofwel de namen komen soms voor in (onjuiste)
+antwoorden bij multiple-choice examenvragen, ofwel eraan verbonden termen zijn wel
+examenstof. Dat laatste klinkt niet logisch, maar uw schrijver heeft dat niet bedacht.
+PSK31
+PSK31 is een veelgebruikte vorm van PSK. BPSK31 is 2-BPSK. QPSK31 is 4-PSK. De
+bitsnelheid is 31,5 bps, vandaar de “31” in de naam. Het bijzondere eraan is dat de code
+voor PSK31, Varicode, voor de meest gebruikte letters symbolen van 2 opeenvolgende bits
+gebruikt, voor iets minder vaak gebruikte 3 bits, enz. Dat versnelt de data-overdracht.
+PSK31 heeft een bandbreedte van niet meer dan ongeveer 65 Hz.
+Packet
+Bij Packet Radio worden meerdere tekens in een pakketje van maximaal 512
+informatiebits verzonden. Daarom heet het zo. Packet Radio gebruikt de complete ASCIItekenset. ASCII is een 8-bits coderingssysteem. Het is de afkorting van American Standard
+
+Code for Information Interchange.
+Van (examen)belang is de kwaliteitscontrole, bekend onder de afkorting CRC. CRC
+betekent Cyclic Redundancy Check. Het is een manier om te controleren of de ontvangen
+bits gelijk zijn aan wat verzonden is. Uit het pakketje data wordt bij de afzender via een
+wiskundig omschreven manier een getal afgeleid. Dat getal wordt meegestuurd. Bij de
+ontvanger wordt het getal uit de ontvangen tekst opnieuw berekend. Als dat gelijk is aan
+het meegestuurde getal, wordt aangenomen dat het pakket bits onvervormd is
+aangekomen.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Het ontvangende station stuurt een bevestigingscode “ACK” van acknowledged
+(bevestigd) als de CRC een positief resultaat geeft. Dan kan het volgende pakketje data
+worden verstuurd. Is het resultaat van de CRC negatief, dan gaat een “NAK” van not
+acknowledged (niet bevestigd) naar het zendende station. Het ontvangende station kan
+ook een bepaalde tijd stil blijven, waarna alles nog een keer verstuurd wordt.
+Zo krijg je een foutloze overdracht. Bij een slechte verbinding (storing of zwak signaal)
+kan het lang duren, voordat een bericht is overgebracht.
+Bij packet radio is de overdrachtssnelheid van tekst effectief 1200 bps. Door gebruik van
+enkele slimme technieken kan de bandbreedte worden beperkt tot ongeveer 500 Hz.
+AMTOR
+AMTOR betekent Amateur Teleprinting Over Radio. De gegevensoverdracht gaat in een
+vorm van FSK met 100 Bd (=100 bps). Het is een mode die is gebaseerd op de ouderwetse
+telex. Die had een 5-bits code (CCITT-code). AMTOR werkt met 7-bits code en
+foutcorrectie via ARQ (Automatic Repeat Request, automatisch verzoek tot herhaling als
+iets niet klopt) of FEC (Forward Error Correction).
+Een symbool bestaat uit 7 bits. Een blok symbolen bevat 3 stuks. Elk symbool kent 3x
+“space” (een ”0”) en 4x “mark” (een “1”). Met ARQ is daarmee bij de ontvanger te
+constateren of een blok tekens waarschijnlijk goed of fout is overgekomen. Is het goed,
+dan wordt code ACK teruggestuurd en kan het volgende blok worden verstuurd. Anders
+volgt een NAK en wordt het blok nog eens verstuurd.
+FEC werkt anders. Er wordt informatie met het blok meegestuurd, waarmee de
+ontvangende partij niet alleen kan vaststellen of er iets is fout gegaan, maar in veel
+gevallen ook het oorspronkelijke blok kan reconstrueren.
+12.3.9 Pariteit: nog een manier van foutcontrole
+De ASCII tekenset heeft 8 bits. Daarmee zijn 28=256 combinaties te maken. Dat betekent,
+256 tekens (symbolen). Vaak zijn die niet allemaal nodig en kan worden volstaan met 7
+bits, Het achtste bit kan dan voor controle op de kwaliteit van de overdracht dienen. Dat
+heet pariteitscontrole. Pariteit betekent dat er in het symbool altijd een even of oneven
+aantal bits “1” moet zijn. Dat heet bij een even aantal enen even pariteit (Engels: even
+parity), bij een oneven aantal oneven pariteit (Engels: odd parity).
+Bevat het over te brengen symbool een oneven aantal keren “1” en de pariteit is even, dan
+wordt het achtste bit voor verzending “1” om het aantal bits met “1” even te maken. Heeft
+het symbool al een even aantal enen, dan wordt het pariteitsbit “0”.
+Oneven pariteit werkt net zo, maar het aantal enen wordt dan bij alle symbolen met
+behulp van het achtste bit oneven gemaakt.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+12.4 Zenders en modulatoren
+12.4.1 Een zender zonder modulator
+Een zender zonder modulator kan alleen een draaggolf uitzenden. De simpelste uitvoering
+is een oscillator met een antenne eraan (Figuur 12.4-1).
+
+Oscillator
+
+Figuur 12.4-1. Blokschema van een zender die alleen bestaat uit een oscillator.
+
+Door onderbreken van de draaggolf kan informatie worden overgebracht. Dat is de
+telegrafie- of CW-zender.
+Een zender als in Figuur 12.4-1 kan alleen goed werken als de oscillator ongevoelig is voor
+belastingsvariaties. Een variatie in de belasting heeft gevolgen voor de frequentie. Een
+vogel op de antenne kan voldoende zijn om de frequentie merkbaar te laten veranderen.
+Voor de frequentiestabiliteit is het nodig dat de oscillatortemperatuur zo constant
+mogelijk is. Dat betekent dat een oscillator heel weinig vermogen mag leveren. Willen we
+meer vermogen en een frequentie die onafhankelijk is van de belasting, dan moet er
+tussen oscillator en antenne een versterker zijn. Die versterker tussen oscillator en
+antenne heet toepasselijk eindtrap. Zie Figuur 12.4-2.
+
+Oscillator
+
+Eindtrap
+
+Figuur 12.4-2. Blokschema van een zender die bestaat uit een oscillator en een eindtrap.
+
+Ook in Figuur 12.4-2 wordt de oscillatortrap belast. De eindtrap neemt vermogen uit de
+oscillator op. Een driver of stuurtrap die de eindtrap aanstuurt en de belasting van de
+oscillator verder verkleint, neemt dat probleem weg (Figuur 12.4-3).
+
+Oscillator
+
+Driver
+
+Eindtrap
+
+Figuur 12.4-3. Blokschema van een zender die bestaat uit een oscillator, een eindtrap en een drivertrap
+ertussen.
+
+Vrijlopende oscillatoren, dat zijn oscillatoren gebaseerd op een LC-kring, zijn over het
+algemeen stabieler naarmate hun frequentie lager is. Als toch een hogere frequentie
+gewenst is, is frequentievermenigvuldiging een optie. Een sinusvormige wisselspanning
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+wordt flink vervormd. Dat geeft harmonischen. Daaruit wordt met een afgestemde kring
+de gewenste harmonische, meestal de tweede of derde, geselecteerd, ontdaan van
+ongewenste bestanddelen en verder versterkt (Figuur 12.4-4).
+
+Verdubbeltrap
+
+Stuurtrap
+
+Eindtrap
+
+Oscillator
+
+Scheidingstrap
+
+Verdubbeltrap
+
+Figuur 12.4-4. Blokschema van een zender als in Figuur 12.4-3, aangevuld met twee verdubbeltrappen.
+
+12.4.2 Mengschakelingen en het maken van AM, DZB en EZB
+In subparagraaf 12.2.2 zagen we dat je voor amplitudemodulatie frequenties met elkaar
+moet vermenigvuldigen. Mengschakelingen doen dat. Dan krijg je naast de
+oorspronkelijke twee frequenties een som- en een verschilfrequentie. Mengschakelingen
+heten ook mixers, een Engelse term die ook bij ons is ingeburgerd. Het maken van AM is
+maar één van de toepassingen van mixers.
+Vaak wordt een mixer niet voluit getekend, maar vind je in een schema het symbool in
+Figuur 12.4-5.
+
+Figuur 12.4-5. Schemasymbool van een mengschakeling (mixer).
+
+Een mixer heeft drie aansluitingen: twee inputs voor de twee frequenties en één output.
+Een eenvoudige mengschakeling
+Figuur 12.4-6 laat een mengschakeling zien met een N-kanaals dual gate MOSFET. Met
+twee J-FET’s, twee bipolaire transistoren of een buis met meerdere roosters kan het ook.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
++Ub
+
+f1
+f1
+f2
+f1-f2
+f1+f2
+en hun
+harmonischen
+
+f2
+
+Figuur 12.4-6. Mengschakeling met dual-gate MOSFET.
+
+De tweede gate wordt hier gebruikt als tweede stuurelektrode.
+De frequentie f1 komt binnen op de bovenste gate, f2 op de onderste. De dual-gate FET
+kun je zien als twee in serie geschakelde FET’s met elk één gate. De stroom door de
+onderste FET varieert in het ritme van f2. Die stroom moet ook door de bovenste FET,
+maar die gehoorzaamt aan f1 en ‘ziet’ de onderste FET als een soort sourceweerstand,
+waarvan de grootte wordt bepaald door de momentele waarde van f2. Een grote
+sourceweerstand geeft een kleine versterking, een kleine sourceweerstand een grote
+versterking (hoofdstuk 8).
+Zo wordt de versterking van f1 bepaald door de momentele waarde van f2, en omgekeerd
+de versterking van f2 door de momentele waarde van f1. Op de drain verschijnen de
+oorspronkelijke frequenties f1 en f2, de somfrequentie f1+f2 en de verschilfrequentie f1 -f2
+(of f2-f1 als f2 groter is dan f1).
+Er zijn veel meer mengschakelingen met FET’s, buizen of bipolaire transistoren. Het is
+niet de bedoeling, die voor het examen allemaal uit het hoofd te leren. Maar snappen wat
+ze doen, hoort er wel bij. Dat laatste is voor deze eenvoudige mixer terug te brengen tot:
+1. Er gaan twee frequenties in
+2. Diezelfde frequenties komen er ook weer uit, maar samen met
+a. De som- en verschilfrequentie en
+b. Meestal een hoeveelheid harmonischen en mengproducten van alle vier de
+genoemde frequenties.
+De mixer van Figuur 12.4-6 is niet in staat, AM met 100% modulatiediepte te leveren.
+Figuur 12.4-7 laat er één zien die dat wel kan.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Een “ouderwetse” AM-modulator
+Figuur 12.4-7 laat een modulator zien die 100% modulatiediepte kan leveren èn een flink
+vermogen. De drie verschillende functies voor audiofrequent (AF), draaggolf en het AMdeel hebben verschillende kleuren.
+
++Ub
+A
+
+TM
+
+AF in
+
+Betekenis kleuren
+
+C1
+
+algemeen
+modulatie (AF)
+draaggolffrequentie fd
+AM-gemoduleerd signaal
+AM uit
+
+Lo
+Cin
+Q
+fd in
+
+C2
+Co
+
+Figuur 12.4-7. Collectormodulator. De kleuren geven aan, welk deel vooral met modulatie, draaggolf het
+AM-gemoduleerde signaal van doen heeft, dan wel een algemene functie heeft.
+
+De draaggolf fd komt binnen op de basis van transistor Q die in klasse C staat. De
+modulatie (AF) komt binnen via de versterker A en de modulatietransformator T M.
+Q is normaal gesproken een transistor voor een flink vermogen. De collectorstroom komt
+binnen via de secundaire van TM. Daardoor varieert de collectorspanning in het ritme van
+de modulatie (AF). Is de momentele waarde van de AF-spanning laag, dan zal de
+amplitude van de draaggolf op de collector ook laag zijn. Is de momentele waarde van de
+AF-spanning hoog, dan is de amplitude van de draaggolf op de collector ook hoog.
+De afgestemde kring, bestaande uit spoel Lo en variabele condensator Co, verwijdert
+harmonischen en AF. De amplitudegemoduleerde draaggolf blijft over. Co dient om de
+kring precies op de goede frequentie in te stellen. Om geen handcontact met de
+collectorspanning te krijgen, staat C2 in serie met Co. De spoel die inductief met Lo is
+gekoppeld, zorgt voor de uitkoppeling naar de schakeling die de aanpassing aan de
+antenne verzorgt (zulke schakelingen komen in een volgend hoofdstuk).
+De condensator C1 ontkoppelt de verbinding tussen de afgestemde kring en
+modulatietransformator TM. Zo wordt voorkomen dat de AM in de schakeling op plekken
+buiten de modulator terechtkomt, waar hij ongewenst is.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+De smoorspoel tussen de basis van Q en aarde voorziet de basis van de juiste
+gelijkspanning en voorkomt dat het draaggolfsignaal de gelijkstroominstelling van de
+transistor verandert. Door voldoende AF-vermogen toe te voeren, is 100%
+modulatiediepte (M=1) bereikbaar.
+Deze schakeling kan ook met een buis of vermogensFET worden uitgevoerd.
+Schakelingen voor DZB en EZB: de enkel gebalanceerde mengschakeling
+Bij zowel DZB (Eng.: DSB) als EZB (Eng.: SSB) is het zaak om van de AM-draaggolf af te
+komen. Dat kan met een enkel gebalanceerde mengschakeling (Figuur 12.4-8).
+f1
+f1-f2
+f1+f2
+T2
+
++
+
++
+
+T1
+f1
+Q1
+
+Q2
+
+Q3
+f2
+
+Figuur 12.4-8. Enkel gebalanceerde mengschakeling (single balanced mixer).
+
+De schakeling in de figuur heeft drie transistoren. Twee, Q1 en Q2, staan parallel. Samen
+staan ze in serie met Q3. Q3 werkt als spanninggestuurde stroombron. De sturende
+spanning is de gelijkspanning op de basis plus de wisselspanning met frequentie f2.
+De collectorstroom van Q3 wordt verdeeld over Q1 en Q2. Beide hebben ze dezelfde
+basisspanning. De stroomverdeling is gelijk als Q1 en Q2 exact aan elkaar gelijk zijn. Dat
+kan het best als beide transistoren in één IC zitten.
+Frequentie f1 komt binnen via transformator T1. Op de basis van Q1 is dit signaal in
+tegenfase met dat op de basis van Q2. De mengproducten ontstaan in beide transistoren op
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+een manier, vergelijkbaar met wat in de dual-gate MOSFET-schakeling van Figuur 12.4-6
+gebeurt. Voorbij de collectoren loopt alles via de primaire van transformator T2. Daar
+vallen beide wisselstromen met frequentie f2 tegen elkaar weg. Oorzaak: in beide helften
+van de primaire wikkeling zijn hun magnetische velden gelijk en tegengesteld. Vooral
+daarom moeten Q1 en Q2 zo goed mogelijk aan elkaar gelijk zijn.
+Frequentie f1 en de mengproducten f1 + f2 en f1 - f2 op de collectoren van Q1 en Q2 zijn
+onderling in tegenfase. In de primaire van T2 belanden ze op de tegenoverliggende
+uiteinden. Hun magnetische velden heffen elkaar daarom niet op. Ze staan alle drie over de
+uitkoppelwikkeling van trafo T2.
+Als bij aansluiting van de schakeling wordt gezorgd dat f2 de AM-draaggolffrequentie is,
+zijn we die kwijt en blijft een DZB-signaal plus modulerende frequentie f1 over. Die laatste
+is door het grote frequentieverschil met de draaggolf simpel weg te filteren.
+Met een kristalfilter met een bandbreedte van 2,7 kHz is van het op deze manier
+verkregen DZB-signaal op eenvoudige wijze EZB te maken.
+Samengevat: maak AM-modulatie met een enkel gebalanceerde mixer en je krijgt DZB.
+Filter het DZB-signaal, zodat één zijband overblijft en je krijgt EZB.
+De dubbel gebalanceerde mengschakeling (DBM).
+Een dubbel gebalanceerde mengtrap (Engels: Double Balanced Mixer, DBM) onderdrukt
+beide ingangssignalen. Op de uitgang blijven som- en verschilfrequentie over. Figuur
+12.4-9 toont een schema met dioden.
+
+T1
+
+T2
+
+C
+
+E
+
+D1
+D3
+
+f1 + f2
+f1 - f2
+
+f1
+D4
+D2
+
+D
+
+A
+
+F
+
+f2
+B
+
+Figuur 12.4-9. Een dubbel gebalanceerde mengschakeling met dioden, ook wel ringmodulator of
+balansmodulator genoemd.
+
+De vier dioden zijn meestal geïntegreerd op één Si-chip. De transformatoren T1 en T2 zijn
+mee ingebouwd in de behuizing, niet in het IC, want daarin passen ze niet. Nu de
+werking.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Frequentie f2 krijgt een zo grote amplitude dat de dioden als schakelaars gaan fungeren.
+Dat laatste gebeurt als f2 in doorlaatrichting passeert en zijn amplitude groot genoeg is om
+de dioden in geleiding te houden als f1 met kleinere amplitude zich in sperrichting
+aandient. Snel schakelen wordt bevorderd door f2 als blokgolf toe te voeren.
+Als f2 op punt A positief is (oranje bovenkanten in de blokgolf in Figuur 12.4-9), dan zijn
+dioden D1 en D2 in geleiding. De stroom volgt de oranje pijlen. D3 en D4 sperren. In de
+volgende periodehelft is f2 op punt B positief (blauwe onderkanten blokgolf) en negatief
+op A. Dan geleiden D3 en D4 en sperren D1 en D2. De stroom volgt de blauwe pijlen. Zowel
+de velden van de “blauwe” als de “oranje” helften heffen elkaar in trafo T2 op en weg is f2.
+Frequentie f1 komt binnen via de punten C en D en trafo T1. Geleiden D1 en D2, dan komt
+er een stukje f1 ter breedte van een halve periode van f2 in fase op de uitgang. Slaat de
+geleiding van D1 en D2 om in geleiding door D3 en D4, dan komt het volgende stukje f1 ter
+breedte van een halve periode op de uitgang, maar in tegenfase. Figuur 12.4-10 laat het
+verloop van in- en uitgangsspanning zien.
+
+Figuur 12.4-10. Boven: invoer van f1 (blauw) en f2 (rood). Onder: uitvoer. De oranje rondjes geven de delen
+aan waar in Figuur 12.4-9 dioden D1 en D2 geleiden; de blauwe driehoekjes waar D3 en D4 geleiden.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Zo ontstaat een golfvorm die, afgezien van de erin verwerkte blokgolf van f2, nogal lijkt op
+het DZB-signaal dat we eerder in Figuur 12.2-8 zagen. Een laagdoorlaatfilter of een
+bandfilter (LC-kring) maakt van de blokgolf een sinus en we hebben een DZB-signaal.
+Figuur 12.4-11 laat zo’n schakeling in blokschema zien.
+
+f1+f2
+f1-f2
+
+f1
+
+f2
+Figuur 12.4-11. DBM met bandfilter levert som- en verschilfrequentie. Het bandfilter kan eventueel ook een
+laagdoorlaatfilter zijn. Het is bedoeld om van de harmonischen van f2 af te komen.
+
+Een DBM is ook te maken met buizen, bipolaire transistoren of FET’s.
+Ook bij een DBM is met een scherp filter, meestal opgebouwd uit enkele kristallen, DZB
+om te zetten in EZB. Door de frequentie f2 in de schakeling van Figuur 12.4-9 aan te
+passen, passeert óf alleen de bovenzijband óf alleen de onderzijband het filter. Deze
+manier van EZB (SSB) maken heet de filtermethode. Het blokschema van een eenvoudige
+SSB-zender kan er dan uitzien als in Figuur 12.4-12.
+DBM
+Zijbandfilter
+
+AF
+
+Versterker
+
+Stuurtrap
+
+Eindtrap
+
+HFoscillator
+Figuur 12.4-12. Blokschema van een eenvoudige SSB-zender.
+
+Figuur 12.4-13 geeft een blokschema van een USB-LSB-zender voor de amateurband 144146 MHz. Daarin zitten twee mixers. De modulatie komt uit een 9 MHz-systeem dat
+vervolgens via een tweede mengschakeling naar 144-146 MHz wordt gemengd.
+9000-9003 kHz
+USB-filter
+AFversterker
+Micr.
+
+144-146 MHz
+Stuurtrap
+
+Oscillator
+9 MHz
+
+LSB-filter
+
+Eindtrap
+
+Osc. 135variabel tussen 135 en 137 MHz
+8997-9000 kHz 137 MHz
+
+Figuur 12.4-13. Blokschema van een zender voor de amateurband 144-146 MHz.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Er is nog een andere manier, de fasemethode. Die valt buiten de exameneisen.
+Tot slot een opmerking. Als je de schakeling in Figuur 12.4-9 iets anders tekent, is het een
+ringschakeling (Figuur 12.4-14). Op het zendexamen kan een herkenningsvraag
+voorkomen of een ringschakeling met vier dioden een ringmodulator (DBM) is, een
+bruggelijkrichter of iets anders. Hoe zie je snel het verschil? Zie Figuur 12.4-14.
+
+Bruggelijkrichter
+
+DBM
+
+Figuur 12.4-14. Bruggelijkrichter (links) en ringmodulator (DBM) met dioden (rechts).
+
+De DBM herken je zo: kies een punt tussen twee dioden. Verplaats in gedachten het punt
+in de geleidingsrichting van de naastliggende diode. Bij een balansmodulator kom je na
+vier dioden weer op je uitgangspunt uit. Bij een bruggelijkrichter stopt de route na de
+eerste of tweede diode, want dan volgt een diode die in tegengestelde richting geleidt.
+Intermodulatie en ALC
+Intermodulatie ontstaat in elke versterkertrap die meer dan één frequentie tegelijk
+versterkt, doordat geen enkele versterker helemaal lineair is. Die frequenties maken dan
+onderling modulatieproducten. Dat verschijnsel heet intermodulatie. De kunst is, de
+intermodulatieproducten zo klein mogelijk te houden.
+Een versterker kan worden overstuurd. Dat betekent dat hij een sterker signaal krijgt
+aangeboden dan hij kan verwerken. Dan is de vervorming groot. Maar bij meer dan één
+frequentie ontstaan ook extra veel intermodulatieproducten. Spraak bevat vele
+frequenties. Een voorbeeld van een frequentiespectrum dat ontstaat in de eindtrap van
+een DZB-zender die met een enkele sinus wordt gemoduleerd, is te zien in Figuur 12.4-15.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+Figuur 12.4-15 Intermodulatie van een DZB-signaal in de eindtrap van een zender (VRZA-cursus 1999)
+
+Met meer frequenties dan die enkele sinus wordt het allemaal nog veel erger.
+De gewenste zijbanden (eigenlijk zijfrequenties, want er is maar één modulerende
+frequentie) zijn f1 en f2. De figuur zit vol met harmonischen van verschilfrequenties van
+het type 2𝑓2 − 𝑓1 , 2𝑓1 − 𝑓2 , 3𝑓2 − 2𝑓1 , 3𝑓1 − 2𝑓2 , enz. Ze liggen dicht bij de gewenste
+frequenties, dat zijn de twee hogere pieken in het midden. Daardoor zijn ze praktisch niet
+weg te filteren zonder verlies van de wèl gewenste frequenties.
+De somfrequenties liggen zo ver van de gewenste frequenties af dat ze gemakkelijk zijn te
+onderdrukken met een laagdoorlaatfilter na de eindtrap.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+12.4.3 Schakelingen voor CW
+Uit het voorgaande blijkt dat een EZB-zender geen eenvoudig apparaat is. Vergeleken
+daarmee is de CW-zender een wonder van eenvoud. Als we met een seinsleutel de
+eindtrap aan en uit kunnen schakelen in het
+ritme van het signaal, zijn we in theorie
+klaar. Zoals in 12.2.8 al is opgemerkt, zijn
+Cbc
+maatregelen tegen sleutelclicks nodig.
+Bovendien kan rechtstreeks schakelen met
+HF in
+de seinsleutel alleen voor kleine vermogens.
+Als een sleutel per keer indrukken een aantal
+ampère moet verwerken, is hij snel stuk. Op
+L2
+een buizenzender staat al gauw 1 kV. Ook
+L1
+dat is zacht gezegd onwenselijk voor een met
+de hand bediend metalen ding.
+C1
+S
+Figuur 12.4-16 toont een voorbeeld waarin
+de basisspanning van een transistor wordt
+geschakeld met een seinsleutel.
+Het filter L1C1 onderdrukt de steile flanken
+-5V
+die leiden tot de sleutelklik. Dat beperkt de
+Figuur 12.4-16. CW-eindtrap met seinsleutel in
+bandbreedte. L2 onderdrukt het HF voor het
+het basiscircuit.
+sleutelcircuit. Is sleutel S open, dan ligt de
+basis aan -5 V en spert de transistor. Maar de
+basis-collectorcapaciteit Cbc laat dan toch nog wat HF door. Dat is niet de bedoeling. Dit
+effect is grotendeels te verhelpen door het sleutelcircuit ook de stuurtrap te laten
+aansturen.
+Merk op dat de transistor in klasse C staat. Bij CW is dat geen probleem, want als de
+sleutel gesloten is, is er maar één frequentie met één amplitude. Harmonischen worden
+weggefilterd in de schakeling tussen transistor en antenne die onder andere als
+laagdoorlaatfilter werkt.
+12.4.4 Schakelingen voor FM
+FM is het eenvoudigst te maken met een oscillator waarin (een deel van) de capaciteit in
+de afgestemde kring uit een varicap bestaat. Zo’n schakeling hebben we in hoofdstuk 10 al
+een keer gezien: de Clapp-oscillator met afstemdiode. Daarin werd de frequentie bepaald
+door de spanning op de afstemdiode. Het is dan een koud kunstje, die spanning te laten
+variëren met spraak die in een microfoon is omgezet in een wisselspanning. Dan ontstaat
+FM. Figuur 12.4-17 toont bij wijze van voorbeeld een Hartley-oscillator die FM
+produceert.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+R5
++
+C6
+R4
+R3
+
+C4
+
+D2
+
+R2
+
+C2
+
+C3
+
+FM
+uit
+
+Q
+
+C5
+R1
+
+AF in
+
+D1
+
+C1
+
+L
+
+Figuur 12.4-17. FM met behulp van een varicap in een Hartley-oscillator.
+
+De oscillator is opgebouwd rondom de FET Q. De modulatie loopt via varicap D1 die via
+C5 parallel staat aan condensator C1 en de spoel L. De voorspanning op D1 komt van het
+regelsysteem R4, R5, C6 en zenerdiode D2. Die laatste is liefst voor temperatuur
+gestabiliseerd. De condensator C6 helpt tegen ruis.
+Voor de hoge frequenties van bijvoorbeeld de amateurband 144-146 MHz zal de
+frequentie van deze vrij eenvoudige oscillator meestal niet stabiel genoeg zijn. Om dat
+probleem op te lossen, zijn er verschillende mogelijkheden, zoals:
+•
+
+•
+
+De FM-modulator op een lage frequentie laten werken en die via een
+mengschakeling met een tweede stabiele frequentie op een hogere frequentie
+brengen
+De modulator opnemen in een zogenoemde fasevergrendelde lus of Phase Locked
+Loop (PLL). Die wordt besproken in hoofdstuk 13.
+
+FM kan heel goed worden gebruikt voor morsetelegrafie via de in subparagraaf 12.3.4
+besproken FSK. Verbind via de sleutel het knooppunt van D1, C4, C5 en R4 met een
+zodanige spanning dat de frequentie met de gewenste grootte verspringt en klaar is Kees.
+Wordt de sleutel weer losgelaten, dan heeft de spanning op dat knooppunt weer de oude
+grootte en de frequentie dus ook.
+Een andere mogelijkheid voor FSK is gebruik van een via de seinsleutel in frequentie
+veranderbare LF-oscillator, gekoppeld aan de modulatie-ingang van een EZB-zender.
+12.4.5 Schakelingen voor PM
+Echte fasemodulatoren komen we in apparatuur van ruwweg na 1990 niet meer tegen.
+We hebben in subparagraaf 12.2.9 gezien dat het onderscheid tussen analoge PM en FM
+vaak lastig te maken is. Het maken van PM kan ook met een FM-modulator. Daartoe
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+kunnen we in het LF-deel een frequentiefilter opnemen waarvan de frequentiedoorlaat
+evenredig toeneemt met de frequentie, 6 dB per octaaf, dat is 6 dB voor elke verdubbeling
+van de LF- frequentie.
+Voor de verstaanbaarheid van een signaal is onderdrukking van de laagste frequenties
+gunstig. In de meeste zenders voor spraakcommunicatie worden de lage audiofrequenties
+daarom al verzwakt. In feite wordt zo al een benadering van PM uitgezonden.
+
+12.5 De decibel en zenders
+12.5.1 De basis
+De basis van de decibel (dB) is behandeld in Hoofdstuk 2. We geven hier een korte
+herhaling en aanvulling voor de toepassing bij zenders.
+De decibel (dB) is het tiende deel van een bel (B). 1 B is de logaritme van de verhouding
+van twee vermogens.
+1 B = log 10 = 10 dB
+( 12.5-1)
+Zoals 1 m = 10 dm. Voor twee vermogens P1 en P2 zijn B en dB gedefinieerd volgens
+B = log
+
+𝑃1
+𝑃2
+
+en
+
+dB = 10 log
+
+𝑃1
+𝑃2
+
+( 12.5-2)
+
+Een vermogen van 1 W verschilt 10log1000 = 30 dB van 1 mW. En 1 kW is weer 30 dB
+meer dan 1 W.
+Bij verzwakking krijgt de dB-waarde een minteken. 100 W in en 1 W uit is -20 dB
+versterking.
+De logaritme verandert een vermenigvuldiging in een optelling, doordat alleen
+exponenten worden geschreven. +20 dB betekent vermogen vermenigvuldigen met 100 en
+-20 dB betekent vermogen delen door 100. Zo kunnen grote versterkingen of
+verzwakkingen worden gevat in hanteerbare getallen.
+12.5.2 Rekenen met dB
+1. Elke verdubbeling van vermogen is 3 dB erbij, want log 2 ≈ 0,3.
+2. Van 1 naar 4 W is 2x verdubbbelen, dus +6 dB. Van 1 naar 8 W is +9 dB en van 1
+naar 10 W is +10 dB (10log10 = 10).
+3. +1 dB is vermenigvuldigen met ongeveer 1,25.
+4. Een halvering is -3 dB, verzwakking met factor 4 is -6 dB, enz.
+5. Geen verandering is 0 dB.
+6. Vervijfvoudigen? Maal 10 en delen door 2: +10 dB min 3 dB is +7 dB.
+Versterkingen in dB van achter elkaar geschakelde versterkers worden opgeteld.
+Voorbeeld: voorversterker 15 dB, eindversterker 6 dB, totaal 21 dB.
+Een zender is via een kabel verbonden met de antenne. Vaak bestaat zo’n kabel uit een
+geïsoleerde kabel met een geleidende mantel eromheen. Bij de antennes gaan we daar
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12 kort 20250922
+
+dieper op in. Voor nu is het voldoende, te weten dat in zo’n coaxiale kabel verliezen
+optreden. Die worden meestal gegeven in dB per 100 m kabel.
+Er zijn ook andere typen antennekabel, zoals twee evenwijdige enkelvoudige draden. Ook
+die hebben verliezen. Antennekabels komen aan de orde in Hoofdstuk 14.
+12.5.3 De dB bij spanningen en stromen in plaats van bij vermogens.
+Een spanning over een weerstand betekent opname van vermogen door de weerstand. Dat
+vermogen is evenredig met het kwadraat van de spanning:
+𝑃=
+
+𝑈2
+𝑅
+
+Dat betekent dat verdubbeling van spanning geen 3 dB, maar 6 dB betekent en
+vervijfvoudiging geen 7 dB, maar 14 dB.
+Voor stroom geldt hetzelfde, want
+𝑃 = 𝐼2𝑅
+Berekeningen met dB en spanningen komen in de praktijk vaker voor dan met dB en
+stromen.
+Een voorbeeld:
+De uitgang van een zender wordt belast met een bepaalde weerstand. De effectieve
+spanning over de weerstand is 100 V. Deze wordt verhoogd naar 141 V.
+2
+
+Dan wordt het vermogen vergroot met een factor (141⁄100) ≈ 2. Dat wordt dus 3 dB en
+geen 1,5 dB.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA 12-37
+
+
