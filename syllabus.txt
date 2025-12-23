@@ -1,0 +1,1015 @@
+Amateur radio syllabus - Full level
+
+Amateur radio syllabus - Full level V1.5
+
+1 September 2022
+
+Full Licence Syllabus v 1.5
+Section 1 — Licensing conditions and station identification
+Nature of amateur radio, types of licence and call signs
+1A2
+
+Identify the types of UK licence and the format of all call signs in use including
+regional secondary locators, and all suffixes.
+Note: The club, special event and contest call signs are not examined in this
+section.
+
+1A5
+
+Recall the requirements for station identification.
+Note: For the purposes of the examination this includes identifying when there
+is a change of:
+•
+•
+•
+•
+•
+
+frequency;
+mode;
+operator unless under supervision;
+supervisor;
+Regional Secondary Locator.
+
+Operators and supervision
+1B1
+
+Understand the requirements when delegating supervisory responsibilities and
+the permitted uses and conditions.
+
+1B2
+
+Understand the meaning and identification of a Disqualified Person and the
+meaning of ‘reasonable grounds to believe is not a Disqualified Person’.
+Understand the meaning of Radio Amateurs pass certificate.
+Understand the meaning of a recognised training course.
+Understand the duties of a supervisor during use by non-UK licensed persons.
+Understand the procedure for sending messages by non-licensed persons
+(greetings messages).
+Messages
+
+1C1
+
+Understand the requirements relating to the content of messages and who
+messages may be sent to.
+Understand the circumstances when messages, including encrypted content,
+may be sent.
+Understand the distinction between the use of codes and abbreviations and
+encryption.
+Understand that people of all ages and backgrounds participate in amateur
+radio and that messages must not cause offence, particularly in the context of
+relevant legislation including the Wireless Telegraphy (Content of
+Transmission) Regulations 1988 and the Communications Act (2003).
+
+1C2
+
+Understand the Licence requirements in respect of the receipt of messages
+from amateurs on non-UK frequencies.
+Understand the Licence requirements in respect of recorded and re-transmitted
+messages.
+
+Apparatus, inspection and closedown
+1D1
+
+Understand the requirements for clean and stable transmitters and the need to
+control transmitted bandwidth.
+Understand the need to avoid Undue Interference to other wireless telegraphy.
+Understand the need to conduct tests from time to time to ensure that the
+station is not causing Undue Interference to other radio users.
+Understand the need to have equipment for the reception of messages on all
+frequencies and modes in use for transmissions.
+Understand the role of Ofcom in cases of Undue Interference.
+Unattended and remote control operation
+
+1E2
+
+Recall that the Licensee may use any communication link for the purposes of
+Remote Control of the main station.
+Recall that if the Remote Control link is in an amateur band that the licence
+requirements for the link are the same as the requirements for the main station.
+Recall that a link in an amateur band should be above 30MHz.
+Recall that a link in an amateur band must not be encrypted.
+CEPT and international
+
+1F1
+
+Understand the requirements for operation by individual UK Licensees abroad
+under the CEPT Recommendation T/R 61-01 and T/R 61-02.
+Understand this facility does not extend to club or reciprocal licences.
+Understand the purpose and function of the CEPT Harmonised Amateur Radio
+Examination Certificate (HAREC).
+Recall that many countries will offer reciprocal licences to UK amateurs with a
+HAREC Full licence and that operation is in accordance with the host country’s
+rules.
+
+1F2
+
+Understand the requirements for operation whilst Maritime Mobile and meaning
+of Maritime Mobile and Vessel at Sea.
+Understand the requirements of permission to install and operate, Radio
+Silence and Log Keeping.
+Identify the 3 ITU regions and recall that the frequencies are given in the ITU
+Radio Regulations.
+Licence schedule
+
+1G1
+
+Identify relevant information in Schedules 1 and 2 to the Full licence.
+A copy of the relevant part of Schedules 1 and 2 will be available during the
+examination.
+
+1G2
+
+Understand relevant information in Schedule 3 to the licence.
+• Origin of the EMF restrictions (ICNIRP);
+• Meaning of the term ‘general public’;
+• Areas in which the general public need to be protected from EMF in
+breach of the limits.
+• Records of EMF assessment;
+• Procedure for carrying out an EMF assessment;
+• Emergency situations.
+Section 2 — Technical aspects
+Fundamental theory
+
+2A1
+
+Understand component tolerances and the effects they may have in circuit
+operation.
+Power
+
+2B1
+
+Solve series/parallel resistor circuits to calculate currents, voltages, resistances
+and power given appropriate values. This may include the use of series/parallel
+formulae, Ohm’s Law and power.
+Equations include P=V²/R and P=I²×R
+Reactive components
+
+2D1
+
+Understand the factors influencing the capacitance of a capacitor; area and
+separation of the plates, permittivity of dielectrics and formula C=k×A/d.
+Recall that the Coulomb is the quantity of electricity, Q, given by current × time
+and that the charge on a capacitor is given by Q = V×C.
+
+2D2
+
+Recall that different dielectrics are used for different purposes, e.g. air,
+ceramic, mica and polyester; and that with some dielectrics, losses increase
+with increasing frequency.
+
+2D3
+
+Understand that capacitors have a breakdown voltage and that they need to be
+used within that voltage.
+
+2D4
+
+Understand the term ‘self-inductance’ and recall that a ‘back EMF’ is produced
+as current flow changes in an inductor.
+
+2D7
+
+Understand the rise and fall of current in an LR circuit and that the time
+constant τ = L/R.
+Understand the rise and fall of voltage in a CR circuit and that the time
+constant τ = C×R.
+
+AC theory
+2E3
+
+Understand that current lags potential difference by 90° in an inductor and that
+current leads by 90° in a capacitor.
+Understand the formulae for the reactance of a capacitor or inductor in terms of
+the frequency and component value.
+Calculate the unknown term given the other two.
+
+2E4
+
+Understand the use of capacitors for AC coupling (DC blocking) and
+decoupling AC signals (including RF bypass) to ground.
+
+2E5
+
+Understand the use of inductors for DC decoupling (AC blocking).
+
+2E6
+
+Understand that impedance is a combination of resistance and reactance and
+apply the formula for impedance and current in a series CR or LR circuit.
+Digital signals
+
+2F1
+
+Understand that analogue to digital conversion can generate a false image of
+the signal if frequencies are present above the frequency which is half the
+sampling (Nyquist) rate.
+Recall that these false images are known as aliases.
+Understand that anti-aliasing filters are used to avoid this occurring.
+
+2F2
+
+Recall that digital signals in the time domain can be depicted in the frequency
+domain by using a mathematical operation known as a Fourier Transform (FT).
+Recall that a Fourier Transform takes digital signals in the time domain and
+calculates the amplitudes and the frequencies which comprised the original
+signal.
+Transformers
+
+2G1
+
+Understand the concept of mutual inductance.
+Understand and apply the formulae relating transformer primary and secondary
+turns to primary and secondary potential differences and currents.
+Understand the impedance change in a transformer and apply the formula
+relating transformer primary and secondary terms to primary and secondary
+impedances.
+Recall that different magnetic materials used as cores for inductors and
+transformers perform best over different frequency ranges and affect their
+efficiency.
+Recall that losses in the material will cause heating which affects power
+handling and the required physical size of the core for the power concerned.
+Tuned Circuits and resonance
+
+2H1
+
+Apply the formula for the resonant frequency of a tuned circuit to find values of
+f, L or C from given data.
+
+2H2
+
+Recall the equivalent circuit of a crystal and that it exhibits series and parallel
+resonance.
+Recall that crystals are manufactured for either series or parallel operation and
+will only be stable and correct on the marked frequency when used in the
+intended manner.
+
+2H4
+
+Understand the concept of the magnification factor Q as applied to the voltages
+and currents in a resonant circuit.
+Recall that voltages and circulating currents in tuned circuits can be very high
+and understand the implications for component rating.
+Apply the formula for Q factor given circuit component values.
+Recall the definition of the half power point of resonance curves.
+Apply the equation for Q given the resonant frequency and the half power
+points on the resonance curve.
+
+2H5
+
+Understand the meaning of dynamic resistance, RD.
+Semiconductor devices
+
+2I1
+
+Recall that a Zener diode will conduct when the applied reverse bias potential
+is above its designed value and identify its V/I characteristic curve.
+
+2I3
+
+Understand the basics of biasing NPN and PNP bipolar transistors and field
+effect transistors (FET) (including dual gate devices).
+Note: Circuits shown will be an NPN transistor connected in common
+emitter/common source mode.
+
+2I4
+
+Identify different types of small signal amplifiers (e.g. common emitter (source),
+emitter follower and common base) and explain their operation in terms of input
+and output impedances, current gain, voltage gain and phase change.
+Recall the characteristics and typical circuit diagrams of different classes of
+amplifiers (i.e. A, B, A/B and C).
+
+2I5
+
+Understand the feedback requirements to sustain oscillations in an oscillator.
+Cells and power supplies
+
+2J2
+
+Understand the function of stabilising circuits and identify different types of
+stabilising circuits (i.e. Zener diode/pass transistor and IC).
+Note: questions on the characteristics of individual components are covered in
+other parts of this syllabus. This subsection is on complete circuits.
+
+2J3
+
+Understand the need for rectifier diodes to have a sufficient peak inverse
+voltage (PIV) rating and calculate the PIV in diode/capacitor circuits.
+
+2J4
+
+Understand the basic principles and operation of a switch mode power supply,
+at block diagram level.
+
+Section 3 — Transmitters and receivers
+Transmitter concepts
+3A2
+
+Recall the meaning of Modulation Index and its effect on the number of FM
+sidebands.
+Transmitter architecture
+
+3B1
+
+Understand the block diagram of an SSB transmitter employing mixers to
+generate the final frequency.
+Understand the block diagram of an FM transmitter employing either frequency
+multipliers or mixers to generate the final frequency.
+Oscillators
+
+3C1
+
+Recall the effect and the importance of minimising drift.
+
+3C3
+
+Recall the block diagram of a Phase Locked Loop (PLL) frequency synthesiser
+and the functions of the stages i.e. oscillator, fixed divider, phase detector, Low
+Pass Filter (LPF), voltage controlled oscillator and programmable divider.
+Recall how sinusoidal waves may be produced by direct digital synthesis and
+the block diagram of a simple synthesiser.
+Recall that increasing the number of bits in the synthesiser will increase the
+purity of the signal. Recall the function of the Clock, Lookup Table, DAC and
+LPF in a DDS block diagram.
+Frequency multipliers
+
+3D1
+
+Understand that frequency multipliers use harmonics to generate frequencies
+above an oscillator’s fundamental frequency (e.g. in a microwave transmitter).
+Microphone amplifiers and modulators
+
+3E1
+
+Understand the operation of AM, SSB and FM modulators.
+Calculate the bandwidth of such transmissions.
+
+3E2
+
+Identify typical sideband filter circuits and calculate relevant frequencies.
+RF power amplifiers
+
+3F2
+
+Understand the need for linear amplification and identify which forms of
+modulation require a linear amplifier.
+Identify simple RF transmitter PA circuits.
+Understand the meaning of linearity as applied to a circuit or amplifier.
+Understand how distortion of a single frequency signal can produce harmonics
+of that frequency.
+Understand how distortion of two (or more) frequencies can produce harmonics
+and intermodulation products of the input frequencies.
+
+3F3
+
+Recall the function of the main components of a PA circuit, i.e. collector load,
+bias, input circuit, output filter and matching.
+
+3F4
+
+Understand the implications for PA rating of different types of modulation and
+the effects of speech processing, with particular regard to peak to average
+power ratios.
+
+3F5
+
+Recall the function of automatic level control within the power amplifier circuit
+and when using an external power amplifier. Recall the function and use of a
+manual RF power control.
+Transmitter interference
+
+3G1
+
+Understand that over-modulation distorts the modulating signal resulting in
+harmonics of the audio which causes excessive transmitted bandwidth.
+
+3G2
+
+Understand that over-drive of the RF power amplifier can also result in
+excessive transmitted bandwidth.
+Understand the need to drive external power amplifiers with the minimum
+power required for full output and how overdriving may cause harmonics and/or
+spurious intermodulation products.
+
+3G3
+
+Understand ways to avoid generating harmonics e.g. use of push-pull
+amplifiers and avoiding high drive levels.
+Recall that transmitters may radiate unwanted mixer products and identify
+suitable remedies.
+Understand the use of low pass, band pass and band stop (notch) filters in
+minimising the radiation of unwanted harmonics and mixer products.
+
+3G4
+
+Recall that unwanted emissions may be caused by parasitic oscillation and/or
+self-oscillation and identify suitable remedies.
+
+3G5
+
+Understand how frequency synthesisers may not produce the intended
+frequency.
+Identify appropriate measures to prevent off-frequency transmissions.
+Receiver concepts
+
+3H3
+
+Understand that overloading a receiver causes intermodulation products and
+that those close to or within the wanted signal bandwidth limit the ability of the
+receiver to detect weak signals.
+Recall that the dynamic range of a receiver is the difference between the
+minimum discernible signal and the maximum signal without overload.
+Recall that dynamic range is expressed in decibels.
+Superheterodyne concepts
+
+3I1
+
+Understand the block diagram of superheterodyne and double
+superheterodyne receivers and the functions of each block.
+
+3I2
+
+Understand the function of a mixer, the generation of the Intermediate
+Frequency (IF) and other mixer products.
+
+3I3
+
+Understand the advantages and disadvantages of high and low intermediate
+frequencies and the rationale for the double and triple superhet.
+Understand that for given RF and IF frequencies, there is a choice of two
+possible local oscillator (LO) frequencies.
+Understand the reasons for the choice and calculate the frequencies.
+Understand the origin of the image frequency and calculate the frequency from
+given parameters.
+
+3I4
+
+Understand the operation of an IF amplifier and the IF transformer.
+Understand the concept of two LC tuned circuits utilising transformer coupling.
+Identify critical and over-coupled response curves.
+Understand how the gain of an IF amplifier can be varied, how this may cause
+distortion and how the effects of the distortion are avoided.
+
+3I5
+
+Recall the source and effects of phase noise.
+Recall the unit of measurement is dBc/Hz.
+RF amplifiers and external pre-amplifiers
+
+3J1
+
+Recall the operation of the RF amplifier.
+Understand that external RF preamplifiers do not always improve overall
+performance and will reduce the dynamic range.
+Understand why, at HF, this loss can be as much as the gain of the preamp but
+that at VHF and above a low noise pre-amp is beneficial.
+Understand why most benefit is gained by locating the pre-amp at the antenna.
+Demodulation
+
+3K1
+
+Understand the operation of basic analogue AM, CW, SSB and FM
+demodulator circuits and the function of the limiter for FM.
+Automatic gain control (AGC)
+
+3L1
+
+Understand the source and use of an AGC voltage.
+Recall that the speed of the AGC response can be adjusted on both attack and
+decay.
+SDR transmitters and receivers
+
+3M1
+
+Recall that analogue and digital signals are transmitted by some form of
+amplitude and/or frequency/phase modulation.
+Recall that amplitude and frequency/phase modulation can be portrayed on a
+phasor diagram.
+Understand that to fully capture the information contained in the amplitude and
+phase of the signal that the position of the phasors must be resolved as the
+values on two axes at right angles.
+
+3M2
+
+Recall that mixing the RF or IF signal with two local oscillator signals 90
+degrees different in phase will produce an in-phase (I) and quadrature (Q)
+component which can be digitised allowing all forms of modulation to be
+demodulated entirely by mathematical processes in a PC or using dedicated
+hardware.
+Recall that this technique is the basis of SDR (software defined radio)
+receivers.
+Recall that these techniques can also be used to create complex modulations
+for use in transmitters.
+Recall that if sampling is carried out directly on the RF signal the extraction of I
+and Q components and subsequent demodulation may be carried out entirely
+by mathematical processes.
+Transceivers
+
+3N1
+
+Understand that transceivers normally share oscillators between the transmitter
+and receiver circuits; and they may use common IF filters to limit both the
+transmitter and receiver bandwidths and that they also use common
+changeover circuits.
+Recall the function and use of the RIT control.
+
+3N2
+
+Understand that using a transverter enables operation on frequency bands not
+covered by the primary transceiver equipment.
+Calculate appropriate frequencies used in transverter operation.
+Recall that transverters generally require low power drive.
+Understand the need for extra care to avoid transmitting out of band when
+using a transverter.
+Recall that transverters require the correct interfacing with the primary
+equipment to control sequencing and prevent hot switching.
+Understand the techniques of RF sensing and PTT (push-to-talk) transmit
+receive switching.
+Section 4 – Feeders and antennas
+Feeders
+
+4A3
+
+Understand that the velocity factor of a feeder is the ratio of the velocity of
+radio waves in the feeder to that in free space and that the velocity factor is
+always less than unity.
+Recall that the velocity factor for coaxial feeder with a solid polythene dielectric
+is approximately 0.67 or 2/3.
+Perform calculations involving velocity factor, physical length, electrical length
+and frequency.
+Baluns
+
+4B1
+
+Recall the construction and use of transformer, sleeve and choke type baluns.
+Identify the circuits of 1:1 and 4:1 transformer baluns.
+
+Types of antenna
+4D1
+
+Recall the equation for calculating wavelengths and apply an end factor
+correction when calculating the approximate physical lengths of simple dipoles
+and end fed antennas.
+
+4D2
+
+Recall the current and voltage distribution on the centre fed dipole and /4
+ground plane antennas.
+Recall the feed point impedances of centre fed half-wave dipoles, quarter-wave
+and loaded 5/8  verticals, folded dipoles, full-wave loops and end feed /4
+and /2 antennas.
+Recall the effect of passive antenna elements on feed point impedance and the
+use of folded dipoles in Yagi antennas.
+Standing waves
+
+4E1
+
+Understand that the standing wave ratio (SWR) is a measure of the signal
+travelling back down the feeder expressed in terms of the standing waves
+caused by the reflected signal voltage (or current).
+
+4E2
+
+Recall that return loss is the ratio of the forward signal power to the return
+signal power; normally expressed in dB.
+Understand that a low SWR equates to a high return loss and a high SWR
+equates to a low return loss.
+
+4E3
+
+Understand that the loss in the feeder will reduce the SWR and increase the
+return loss as measured at the transmitter and that the SWR at the antenna is
+unaffected.
+Recall that Return Loss at transmitter = Return Loss at antenna + 2x (feeder
+loss).
+Antenna matching units
+
+4F1
+
+Understand that Antenna Matching Units (AMUs) can cancel reactive
+components of the antenna system feed point impedance (before or after the
+feeder) and can transform impedances to an acceptable resistive value.
+Identify typical AMU circuits i.e. T, Pi and L circuits.
+
+4F2
+
+Understand that a quarter-wave length of feeder can be used as an impedance
+2
+
+transformer. Apply simple examples of the formula Zo = Zin × Zout
+Section 5 – Propagation
+Radio propagation: key concepts
+5A1
+
+Recall that under free space conditions e-m waves spread out according to an
+inverse square law of power flux density and that the electric field strength,
+measured in volts/metre, drops linearly with distance.
+Note: Numerical calculations required at item 6E1 only
+
+5A3
+
+Recall that an e-m wave comprises E and H fields in phase, at right angles and
+at right-angles to the direction of travel and the power flux density (watts /
+Metre squared) is given by the product of E and H.
+Recall that in circular polarisation, the polarisation of the wave rotates as it
+propagates, with either a right-handed (clockwise from behind) or left-handed
+polarisation.
+Recall that this is often used for satellite communication where the orientation
+of the satellite is indeterminate.
+Recall that the transmit and receive antennas should have the same
+polarisation.
+Ionosphere
+
+5B1
+
+Understand the effects of Solar flares and sun spots on propagation.
+
+5B2
+
+Recall that the highest frequency that will be refracted back to the transmitter is
+known as the Critical Frequency of Vertical Incidence (critical frequency).
+Recall that the maximum usable frequency (MUF) will be higher than the
+critical frequency.
+Recall, in general terms how the MUF varies over the 24 hour cycle and the
+variation in MUF from summer to winter.
+
+5B3
+
+Recall that propagation where the signals are reflected vertically back from the
+ionosphere is known as Near Vertical Incidence Sky wave (NVIS).
+Recall that NVIS is a technique employed on some low frequency bands (e.g.
+5MHz) to make contacts over relatively short distances.
+
+5B4
+
+Recall that the ionosphere can change the polarisation of a radio wave.
+VHF and above
+
+5C3
+
+Recall that contacts at VHF and above can be made by reflecting signals off
+the lunar surface and that this is known as Earth-Moon-Earth (EME)
+propagation.
+Understand that as the moon is a poor reflector of radio frequency signals and
+is a long way from earth, EME contacts generally need high power and high
+gain antennas accurately pointed at the moon and very sensitive, low noise
+receivers or the use of special low-signal strength modes to overcome the path
+loss.
+Recall that it is possible to make contacts on the VHF bands by reflecting
+signals off the ionised gases created during an Aurora and that this occurs at
+high Northerly and Southerly latitudes and that this is known as Auroral
+propagation.
+Recall that auroral ionised curtains form vertically in the ionosphere and that
+movement of these curtains cause rapid flutter on the signals.
+Other features
+
+5D1
+
+Recall the Galactic Noise is random noise originating outside the earth’s
+atmosphere.
+
+5D2
+
+Recall the factors affecting a link budget; transmitter power, feeder losses,
+antenna gains and path loss.
+Recall that path loss includes spreading loss and obstruction losses.
+Section 6 – Electro magnetic compatibility (EMC)
+EMC concepts
+
+6A2
+
+Understand that the immunity of a device is affected by the nature of its
+installation and that poor installation of an otherwise good item of equipment
+can compromise its safe and compliant operation.
+
+6A4
+
+Recall that radio amateurs are not required to demonstrate compliance with
+EMC standards for equipment they put into service but remain responsible for
+complying with licence requirements regarding interference.
+Sources of interference and their effects
+
+6B1
+
+Recall that some imported or home constructed electronic equipment may not
+meet relevant EMC standards.
+Recall that items containing radio communication facilities such as cordless
+and mobile telephones and information technology communication equipment
+may produce sufficiently strong signals to cause short range interference but
+are otherwise generally satisfactory.
+Recall that imported devices and toys may not be compliant with the relevant
+regulations.
+
+6B2
+
+Understand that Blocking (or desensitisation) is an effect in a radio receiver
+where a strong, constant level interfering signal e.g. FM either swamps the
+wanted signal or drives the affected circuits out of their normal operating range
+such that the received audio or data is severely attenuated or muted.
+Understand that Cross-modulation is an effect in a radio receiver where the
+interfering signal is varying in strength e.g. AM or SSB such that the
+modulation on the interfering signal is added to the modulation on the wanted
+signal such that both may be heard with varying clarity.
+
+6B3
+
+Recall that passive intermodulation products can be caused by corrosion in any
+metallic junctions in metalwork, including transmitting and receiving antennas,
+supports and guttering.
+Routes of entry
+
+6C1
+
+Recall that amateur transmissions can enter audio stages via long speaker
+leads or other interconnections.
+Understand that any semiconductor or diode junction within an electronic
+device can rectify unwanted RF.
+
+6C2
+
+Understand that many TV mast-head amplifiers are wide band devices and can
+suffer from cross-modulation and overload causing intermodulation and
+blocking and may also overload the TV.
+
+6C3
+
+Understand that amateur transmissions can be picked up by the intermediate
+frequency stages of TV and radio receivers.
+Understand the potential for image frequency interference to analogue and
+digital radio.
+Understand that television receivers and most broadcast radio receivers
+employ superheterodyne circuits and recall some typical frequencies used in
+radio and television receivers.
+•
+•
+•
+•
+•
+
+Medium Wave radio broadcast 526 - 1606kHz
+VHF FM radio broadcast 87.5 - 108MHz
+VHF DAB radio broadcast 174 - 230MHz
+TV broadcast 470 - 694MHz
+Radio IFs typically 455 - 500kHz and 10.7MHz.
+
+Note: Current design digital TV receivers use a variety of Intermediate
+frequencies between 4 and 39MHz.
+Filtering and remedial measures
+6D1
+
+Understand the use of high, low, band pass and band stop (notch) filters of L, T
+and π configuration including coaxial stubs as notch filters or traps, in
+improving the immunity of affected devices.
+Recall the use of ferrite beads or rings in internal and external filtering.
+
+6D2
+
+Understand the construction and use of a typical mains filter.
+Identify a typical circuit of a braid breaking filter and a combined high pass/
+braid breaking filter.
+Understand their use.
+Understand why a ferrite ring will attenuate common-mode currents without
+affecting the differential-mode wanted signal.
+Station design and antenna placement/general principles
+
+6E1
+
+Recall that reducing field strength to the minimum required for effective
+communication is good radio housekeeping.
+Apply the formula for the field strength surrounding an antenna given the ERP
+and distance from it.
+
+6E2
+
+Understand good RF grounding and bonding techniques.
+Understand the effects of inadequate RF grounding and bonding.
+
+6E3
+
+Recall that balanced antenna systems tend to cause fewer EMC problems than
+unbalanced antennas.
+Recall that balanced and unbalanced feeders should leave the antenna at
+right-angles to minimise coupling.
+Station design and antenna placement/mobile installations
+
+6F1
+
+Recall that advice on mobile installations is the Federation of Communication
+Services UK Code of Practice for the installation of mobile radio and related
+ancillary equipment in land based vehicles.
+
+6F2
+
+Understand how to minimise the likelihood of stray RF currents entering the
+vehicle wiring and electronics.
+Social aspects and testing
+
+6G1
+
+Recall the correct procedures for dealing with complaints of electromagnetic
+disturbance caused by amateur transmissions.
+Section 7 – Operating practices and procedures
+Good operating practices and procedures
+
+7A1
+
+Understand the reasons why some stations may use split Tx and Rx
+frequencies within a frequency band.
+Band plans
+
+7B1
+
+Identify items on a typical band-plan (e.g. centre of activity, band width and
+recommended modes).
+Note: Questions will be limited to the 5MHz (60m) and 472kHz (600m) bands.
+A copy of the relevant band plans will be available during the examination but
+may not be ones in current use.
+Reference Booklets containing examination band plans are available on the
+RSGB web site.
+
+7B2
+
+Recall that band plans in other countries and IARU regions may not align with
+the UK band plan.
+Special events
+
+7H1
+
+Recall the purpose of special event stations and the format of their call signs.
+Recall the process for obtaining a special event call sign.
+Section 8 – Safety
+Electricity
+
+8A1
+
+Recall that lethal voltages can exist in equipment and that live circuits may be
+exposed as soon as the equipment case is removed.
+
+8A2
+
+Recall that in PME systems the main earth terminal is connected to the neutral
+of the electricity service at the consumers’ premises.
+Recall that under severe fault conditions PME systems have the potential to
+cause fatal electric shocks and/or fires in amateur radio stations.
+Recall that the RF earth in an amateur station should be connected to the PME
+bonding point in accordance with the Local Authority building department’s
+requirements or the IET Wiring Regulations to maintain safety under fault
+conditions.
+
+8A6
+
+Understand that no work should be undertaken on live equipment unless it is
+not practicable to do otherwise.
+Understand that suitable precautions must be taken to avoid electric shock.
+
+Working with RF
+8D1
+
+Recall that the International Commission for Non Ionising Radiation Protection
+(ICNIRP) produces guidance for exposure to Radio Frequency fields.
+Understand it is not advisable to exceed the recommended safe exposure
+levels and that this is particularly applicable at locations open to the public.
+Lightning
+
+8E1
+
+Recall that thunderstorms carry heavy static charges.
+Understand that the static charge from thunderclouds can ionise the air to form
+a low resistance path to ground, enabling a very high current to flow as a
+lightning stroke.
+Understand the risks to human life, domestic property and electronic
+equipment associated with a direct strike and/or the build-up of static charges.
+Understand that there is little that can be done to protect an amateur station
+from a direct lightning strike, but that good static discharge systems can
+prevent dangerous static charges building up on antenna systems during
+thunderstorms.
+Understand that disconnecting antenna feeders from radio equipment also
+reduces the risks.
+Working mobile and portable
+
+8F4
+
+Understand that operating in temporary premises and/or outdoors can
+introduce new hazards i.e. overhead power lines, inadequate electrical
+supplies, trailing cables, damp ground and excessive field strengths.
+Recall the additional safety precautions that should be taken whilst operating in
+temporary premises and/or outdoors i.e.
+•
+•
+•
+•
+•
+
+site survey/risk assessment,
+cable routing/protection,
+correct fusing,
+use of Residual Current Devices (RCD's, RCBO's)
+no adjustments or repairs to live equipment.
+
+Recall that mains supplies in other countries may be of a different voltage or
+frequency; utilise different plugs and sockets and that UK specified equipment
+may not be suitable or hazardous if connected and used.
+8F5
+
+Understand that operating when mobile or maritime mobile can introduce new
+hazards i.e. insecure equipment, long/flexible antennas, accidental shorts to
+earth, lack of attention to driving.
+Recall the additional safety precautions that should be taken whilst operating
+mobile and/or maritime mobile i.e. secure equipment, cable routing/ protection,
+correct fusing, use of hands-free equipment, attention to good radio
+housekeeping.
+
+8F6
+
+Understand that a risk assessment should be performed when an activity could
+present a hazard to yourself or others.
+Understand that risk assessment involves identification of hazards and the
+measures to mitigate the risk.
+Recall a risk assessment needs to consider the likelihood of harm and the
+severity of that harm.
+Recall that the significant findings of risk assessments need to be recorded.
+Recall that risk assessment records are important in law and for insurance
+purposes.
+Recall that risks should be expressed in understandable terms.
+Recall that appropriate insurances should be obtained for all amateur radio
+activities but in particular where the public could be involved.
+
+8F7
+
+Understand the risks associated with the use of electrical generators, earthing,
+fuel stowage, refilling.
+Section 9 – measurements and construction
+Measurements
+
+9A1
+
+Understand the use of series multiplier resistors in analogue voltmeters and
+shunts in ammeters.
+Understand the effect of the test meter on the circuit under test.
+
+9A3
+
+Understand the effect of measurement tolerance, calibration accuracy and time
+related drift on frequency measurements and the allowances to be made for
+transmission bandwidths.
+
+9A4
+
+Understand that signal generators and similar devices will have a source
+impedance and the effect on the signal level of attaching different load
+impedances.
+Recall that not all measuring equipment will have a 50Ω input impedance.
+Understand that the choice of measuring equipment may have an effect on the
+on the measurement result and on the object under test.
+
+9A5
+
+Understand that steady RF power may be determined by measuring the RF
+potential difference across a dummy load and that a steady audio signal, e.g.
+from an audio oscillator, will be required for AM and SSB measurements.
+Understand the meaning of peak envelope power (PEP) of an SSB
+transmission and that it may be determined using a peak reading power meter
+or an oscilloscope and dummy load.
+
+9A6
+
+Recall the uses and limitations of crystal calibrators, digital frequency counters
+and standard frequency transmissions.
+
+9A7
+
+Identify the circuit of an SWR meter using either a sense wire between the
+inner and outer conductors of a coaxial line or a current transformer and
+capacitive voltage tap.
+Understand in simple terms how this leads to an SWR reading on devices
+using a single meter, twin meters or cross-needle twin meter.
+
+9A8
+
+Understand the purpose and basic operation of an oscilloscope.
+Calculate the frequency and voltage of a waveform from given data.
+
+9A9
+
+Understand the purpose and basic operation of a spectrum analyser.
+Identify the fundamental and harmonics on a typical spectrum analyser display.
+Decibels
+
+9B1
+
+Use the equations for decibel power, dB, dBW, dBm and voltage ratios dBV.
+Components
+
+9C1
+
+Recall that temperature has an effect on the value of components. Those with
+negative coefficients will reduce in value as temperature rises whereas those
+with positive coefficients will increase in value.
+Understand the effect this will have on tuned circuits and remedial measures.
+Questions may include simple calculations.
+
+Note: See combined syllabus for the Introduction and Examination Material parts of the
+specification.
+
+
