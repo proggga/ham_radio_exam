@@ -1,0 +1,3109 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Inhoudsopgave
+6
+
+50 Uitgewerkte examenopgaven bij Hoofdstuk 6 ........................................................ 6-5
+6.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? .............. 6-5
+
+6.2
+
+Enkele opmerkingen ............................................................................................... 6-6
+
+6.3
+
+Formularium ............................................................................................................ 6-6
+
+6.3.1
+
+Basisvergelijkingen: transformatie van stroom en spanning ......................... 6-6
+
+6.3.2
+
+Transformeren van impedanties...................................................................... 6-7
+
+6.3.3
+
+Faseverschil en serieschakeling ....................................................................... 6-7
+
+6.3.4
+
+Wikkelingen met aftakkingen ......................................................................... 6-8
+
+6.3.5
+
+De autotransformator ....................................................................................... 6-8
+
+6.3.6
+
+Afscherming ..................................................................................................... 6-9
+
+6.3.7
+
+Spoelkernen ...................................................................................................... 6-9
+
+6.4
+
+Opgaven ................................................................................................................. 6-10
+
+6.4.1
+
+Opgave 6-1 ...................................................................................................... 6-11
+
+6.4.2
+
+Opgave 6-2 ...................................................................................................... 6-12
+
+6.4.3
+
+Opgave 6-3 ...................................................................................................... 6-13
+
+6.4.4
+
+Opgave 6-4 ...................................................................................................... 6-14
+
+6.4.5
+
+Opgave 6-5 ...................................................................................................... 6-15
+
+6.4.6
+
+Opgave 6-6 ...................................................................................................... 6-16
+
+6.4.7
+
+Opgave 6-7 ...................................................................................................... 6-17
+
+6.4.8
+
+Opgave 6-8 ...................................................................................................... 6-18
+
+6.4.9
+
+Opgave 6-9 ...................................................................................................... 6-19
+
+6.4.10
+
+Opgave 6-10 .................................................................................................... 6-20
+
+6.4.11
+
+Opgave 6-11 .................................................................................................... 6-21
+
+6.4.12
+
+Opgave 6-12 .................................................................................................... 6-22
+
+6.4.13
+
+Opgave 6-13 .................................................................................................... 6-23
+
+6.4.14
+
+Opgave 6-14 .................................................................................................... 6-24
+
+6.4.15
+
+Opgave 6-15 .................................................................................................... 6-25
+
+6.4.16
+
+Opgave 6-16 .................................................................................................... 6-26
+
+6.4.17
+
+Opgave 6-17 .................................................................................................... 6-27
+
+6.4.18
+
+Opgave 6-18 .................................................................................................... 6-28
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.19
+
+Opgave 6-19 .................................................................................................... 6-29
+
+6.4.20
+
+Opgave 6-20 .................................................................................................... 6-30
+
+6.4.21
+
+Opgave 6-21 .................................................................................................... 6-31
+
+6.4.22
+
+Opgave 6-22 .................................................................................................... 6-32
+
+6.4.23
+
+Opgave 6-23 .................................................................................................... 6-33
+
+6.4.24
+
+Opgave 6-24 .................................................................................................... 6-34
+
+6.4.25
+
+Opgave 6-25 .................................................................................................... 6-35
+
+6.4.26
+
+Opgave 6-26 .................................................................................................... 6-36
+
+6.4.27
+
+Opgave 6-27 .................................................................................................... 6-37
+
+6.4.28
+
+Opgave 6-28 .................................................................................................... 6-38
+
+6.4.29
+
+Opgave 6-29 .................................................................................................... 6-39
+
+6.4.30
+
+Opgave 6-30 .................................................................................................... 6-40
+
+6.4.31
+
+Opgave 6-31 .................................................................................................... 6-41
+
+6.4.32
+
+Opgave 6-32 .................................................................................................... 6-42
+
+6.4.33
+
+Opgave 6-33 .................................................................................................... 6-43
+
+6.4.34
+
+Opgave 6-34 .................................................................................................... 6-44
+
+6.4.35
+
+Opgave 6-35 .................................................................................................... 6-45
+
+6.4.36
+
+Opgave 6-36 .................................................................................................... 6-46
+
+6.4.37
+
+Opgave 6-37 .................................................................................................... 6-47
+
+6.4.38
+
+Opgave 6-38 .................................................................................................... 6-48
+
+6.4.39
+
+Opgave 6-39 .................................................................................................... 6-49
+
+6.4.40
+
+Opgave 6-40 .................................................................................................... 6-50
+
+6.4.41
+
+Opgave 6-41 .................................................................................................... 6-51
+
+6.4.42
+
+Opgave 6-42 .................................................................................................... 6-52
+
+6.4.43
+
+Opgave 6-43 .................................................................................................... 6-53
+
+6.4.44
+
+Opgave 6-44 .................................................................................................... 6-54
+
+6.4.45
+
+Opgave 6-45 .................................................................................................... 6-55
+
+6.4.46
+
+Opgave 6-46 .................................................................................................... 6-56
+
+6.4.47
+
+Opgave 6-47 .................................................................................................... 6-57
+
+6.4.48
+
+Opgave 6-48 .................................................................................................... 6-58
+
+6.4.49
+
+Opgave 6-49 .................................................................................................... 6-59
+
+6.4.50
+
+Opgave 6-50 .................................................................................................... 6-60
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-2
+
+VRZA-cursus radiozendamateur
+
+6.5
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Uitwerkingen ......................................................................................................... 6-61
+
+6.5.1
+
+Uitwerking van Opgave 6-1 .......................................................................... 6-62
+
+6.5.2
+
+Uitwerking van Opgave 6-2 .......................................................................... 6-63
+
+6.5.3
+
+Uitwerking van Opgave 6-3 .......................................................................... 6-64
+
+6.5.4
+
+Uitwerking van Opgave 6-4 .......................................................................... 6-65
+
+6.5.5
+
+Uitwerking van Opgave 6-5 .......................................................................... 6-66
+
+6.5.6
+
+Uitwerking van Opgave 6-6 .......................................................................... 6-67
+
+6.5.7
+
+Uitwerking van Opgave 6-7 .......................................................................... 6-68
+
+6.5.8
+
+Uitwerking van Opgave 6-8 .......................................................................... 6-69
+
+6.5.9
+
+Uitwerking van Opgave 6-9 .......................................................................... 6-71
+
+6.5.10
+
+Uitwerking van Opgave 6-10 ........................................................................ 6-72
+
+6.5.11
+
+Uitwerking van Opgave 6-11 ........................................................................ 6-73
+
+6.5.12
+
+Uitwerking van Opgave 6-12 ........................................................................ 6-74
+
+6.5.13
+
+Uitwerking van Opgave 6-13 ........................................................................ 6-75
+
+6.5.14
+
+Uitwerking van Opgave 6-14 ....................................................................... 6-76
+
+6.5.15
+
+Uitwerking van Opgave 6-15 ........................................................................ 6-77
+
+6.5.16
+
+Uitwerking van Opgave 6-16 ........................................................................ 6-78
+
+6.5.17
+
+Uitwerking van Opgave 6-17 ........................................................................ 6-79
+
+6.5.18
+
+Uitwerking van Opgave 6-18 ........................................................................ 6-80
+
+6.5.19
+
+Uitwerking van Opgave 6-19 ........................................................................ 6-81
+
+6.5.20
+
+Uitwerking van Opgave 6-20 ........................................................................ 6-82
+
+6.5.21
+
+Uitwerking van Opgave 6-21 ........................................................................ 6-83
+
+6.5.22
+
+Uitwerking van Opgave 6-22 ........................................................................ 6-84
+
+6.5.23
+
+Uitwerking van Opgave 6-23 ........................................................................ 6-85
+
+6.5.24
+
+Uitwerking van Opgave 6-24 ........................................................................ 6-86
+
+6.5.25
+
+Uitwerking van Opgave 6-25 ........................................................................ 6-88
+
+6.5.26
+
+Uitwerking van Opgave 6-26 ........................................................................ 6-89
+
+6.5.27
+
+Uitwerking van Opgave 6-27 ........................................................................ 6-90
+
+6.5.28
+
+Uitwerking van Opgave 6-28 ........................................................................ 6-91
+
+6.5.29
+
+Uitwerking van Opgave 6-29 ........................................................................ 6-92
+
+6.5.30
+
+Uitwerking van Opgave 6-30 ........................................................................ 6-93
+
+6.5.31
+
+Uitwerking van Opgave 6-31 ........................................................................ 6-94
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.32
+
+Uitwerking van Opgave 6-32 ........................................................................ 6-95
+
+6.5.33
+
+Uitwerking van Opgave 6-33 ........................................................................ 6-96
+
+6.5.34
+
+Uitwerking van Opgave 6-34 ........................................................................ 6-97
+
+6.5.35
+
+Uitwerking van Opgave 6-35 ........................................................................ 6-98
+
+6.5.36
+
+Uitwerking van Opgave 6-36 ........................................................................ 6-99
+
+6.5.37
+
+Uitwerking van Opgave 6-37 ...................................................................... 6-100
+
+6.5.38
+
+Uitwerking van Opgave 6-38 ...................................................................... 6-101
+
+6.5.39
+
+Uitwerking van Opgave 6-39 ...................................................................... 6-102
+
+6.5.40
+
+Uitwerking van Opgave 6-40 ...................................................................... 6-103
+
+6.5.41
+
+Uitwerking van Opgave 6-41 ...................................................................... 6-104
+
+6.5.42
+
+Uitwerking van Opgave 6-42 ...................................................................... 6-105
+
+6.5.43
+
+Uitwerking van Opgave 6-43 ...................................................................... 6-106
+
+6.5.44
+
+Uitwerking van Opgave 6-44 ...................................................................... 6-107
+
+6.5.45
+
+Uitwerking van Opgave 6-45 ...................................................................... 6-108
+
+6.5.46
+
+Uitwerking van Opgave 6-46 ...................................................................... 6-109
+
+6.5.47
+
+Uitwerking van Opgave 6-47 ...................................................................... 6-110
+
+6.5.48
+
+Uitwerking van Opgave 6-48 ...................................................................... 6-111
+
+6.5.49
+
+Uitwerking van Opgave 6-49 ...................................................................... 6-112
+
+6.5.50
+
+Uitwerking van Opgave 6-50 ...................................................................... 6-113
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6 50 Uitgewerkte examenopgaven bij Hoofdstuk 6
+6.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 6
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave en het goede antwoord vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot een goed
+antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 6.5.
+
+6.2 Enkele opmerkingen
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er een volledige
+datum. Vóór het jaar 2008, waren er maar twee examens per jaar, het voorjaars- en
+najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer in een examen zit en plotseling,
+bijvoorbeeld 10 jaar later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”) met soms wat handigheidjes. We raden aan, dit eerst door te
+nemen.
+
+6.3 Formularium
+6.3.1 Basisvergelijkingen: transformatie van stroom en spanning
+Een transformator heeft één of meer primaire wikkelingen en één of meer secundaire
+wikkelingen. Ze worden meestal afgekort als primaire en secundaire. De primaire is te
+beschouwen als de ingang en de secundaire als de uitgang van de trafo.
+Een wikkeling bestaat uit een aantal windingen. De verhouding van het aantal windingen
+op de primaire en secundaire wordt vaak aangeduid als wikkelverhouding. Voor het
+aantal windingen in primaire en secundaire wordt meestal het symbool n of N gebruikt.
+Voor de verhouding van de spanning U1 over de primaire en U2 over de secundaire geldt
+𝑈1 𝑈2
+𝑁2
+=
+→ 𝑈2 = 𝑈1
+𝑁1 𝑁2
+𝑁1
+
+( 6.3-1)
+
+Daarin is N1 het aantal windingen op de primaire wikkeling en N2 het aantal windingen
+op de secundaire.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+De spanningen over de primaire en de secundaire verhouden zich dus als het respectieve
+aantal windingen:
+𝑈1 : 𝑈2 = 𝑁1 : 𝑁2
+
+( 6.3-2)
+
+Dit is niet meer dan een andere manier van opschrijven van ( 6.3-1)
+Voor de stroom geldt het omgekeerde, want het vermogen 𝑃 = 𝑈𝐼 moet hetzelfde blijven.
+Dus
+𝐼2
+𝐼1
+=
+𝑁1 𝑁2
+
+𝑁1
+𝑁2
+
+( 6.3-3)
+
+1 1
+:
+𝑁1 𝑁2
+
+( 6.3-4)
+
+→
+
+𝐼2 = 𝐼1
+
+𝐼2 : 𝐼1 = 𝑁1 : 𝑁2 →
+
+𝐼1 : 𝐼2 =
+
+En ook:
+
+6.3.2 Transformeren van impedanties
+Een trafo transformeert spanningen en stromen op tegengestelde wijze: spanning x maal
+zo groot betekent stroom x maal zo klein. Stel, over de secundaire staat een impedantie Z2.
+Op de aansluiting van de primaire “ziet” de schakeling een impedantie die zich
+kwadratisch verhoudt tot die op der secundaire en wel zo:
+𝑍1 𝑁12
+𝑁1 2
+=
+=( )
+𝑍2 𝑁22
+𝑁2
+
+( 6.3-5)
+
+De wikkelverhouding in het kwadraat dus. Bij spanning is het gewoon de
+wikkelverhouding en bij stroom het omgekeerde van de wikkelverhouding.
+Een getallenvoorbeeld met een wikkelverhouding primair : secundair van 1:3:
+Over de secundaire staat een impedantie, weerstand of reactantie van 2700 . Op de
+primaire “ziet” de schakeling 2700 ⁄32 = 300. We doen meteen maar de spanning en
+de stroom. Staat er 10 V over de primaire, dan staat er 30 V over de secundaire. Wordt er
+primair 3 A aangeleverd, dan komt er secundair 1 A uit.
+6.3.3 Faseverschil en serieschakeling
+Transformatoren kun je net als weerstanden, condensatoren en spoelen in serie of parallel
+schakelen. Het is dan uitkijken dat de wikkelingen met de goede uiteinden worden
+verbonden. Soms zie je dat terug in schema’s. Dan staat er bij aansluitingen met dezelfde
+fase een zwart rondje. De primaire wikkelingen in serie en de secundaire parallel of
+andersom kan ook. Een voorbeeld zien we in Figuur 6.3-1.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+115 V
+
+12 V
+
+230 V
+
+12 V
+
+115 V
+
+12 V
+
+Figuur 6.3-1. Twee transformatoren met hun primaire wikkelingen in serie en de secundaire wikkelingen
+parallel. De primaire en secundaire aansluitingen die onderling in fase zijn, worden aangeduid met een
+zwart rondje.
+
+6.3.4 Wikkelingen met aftakkingen
+Een wikkeling kan heel goed een aantal aftakkingen hebben om verschillende spanningen
+te krijgen. Voor elke aftakking blijven de vergelijkingen die we eerder zagen geldig. Als
+aftakkingen tegelijk worden gebruikt, is er een deel van de wikkeling waar de som van
+alle stromen doorheen loopt. Dat is niet altijd een goed idee, tenzij het niet leidt tot
+overbelasting. Dan is een trafo met enkele afzonderlijke wikkelingen vaak een veiliger
+oplossing (Figuur 6.3-2)
+
+Figuur 6.3-2. Het verschil tussen een wikkeling met aftakkingen (links) en afzonderlijke wikkelingen
+(rechts). Links moeten alle drie de stromen door het onderste deel van de wikkeling, Rechts heeft elke
+wikkeling zijn eigen stroom.
+
+6.3.5 De autotransformator
+De autotransformator heeft maar één wikkeling. Die is tegelijk primaire en secundaire.
+Een aftakking levert de transformatie (Figuur 6.3-3). In transformatoren voor netspanning
+zie je dit type transformatoren nauwelijks, omdat er direct elektrisch contact is tussen de
+schakeling in het apparaat en het elektriciteitsnet.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Figuur 6.3-3. Autotransformator.
+
+Een bekende toepassing is de variac, een autotransformator waarin contact 2 in Figuur
+6.3-3 als schuifcontact over de wikkeling is uitgevoerd.
+In HF-toepassingen zie je de autotrafo wel veel. De transformatieverhouding zit op
+dezelfde manier in elkaar als bij een “gewone” trafo. Stel dat in Figuur 6.3-3 tussen punt 1
+en punt 3 100 windingen zitten en tussen punt 2 en punt 3 20, dan leidt een
+wisselspanning van 10 V tussen punt 1 en 3 tot een spanning van 2 V tussen de punten 2
+en 3 (en 8 V tussen 1 en 2, waant daar zitten 80 windingen tussen).
+Een puntje om op te letten is de stroom: als op punten 2 en 3 een schakeling wordt
+aangesloten die 1 A opneemt, dan loopt tussen 1 en 3 een stroom van 0,2 A. Die is in
+tegenfase met die van 1 A, omdat er een tegengesteld magnetisch veld bij hoort. Tussen 2
+en 3 loopt dus geen 1,2 A, maar 0,8 A!
+6.3.6 Afscherming
+Het magnetische veld van een spoel kan worden afgeschermd door er een geaarde
+geleidende bus (meest aluminium) omheen te doen. De stroom die daarin ontstaat, wekt
+een tegengesteld magnetisch veld op. Dat vernietigt het veld van de spoel buiten de
+afscherming. Dit gaat ten koste van de zelfinductie die door de afscherming kleiner wordt.
+Afscherming kan ook met hoogpermeabel materiaal zoals ferriet.
+6.3.7 Spoelkernen
+Een transformator of smoorspoel voor lage frequenties heeft een vaste ijzerkern van
+onderling geïsoleerde lamellen die voorkomen dat er in de elektrisch geleidende kern
+stromen gaan lopen die tot verliezen (en een warme of hete trafo) leiden.
+Zo’n kern geleidt het magnetisch veld, zodat het nauwelijks buiten de trafo komt en de
+energieoverdracht zo hoog mogelijk is.
+Bij hoogfrequentspoelen dient de kern meestal om de zelfinductie te regelen. Die kan dan
+verder of minder ver het spoellichaam worden ingeschroefd. Uitzondering:
+ringkernspoelen, waarbij de permeabele ring het magnetische veld vrijwel helemaal
+binnen de spoel houdt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4 Opgaven
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.1 Opgave 6-1
+Twee transformatoren worden geschakeld als hieronder aangegeven.
+
+60 V
+
+u1
+
+u2
+
+30:1
+
+1:15
+
+De spanning u2 bedraagt
+A. 240 V
+B. 120 V
+C. 15 V
+D. 30 V
+(Examen voorjaar 2001, 7-09-2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.2 Opgave 6-2
+Iemand wil een gloeilamp van 12 V/10 W voeden uit het 230 V-net. Er staan twee gelijke
+transformatoren ter beschikking van elk primair 230V en secundair 6V /1A.
+
+De juiste schakeling is
+A. Schakeling 3
+B. Schakeling 1
+C. Schakeling 4
+D. Schakeling 2
+(F-examen November 2012, 7-09-2016,)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-12
+
+VRZA-cursus radiozendamateur
+
+6.4.3
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Opgave 6-3
+
+Om de lamp maximaal te laten branden moet de wikkelverhouding van de
+aanpassingstrafo zijn:
+A. 2:1
+B. 4:1
+C. 1:1
+D. 8:1
+(F-examen november 2008 (2), juni 2009, september 2009 (1), augustus 2011, januari 2013,
+november 2014 (2), 1-03-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-13
+
+VRZA-cursus radiozendamateur
+
+6.4.4
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Opgave 6-4
+
+i =2A
+
+220 V
+12 V
+
+Uit het lichtnet wordt 50 watt opgenomen. Het rendement van de omlijnde schakeling is
+dan
+A. 96%
+B. 48%
+C. 24%
+D. 12%
+(F-examen november 2015, 06-09-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.5 Opgave 6-5
+De impedantie Z is
+A. 50 
+B. 100 
+C. 400 
+D. 800 
+
+(F-examen mei 2017 (1), 10-01-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.6 Opgave 6-6
+Een ideale transformator is belast zoals hieronder aangegeven.
+
+De stroom i2 is
+A. 1 A
+B. 4 A
+C. 2A
+D. 0,5 A
+
+(F-examen voorjaar 2003, april 2008, december 2008, november 2009 (1), mei 2011 (2),
+september 2009 (1 en 2), mei 2012 (1 en 2), september 2014, 16-05-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-16
+
+VRZA-cursus radiozendamateur
+
+6.4.7
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Opgave 6-7
+
+In de weerstand wordt een vermogen van 1 W gedissipeerd.
+I1 is dan:
+A. 200 mA
+B. 50 mA
+C. 25 mA
+D. 100 mA
+(F-examen voorjaar 2007, februari 2010 (1), november 2010 (2), maart 2011 (1 en 2), juli
+2011, september 2011 (1), november 2014 (1), 16-05-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.8 Opgave 6-8
+Iemand wil een gloeilamp van 6 V/10 W voeden uit het 230V net. Er staan twee gelijke
+transformatoren ter beschikking van elk primair 115 V en secundair 6 V/1 A.
+
+De juiste schakeling is:
+A. Schakeling 2
+B. Schakeling 1
+C. Schakeling 3
+D. Schakeling 4
+(F-examen voorjaar 2000, voorjaar 2005, februari 2010 (2), november 2011, november
+2015, mei 2018 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.9 Opgave 6-9
+Een variac is in principe een autotransformator. De knop van de variac wordt zodanig
+gedraaid, dat n1 = 100 windingen en n2 = 200 windingen.
+
+U1 is dan
+A. 48 V
+B. 240 V
+C. 60 V
+D. 80 V
+(F-examen najaar 2007, maart 2009 (1), augustus 2011, 07-11-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.10 Opgave 6-10
+De verliesvrije transformator is belast met een weerstand.
+De stroom door de weerstand is:
+
+A. 3 A
+B. 6 A
+C. 0,75 A
+D. 1,5 A
+
+(F-examen september 2010 (1 en 2), november 2013 (1), januari 2018, 09-01-2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.11 Opgave 6-11
+De primaire wikkeling van een transformator heeft 100 windingen. De secundaire
+wikkeling heeft 500 windingen.
+Op de primaire wikkeling wordt een wisselspanning van 10 V aangesloten. De
+wisselspanning op de secundaire wikkeling is:
+A. 250 V
+B. 10√5 V
+C. 50 V
+D. 2 V
+
+(F-examen januari 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.12 Opgave 6-12
+De impedantie Z bedraagt
+
+A. 10 k
+B. 1 k
+C. 1 
+D. 100 
+
+(F-examen oktober 2008, december 2008, juli 2009, december 2010, mei 2011 (2), mei
+2012 (1), augustus 2013, november 2014 (2), mei 2015 (2), 09-01-20190)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.13 Opgave 6-13
+De transformator heeft twee gelijke wikkelingen. De impedantie Z voor wisselstroom is:
+
+A. 100 
+B. 400 
+C. 200 
+D. 50 
+(F-examen voorjaar 2002, september 2014 (2), 06-03-2019, mei 2019 (1)))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.14 Opgave 6-14
+Om een audiotransformator wordt soms een weekijzeren afschermbus geplaatst. Het
+weekijzer:
+A. Verstrooit het magnetisch veld
+B. Reflecteert het magnetisch veld
+C. Is een geleider voor het magnetisch veld
+D. Schermt wel het elektrisch, maar niet het magnetisch veld af
+(F-examen voorjaar 2001)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.15 Opgave 6-15
+De spanning U heeft een frequentie van 1 MHz. Om spoel Y af te schermen van spoel X,
+dient men
+
+A. Een ijzerkern aan te brengen in spoel X
+B. Een ijzerkern aan te brengen in beide spoelen
+C. Een koperkern aan te brengen in spoel Y
+D. Spoel X in een koperen bus te plaatsen
+(F-examen voorjaar 2002, juni 2013, januari 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.16 Opgave 6-16
+In transformatoren worden ijzerkernen toegepast. De ijzeren lamellen die de kern
+vormen, worden onderling geïsoleerd. Dit isoleren heeft tot doel, de:
+A. Magnetische flux te versterken
+B. Kernverliezen te verkleinen
+C. Koppeling te versterken
+D. Transformatieverhouding te vergroten
+
+(F-examen voorjaar 2003)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.17 Opgave 6-17
+Om de zelfinductie van HF-spoelen te regelen, worden veelal ijzerkernen toegepast. Deze
+kernen bestaan bij voorkeur uit
+A. Massief zacht ijzer
+B. Geïsoleerde ijzerplaatjes
+C. Samengeperst zuiver ijzerpoeder
+D. Samengeperste geïsoleerde ijzerpoederdeeltjes
+
+(F-examen voorjaar 2005)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.18 Opgave 6-18
+Bij een spoel neemt de verliesweerstand door het huid-effect (skin-effect) toe bij gebruik:
+A. Van draad met een hogere soortelijke weerstand
+B. Van draad met een dunnere isolatielaag
+C. Van spatie tussen de windingen
+D. Bij hogere frequenties
+(F-examen najaar 2006)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.19 Opgave 6-19
+De weerstandsverhoging door het huid-effect (skin-effect) is groter, wanneer
+A. De coëfficiënt van zelfinductie hoger is
+B. De stroom door de spoel groter is
+C. De frequentie hoger is
+D. De isolatie dikker is
+
+(F-examen voorjaar 2001)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.20 Opgave 6-20
+Om de gevolgen van het huideffect (skin-effect) te verminderen, kan een spoel in de
+eindtrap van een zender het best gewikkeld worden
+A. Van verzilverd koperdraad
+B. Van aluminiumdraad
+C. Van koperdraad
+D. Met ruimte (spatie) tussen de windingen
+
+(F-examen voorjaar 2004)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.21 Opgave 6-21
+Het aanbrengen van een poederijzerkern in een spoel die op 3,5 MHz wordt toegepast,
+heeft de volgende invloed
+A. Zelfinductie neemt af en Q-factor blijft gelijk
+B. Zelfinductie blijft gelijk en Q-factor neemt af
+C. Zelfinductie neemt af en Q-factor neemt toe
+D. Zelfinductie neemt toe en Q-factor neemt toe
+
+(F-examen maart 2011 (2), december 2011, november 2014 (1), maart 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.22 Opgave 6-22
+De werking van een aluminium afschermbus om een HF-spoel berust op
+A. Inductie van een stroom in de bus die een tegengesteld magnetisch veld opwekt
+B. Naar aarde afvoeren van magnetische veldlijnen
+C. Magnetische geleiding van aluminium
+D. Diamagnetische eigenschappen van aluminium
+
+(F-examen oktober 2008 (1), februari 2009, september 2009 (2), mei 2011 (1), augustus
+2011, maart 2016, mei 2018 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.23 Opgave 6-23
+Het aanbrengen van een geaarde aluminium bus om een spoel waardoor een HF
+wisselstroom loopt, heeft tot gevolg dat buiten de bus:
+A. Alleen het magnetisch veld wordt verkleind
+B. Alleen het elektrisch veld wordt verkleind
+C. Het elektrisch veld wordt verkleind en het magnetisch veld wordt versterkt
+D. Zowel het elektrisch als het magnetisch veld wordt verkleind
+
+(F-examen mei 2009 (2), maart 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.24 Opgave 6-24
+De spoelen zijn niet inductief gekoppeld. Een waarde van 200 mH wordt bereikt met:
+
+A. Geen der schakelingen
+B. Schakeling 1
+C. Schakeling 2
+D. Beide schakelingen
+
+(F-examen voorjaar 2000, april 2008)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.25 Opgave 6-25
+Een spoel van 10 mH wordt parallel geschakeld aan een spoel van 15 mH. De spoelen zijn
+niet inductief gekoppeld.
+Voor de vervangingswaarde L geldt:
+A. L ligt tussen 5 mH en 10 mH
+B. L ligt tussen 10 mH en 15 mH
+C. L is groter dan 15 mH
+D. L is kleiner dan 5 mH
+
+(F-examen november 2008 (1), maart 2010, mei 2015 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.26 Opgave 6-26
+Een spoel van 20 mH wordt parallel geschakeld aan een spoel van 30 mH. De spoelen zijn
+niet inductief gekoppeld.
+Voor de vervangingswaarde L geldt:
+A. L ligt tussen 25 mH en 30 mH
+B. L is groter dan 30 mH
+C. L ligt tussen 20 en 25 mH
+D. L is kleiner dan 20 mH
+
+(F-examen september 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.27 Opgave 6-27
+De spoelen zijn niet inductief gekoppeld. De zelfinductie tussen de punten X en Y is:
+
+A. 4 H
+B. 2 H
+C. 1 H
+D. 2,5 H
+
+(F-examen voorjaar 2001, mei 2009 (2), september 2009 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.28 Opgave 6-28
+De spoelen in de schakeling zijn niet gekoppeld. De
+zelfinductie tussen de punten P en Q is:
+A. 4 H
+B. 3 H
+C. 2 H
+D. 1 H
+
+(F-examen november 2009)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.29 Opgave 6-29
+De spoelen zijn niet gekoppeld. Welke schakeling heeft een vervangingszelfinductie van
+10 mH?
+
+A. Schakeling 2
+B. Schakeling 3
+C. Schakeling 1
+D. Schakeling 4
+
+(F-examen januari 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.30 Opgave 6-30
+L1, L2 en L3 zijn niet gekoppeld.
+
+It is:
+A. 10 mA
+B. 50 mA
+C. 5 mA
+D. 1 mA
+(F-examen december 2008)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.31 Opgave 6-31
+De primaire wikkeling van een transformator is aangesloten op een wisselspanning van
+230 V. De secundaire spanning bedraagt 23 volt.
+De wikkelverhouding N primair (Np) : N secundair (Ns) is:
+A. √100:1
+B. 100:1
+C. 10:1
+D. 1:10
+
+(F-examen najaar 2005, september 2009 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.32 Opgave 6-32
+Een transformator heeft primair 2000 windingen en secundair 1000 windingen. Indien de
+primaire spanning 230 volt bedraagt, is de secundaire spanning
+A. 55 V
+B. 115 V
+C. 155 V
+D. 460 V
+
+(F-examen november 2008 (2), mei 2009 (1), mei 2019 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.33 Opgave 6-33
+De primaire stroom I is:
+
+A. 500 mA
+B. 50 mA
+C. 25 mA
+D. 20 A
+(F-examen najaar 2003, oktober 2008, juni 2009, februari 2010 (2), april 2010, mei 2010
+(2), november 2012, september 2014 (1), mei 2015 (1), maart 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.34 Opgave 6-34
+Een ideale transformator heeft primair 500 windingen en secundair 100 windingen. De
+primaire stroom is ongeveer
+
+A. 0,2 A
+B. 0,04 A
+C. 1 A
+D. 5 A
+
+(F-examen najaar 2006, juli 2010, mei 2017 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.35 Opgave 6-35
+De stroom door de weerstand is
+
+A. 1 A
+B. 6 A
+C. 2 A
+D. 0,5 A
+(F-examen april 2010, september 2010 (1), December 2011, September 2014 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.36 Opgave 6-36
+De transformatoren zijn identiek en elk bedoeld voor primair 230 V, secundair 12 V, De
+spanning over de weerstand R is:
+
+A. 48 V
+B. 12 V
+C. 6 V
+D. 24 V
+
+(F-examen april 2009, augustus 2010, juni 2013 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.37 Opgave 6-37
+Een transformator met een primaire wikkeling van 1000 windingen wordt aangesloten op
+200 volt wisselspanning. De secundaire wikkeling heeft 200 windingen.
+De secundaire spanning is
+A. 100 V
+B. 1000 V
+C. 200/√5 V
+D. 40 V
+
+(F-examen mei 2009 (2), juni 2013 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.38 Opgave 6-38
+In de weerstand R1 wordt 2 watt en in de weerstand R2 wordt 20 watt gedissipeerd. De
+transformatoren zijn ideaal. De stroom i is:
+
+A. 100 mA
+B. 182 mA
+C. 9 mA
+D. 91 mA
+
+(F-examen najaar 2001, november 2008 (1), september 2010 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.39 Opgave 6-39
+De transformator is verliesvrij.
+Als de schakelaar in stand 1 staat, is de stroom door de ampèremeter 9 ampère. Zetten we
+de schakelaar in stand 2, dan is de stroom door de ampèremeter:
+
+A. 9 A
+B. 1,5 A
+C. 3 A
+D. 4,5 A
+(F-examen september 2009 (1), maart 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.40 Opgave 6-40
+Een variac is in principe een autotransformator.
+De knop van de variac wordt zodanig gedraaid dat n1 = 100 windingen en n2 = 200
+windingen.
+
+U1 is dan:
+A. 60 V
+B. 48 V
+C. 240 V
+D. 90 V
+(F-examen najaar 2007, maart 2009 (1), augustus 2011, november 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.41 Opgave 6-41
+De impedantie Z bedraagt:
+
+A. 10 k
+B. 1 k
+C. 1 
+D. 100 
+
+(F-examen oktober 2008, december 2008, juli 2009, december 2010, mei 2011 (2), mei
+2012 (1), augustus 2013, november 2014 (2), mei 2015 (2), januari 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.42 Opgave 6-42
+Een ideale transformator heeft een primaire wikkeling van 9 windingen en een secundaire
+van 3 windingen. Op de secundaire wikkeling wordt een condensator aangesloten van 90
+pF. Op de primaire wikkeling wordt een capaciteit gemeten van
+A. 30 pF
+B. 810 pF
+C. 270 pF
+D. 10 pF
+(F-examen voorjaar 1977, najaar 2004, november 2008 (1), januari 2009, mei 2009 (2),
+augustus 2009, februari 2010 (2), december 2010, maart 2012)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.43 Opgave 6-43
+De transformator heeft n1 = 20 windingen en n2 = 100 windingen. De ingangsimpedantie Z
+is:
+
+A. 24 
+B. 3 k
+C. 120 
+D. 15 k
+
+(F-examen november 2009, december 2011, augustus 2013, november 2013 (2), mei 2019
+(2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.44 Opgave 6-44
+Iemand wil een gloeilamp van 12 V/10 W voeden uit het 230V net. Er staan twee gelijke
+transformatoren ter beschikking van elk primair 115 V en secundair 6 V/1 A.
+
+De juiste schakeling is:
+A. Schakeling 2
+B. Schakeling 1
+C. Schakeling 3
+D. Schakeling 4
+(F-examen november 2008 (1 en 2), augustus 2011, mei 2016 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.45 Opgave 6-45
+Bij een spoel neemt de verliesweerstand door het huideffect (skin effect) toe bij gebruik:
+A. Van draad met een lagere soortelijke weerstand
+B. Van draad met een dunne isolatielaag
+C. Van spatie tussen de windingen
+D. Bij hogere frequenties
+
+(F-examen najaar 2006)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.46 Opgave 6-46
+De werking van een geaarde aluminium afschermbus om een HF-spoel berust op
+A. Inductie van een stroom in de bus die een tegengesteld magnetisch veld opwekt
+B. Naar aarde afvoeren van magnetische veldlijnen
+C. Magnetische geleiding van aluminium
+D. Diamagnetische eigenschappen van aluminium
+
+(F-examen oktober 2008 (1), februari 2009, september 2009 (2), mei 2011 (1), augustus
+2011, maart 2016, mei 2018 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.47 Opgave 6-47
+De primaire stroom I is
+A. 500 mA
+B. 50 mA
+C. 25 mA
+D. 20 A
+
+(F-examen najaar 2003, augustus 2008, juni 2009, februari 2010 (2), april 2010, mei 2010
+(2), november 2012, september 2014 (1), mei 2015 (1), september 2015, maart 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.48 Opgave 6-48
+Een luidspreker met een impedantie van 8 ohm wordt via een aanpassingstransformator
+aangesloten op een versterker die belast moet worden met 800 ohm.
+De beste aanpassing wordt verkregen met een transformator:
+A. 220 V / 24 V
+B. 220 V / 2,5 V
+C. 220 V / 3 V – 5 V – 8 V
+D. 220 V / 127 V
+
+(F-examen maart 2010, mei 2010 (2), december 2010, maart 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.49 Opgave 6-49
+Een luidspreker met een impedantie van 6 ohm wordt via een aanpassingstransformator
+aangesloten op een versterker die belast moet worden met 600 ohm.
+De wikkelverhouding van de transformator moet zijn
+A. 10:1
+B. 10 000:1
+C. 100:1
+D. 60:1
+
+(F-examen maart 2010, mei 2010 (2), december 2010, maart 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.4.50 Opgave 6-50
+Een van deze toepassingen van een transformator is niet juist:
+A. Aanpassen van antenne aan kabel
+B. Wijzigen van wisselspanning
+C. Versterken van vermogen
+D. Koppelen van versterkertrappen
+
+(F-examen april 2009, februari 2010 (1))
+
+Antwoord A hebben we in dit stadium nog niet gehad, maar het komt neer op
+impedantieaanpassing.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5 Uitwerkingen
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.1 Uitwerking van Opgave 6-1
+Twee transformatoren worden geschakeld als hieronder aangegeven.
+
+60 V
+
+u1
+
+u2
+
+30:1
+
+1:15
+
+De spanning u2 bedraagt
+A. 240 V
+B. 120 V
+C. 15 V
+D. 30 V
+Analyse en uitwerking
+De spanningen over de primaire en de secundaire van een trafo verhouden zich volgens de
+wikkelverhouding. De 60 V (u1) van de wisselstroombron links wordt in de linker trafo
+omlaaggetransformeerd met een factor 30. Over de secundaire staat dus 2 V. Die 2 V
+wordt in de rechter trafo omhooggetransformeerd met een factor 15. Dus u2 = 30 V:
+antwoord D.
+Alternatief
+In schakelingen met twee transformatoren achter elkaar kun je ook eerst de
+wikkelverhoudingen op elkaar delen. Dat wordt dan
+𝑢2 =
+
+15
+15.60
+𝑢1 =
+V = 30 V
+30
+30
+
+Vanzelfsprekend opnieuw antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.2 Uitwerking van Opgave 6-2
+Iemand wil een gloeilamp van 12 V/10 W voeden uit het 230 V net. Er staan twee gelijke
+transformatoren ter beschikking van elk primair 230V en secundair 6V /1A.
+
+De juiste schakeling is
+A. Schakeling 3
+B. Schakeling 1
+C. Schakeling 4
+D. Schakeling 2
+Analyse en uitwerking
+Beide trafo’s hebben een primaire wikkeling voor 230 V. De primaire wikkelingen van
+beide trafo’s moeten daarom parallel staan. Alleen bij schakeling 3 en 4 is dat het geval.
+Schakeling 1 en 2 vallen dus af. De secundaire wikkelingen moeten in serie staan, want ze
+geven beide 6 V en er is 12 V nodig. In schakeling 4 staan ze parallel en geven samen 6 V.
+In schakeling 3 staan ze in serie en geven dan de gewenste 12 V: antwoord A
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-63
+
+VRZA-cursus radiozendamateur
+
+6.5.3
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Uitwerking van Opgave 6-3
+
+Om de lamp maximaal te laten branden moet de wikkelverhouding van de
+aanpassingstrafo zijn:
+A. 2:1
+B. 4:1
+C. 1:1
+D. 8:1
+Uitwerking 1
+Aan de primaire kant zien we een wisselspanningsbron van 200 V in serie met een
+weerstand van 1000  (of met een inwendige weerstand van 1000 ; dat maakt niets uit).
+Aan de secundaire kant vinden we een lamp van 25 V en 10 W. Om hier iets mee te
+kunnen, moeten we de grootheden in het primaire en secundaire circuit gelijk maken. Dat
+gaat eenvoudig met de lamp. Uit spanning en vermogen berekenen we de weerstand,
+waarna de wikkelverhouding te berekenen is uit de weerstand van de lamp en die in serie
+met de bron.
+Daar gaat-ie. Het verband tussen vermogen P, spanning U en weerstand R is P = U2/R.
+Dat kun je ook schrijven als R = U2/P en dan is het een kwestie van invullen. 252/10 = 62,5,
+dus R aan de secundaire kant is 62,5 . De weerstand moet dan met een factor 1000/62,5 =
+16 omlaag worden getransformeerd. Impedantie- en weerstandstransformatie gaat met de
+wortel uit de wikkelverhouding. We hebben dus te maken met √16 : 1 = 4:1, antwoord B.
+Uitwerking 2
+Een alternatieve uitwerking is gebaseerd op het uitgangspunt dat vermogensoverdracht
+maximaal is als de weerstanden (of impedanties) van de bron en die van het vermogen
+opnemende element gelijk zijn. Gezien vanuit de weerstand van 1000  moet de primaire
+van de transformator dan een weerstand van 1000  vertegenwoordigen. Dat geeft een
+spanningsdeler met 100 V over de primaire wikkeling en 100 V over de weerstand. Over
+de secundaire moet 25 V staan, want daarmee brandt de lamp het best. Dan is de
+wikkelverhouding 100V/25V:1 =4:1. Dezelfde uitkomst (en zo hoort het ook!).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-64
+
+VRZA-cursus radiozendamateur
+
+6.5.4
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Uitwerking van Opgave 6-4
+
+i =2A
+
+220 V
+12 V
+
+Uit het lichtnet wordt 50 watt opgenomen. Het rendement van de omlijnde schakeling is
+dan
+A. 96%
+B. 48%
+C. 24%
+D. 12%
+Uitwerking
+Het begrip rendement is behandeld in hoofdstuk 2. Het is het deel van het toegevoerde
+vermogen dat ten goede komt aan de (bedoelde) toepassing. Het wordt meestal uitgedrukt
+in %, zoals hier.
+Er gaat 50 W de schakeling in. De weerstanden onder de trafo geven de verliezen weer.
+Daarmee hoeven we niets te doen. De secundaire levert 12V bij 2A. Dat is 2*12 W is 24
+W. Van de uit het lichtnet toegevoerde 50 W blijft dus 24 W over. Het rendement is dan
+24/50 is 48%. Dat is antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.5 Uitwerking van Opgave 6-5
+De impedantie Z is
+A. 50 
+B. 100 
+C. 400 
+D. 800 
+Uitwerking
+De transformatieverhouding is gelijk aan het kwadraat van de wikkelverhouding. Stond er
+rechts een spanning, dan zouden we links de halve spanning terugvinden. Nu vinden we
+links een kwart van 200  terug, dat is 50 . Antwoord A is dus goed.
+Opmerking
+Die kwadratische verhouding is eenvoudig te begrijpen als we bedenken dat het vermogen
+bij transformatie via een ideale transformator gelijk blijft (bij een goede neemt het vrijwel
+niet af). De verhouding van spanning primair en secundair is gelijk aan de
+wikkelverhouding. Neem bijvoorbeeld een trafo met een wikkelverhouding van 3:1. De
+spanning wordt omlaag getransformeerd met een factor 3. De stroom wordt met diezelfde
+factor omhoog getransformeerd, dus het vermogen blijft gelijk. Een 3x zo kleine spanning
+bij een 3x zo grote stroom betekent een 9x zo kleine weerstand, impedantie of reactantie.
+Dat geldt voor alle transformatoren.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.6 Uitwerking van Opgave 6-6
+Een ideale transformator is belast zoals hieronder aangegeven.
+
+De stroom i2 is
+A. 1 A
+B. 4 A
+C. 2A
+D. 0,5 A
+
+Uitwerking
+De primaire spanning is 100 V, de secundaire 50 V. De secundaire stroom moet dan 2 maal
+zo groot zijn als de primaire, wil het vermogen dat er in de primaire in wordt gestopt, er
+op de secundaire onverminderd uitkomen. Bij een ideale trafo is dat zo, bij een goede nietideale trafo bijna zo.
+Als er op de primaire 1 A ingaat, moet er op de secundaire 2 A uitkomen. Antwoord D.
+Opmerking
+Voor de spanning worden in deze opgave ouderwetse symbolen gebruikt: e in plaats van
+U. Het gebruik van kleine kleine letters voor stroom en spanning, resp. i en e, is niet
+ongewoon als het om wisselstroom of -spanning gaat. Voor e zou je tegenwoordig u
+schrijven.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-67
+
+VRZA-cursus radiozendamateur
+
+6.5.7
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Uitwerking van Opgave 6-7
+
+In de weerstand wordt een vermogen van 1 W gedissipeerd.
+I1 is dan:
+A. 200 mA
+B. 50 mA
+C. 25 mA
+D. 100 mA
+Uitwerking
+We beginnen met de stroom aan de secundaire kant van de trafo. Die veroorzaakt in de
+weerstand van 400  een warmteontwikkeling ter waarde van 1 W.
+Omdat 𝑃 = 𝐼 2 𝑅, geldt 𝐼 = √𝑃⁄𝑅 en dus is I = √1⁄400 A =1⁄20 A = 50 mA.
+De wikkelverhouding is 1:2, wat betekent dat van primair naar secundair de spanning met
+een factor 2 wordt opgetransformeerd. 1 V primair wordt dus 2 V secundair. Met de
+stroom is het omgekeerd: 50 mA secundair wordt 100 mA aan de primaire kant. Dat is dan
+ook het antwoord. D dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.8 Uitwerking van Opgave 6-8
+Iemand wil een gloeilamp van 6 V/10 W voeden uit het 230V net. Er staan twee gelijke
+transformatoren ter beschikking van elk primair 115 V en secundair 6 V/1 A.
+
+De juiste schakeling is:
+A. Schakeling 2
+B. Schakeling 1
+C. Schakeling 3
+D. Schakeling 4
+Uitwerking
+Om geschikt te zijn voor het 230V net, moeten de primaire wikkelingen van 115 V in
+serie staan. Dan krijgen ze elk 115 V. De secundaire wikkelingen moeten dan parallel
+staan, want die leveren onder die omstandigheid de gevraagde 6 V. Dus primair in serie,
+secundair parallel. Wie van de vier voldoet?
+Schakeling 1: primair in serie, secundair in serie. Nee.
+Schakeling 2: primair in serie, secundair parallel. Ja. Toch even verder kijken, je weet het
+maar nooit.
+Schakeling 3: primair parallel, secundair in serie. Nee.
+Schakeling 4: primair parallel, secundair parallel. Nee.
+De winnaar is schakeling 2, antwoord A.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+Opmerking
+Deze opgave lijkt sterk op Opgave 6-2 (zelfde tekening). Toch is hij anders. Daarom is ook
+deze opgave volledig uitgewerkt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.9 Uitwerking van Opgave 6-9
+Een variac is in principe een autotransformator. De knop van de variac wordt zodanig
+gedraaid, dat n1 = 100 eindingen en n2 = 200 windingen.
+
+U1 is dan
+A. 48 V
+B. 240 V
+C. 60 V
+D. 80 V
+
+Uitwerking
+Het totale aantal windingen van de autotrafo is 100+200 = 300. Over 200 windingen staat
+160 V. Over 300 windingen staat dan 160. 300⁄200 V = 240 V. Dat is antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.10 Uitwerking van Opgave 6-10
+De verliesvrije transformator is belast met een weerstand.
+De stroom door de weerstand is:
+
+A. 3 A
+B. 6 A
+C. 0,75 A
+D. 1,5 A
+
+Uitwerking
+Als gevolg van de wikkelverhouding van 2:1 wordt de primaire spanning van 300 V
+getransformeerd naar 150 V. 150 V over 100  levert een stroom van 150⁄100 A = 1,5 𝐴,
+want 𝐼 = 𝑈⁄𝑅.
+Opmerkingen
+Het verwarrende aan deze opgave is dat er een weerstand in voorkomt en sommigen de
+neiging zullen hebben, een weerstandstransformatie uit te voeren met 4:1 in plaats van
+2:1. Dan kom je op het foute antwoord C.
+Als je de wikkelverhouding verkeerd om leest, kom je op antwoord B en als je niet op de
+wikkelverhouding let, misschien op A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.11 Uitwerking van Opgave 6-11
+De primaire wikkeling van een transformator heeft 100 windingen. De secundaire
+wikkeling heeft 500 windingen.
+Op de primaire wikkeling wordt een wisselspanning van 10 V aangesloten. De
+wisselspanning op de secundaire wikkeling is:
+A. 250 V
+B. 10√5 V
+C. 50 V
+D. 2 V
+Uitwerking
+De transformatieverhouding voor wisselspanning is gelijk aan de wikkelverhouding. Die is
+1:5 (primair : secundair). De secundaire spanning is dus 5*10 V is 50 V. Antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.12 Uitwerking van Opgave 6-12
+De impedantie Z bedraagt
+
+A. 10 k
+B. 1 k
+C. 1 
+D. 100 
+Uitwerking
+We beginnen met de wikkelverhouding; primair : secundair = n1 : n2 = 1000:100 = 10:1. De
+vraag kun je ook stellen als “hoe groot is de impedantie die een schakeling “ziet” als je
+hem aansluit op de primaire wikkeling?”. Bij spanningstransformatie is de
+transformatieverhouding gelijk aan de wikkelverhouding. Bij impedantietransformatie
+gaat het om het kwadraat van de wikkelverhouding. Het kwadraat van 10:1 is 100:1, dus
+het antwoord is Z=100*100  = 10 k. Dat is antwoord A.
+Opmerking
+Bij een transformatie als in het schema spreken we eigenlijk nooit over een weerstand,
+ook al staat er behalve een trafo alleen maar een weerstand in het schema. Het is eigenlijk
+altijd impedantie, al is het maar omdat de koppeling inductief is en dus alleen geldt voor
+wisselstroom.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.13 Uitwerking van Opgave 6-13
+De transformator heeft twee gelijke wikkelingen. De impedantie Z voor wisselstroom is:
+
+A. 100 
+B. 400 
+C. 200 
+D. 50 
+
+Uitwerking
+Dit is wat je noemt een instinker. Je bent al gauw geneigd tot antwoord A. Maar de twee
+weerstanden zijn via de 1:1 trafo gekoppeld en staan effectief parallel. Het wordt dus
+antwoord D!
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.14 Uitwerking van Opgave 6-14
+Om een audiotransformator wordt soms een weekijzeren afschermbus geplaatst. Het
+weekijzer:
+A. Verstrooit het magnetisch veld
+B. Reflecteert het magnetisch veld
+C. Is een geleider voor het magnetisch veld
+D. Schermt wel het elektrisch, maar niet het magnetisch veld af
+Uitwerking
+Weekwijzer heeft een hoge magnetische permeabiliteit, maar wordt nauwelijks zelf
+gemagnetiseerd, of liever: het verliest eventuele magnetisering razendsnel. Dat maakt het
+tot een goed afschermmateriaal voor wisselende magnetische velden, doordat het zulke
+velden geleidt. Antwoord C is dus goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.15 Uitwerking van Opgave 6-15
+De spanning U heeft een frequentie van 1 MHz. Om spoel Y af te schermen van spoel X,
+dient men
+
+A. Een ijzerkern aan te brengen in spoel X
+B. Een ijzerkern aan te brengen in beide spoelen
+C. Een koperkern aan te brengen in spoel Y
+D. Spoel X in een koperen bus te plaatsen
+Analyse en uitwerking
+De frequentie is 1 MHz. Bij die vrij hoge frequentie is afscherming met weekijzer niet
+meer aan de orde, omdat het materiaal deze snelle wisseling van polariteit niet “bijsloft”.
+Spoelkernen hebben niets met afscherming te maken, hoogstens met verandering van
+zelfinductie. Dan blijft vanzelf antwoord D over. De werking van een geleidende
+afschermbus -in plaats van koper kun je ook heel goed aluminium gebruiken- zit hem in
+het feit dat het snel veranderende magnetische veld van de spoel leidt tot een rondgaande
+wisselstroom in de bus die het magnetisch veld van de spoel buiten de bus neutraliseert.
+Opmerking
+Zo wordt een deel van de energie van het wisselende magnetische veld omgezet in
+warmte. Deze manier van afschermen vermindert de effectieve zelfinductie van de spoel
+en ook de Q van een eventuele afgestemde kring, waarvan de spoel deel uitmaakt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.16 Uitwerking van Opgave 6-16
+In transformatoren worden ijzerkernen toegepast. De ijzeren lamellen die de kern
+vormen, worden onderling geïsoleerd. Dit isoleren heeft tot doel, de:
+A. Magnetische flux te versterken
+B. Kernverliezen te verkleinen
+C. Koppeling te versterken
+D. Transformatieverhouding te vergroten
+Uitwerking
+De isolatie van de lamellen verandert nauwelijks iets aan de magnetische flux of de
+koppeling tussen de wikkelingen en niets aan de transformatieverhouding.
+De isolatie vermindert wel de kernverliezen. Om dat te begrijpen, moeten we bedenken
+dat ijzer niet alleen een goede geleider is voor een magnetisch veld, maar ook een heel
+goede elektrische geleider. Een veranderend magnetisch veld -en dat is bij wisselstroom
+voortdurend aan de orde- veroorzaakt stroom in een geleider. Dat is bij transformatoren
+ook de bedoeling, mits die geleider niet de kern is. Als de kern een blok ijzer is, ontstaan
+er in de kern ook stromen. Die leiden tot verhitting van de kern en niet tot
+energieoverdracht tussen primaire en secundaire wikkeling(en). Datzelfde proces speelt
+zich af bij een inductiekookplaat, waar het met opzet gebeurt. In deze opgave gaat het om
+de kernverliezen die zijn genoemd in antwoord B.
+De remedie is, de kern te laten bestaan uit dunne ijzerplaten (lamellen) die onderling zijn
+gescheiden door een dun isolerend laagje.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.17 Uitwerking van Opgave 6-17
+Om de zelfinductie van HF-spoelen te regelen, worden veelal ijzerkernen toegepast. Deze
+kernen bestaan bij voorkeur uit
+A. Massief zacht ijzer
+B. Geïsoleerde ijzerplaatjes
+C. Samengeperst zuiver ijzerpoeder
+D. Samengeperste geïsoleerde ijzerpoederdeeltjes
+Uitwerking
+Bij HF-spoelen mag de kern bij voorkeur niet geleidend zijn. Dat leidt tot (hoge)
+kernverliezen. Daarmee vallen de antwoorden A, B en C af. Dus ook C, want als je zuivere
+metaaldeeltjes samenperst, ontstaat ook een geleidend lichaam.
+Het enig juiste antwoord is dan ook D: samengeperste geïsoleerde ijzerpoederdeeltjes.
+Opmerking
+In massief ijzer (antwoord A) of in iets mindere mate in geïsoleerde ijzerplaatjes
+(antwoord B) ontstaat hetzelfde effect als in een inductiekookplaat.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.18 Uitwerking van Opgave 6-18
+Bij een spoel neemt de verliesweerstand door het skin-effect toe bij gebruik
+A. Van draad met een hogere soortelijke weerstand
+B. Van draad met een dunnere isolatielaag
+C. Van spatie tussen de windingen
+D. Bij hogere frequenties
+Uitwerking
+De soortelijke weerstand, isolatielagen, of ze nu uit lucht bestaan of iets anders, hebben
+niets te maken met het skin effect dat ook wel huideffect heet. Frequentie heeft dat wel:
+hoe hoger de frequentie, des te meer verplaatst de stroom zich naar het draadoppervlak.
+Gevolg: elektrisch gezien een kleinere effectieve doorsnede en dus een grotere
+(verlies)weerstand.
+Dat betekent antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.19 Uitwerking van Opgave 6-19
+De weerstandsverhoging door het huideffect (skin-effect) is groter, wanneer
+A. De coëfficiënt van zelfinductie hoger is
+B. De stroom door de spoel groter is
+C. De frequentie hoger is
+D. De isolatie dikker is
+Uitwerking
+De grootte van de zelfinductie, de stroomsterkte of de isolatie hebben niets met het
+huideffect te maken. Dat is alleen de frequentie: hoe hoger de frequentie, des te sterker is
+het huideffect. Dan houden we alleen antwoord C over.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.20 Uitwerking van Opgave 6-20
+Om de gevolgen van het huideffect (skin-effect) te verminderen, kan een spoel in de
+eindtrap van een zender het best gewikkeld worden
+A. Van verzilverd koperdraad
+B. Van aluminiumdraad
+C. Van koperdraad
+D. Met ruimte (spatie) tussen de windingen
+Uitwerking
+De beste manier om gevolgen van het huideffect te verminderen is een zo goed mogelijk
+geleidende buitenlaag van de draad. Het binnenste van de draad is van minder belang,
+omdat de meeste stroom nabij het draadoppervlak loopt. Het enige antwoord dat daarop
+inspeelt, is antwoord A, want zilver is een betere geleider dan aluminium of koper..
+Opmerking
+We zien hier geen litzedraad bij de antwoorden. Dat kan ook worden gebruikt -is zelfs
+beter dan verzilverd draad- mits het dik genoeg is, want in een zendereindtrap kunnen
+flinke stromen lopen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.21 Uitwerking van Opgave 6-21
+Het aanbrengen van een poederijzerkern in een spoel die op 3,5 MHz wordt toegepast,
+heeft de volgende invloed
+A. Zelfinductie neemt af en Q-factor blijft gelijk
+B. Zelfinductie blijft gelijk en Q-factor neemt af
+C. Zelfinductie neemt af en Q-factor neemt toe
+D. Zelfinductie neemt toe en Q-factor neemt toe
+Uitwerking
+In een massieve ijzerkern treden bij deze frequentie hoge verliezen op doordat een stuk
+ijzer niet gemakkelijk in een tempo van 3,5 MHz zijn polarisatie kan omkeren. Dat leidt
+tot flinke verliezer en een lage Q. De geleiding van het materiaal vermindert bovendien
+de zelfinductie.
+Bij een poederijzerkern zoals in de opgave genoemd, ligt dat anders. De fijne ijzerdeeltjes
+laten zich gemakkelijk magnetiseren en ompolen en de ijzerverliezen zijn daardoor klein.
+Zo’n kern verhoogt wel de zelfinductie flink, daarmee ook de reactantie, maar de
+verliesweerstand niet of weinig. Het resultaat is een verhoogde zelfinductie en een
+verhoogde Q, dus antwoord D. Zie ook de opmerking.
+Opmerking
+Voor de kwaliteitsfactor Q geldt
+𝑄=
+
+𝑋𝐿 2𝜋𝑓𝐿
+=
+𝑅𝐿
+𝑅𝐿
+
+Daarin is RL de verliesweerstand.
+Als L als gevolg van het inbrengen van de kern flink toeneemt en RL niet of weinig
+afneemt, moet volgens deze vergelijking Q flink groter worden.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.22 Uitwerking van Opgave 6-22
+De werking van een aluminium afschermbus om een HF-spoel berust op
+A. Inductie van een stroom in de bus die een tegengesteld magnetisch veld opwekt
+B. Naar aarde afvoeren van magnetische veldlijnen
+C. Magnetische geleiding van aluminium
+D. Diamagnetische eigenschappen van aluminium
+
+Uitwerking
+De afscherming door een aluminium bus heeft alles te maken met wisselstromen in de bus
+die een elektrisch en magnetisch veld (E/M-veld) opbouwen dat tegengesteld is aan dat
+van de spoel en zo beide velden buiten de bus tenietdoet. Dat is dus antwoord A.
+Opmerkingen
+Magnetische veldlijnen lopen van pool naar pool en worden dus niet naar aarde
+afgevoerd.
+Aluminium heeft een magnetische permeabiliteit die ongeveer even groot is als die van
+lucht, dus een magnetisch veld geleiden (antwoord C) is niet aan de orde.
+Diamagnetisme is een interessant verschijnsel, maar in radiotoepassingen niet aan de orde.
+Een korte beschrijving vind je op https://nl.wikipedia.org/wiki/Diamagnetisme.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.23 Uitwerking van Opgave 6-23
+Het aanbrengen van een geaarde aluminium bus om een spoel waardoor een HF
+wisselstroom loopt, heeft tot gevolg dat buiten de bus:
+A. Alleen het magnetisch veld wordt verkleind
+B. Alleen het elektrisch veld wordt verkleind
+C. Het elektrisch veld wordt verkleind en het magnetisch veld wordt versterkt
+D. Zowel het elektrisch als het magnetisch veld wordt verkleind
+Uitwerking
+In de aangebrachte bus wordt een stroom en spanning worden geïnduceerd die
+tegengesteld zijn aan de stroom in en de spanning over de spoel. Gevolg is, dat zowel het
+elektrische als het magnetische veld (aanzienlijk) worden verzwakt. Antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.24 Uitwerking van Opgave 6-24
+De spoelen zijn niet inductief gekoppeld. Een waarde van 200 mH wordt bereikt met:
+
+A. Geen der schakelingen
+B. Schakeling 1
+C. Schakeling 2
+D. Beide schakelingen
+
+Uitwerking
+Eerst een geheugenopfrisser.
+“Niet-inductief gekoppeld” betekent dat de spoelen onderling magnetisch zijn
+afgeschermd. Dan geldt voor n in serie geschakelde spoelen dat voor de
+vervangingswaarde Ltot de afzonderlijke zelfinductiewaarden moeten worden opgeteld:
+𝐿tot = 𝐿1 + 𝐿2 + ⋯ + 𝐿𝑛
+Dat is dus precies als bij weerstanden. Het vinden van de vervangingswaarde voor parallel
+geschakelde zelfinducties gaat ook net als bij parallel geschakelde weerstanden
+1
+1
+1
+1
+= + + ⋯+
+𝐿tot 𝐿1 𝐿2
+𝐿𝑛
+Bij parallel geschakelde en niet-inductief gekoppelde spoelen is het resultaat altijd kleiner
+dan de kleinste zelfinductie.
+Daarmee valt schakeling 2 meteen af, want met 180 mH in de parallelschakeling zul je
+nooit de 200 mH halen. Antwoorden C en D kloppen dus in geen geval.
+Nu schakeling 1. Als de parallelschakeling van 30 en 60 mH 20 mH oplevert, moet
+schakeling 1 de gevraagde 200 mH moeten opleveren, want 180+20=200.
+
+We gebruiken de verkorte vergelijking voor twee spoelen (die kennen we van de
+weerstanden):
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-86
+
+VRZA-cursus radiozendamateur
+
+𝐿tot =
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+𝐿1 𝐿2
+30.60
+=
+mH = 20 mH
+𝐿1 + 𝐿2 30 + 60
+
+En inderdaad, schakeling 2 is dus 200 mH. Dat wordt antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.25 Uitwerking van Opgave 6-25
+Een spoel van 10 mH wordt parallel geschakeld aan een spoel van 15 mH. De spoelen zijn
+niet inductief gekoppeld.
+Voor de vervangingswaarde L geldt:
+A. L ligt tussen 5 mH en 10 mH
+B. L ligt tussen 10 mH en 15 mH
+C. L is groter dan 15 mH
+D. L is kleiner dan 5 mH
+Uitwerking
+
+10 mH
+
+Misschien is het goed, eerst een tekening te maken. Dat geeft een
+wat duidelijker beeld. Hoewel niet de exacte vervangingswaarde
+15 mH
+wordt gevraagd, is het toch beter om die uit te rekenen. Dat die
+waarde kleiner moet zijn dan de kleinste, dus minder dan 10 mH, is wel duidelijk, maar
+dan houden we nog altijd de antwoorden A en D over. Dus:
+𝐿=
+
+10.15
+150
+mH =
+mH = 6 mH
+10 + 15
+25
+
+Dan is antwoord A dus goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.26 Uitwerking van Opgave 6-26
+Een spoel van 20 mH wordt parallel geschakeld aan een spoel van 30 mH. De spoelen zijn
+niet inductief gekoppeld.
+Voor de vervangingswaarde L geldt:
+A. L ligt tussen 25 mH en 30 mH
+B. L is groter dan 30 mH
+C. L ligt tussen 20 en 25 mH
+D. L is kleiner dan 20 mH
+Uitwerking
+We laten weer een tekening zien, maar eigenlijk is dat niet eens
+nodig. Je kunt deze ook beredeneren. L moet kleiner zijn dan de
+kleinste zelfinductie in de schakeling, dus kleiner dan 20 mH.
+
+20 mH
+30 mH
+
+Er is maar één antwoord dat een waarde kleiner dan 20 mH geeft
+en dat is antwoord D.
+Opmerking
+Als je dit soort regeltjes in je hoofd hebt, kun je sommige opgaven snel afhandelen.
+Daardoor blijft meer tijd over voor opgaven die wel rekenwerk vragen..
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.27 Uitwerking van Opgave 6-27
+De spoelen zijn niet inductief gekoppeld. De zelfinductie tussen de punten X en Y is:
+
+E. 4 H
+F. 2 H
+G. 1 H
+H. 2,5 H
+Uitwerking
+We zien een serieschakeling van twee keer 1H, parallel aan 2 H.
+De serieschakeling is 2 H. Die staat parallel aan opnieuw 2 H. Samen 1 H, antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.28 Uitwerking van Opgave 6-28
+De spoelen in de schakeling zijn niet gekoppeld. De
+zelfinductie tussen de punten P en Q is:
+A. 4 H
+B. 3 H
+C. 2 H
+D. 1 H
+
+Uitwerking
+We hebben te maken met een serieschakeling van 1 H, 2
+H en opnieuw 1 H, samen 4 H.
+Die 4 H staat parallel aan nog eens 4 H. Dat levert een vervangingswaarde op van 2 H.
+Antwoord C is dus goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.29 Uitwerking van Opgave 6-29
+De spoelen zijn niet gekoppeld. Welke schakeling heeft een vervangingszelfinductie van
+10 mH?
+
+A. Schakeling 2
+B. Schakeling 3
+C. Schakeling 1
+D. Schakeling 4
+Uitwerking
+We lopen ze allemaal maar af.
+Schakeling 1 : 15 mH en 5 mH in serie: 20 mH. Dit is hem niet.
+Schakeling 2: De parallelschakeling van 3 en 7 mH levert een waarde van minder dan 3
+mH. Samen met de 5 mH haalt dat de 10 mH niet. Ook deze is niet de gezochte.
+Schakeling 3: 7 en 13 mH in serie is samen 20 mH. Dat parallel aan nog eens 20 mH is 10
+mH. Die moet hem zijn, maar we bekijken voor de zekerheid nummer 4.
+Schakeling 4: hier moet minder dan 3 mH uit komen. We blijven bij schakeling 3,
+antwoord B.
+Opmerking
+Met een beetje oefening kun je dit bijna in één oogopslag zien.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.30 Uitwerking van Opgave 6-30
+L1, L2 en L3 zijn niet gekoppeld.
+
+It is:
+A. 10 mA
+B. 50 mA
+C. 5 mA
+D. 1 mA
+Uitwerking
+Het eerste dat nodig is, is de belasting van de wisselspanningsbron. We zien drie
+zelfinducties, waarvan twee van 10 mH parallel. Dat betekent een vervangingswaarde van
+5 mH. Die staat in serie met weer 5 mH. Samen weer 10 mH (wie verzint zoiets in een
+echte schakeling?).
+De reactantie is dan gelijk aan 2𝜋𝑓. 10 mH = 106 . 10. 10−3  = 104  = 10 k.
+Over die 10 k staat 50 V. Bij allebei een nul eraf (5 V over 1 k) en dat leidt tot 1 mA
+(het oude trucje: gebruik volts en kilo-ohms en je krijgt milliampères). Zonder trucs mag
+ook: 𝐼t = 𝑈⁄𝑋 = 50 V⁄10 000  = 0,005 A = 5 mA. Natuurlijk dezelfde uitkomst, anders
+was er iets mis geweest met de trucs. Antwoord C is het goede antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.31 Uitwerking van Opgave 6-31
+De primaire wikkeling van een transformator is aangesloten op een wisselspanning van
+230 V. De secundaire spanning bedraagt 23 volt.
+De wikkelverhouding N primair (Np) : N secundair (Ns) is:
+A. √100:1
+B. 100:1
+C. 10:1
+D. 1:10
+Uitwerking
+De wikkelverhouding van een trafo is gelijk aan de spanningsverhouding. De
+spanningsverhouding is op zijn beurt dus gelijk aan de wikkelverhouding. Primair hebben
+we 230 V, secundair 23 V. 23 V is 230 V/10. De wikkelverhouding is dan ook 230 : 230/10
+is 1: 1/10 is 10:1.
+Dat betekent dat antwoord C goed is, maar lees vooral de opmerking!
+Opmerking
+Maar…. Is C het enige goede antwoord? Wat te denken van antwoord A? √100 is ook 10,
+want 10.10 = 100. Hier is de maker van de examenopgave dus uit de bocht gevlogen. Bij
+een goed multiple choice-examen is maar één antwoord goed en de rest aantoonbaar fout.
+We hadden deze opgave natuurlijk weg kunnen laten. We hebben hem toch opgenomen
+omdat er bij elk examen wel eens wat verkeerd kan gaan. Meestal wordt dat na een
+examen wel ontdekt en dan vervalt zo’n vraag achteraf bij de foutentelling.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.32 Uitwerking van Opgave 6-32
+Een transformator heeft primair 2000 windingen en secundair 1000 windingen. Indien de
+primaire spanning 230 volt bedraagt, is de secundaire spanning
+A. 55 V
+B. 115 V
+C. 155 V
+D. 460 V
+Uitwerking
+De primaire en secundaire spanningen verhouden zich resp. als de aantallen primaire en
+secundaire windingen:
+𝑈1 𝑈2
+𝑁2
+=
+→ 𝑈2 = 𝑈1
+𝑁1 𝑁2
+𝑁1
+Hieruit volgt dat voor de secundaire spanning U2 geldt
+𝑈2 = 𝑈1
+
+𝑁2
+1000
+= 230 V
+= 115 V
+𝑁1
+2000
+
+Antwoord B is het juiste antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.33 Uitwerking van Opgave 6-33
+
+A. 500 mA
+B. 50 mA
+C. 25 mA
+D. 20 A
+
+Uitwerking
+De secundaire stroom volgt uit de spanning van 12 V en de weerstand van 12 . Uitkomst:
+12 V / 12  = 1 A.
+De spanning over de primaire is 240 V, dat is 20 maal de spanning over de primaire. De
+wet van behoud van energie (en als er onderweg geen energieopslag is, ook behoud van
+vermogen) zegt dat er primair evenveel vermogen ingaat als er secundair weer uitkomt.
+Bij een 20 keer zo hoge spanning betekent dat ook een 20 keer zo lage stroom, dus 1/20 A
+is 50 mA. Antwoord B is prijswinnaar..
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.34 Uitwerking van Opgave 6-34
+Een ideale transformator heeft primair 500 windingen en secundair 100 windingen. De
+primaire stroom is ongeveer
+
+A. 0,2 A
+B. 0,04 A
+C. 1 A
+D. 5 A
+Uitwerking
+Als er 220 V over de primaire staat, moet er bij de gegeven wikkelverhouding 1/5 van 220
+V over de secundaire staan. De primaire stroom is dan 1/5 maal de secundaire stroom, is
+0,2 A, want de vermogens aan de primaire en aan de secundaire kant moeten gelijk zijn.
+Dat wordt deze keer antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.35 Uitwerking van Opgave 6-35
+De stroom door de weerstand is
+
+A. 1 A
+B. 6 A
+C. 2 A
+D. 0,5 A
+Uitwerking
+De wikkelverhouding is 4:1, dat wil zeggen op elke 4 primaire windingen één secundaire.
+Diezelfde verhouding geldt voor de spanningsverhouding. Als de spanning over de
+primaire 48 V is, die die over de secundaire 48 V/4 is 12 V.
+12 V over een weerstand van 24  leidt tot een stroom van 12 V / 24  = 0,5 A
+Antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.36 Uitwerking van Opgave 6-36
+De transformatoren zijn identiek en elk bedoeld voor primair 230 V, secundair 12 V, De
+spanning over de weerstand R is:
+
+A. 48 V
+B. 12 V
+C. 6 V
+D. 24 V
+Uitwerking
+Zowel de primaire als de secundaire wikkelingen staan in serie. Over de primaire
+wikkelingen staat daarom per transformator de helft van 230 V. Dan moeten de
+secundaire wikkelingen per stuk ook de helft van 12 V is 6 V geven, maar omdat ze in
+serie staan, geven ze samen weer 12 V. Antwoord B dus.
+Opmerking
+De dikke punten op de uiteinden van de wikkelingen geven aan dat die uiteinden
+onderling in fase zijn. Dat is een gebruikelijke aanduiding in schakelingen waarin dat niet
+op voorhand duidelijk is en waarin het noodzakelijk is om dat te weten. Dat is hier het
+geval.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.37 Uitwerking van Opgave 6-37
+Een transformator met een primaire wikkeling van 1000 windingen wordt aangesloten op
+200 volt wisselspanning. De secundaire wikkeling heeft 200 windingen.
+De secundaire spanning is
+A. 100 V
+B. 1000 V
+C. 200/√5 V
+D. 40 V
+
+Uitwerking
+De spanning is 200/1000 V per winding is 0,2 V per winding. Daarmee is de secundaire
+spanning 200 V per winding maal 200 windingen is 40 V.
+Deze uitwerking komt op hetzelfde neer als via de vergelijking
+𝑈2 = 𝑈1
+
+𝑁2
+200
+= 200 V
+= 40 V
+𝑁1
+1000
+
+In beide gevallen natuurlijk hetzelfde antwoord, namelijk D
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.38 Uitwerking van Opgave 6-38
+In de weerstand R1 wordt 2 watt en in de weerstand R2 wordt 20 watt gedissipeerd. De
+transformatoren zijn ideaal. De stroom i is:
+
+E. 100 mA
+F. 182 mA
+G. 9 mA
+H. 91 mA
+Uitwerking
+Dit vraagstuk draait om behoud van vermogen. Bij een ideale trafo gaat geen vermogen
+verloren. R1 dissipeert 2 W en R2 dissipeert 20 W, waarna er geen vermogen meer over is,
+want de stroom kan nergens anders naar toe.
+In totaal is er dus 22 W gedissipeerd. Die 22 W moet met een spanning van 220 V het
+systeem in komen. Omdat voor vermogen P geldt dat 𝑃 = 𝑢𝑖, geldt ook dat 𝑖 = 𝑃⁄𝑢 en is i
+gelijk aan 22/220 A. Dat is 0,1 A = 100 mA, antwoord A.
+Opmerking
+Voor wisselstroom is hier het symbool i in plaats van I gebruikt. Dat is niet ongebruikelijk
+als er onderscheid moet worden gemaakt tussen gelijk- en wisselstroom., maar het kan
+ook als er geen gelijkstroom aan te pas komt. Daarom hebben we in de uitwerking ook
+voor de spanning de kleine letter, dus het symbool u in plaats van U gebruikt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.39 Uitwerking van Opgave 6-39
+De transformator is verliesvrij.
+Als de schakelaar in stand 1 staat, is de stroom door de ampèremeter 9 ampère. Zetten we
+de schakelaar in stand 2, dan is de stroom door de ampèremeter:
+
+A. 9 A
+B. 1,5 A
+C. 3 A
+D. 4,5 A
+
+Uitwerking
+In stand 1 staat er 100  over de secundaire waarbij de stroom 9 A is. In stand 2 is de
+weerstand verdubbeld, 200  dus. Dan is de stroom secundair gehalveerd en primair ook,
+want het is een verliesvrije trafo. I is dus niet meer 9, maar 4,5 A. Antwoord D.
+Opmerking
+Dit is zo’n vraag waarbij je gemakkelijk in de verleiding komt, de zaken ingewikkelder te
+maken dan ze zijn. De transformatieverhouding van 1:3 is overbodig. Zelfs de
+weerstandwaarden zijn overbodig, zolang we maar weten dat 𝑅2 = 2𝑅1. Rookgordijnen,
+maar wel een test op inzicht.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.40 Uitwerking van Opgave 6-40
+Een variac is in principe een autotransformator.
+De knop van de variac wordt zodanig gedraaid dat n1 = 100 windingen en n2 = 200
+windingen.
+
+U1 is dan:
+A. 60 V
+B. 48 V
+C. 240 V
+D. 90 V
+
+Uitwerking
+Over n2 =200 windingen staat 160 V. Dat is 0,8 V per winding. U1 staat over 200 + 100
+windingen is 300 windingen. Daarmee is U1 = 300*0,8 V= 240 V.
+Het kan ook in 1 keer:
+𝑈1 =
+
+𝑛1 + 𝑛2
+. 160 V = 240 V
+𝑛2
+
+Antwoord C is het juiste antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.41 Uitwerking van Opgave 6-41
+De impedantie Z bedraagt:
+
+A. 10 k
+B. 1 k
+C. 1 
+D. 100 
+
+Uitwerking
+Let op dat de transformatie van weerstanden, impedanties en reactanties niet gaat met de
+wikkelverhouding, maar met het kwadraat ervan. Dat komt doordat spanningen worden
+getransformeerd met de wikkelverhouding en stromen met het omgekeerde daarvan. Dus:
+spanning maal 3 is stroom maal 1/3, om maar een getallenvoorbeeld te noemen.
+We hebben hier te maken met een wikkelverhouding van 10 primair tegen 1 secundair. Z
+is dus niet gelijk aan 10.100 , maar 102.100 . Dat is 10 k, antwoord A.
+Opmerking
+De instinker is natuurlijk antwoord B. Antwoord C ontstaat als je de
+transformatieverhouding verkeerd om neemt. Over D zullen we het maar niet hebben; die
+is wel erg fout.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.42 Uitwerking van Opgave 6-42
+Een ideale transformator heeft een primaire wikkeling van 9
+windingen en een secundaire van 3 windingen. Op de
+secundaire wikkeling wordt een condensator aangesloten van 90
+pF. Op de primaire wikkeling wordt een capaciteit gemeten van
+A. 30 pF
+B. 810 pF
+C. 270 pF
+D. 10 pF
+
+9:3
+
+C=?
+
+90 pF
+
+Uitwerking
+Hier moet worden bedacht dat transformatie van reactanties net zo gaat als bij
+weerstanden en impedanties. Het hangt van het soort reactantie af of het element dat de
+reactantie levert, op de andere wikkeling groter of kleiner lijkt.
+In dit vraagstuk wordt een reactantie op de secundaire getransformeerd naar de primaire
+en wel van een wikkeling van drie windingen naar één van 9 windingen.
+3:9 is hetzelfde als 1:3. Maar bij weerstanden, impedanties en reactanties hebben we te
+maken met het kwadraat van de wikkelverhouding. Dat betekent in dit geval 1 eenheid op
+3 windingen, 32 = 9 eenheden op 9 windingen. Een meetapparaat dat op de primaire is
+aangesloten “ziet” daarom in dit geval een 9 keer zo hoge reactantie als daadwerkelijk is
+aangesloten op de secundaire.
+Capaciteit is omgekeerd evenredig aan reactantie, want
+𝑋𝐶 =
+
+1
+2𝜋𝑓𝐶
+
+De capaciteit die op de primaire wordt gemeten is daarom 9 keer zo klein als de 90 pF die
+is aangesloten op de secundaire, dat is 10 pF. Antwoord D is daarom het juiste antwoord.
+Opmerking
+Dit is een wel erg onpraktisch vraagstuk. Een C-tje van 90 pF of nog sterker, 10 pF
+verwacht je in frequentiegebieden waarin geen ijzerkernen -zoals getekend- toepasbaar
+zijn. Dat hoge frequentiegebied mag blijken uit de aantallen windingen, 9 en 3. En als je
+een condensatortje van 10 pF (kosten: enkele centen) nodig hebt, ga je dat niet maken van
+90 pF met behulp van een “ideale” trafo. De “ideale amateur” in de bocht?
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.43 Uitwerking van Opgave 6-43
+De transformator heeft n1 = 20 windingen en n2 = 100 windingen. De ingangsimpedantie Z
+is:
+
+A. 24 
+B. 3 k
+C. 120 
+D. 15 k
+Uitwerking
+De wikkelverhouding primair : secundair is 20 : 100 = 1 : 5. Bij impedantietransformatie
+werk je altijd met het kwadraat van de wikkelverhouding, in dit geval 1:25.
+
+Z is dus 1/25 van 600  is 24 . Antwoord A is het goede antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.44 Uitwerking van Opgave 6-44
+Iemand wil een gloeilamp van 12 V/10 W voeden uit het 230V net. Er staan twee gelijke
+transformatoren ter beschikking van elk primair 115 V en secundair 6 V/1 A.
+
+De juiste schakeling is:
+A. Schakeling 2
+B. Schakeling 1
+C. Schakeling 3
+D. Schakeling 4
+Uitwerking
+Om de 230 V aan te kunnen, is het verstandig, de twee primaire wikkelingen in serie te
+zetten. Die krijgen dan elk netjes 115 V. De secundaire wikkelingen produceren dan elk 6
+V, dus die moeten ook in serie, anders krijgt de lamp een te lage spanning.
+Dan is meteen voorzien in de benodigde 10 W, want de trafo’s kunnen in deze schakeling
+samen 1 A leveren, wat bij 12 V 12 W betekent. Dat is ruim voldoende voor de lamp.
+Antwoord B is dus het juiste antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.45 Uitwerking van Opgave 6-45
+Bij een spoel neemt de verliesweerstand door het huideffect (skin effect) toe bij gebruik:
+A. Van draad met een lagere soortelijke weerstand
+B. Van draad met een dunne isolatielaag
+C. Van spatie tussen de windingen
+D. Bij hogere frequenties
+
+Uitwerking
+Het huid- of skin effect is het effect dat bij toenemende frequentie de stroom door een
+steeds dunnere laag langs het oppervlak van de geleider loopt. Dat betekent meer
+weerstand bij hogere frequenties. Antwoord D dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.46 Uitwerking van Opgave 6-46
+De werking van een geaarde aluminium afschermbus om een HF-spoel berust op
+A. Inductie van een stroom in de bus die een tegengesteld magnetisch veld opwekt
+B. Naar aarde afvoeren van magnetische veldlijnen
+C. Magnetische geleiding van aluminium
+D. Diamagnetische eigenschappen van aluminium
+
+Uitwerking
+In een aluminium afschermbus wordt een spanning geïnduceerd omdat de bus als een
+gesloten wikkeling om de spoel werkt. Daardoor wordt een magnetisch veld opgewekt dat
+tegengesteld is aan dat van de spoel zelf, zodat buiten de bus het veld niet waarneembaar
+is. Dit betekent dat antwoord A goed is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.47 Uitwerking van Opgave 6-47
+De primaire stroom I is
+A. 500 mA
+B. 50 mA
+C. 25 mA
+D. 20 A
+
+Uitwerking
+Als er geen vermogensverlies is en de trafo dus ideaal, verhouden de primaire en
+secundaire stroom zich als het omgekeerde van de verhouding van primaire en secundaire
+spanning.
+De primaire spanning is 20 maal zo groot als de secundaire spanning. Dan moet de
+primaire stroom 20 keer zo klein zijn als de secundaire stroom. De secundaire stroom is
+snel uitgerekend: 12 V over 12  leidt tot een stroom van 1 A. Dan is de primaire stroom I
+gelijk aan 1/20 van 1 A is 50 mA. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.48 Uitwerking van Opgave 6-48
+Een luidspreker met een impedantie van 8 ohm wordt via een aanpassingstransformator
+aangesloten op een versterker die belast moet worden met 800 ohm.
+De beste aanpassing wordt verkregen met een transformator:
+A. 220 V / 24 V
+B. 220 V / 2,5 V
+C. 220 V / 3 V – 5 V – 8 V
+D. 220 V / 127 V
+Uitwerking
+De trafo moet een impedantieverhouding leveren van 800:8 = 100:1. Omdat de
+impedantieverhouding het kwadraat is van de wikkelverhouding, moet de
+wikkelverhouding bij voorkeur 10:1 zijn (er gebeuren geen ongelukken bij kleine
+afwijkingen). De wikkelverhouding is gelijk aan de spanningsverhouding.
+De vraag kan daarmee worden teruggebracht tot: welk van de vier antwoorden komt het
+dichtst bij een spanningsverhouding van 10/1? We lopen ze allemaal na.
+Antwoord A is 9,2:1
+Antwoord B is 88:1
+Antwoord C is op zijn best 27,5:1
+Antwoord D is 1,97:1
+Antwoord A geeft duidelijk de beste benadering van 10:1.
+Opmerking
+In de praktijk wil je ook graag het maximale vermogen van de trafo weten, maar dat staat
+er niet bij.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.49 Uitwerking van Opgave 6-49
+Een luidspreker met een impedantie van 6 ohm wordt via een aanpassingstransformator
+aangesloten op een versterker die belast moet worden met 600 ohm.
+De wikkelverhouding van de
+transformator moet zijn
+A. 10:1
+B. 10 000:1
+C. 100:1
+D. 60:1
+
+Uitwerking
+De impedantieverhouding bij een trafo is het kwadraat van de wikkelverhouding. De
+impedantieverhouding in de figuur is 600:6 = 100:1. 100:1 is het kwadraat van 10:1. Dan is
+10:1 de wikkelverhouding. Dat betekent dat antwoord A goed is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 6. Examenopgaven 20220421
+
+6.5.50 Uitwerking van Opgave 6-50
+Een van deze toepassingen van een transformator is niet juist:
+A. Aanpassen van antenne aan kabel
+B. Wijzigen van wisselspanning
+C. Versterken van vermogen
+D. Koppelen van versterkertrappen
+Uitwerking
+Zoals al bij de opgave is gezegd: Antwoord A hebben we in dit stadium nog niet gehad,
+maar het komt neer op impedantieaanpassing.
+Dit is een kwestie van inzicht en van kennis van het eerste grondbeginsel van de
+natuurkunde: energie ontstaat niet uit het niets en verdwijnt niet in het niets. In een
+transformator wordt maar op één punt vermogen gestopt en dat moet er aan de andere
+kant weer uitkomen. In een transformator wordt dan ook niets versterkt. Het in dit geval
+enige foute antwoord is dan ook antwoord C.
+
+Einde van de examenopgaven bij hoofdstuk 6
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 6.4 uitgezonderd)
+
+6-113
+
+

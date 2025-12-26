@@ -1,0 +1,1771 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+Inhoudsopgave
+4
+
+32 uitgewerkte examenopgaven bij Hoofdstuk 4 .........................................................4-4
+4.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ..............4-4
+
+4.2
+
+Formularium ............................................................................................................4-5
+
+4.2.1
+
+Magnetische veldsterkte ..................................................................................4-5
+
+4.2.2
+
+Elektrische veldsterkte.....................................................................................4-5
+
+4.2.3
+
+Elektrische lading Q, stroom I en spanning U................................................4-5
+
+4.2.4
+
+Wat bepaalt de capaciteit van een condensator? ............................................4-6
+
+4.2.5
+
+Spoelen en zelfinductie ....................................................................................4-6
+
+4.2.6
+
+De tijdconstante  .............................................................................................4-6
+
+4.2.7
+
+Parallel- en serieschakeling van condensatoren.............................................4-7
+
+4.2.8
+
+Parallel- en serieschakeling van spoelen ........................................................4-8
+
+4.3
+
+Opgaven .................................................................................................................4-10
+
+4.3.1
+
+Opgave 4-1 ......................................................................................................4-11
+
+4.3.2
+
+Opgave 4-2 ......................................................................................................4-12
+
+4.3.3
+
+Opgave 4-3 ......................................................................................................4-13
+
+4.3.4
+
+Opgave 4-4 ......................................................................................................4-14
+
+4.3.5
+
+Opgave 4-5 ......................................................................................................4-15
+
+4.3.6
+
+Opgave 4-6 ......................................................................................................4-16
+
+4.3.7
+
+Opgave 4-7 ......................................................................................................4-17
+
+4.3.8
+
+Opgave 4-8 ......................................................................................................4-18
+
+4.3.9
+
+Opgave 4-9 ......................................................................................................4-19
+
+4.3.10 Opgave 4-10 ....................................................................................................4-20
+4.3.11 Opgave 4-11 ....................................................................................................4-21
+4.3.12 Opgave 4-12 ....................................................................................................4-22
+4.3.13 Opgave 4-13 ....................................................................................................4-23
+4.3.14 Opgave 4-14 ....................................................................................................4-24
+4.3.15 Opgave 4-15 ....................................................................................................4-25
+4.3.16 Opgave 4-16 ....................................................................................................4-26
+4.3.17 Opgave 4-17 ....................................................................................................4-27
+4.3.18 Opgave 4-18 ....................................................................................................4-28
+4-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.19 Opgave 4-19 ....................................................................................................4-29
+4.3.20 Opgave 4-20 ....................................................................................................4-30
+4.3.21 Opgave 4-21 ....................................................................................................4-31
+4.3.22 Opgave 4-22 ....................................................................................................4-32
+4.3.23 Opgave 4-23 ....................................................................................................4-33
+4.3.24 Opgave 4-24 ....................................................................................................4-34
+4.3.25 Opgave 4-25 ....................................................................................................4-35
+4.3.26 Opgave 4-26 ....................................................................................................4-36
+4.3.27 Opgave 4-27 ....................................................................................................4-37
+4.3.28 Opgave 4-28 ....................................................................................................4-38
+4.3.29 Opgave 4-29 ....................................................................................................4-39
+4.3.30 Opgave 4-30 ....................................................................................................4-40
+4.3.31 Opgave 4-31 ....................................................................................................4-41
+4.3.32 Opgave 4-32 ....................................................................................................4-42
+4.4
+
+Uitwerkingen .........................................................................................................4-43
+
+4.4.1
+
+Uitwerking van Opgave 4-1 ..........................................................................4-44
+
+4.4.2
+
+Uitwerking van Opgave 4-2 ..........................................................................4-45
+
+4.4.3
+
+Uitwerking van Opgave 4-3 ..........................................................................4-46
+
+4.4.4
+
+Uitwerking van Opgave 4-4 ..........................................................................4-47
+
+4.4.5
+
+Uitwerking van Opgave 4-5 ..........................................................................4-48
+
+4.4.6
+
+Uitwerking van Opgave 4-6 ..........................................................................4-49
+
+4.4.7
+
+Uitwerking van Opgave 4-7 ..........................................................................4-50
+
+4.4.8
+
+Uitwerking van Opgave 4-8 ..........................................................................4-51
+
+4.4.9
+
+Uitwerking van Opgave 4-9 ..........................................................................4-52
+
+4.4.10 Uitwerking van Opgave 4-10 ........................................................................4-53
+4.4.11 Uitwerking van Opgave 4-11 ........................................................................4-54
+4.4.12 Uitwerking van Opgave 4-12 ........................................................................4-55
+4.4.13 Uitwerking van Opgave 4-13 ........................................................................4-56
+4.4.14 Uitwerking van Opgave 4-14 .......................................................................4-57
+4.4.15 Uitwerking van Opgave 4-15 ........................................................................4-58
+4.4.16 Uitwerking van Opgave 4-16 ........................................................................4-59
+4.4.17 Uitwerking van Opgave 4-17 ........................................................................4-60
+4-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.18 Uitwerking van Opgave 4-18 ........................................................................4-61
+4.4.19 Uitwerking van Opgave 4-19 ........................................................................4-62
+4.4.20 Uitwerking van Opgave 4-20 ........................................................................4-63
+4.4.21 Uitwerking van Opgave 4-21 ........................................................................4-64
+4.4.22 Uitwerking van Opgave 4-22 ........................................................................4-65
+4.4.23 Uitwerking van Opgave 4-23 ........................................................................4-66
+4.4.24 Uitwerking van Opgave 4-24 ........................................................................4-67
+4.4.25 Uitwerking van Opgave 4-25 ........................................................................4-68
+4.4.26 Uitwerking van Opgave 4-26 ........................................................................4-69
+4.4.27 Uitwerking van Opgave 4-27 ........................................................................4-71
+4.4.28 Uitwerking van Opgave 4-28 ........................................................................4-72
+4.4.29 Uitwerking van Opgave 4-29 ........................................................................4-73
+4.4.30 Uitwerking van Opgave 4-30 ........................................................................4-74
+4.4.31 Uitwerking van Opgave 4-32 ........................................................................4-75
+
+4-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4 32 uitgewerkte examenopgaven bij Hoofdstuk 4
+4.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van dit hoofdstuk is dat je de kennis die je in cursushoofdstuk 3
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is niet de bedoeling, maar ook
+niet verboden, om te proberen het examen te halen door je enkel te trainen met
+examenvragen. Er bestaan mensen die op die manier het examen hebben gehaald. Die
+manier is zacht gezegd nogal tijdrovend en de slagingskans niet groot. Bedenk dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in dit deel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Die kun je zo
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Die begint met de opgave en het goede
+antwoord vetgedrukt. Daarna volgt een uitwerking, soms gevolgd door wat opmerkingen.
+De uitwerking hoeft niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere
+weg ook tot een goed antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave zonder uitwerking. Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking
+bij de volgende opgave. Voor wie slecht kleuren ziet: bij elke pijl staat ook tekst.
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 3.4.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”). We raden aan, dit eerst door te nemen.
+4-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.2 Formularium
+4.2.1 Magnetische veldsterkte
+De eenheid is ampère per meter, A/m of Am-1. Het symbool is H. Een stroomvoerende
+spoel heeft een aaneengesloten magnetisch veld binnen en buiten de spoel. Een enkele
+draad heeft een magnetisch veld met veldlijnen rondom de draad. Linksom als de
+technische stroomrichting naar je toe is, rechtsom als deze van je af is. Dit laatste is geen
+exameneis meer, maar opgaven komen soms nog voor.
+4.2.2 Elektrische veldsterkte
+De eenheid is volt per meter, V/m of Vm-1. Het symbool is E.
+Een elektrisch veld ontstaat bij aanwezigheid van een positieve en een negatieve lading,
+bijvoorbeeld twee platen van een condensator. Vergelijking:
+𝑈
+𝑑
+
+𝐸=
+
+Daarin is U de spanning tussen de ladingen en d de afstand tussen de geladen platen.
+4.2.3 Elektrische lading Q, stroom I en spanning U
+In hoofdstuk 3 vonden we het verband
+𝐼=
+
+𝑄
+𝑡
+
+Of in woorden: stroom is lading per tijd.
+De spanning U over een condensator is evenredig met de lading Q en omgekeerd
+evenredig met de capaciteit C
+𝑈=
+
+𝑄
+𝐶
+
+Dat is hetzelfde als
+𝑄 = 𝑈𝐶
+En in de vorm van de van hoofdstuk 3 bekende driehoek wordt dat:
+
+Q
+U . C
+
+4-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.2.4 Wat bepaalt de capaciteit van een condensator?
+De capaciteit van een condensator is evenredig met de oppervlakte A van de platen, de
+diëlektrische constante (permittiviteit) εr van het diëlektricum dat ook wel middenstof
+wordt genoemd en omgekeerd evenredig met de plaatafstand d:
+𝐶 = 0,0855𝜀𝑟
+
+𝐴
+𝑑
+
+De grootheid C staat hier in pF, dus 10-12 F. F staat voor farad (naar de Engelse
+natuurkundige Michael Faraday, vandaar de hoofdletter).
+Een condensator van 1 F heeft een spanning van 1 V bij een lading van 1 coulomb. De
+eenheid farad is (veel) te groot voor gebruikelijke elektronische toepassingen, vandaar het
+gebruik van pF tot en met F.
+4.2.5 Spoelen en zelfinductie
+De eenheid van zelfinductie is de henry, symbool H. De grootheid zelfinductie, symbool
+L, wordt ook wel coëfficiënt van zelfinductie genoemd.
+Sluit een spanning van 1 V aan op een spoel van 1 H en de stroomsterkte I verandert met
+1 A/s. Als de beginstroom 0 is, geldt voor de stroom I na t seconden
+𝐼=
+
+𝑈𝑡
+𝐿
+
+De zelfinductie van een spoel is evenredig met de doorsnede A (let op: doorsnede is
+oppervlakte; niet te verwarren met diameter die 2 keer de straal is), de magnetische
+permeabiliteit  en het kwadraat van het aantal windingen n en omgekeerd evenredig met
+de lengte l. Voor een spoel die in één laag is gewikkeld, geldt
+𝜇0 𝜇 𝑟 𝑛 2 𝐴
+𝐿=
+𝑙
+De twee symbolen  vragen uitleg. 0 is de permeabiliteit van luchtledig (vacuüm). De
+grootheid r is het aantal malen dat de permeabiliteit van het diëlectricum groter is dan
+die van vacuüm. Het is de relatieve diëlektrische constante, vandaar de letter r. De
+relatieve diëlektrische constante van lucht is vrijwel gelijk aan 1.
+4.2.6 De tijdconstante 
+De tijdconstante beschrijft de snelheid waarmee een condensator zich ontlaadt via een
+weerstand of de stroom door een kortgesloten serieschakeling van een spoel en een
+weerstand uitdooft. We doen eerst de condensator (zie plaatje)
+
+4-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+Voor de tijdconstante  die wordt uitgedrukt in seconden geldt
+𝜏 = 𝑅𝐶
+Voor het opladen geldt dat na een tijd  de spanning over C 63,2% (1-36,8%) van zijn
+eindwaarde heeft bereikt. Bij het ontladen geldt dat na een tijd  de spanning over C nog
+36,8 % van zijn oorspronkelijke waarde over heeft. De 36,8% wordt vaak afgerond op
+37%. Laad- en ontlaadgrafieken en oscilloscoopgrafieken staat in het cursusboek.
+Bij een zelfinductie (spoel) is het niet de spanning, maar de stroom die zich opbouwt en
+uitdooft. Zie het plaatje hieronder. De diode is de vonkblusdiode (meer in het cursusboek)
+
+De vergelijking voor de tijdconstante bij een RL-schakeling is
+
+=
+
+𝐿
+𝑅
+
+Het verhaal van opbouw en uitdoven is hetzelfde als voor de RC-schakeling, maar heeft
+nu betrekking op de stroom. Ook hiervoor staan grafieken in de cursustekst. Ze zien er
+precies zo uit als die voor de RC-schakeling en ook hier geldt de 36,8% (37%).
+4.2.7 Parallel- en serieschakeling van condensatoren
+Net als weerstanden zijn condensatoren parallel of in serie te schakelen met als resultaat
+een vervangingswaarde van de capaciteiten. De berekening is alleen andersom ten
+opzichte van die bij weerstanden. Bij parallelschakeling van condensatoren worden de
+capaciteiten opgeteld om de vervangende capaciteit te vinden en bij serieschakeling de
+omgekeerde waarden van de capaciteiten om de omgekeerde waarde van de vervangende
+capaciteit te vinden. Parallelschakeling als schema:
+4-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+En als vergelijking:
+𝐶𝑡𝑜𝑡 = 𝐶1 + 𝐶2 + 𝐶3 + ⋯ + 𝐶𝑛
+Serieschakeling als schema:
+S
++
+U
+
+C1
+
+C2
+
+C3
+
+Cn
+
+-
+
+En als vergelijking:
+1
+1
+1
+1
+1
+= + + +⋯
+𝐶𝑡𝑜𝑡 𝐶1 𝐶2 𝐶3
+𝐶𝑛
+4.2.8 Parallel- en serieschakeling van spoelen
+Voor spoelen gaat het net als bij weerstanden. Ze moeten dan wel onderling magnetisch
+zijn afgeschermd:
+Parallel geschakelde spoelen in schematekening (met vonkblusdiode getekend)
+
+Een als vergelijking:
+1
+𝐿𝑡𝑜𝑡
+
+=
+
+1
+1
+1
+1
++ + + ⋯+
+𝐿1 𝐿2 𝐿3
+𝐿𝑛
+
+In serie geschakelde spoelen, getekend met afscherming en met vonkblusdiode:
+
+4-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+S
+L1
+
+L2
+
+L3
+
++
+U
+-
+
+En als vergelijking
+𝐿𝑡𝑜𝑡 = 𝐿1 + 𝐿2 + 𝐿3 + ⋯ + 𝐿𝑛
+
+4-9
+
+Ln
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3 Opgaven
+
+4-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.1 Opgave 4-1
+Een in een enkele laag gewikkelde spoel wordt vervangen door een spoel die 10% langer
+is. De overige eigenschappen (aantal windingen, diameter, kernmateriaal) blijven gelijk.
+De zelfinductie is nu
+A. Kleiner
+B. 10% groter
+C. Ongewijzigd
+D. 20% groter
+(F-examen 01-03-2017, opgave 7)
+(F-examen 06-03-2019, opgave 41 met verwisselde antwoorden)
+
+4-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.2 Opgave 4-2
+In een kring wordt aan de vaste condensator van 250 pF een afstemcondensator met een
+minimumwaarde van 10 pF parallel geschakeld. De afstemcondensator heeft een
+capaciteitsvariatie van 500 pF. De kring ziet een capaciteitsvariatie van
+A. 260 tot 760 pF
+B. 250 tot 740 pF
+C. 250 tot 750 pF
+D. 240 tot 270 pF
+(F-examen 1-03-2017, opgave 15)
+
+Opmerking: Hoewel dit een opgave op het niveau van hoofdstuk 4 is, worden enkele
+begrippen gebruikt die pas in de loop van hoofdstuk 5 duidelijker zullen worden. Lees
+voor “kring” het woord “schakeling” en voor “afstemcondensator” “variabele
+condensator”.
+
+4-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.3 Opgave 4-3
+De diëlektrische constante van lucht is ongeveer
+A. 2
+B. 0
+C. 4
+D. 1
+(F-examen 24-05-2017, opgave 9)
+
+4-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.4 Opgave 4-4
+Het magnetisch veld H om een geleider waarin een stroom I loopt, wordt weergegeven
+door:
+
+A. Tekening A
+B. Tekening D
+C. Tekening C
+D. Tekening B
+
+4-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.5 Opgave 4-5
+De eenheid “volt per meter” behoort bij
+A. voortplantingssnelheid
+B. frequentie
+C. golflengte
+D. veldsterkte
+(F-examen 07-03-2018, opgave 3)
+
+4-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.6 Opgave 4-6
+
+De vervangingswaarde is
+A. 18 F
+B. 3/6 F
+C. 2 F
+D. 6 F
+
+4-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.7 Opgave 4-7
+Door de wikkeling van een luchtspoel loopt een gelijkstroom.
+Hierdoor ontstaat een magnetisch veld:
+A. Zowel binnen als buiten de spoel
+B. Alleen als in de spoel een ijzerkern is aangebracht
+C. Alleen binnen de spoel
+D. Alleen buiten de spoel
+(F-examen 06-03-2019, opgave 44)
+
+4-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.8 Opgave 4-8
+Een in een enkele laag gewikkelde spoel wordt vervangen door een spoel met een 2 maal
+zo grote diameter.
+De overige eigenschappen (aantal windingen, bewikkelde lengte, kernmateriaal) blijven
+gelijk. De zelfinductie wordt:
+A. 2 keer zo groot
+B. De helft
+C. 4 keer zo groot
+D. 8 keer zo groot
+(F-examen 05-03-2014, opgave 9)
+
+4-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.9 Opgave 4-9
+Van een luchtcondensator is de plaatafstand 2 mm. De spanning tussen de platen is 6 V.
+De elektrische veldsterkte tussen de platen is
+A. 3000 V/m
+B. 300 V/m
+C. 120 V/m
+D. 30 V/m
+
+4-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.10 Opgave 4-10
+Van een luchtcondensator is de plaatafstand 2 mm. De elektrische veldsterkte tussen de
+platen is 300 V/m. De spanning tussen de platen is
+A. 160 V
+B. 60 V
+C. 1,5 V
+D. 0,6 V
+
+4-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.11 Opgave 4-11
+De eenheid “volt per meter” hoort bij
+A. Frequentie
+B. Voortplantingssnelheid
+C. Veldsterkte
+D. Golflengte
+
+4-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.12 Opgave 4-12
+Om een magnetisch veld af te schermen, gebruikt men materiaal met een:
+A. Lage diëlektrische constante
+B. Lage permeabiliteit
+C. Hoge diëlektrische constante
+D. Hoge permeabiliteit
+
+4-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.13 Opgave 4-13
+Om een elektrisch veld tussen twee geleiders af te schermen van de omgeving, dient men:
+A. Eén van de geleiders te aarden
+B. Om beide geleiders samen een omhulsel van metaal aan te brengen
+C. Tussen de geleiders een condensator aan te brengen
+D. Om beide geleiders samen een isolerende stof aan te brengen
+
+4-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.14 Opgave 4-14
+Een condensator wordt gevormd door twee geleiders met daartussen een diëlectricum. De
+capaciteit wordt groter, naarmate de:
+A. Oppervlakte van de geleiders verkleind wordt
+B. Afstand tussen de geleiders verkleind wordt
+C. Afstand tussen de geleiders vergroot wordt
+D. Diëlektrische constante verlaagd wordt
+
+4-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.15 Opgave 4-15
+Tussen de platen van een luchtcondensator wordt een passende plaat geschoven met een
+diëlektrische constante van 5.
+
+De waarde van de condensator zal nu:
+A. 5 maal zo klein worden
+B. Gelijk blijven
+C. 25 maal zo groot worden
+D. 5 maal zo groot worden
+
+4-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.16 Opgave 4-16
+Een luchtcondensator bestaat uit 2 koperplaten. De oppervlakte van deze platen wordt
+twee keer zo groot gemaakt.
+De capaciteit zal:
+A. 4x zo groot worden
+B. Gelijk blijven
+C. Halveren
+D. Verdubbelen
+
+4-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.17 Opgave 4-17
+De elektrische veldlijnen van een opgeladen condensator verlopen volgens
+
+A. Tekening D
+B. Tekening A
+C. Tekening B
+D. Tekening C
+
+4-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.18 Opgave 4-18
+De temperatuurcoëfficiënt van een condenstor kan zijn:
+A. Alleen positief
+B. Alleen negatief
+C. Zowel positief als negatief
+D. Een temperatuurcoëfficiënt komt niet voor bij een condensator
+
+4-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.19 Opgave 4-19
+Een condensator wordt gevormd door twee geleiders met daartussen een diëlektricum. De
+capaciteit zal kleiner worden, naarmate
+A. De diëlektrische constante verhoogd wordt
+B. De oppervlakte van de geleiders vergroot wordt
+C. De afstand tussen de geleiders vergroot wordt
+D. De afstand tussen de geleiders verkleind wordt
+
+4-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.20 Opgave 4-20
+Een condensator van 1 F is opgeladen tot 400 volt. De lading van de condensator is
+A. 4x 10-4 coulomb
+B. 4x 10-1 coulomb
+C. 16x 10-4 coulomb
+D. 16x 10-1 coulomb
+
+4-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.21 Opgave 4-21
+De condensatoren C1 en C2 zijn opgeladen tot een spanning van 100 volt. Beide
+schakelaars worden nu tegelijkertijd gesloten en na 2 sec weer geopend.
+
+Hierna is:
+A. De spanning over C1 hoger dan die over C2
+B. De spanning over C1 gelijk aan die over C2
+C. De spanning over C1 lager dan die over C2
+D. De spanning over C1 en C2 nul
+
+4-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.22 Opgave 4-22
+De vervangingswaarde is:
+
+A. 3 nF
+B. 6 nF
+C. 9nF
+D. 1 nF
+
+4-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.23 Opgave 4-23
+Iedere condensator is 6 F.
+
+De vervangingswaarde is:
+A. 9 F
+B. 4 F
+C. 6F
+D. 36 F
+
+4-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.24 Opgave 4-24
+Een waarde van 340 pF, gemeten tussen de aansluitklemmen, wordt bereikt met:
+
+A. Schakeling 1
+B. Beide schakelingen
+C. Schakeling 2
+D. Géén van beide schakelingen
+
+4-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.25 Opgave 4-25
+Een waarde van 200 pF wordt bereikt met:
+
+A. Alleen schakeling 1
+B. Géén van beide schakelingen
+C. Schakeling 1 en schakeling 2
+D. Alleen schakeling 2
+
+4-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.26 Opgave 4-26
+Het ontladen van een condensator via een weerstand van 10 kilo-ohm verloopt volgens de
+grafiek.
+
+De condensator heeft een waarde van
+A. 10 000 pF
+B. 100 000 pF
+C. 1 F
+D. 10 F
+
+4-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.27 Opgave 4-27
+Er loopt gelijkstroom door een geleider. De richting van het magnetisch veld is:
+
+A. Figuur A
+B. Figuur C
+C. Figuur B
+D. Figuur D
+
+4-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.28 Opgave 4-28
+Na het sluiten van schakelaar s zullen de kernen elkaar
+
+A. Voortdurend aantrekken
+B. Kortstondig afstoten
+C. Voortdurend afstoten
+D. Kortstondig aantrekken
+
+4-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.29 Opgave 4-29
+Het aantal windingen van een in een enkele laag gewikkelde spoel wordt verdubbeld. De
+overige eigenschappen (bewikkelde lengte, diameter, kernmateriaal) blijven ongewijzigd.
+De zelfinductie wordt ongeveer:
+A. De helft
+B. 2x zo groot
+C. 4x zo groot
+D. 8x zo groot
+
+4-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.30 Opgave 4-30
+De sterkte van het magnetisch veld rond een geleider wordt rechtstreeks bepaald door de:
+A. Sroom door de geleider
+B. Weerstand van de geleider
+C. Diameter van de geleider
+D. Spanning op de geleider
+
+4-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.31 Opgave 4-31
+Een in een enkele laag gewikkelde spoel wordt vervangen door een spoel die 10% langer
+is. De overige eigenschappen (aantal windingen, diameter, kernmateriaal) blijven gelijk.
+De zelfinductie is nu
+A. Ongewijzigd
+B. 10% groter
+C. Kleiner
+D. 20% groter
+
+4-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.3.32 Opgave 4-32
+Een goede geleider voor magnetische velden is
+A. aluminium
+B. weekijzer
+C. koolstof
+D. glas
+
+4-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4 Uitwerkingen
+
+4-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.1 Uitwerking van Opgave 4-1
+Een in een enkele laag gewikkelde spoel wordt vervangen door een spoel die 10% langer
+is. De overige eigenschappen (aantal windingen, diameter, kernmateriaal) blijven gelijk.
+De zelfinductie is nu
+A. Kleiner
+B. 10% groter
+C. Ongewijzigd
+D. 20% groter
+Uitwerking
+Er wordt hier eigenlijk een spoel met 10% uitgerekt. In hoofdstuk 4 en in het
+formularium vinden we de volgende vergelijking±
+𝜇0 𝜇 𝑟 𝑛 2 𝐴
+𝐿=
+𝑙
+In hoofdstuk 4, in het formularium (4.2.5) en in de vergelijking hierboven zien we dat de
+zelfinductie evenredig is met het kwadraat van het aantal windingen n en met de
+doorsnede A (of met het kwadraat van de diameter) en omgekeerd evenredig met de
+lengte l. Kernmateriaal kan door een hogere magnetische permeabiliteit  de zelfinductie
+verhogen. Echter: aantal windingen, diameter en kernmateriaal blijven in de opgave
+gelijk. Alleen de lengte neemt toe. Dat betekent dat de zelfinductie kleiner wordt,
+antwoord A.
+Opmerking
+De oorzaak van het kleiner worden van de zelfinductie door uitrekken van de spoel is de
+grotere afstand tussen de opeenvolgende windingen. Die beïnvloeden elkaar daardoor minder.
+
+4-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.2 Uitwerking van Opgave 4-2
+In een kring wordt aan de vaste condensator van 250 pF een afstemcondensator met een
+minimumwaarde van 10 pF parallel geschakeld. De afstemcondensator heeft een
+capaciteitsvariatie van 500 pF. De kring ziet een capaciteitsvariatie van
+A. 260 tot 760 pF
+B. 250 tot 740 pF
+C. 250 tot 750 pF
+D. 240 tot 270 pF
+Uitwerking
+Deze opgave kun je beter even tekenen. Dat is hieronder in de figuur ook gebeurd.
+Goed lezen is ook belangrijk. De afstemcondensator (=variabele condensator) heeft een
+minimumwaarde van 10 pF en een capaciteitsvariatie van 500 pF. Dat betekent dat de
+capaciteit regelbaar is van 10 pF tot 10 pF + 500 pF = 510 pF en niet tot 500 pF, zoals een
+(te) haastige lezer misschien ten onrechte zou concluderen.
+Dan krijgen we het plaatje hieronder.
+
+10...510 pF
+
+10 pF
+
+510 pF
+
+250 pF
+
+250 pF
+
+250 pF
+
+Basisschema
+
+Laagste capaciteit
+
+Hoogste capaciteit
+
+Links het basisschema. In het midden de waarden voor de laagste capaciteit, rechts die
+voor de hoogste. Parallel schakelen van condensatoren betekent capaciteiten optellen.
+De laagst mogelijke waarde (midden) wordt dan 260 pF en de hoogst mogelijke waarde
+(rechts) 760 pF. Daaraan voldoet antwoord A.
+
+4-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.3 Uitwerking van Opgave 4-3
+De diëlektrische constante van lucht is ongeveer
+A. 2
+B. 0
+C. 4
+D. 1
+
+Uitwerking
+Dit is een (niet onbelangrijk) weetje. Het antwoord is 1, antwoord D dus.
+Opmerking
+De diëlektrische constante of moderner: permittiviteit is een materiaaleigenschap van het
+diëlektricum, ook wel middenstof genoemd, tussen de platen van een condensator.
+De capaciteit C (in pF) hangt af van plaatafstand d, plaatoppervlak A en het diëlektricum
+εr volgens
+𝐶 = 0,0885𝜀𝑟
+
+𝐴
+𝑑
+
+0,0885 is een vaste constante die ook wel met ε0 wordt aangeduid en is geen exameneis; de
+rest wel. De letter  is de Griekse letter epsilon, onze letter e.
+
+4-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.4 Uitwerking van Opgave 4-4
+Het magnetisch veld H om een geleider waarin een stroom I loopt, wordt weergegeven
+door:
+
+A. Tekening A
+B. Tekening D
+C. Tekening C
+D. Tekening B
+Uitwerking
+In Hoofdstuk 4 hebben we gezien dat een magnetisch veld om een stroomvoerende
+geleider cirkelvormige veldlijnen heeft. Het enige plaatje dat daaraan voldoet is Tekening
+A. Tekening C zou een elektrisch veld kunnen zijn; de rest is ontsproten aan de fantasie
+van de tekenaar.
+
+4-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.5 Uitwerking van Opgave 4-5
+De eenheid “volt per meter” behoort bij
+A. voortplantingssnelheid
+B. frequentie
+C. golflengte
+D. veldsterkte
+
+Uitwerking
+De eenheid “volt per meter” hoort bij elektrische veldsterkte. Frequentie (hoofdstuk 5) is
+trillingen per tijd; golflengte is voortplantingssnelheid gedeeld door frequentie. Hoewel
+we na hoofdstuk 4 nog niet alle genoemde grootheden hebben gehad, mag duidelijk zijn
+dat antwoord D het juiste is.
+
+4-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.6 Uitwerking van Opgave 4-6
+
+De vervangingswaarde is
+A. 18 F
+B. 3/6 F
+C. 2 F
+D. 6 F
+Uitwerking
+Denk erom dat je bij condensatoren capaciteiten moet optellen als het om een
+parallelschakeling gaat. Dit is een serieschakeling en dan moet je de omgekeerde waarden
+optellen om de omgekeerde waarde van de vervangingswaarde te krijgen. Dat is in
+vergelijking met weerstanden en spoelen net andersom. Dus:
+1
+1
+1
+1
+1
+1
+1
+3
+1
+= + + =
++
++
+=
+=
+𝐶 𝐶1 𝐶2 𝐶3 6 μF 6 μF 6 μF 6 μF 2 μF
+Dan is de vervangingsweerstand dus 2 F, antwoord C.
+Opmerking 1
+Bij serieschakeling van condensatoren van gelijke waarde is de vervangingswaarde gelijk
+aan diezelfde waarde gedeeld door het aantal condensatoren. Ook dat leidt tot antwoord
+C.
+Opmerking 2
+Uitkomst A krijg je als de condensatoren parallel zouden zijn geschakeld, uitkomst B als je
+de vergelijking bij de oplossing tot een verkeerd einde brengt en antwoord D… tja,
+misschien wat gegokt?
+
+4-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.7 Uitwerking van Opgave 4-7
+Door de wikkeling van een luchtspoel loopt een gelijkstroom.
+Hierdoor ontstaat een magnetisch veld:
+A. Zowel binnen als buiten de spoel
+B. Alleen als in de spoel een ijzerkern is aangebracht
+C. Alleen binnen de spoel
+D. Alleen buiten de spoel
+Uitwerking
+De afbeelding geeft het antwoord: zowel binnen als buiten de spoel. Antwoord A is het
+juiste
+
+4-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.8 Uitwerking van Opgave 4-8
+Een in een enkele laag gewikkelde spoel wordt vervangen door een spoel met een 2 maal
+zo grote diameter.
+De overige eigenschappen (aantal windingen, bewikkelde lengte, kernmateriaal) blijven
+gelijk. De zelfinductie wordt:
+A. 2 keer zo groot
+B. De helft
+C. 4 keer zo groot
+D. 8 keer zo groot
+Uitwerking:
+De zelfinductie van een enkellaags spoel is onder meer evenredig met de dwarsdoorsnede
+(A in hoofdstuk 4 en het formularium, de oppervlakte van 1 winding). De dwarsdoorsnede
+is evenredig met het kwadraat van de diameter, net zoals de oppervlakte van een cirkel
+evenredig is met de straal en dus ook met de diameter, want die is 2 maal de straal.
+Dus: diameter 2 keer zo groot, zelfinductie 22 = 4 maal zo groot, antwoord C.
+Opmerking
+Wat hier ontbreekt, is informatie over de spoel. De gebruikte relatie tussen dikte en
+zelfinductie geldt alleen voor een spoel die veel langer is dan dik. Zie de opmerking in
+dezelfde opgave achter de cursustekst en in de cursustekst zelf.. Maar antwoord C is wel
+het “officiële” goede antwoord.
+
+4-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.9 Uitwerking van Opgave 4-9
+Van een luchtcondensator is de plaatafstand 2 mm. De spanning tussen de platen is 6 V.
+De elektrische veldsterkte tussen de platen is
+A. 3000 V/m
+B. 300 V/m
+C. 120 V/m
+D. 30 V/m
+
+Uirwerking
+Bij berekeningen met verschillende eenheden voor dezelfde grootheid moeten eerst de
+eenheden gelijk worden gemaakt. Omdat de plaatafstanden in mm staan en de uitkomst in
+V/m worden gevraagd, moet eerst de plaatafstand worden omgezet in m.
+2 mm = 0,002 m
+De vergelijking voor het verband tussen elektrische veldsterkte E, plaatafstand d en
+spanning U is
+𝐸=
+
+𝑈
+𝑑
+
+Zie ook het formularium. De elektrische veldsterkte is gelijk aan spanning gedeeld door
+afstand, dus 6 V/0,002 m is 3000 V/m. Antwoord A dus.
+
+4-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.10 Uitwerking van Opgave 4-10
+Van een luchtcondensator is de plaatafstand 2 mm. De elektrische veldsterkte tussen de
+platen is 300 V/m. De spanning tussen de platen is
+A. 160 V
+B. 60 V
+C. 1,5 V
+D. 0,6 V
+Uitwerking
+Het verband tussen veldsterkte E, plaatafstand d en de spanning U tussen de platen is
+𝐸=
+
+𝑈
+→ 𝑈 = 𝑑𝐸
+𝑑
+
+De plaatafstand d in m is 0,002 m. De spanning U is dan 0,002 m * 300 V/m = 0,6 V.
+Antwoord D.
+
+4-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.11 Uitwerking van Opgave 4-11
+De eenheid “volt per meter” hoort bij
+A. Frequentie
+B. Voortplantingssnelheid
+C. Veldsterkte
+D. Golflengte
+Uitwerking
+Elektrische veldsterkte wordt uitgedrukt in volt per meter. Dat is een weetje. Antwoord
+C.
+Opmerkingen
+Er zitten twee grootheden in de antwoorden die we nog niet hebben gehad: frequentie en
+golflengte. Maar het goede antwoord kennen we: veldsterkte.
+Voortplantingssnelheid van geluids- of radiogolven is zoals elke snelheid afstand per tijd;
+in SI-eenheden meters per seconde (“de snelheid van de slak is 0,0001 m/s”). De
+voortplantingssnelheid van radiogolven en van licht in het luchtledig is 2,998*108 m/s,
+afgerond 3*108 m/s, wat hetzelfde is als 300 000 km/s.
+
+4-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.12 Uitwerking van Opgave 4-12
+Om een magnetisch veld af te schermen, gebruikt men materiaal met een:
+A. Lage diëlektrische constante
+B. Lage permeabiliteit
+C. Hoge diëlektrische constante
+D. Hoge permeabiliteit
+
+Uitwerking
+Een magnetisch veld kan worden afgeschermd door het te geleiden buiten het gebied
+waar we dat veld niet willen hebben. Dan komt het daar niet, of in de praktijk sterk
+verzwakt, binnen. Die geleiding van een magnetisch veld vindt plaats door het te
+omringen met materiaal dat een hoge magnetische permeabiliteit heeft. Dat betekent dat
+antwoord D goed is. Permeabiliteit betekent doordringbaarheid, maar dat laatste woord
+gebruiken we eigenlijk nooit.
+Opmerking
+De diëlektrische constante in de antwoorden A en C is een maat voor de
+doordringbaarheid voor elektrische velden. Permittiviteit is daar een ander woord voor.
+
+4-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.13 Uitwerking van Opgave 4-13
+Om een elektrisch veld tussen twee geleiders af te schermen van de omgeving, dient men:
+A. Eén van de geleiders te aarden
+B. Om beide geleiders samen een omhulsel van metaal aan te brengen
+C. Tussen de geleiders een condensator aan te brengen
+D. Om beide geleiders samen een isolerende stof aan te brengen
+
+Uitwerking
+Een elektrisch veld wordt afgeschermd door er een elektrisch geleidend materiaal omheen
+te leggen, net zoals een magnetisch veld wordt afgeschermd door een magnetisch
+geleidend materiaal eromheen (materiaal met hoge permeabiliteit heet dat; zie Opgave
+4-12). Elk metaal is een geleider. Om het veld tussen twee geleiders met een spanning
+daartussen goed af te schermen, moet het hele veld binnen het metalen omhulsel zitten.
+Daarom moet het omhulsel om beide geleiders samen liggen: antwoord B.
+Opmerkingen
+Het aarden (= geleidend met aarde verbinden) van één geleider heeft geen effect. Beide
+geleiders aarden geeft kortsluiting en betekent dus het einde van het magnetisch veld.
+Het aanbrengen van een condensator volgens C veroorzaakt alleen een extra veld binnen
+de condensator.
+Een isolerende stof doet als afscherming van een elektrisch veld helemaal niets. Het veld
+gaat er dwars doorheen.
+
+4-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.14 Uitwerking van Opgave 4-14
+Een condensator wordt gevormd door twee geleiders met daartussen een diëlectricum. De
+capaciteit wordt groter, naarmate de:
+A. Oppervlakte van de geleiders verkleind wordt
+B. Afstand tussen de geleiders verkleind wordt
+C. Afstand tussen de geleiders vergroot wordt
+D. Diëlektrische constante verlaagd wordt
+Uitwerking
+De capaciteit C van een condensator hangt af van de diëlektrische constante r, de
+plaatoppervlaktee A en de plaatafstand d volgens
+𝐶 = 0,0885𝜀𝑟
+
+𝐴
+𝑑
+
+De capaciteit C wordt dus groter als A en/of r groter worden of als d kleiner wordt. Dan is
+het een zaak van de vier antwoorden langslopen. Dan rolt antwoord B er als het enig
+juiste uit.
+
+4-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.15 Uitwerking van Opgave 4-15
+Tussen de platen van een luchtcondensator wordt een passende plaat geschoven met een
+diëlektrische constante van 5.
+
+De waarde van de condensator zal nu:
+A. 5 maal zo klein worden
+B. Gelijk blijven
+C. 25 maal zo groot worden
+D. 5 maal zo groot worden
+
+Uitwerking
+Voor een condensator geldt dat de capaciteit C afhangt van de diëlektrische constante r,
+de plaatoppervlakte A en de plaatafstand d volgens
+𝐶 = 0,0885𝜀𝑟
+
+𝐴
+𝑑
+
+De diëlektrische constante r van lucht is 1. Daaruit volgt dat r door het inschuiven van
+de plaat vijf keer zo groot wordt. Uit de vergelijking volgt dat dan de capaciteit C ook vijf
+keer zo groot wordt; antwoord D.
+
+4-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.16 Uitwerking van Opgave 4-16
+Een luchtcondensator bestaat uit 2 koperplaten. De oppervlakte van deze platen wordt
+twee keer zo groot gemaakt.
+De capaciteit zal:
+A. 4x zo groot worden
+B. Gelijk blijven
+C. Halveren
+D. Verdubbelen
+Uitwerking
+De capaciteit C van een condensator hangt af van de diëlektrische constante r, de
+plaatoppervlakte A en de plaatafstand d volgens
+𝐶 = 0,0885𝜀𝑟
+
+𝐴
+𝑑
+
+Als de plaatoppervlakte A wordt verdubbeld, zal datzelfde met de capaciteit gebeuren.
+Antwoord D dus.
+Opmerking
+Het maakt voor het antwoord niets uit of die platen nu van koper, aluminium of goud
+zijn, zolang ze maar geleiden.
+
+4-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.17 Uitwerking van Opgave 4-17
+De elektrische veldlijnen van een opgeladen condensator verlopen volgens
+
+A. Tekening D
+B. Tekening A
+C. Tekening B
+D. Tekening C
+Uitwerking
+Elektrische veldlijnen lopen allemaal van de ene pool naar de andere. Daaraan voldoet
+alleen tekening D.
+In tekening A lopen ze weg naar oneindig, in tekening B maken ze ellipsen om de platen
+van de condensator en in tekening C lopen er een paar van de ene plaat naar de andere en
+de rest maakt ellipsen om de platen. Het enige goede antwoord is dan ook A.
+Opmerkingen
+In hoofdstuk 4 vind je een afbeelding die te gergelijken is met tekening D, maar dan in
+kleur en een kwartslag gedraaid.
+Veldlijnen volgens tekening C kunnen niet bestaan, omdat de veldlijnen elkaar daar
+kruisen. Dat doen ze per definitie nooit.
+Let op dat het minteken van de negatieve pool in alle tekeningen op zijn kant staat.
+
+4-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.18 Uitwerking van Opgave 4-18
+De temperatuurcoëfficiënt van een condenstor kan zijn:
+A. Alleen positief
+B. Alleen negatief
+C. Zowel positief als negatief
+D. Een temperatuurcoëfficiënt komt niet voor bij een condensator
+
+Uitwerking
+De temperatuurcoëfficiënt van een condensator kan zowel positief als negatief zijn. De
+capaciteit kan bij stijgende temperatuur toenemen (positieve temperatuurcoëfficiënt) als
+afnemen (negatieve temperatuurcoëfficiënt). Antwoord C is dus goed.
+Opmerking
+De temperatuurcoëfficiënt van een condensator is vergelijkbaar met die van een
+weerstand (PTC of NTC). Hij drukt de verandering van de capaciteitswaarde per graad of
+per K (kelvin) uit. De coëfficiënt is positief als de capaciteit bij stijgende temperatuur
+toeneemt en negatief als de capaciteit bij stijgende temperatuur afneemt.
+
+4-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.19 Uitwerking van Opgave 4-19
+Een condensator wordt gevormd door twee geleiders met daartussen een diëlektricum. De
+capaciteit zal kleiner worden, naarmate
+A. De diëlektrische constante verhoogd wordt
+B. De oppervlakte van de geleiders vergroot wordt
+C. De afstand tussen de geleiders vergroot wordt
+D. De afstand tussen de geleiders verkleind wordt
+Uitwerking
+Voor een condensator geldt dat de capaciteit C afhangt van de diëlektrische constante r,
+de plaatoppervlakte A en de plaatafstand d volgens
+𝐶 = 0,0885𝜀𝑟
+
+𝐴
+𝑑
+
+In de vergelijking staan A en r in de teller. C wordt daarom groter als een van die twee of
+allebei groter worden. Dat sluit antwoorden A en B uit. We zien ook dat in de vergelijking
+de plaatafstand d in de noemer staat. Dat betekent: hoe groter d, des te kleiner C.
+Antwoord C dus.
+Opmerking
+Eigenlijk is dit gewoon een weetje dat ook zonder vergelijking wel te beredeneren is. Hoe
+verder de platen van elkaar verwijderd zijn, des te minder zullen ze elkaar beïnvloeden en
+des te kleiner is de capaciteit die ze samen maken.
+
+4-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.20 Uitwerking van Opgave 4-20
+Een condensator van 1 F is opgeladen tot 400 volt. De lading van de condensator is
+A. 4x 10-4 coulomb
+B. 4x 10-1 coulomb
+C. 16x 10-4 coulomb
+D. 16x 10-1 coulomb
+
+Uitwerking
+Het verband tussen spanning U, lading Q en capaciteit C van een condensator wordt
+weergegeven door de vergelijking
+𝑄 = 𝐶𝑈
+
+C = 1 F = 10-6 F. U = 400 V= 4*.102 V.
+Dan is Q = 10-6 F. 4.102 V = 4.10-4 C.
+Let op: C (cursief) staat voor de grootheid capaciteit, C (rechtop) voor de eenheid
+coulomb.
+Dat wordt dus antwoord A. Meer valt er niet over te zeggen.
+
+4-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.21 Uitwerking van Opgave 4-21
+De condensatoren C1 en C2 zijn opgeladen tot een spanning van 100 volt. Beide
+schakelaars worden nu tegelijkertijd gesloten en na 2 sec weer geopend.
+
+Hierna is:
+A. De spanning over C1 hoger dan die over C2
+B. De spanning over C1 gelijk aan die over C2
+C. De spanning over C1 lager dan die over C2
+D. De spanning over C1 en C2 nul
+Uitwerking
+De capaciteit van C1 is de helft van die van C2. Dan bevat C1 bij een willekeurige spanning
+half zoveel lading als C2 bij diezelfde spanning. Als beide condensatoren even lang worden
+ontladen via een even grote weerstand, ligt het voor de hand dat de spanning op C1 sneller
+daalt dan de spanning over C2.
+Vergelijk het met twee even hoge ronde bakjes water, waarvan één een twee keer zo grote
+doorsnede heeft is als het andere (plaatje). De uitloopbuisjes zijn even dik. De kranen
+onder de bakjes gaan tegelijkertijd open en na 2 seconden weer dicht. Dan zal in het wijde
+bakje het water hoger staan dan in het smallere. Dat draait dus uit op antwoord C.
+Opmerking
+De uitkomst is ook via de tijdconstante RC te
+beredeneren. In de linker schakeling is die gelijk
+aan 10F maal 1 M is 10 seconden en in de
+rechter 20F maal 1 M is 20 seconden. Om het
+geheugen nog wat verder op te frissen: in de
+linker schakeling is 10 seconden na het sluiten
+van de schakelaar nog 37% van de
+oorspronkelijke spanning van 100 V over. In de rechter schakeling duurt dat 20 seconden.
+De spanning in de rechter schakeling reageert dus trager op het sluiten van de schakelaar
+dan de spanning in de linker.
+
+4-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.22 Uitwerking van Opgave 4-22
+De vervangingswaarde is:
+
+A. 3 nF
+B. 6 nF
+C. 9nF
+D. 1 nF
+
+Uitwerking
+Dit is een parallelschakeling. In dat geval worden de parallelgeschakelde
+capaciteitswaarden opgeteld om de vervangingswaarde Ctot te vinden, dus
+𝐶𝑡𝑜𝑡 = 𝐶1 + 𝐶2 + ⋯ + 𝐶𝑛
+Dat wordt dus (3+3+3)nF = 9 nF. Antwoord C, niets op af te dingen.
+Opmerking
+Bij weerstanden en spoelen worden in serie geschakelde waarden op deze manier
+opgeteld.
+
+4-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.23 Uitwerking van Opgave 4-23
+Iedere condensator is 6 F.
+
+De vervangingswaarde is:
+A. 9 F
+B. 4 F
+C. 6F
+D. 36 F
+Uitwerking
+We zien twee serieschakelingen van elk drie condensatoren. De series zelf zijn parallel
+geschakeld. Dat betekent twee bewerkingen, één voor serie- en één voor
+parallelschakeling.
+Voor de serieschakeling geldt:
+1
+1
+1
+1
+= + + ⋯+
+𝐶𝑡𝑜𝑡 𝐶1 𝐶2
+𝐶𝑛
+Als alle n waarden C gelijk aan elkaan zijn, geldt voor elk van de twee takken
+𝐶𝑡𝑜𝑡 =
+
+𝐶
+𝑛
+
+Beide takken zijn dus 6 F/3 is 2 F.
+De takken staan, zoals gezegd, parallel. Hun vervangingswaarden moeten daarom worden
+opgeteld om de totale vervangingswaarde te krijgen. Dat wordt (2+2) F is 4 F. Dat is
+antwoord B.
+Opmerking
+De serieschakeling van condensatoren wordt op dezelfde manier berekend als de
+parallelschakeling van weerstanden en van zelfinducties (spoelen).
+
+4-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.24 Uitwerking van Opgave 4-24
+Een waarde van 340 pF, gemeten tussen de aansluitklemmen, wordt bereikt met:
+
+A. Schakeling 1
+B. Beide schakelingen
+C. Schakeling 2
+D. Géén van beide schakelingen
+Uitwerking
+Wie de zaak een beetje handig aanpakt, hoeft nauwelijks te rekenen.
+We moeten 340 pF krijgen. Als we de regel toepassen dat bij serieschakeling de
+vervangingswaarde van de capaciteit altijd kleiner is dan de kleinste waarde in de
+schakeling, zijn we er snel uit.
+In schakeling 1 hebben we 160 pF in serie met een parallelschakeling. Het maakt niet uit
+wat die parallelschakeling oplevert, de totale uitkomst is altijd kleiner dan die 160 pF en
+dus ook kleiner dan 340 pF. Schakeling 1 kan dus de prullenbak in.
+In schakeling 2 zien we 60 en 120 pF in serie. De vervangingswaarde is dan kleiner dan 60
+pF. Opgeteld bij de parallel geschakelde 160 pF levert dat bij lange na geen 340 pF. Ook
+nummer 2 kan naar de prullenbak.
+Dat wordt dus antwoord D.
+Opmerking
+Het is maar goed dat het antwoord D is. Zou antwoord B goed zijn, dan zijn de
+antwoorden A en C dat ook. Multiple-choice examens maken is óók een vak!
+
+4-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.25 Uitwerking van Opgave 4-25
+Een waarde van 200 pF wordt bereikt met:
+
+A. Alleen schakeling 1
+B. Géén van beide schakelingen
+C. Schakeling 1 en schakeling 2
+D. Alleen schakeling 2
+Uitwerking
+Eerst eens kijken of we eruit komen met het regeltje dat bij serieschakeling van
+condensatoren de vervangingswaarde altijd kleiner is dan de waarde van de kleinste
+condensator.
+In schema 1 zien we 180 pF in serie met een parallelschakeling. Omdat 180 kleiner is dan
+200, hoeven we al niet meer verder te kijken, want 180 pF in serie met wat voor capaciteit
+ook is minder dan 180 pF. Nu kan het nog antwoord B of D worden.
+Daarvoor moeten we naar schakeling 2. Met de 180 pF komen we 20 pF tekort. Maar
+komt die misschien uit de seriegeschakelde 30 pF en 60 pF? We gebruiken de speciale
+vergelijking voor twee seriegeschakelde capaciteiten
+𝐶𝑡𝑜𝑡 =
+
+𝐶1 𝐶2
+30.60
+=
+pF = 20 pF
+𝐶1 + 𝐶2 30 + 60
+
+Dat is dus precies de 20 pF die we nog tekortkwamen. Schakeling 2 levert dus 200 pF. Dat
+wordt dan antwoord D.
+
+4-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.26 Uitwerking van Opgave 4-26
+Het ontladen van een condensator via een weerstand van 10 kilo-ohm verloopt volgens de
+grafiek.
+
+De condensator heeft een waarde van
+A. 10 000 pF
+B. 100 000 pF
+C. 1 F
+D. 10 F
+Uitwerking
+De tijdconstante van een condensator die op- of ontlaadt via een weerstand is het product
+RC van weerstand R en capaciteit C. De tijdconstante is de tijd waarin
+-
+
+Bij ontlading de lading van de condensator tot 37% van de oorspronkelijke waarde
+wordt teruggebracht
+Bij opladen de lading van de condensator nog 37% van de uiteindelijke lading te
+gaan heeft.
+
+Uit de grafiek blijkt dat de tijdconstante 0,01 s bedraagt. Geschreven als macht van 10 is
+dat 10-2 s. Met heel veel nullen achter de komma bij vooral capaciteiten rekent dat
+gemakkelijker.
+Gegeven: R = 104 . Gevraagd: C
+𝐶. 104  = 10−2 𝑠
+Daaruit volgt
+4-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+𝐶=
+
+10−2 s
+= 10−6 F
+104 
+
+Dus C = 1 F. Dat is antwoord C.
+Opmerking
+Die 37% of 0,37 is natuurlijk 1/e, waarin e het grondtal van de natuurlijke logaritme is (zie
+hoofdstuk 2). Om wat preciezer te zijn dan die 0,37: 0,36788 en nog een oneindig aantal
+decimalen. Voor standaardberekeningen volstaat meestal 0,37. De waarde van
+elektronische componenten is zelden nauwkeuriger dan dat.
+
+4-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.27 Uitwerking van Opgave 4-27
+Er loopt gelijkstroom door een geleider. De richting van het magnetisch veld is:
+
+A. Figuur A
+B. Figuur C
+C. Figuur B
+D. Figuur D
+Uitwerking
+Dit is niet meer dan een weetje. Als de stroom van je af vloeit, is het magnetisch veld
+rechtsom, dus met de klok mee. Het goede antwoord is daarom D.
+Opmerking
+Formeel is dit geen examenstof meer, maar af en toe duiken toch nog examenopgaven op
+zoals deze. Daarom staat dit toch (kort) in hoofdstuk 4. Je kunt maar beter goed
+voorbereid zijn…
+
+4-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.28 Uitwerking van Opgave 4-28
+Na het sluiten van schakelaar S zullen de kernen elkaar
+
+A. Voortdurend aantrekken
+B. Kortstondig afstoten
+C. Voortdurend afstoten
+D. Kortstondig aantrekken
+
+Uitwerking
+Of het hier om noord- of zuidpolen gaat, is totaal onbelangrijk. Het gaat erom of de twee
+tegenoverliggende polen, de binnenste twee die elkaar “aankijken”, gelijk zijn (afstoting)
+of tegengesteld (aantrekking). Dat volgt uit de stroomrichting in de wikkelingen.
+De wikkelrichting van beide spoelen is gelijk, maar de stromen lopen tegengesteld: allebei
+naar het midden. Dit betekent dat de twee tegenover elkaar liggende polen in het midden
+gelijk zijn. Afstoting dus. Dat blijft zo, zolang de batterij stroom levert. Niks kortstondigs
+dus. Antwoord C is goed.
+
+4-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.29 Uitwerking van Opgave 4-29
+Het aantal windingen van een in een enkele laag gewikkelde spoel wordt verdubbeld. De
+overige eigenschappen (bewikkelde lengte, diameter, kernmateriaal) blijven ongewijzigd.
+De zelfinductie wordt ongeveer:
+A. De helft
+B. 2x zo groot
+C. 4x zo groot
+D. 8x zo groot
+
+Uitwerking
+Deze opgave lijkt nogal op Opgave 4-8, maar daar ging het om een verdubbelde diameter,
+nu on een verdubbeld aantal windingen. De zelfinductie van een dergelijke spoel is
+evenredig met n2, het kwadraat van het aantal windingen n. Dus dubbel aantal windingen,
+viervoudige L. Antwoord C.
+
+4-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.30 Uitwerking van Opgave 4-30
+De sterkte van het magnetisch veld rond een geleider wordt rechtstreeks bepaald door de:
+A. Stroom door de geleider
+B. Weerstand van de geleider
+C. Diameter van de geleider
+D. Spanning op de geleider
+Uitwerking
+Het magnetisch veld rondom een geleider is afhankelijk van de stroom door die geleider,
+zoals de grootte van een elektrisch veld wordt bepaald door spanning. Antwoord A is het
+juiste antwoord
+Opmerking
+Magnetische veldsterkte is niet alleen afhankelijk van stroomsterkte, maar wordt ook
+uitgedrukt in A/m, zoals elektrische veldsterkte wordt uitgedrukt in V/m. Dat
+onderstreept het belang van deze opgave.
+
+4-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 4. Examenopgaven 20220408
+
+4.4.31 Uitwerking van Opgave 4-32
+Een goede geleider voor magnetische velden is
+A. aluminium
+B. weekijzer
+C. koolstof
+D. glas
+
+Uitwerking
+Aluminium is een goede stroomgeleider, maar een slechte geleider voor magnetische
+velden. Koolstof is een redelijke geleider, maar net als aluminium niet voor magnetische
+velden. Glas is een isolator en doet niets met een magnetisch veld.
+Blijft over antwoord B, weekijzer. Dat is een ijzersoort die een magnetisch veld goed
+geleidt, maar zijn magnetisme snel verliest, zodra het veld er niet meer is.
+
+4-75
+
+

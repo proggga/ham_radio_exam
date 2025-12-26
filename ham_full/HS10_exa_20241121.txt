@@ -1,0 +1,3919 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+Inhoudsopgave
+10
+
+57 uitgewerkte examenopgaven bij Hoofdstuk 10 .....................................................10-6
+10.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........10-6
+
+10.2
+
+Enkele opmerkingen ..........................................................................................10-7
+
+10.3
+
+Formularium ......................................................................................................10-8
+
+10.3.1 Tegenkoppeling .............................................................................................. 10-8
+10.3.2 De opamp (operational amplifier) .................................................................10-8
+10.3.3 Schakelingen met opamps .............................................................................10-9
+10.3.4 Meekoppeling: oscillatoren..........................................................................10-12
+10.3.5 Spanningsstabilisatoren en lineaire voedingsschakelingen .......................10-16
+10.3.6 Schakelende voedingen met pulsbreedtemodulatie ...................................10-18
+10.4
+
+Opgaven............................................................................................................10-21
+
+10.4.1 Opgave 10-1 ..................................................................................................10-22
+10.4.2 Opgave 10-2 ..................................................................................................10-23
+10.4.3 Opgave 10-3 ..................................................................................................10-24
+10.4.4 Opgave 10-4 ..................................................................................................10-25
+10.4.5 Opgave 10-5 ..................................................................................................10-26
+10.4.6 Opgave 10-6 ..................................................................................................10-27
+10.4.7 Opgave 10-7 ..................................................................................................10-28
+10.4.8 Opgave 10-8 ..................................................................................................10-29
+10.4.9 Opgave 10-9 ..................................................................................................10-30
+10.4.10
+
+Opgave 10-10 ............................................................................................ 10-31
+
+10.4.11
+
+Opgave 10-11 ............................................................................................ 10-32
+
+10.4.12
+
+Opgave 10-12 ............................................................................................ 10-33
+
+10.4.13
+
+Opgave 10-13 ............................................................................................ 10-34
+
+10.4.14
+
+Opgave 10-14 ............................................................................................ 10-35
+
+10.4.15
+
+Opgave 10-15 ............................................................................................ 10-36
+
+10.4.16
+
+Opgave 10-16 ............................................................................................ 10-37
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.17
+
+Opgave 10-17 ............................................................................................ 10-38
+
+10.4.18
+
+Opgave 10-18 ............................................................................................ 10-39
+
+10.4.19
+
+Opgave 10-19 ............................................................................................ 10-40
+
+10.4.20
+
+Opgave 10-20 ............................................................................................ 10-41
+
+10.4.21
+
+Opgave 10-21 ............................................................................................ 10-42
+
+10.4.22
+
+Opgave 10-22 ............................................................................................ 10-43
+
+10.4.23
+
+Opgave 10-23 ............................................................................................ 10-44
+
+10.4.24
+
+Opgave 10-24 ............................................................................................ 10-45
+
+10.4.25
+
+Opgave 10-25 ............................................................................................ 10-46
+
+10.4.26
+
+Opgave 10-26 ............................................................................................ 10-47
+
+10.4.27
+
+Opgave 10-27 ............................................................................................ 10-48
+
+10.4.28
+
+Opgave 10-28 ............................................................................................ 10-49
+
+10.4.29
+
+Opgave 10-29 ............................................................................................ 10-50
+
+10.4.30
+
+Opgave 10-30 ............................................................................................ 10-51
+
+10.4.31
+
+Opgave 10-31 ............................................................................................ 10-52
+
+10.4.32
+
+Opgave 10-32 ............................................................................................ 10-53
+
+10.4.33
+
+Opgave 10-33 ............................................................................................ 10-54
+
+10.4.34
+
+Opgave 10-34 ............................................................................................ 10-55
+
+10.4.35
+
+Opgave 10-35 ............................................................................................ 10-56
+
+10.4.36
+
+Opgave 10-36 ............................................................................................ 10-57
+
+10.4.37
+
+Opgave 10-37 ............................................................................................ 10-58
+
+10.4.38
+
+Opgave 10-38 ............................................................................................ 10-59
+
+10.4.39
+
+Opgave 10-39 ............................................................................................ 10-60
+
+10.4.40
+
+Opgave 10-40 ............................................................................................ 10-61
+
+10.4.41
+
+Opgave 10-41 ............................................................................................ 10-62
+
+10.4.42
+
+Opgave 10-42 ............................................................................................ 10-63
+
+10.4.43
+
+Opgave 10-43 ............................................................................................ 10-64
+
+10.4.44
+
+Opgave 10-44 ............................................................................................ 10-65
+
+10.4.45
+
+Opgave 10-45 ............................................................................................ 10-66
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.46
+
+Opgave 10-46 ............................................................................................ 10-67
+
+10.4.47
+
+Opgave 10-47 ............................................................................................ 10-68
+
+10.4.48
+
+Opgave 10-48 ............................................................................................ 10-69
+
+10.4.49
+
+Opgave 10-49 ............................................................................................ 10-70
+
+10.4.50
+
+Opgave 10-50 ............................................................................................ 10-71
+
+10.4.51
+
+Opgave 10-51 ............................................................................................ 10-72
+
+10.4.52
+
+Opgave 10-52 ............................................................................................ 10-73
+
+10.4.53
+
+Opgave 10-53 ............................................................................................ 10-74
+
+10.4.54
+
+Opgave 10-54 ............................................................................................ 10-75
+
+10.4.55
+
+Opgave 10-55 ............................................................................................ 10-76
+
+10.4.56
+
+Opgave 10-56 ............................................................................................ 10-77
+
+10.4.57
+
+Opgave 10-57 ............................................................................................ 10-78
+
+10.5
+
+Uitwerkingen ...................................................................................................10-79
+
+10.5.1 Uitwerking van Opgave 10-1 ......................................................................10-80
+10.5.2 Uitwerking van Opgave 10-2 ......................................................................10-81
+10.5.3 Uitwerking van Opgave 10-3 ......................................................................10-82
+10.5.4 Uitwerking van Opgave 10-4 ......................................................................10-83
+10.5.5 Uitwerking van Opgave 10-5 ......................................................................10-84
+10.5.6 Uitwerking van Opgave 10-6 ......................................................................10-86
+10.5.7 Uitwerking van Opgave 10-7 ......................................................................10-87
+10.5.8 Uitwerking van Opgave 10-8 ......................................................................10-88
+10.5.9 Uitwerking van Opgave 10-9 ......................................................................10-89
+10.5.10
+
+Uitwerking van Opgave 10-10 .................................................................10-90
+
+10.5.11
+
+Uitwerking van Opgave 10-11 .................................................................10-91
+
+10.5.12
+
+Uitwerking van Opgave 10-12 .................................................................10-92
+
+10.5.13
+
+Uitwerking van Opgave 10-13 .................................................................10-93
+
+10.5.14
+
+Uitwerking van Opgave 10-14 .................................................................10-94
+
+10.5.15
+
+Uitwerking van Opgave 10-15 .................................................................10-95
+
+10.5.16
+
+Uitwerking van Opgave 10-16 .................................................................10-96
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.17
+
+Uitwerking van Opgave 10-17 .................................................................10-97
+
+10.5.18
+
+Uitwerking van Opgave 10-18 .................................................................10-98
+
+10.5.19
+
+Uitwerking van Opgave 10-19 .................................................................10-99
+
+10.5.20
+
+Uitwerking van Opgave 10-20 ............................................................... 10-100
+
+10.5.21
+
+Uitwerking van Opgave 10-21 ............................................................... 10-101
+
+10.5.22
+
+Uitwerking van Opgave 10-22 ............................................................... 10-102
+
+10.5.23
+
+Uitwerking van Opgave 10-23 ............................................................... 10-103
+
+10.5.24
+
+Uitwerking van Opgave 10-24 ............................................................... 10-104
+
+10.5.25
+
+Uitwerking van Opgave 10-25 ............................................................... 10-105
+
+10.5.26
+
+Uitwerking van Opgave 10-26 ............................................................... 10-106
+
+10.5.27
+
+Uitwerking van Opgave 10-27 ............................................................... 10-107
+
+10.5.28
+
+Uitwerking van Opgave 10-28 ............................................................... 10-108
+
+10.5.29
+
+Uitwerking van Opgave 10-29 ............................................................... 10-109
+
+10.5.30
+
+Uitwerking van Opgave 10-30 ............................................................... 10-110
+
+10.5.31
+
+Uitwerking van Opgave 10-31 ............................................................... 10-111
+
+10.5.32
+
+Uitwerking van Opgave 10-32 ............................................................... 10-112
+
+10.5.33
+
+Uitwerking van Opgave 10-33 ............................................................... 10-113
+
+10.5.34
+
+Uitwerking van Opgave 10-34 ............................................................... 10-114
+
+10.5.35
+
+Uitwerking van Opgave 10-35 ............................................................... 10-115
+
+10.5.36
+
+Uitwerking van Opgave 10-36 ............................................................... 10-116
+
+10.5.37
+
+Uitwerking van Opgave 10-37 ............................................................... 10-117
+
+10.5.38
+
+Uitwerking van Opgave 10-38 ............................................................... 10-118
+
+10.5.39
+
+Uitwerking van Opgave 10-39 ............................................................... 10-119
+
+10.5.40
+
+Uitwerking van Opgave 10-40 ............................................................... 10-120
+
+10.5.41
+
+Uitwerking van Opgave 10-41 ............................................................... 10-121
+
+10.5.42
+
+Uitwerking van Opgave 10-42 ............................................................... 10-122
+
+10.5.43
+
+Uitwerking van Opgave 10-43 ............................................................... 10-123
+
+10.5.44
+
+Uitwerking van Opgave 10-44 ............................................................... 10-124
+
+10.5.45
+
+Uitwerking van Opgave 10-45 ............................................................... 10-125
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.46
+
+Uitwerking van Opgave 10-46 ............................................................... 10-126
+
+10.5.47
+
+Uitwerking van Opgave 10-47 ............................................................... 10-127
+
+10.5.48
+
+Uitwerking van Opgave 10-48 ............................................................... 10-128
+
+10.5.49
+
+Uitwerking van Opgave 10-49 ............................................................... 10-129
+
+10.5.50
+
+Uitwerking van Opgave 10-50 ............................................................... 10-130
+
+10.5.51
+
+Uitwerking van Opgave 10-51 ............................................................... 10-131
+
+10.5.52
+
+Uitwerking van Opgave 10-52 ............................................................... 10-132
+
+10.5.53
+
+Uitwerking van Opgave 10-53 ............................................................... 10-133
+
+10.5.54
+
+Uitwerking van Opgave 10-54 ............................................................... 10-134
+
+10.5.55
+
+Uitwerking van Opgave 10-55 ............................................................... 10-135
+
+10.5.56
+
+Uitwerking van Opgave 10-56 ............................................................... 10-136
+
+10.5.57
+
+Uitwerking van Opgave 10-57 ............................................................... 10-137
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10 57 uitgewerkte examenopgaven bij Hoofdstuk 10
+10.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk10
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 verschillende
+examenvragen zijn gesteld. Die weg is daarom tijdrovend en de slagingskans klein. Bedenk
+ook dat examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de
+antwoorden op meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk
+zijn aan hun voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar
+heel veel examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de volledige tekst van het leerhoofdstuk
+staan. In de verkorte versies staan geen opgaven! Loop daarna de verkorte versie nog een
+keer door om te zien of alles bekend is. Begin pas dan aan de examenvragen in deze
+bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave. Het goede antwoord is vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat een andere weg ook tot een goed
+antwoord leidt.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave. Dat is deze:
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie om wat voor reden ook alleen geïnteresseerd is in de
+uitwerkingen: je kunt alle uitwerkingen ook achter elkaar doorlezen in paragraaf 10.5
+
+10.2 Enkele opmerkingen
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Een enkele keer staat er
+(3). Dat was dan een extra volle examenmaand. Als er in een maand maar één examen is
+geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats daarvan een volledige
+datum. Vóór het jaar 2008, waren er maar twee examens per jaar: het voorjaars- en
+najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en plotseling, bijvoorbeeld 10
+jaar of nog meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden Een
+betere frequentiestabiliteit van een 2-meterzender kan worden verkregen doorvoor het
+laatst in een examen zat, nooit meer zal voorkomen. Maar een opgave die vaak voorkomt,
+zal een grotere kans hebben om weer op te duiken dan één die maar één of twee keer is
+voorgekomen. Maar reken bij voorkeur nergens op.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”), schema’s en andere zaken. We raden aan, dit eerst door te
+nemen, maar wie zich zeker genoeg voelt, kan natuurlijk ook meteen naar de opgaven
+gaan. Elke cursist is eigen baas.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.3 Formularium
+10.3.1 Tegenkoppeling
+Bij tegenkoppeling wordt een deel van het uitgangsvermogen, spanning of -stroom in
+tegenfase teruggevoerd naar de ingang. Dat moet leiden tot een aanpassing van de
+eigenschappen van de schakeling aan de eigenschappen van het tegenkoppelende element.
+De prijs daarvoor is minder versterking. Misschien de meest eenvoudige vorm van
+tegenkoppeling is de niet-ontkoppelde emitter-, source- of kathodeweerstand. We
+behandelen tegenkoppeling voornamelijk aan de hand van opamps.
+10.3.2 De opamp (operational amplifier)
+Een opamp heeft een inverterende en een niet-inverterende ingang. In schema’s wordt de
+eerste aangegeven met een minteken, de tweede met een plus.
+De voeding heeft een positieve en een even grote negatieve spanning. Zo kan de
+uitgangsspanning zowel positief als negatief zijn. Min of meer standaard is +15 V en -15 V.
+
+Figuur 10.3-1. Links: opamp met voedingsaansluitingen, rechts met een positieve en een negatieve
+spanningsbron.
+
+Enkele eigenschappen zijn
+•
+•
+•
+•
+•
+
+Een zeer hoge versterking (“open-lus-versterking”, meestal in de orde van 100 000,
+maar afnemend met stijgende frequentie.
+Een zeer hoge ingangsweerstand
+Een lage uitgangsweerstand.
+Een laag uitgangsvermogen
+Een frequentiebereik (bandbreedte) dat afhangt van de gerealiseerde versterking
+(bandbreedte maal gerealiseerde versterking is een vast getal dat afhangt van het
+type). Een opamp versterkt ook gelijkspanning.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-8
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+Bij de tegengekoppelde opamp mogen de spanningen op beide ingangen gelijk
+worden verondersteld, omdat de open-lus-versterking zo groot is.
+
+10.3.3 Schakelingen met opamps
+Versterkingsschakelingen met opamps zijn altijd tegengekoppeld.
+De inverterende opamp
+Het schema staat in Figuur 10.3-2.
+
+Figuur 10.3-2. Inverterende opamp-schakeling.
+
+Vergelijking voor de versterking:
+𝑈𝑢𝑖𝑡 = −
+
+𝑅2
+𝑈
+𝑅1 𝑖𝑛
+
+Let op het minteken. Voor een wisselspanning betekent dit dat 𝑈𝑢𝑖𝑡 in tegenfase is met
+𝑈𝑖𝑛 . De ingangsweerstand van deze schakeling is 𝑅1 .
+De niet-inverterende opamp
+In tegenstelling tot de inverterende opamp staat de ingangsspanning 𝑈𝑖𝑛 op de nietinverterende ingang (Figuur 10.3-3).
+
+Figuur 10.3-3. Niet-inverterende opamp.
+
+Vergelijking voor de versterking:
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+𝑈uit
+𝑅2
+= 1+
+𝑈𝑖n
+𝑅1
+Verschil met de inverterende opamp: versterking positief en 1 meer dan de
+weerstandsverhouding bij de inverterende opamp
+De ingangsweerstand is zeer hoog.
+De spanningsvolger
+Bij de spanningsvolger is de inverterende ingang rechtstreeks verbonden met de uitgang.
+De niet-inverterende ingang is de signaalingang (Figuur 10.3-4)
+
+Figuur 10.3-4. De spanningsvolger.
+
+De spanningsversterking is 1, dus 𝑈𝑢𝑖𝑡 = 𝑈𝑖𝑛 .
+De ingangsweerstand is zeer hoog, de uitgangsweerstand zeer laag. Toepassing:
+bufferversterker tussen twee schakelingen, zodat de eerste niet wordt belast door de
+tweede.
+De optelversterker
+De optelversterker doet wat zijn naam belooft: spanningen optellen (Figuur 10.3-5)
+
+Figuur 10.3-5. Optelversterker.
+
+De vergelijking is:
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+𝑈1 𝑈2 𝑈3
+) 𝑅4
+𝑈uit = − ( +
++
+𝑅1 𝑅2 𝑅3
+De schakeling zet een minteken voor de optelling. Indien nodig is dat te verhelpen met
+een tweede inverterende versterker volgens Figuur 10.3-2 met 𝑅1 = 𝑅2 .
+De verschilversterker
+Dit is de moeilijkste versterkerschakeling met een opamp die bij het zendexamen
+voorkomt. Figuur 10.3-6 toont het schema.
+
+Figuur 10.3-6. De verschilversterker.
+
+De vergelijking:
+𝑈uit = −
+
+𝑅3
+𝑅4
+𝑅1 + 𝑅3
+𝑈1 +
+.
+. 𝑈2
+𝑅1
+𝑅2 + 𝑅4
+𝑅1
+
+Als alle weerstanden gelijk zijn, vereenvoudigt dit zich tot
+𝑈uit = −𝑈1 + 𝑈2
+De laatste vergelijking kun je beter onthouden; de eerste zal niet snel worden gevraagd.
+De spanningsvergelijker
+De spanningsvergelijker vergelijkt spanningen. Hij is niet tegengekoppeld (Figuur 10.3-7.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
++
+-
+
+Uref
+
+Uuit
+Uin
+
++
+-
+
+Figuur 10.3-7. De spanningsvergelijker met voedingsaansluitingen.
+
+Als in Figuur 10.3-7 Uin > Uref, dan is Uuit positief, in het tegengestelde geval negatief.
+Wordt Uref verbonden met de niet-inverterende ingang en Uin met de inverterende, dan is
+de werking andersom. Even opletten dus.
+10.3.4 Meekoppeling: oscillatoren
+Een oscillator werkt bij de gratie van positieve terugkoppeling (meekoppeling). Daarbij
+moet het teruggekoppelde signaal in fase op de ingang van het versterkende element
+terugkomen. Het frequentiebepalende element is bij de hier behandelde oscillatoren een
+LC-kring of een kristal.
+Oscillatievoorwaarde is dat de rondgaande versterking bij het begin van de oscillatie 1 is
+en vervolgens 1. Dat gebeurt vanzelf, meestal doordat het versterkende element zichzelf
+in klasse B of C trekt via gelijkrichting op de basis-emitter-overgang, rooster-kathodecombinatie of via de gate-source-diode.
+Een oscillator is zo los mogelijk gekoppeld aan de schakeling die de opgewekte frequentie
+verwerkt. Dat beperkt beïnvloeding van de oscillator door de aanhangende schakeling.
+Als de resonantiefrequentie fres wordt bepaald door een LC-kring, is deze te berekenen
+met de vergelijking van Thomson:
+1
+1
+𝜔res =
+wat hetzelfde is als 𝑓res =
+2𝜋√𝐿𝐶
+√𝐿𝐶
+Er zijn drie hoofdgroepen van oscillatoren. Dat zijn oscillatoren in:
+•
+•
+•
+
+Gemeenschappelijke drain-, collector- en anodeschakeling (GDS, GCS, GAS)
+Gemeenschappelijke gate-, basis- en roosterschakeling (GGS, GBS, GRS)
+Gemeenschappelijke source-, emitter- en kathodeschakeling (GSS, GES, GKS)
+
+Daarbinnen zijn er twee hoofdtypen:
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-12
+
+VRZA-cursus radiozendamateur
+
+•
+•
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+Met aftakking op de spoel: Hartley-oscillatoren,
+Met capacitieve aftakking: Colpitts-oscillatoren.
+
+Dat ziet er zo uit (Figuur 10.3-8):
+
+Figuur 10.3-8. Hoofdkenmerk van Hartley- en Colpitts-schakelingen.
+
+Door de capaciteit geheel of gedeeltelijk als varicap uit te voeren, kan een
+spanninggestuurde oscillator worden gemaakt Figuur 10.3-9).
+
+Figuur 10.3-9. Clapp-oscillator (variant op de Colpitts, let op de capacitieve aftakking) met varicap
+(afstemdiode, D1)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+De afstemkring kan ook een kwartskristal zijn. De twee tegenoverliggende oppervlakken
+van het kristalplaatje zijn gemetalliseerd ter wille van het elektrische contact. Zo’n kristal
+kan als serie- en als parallelkring worden gezien. De beide resonantiefrequenties
+verschillen maar weinig.
+
+Figuur 10.3-10. Vervangingsschema’s van een kwartskristal. (a) en (b) lijken op het eerste gezicht
+verschillend, maar zijn het niet. De houdercapaciteit C2 omvat onder meer de capaciteit tussen de twee
+gemetalliseerde vlakken.
+
+De schakeling van een kristaloscillator kan een Colpitts-oscillator zijn, waarin de spoel is
+vervangen door een kristal. Er zijn twee schakelingen, waarbij je je op het eerste gezicht
+afvraagt, hoe dat ding kan oscilleren. Dat zijn de Pierce- en de Miller-oscillator. Daarom
+laten we ze zien Ze staan ook in de cursustekst. Figuur 10.3-11 toont de Pierce-oscillator.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+Figuur 10.3-11. Pierce-oscillator.
+
+Deze terugkoppeling van drain naar gate lijkt op een tegenkoppeling met een 180 graden
+in fase gedraaid signaal. Het kristal geeft echter nog een fasedraaiing van 180 graden.
+Samen is dat 360 graden en dat betekent meekoppeling. De schakeling werkt ook met
+transistor of buis.
+Met een afgestemde kring in de drainleiding kan een overtone-oscillator worden gemaakt.
+
+Figuur 10.3-12. Pierce-oscillator als overtone-osciollator met een op de overtone afgestemde kring in het
+draincircuit.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+Als de kring wordt afgestemd op een oneven harmonische van de kristalfrequentie
+oscilleert de Pierce-oscillator op die boventoon (overtone). Op die manier zijn stabiele
+hogere frequenties op te wekken dan met een kristal in een “gewone” oscillatorschakeling.
+Voor frequenties boven circa 20 MHz zijn vrijwel alle kristaloscillatoren overtoneoscillatoren.
+Het kan op ongeveer dezelfde manier ook met een Miller-oscillator (Figuur 10.3-13).
+
+Figuur 10.3-13. Miller-oscillator als overtone-oscillator
+
+Zolang de afgestemde LC-kring resoneert op een oneven harmonische van de
+grondfrequentie van het kristal, levert de schakeling die harmonische. De condensator in
+de LC-kring kan ook een instelbaar type zijn.
+Beide overtone-schakelingen kunnen ook met een transistor of buis (de Miller alleen met
+triode vanwege het Miller-effect dat met een schermrooster wordt onderdrukt) worden
+uitgerust.
+10.3.5 Spanningsstabilisatoren en lineaire voedingsschakelingen
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+R
+Uin
+
+UZ
+Uuit  UZ -0,6 V
+
+Re
+
+Figuur 10.3-14. Zenerdiode, gevolgd door een emittervolger.
+
+Een schakeling met een zenerdiode, gevolgd door een emittervolger of sourcevolger
+(Figuur 10.3-14) levert een vrij constante spanning. De emitter- of sourcevolger vangt de
+belastingvariaties grotendeels op, zodat de zenerspanning redelijk constant kan blijven.
+Een punt om op te letten: bij toepassing van een Si-transistor is de uitgangsspanning op de
+emitter 0,6 tot 0,7 V lager dan de zenerspanning als gevolg van de spanning over de basisemitterovergang. Bij een Ge-transistor is het verschil ongeveer 0,2 V.
+Met tegenkoppeling wordt de uitgangsspanning nog minder afhankelijk van de belasting
+(Figuur 10.3-15).
+T2
+
+R1
+
+R2
+R3
++
+
+Uin
+
++
+
+T1
+
+C2
+
+Uuit
+
+Tegenkoppellus
+
+C1
+D1
+
+R4
+
+Figuur 10.3-15. Spanningsstabilisator met tegenkoppeling.
+
+De tegenkoppellus bestaat uit de spanningsdeler R3 en R4, zenerdiode D1 en transistor T1.
+De lus zorgt ervoor dat de basisspanning van T1 gelijk blijft aan zenerspanning +
+voorspanning basis-emitterovergang van T1. Het kan ook volgens Figuur 10.3-16 met een
+opamp-spanningvergelijker in plaats van transistor T1.
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+T2
+R1
++
+Uin
+
+R3
++ U
+uit
+C2
+
++
+C1
+D1
+
+R4
+
+Figuur 10.3-16. Schakeling als in Figuur 10.3-15 met een als spanningsvergelijker geschakelde opamp.
+
+10.3.6 Schakelende voedingen met pulsbreedtemodulatie
+De drie belangrijkste onderdelen zijn een smoorspoel, schakelend element (transistor,
+soms FET) en een gelijkrichtdiode. Hun onderlinge positie bepaalt wat de schakeling doet.
+We behandelen drie schakelingen:
+•
+•
+•
+
+één die de ingangsspanning omhoog brengt (step-up)
+één die de ingangsspanning omlaag brengt (step-down)
+één die de ingangsspanning inverteert. Plus wordt min of min wordt plus
+(inverter).
+
+We tonen de drie schema’s uit het cursusboek. In alle gevallen geven de rode pijlen de
+situatie bij geleidend schakelend element en de blauwe bij een gesperd schakelend
+element. Wees erop bedacht dat in examenopgaven uit het verleden soms onjuiste
+spanningsvormen zijn aangegeven. Let daarom vooral op de posities van de genoemde drie
+belangrijke onderdelen.
+De step-up-schakeling
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+L1
+
+P
+
++
+
++
+D1
+R3
+
+Uin
+
++ PWM
+R1
+C1
+Regelspanning
+
+T1
+
+IC1
+
+C2
+Uref
+
+I door L1
+
++
+
+Uuit
+
+R4
+
+U op punt P
+Uuit>Uin
+
+PWM
+Figuur 10.3-17. Step-up schakeling.
+
+De diode zorgt dat de uitgangsspanning Uuit over C2 minimaal is opgeladen tot Uin.
+Daarbovenop komen de schakelpieken van de smoorspoel, zodat 𝑈uit > 𝑈in .
+De step-down schakeling
+
++
+
+L1
+
+P
+
+T1
+
++
+
+R1
+Uin
+
+R3
+
++ PWM
+C1
+
+D1
+
+IC1
+
+C2
+Uref
+
++
+
+Uuit
+
+R4
+
+Regelspanning
+Udiode
+I door L1
+
+U op punt P
+
+Uuit<Uin
+
+PWM
+Figuur 10.3-18. Step-down schakeling.
+
+Ten opzichte van Figuur 10.3-17 hebben smoorspoel, schakelend element (transistor, soms
+FET) en een gelijkrichtdiode een stapje rechtsom gemaakt. Ze zitten op andere posities in
+de schakeling. De spanning Uuit moet kleiner blijven dan Uin omdat anders transistor T1
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+niet meer kan werken. De uitgangsspanning Uuit is bij benadering gelijk aan de duty cycle
+Dpuls van de pulsspanning op de basis van T1 maal de ingangsspanning Uin:
+𝑈𝑢𝑖𝑡 ≈ 𝐷puls . 𝑈𝑖𝑛
+De inverterende schakeling
+
++
+
+T1
+
+P
+
+D1
+
+R1
+Uin
+
++ PWM
+
+R3
+L1
+
+IC1
+
+C2
+
+C1
+Uref
+
++
+
+Uuit
+
+R4
+
+Regelspanning
++
+I door L1
+
+U op punt P 0
+-
+
+PWM
+
+Uin> 0 V
+Uuit< 0 V
+
+Figuur 10.3-19. Inverterschakeling.
+
+Ten opzichte van de step-down-schakeling hebben spoel en diode van plaats gewisseld.
+De diode staat met de anode naar de uitgang, zodat de uitgangsspanning negatief moet
+zijn. Dat is ook te zien aan de polariteit van de elco C2. De werking staat in de cursustekst;
+die herhalen we niet. Het is op het examen vooral een kwestie van kunnen herkennen
+wat wat is.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4 Opgaven
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.1 Opgave 10-1
+
++
+R1
+
+R3
+
+C2
+uit
+
+C1
+in
+
+R2
+
+R4
+
+C3
+
+De weerstanden R1 en R2 zorgen voor
+A. Vaste voorspanning
+B. Tegenkoppeling
+C. Automatische voorspanning
+D. Ontkoppeling
+(F-examen juli 2009, juli 2010, 7-09-2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.2 Opgave 10-2
+
+in
+
++
+
+uit
+
+Dit is een schema van een
+A. Laagdoorlaatfilter
+B. Spanningvolger
+C. Hoogdoorlaatfilter
+D. Somversterker
+(F-examen mei 2016 (2), 7-09-2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.3 Opgave 10-3
+10 k
+
+10 k
+Uin= +1V
++
+
+Uuit
+
+De uitgangsspanning Uuit is:
+A. 0 V
+B. -2 V
+C. -1 V
+D. +1 V
+(F-examen januari 2015, 2-11-2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.4 Opgave 10-4
+In een LC-oscillator vindt de positieve terugkoppeling van de uitgang naar de ingang
+gebruikelijk plaats door middel van een
+A. Capacitieve deler
+B. Neutrodyne condensator
+C. NTC-weerstand
+D. Zenerdiode
+(F-examen najaar 2001, september 2009 (2), december 2010, mei 2011 (2), mei 2012 (2),
+september 2013 (2), 2-11-2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.5 Opgave 10-5
++12V
+
++12V
+
+10k
+1nF
+
+22k
+
+10k
+1nF
+
+22k
+100pF
+
+100pF
+
+100H
+1F
+
+100H
+2000pF
+
+2k
+
+1F
+
+2000pF
+
+2k
+
+500
+
+500
+
+X
+
+Y
+
+Welke schakeling oscilleert op de resonantiefrequentie van de LC-kring?
+A. Uitsluitend schakeling X
+B. Geen van beide schakelingen
+C. Zowel schakeling X als schakeling Y
+D. Uitsluitend schakeling Y
+(F-examen voorjaar 2000, september 2010 (2), 01-03-2017)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.6 Opgave 10-6
+2 k
+
+1 k
+
++
+2V
+
+3 k
+
+-
+
+5V
+
++
+
++
+
+Uuit
+
+De uitgangsspanning Uuit is ongeveer
+A. 0 V
+B. 1,0 V
+C. 2,0 V
+D. 0,7 V
+(F-examen voorjaar 2002, voorjaar 2006, 17-05-2017, maart 2018, 05-09-2018)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.7 Opgave 10-7
+Bij een werkende oscillator wordt aan de volgende voorwaarden voldaan:
+A. Rondgaande versterking groter dan 1; rondgaande fasedraaiing 180º
+B. Rondgaande versterking kleiner dan 1; rondgaande fasedraaiing 270º
+C. Rondgaande versterking gelijk aan 1; rondgaande fasedraaiing 360º
+D. Rondgaande versterking oneindig; rondgaande fasedraaiing 90º
+(F-examen voorjaar 2005, 17-05-2018)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.8 Opgave 10-8
+
+De uitgangsspanning Uuit van de schakeling met siliciumtransistor is ongeveer:
+A. 5,0 V
+B. 8,4 V
+C. 5,6 V
+D. 6,2 V
+(F-examen maart 2009 (2), januari 2010, februari 2010 (2), april 2010, mei 2010 (1),
+augustus 2010, februari 2011, augustis 2011, september 2011 (1), maart 2012, maart 2013,
+november 2014 (1), 06-09-2017, september 2017))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.9 Opgave 10-9
+Dit is een schema van een
+A. modulator
+B. laagdoorlaatfilter
+C. verschilversterker
+D. hoogdoorlaatfilter
+(F-examen najaar 2000, oktober 2008 (1), mei 2009 (2),
+november 2009, januari 2013, mei 2015 (1), september 2017)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.10 Opgave 10-10
+Het aanbrengen van meekoppeling in een versterker kan tot gevolg hebben dat:
+A. De vervorming afneemt
+B. De versterker ongevoeliger wordt
+C. De versterker gaat oscilleren
+D. De versterker stabieler wordt
+(F-examen september 2010 (2), 06-09-2017, mei 2019 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.11 Opgave 10-11
+In een LC-oscillator vindt de positieve terugkoppeling van de uitgang naar de ingang
+gebruikelijk plaats door een:
+A. Zenerdiode
+B. Neutrodyne condensator
+C. NTC-weerstand
+D. Spoel met aftakking
+(F-examen 06-09-2017)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.12 Opgave 10-12
+Een capaciteitsdiode (varicap) wordt vaak gebruikt om
+A. Een signaal gelijk te richten
+B. Een oscillator te verstemmen
+C. Een spanning constant te houden
+D. Een stroom te variëren
+(F-examen april 2008, 01-11-2017, 07-11-2018)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.13 Opgave 10-13
+De open-lus versterkingsfactor van een OpAmp bij een frequentie van 1 kHz is in de
+praktijk ongeveer
+A. 1.000
+B. 10
+C. 100.000
+D. 100
+(F-examen november 2011, januari 2013, september 2014 (1), 01-11-2017)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.14 Opgave 10-14
+De uitgangsspanning Uuit is
+A. 0 V
+B. -2 V
+C. -1 V
+D. +1 V
+
+100 k
+
+100 k
+
+100 k
++
+
++
+
+-
+
+1V
+
+1V
+
++
+
+(F-examen najaar 2003, augustus 2009, maart 2013, 10-01-2018)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-35
+
+Uuit
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.15 Opgave 10-15
+X is een kwartskristal voor 7 MHz (grondtoon). Ui wordt opgewekt door een
+signaalgenerator met nauwkeurig instelbare
+frequentie f. Als f heel langzaam van 6,99
+MHz naar 7,01MHz wordt veranderd, is op
+de voltmeter te zien dat het kristal resoneert.
+Op de voltmeter ziet men:
+A. Een dip gevolgd door een piek
+B. Een piek gevolgd door een dip
+C. Alleen één piek
+D. Alleen één dip
+(F-examen mei 2011 (2), mei 2012 (1), mei 2016 (1), 07-03-2018, 16-05-2018, mei 2019
+(1), september 2019)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.16 Opgave 10-16
+Het gebruikelijke vervangingsschema voor een kwartskristal is:
+
+A. Schema 1
+B. Schema 4
+C. Schema 3
+D. Schema 2
+(F-examen december 2010, september 2011 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.17 Opgave 10-17
+47 k
+10 k
+
+Uin= +1V
+
++
+
+Uuit
+
+De uitgangsspanning Uuit is
+A. +4,7 V
+B. -5,7 V
+C. +5,7 V
+D. -4,7 V
+(F-examen 7-03-2018)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.18 Opgave 10-18
+De uitgangsspanning Uuit is:
++12 V
+
+A. +1 V
+B. -1 V
+C. +12 V
+D. 0 V
+(F-examen september 2019)
+
++
+Uin=1V
+
+Uuit
+-12 V
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.19 Opgave 10-19
+Deze LC-oscillator blijkt niet te werken.
+De gelijkspanning wordt op enkele punten gemeten; de waarden staan in het schema. Het
+waarschijnlijke defect is:
+
+A. R2 onderbroken
+B. L2 onderbroken
+C. L1 kortgesloten
+D. C3 kortgesloten
+(F-examen september 2007, mei 2010 (1), mei 2011 (1), mei 2013 (2), september 2014, 2905-2018)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.20 Opgave 10-20
+De uitgangsspanning Uuit is
+
+A. – (𝑈1 + 𝑈2 )
+B. 𝑈2 − 𝑈1
+C. 𝑈1 + 𝑈2
+D. 𝑈1 − 𝑈2
+(F-examen september 2008, januari 2018, 09-01-2019)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.21 Opgave 10-21
+Welke schakeling kan als overtone-oscillator werken?
+
+A. Alleen schakeling Y
+B. Schakeling X en Y
+C. Alleen schakeling X
+D. Geen van beide schakelingen
+(F-examen februari 2011, 06-03-2019)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.22 Opgave 10-22
+De frequentie waarop een oscillator werkt, wordt voornamelijk bepaald door
+A. Het versterkende element
+B. De rondgaande versterking
+C. De LC-combinatie
+D. De terugkoppelfactor
+
+(F-examen najaar 2007, 06-03-2019)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.23 Opgave 10-23
+Om een oscillator elektrisch te verstemmen, wordt bij voorkeur gebruik gemaakt van:
+A. LED
+B. Diodenbrug
+C. Varicapdiode
+D. Zenerdiode
+(F-examen december 2011, mei 2014 (2), mei 2016 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.24 Opgave 10-24
+De spanning over Rb moet worden gestabiliseerd op 5 volt. Rs moet zijn:
+A. 24 
+B. 50 
+C. 20 
+D. 10 
+
+(F-examen najaar 2001, september 2010 (2), november 2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.25 Opgave 10-25
+De belastingsstroom Ibel varieert van 100 mA tot 300 mA. Het maximaal door de
+zenerdiode gedissipeerde vermogen is
+
+A. 2 W
+B. 3 W
+C. 1 W
+D. 8 W
+(F-examen najaar 2000, juli 2009, september 2009 (1), januari 2010, november 2010 (2),
+december 2010, maart 2011 (2), mei 2013 (2), november 2013 (1), mei 2016 (1), september
+2017, januari 2020)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.26 Opgave 10-26
+Een kwartskristal gedraagt zich als:
+A. Een oscillator
+B. Een resonantiekring
+C. Een detector
+D. Een afvlakfilter
+(F-examen april 2008)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.27 Opgave 10-27
+De schakeling werkt als overtone-oscillator.
+
+Stelling 1: de kring is afgestemd op de tweede harmonische van het kristal
+Stelling 2: het kristal werkt in serie-resonantie
+Wat is juist:
+A. Alleen stelling 2
+B. Stelling 1 en 2
+C. Geen van beide stellingen
+D. Alleen stelling 1
+(F-examen najaar 2005, november 2009, maart 2010, september 2010 (1), maart 2011 (2),
+juli 2011, september 2014 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.28 Opgave 10-28
+Door het sluiten van de schakelaar S wordt:
+A. De versterking kleiner en de bandbreedte kleiner
+B. De versterking groter en de bandbreedte kleiner
+C. De versterking kleiner en de bandbreedte groter
+D. De versterking groter en de bandbreedte groter
+
+(F-examen najaar 2003, mei 2009 (2), oktober 2009, maart 2010, maart 2012)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.29 Opgave 10-29
+De uitgangsspanning Uuit van de
+schakeling met een siliciumtransistor is
+ongeveer:
+A. 6,3 V
+B. 7 V
+C. 7,7 V
+D. 8,4 V
+
+(F-examen april 2008, november 2013 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.30 Opgave 10-30
+De frequentiestabiliteit van een oscillator met een FET kan worden verbeterd door
+A. De temperatuurvariaties te verkleinen
+B. De gate-spanning te verkleinen
+C. De gate-impedantie te verhogen
+D. Het afknijppunt te verleggen
+
+(F-examen maart 2011 (2), september 2011 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.31 Opgave 10-31
+Om een gestabiliseerde spanning op punt P te verkrijgen, moet punt 1 worden
+doorverbonden met
+A. Punt 3
+B. Punt 5
+C. Punt 2
+D. Punt 4
+
+(F-examen voorjaar 2002, maart 2009
+(2), november 2016, mei 2017 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.32 Opgave 10-32
+
+De versterking van de schakeling is:
+A. 0,1x
+B. 10x
+C. 11x
+D. 10.000x
+(F-examen april 2008, juli 2009, september 2009 (1), mei 2011 (3), september 2012)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.33 Opgave 10-33
+
+De versterking van de schakeling is:
+A. 0,1x
+B. 10x
+C. 11x
+D. 10.000x
+(F-examen voorjaar 2004, oktober 2008 (1), november 2008 (1), januari 2009, mei 2013
+(2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.34 Opgave 10-34
+
+De schakeling stelt voor een:
+A. Hoogdoorlaatfilter
+B. Laagdoorlaarfilter
+C. Verschilversterker
+D. Modulator
+(F-examennajaar 2002, april 2009, februari 2011, November 2014 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.35 Opgave 10-35
+De uitgangsspanning Uuit is:
+A. +6,6 V
+B. -5,6 V
+C. -1 V
+D. +1 V
+(F-examen mei 2009 (1), maart 2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.36 Opgave 10-36
+De schakeling stelt voor een
+A. Spanningvolger
+B. Somversterker
+C. Detector
+D. Verschilversterker
+(F-examen maart 2010)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.37 Opgave 10-37
+
+Dit is het schema van een:
+A. Verschilversterker
+B. Laagdoorlaatfilter
+C. Modulator
+D. Hoogdoorlaatfilter
+(F-examen september 2010 (1), september 2014 (2), januari 2015)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.38 Opgave 10-38
+
+De versterking van de schakeling is:
+A. 0,1
+B. 10
+C. 11
+D. 10.000
+(F-examen voorjaar 2001)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.39 Opgave 10-39
+Dit is het schema van een:
+A. Somversterker
+B. Spanningsvolger
+C. Hoogdoorlaatfilter
+D. Laagdoorlaatfilter
+
+(F-examen mei 2011 (2), september 2011 (2), mei 2012 (1 en 2), september 2013 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.40 Opgave 10-40
+De uitgangsimpedantie van een ideale opamp is:
+A. Circa 100 
+B. Circa 1000 
+C. Zéér hoog
+D. Zéér laag
+(F-examen november 2013 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.41 Opgave 10-41
+
+De schakelende voeding wordt
+belast door RL. T1 werkt als een
+schakelaar: open of dicht.
+De spanning UC heeft de
+getekende golfvorm. UU is ongeveer:
+A. 24 V
+B. 6 V
+C. 8 V
+D. 12 V
+(F-examen mei 2009 (2), juli 2011, november 2011, november 2013 (2), september 2016,
+maart 2018, mei 2018 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.42 Opgave 10-42
+
+De schakelende voeding wordt normaal belast door RL. De spanning UC heeft de
+getekende golfvorm.
+UU is:
+A. 4 V
+B. 8 V
+C. 12 V
+D. 24 V
+(F-examen april 2008, januari 2013, augustus 2013, mei 2018 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.43 Opgave 10-43
+
+De uitgangsspanning Uuit van de schakeling met een siliciumtransistor is ongeveer:
+A. 8,4 V
+B. 6,2 V
+C. 5,6 V
+D. 5,0 V
+(F-examen januari 2009)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.44 Opgave 10-44
+
+De schakelende voeding wordt belast door RL. T1 werkt als een schakelaar: open of dicht.
+De basisstroom van T1 heeft de getekende golfvorm.
+
+Uu is ongeveer:
+A. 24 V
+B. 4 V
+C. -12 V
+D. 12 V
+(F-examen maart 2009 (2), augustus 2010, September 2010 (1), maart 2016, mei 2019 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.45 Opgave 10-45
+Een schakelende voeding heeft ten opzichte van een voeding met een vermogenstransistor
+als serie-regelaar het voordeel dat:
+A. De kans op radiostoring kleiner is
+B. Een eenvoudiger regelschakeling kan worden toegepast
+C. Onbelast geen energie wordt verbruikt
+D. Het rendement hoger is
+(F-examen juli 2011, september 2011 (1), november 2011)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.46 Opgave 10-46
+
+De uitgangsspanning Uuit van de schakeling met een siliciumtransistor is ongeveer:
+A. 6,3 V
+B. 7 V
+C. 7,7 V
+D. 8,4 V
+(F-examen april 2008)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.47 Opgave 10-47
+Een overtone-kristaloscillator oscilleert op:
+A. De grondfrequentie
+B. Een oneven harmonische frequentie
+C. Zowel oneven als even harmonische frequenties
+D. Een even harmonische frequentie
+(F-examen maart 2009 (2), mei 2009 (2), mei 2015 (1), mei 2016 (1))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.48 Opgave 10-48
+
+Dit is het schema van een
+A. Zendereindtrap
+B. LF-eindversterker
+C. Gestabiliseerde voeding
+D. Balansmodulator
+(F-examen najaar 2006, november 2011, september 2013 (2))
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.49 Opgave 10-49
+Een HF-oscillator moet elektrisch en mechanisch stabiel zijn om te bereiken dat de
+oscillator geen
+A. Sleutelklikken genereert
+B. Frequentieverloop vertoont
+C. Vervorming veroorzaakt
+D. Overmodulatie veroorzaakt
+(F-examen januari 2011, maart 2011 (2), januari 2013, mei 2015 (1), januari 2019)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.50 Opgave 10-50
+Een betere frequentiestabiliteit van een 2-meterzender kan worden verkregen door:
+A. De eindtrap in klasse C in te stellen
+B. De antenne goed aan te passen
+C. Voedingsspanning van de oscillator te stabiliseren
+D. Eindtrap in klasse B in te stellen
+(F-examen voorjaar 2006, november 2009, december 2010, augustus 2011, september
+2016)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.51 Opgave 10-51
+De frequentiestabiliteit van een oscillator met een FET kan worden verbeterd door:
+A. De gate-spanning te verkleinen
+B. De gate-impedantie te verhogen
+C. Het afknijppunt te verleggen
+D. De temperatuurvariaties te verkleinen
+(F-examen voorjaar 2004, januari 2009, augustus 2009)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.52 Opgave 10-52
+Om de frequentiedrift van een VFO zo klein mogelijk te maken kan men
+A. De voedingsspanning van de VFO stabiliseren
+B. De afgegeven spanning zo hoog mogelijk houden
+C. Een laagdoorlaatfilter opnemen achter de VFO
+D. Alleen de voedingsspanning aansluiten wanneer dit werkelijk vereist is
+(F-examen mei 2011 (1), januari 2020)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.53 Opgave 10-53
+Bij de oscillator is de faseverschuiving tussen de punten X en Y (beide gemeten t.o.v.
+aarde):
+A. 270
+B. 180
+C. 0
+D. 90
+
+(F-examen januari 2009)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.54 Opgave 10-54
+Deze schakeling oscilleert op de frequentie, bepaald
+door
+A. Het X-tal in parallelresonantie
+B. Het X-tal in serieresonantie
+C. C1, C2 en R1
+D. C1, C2 en L1
+
+(F-examen april 2010, december 2011, september 2019)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.55 Opgave 10-55
+C2 is vijf maal zo groot als C1. De schakeling werkt:
+
+A. Als oscillator, zowel met een kristal in parallel- als in serieresonantie
+B. Als oscillator met het kristal in serieresonantie
+C. Als oscillator met het kristal in parallelresonantie
+D. Niet als oscillator
+(F-examen najaar 2007, maart 2013)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.56 Opgave 10-56
+Een kwartskristal gedraagt zich als:
+A. Een oscillator
+B. Een resonantiekring
+C. Een detector
+D. Een afvlakfilter
+(F-examen april 2008, januari 2015)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.4.57 Opgave 10-57
+De impedantiegrafiek van een kwartskristal
+rond de resonantiefrequentie op de
+grondtoon is gegeven in:
+A. Grafiek 4
+B. Grafiek 1
+C. Grafiek 2
+D. Grafiek 3
+(F-examen oktober 2008 (1), maart 2009 (1),
+januari 2011, augustus 2013)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5 Uitwerkingen
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.1 Uitwerking van Opgave 10-1
++
+
+R1
+
+R3
+
+C2
+uit
+
+C1
+in
+
+R2
+
+R4
+
+C3
+
+De weerstanden R1 en R2 zorgen voor
+A. Vaste voorspanning
+B. Tegenkoppeling
+C. Automatische voorspanning
+D. Ontkoppeling
+Uitwerking
+De versterkerschakeling staat in klasse A. De functie van beide weerstanden is het maken
+van een voorspanning Die ligt met de twee weerstanden en de emitterweerstand R4 vast.
+Antwoord A is goed.
+Opmerkingen
+Er is ontkoppeling, maar die verloopt via condensator C3. R4 verzorgt tegenkoppeling voor
+gelijkstroom.
+Het verschil tussen vaste en automatische voorspanning: vast is er altijd; automatisch
+alleen als het nodig is.
+Deze opgave zou je mogelijk eerder verwachten bij hoofdstuk 9, maar omdat bij de
+antwoorden tegenkoppeling wordt genoemd, staat hij hier.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.2 Uitwerking van Opgave 10-2
+
++
+
+in
+
+uit
+
+Dit is een schema van een
+A. Laagdoorlaatfilter
+B. Spanningvolger
+C. Hoogdoorlaatfilter
+D. Somversterker
+Uitwerking
+Aan de ingang van de tegengekoppelde opamp is een hoogdoorlatend filter geschakeld. De
+waarde van de tegenkoppelweerstand is onafhankelijk van de frequentie. Daardoor is de
+versterking hoger, naarmate de frequentie hoger is. Daarmee is niet alleen de
+ingangsschakeling met weerstand en condensator een hoogdoorlaatfilter, maar is de hele
+schakeling het. Dat betekent antwoord C
+Opmerking
+Het nut van de opamp hierbij is dat de belastingsschakeling geen invloed heeft op de
+eigenschappen van het filter.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.3 Uitwerking van Opgave 10-3
+10 k
+
+10 k
+Uin= +1V
++
+
+Uuit
+
+De uitgangsspanning Uuit is:
+A. 0 V
+B. -2 V
+C. -1 V
+D. +1 V
+Uitwerking
+Dit is een inverterende (omkerende) versterker. De spanningsversterking is gelijk aan
+terugkoppelweerstand Rt gedeeld door ingangsweerstand Rin met een minteken ervoor. In
+𝑅
+vergelijkingvorm is dat −𝑈𝑖𝑛 . t⁄𝑅 en daar komt -1 V uit. Anders gezegd: de
+in
+ingangsspanning van +1V wordt vermenigvuldigd met -1 en aan de uitgang vinden we
+daarom Uuit = (−1). (+1V) = −1 V, antwoord C.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.4 Uitwerking van Opgave 10-4
+In een LC-oscillator vindt de positieve terugkoppeling van de uitgang naar de ingang
+gebruikelijk plaats door middel van een
+A. Capacitieve deler
+B. Neutrodyne condensator
+C. NTC-weerstand
+D. Zenerdiode
+Uitwerking
+De terugkoppeling in een LC-oscillator loopt via een capacitieve deler (Colpitts) of een
+inductieve deler (Hartley). In het rijtje antwoorden staat van deze twee alleen de
+capacitieve deler en de rest valt af omdat die niets met oscillatoren van doen heeft.
+Antwoord A dus.
+Opmerking 1
+In Opgave 10-11 staat eenzelfde vraag, maar met een aftakking op de spoel (dus een
+inductieve deler, Hartley).
+Opmerking 2 (voor wie wil weten waar antwoord B vandaan komt)
+Misschien is het goed om iets over antwoord B te zeggen. De neutrodyne of
+neutrodynisatie-condensator zat ooit in de exameneisen en je komt de term af en toe nog
+tegen, zoals hier. Die condensator dient als een soort tegenkoppeling om te voorkomen
+dat een schakeling met aan zowel in- als uitgang een afgestemde parallelkring, aan het
+oscilleren slaat. Die oscillerende schakeling is de in Hoofdstuk 10 kort besproken HuthKühn-oscillator. Toegepast als versterker mag hij juist niet oscilleren. De neutrodynisatiecondensator is daarom een ding dat oscillatie voorkomt.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.5 Uitwerking van Opgave 10-5
++12V
+
++12V
+
+10k
+1nF
+
+22k
+
+10k
+1nF
+
+22k
+100pF
+
+100pF
+
+100H
+1F
+
+100H
+2000pF
+
+2k
+
+1F
+
+500
+
+2000pF
+
+2k
+500
+
+X
+
+Y
+
+Welke schakeling oscilleert op de resonantiefrequentie van de LC-kring?
+A. Uitsluitend schakeling X
+B. Geen van beide schakelingen
+C. Zowel schakeling X als schakeling Y
+D. Uitsluitend schakeling Y
+Uitwerking
+De eerste te beantwoorden vraag is in welke basisschakeling de transistor staat, want we
+moeten weten of het signaal in fase of in tegenfase wordt teruggekoppeld naar de
+signaalingang.
+In beide schema’s is de basis via een condensator van 1 F ontkoppeld naar massa en heeft
+daardoor alleen een constante gelijkspanning. De transistor staat daarom in GBS, de
+Gemeenschappelijke BasisSchakeling (Hoofdstuk 8). De emitter is signaalingang, de
+collector signaaluitgang en in- en uitgangssignaal zijn in fase.
+Het signaal op de collector moet via de afgestemde kring in fase terug naar de emitter. In
+beide schakelingen is de bovenkant van de kring op dezelfde manier verbonden met de
+collector.
+In schakeling X is de onderkant van de kring rechtstreeks verbonden met de emitter en er
+is een capacitieve aftakking naar 0V. Dat betekent dat in de kring fase-omkering plaats
+vindt. Het signaal komt in tegenfase terug: tegenkoppeling in plaats van meekoppeling.
+Conclusie: oscillatie onmogelijk.
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+In schakeling Y is de kring met zijn onderkant verbonden met 0V. De emitter krijgt via de
+capacitieve aftakking signaal terug in fase: meekoppeling. Dan is er oscillatie.
+Kortom, X oscilleert niet, Y wel. Antwoord D is daarom goed.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.6 Uitwerking van Opgave 10-6
+2 k
+
+1 k
+
++
+2V
+
+3 k
+
+-
+
+5V
+
++
+
++
+
+Uuit
+
+De uitgangsspanning Uuit is ongeveer
+A. 0 V
+B. 1,0 V
+C. 2,0 V
+D. 0,7 V
+Uitwerking
+Let allereerst op de polariteit van de twee ingangsspanningen. De 2V is positief, de 5V
+komt uit een bron die met de + aan massa (aarde) ligt, zodat de 5V in werkelijkheid -5V is.
+Het gaat hier om een inverterende optelschakeling. Wat plus is aan de ingang, wordt min
+aan de uitgang en omgekeerd.
+De tegenkoppelweerstand Rt is die van 1k. De +2 V is via een ingangsweerstand Rin van
+2k verbonden met de inverterende ingang. De -5V is via een Rin van 3k verbonden met
+diezelfde inverterende ingang. Voor de spanningsversterking Au van de afzonderlijke
+spanningen geldt:
+𝐴𝑢 = −
+
+𝑅𝑡
+𝑅𝑖𝑛
+
+De 2V geeft zo aan de uitgang -2V/2 = -1V. De -5V wordt aan de uitgang +5V/3  +1,7 V.
+Dan is Uuit = -1V + 1,7 V = +0,7V. Antwoord D.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.7 Uitwerking van Opgave 10-7
+Bij een werkende oscillator wordt aan de volgende voorwaarden voldaan:
+A. Rondgaande versterking groter dan 1; rondgaande fasedraaiing 180º
+B. Rondgaande versterking kleiner dan 1; rondgaande fasedraaiing 270º
+C. Rondgaande versterking gelijk aan 1; rondgaande fasedraaiing 360º
+D. Rondgaande versterking oneindig; rondgaande fasedraaiing 90º
+
+Uitwerking
+Bij een oscillator moet de rondgaande fasedraaiing 360º zijn. Dat is hetzelfde als 0º. Een
+oscillator stelt zich daarop vanzelf in omdat op die frequentie de grootste rondgaande
+versterking wordt bereikt. Dat sluit alle antwoorden behalve C uit.
+We controleren toch even:
+De rondgaande versterking is aan het begin van het oscillatieproces groter dan 1, maar
+doordat het versterkende element zichzelf in klasse C (of soms B) trekt, wordt de
+versterking vanzelf teruggebracht tot 1. Dat laatste is in dit geval gebeurd, want in de
+eerste zin gaat het over een werkende oscillator.
+Dat bevestigt dat antwoord C het juiste antwoord is.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.8 Uitwerking van Opgave 10-8
+
+De uitgangsspanning Uuit van de schakeling met siliciumtransistor is ongeveer:
+A. 5,0 V
+B. 8,4 V
+C. 5,6 V
+D. 6,2 V
+Uitwerking
+Het kan handig zijn, de schakeling een beetje anders te
+tekenen (rechts). Dan wordt duidelijker waarom het gaat.
+De transistor staat in gemeenschappelijke
+collectorschakeling. Dat is hetzelfde als een
+emittervolger.
+De zenerdiode levert 5,6 V aan de basis. De basisemitterdiode snoept daar ongeveer 0,6 V vanaf, want het
+gaat om een siliciumtransistor. Voor U blijft er dan
+ongeveer 5,0 V over. Dat antwoord zien we bij A.
+
++9V
+330
+
+U
+5,6 V
+
+33
+
+5,0 V
+Opmerking
+Deze schakeling komt in de buurt van de gestabiliseerde
+voedingen. Wat ontbreekt, is tegenkoppeling. Door de versterking in de transistor kan
+veel meer stroom van de schakeling worden afgenomen dan van een schakeling met
+alleen een zenerdiode. Daarom staat deze opgave bij hoofdstuk 10 in plaats van bij 8. De
+grotere beschikbare stroom gaat ten koste van een 0,6 V lagere uitgangsspanning.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.9 Uitwerking van Opgave 10-9
+Dit is een schema van een
+A. Modulator
+B. Laagdoorlaatfilter
+C. Verschilversterker
+D. Hoogdoorlaatfilter
+Uitwerking
+De inverterende ingang van de opamp is direct verbonden met de uitgang. In de
+cursustekst heet dit een spanningsvolger: de uitgangsspanning is gelijk aan die op de nietinverterende ingang. De ingangsimpedantie is zeer hoog, de uitgangsimpedantie uiterst
+laag.
+De verdere werking komt van de weerstand en condensator aan de niet-inverterende
+ingang. Die schakeling kennen we uit hoofdstuk 5: een hoogdoorlaatfilter. De functie van
+de op-amp is die van een bufferversterker die de invloed van de vervolgschakeling op de
+werking van het filter uitsluit. Dat wordt dus antwoord D.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.10 Uitwerking van Opgave 10-10
+Het aanbrengen van meekoppeling in een versterker kan tot gevolg hebben dat:
+A. De vervorming afneemt
+B. De versterker ongevoeliger wordt
+C. De versterker gaat oscilleren
+D. De versterker stabieler wordt
+Uitwerking
+Bij het aanbrengen van meekoppeling is aan één oscillatievoorwaarde al voldaan: er is
+minstens één frequentie waarbij de fase-omkering tussen twee punten in de
+versterkerschakeling 0º of 360 º is Die twee getallen komen op hetzelfde neer..
+Als er tussen diezelfde punten een rondgaande versterking is die bij het begin van de
+oscillatie groter is dan 1, kan de oscillatiefrequentie uit de ruis worden opgepikt en start
+de oscillatie. Als die eenmaal loopt, zakt die versterking naar 1. Meestal gebeurt dat
+doordat een versterkend element in de schakeling zich in Klasse C trekt.
+Dat betekent antwoord C.
+Opmerking
+Voor de zekerheid kijken we nog even naar de andere antwoorden.
+Antwoord A: de vervorming zal bij meekoppeling in het beste geval gelijk blijven, maar
+waarschijnlijk toenemen omdat de versterker minder stabiel wordt als hij al niet gaat
+oscilleren.
+Antwoord B: de gevoeligheid van de versterker zal, mits de versterker niet gaat oscilleren,
+iets groter worden, niet kleiner.
+Antwoord D: zie commentaar op antwoord A.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.11 Uitwerking van Opgave 10-11
+In een LC-oscillator vindt de positieve terugkoppeling van de uitgang naar de ingang
+gebruikelijk plaats door een:
+A. Zenerdiode
+B. Neutrodyne condensator
+C. NTC-weerstand
+D. Spoel met aftakking
+Uitwerking
+Deze vraag lijkt sterk op Opgave 10-4. Het enige verschil is dat nu een spoel met aftakking
+wordt genoemd en in Opgave 10-4 wordt gesproken over een capacitieve aftakking. Dat
+was daar het goede antwoord en hier is dat de spoel met aftakking, de Hartley-oscillator.
+Het goede antwoord is hier dus D.
+Voor meer commentaar, ga naar Uitwerking van Opgave 10-4.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.12 Uitwerking van Opgave 10-12
+Een capaciteitsdiode (varicap) wordt vaak gebruikt om
+A. Een signaal gelijk te richten
+B. Een oscillator te verstemmen
+C. Een spanning constant te houden
+D. Een stroom te variëren
+Uitwerking
+Dit is typisch een vraag om de antwoorden na te lopen, want de meeste gespecialiseerde
+dioden kun je ook voor andere dingen gebruiken dan waarvoor ze zijn gemaakt.
+A. Een capaciteitsdiode wordt zelden of nooit gebruikt om een signaal gelijk te
+richten. Daar zijn geschiktere dioden voor. Dit zal het goede antwoord dus niet
+zijn.
+B. Capaciteitsdioden heten ook wel afstemdioden omdat je er een afgestemde kring
+mee kunt verstemmen. Oscillatoren bevatten er vaak één. Dit zou dus wel eens het
+goede antwoord kunnen zijn. Voor de zekerheid kijken we verder.
+C. Een spanning constant houden doe je met een zenerdiode. Dit antwoord maakt dus
+geen schijn van kans.
+D. Een stroom variëren lukt niet met een diode, maar wel met een FET, buis of
+transistor. Er zijn opamp-schakelingen waarmee het ook kan, maar we kunnen bij
+dit antwoorde dezelfde conclusie trekken als bij C: geen schijn van kans.
+Conclusie: antwoord B is het juiste antwoord.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.13 Uitwerking van Opgave 10-13
+De open-lus versterking van een opamp bij een frequentie van 1 kHz is in de praktijk
+ongeveer:
+A. 100
+B. 1.000
+C. 100.000 (het officiële” antwoord, maar lees vooral de uitwerking)
+D. 10
+Uitwerking
+Open-lusversterking is kort besproken in
+de cursustekst met toevoeging van een
+kadertje met grafiek. Die laatste hebben
+we hier nodig, want het “officiële”
+antwoord is …. fout.
+We bekijken de rode grafiek, de onderste
+dus. Dat is die voor de A741. Voor 1 kHz
+(103 Hz in de grafiek) vinden we 60 dB.
+Dat is spanningsversterking en dus geen 1
+miljoen, maar de wortel daaruit, dat is
+1000. Antwoord B zou dus goed moeten
+zijn, maar de antwoordenlijsten van de
+examens geven C.
+Dat antwoord zou neerkomen op 100 dB. Het zou aardig passen bij gelijkspanning of, met
+een beetje soepelheid, 15 Hz (neem de blauwe grafiek), maar niet bij 1000 Hz.
+Opmerking
+Uw schrijver was hier aanvankelijk ook ingestonken, tot hij door een mede-amateur
+attent werd gemaakt op het foute officiële antwoord. Mocht deze opgave in je examen
+zitten, dan kun je twee dingen doen: 1) het officiële antwoord aankruisen in de hoop dat
+men bij de examencommissie niet wakker geworden is of 2) het juiste antwoord (1000)
+aankruisen en voor alle zekerheid bezwaar maken bij de examencommissie. Verwijs
+gerust naar deze opgavenbundel met hoofdstuknummer voor bewijsmateriaal.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.14 Uitwerking van Opgave 10-14
+De uitgangsspanning Uuit is
+
+100 k
+
+A. 0 V
+B. -2 V
+C. -1 V
+D. +1 V
+
+100 k
+
+100 k
++
+
++
+
+-
+
+1V
+
+1V
+
++
+
+Uuit
+
+Uitwerking
+Door het schema iets anders te tekenen, kun je mogelijk een wat duidelijker beeld krijgen
+van wat hier gebeurt. Hieronder hetzelfde schema in iets andere vorm.
+
+100 k
+100 k
++
+100 k
+1V +
+1V
+
++
+
+Uuit
+
+Zo wordt duidelijker dat de twee linker weerstanden van 100 k elektrisch gezien
+dezelfde positie innemen. We hebben hier te maken met een inverterende
+optelschakeling. Beide spanningen van +1V worden opgeteld en -1 keer versterkt. –(1V +
+1V) = -2 V. Antwoord B.
+Opmerking
+Schema’s kun je soms beter doorgronden als je ze iets anders tekent. Zien hoe het ook kan
+is een vaardigheid die je kunt ontwikkelen door schema’s goed te bekijken. De te stellen
+vraag is steeds dezelfde: “wat gebeurt hier precies?”
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.15 Uitwerking van Opgave 10-15
+X is een kwartskristal voor 7 MHz (grondtoon). Ui wordt opgewekt door een
+signaalgenerator met nauwkeurig instelbare
+frequentie f. Als f heel langzaam van 6,99
+MHz naar 7,01MHz wordt veranderd, is op
+de voltmeter te zien dat het kristal resoneert.
+Op de voltmeter ziet men:
+A. Een dip gevolgd door een piek
+B. Een piek gevolgd door een dip
+C. Alleen één piek
+D. Alleen één dip
+Uitwerking
+We hebben hier te maken met de net niet helemaal gelijke
+parallel- en serieresonantiefrequentie van een kristal. We
+pakken vervangingsschema a uit de betreffende figuur in
+hoofdstuk 10 erbij (rechts).
+De laagste resonantiefrequentie is de serieresonantie,
+bepaald door C1 en L. Samen vormen ze (nagenoeg) een
+kortsluiting die C2 buitenspel zet. Als de frequentie stijgt,
+stijgt de reactantie van L en daalt die van C1. Dan reageert
+de kring als zelfinductie en vormt een parallelkring met C2
+die bij resonantie een heel hoge impedantie vormt.
+Een seriekring is bij resonantie vrijwel een kortsluiting die
+met de weerstand van 50 k een spanningsdeler vormt.
+Dat wordt dus een flinke spanningsdip. Vervolgens komt
+de parallelkring aan de beurt die bij resonantie een heel
+hoge weerstand vertegenwoordigt en voor een spanningspiek zorgt. (zie ook de grafiek in
+het cursusboek en bij de uitwerking van Opgave 10-57). Dit alles betekent antwoord A.
+Opmerking
+Je kunt ook redeneren dat bij parallelresonantie C1 en C2 vanuit L gezien in serie staan.
+Dan zijn ze samen kleiner dan de kleinste en moet de resonantiefrequentie hoger zijn dan
+bij serieresonantie, want bij serieresonantie doet alleen C1 mee.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.16 Uitwerking van Opgave 10-16
+Het gebruikelijke vervangingsschema voor een kwartskristal is:
+
+A. Schema 1
+B. Schema 4
+C. Schema 3
+D. Schema 2
+Uitwerking
+Een kwartskristal gedraagt zich als een resonantiekring met twee resonantiefrequenties,
+één die hoort bij een parallelle kring en één die hoort bij een seriële kring. Er is maar één
+schakeling die zowel een seriële als parallelle resonantiekring is en dat is schema 4, dat
+voor de verandering bij antwoord B hoort.
+Opmerking
+De twee resonantiefrequenties liggen altijd vlak bij elkaar.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.17 Uitwerking van Opgave 10-17
+47 k
+10 k
+
+Uin= +1V
+
++
+
+Uuit
+
+De uitgangsspanning Uuit is
+A. +4,7 V
+B. -5,7 V
+C. +5,7 V
+D. -4,7 V
+Uitwerking
+De opamp is geschakeld als inverterende versterker. De spanningsversterking is gelijk aan
+-tegenkoppelweerstand/ingangsweerstand = −47 k⁄10 k = −4,7. Uuit is dus -4,7 V,
+antwoord D.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.18 Uitwerking van Opgave 10-18
+De uitgangsspanning Uuit is:
+A. +1 V
+B. -1 V
+C. +12 V
+D. 0 V
+
++12 V
++
+Uin=1V
+
+Uuit
+-12 V
+
+Uitwerking
+De inverterende ingang is rechtstreeks verbonden met de uitgang van de op-amp.
+Conclusie: dit is een spanningsvolger. De spanning op de niet-inverterende ingang komt
+onveranderd op de uitgang. Dan is 𝑈𝑢𝑖𝑡 = 𝑈𝑖𝑛 = +1 V en is antwoord A goed.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.19 Uitwerking van Opgave 10-19
+Deze LC-oscillator blijkt niet te werken.
+De gelijkspanning wordt op enkele punten gemeten; de waarden staan in het schema. Het
+waarschijnlijke defect is:
+
+A. R2 onderbroken
+B. L2 onderbroken
+C. L1 kortgesloten
+D. C3 kortgesloten
+Uitwerking
+Laten we het rijtje maar eens nalopen.
+1. Een onderbreking van R2 zet de transistor stroomloos. Door de lekstroom in de
+transistor meet je dan op de emitter geen 0 V, maar (met een goede meter)
+waarschijnlijk iets dat niet ver onder de 10 V ligt.
+2. Een onderbreking van L2 is met deze metingen niet vast te stellen omdat de spoel
+galvanisch losstaat van de rest van de schakeling.
+3. Hoe wil je een kortsluiting in een spoel vaststellen met een gelijkstroommeting?
+4. Als C3 is kortgesloten, staat er 0 V op de basis, loopt er geen emitterstroom, is de
+emitterspanning praktisch 0 (klopt met de meting) en loopt er geen
+collectorstroom. De collector heeft 10 V, maar dat zegt niet veel omdat L1 weinig
+weerstand zal hebben.
+Als we dit overzien, is kortsluiting van C3 veruit de meest waarschijnlijke oorzaak van het
+probleem. Antwoord D dus.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.20 Uitwerking van Opgave 10-20
+De uitgangsspanning Uuit is
+
+A. – (𝑼𝟏 + 𝑼𝟐 )
+B. 𝑈2 − 𝑈1
+C. 𝑈1 + 𝑈2
+D. 𝑈1 − 𝑈2
+Uitwerking
+Bij deze optelschakeling loopt het versterkingscircuit via de inverterende ingang van de
+opamp. Dat betekent dat er een minteken voor de uitkomst van de optelling moet. De
+spanningsversterking bij dit soort schakeling is gelijk aan de tegenkoppelweerstand (die
+tussen uitgang en inverterende ingang) gedeeld door de ingangsweerstand (de weerstand
+tussen de aangeboden spanning(en) en de inverterende ingang). In het schema gebeuren
+dus drie dingen:
+•
+•
+•
+
+U1 en U2 worden opgeteld
+De uitkomst wordt met 10 k/10 k = 1 vermenigvuldigd. Die verandert dus niet
+Vóór het resultaat komt een minteken, want het signaal komt binnen op de
+inverterende ingang.
+
+Dan is antwoord A juist.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.21 Uitwerking van Opgave 10-21
+Welke schakeling kan als overtone-oscillator werken?
+
+A. Alleen schakeling Y
+B. Schakeling X en Y
+C. Alleen schakeling X
+D. Geen van beide schakelingen
+Uitwerking
+Een overtone-oscillator oscilleert op een harmonische van een kristal. Dan moet er wel
+een kristal zijn en dat ontbreekt in schakeling Y. Schakeling Y valt dus af.
+In schakeling X zit wel een kristal, namelijk tussen de emitters van beide transistoren. De
+linker transistor heeft een parallelkring tussen collector en voedingsspanning. Dat
+tezamen duidt op een overtone-oscillator. De signaaldoorgave op de rechtertransistor is
+ook in orde, want dat is een emittervolger. Dat leidt tot antwoord C.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.22 Uitwerking van Opgave 10-22
+De frequentie waarop een oscillator werkt, wordt voornamelijk bepaald door
+A. Het versterkende element
+B. De rondgaande versterking
+C. De LC-combinatie
+D. De terugkoppelfactor
+Uitwerking
+Het is altijd de trillingskring, dat is de LC-combinatie, het kristal of bij LF-oscillatoren ook
+wel de RC-combinatie (die laatste is geen examenstof) die de frequentie bijna volledig
+bepaalt. Het kwartskristal staat niet in het rijtje en dan blijft antwoord C over.
+Opmerking
+De rondgaande versterking mag op het eerste gezicht misschien een goed antwoord lijken,
+maar die bepaalt alleen of er oscillatie plaatsvindt en heeft niets te maken met de
+frequentie.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.23 Uitwerking van Opgave 10-23
+Om een oscillator elektrisch te verstemmen, wordt bij voorkeur gebruik gemaakt van:
+A. LED
+B. Diodenbrug
+C. Varicapdiode
+D. Zenerdiode
+
+Uitwerking
+Een verstembare oscillator bestaat meestal uit een afstembare resonantiekring met een
+LC-combinatie. Om de oscillator te verstemmen, moet L en/of C in waarde worden
+veranderd. Omdat het variëren van een spoel lastiger is dan het variëren van een
+capaciteit, zeker als dat elektrisch moet, wordt bij voorkeur gebruik gemaakt van een
+varicap die ook wel afstemdiode heet. Dat komt neer op antwoord C.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.24 Uitwerking van Opgave 10-24
+De spanning over Rb moet worden gestabiliseerd op 5 volt. Rs moet zijn:
+A. 24 
+B. 50 
+C. 20 
+D. 10 
+
+Uitwerking
+Er loopt 100 mA door Rb. Door RS loopt diezelfde 100 mA plus de stroom door de
+zenerdiode. Omdat over de zenerdiode 5 V staat, is de zenerstroom af te lezen in de
+grafiek: 20 mA. Dan loopt door Rs 100 mA + 20 mA = 120 mA. De spanning over Rs is 7,4
+V – 5 V = 2,4 V.
+Dan zijn spanning en stroom bekend en volgt Rs uit de wet van Ohm:
+𝑅𝑠 =
+
+2,4 V
+= 20 
+0,12 A
+
+Dat is antwoord C.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.25 Uitwerking van Opgave 10-25
+De belastingsstroom Ibel varieert van 100 mA tot 300 mA. Het maximaal door de
+zenerdiode gedissipeerde vermogen is:
+
+A. 2 W
+B. 3 W
+C. 1 W
+D. 8 W
+Uitwerking
+Om de dissipatie door de zenerdiode te bepalen, moeten we de zenerstroom kennen.
+Daarvoor moeten we eerst de stroom door de weerstand bepalen. Links van de weerstand
+is de spanning 20 V, rechts 10 V. Over de weerstand staat dus 20 V – 10 V = 10 V. 10 V
+over 25  leidt tot een stroom van 10 V⁄25  = 0,4 A = 400 mA.
+Als de belastingsstroom 100 tot 300 mA is, blijft er voor de zenerstroom 400-100 mA =300
+mA tot 400 mA - 300 mA = 100 mA over voor de zenerdiode. “Toevallig” dezelfde
+waarden als de belastingsstroom, maar in omgekeerde volgorde. De hoogste zenerstroom
+is dan 300 mA. Bij een zenerspanning van 10 V is dat 0,3 A * 10 V = 3 W. Antwoord B.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.26 Uitwerking van Opgave 10-26
+Een kwartskristal gedraagt zich als:
+A. Een oscillator
+B. Een resonantiekring
+C. Een detector
+D. Een afvlakfilter
+Uitwerking
+Een kwartskristal gedraagt zich als een resonantiekring. Het kan onderdeel zijn van een
+oscillator, maar is er zelf geen. Antwoord B.
+Opmerking
+De antwoorden C en D hebben wel betrekking op bestaande schakelingen, maar die
+hebben met kwartskristallen niets van doen.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.27 Uitwerking van Opgave 10-27
+De schakeling werkt als overtone-oscillator.
+
+Stelling 1: de kring is afgestemd op de tweede harmonische van het kristal
+Stelling 2: het kristal werkt in serie-resonantie
+Wat is juist:
+A. Alleen stelling 2
+B. Stelling 1 en 2
+C. Geen van beide stellingen
+D. Alleen stelling 1
+Uitwerking
+De schakeling is een Miller-oscillator, waarbij de koppeling tussen in- en uitgangskring
+wordt gevormd door de gate-drain capaciteit van de FET.
+Bij overtone-oscillatie is de resonantiefrequentie een oneven harmonische van de
+grondfrequentie van het kristal. Daarmee kan stelling 1 worden afgeschreven.
+Bij dit type oscillator werkt het kristal (nagenoeg) in parallel-resonantie. Dan kan ook
+stelling 2 worden afgeschreven en zijn er alleen foute stellingen.
+Dat betekent antwoord C.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.28 Uitwerking van Opgave 10-28
+Door het sluiten van de schakelaar S wordt:
+A. De versterking kleiner en de bandbreedte kleiner
+B. De versterking groter en de bandbreedte kleiner
+C. De versterking kleiner en de bandbreedte groter
+D. De versterking groter en de bandbreedte groter
+
+Uitwerking
+Als de impedantie van de collectorkring groter wordt,
+wordt de versterking groter; wordt de impedantie kleiner,
+dan wordt ook de versterking kleiner. Door het parallel
+schakelen van een weerstand aan de LC-kring in het
+collectorcircuit wordt de impedantie kleiner; de versterking
+dus ook. Daarmee blijven de antwoorden A en C over.
+Doordat een weerstand parallel aan de kring wordt geschakeld, wordt de Q van de kring
+lager. Daardoor wordt de bandbreedte groter. Antwoord C blijft over.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.29 Uitwerking van Opgave 10-29
+De uitgangsspanning Uuit van de
+schakeling met een siliciumtransistor is
+ongeveer:
+A. 6,3 V
+B. 7 V
+C. 7,7 V
+D. 8,4 V
+
+Uitwerking
+De zenerdiode bepaalt de basisspanning van de transistor op 7 V. Uuit is de
+emitterspanning. Omdat het om een siliciumtransistor gaat, moet de emitterspanning
+tussen 0,7 V en 0,5 V lager zijn dan de basisspanning. Daarop past antwoord A met 6,3 V;
+verschil 0,7 V.
+Opmerking
+Wie op antwoord C uitkomt, heeft 0,7 V bij de zenerspanning opgeteld, maar bij een
+NPN-transistor is de emitterspanning één Si-drempelspanning lager dan de basisspanning.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.30 Uitwerking van Opgave 10-30
+De frequentiestabiliteit van een oscillator met een FET kan worden verbeterd door
+A. De temperatuurvariaties te verkleinen
+B. De gate-spanning te verkleinen
+C. De gate-impedantie te verhogen
+D. Het afknijppunt te verleggen
+Uitwerking
+Elke oscillator krijgt een betere frequentiestabiliteit als ervoor wordt gezorgd dat de
+temperatuur zo constant mogelijk is. Dat betekent antwoord A.
+Opmerkingen
+Door het verlagen van de gatespanning zou de stroom door de FET kunnen worden
+verkleind en daarmee de warmte-ontwikkeling. In de praktijk trekt een oscillator zich
+meestal zelf in klasse C, zodat antwoord B zelden veel uithaalt.
+De gate-impedantie heeft weinig of niets te maken met frequentiestabiliteit en bovendien
+is het de vraag, hoe je die dan zou moeten verhogen. Een onzin-antwoord dus.
+Het afknijppunt verleggen betekent ingrijpen in de eigenschappen van de FET, dus nog
+een onzin-antwoord.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.31 Uitwerking van Opgave 10-31
+Om een gestabiliseerde spanning op
+punt P te verkrijgen, moet punt 1
+worden doorverbonden met
+A. Punt 3
+B. Punt 5
+C. Punt 2
+D. Punt 4
+
+Uitwerking
+De tegenkoppeling vanaf de uitgang loopt via de collector van de NPN-transistor
+rechtsonder naar de basis van de stabilisatietransistor bovenin het schema. Dat betekent
+punt 1 verbinden met punt 3. Dan heeft de transistor rechtsonder meteen
+collectorspanning via de weerstand tussen collector en basis van de stabilisatietransistor.
+Antwoord A is daarom goed.
+Opmerking
+De tegenkoppeling verloopt via de collector van de transistor rechts en de basis van de
+stabilisatietransistor bovenin. De weerstand tussen de 20 V-leiding en de basis van de
+stabilisatietransistor bovenin het schema is tevens collectorweerstand voor de onderste
+transistor.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.32 Uitwerking van Opgave 10-32
+
+De versterking van de schakeling is:
+A. 0,1x
+B. 10x
+C. 11x
+D. 10.000x
+Uitwerking
+De versterking van een inverterende opamp-schakeling zoals deze is
+tegenkoppelweerstand gedeeld door ingangsweerstand. Dat is hier 10/100 is 0,1. De
+schakeling is dus eigenlijk een verzwakker. Dat is antwoord A.
+Opmerking
+Strikt genomen moet er een minteken voor het antwoord, want het signaal loopt via de
+inverterende ingang.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.33 Uitwerking van Opgave 10-33
+
+De versterking van de schakeling is:
+A. 0,1x
+B. 10x
+C. 11x
+D. 10.000x
+Uitwerking
+Bij deze opamp-schakeling loopt het signaal via de niet-inverterende ingang (gemarkeerd
+met een +). Het is daarom een niet-inverterende versterker. De versterking van dit type
+schakeling is 1+terugkoppelweerstand/ingangsweerstand. Algebraïsch uitgeschreven:
+𝑅𝑡𝑒𝑔𝑒𝑛𝑘𝑜𝑝𝑝𝑒𝑙
+𝑈uit
+=1+
+𝑈𝑖n
+𝑅𝑖𝑛
+100
+Dat komt neer op 1 +
+⁄10 = 11x. Antwoord C is daarom juist.
+Opmerking
+De weerstand van 10 k aan de niet-inverterende ingang is strikt genomen niet nodig en
+hij hoeft daarom ook geen 10 k te zijn. De spanningsdeler over de inverterende ingang
+(die met het minteken) bepaalt de versterking. De Rin in de vergelijking is de 10 k aan de
+inverterende ingang.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.34 Uitwerking van Opgave 10-34
+
+De schakeling stelt voor een:
+A. Hoogdoorlaatfilter
+B. Laagdoorlaarfilter
+C. Verschilversterker
+D. Modulator
+Uitwerking
+De schakeling gebruikt beide signaalingangen van de op-amp, de inverterende en de nietinverterende. Dat doet vermoeden dat de versterkingen tegengesteld zijn. Dat vermoeden
+is juist. Daarom is het een verschilversterker. Antwoord C is dus goed.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-114
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.35 Uitwerking van Opgave 10-35
+De uitgangsspanning Uuit is:
+A. +6,6 V
+B. -5,6 V
+C. -1 V
+D. +1 V
+
+Een fout!
+In de tekening staat een lelijke fout. Wel/niet gezien? De inverterende en nietinverterende ingang (het plus-en minteken bij de ingangen) zijn verwisseld. Toch is deze
+opgave in 2 examens met bijna 7 jaar ertussen gebruikt. In de getekende vorm heeft de
+schakeling geen tegen-, maar meekoppeling. Als we die fout rechtzetten, wordt het alsnog
+een interessante opgave.
+Uitwerking 1 met gecorrigeerde fout
+De versterking bij deze op-amp wordt bepaald door de spanningsdeler met 56 K en 10 K
+en de inverterende ingang aan het knooppunt. Deze opgave is niet wezenlijk anders dan
+Opgave 10-33, maar we werken hem deze keer wat uitvoeriger uit.
+Uitgangspunt is, zoals bij alle tegengekoppelde op-amp schakelingen dat de spanningen op
+de inverterende en niet-inverterende ingang gelijk zijn. Op de niet-inverterende ingang
+(+) staat dus net als op de inverterende ingang 𝑈𝑖𝑛 = +1 𝑉. De spanning op de uitgang
+moet dan zo groot zijn dat de spanningsdeler die +1 V netjes op de + ingang aflevert.
+Er geldt:
+𝑈𝑖𝑛 =
+
+10
+56
+𝑈𝑢𝑖𝑡 → 𝑈𝑢𝑖𝑡 = 𝑈𝑖𝑛 = 1 + 𝑈𝑖𝑛 = 6,6𝑈𝑖𝑛
+10 + 56
+10
+
+Als 𝑈𝑖𝑛 = +1 V, dan is 𝑈𝑢𝑖𝑡 = +6,6 V. Antwoord A.
+Uitwerking 2 met gecorrigeerde fout
+Het kan ook zonder vergelijkingen. Over de 10 k staat 1 V. Door beide weerstanden
+loopt dezelfde stroom. Dan staat er 5,6 V over de 56 k. Samen 6,6 V. Ook antwoord A.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-115
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.36 Uitwerking van Opgave 10-36
+De schakeling stelt voor een
+A. Spanningvolger
+B. Somversterker
+C. Detector
+D. Verschilversterkee
+
+Uitwerking
+De uitgang is teruggekoppeld naar de inverterende ingang. Op basis van het uitgangspunt
+dat bij een tegengekoppelde op-amp de spanningen op de inverterende en nietinverterende ingang gelijk moeten zijn, moet de spanning op de uitgang wel gelijk zijn aan
+die op de niet-inverterende ingang, dat is de ingang met het plusteken.
+Dat is het gedrag van een spanningvolger. Antwoord A dus.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-116
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.37 Uitwerking van Opgave 10-37
+
+Dit is het schema van een:
+A. Verschilversterker
+B. Laagdoorlaatfilter
+C. Modulator
+D. Hoogdoorlaatfilter
+Uitwerking
+De op-amp is geschakeld als spanningvolger en heeft een laagdoorlaatfilter aan de nietinverterende ingang. Daarmee is het geheel ook een laagdoorlaatfilter. Het verschil met
+alleen een weerstand en een condensator is, dat de filterschakeling niet belast wordt door
+een vervolgschakeling, want de op-amp is hier de buffer die er tussenin zit. Antwoord B.
+Opmerking
+Dit is niet de oorspronkelijke schakeling. Daarin waren de inverterende en de nietinverterende ingangen verwisseld (zelfde fout als in Opgave 10-35) en was de op-amp
+positief teruggekoppeld, wat natuurlijk niet de bedoeling is/was. De vraag heeft het in die
+foute vorm 5 jaar en 3 examens uitgehouden en misschien komt-ie nog wel een keer in
+een examen…. Ook het beste paard struikelt wel eens, maar wees gewaarschuwd!
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-117
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.38 Uitwerking van Opgave 10-38
+
+De versterking van de schakeling is:
+A. 0,1
+B. 10
+C. 11
+D. 10.000
+Uitwerking
+Kijk eerst welke ingang de signaalingang is. Dat is de inverterende ingang. Dan is de
+(spannings)versterking van de schakeling gelijk aan tegenkoppelweerstand gedeeld door
+ingangsweerstand. In dit geval is dat 100⁄10 = 10 en dat is antwoord B.
+Opmerking
+Welke weerstand je moet delen door welke weerstand is gemakkelijk te begrijpen als je je
+realiseert dat de tegenkoppeling minder wordt, naarmate de tegenkoppelweerstand groter
+is. Hoe minder tegenkoppeling, des te groter is de versterking. Het omgekeerde geldt voor
+de ingangsweerstand: hoe kleiner die is, des te groter de versterking. Voor de berekening
+moet de ingangsweerstand dan ook in de noemer en de terugkoppelweerstand in de teller.
+Zo vind je de versterkingsfactor.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-118
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.39 Uitwerking van Opgave 10-39
+Dit is het schema van een:
+A. Somversterker
+B. Spanningsvolger
+C. Hoogdoorlaatfilter
+D. Laagdoorlaatfilter
+
+Uitwerking
+Het schema stelt een tegengekoppelde opamp voor, maar in tegenstelling tot wat we een
+beetje gewend zijn, zitten een condensator en een weerstand parallel in de
+tegenkoppellus. De condensator maakt de tegenkoppeling sterker voor hoge frequenties,
+want XC wordt lager naarmate de frequentie hoger wordt. Hoge frequenties worden dus
+minder versterkt dan lage. Daarom is de schakeling een laagdoorlaatfilter en is antwoord
+D het juiste
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-119
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.40 Uitwerking van Opgave 10-40
+De uitgangsimpedantie van een ideale opamp is:
+A. Circa 100 
+B. Circa 1000 
+C. Zéér hoog
+D. Zéér laag
+Uitwerking
+De uitgangsimpedantie van een ideale opamp is in theorie 0, maar als dat niet bij de
+antwoorden staat is antwoord D natuurlijk de bedoeling.
+Opmerking
+Deze eigenschap maakt de opamp heel geschikt als buffer- of scheidingstrap.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-120
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.41 Uitwerking van Opgave 10-41
+
+De schakelende voeding wordt
+belast door RL. T1 werkt als een
+schakelaar: open of dicht.
+De spanning UC heeft de getekende golfvorm. UU is ongeveer:
+A. 24 V
+B. 6 V
+C. 8 V
+D. 12 V
+Uitwerking
+Dit is een voorbeeld van een step-up converter. Als de transistorschakelaar geleidt, loopt
+er stroom door de spoel. De uitgangsspanning wordt geladen tot 12 V. Als de geleiding
+stopt, ontstaat er volgens de Wet van Lenz een spanningspiek over de spoel, waardoor de
+elco op de uitgang verder wordt geladen dan die 12 V. De uitgangsspanning moet dus
+hoger zijn dan 12 V. Het enige antwoord dat daaraan voldoet, is antwoord A.
+Opmerking
+De spanning UC is hier niet goed getekend. Die hoort pieken te hebben. De bijbehorende
+grafiek zou wel die van de basis- of collectorstroom van de transistor kunnen zijn (en is
+dat vermoedelijk ook).
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-121
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.42 Uitwerking van Opgave 10-42
+
+De schakelende voeding wordt normaal belast door RL. De spanning UC heeft de
+getekende golfvorm.
+UU is:
+A. 4 V
+B. 8 V
+C. 12 V
+D. 24 V
+Uitwerking
+De schakeling is een step-down schakeling. Daarvoor geldt dat de uitgangsspanning bij
+benadering gelijk is aan de ingangsspanning, vermenigvuldigd met de duty cycle D van de
+blokspanning uit de regelschakeling:
+𝑈𝑢𝑖𝑡 = 𝐷. 𝑈𝑖𝑛
+De waarde van D is hier 1/3: 1 tijdstap met 12 V, gevolgd door 2 tijdstappen met 0 V. 1/3
+van 12 V is 4 V.
+Je kunt ook uitgaan van de gemiddelde spanning. Dat werkt net zo. Loop de pulsspanning
+(12 V + 0 V + 0 V)⁄
+na: 1 blok van 12 V, gevolgd door 2 blokken van 0 V leveren
+3 = 4 V.
+Antwoord A is in beide gevallen goed.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-122
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.43 Uitwerking van Opgave 10-43
+
+De uitgangsspanning Uuit van de schakeling met een siliciumtransistor is ongeveer:
+A. 8,4 V
+B. 6,2 V
+C. 5,6 V
+D. 5,0 V
+Uitwerking
+Deze analoge zenergestuurde voeding is op een
+gebruikelijke manier getekend. Voor wie dit type
+schema niet vaak tegenkomt, zal de herkenning
+misschien gemakkelijker zijn als de schakeling
+iets anders getekend is (zie figuur rechts).
+De uitgangsspanning Uuit volgt nu uit de
+zenerspanning van 5,6 V min 0,6 V basisemitterspanning van de Si-transistor. Dat wordt
+5,0 V en dat is antwoord D.
+
++9 V
+330 
+
+5,6 V
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-123
+
+33 
+
+Uuit
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.44 Uitwerking van Opgave 10-44
+
+De schakelende voeding wordt belast door RL. T1 werkt als een schakelaar: open of dicht.
+De basisstroom van T1 heeft de getekende golfvorm.
+
+Uu is ongeveer:
+E. 24 V
+F. 4 V
+G. -12 V
+H. 12 V
+Uitwerking
+In deze inverterende schakelende gestabiliseerde voeding wordt gebruik gemaakt van de
+inductiespanning die in de spoel wordt opgewekt door het schakelen van de transistor. Als
+de transistor in geleiding komt, wordt in de spoel een tegengestelde negatieve spanning
+opgewekt die via de diode (met de kathode naar de uitgang) leidt tot een negatieve
+uitgangsspanning Uu. Bij het rijtje antwoorden staat maar één negatieve spanning:
+antwoord C.
+Opmerkingen
+Bij de grafiek van de golfvorm staat ten onrechte dat het om een (collector) spanning gaat.
+In de tekst staat gelukkig wel dat het de basisstroom is, maar verwarrend is het wel.
+De transistor is een PNP-type. Daarom ligt de emitter aan +12 V en de collector via de
+smoorspoel aan 0 V.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-124
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.45 Uitwerking van Opgave 10-45
+Een schakelende voeding heeft ten opzichte van een voeding met een vermogenstransistor
+als serie-regelaar het voordeel dat:
+A. De kans op radiostoring kleiner is
+B. Een eenvoudiger regelschakeling kan worden toegepast
+C. Onbelast geen energie wordt verbruikt
+D. Het rendement hoger is
+Uitwerking
+Een schakelende voeding heeft ten opzichte van een conventionele analoge voeding de
+voordelen: hoger rendement en daardoor minder warmteverlies. Bovendien kleiner
+gewicht en volume. Antwoord D.
+Opmerking
+Nadelen zijn er ook: meer kans op radiostoring door de harmonischen die een
+blokspanning nu eenmaal heeft; lastig te repareren en vaak een slecht geïsoleerde 230 V.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-125
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.46 Uitwerking van Opgave 10-46
+
+De uitgangsspanning Uuit van de schakeling met een siliciumtransistor is ongeveer:
+A. 6,3 V
+B. 7 V
+C. 7,7 V
+D. 8,4 V
+Uitwerking
+De zenerdiode levert 7 V op de basis van de NPN-transistor. De basis-emitterovergang
+haalt daar 0,6 tot 0,7 V vanaf, zodat 6,3 of 6,4 V overblijft. 6,3 V staat onder A in het lijstje
+antwoorden, zodat antwoord A het juiste moet zijn.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-126
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.47 Uitwerking van Opgave 10-47
+Een overtone-kristaloscillator oscilleert op:
+A. De grondfrequentie
+B. Een oneven harmonische frequentie
+C. Zowel oneven als even harmonische frequenties
+D. Een even harmonische frequentie
+Uitwerking
+Een overtone-oscillator oscilleert op een boventoon, dat is een harmonische van de
+grondfrequentie. Een kristal kan oscilleren op oneven harmonischen. Dat betekent dat
+alleen antwoord B goed kan zijn.
+Opmerking
+Kristallen voor frequenties boven circa 20 MHz zijn overtone-kristallen.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-127
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.48 Uitwerking van Opgave 10-48
+
+Dit is het schema van een
+A. Zendereindtrap
+B. LF-eindversterker
+C. Gestabiliseerde voeding
+D. Balansmodulator
+Uitwerking
+De aanwezigheid van elco’s suggereert iets in het LF-gebied, omdat elco’s bij hogere
+frequenties te traag zijn. De trafo, de bruggelijkrichter en de 230 V op de primaire van de
+trafo suggereren een voeding. Is het een bruggelijkrichter? Ja, want bij een
+balansmodulator moet je vier dioden in dezelfde stroomrichting kunnen volgen en hier
+lukt dat hoogstens met twee. Dit alles riekt naar een gestabiliseerde voeding. De
+zenerdiode en de spanningsvergelijker in de vorm van een opamp geven het laatste stukje
+zekerheid. Antwoord C is dan ook goed.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-128
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.49 Uitwerking van Opgave 10-49
+Een HF-oscillator moet elektrisch en mechanisch stabiel zijn om te bereiken dat de
+oscillator geen
+A. Sleutelklikken genereert
+B. Frequentieverloop vertoont
+C. Vervorming veroorzaakt
+D. Overmodulatie veroorzaakt
+Uitwerking
+Een belangrijke eis aan een HF-oscillator is dat de frequentie stabiel is. Dat wordt bereikt
+met mechanische en elektrische stabiliteit. Voor dat laatste zijn vooral een goed
+gestabiliseerde voedingsspanning en een stabiele werktemperatuur van belang. Antwoord
+B. De andere drie antwoorden hebben praktisch niets met de stabiliteit van een oscillator
+te maken.
+Opmerking
+Mechanische stabiliteit wordt onder meer bereikt door een stevige behuizing en zo kort
+mogelijke stevige verbindingen. Geen wiebelende draden!
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-129
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.50 Uitwerking van Opgave 10-50
+Een betere frequentiestabiliteit van een 2-meterzender kan worden verkregen door:
+A. Eindtrap in klasse C in te stellen
+B. De antenne goed aan te passen
+C. Voedingsspanning van de oscillator te stabiliseren
+D. Eindtrap in klasse B in te stellen
+Uitwerking
+De instelling van een eindtrap heeft niets met frequentiestabiliteit te maken. Datzelfde
+geldt voor de antenne-aanpassing. Frequentiestabiliteit wordt bepaald in de oscillator en
+een belangrijke voorwaarde daarbij is een stabiele voedingsspanning. Antwoord C.
+Opmerking
+Als iets “beter” moet, hoort de eerste vraag te zijn: beter dan wat? Dat geldt ook hier. Als
+een zender al een goede frequentiestabiliteit heeft, moet je daar niets meer aan (willen)
+doen.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-130
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.51 Uitwerking van Opgave 10-51
+De frequentiestabiliteit van een oscillator met een FET kan worden verbeterd door:
+A. De gate-spanning te verkleinen
+B. De gate-impedantie te verhogen
+C. Het afknijppunt te verleggen
+D. De temperatuurvariaties te verkleinen
+Uitwerking
+Van alle vier de antwoorden is er maar één die duidelijk iets met frequentiestabiliteit van
+doen heeft. Dat is het antwoord waarin iets over temperatuurvariaties wordt gezegd.
+Temperatuurvariaties hebben vrijwel onvermijdelijk invloed op de frequentie van een
+oscillator. Antwoord D.
+Opmerkingen
+Dat het hier om een FET gaat, is overbodige informatie. Bij oscillatoren met alle soorten
+versterkende elementen is temperatuurafhankelijkheid aan de orde. Daarom zijn
+oscillatoren met buizen en hun gloeidraad op dit punt het lastigst te “temmen”.
+Andere factoren die van invloed zijn op frequentiestabiliteit van een oscillator zijn onder
+meer mechanische stevigheid, een stabiele voedingsspanning en de kwaliteit van de
+gebruikte componenten.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-131
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.52 Uitwerking van Opgave 10-52
+Om de frequentiedrift van een VFO zo klein mogelijk te maken kan men
+A. De voedingsspanning van de VFO stabiliseren
+B. De afgegeven spanning zo hoog mogelijk houden
+C. Een laagdoorlaatfilter opnemen achter de VFO
+D. Alleen de voedingsspanning aansluiten wanneer dit werkelijk vereist is
+Uitwerking
+Frequentiedrift is het geleidelijk verschuiven van de frequentie. De afgegeven spanning
+heeft daar weinig of niets mee te maken. Een laagdoorlaatfilter is een frequentiefilter en
+heeft niets met frequentiestabiliteit van een oscillator te maken; hoogstens met de afgifte
+van harmonischen. De voedingsspanning moet altijd aangesloten zijn als een apparaat aan
+staat.
+Van alle vier antwoorden is dan ook het stabiliseren van de voedingsspanning het enige
+zinnige. Antwoord A.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-132
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.53 Uitwerking van Opgave 10-53
+Bij de oscillator is de faseverschuiving tussen de punten X en Y (beide gemeten t.o.v.
+aarde)
+A. 270
+B. 180
+C. 0
+D. 90
+
+Uitwerking
+Het faseverschil tussen de twee punten zal in de buurt van 0 liggen omdat de spoel
+waarvan ze aansluiting zijn aan één uiteinde (Y) aan aarde ligt en er ook geen faseverschil
+is tussen gate en source van de FET. Antwoord C.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-133
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.54 Uitwerking van Opgave 10-54
+Deze schakeling oscilleert op de frequentie, bepaald
+door
+A. Het X-tal in parallelresonantie
+B. Het X-tal in serieresonantie
+C. C1, C2 en R1
+D. C1, C2 en L1
+
+Uitwerking
+De transistor staat in GBS (gemeenschappelijke basisschakeling). De basis wordt voor de
+oscillatiefrequentie ontkoppeld via het kristal. Daarvoor moet het kristal in
+serieresonantie staan en is het kristal het frequentiebepalende element. Antwoord B.
+Opmerking
+X-tal staat voor kristal.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-134
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.55 Uitwerking van Opgave 10-55
+C2 is vijf maal zo groot als C1. De schakeling werkt:
+
+A. Als oscillator, zowel met een kristal in parallel- als in serieresonantie
+B. Als oscillator met het kristal in serieresonantie
+C. Als oscillator met het kristal in parallelresonantie
+D. Niet als oscillator
+Uitwerking
+De transistor staat in GBS., want de basis is voor wisselspanning naar aarde ontkoppeld via
+een condensator, De emitter is signaalingang en de collector -uitgang. De terugkoppeling
+verloopt via een capacitieve spanningsdeler (C1 en C2) en het kristal. Het kristal moet in
+serieresonantie werken om de oscillatorfrequentie goed door te laten. Antwoord B.
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-135
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.56 Uitwerking van Opgave 10-56
+Een kwartskristal gedraagt zich als:
+A. Een oscillator
+B. Een resonantiekring
+C. Een detector
+D. Een afvlakfilter
+Uitwerking
+Een kwartskristal gedraagt zich als een resonantiekring en wordt onder meer toegepast in
+oscillatoren (maar is zelf geen oscillator) en andere toepassingen waar een stabiele
+frequentie nodig is en in frequentiefilters.
+Een kwartskristal is geen oscillator (vaak wel onderdeel van..) en ook geen detector of
+afvlakfilter. Antwoord B
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-136
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 10. Examenopgaven 20241121
+
+10.5.57 Uitwerking van Opgave 10-57
+De impedantiegrafiek van een kwartskristal
+rond de resonantiefrequentie op de
+grondtoon is gegeven in:
+A. Grafiek 4
+B. Grafiek 1
+C. Grafiek 2
+D. Grafiek 3
+
+Uitwerking
+Een kristal heeft zowel een serie- als een parallelresonantie. De serieresonantie treedt
+op bij de laagste frequentie, de parallelresonantie bij de hoogste. Zie de herhaling
+hieronder van de grafiek in de hoofdtekst van hoofdstuk 10.
+108
+107
+
+Z kristal ()
+
+106
+105
+104
+
+Capacitief
+
+Serieresonantie
+
+ctief
+Indu
+
+103
+
+Capa
+citief
+Parallelresonantie
+
+102
+101
+100
+4,06·105
+
+4,10·105
+
+4,14·105
+
+4,18·105
+
+4,22·105
+
+Freq. (Hz)
+
+© 2021, 2022 Vereniging van Radiozendamateurs VRZA (opgaven in par. 10.4 uitgezonderd)
+
+10-137
+
+

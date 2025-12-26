@@ -1,0 +1,2971 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Inhoudsopgave
+14
+
+Uitgewerkte examenopgaven bij Hoofdstuk 14, deel C (101-150) ............................ 14-6
+14.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........14-6
+
+14.2
+
+Enkele opmerkingen ..........................................................................................14-7
+
+14.3
+
+Formularium ......................................................................................................14-7
+
+14.3.1
+
+Elektromagnetisch veld ................................................................................14-7
+
+14.3.2
+
+Voortplantingssnelheid, frequentie en golflengte ......................................14-8
+
+14.3.3
+
+Verkortingsfactor..........................................................................................14-8
+
+14.3.4
+
+Antennes-1. De halve-golf-dipoolantenne met middenaansluiting ..........14-8
+
+14.3.5
+
+Antennes-2. De dipool en harmonischen van zijn resonantiefrequentie. 14-9
+
+14.3.6
+
+Een te korte of te lange antenne, stralings- en verliesweerstand. .............14-9
+
+14.3.7
+
+Transmissielijnen: belangrijkste eigenschappen .......................................14-10
+
+14.3.8
+
+Transmissielijnen: soorten .........................................................................14-10
+
+14.3.9
+
+Transmissielijn als afgestemde kring .........................................................14-11
+
+14.3.10 De kwartgolf impedantietransformator ....................................................14-12
+14.3.11 Hoe werkt het met een symmetrische leiding in plaats van coax? ..........14-13
+14.3.12 De balun ......................................................................................................14-13
+14.3.13 Staandegolfverhouding (SWR) ..................................................................14-13
+14.3.14 Staandegolfmeter (SWR-meter) ................................................................ 14-14
+14.3.15 Zichtafstand tussen antennes .....................................................................14-14
+14.3.16 Afstraling van een antenne: directe golf, grondgolf en ruimtegolf .........14-15
+14.3.17 De atmosfeer: de lagen en hun rol bij de propagatie van radiogolven ....14-15
+14.3.18 Single hop, multihop, fading ......................................................................14-16
+14.3.19 Kritische frequente, Maximum Usable Frequency (MUF) .......................14-16
+14.3.20 Sprongafstand (skip distance) en dode (stille) zone ..................................14-17
+14.3.21 Antennehoogte en afstralingshoek: de horizontale halvegolf-dipool .....14-17
+14.3.22 Antennehoogte en afstralingshoek: de groundplane ................................ 14-18
+14.4
+
+Opgaven ............................................................................................................14-20
+
+14.4.101 Opgave 14-101 ............................................................................................ 14-21
+14.4.102 Opgave 14-102 ............................................................................................ 14-22
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.103 Opgave 14-103 ............................................................................................ 14-23
+14.4.104 Opgave 14-104 ............................................................................................ 14-24
+14.4.105 Opgave 14-105 ............................................................................................ 14-25
+14.4.106 Opgave 14-106 ............................................................................................ 14-26
+14.4.107 Opgave 14-107 ............................................................................................ 14-27
+14.4.108 Opgave 14-108 ............................................................................................ 14-28
+14.4.109 Opgave 14-109 ............................................................................................ 14-29
+14.4.110 Opgave 14-110 ............................................................................................ 14-30
+14.4.111 Opgave 14-111 ............................................................................................ 14-31
+14.4.112 Opgave 14-112 ............................................................................................ 14-32
+14.4.113 Opgave 14-113 ............................................................................................ 14-33
+14.4.114 Opgave 14-114 ............................................................................................ 14-34
+14.4.115 Opgave 14-115 ............................................................................................ 14-35
+14.4.116 Opgave 14-116 ............................................................................................ 14-36
+14.4.117 Opgave 14-117 ............................................................................................ 14-37
+14.4.118 Opgave 14-118 ............................................................................................ 14-38
+14.4.119 Opgave 14-119 ............................................................................................ 14-39
+14.4.120 Opgave 14-120 ............................................................................................ 14-40
+14.4.121 Opgave 14-121 ............................................................................................ 14-41
+14.4.122 Opgave 14-122 ............................................................................................ 14-42
+14.4.123 Opgave 14-123 ............................................................................................ 14-43
+14.4.124 Opgave 14-124 ............................................................................................ 14-44
+14.4.125 Opgave 14-125 ............................................................................................ 14-45
+14.4.126 Opgave 14-126 ............................................................................................ 14-46
+14.4.127 Opgave 14-127 ............................................................................................ 14-47
+14.4.128 Opgave 14-128 ............................................................................................ 14-48
+14.4.129 Opgave 14-129 ............................................................................................ 14-49
+14.4.130 Opgave 14-130 ............................................................................................ 14-50
+14.4.131 Opgave 14-131 ............................................................................................ 14-51
+14.4.132 Opgave 14-132 ............................................................................................ 14-52
+14.4.133 Opgave 14-133 ............................................................................................ 14-53
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.134 Opgave 14-134 ............................................................................................ 14-54
+14.4.135 Opgave 14-135 ............................................................................................ 14-55
+14.4.136 Opgave 14-136 ............................................................................................ 14-56
+14.4.137 Opgave 14-137 ............................................................................................ 14-57
+14.4.138 Opgave 14-138 ............................................................................................ 14-58
+14.4.139 Opgave 14-139 ............................................................................................ 14-59
+14.4.140 Opgave 14-140 ............................................................................................ 14-60
+14.4.141 Opgave 14-141 ............................................................................................ 14-61
+14.4.142 Opgave 14-142 ............................................................................................ 14-62
+14.4.143 Opgave 14-143 ............................................................................................ 14-63
+14.4.144 Opgave 14-144 ............................................................................................ 14-64
+14.4.145 Opgave 14-145 ............................................................................................ 14-65
+14.4.146 Opgave 14-146 ............................................................................................ 14-66
+14.4.147 Opgave 14-147 ............................................................................................ 14-67
+14.4.148 Opgave 14-148 ............................................................................................ 14-68
+14.4.149 Opgave 14-149 ............................................................................................ 14-69
+14.4.150 Opgave 14-150 ............................................................................................ 14-70
+14.5
+
+Uitwerkingen ...................................................................................................14-71
+
+14.5.101 Uitwerking van Opgave 14-101 .................................................................14-72
+14.5.102 Uitwerking van Opgave 14-102 .................................................................14-73
+14.5.103 Uitwerking van Opgave 14-103 .................................................................14-74
+14.5.104 Uitwerking van Opgave 14-104 .................................................................14-75
+14.5.105 Uitwerking van Opgave 14-105 .................................................................14-76
+14.5.106 Uitwerking van Opgave 14-106 .................................................................14-77
+14.5.107 Uitwerking van Opgave 14-107 .................................................................14-78
+14.5.108 Uitwerking van Opgave 14-108 .................................................................14-79
+14.5.109 Uitwerking van Opgave 14-109 .................................................................14-80
+14.5.110 Uitwerking van Opgave 14-110 .................................................................14-81
+14.5.111 Uitwerking van Opgave 14-111 .................................................................14-82
+14.5.112 Uitwerking van Opgave 14-112 .................................................................14-83
+14.5.113 Uitwerking van Opgave 14-113 .................................................................14-84
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.114 Uitwerking van Opgave 14-114 .................................................................14-85
+14.5.115 Uitwerking van Opgave 14-115 .................................................................14-86
+14.5.116 Uitwerking van Opgave 14-116 .................................................................14-87
+14.5.117 Uitwerking van Opgave 14-117 .................................................................14-88
+14.5.118 Uitwerking van Opgave 14-118 .................................................................14-89
+14.5.119 Uitwerking van Opgave 14-119 .................................................................14-90
+14.5.120 Uitwerking van Opgave 14-120 .................................................................14-91
+14.5.121 Uitwerking van Opgave 14-121 .................................................................14-92
+14.5.122 Uitwerking van Opgave 14-122 .................................................................14-93
+14.5.123 Uitwerking van Opgave 14-123 .................................................................14-94
+14.5.124 Uitwerking van Opgave 14-124 .................................................................14-95
+14.5.125 Uitwerking van Opgave 14-125 .................................................................14-96
+14.5.126 Uitwerking van Opgave 14-126 .................................................................14-97
+14.5.127 Uitwerking van Opgave 14-127 .................................................................14-98
+14.5.128 Uitwerking van Opgave 14-128 .................................................................14-99
+14.5.129 Uitwerking van Opgave 14-129 ............................................................... 14-100
+14.5.130 Uitwerking van Opgave 14-130 ............................................................... 14-101
+14.5.131 Uitwerking van Opgave 14-131 ............................................................... 14-102
+14.5.132 Uitwerking van Opgave 14-132 ............................................................... 14-103
+14.5.133 Uitwerking van Opgave 14-133 ............................................................... 14-104
+14.5.134 Uitwerking van Opgave 14-134 ............................................................... 14-105
+14.5.135 Uitwerking van Opgave 14-135 ............................................................... 14-106
+14.5.136 Uitwerking van Opgave 14-136 ............................................................... 14-107
+14.5.137 Uitwerking van Opgave 14-137 ............................................................... 14-108
+14.5.138 Uitwerking van Opgave 14-138 ............................................................... 14-109
+14.5.139 Uitwerking van Opgave 14-139 ............................................................... 14-110
+14.5.140 Uitwerking van Opgave 14-140 ............................................................... 14-111
+14.5.141 Uitwerking van Opgave 14-141 ............................................................... 14-112
+14.5.142 Uitwerking van Opgave 14-142 ............................................................... 14-113
+14.5.143 Uitwerking van Opgave 14-143 ............................................................... 14-114
+14.5.144 Uitwerking van Opgave 14-144 ............................................................... 14-115
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.145 Uitwerking van Opgave 14-145 ............................................................... 14-116
+14.5.146 Uitwerking van Opgave 14-146 ............................................................... 14-117
+14.5.147 Uitwerking van Opgave 14-147 ............................................................... 14-118
+14.5.148 Uitwerking van Opgave 14-148 ............................................................... 14-119
+14.5.149 Uitwerking van Opgave 14-149 ............................................................... 14-120
+14.5.150 Uitwerking van Opgave 14-150 ............................................................... 14-121
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14 Uitgewerkte examenopgaven bij Hoofdstuk 14, deel C (101-150)
+14.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 13
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave en met het goede antwoord vetgedrukt. Daarna volgt
+de eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking
+hoeft niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot
+een goed antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 14.5.
+
+14.2 Enkele opmerkingen
+Wegens het grote aantal beschikbare examenopgaven is de bundel bij hoofdstuk 14
+gesplitst in deel A, B. C, D en E. De delen A-D bevatten er elk 50. Deel E bevat er 44. Dit
+is deel C met 50 opgaven.
+Bij elke opgave is vermeld, in welke examens deze is voorgekomen. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008, waren er maar twee examens per jaar,
+het voorjaars- en najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en plotseling, bijvoorbeeld 10
+jaar of nog meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Normaal is dat een overzicht van
+vergelijkingen (“formules”) met soms wat handigheidjes. In dit geval overheersen de
+beschrijvende teksten. We raden aan, het formularium eerst door te nemen.
+
+14.3 Formularium
+14.3.1 Elektromagnetisch veld
+Radiogolven zijn een wisselend elektromagnetisch veld (EM-veld). Een EM-veld bestaat
+uit een elektrisch en een magnetisch veld met gelijke frequentie en golflengte. De golven
+in het elektrisch en het magnetisch deel staan loodrecht op elkaar. Het elektrische deel
+houdt verband met spanning, het magnetische met stroom. De elektrische veldsterkte
+wordt uitgedrukt in V/m, de magnetische in A/m.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.3.2
+Voortplantingssnelheid, frequentie en golflengte
+De voortplantingssnelheid van EM-golven in vacuüm is gelijk aan de lichtsnelheid (ook
+licht is EM-straling), afgerond 300 000 km/s, symbool c, niet te verwarren met de
+hoofdletter C voor capaciteit. In lucht is de snelheid nauwelijks kleiner dan in vacuüm; in
+de radiopraktijk wordt het verschil verwaarloosd. Het verband tussen snelheid c,
+golflengte λ en frequentie f luidt: 𝑐 = 𝑓 𝜆.
+Het kan ook in de vorm van de driehoek die we eerder gebruikten bij de wet van Ohm:
+
+c
+f
+
+. 
+
+14.3.3
+Verkortingsfactor
+De snelheid waarmee een EM-golf een geleidende draad doorloopt, is ongeveer 0,96x de
+lichtsnelheid. Die 0,96 heet de verkortingsfactor. De golflengte in zo’n draad is de
+verkortingsfactor maal de lichtsnelheid in lucht of vacuüm. In transmissielijnen kan de
+verkortingsfactor aanzienlijk kleiner zijn.
+14.3.4
+Antennes-1. De halve-golf-dipoolantenne met middenaansluiting
+Door het uiteinde van een geleidende draad of staaf loopt geen stroom. Een halvegolfdipool met middenaansluiting heeft twee van die uiteinden. Hij bestaat uit twee
+helften van ¼λ met het voedingspunt in het midden.
+
+Voedingspunt
+¼
+
+¼
+
+Op de uiteinden zijn de spanningen maximaal en tegengesteld; op het voedingspunt in het
+midden is de stroom maximaal (grafiek hieronder).
+Stroom
+Spanning
+
+½
+
+Een uiteinde is daarom (zeer) hoogohmig (niet oneindig omdat een uiteinde ook capaciteit
+heeft). Een kwart golflente daarvandaan is de lijn laagohmig. Je kunt ook zeggen dat een
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+stuk lijn van een kwart golflengte de impedantie omzet van hoog- naar laagohmig of
+omgekeerd.
+14.3.5
+Antennes-2. De dipool en harmonischen van zijn resonantiefrequentie.
+Een halvegolf dipool resoneert niet alleen op de frequentie van de bijbehorende halve
+golf, maar ook op de harmonischen ervan.
+De figuur hieronder toont diagrammen van de stroomverdeling over een dipool voor de
+grondfrequentie en zijn tweede, derde en vierde harmonische.
+Stroomverdeling over een dipoolantenne voor
+een frequentie f en harmonischen
+
+f
+
+2f
+
+3f
+
+4f
+
+Op het aansluitpunt is de antenne afwisselend laagohmig (stroom maximaal) voor de
+oneven en hoogohmig (spanning maximaal) voor de even harmonischen.
+Dat de frequenties van de klassieke amateurbanden op de korte golf (160 m, 80 m, 40 m,
+20 m, 15 m en 10 m) vrijwel harmonischen zijn, is dan ook geen toeval. Met een antenne
+voor één band kun je met enig kunst- en vliegwerk alle hogere banden aan.
+14.3.6
+Een te korte of te lange antenne, stralings- en verliesweerstand.
+Het vervangingsschema van een antenne is dat van een afgestemde kring. Dat van een in
+het midden gevoede halvegolf dipool ziet eruit als in het schema hieronder.
+
+L
+
+R
+
+C
+Bij resonantie vallen de reactanties van spoel en condensator tegen elkaar weg en blijft R
+over. R is de som van stralingsweerstand en verliesweerstand.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Is de aangeboden frequentie kleiner dan de resonantiefrequentie, dan is de spanning over
+C groter dan die over L. De antenne reageert als weerstand in serie met een condensator,
+ofwel capacitief. Ligt de aangeboden frequentie boven de resonantiefrequentie, dan is de
+antenne inductief.
+Bij een helegolf-dipool is alles andersom. Die is bij resonantie hoogohmig op zijn
+middenaansluiting. Het vervangingsschema is een parallelkring. Zie figuur.
+
+L
+
+R
+C
+
+Bij een frequentie hoger of lager dan de resonantiefrequentie ga je uit van de grootste
+stroom, niet van de hoogste spanning. Bij een frequentie kleiner dan de
+resonantiefrequentie: grootste stroom door L, dus inductief. Frequentie groter dan de
+resonantiefrequentie → grootste stroom door C → capacitief. Het omgekeerde van de
+middengevoede halvegolf halvegolf-dipool: de eindgevoerde halvegolf-dipool.
+14.3.7
+Transmissielijnen: belangrijkste eigenschappen
+De verbindingslijn tussen een zender en een antenne is een transmissielijn. De
+verbindingslijn tussen een antenne en een ontvanger bij voorkeur ook. Bij een
+zendontvanger (transceiver) delen zender en ontvanger transmissielijn en antenne.
+Een goede transmissielijn verliest onderweg zo min mogelijk energie via een EM-veld of
+anderszins en geeft een zo groot mogelijke overdracht van vermogen tussen bron en
+bestemming.
+Een transmissielijn heeft een karakteristieke impedantie. De vermogensoverdracht is het
+grootst als de karakteristieke impedantie gelijk is aan de impedantie van de zenderuitgang
+en die van de antenne.
+14.3.8
+Transmissielijnen: soorten
+Er zijn drie hoofdsoorten: symmetrisch of “open”, asymmetrisch of “gesloten” en de
+golfgeleider of golfpijp.
+Open transmissielijn
+Is symmetrisch en bestaat uit twee evenwijdige draden. Het EM-veld van de ene lijn is
+tegengesteld aan dat van het andere. Beide velden zouden elkaar opheffen als de twee
+lijnen zouden samenvallen. In de praktijk geeft dat kortsluiting. De twee lijnen zijn
+daarom evenwijdig met korte afstand (centimeters). Er lekt dus altijd een beetje EM-veld
+weg.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Een open transmissielijn sluit door zijn symmetrie eenvoudig aan op een symmetrische
+antenne. Eén draad aan de ene antennehelft, de andere draad aan de andere helft.
+De open transmissielijn “zweeft” elektrisch gezien. Hij heeft geen aarde- of massaaansluiting. Spanning en stroom in beide draden zijn tegengesteld. De verkortingsfactor
+wijkt weinig af van die van een enkele draad. Vooral geschikt voor HF, waar de
+onderlinge afstand tussen de geleiders verwaarloosbaar klein is ten opzichte van de
+golflengte.
+Gesloten transmissielijn (coax)
+De opbouw is asymmetrisch. De binnengeleider wordt omsloten door isolatiemateriaal en
+de buitengeleider die meestal toepasselijk wordt aangeduid met de term mantel. De
+mantel is gelijktijdig de tegengestelde geleider en aarde/massa. De verkortingsfactor kan
+veel lager zijn dan bij open transmissielijn: 0,6 of hoger De waarde is vooral afhankelijk
+van de dikte van de isolatie en het soort materiaal. Hoe meer lucht erin zit, hoe dichter de
+waarde bij 1 komt. Geschikt voor alle frequenties waarvoor symmetrische lijn geschikt is
+en daarboven tot enkele GHz.
+Golfgeleider ( golfpijp )
+Buisvormig. Vierkant, rechthoekig of rond. Wordt gebruikt vanaf ongeveer 3 GHz, waar
+coax te veel verlies geeft. Geschikt voor golflengten die kleiner zijn dan of gelijk aan twee
+pijpbreedtes, of bij ronde pijp: diameters.
+14.3.9
+Transmissielijn als afgestemde kring
+Gebruik van de verkortingsfactor
+We hebben het hier over transmissielijnen waarvan de lengte is gegeven in golflengten. In
+die golflengten is of wordt de verkortingsfactor van de lijn verwerkt. Dat geldt in de eerste
+plaats coaxiale leidingen, omdat daarin de verkortingsfactor sterk van 1 kan afwijken.
+Denk aan getallen tussen 0,6 en 0,8; 0,66 komt veel voor.
+Bij symmetrische (open) leidingen wordt vaak niet met een verkortingsfactor gerekend,
+omdat die bij dit soort leidingen vlak bij 1 ligt.
+De term stub
+Een stuk leiding van een bepaalde lengte die een transformatiefunctie heeft, wordt vaak
+aangeduid met de term “stub”, bijvoorbeeld “een kwartgolf stub”.
+De kwartgolf leiding (kwartgolf stub)
+Een kwartgolf stub die aan één kant is kortgesloten, gedraagt zich aan de andere kant als
+zeer hoge impedantie voor de betreffende frequentie, dus als een parallelkring. Voor
+hogere frequenties is het gedrag capacitief, voor lagere frequenties inductief.
+Een kwartgolf stub die aan één kant open is, gedraagt zich aan de andere kant als lage
+impedantie voor de betreffende frequentie, dus als een seriekring. Voor hogere
+frequenties is het gedrag inductief, voor lagere frequenties capacitief, dus net andersom als
+bij de kortgesloten stub.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Hetzelfde gedrag doet zich voor bij angtennes; zie bijvoorbeeld de middengevoede
+halvegolf-dipool die uit twee kwartgolfstukkrn bestaat: hoogohmig op de uiteinden,
+laagohmig in het midden.
+De halvegolf leiding (halvegolf stub)
+Een halvegolf leiding heeft aan beide kanten dezelfde impedantie. Zet op één kant een
+willekeurige impedantie en de andere kant heeft dezelfde impedantie. De karakteristieke
+impedantie van de kabel, waarvan de stub is gemaakt, doet er niet toe. Wel keert een
+halvegolf stub de fase om.
+De driekwart golf-stub
+De driekwart golf stub gedraagt zich in grote lijnen als een kwartgolf-stub. Zie hem als
+een kwartgolf stub in serie met een halvegolf stub, waardie aan beide uiteinden dezelfde
+impedantie vertoongt, maar waarin wel de fase wordt omgekeerd.
+14.3.10 De kwartgolf impedantietransformator
+Een kwartgolf stub die aan één eind is kortgesloten, transformeert deze zeer lage
+impedantie tot een zeer hoge impedantie aan het andere eind. Omgekeerd leidt een zeer
+hoge impedantie (open einde) tot een zeer lage aan het andere eind.
+Het kan ook minder extreem. Daarbij moet rekening worden houden met de
+karakteristieke impedantie van de kabel, waarvan de stub is gemaakt. Voorbeeld: een
+kwartgolf stub met een karakteristieke impedantie van 70 ohm die aan één eind is
+verbonden met een coax-kabel met een karakteristieke impedantie van 50 ohm, heeft aan
+zijn andere eind een impedantie van bijna 100 ohm. Als we de karakteristieke impedantie
+van de stub ZG noemen en die van de aan één kant gekoppelde kabel Zin, dan vinden we
+aan de andere kant van de stub Zuit volgens
+𝑍𝐺2 = 𝑍𝑖𝑛 . 𝑍𝑢𝑖𝑡
+Of (wat hetzelfde is):
+𝑍𝐺 = √𝑍𝑖𝑛 . 𝑍𝑢𝑖𝑡
+Het plaatje uit de cursustekst laat het zien:
+
+¼
+Zin
+
+ZG= Zin.Zuit
+
+Zuit
+
+De vergelijking kan anders worden geschreven (voor sommigen wat gemakkelijker?):
+𝑍𝑖𝑛 : 𝑍𝐺 = 𝑍𝐺 : 𝑍𝑢𝑖𝑡
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+En in woorden: als je 𝒁𝒊𝒏 moet vermenigvuldigen met een getal a om 𝒁𝑮 te krijgen, moet je
+𝒁𝑮 met datzelfde getal a vermenigvuldigen om 𝒁𝒖𝒊𝒕 te krijgen.
+14.3.11 Hoe werkt het met een symmetrische leiding in plaats van coax?
+Alles werkt net zo. Gebruik alleen symmetrisch en asymmetrisch niet door elkaar zonder
+balun ertussen (zie volgende kopje).
+14.3.12 De balun
+Een balun zet een signaal om van symmetrisch (open lijn) naar asymmetrisch (coax) of
+omgekeerd. Dit laatste komt het meest voor. Hij voert tegelijk een
+impedantietransformatie uit. 1:1 is algemeen, evenals 1:4 (zie figuur uit de cursustekst
+hieronder).
+¼
+
+¼
+
+200 
+
+Voedingsleiding 50 
+
+½ golf omloopstuk
+
+Baluns hoeven niet uit coax te bestaan, maar kunnen ook gewikkeld worden. Daarvoor
+worden meestal ringkernen gebruikt omdat de verliezen beperkt zijn.
+14.3.13 Staandegolfverhouding (SWR)
+Een oneindig lange transmissielijn doet zich voor hoogfrequente spanning voor als een
+2
+weerstand. Aangeboden vermogen wordt opgenomen volgens 𝑃 = 𝑢 ⁄𝑅. Die weerstand
+wordt aangeduid als karakteristieke impedantie van de lijn. Een transmissielijn die aan één
+kant wordt afgesloten met een weerstand ter grootte van zijn karakteristieke impedantie,
+doet zich vanaf de andere kant voor als een oneindig lange lijn. De golf in de lijn is een
+lopende golf:
+Heeft een lijn een open (niet afgesloten) uiteinde (weerstand oneindig) , dan wordt het
+vermogen dat er aan de ene kant ingaat, aan het einde gereflecteerd (weerkaatst), want
+het kan nergens anders naar toe. Er ontstaat dan een staande golf: spannings- en
+stroommaxima en -minima blijven op dezelfde plek. Hetzelfde geldt voor een lijn die aan
+het uiteinde wordt kortgesloten (weerstand = 0).
+Is de lijn afgesloten met een weerstand ongelijk aan de karakteristieke impedantie, dan
+wordt het aangeboden vermogen deels gereflecteerd. Dat leidt tot een mengvorm van
+lopende en staande golven. Hoe verder de weerstanden of impedanties uiteen liggen, des
+te groter wordt het gereflecteerde deel. De bijbehorende grootheid is de staande-golfverhouding, afgekort SWR (Standing Wave Ratio) of s. Voor s gelden twee vergelijkingen.
+De eerste is op basis van de spanningen uF van de voorwaartse golf en uR van de
+gereflecteerde:
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+𝑠=
+
+𝑢𝐹 + 𝑢𝑅
+𝑢𝐹 − 𝑢𝑅
+
+De tweede vergelijking die op hetzelfde neerkomt, maar gemakkelijker toepasbaar is, is:
+𝑠=
+
+ℎ𝑜𝑜𝑔𝑠𝑡𝑒 𝑖𝑚𝑝𝑒𝑑𝑎𝑛𝑡𝑖𝑒 𝑍𝑚𝑎𝑥
+=
+𝑙𝑎𝑎𝑔𝑠𝑡𝑒 𝑖𝑚𝑝𝑒𝑑𝑎𝑛𝑡𝑖𝑒
+𝑍𝑚𝑖𝑛
+
+14.3.14 Staandegolfmeter (SWR-meter)
+Een staandegolfmeter, in examenvragen vaak aangeduid met SGM, maar soms ook als
+SWR-meter, meet de staandegolfverhouding op de kabel naar de schakeling die met zijn
+uitgang is verbonden. Een SWR-meter is gemaakt voor een bepaalde impedantie, in de
+amateurpraktijk 50 . Op de SWR-meter is de verhouding daarvan en de impedantie die
+hij aan zijn uitgang “ziet”, af te lezen (vergelijking hierboven).
+Met behulp van een antennetuner (ATU, antenne-aanpassingseenheid, tuner) is de
+aanpassing tussen zenderuitgang en kabel plus antenne in te stellen. Vrijwel alle tuners
+hebben een ingebouwde SWR-meter. Meestal gebeurt dat instellen vrijwel meteen na de
+zenderuitgang, maar eigenlijk hoort de aanpassing van de voedingslijn aan de antenne
+tussen voedingslijn en antenne, dus in de mast, plaats te vinden. Dat stuit vrijwel altijd op
+praktische bezwaren.
+14.3.15 Zichtafstand tussen antennes
+Zonder allerlei atmosferische effecten zouden de meeste radioverbindingen beperkt
+blijven tot zichtverbindingen. Door de kromming van het aardoppervlak hangt die afstand
+af van de antennehoogte h. Voor de afstand d tot de zichthorizon kennen we de
+vergelijking
+𝑑 ≈ 3,57√ℎ
+Let op: hier is h in m en d in km!
+Voor twee stations (1 en 2) wordt de maximale zichtafstand tussen de antennes de som
+van beide:
+𝑑1 + 𝑑1 ≈ 3,57(√ℎ1 + √ℎ2 )
+Ook hier beide d in km en beide h in m.
+Een vuistregel: rond 3,57 af op 4. Dit geeft een iets te hoge uitkomst.
+Een andere vuistregel: een antenne van 10 m hoog “ziet” de horizon op 10 km afstand.
+Antenne n keer zo hoog betekent afstand tot de zichthorizon √𝑛 keer zo ver. Dit geeft een
+iets te lage uitkomst.
+De iets te hoge of iets te lage uitkomsten maken op het examen weinig uit. De meerkeuzeantwoorden liggen zover uiteen dat het vinden van het juiste antwoord met behulp van de
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+uitkomst van één van de vuistregels niet moeilijk is. Soms zijn meerkeuze-antwoorden er
+zelfs mee berekend.
+Op VHF en UHF bereken je hiermee de niet de werkelijke maximale afstand van een
+verbinding. Op VHF/UHF en hoger treedt in de atmosfeer verstrooiing (scatter) op en
+wordt de golf door het naar boven toe ijler worden van de lucht iets afgebogen, waardoor
+de echte overbrugbare afstand groter is.
+14.3.16 Afstraling van een antenne: directe golf, grondgolf en ruimtegolf
+Directe golf: radiogolven die rechtstreeks van zend- naar ontvangstantenne gaan,
+eventueel geholpen door verstrooiing (scatter).
+Grondgolf: heet ook bodemgolf en plant zich voort langs het aardoppervlak. Het bereik
+ervan is groter, naarmate de frequentie lager ligt. De golf volgt de kromming van de aarde.
+De verliezen in de aarde zijn groot; daarom zijn grote vermogens nodig voor een groot
+bereik.
+Ruimtegolf: verdwijnt niet altijd de ruimte in, maar kan worden teruggebogen door
+reflecterende lagen in de atmosfeer.
+14.3.17 De atmosfeer: de lagen en hun rol bij de propagatie van radiogolven
+De figuur hieronder geeft de verschillende lagen van de atmosfeer.
+
+ionosfeer
+
+F laag
+
+ca. 250 km
+
+mesosfeer en
+stratosfeer
+
+ca. 100 km
+ca. 80 km
+
+aardoppervlak
+
+10 km
+
+E laag
+D laag
+troposfeer
+
+De onderste laag heet troposfeer en is op onze breedte ongeveer 10 km dik (16-18 km bij
+de evenaar, circa 6 km bij de polen).
+De propagatie van radiogolven speelt zich op VHF en hogere frequenties voornamelijk af
+in de troposfeer. Bij temperatuurinversies, een warme luchtlaag op een koudere, kan op
+VHF/UHF reflectie optreden die verbindingen over honderden km mogelijk maakt.
+De stratosfeer is niet van belang voor propagatie. EM-golven blijven er rechtdoor gaan. De
+laag komt voor in foute antwoorden bij multiple-choice examenvragen. Als wordt gezegd
+dat op EM-gebied in de stratosfeer weinig gebeurt, is dat juist. In de mesosfeer is het niet
+anders: er gebeurt op EM-gebied weinig tot niets.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+De D-laag is de onderste laag van de ionosfeer op ongeveer 80 km hoogte. Hij is overdag
+geïoniseerd en absorbeert EM-golven meer dan dat hij ze reflecteert. Absorptie treedt
+vooral op bij frequenties kleiner dan 2 MHz. Het gaat vooral om de lange- en middengolf
+en het minst hoogfrequente deel van de korte golf, zoals de 80-meterband, Daardoor is op
+die frequenties het bereik overdag niet groot, maar na zonsondergang wel, want dan
+verdwijnt de D-laag en doet de E-laag dienst als reflector.
+De E-laag bevindt zich op ongeveer 100-125 km hoogte. De laag reflecteert EM-golven
+wel en kan overdag zelfs op VHF plotseling als reflector optreden. Dat laatste gebeurt
+vooral bij hoge zonneactiviteit en overdag, maar de voorspelbaarheid is gering. De naam:
+sporadische E-reflectie.
+De F-laag ligt ‘s nachts op circa 250 km hoogte en wordt overdag onder invloed van de
+zon gesplitst in de F1-laag (circa 225 km hoog) en de F2-laag (circa 400 km hoog). Voor
+lange-afstandswerk (DX) is het de belangrijkste atmosferische laag.
+14.3.18 Single hop, multihop, fading
+Radiogolven kunnen door een reflecterende laag in de atmosfeer éénmaal weerkaatst
+worden maar ook meermaals. Tussendoor kan een reflectie tegen het aardoppervlak
+optreden. Een verbinding met één reflectie heet single hop. Eén met meerdere reflecties
+heet multihop.
+Het kan allemaal nog wel ingewikkelder, bijvoorbeeld met twee of meer
+achtereenvolgende reflecties tegen ionosferische lagen. Een signaal dat door een antenne
+wordt opgepikt kan daardoor meerdere paden hebben gevolgd. Gevolg: wisselende
+faseverschillen bij ontvangst en daaraan gekoppeld wisselende signaalsterkten, fading
+geheten. Fading heeft geen vaste snelheid doordat de veranderingen van padlengte traag
+of snel kunnen zijn. Zijn de radiosignalen in fase, dan betekent dat versterking, tegenfase
+betekent verzwakking. Fading kan daardoor verschillend van sterkte zijn. Bij sterke fading
+zijn de twee signalen ongeveer even sterk; bij zwakkere fading zijn ze verschillend van
+sterkte.
+
+Selectieve fading kan optreden bij bijvoorbeeld AM. Dan wordt de ene zijband meer
+verzwakt/versterkt dan de andere. Dat kan oorzaak zijn van vervorming.
+14.3.19 Kritische frequente, Maximum Usable Frequency (MUF)
+De kritische frequentie is de frequentie waarbij een verticaal uitgezonden golf nog net
+door de ionosfeer wordt gereflecteerd. Hogere frequenties die verticaal worden
+uitgezonden, worden doorgelaten een verdwijnen het heelal in.
+Worden die hogere frequenties onder een kleinere hoek dan 90 graden uitgezonden
+(“opgestraald”), dan worden ze nog wel gereflecteerd. Hoe hoger de frequentie, des te
+kleiner de benodigde hoek.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Bij de hoogste bruikbare frequentie (Maximum Usable Frequency, MUF) voor een
+verbinding wordt de uitgezonden golf nog net zodanig gereflecteerd dat hij bij het
+ontvangststation het aardoppervlak bereikt. De MUF ligt boven de kritische frequentie.
+14.3.20 Sprongafstand (skip distance) en dode (stille) zone
+De sprongafstand of skip distance is de afstand over het aardoppervlak tussen de
+zendantenne die een ruimtegolf uitzendt en het punt waarop die golf het aardoppervlak
+weer bereikt. In de figuur hieronder is dat de afstand AB waarover golf F weer op aarde
+belandt.
+De uit punt A uitgezonden grondgolf houdt bij punt D op, waarneembaar te zijn. De
+afstand tussen de punten D en B heet de stille of dode zone (dead zone).
+
+F
+G
+
+D
+A
+
+B
+Stille (dode) zone
+C
+
+Sprongafstand
+
+14.3.21 Antennehoogte en afstralingshoek: de horizontale halvegolf-dipool
+De volgende figuur uit het ARRL Antenna Book (2002 toont de stralingdiagrammen van
+een horizontaal geplaatste halvegolf-dipool in afhankelijkheid van de hoogte boven het
+aardoppervlak (in golflengten ). De buitenste kromme geeft de situatie bij ideale
+geleidende grond (die niet bestaat), de binnenste die met een gemiddelde
+bodemgesteldheid.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+Het patroon van de opstraling hangt af van de antennehoogte, gemeten in golflengten.
+Een hoogte van een halve golflengte werkt meestal goed. Tot en met de 20-meterband, is
+dat vaak wel te realiseren; voor 40 m en hoger, zeker in een stadsomgeving, hoogst zelden.
+14.3.22 Antennehoogte en afstralingshoek: de groundplane
+Voor een kwartgolf groundplane met vier radialen zien vergelijkbare diagrammen er
+anders uit (zie diagrammen hierna). Ze zijn horizontaler, vooral bij een lage
+opstellingshoogte. Met een groundplane op geringe hoogte zijn daardoor vaak op HF al
+leuke resultaten te boeken, al zijn de verliezen door de nabijheid van het aardoppervlak
+wel groter dan bij een horizontale antenne. De diagrammen komen net als die hierboven
+uit het ARRL Antenna Book (2002).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4 Opgaven
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.101
+Opgave 14-101
+Een halvegolf gevouwen dipoolantenne voor de 40-meterband wordt gevoed door een
+lintlijn met een karakteristieke impedantie van 300 . De lengte van deze voedingslijn:
+A. Moet een aantal kwartgolf-lengten bedragen
+B. Mag iedere willekeurige lengte hebben
+C. Moet precies 20 meter zijn
+D. Moet een oneven aantal halve golflengten bedragen
+(F-examen februari 2009, maart 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.102 Opgave 14-102
+De juiste impedantie-aanpassing van een antennesysteem wordt gecontroleerd met een:
+A. Ohmmeter
+B. Ampèremeter
+C. Veldsterktemeter
+D. Staandegolfmeter
+(F-examen voorjaar 2004, mei 2018 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.103 Opgave 14-103
+Om te bereiken dat de staandegolfverhouding op de voedingslijn van de zendantenne zo
+laag mogelijk is, dient:
+A. Als voedingslijn een coaxiale kabel te worden toegepast
+B. Een juiste aanpassing tussen zender en voedingslijn te worden gemaakt
+C. Een juiste aanpassing tussen antenne en voedingslijn te worden gemaakt
+D. De lengte van de voedingslijn zo kort mogelijk te zijn
+(F-examen juli 2011)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.104 Opgave 14-104
+Een halvegolf-gevouwen dipool wordt gevoed door een 300 ohm lintlijn. De
+standegolfverhouding in de voedingslijn bij de zender bedraagt ongeveer
+A. 2
+B. 1
+C. 4
+D. 8
+(F-examen januari 2015)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.105 Opgave 14-105
+Een staande golfmeter voor 50  is aangesloten tussen een zendontvanger en een 50 
+coaxiale kabel met antenne. De aanwijzing is 1. Dit betekent dat de:
+A. Voor/achterverhouding van de antenne goed is
+B. Antenne aangepast is aan de kabel
+C. Demping van de kabel minimaal is
+D. Uitgangsimpedantie van de zendontvanger 50  is
+(F-examen mei 2009 (2), augustus 2011, November 2014 (1), November 2015, mei 2016
+(1), mei 2017 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.106 Opgave 14-106
+Het voornaamste doel van een aanpassingsnetwerk tussen zender en antennekabel is:
+A. Meting van de staandegolfverhouding in de antennekabel
+B. Optimale belasting van de zender
+C. Vermindering van de terigwerking op de zenderfrequentie
+D. Beveiliging tegen gevaar bij aanraking antennedraad
+(F-examen maart 2010, maart 2013, maart 2018, mei 2019 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.107 Opgave 14-107
+Het deel van een EZB-station dat zou kunnen bijdragen aan de onderdrukking van hogere
+harmonischen in het uitgangssignaal is:
+A. Het EZB-filter
+B. De antenne-aanpassingseenheid
+C. De spraakprocessor
+D. De staandegolfmeter
+(F-examen mei 3013 (2), augustus 2013)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.108 Opgave 14-108
+Een zender is via een antenne-aanpassingseenheid en een kabel met de antenne
+verbonden. Door een juiste instelling van de aanpassingseenheid wordt:
+A. De combinatie van tuner, kabel en antenne aangepast aan de zender
+B. De staandegolfverhouding op de kabel naar de antenne afgeregeld
+C. Alleen de kabel in resonantie gebracht
+D. Alleen de antenne in resonantie gebracht
+(F-examen augustus 2009, december 2010, mei 2019 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.109 Opgave 14-109
+De staandegolfverhouding in een antennekabel wordt bepaald door:
+A. De som van het afgegeven vermogen van de zender en het aan de antenne
+toegevoerde vermogen
+B. Het afgegeven vermogen van de zender min het vermogen, toegevoerd aan de
+antenne
+C. De mate waarin de zendantenne-impedantie afwijkt van de karakteristieke
+impedantie van de kabel
+D. Het aan de antenne toegevoerde vermogen gedeeld door het afgegeven vermogen
+van de zender
+(F-examen januari 2011, maart 2011 (1), januari 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.110 Opgave 14-110
+Een voordeel van een open voedingslijn ten opzichte van een coaxkabel is dat bij de open
+lijn:
+A. De karakteristieke impedantie (golfweerstand) lager is
+B. Er geen staande golven kunnen optreden
+C. De verliezen lager zijn
+D. De lijn minder straalt
+(F-examen voorjaar 2005, januari 2013, september 2014 (2), mei 2017 (2), november 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.111 Opgave 14-111
+Het voordeel van een coaxiale kabel ten opzichte van een open voedingslijn is dat bij de
+coaxiale kabel:
+A. De karakteristieke impedantie (golfweerstand) hoger is
+B. Er geen staande golven kunnen optreden
+C. De verliezen lager zijn
+D. De kabel minder straalt
+(F-examen najaar 2000, januari 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.112 Opgave 14-112
+In vergelijking met een open voedingslijn geldt dat bij een coaxiale kabel:
+A. De verliezen in het algemeen lager zijn
+B. De karakteristieke impedantie in het algemeen lager is
+C. De kabel symmetrisch is
+D. Er geen staande golven kunnen optreden
+(F-examen september 2011 (1), november 2013 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.113 Opgave 14-113
+De werkelijke lengte van een coaxiale kabel is korter dan de elektrische lengte doordat:
+A. De karakteristieke impedantie laag is
+B. Er buiten de kabel geen veld ontstaat
+C. Er huideffect optreedt
+D. De voortplantingssnelheid in coaxkabel lager is dan in lucht
+(F-examen mei 2011 (3), september 2012)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.114 Opgave 14-114
+De verkortingsfactor van een coaxiale kabel is afhankelijk van:
+A. De staandegolfverhouding
+B. Het diëlektricum
+C. De toegepaste frequentie
+D. De lengte van de kabel
+(F-examen najaar 2002, november 2008 (2), november 2009 (1), maart 2011 (2), september
+2016)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.115 Opgave 14-115
+De golflengte van een elektromagnetisch verschijnsel in een voedingslijn is altijd kleiner
+dan in lucht.
+Hierbij speelt vooral een rol:
+A. Het skineffect
+B. De verkortingsfactor
+C. De verliesfactor
+D. De reflectiecoëfficiënt
+(F-examen maart 2013, november 2014 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.116 Opgave 14-116
+De verliezen in een coaxiale kabel
+A. Nemen toe bij hogere frequenties
+B. Nemen af bij toenemende lengte
+C. Zijn onafhankelijk van de frequentie
+D. Nemen af bij hogere frequenties
+(F-examen maart 2010)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.117 Opgave 14-117
+Voor de koppeling van de zender met de antenne wordt vaak coaxiale kabel gebruikt. Een
+belangrijke reden hiervoor is:
+A. Lage prijs
+B. Goede staandegolfverhouding
+C. Lage demping
+D. Afscherming tegen ongewenste straling
+(F-examen voorjaar 2002, maart 2010, mei 2010 (1), augustus 2010, mei 2011 (1 en 2), mei
+2012 (1), september 2014 (2), september 2018, januari 2020)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.118 Opgave 14-118
+De verkortingsfactor is er bij een stuk coaxiale kabel de oorzaak van dat de verhouding
+werkelijke lengte/elektrische lengte (lengten uitgedrukt in dezelfde eenheid):
+A. Gelijk is aan 1
+B. Kleiner is dan 1
+C. Groter is dan 1
+D. Afhankelijk is van de kabelspanning
+(F-examen mei 2009 (1), juli 2011, september 2011 (2), mei 2012 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.119 Opgave 14-119
+De verkortingsfactor van gangbare coaxkabel is:
+A. 0,35
+B. 0,17
+C. 1,4
+D. 0,7
+(F-examen maart 2011 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.120 Opgave 14-120
+De karakteristieke impedantie van een coaxkabel wordt bepaald door:
+A. De lengte
+B. De afsluitimpedantie
+C. Het materiaal van de mantel
+D. De doorsnede van de binnengeleider en de afstand tot de mantel.
+(F-examen voorjaar 2007, september 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.121 Opgave 14-121
+De coaxiale kabel van een 2-meterantenne dient zo kort mogelijk te zijn in verband met
+de:
+A. Verliezen in de kabel
+B. Aanpassing van de antenne aan de kabel
+C. Optimale staandegolfverhouding
+D. Aanpassing van de kabel aan de zender
+(F-examen juli 2009, januari 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.122 Opgave 14-122
+De meest toegepaste coaxiale kabel tussen de zendontvanger en de antenne heeft een
+karakteristieke impedantie van
+A. 50 ohm
+B. 100 ohm
+C. 300 ohm
+D. 600 ohm
+(F-examen najaar 2004)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.123 Opgave 14-123
+De karakteristieke impedantie van een coaxkabel is onafhankelijk van:
+A. De materiaaldikte van de buitengeleider
+B. De binnendiameter van de buitengeleider
+C. Het diëlektricum tussen de binnen- en buitengeleider
+D. De buitendiameter van de binnengeleider
+(F-examen mei 2015 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.124 Opgave 14-124
+De karakteristieke impedantie van een stuk voedingslijn van 20 m lang is 52 ohm.
+Wanneer er 10 meter wordt afgeknipt, is de karakteristieke impedantie
+A. 13 
+B. 104 
+C. 52 
+D. 26 
+(F-examen september 2010 (1), mei 2016 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.125 Opgave 14-125
+Een hoog opgehangen halvegolf gevouwen dipool voor de 20-meterband wordt gevoed
+door een lintlijn met een karakteristieke impedantie van 300 ohm.
+De lengte van deze voedingslijn:
+A. Moet precies 20 meter zijn
+B. Moet een aantal kwartgolf lengten hebben
+C. Mag iedere willekeurige lengte hebben
+D. Moet een aantal halve golflengten hebben
+(F-examen november 2015)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.126 Opgave 14-126
+De meest gebruikte impedantie van kunstantennes voor VHF is:
+A. 100 
+B. 25 
+C. 300 
+D. 50 
+(F-examen november 2016, januari 2020)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.127 Opgave 14-127
+Een coaxiale kabel heeft een werkelijke lengte van 8 meter. De verkortingsfactor is 0,8. Bij
+een frequentie van 150 MHz is de werkelijke lengte:
+A. 2 golflengten
+B. 3,2 golflengten
+C. 5 golflengten
+D. 10 golflengten
+(F-examen voorjaar 2001)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.128 Opgave 14-128
+Een open (niet kortgesloten) stuk coaxiale kabel met een verkortingsfactor van circa 0,7
+gedraagt zich op 144 MHz als een seriekring in resonantie. De met een meetlat gemeten
+lengte bedraagt ongeveer:
+A. 35 cm
+B. 52 cm
+C. 74 cm
+D. 144 cm
+(F-examen najaar 2001)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.129 Opgave 14-129
+Om de verkortingsfactor van een coaxiale kabel te bepalen, wordt een stuk kabel van 0,5
+meter lengte aan een einde kortgesloten. Met een dipmeter wordt vastgesteld dat de eerste
+parallelresonantie optreedt bij 120 MHz. De verkortingsfactor van de kabel is:
+A. 0,97
+B. 0,7
+C. 0,8
+D. 0,67
+(F-examen augustus 2013, november 2016)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.130 Opgave 14-130
+De karakteristieke impedantie van de voedingslijn is 50 .
+
+De ingangsimpedantie Zi is:
+A. 25 
+B. Zeer hoog
+C. 100 
+D. 50 
+(F-examen augustus 2010)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.131 Opgave 14-131
+Een voedingslijn met een elektrische lengte van ¼ golflengte is aan het einde
+kortgesloten.
+
+De ingangsimpedantie Zi is:
+A. Zeer laag
+B. 12,5 
+C. Zeer hoog
+D. 50 
+(F-examen april 2008, september 2009 (1), september 2014 (1), januari 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.132 Opgave 14-132
+Een 50 ohm coaxiale kabel wil men aanpassen op een antenne van 72 ohm. Men gebruikt
+hiervoor een kwartgolf impedantietransformator. De transformator wordt gemaakt met
+coaxiale kabel met een karakteristieke impedantie van:
+A. 72 
+B. 100 
+C. 60 
+D. 50 
+(F-examen februari 2010 (2), maart 2010, januari 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.133 Opgave 14-133
+De karakteristieke impedantie (Zk) van de coaxkabel is 50 ohm.
+
+Zi is ongeveer:
+A. 50 
+B. 33 
+C. 60 
+D. 75 
+(F-examen voorjaar 2007, maart 2011 (1), augustus 2011, mei 2016 (1), januari 2017,
+november 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.134 Opgave 14-134
+Een open (niet-kortgesloten) stuk coaxiale kabel kan gebruikt worden als parallelresonantiekring indien de met een meetlat gemeten lengte:
+A. Ongeveer 30% korter is dan een halve golflengte
+B. Een kwartgolflengte lang is
+C. Ongeveer 30% langer is dan een halve golflengte
+D. Een halve golflengte lang is
+(F-examen najaar 2000, februari 2009, maaer 2009 (2), september 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.135 Opgave 14-135
+De coaxiale kabels hebben een karakteristieke impedantie van 70 . De elektrische lengte
+is aangegeven. De zenders moeten met 50  worden belast.
+
+Aanpassing wordt verkregen:
+A. Met opstelling 1 en 2
+B. Alleen met opstelling 2
+C. Met geen van beide
+opstellingen
+D. Alleen met opstelling 1.
+
+(F-examen oktober 2008, mei 2009 (2), februari 2010 (2), maart 2019, november 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.136 Opgave 14-136
+Twee stukken coaxkabel met een elektrische lengte elk van 0,25  en een karakteristieke
+impedantie van 70 , zijn in serie geschakeld. De staandegolfmeter (SGM), welke is
+gemaakt voor 50 , geeft een staandegolfverhouding aan van ongeveer
+
+A. 2,8
+B. 1,0
+C. 2,0
+D. 1,4
+(F-examen voorjaar 2002, maart 2009 (2), november 2010 (2), april 2011, mei 2013 (2),
+januari 2015)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.137 Opgave 14-137
+Van elke coaxkabel is de karakteristieke impedantie en de elektrische lengte gegeven. De
+staandegolfmeter (SGM) welke is gemaakt voor 50 , geeft ongeveer aan:
+
+A. 1,4
+B. 0,7
+C. 2,0
+D. 1,0
+(F-examen voorjaar 2003, maart 2009 (1), mei 2014 (2), mei 2017 (2), mei 2019 (1)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.138 Opgave 14-138
+De staandegolfmeter is gemaakt voor 50 . De antenne-aanpassingseenheid (ATU) wordt
+zo afgeregeld dat de staandegolfmeter (SGM) 1 aanwijst.
+
+Er is nu een staandegolfverhouding van 1 bereikt in
+A. Geen van beide kabels
+B. Kabel 1 en kabel 2
+C. Alleen kabel 1
+D. Alleen kabel 2
+(F-examen najaar 2005, december 2008, november 2009, september 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.139 Opgave 14-139
+De staandegolfmeter is gemaakt voor 50 . De antenne-aanpassingseenheid (ATU) wordt
+zo afgeregeld dat de staandegolfmeter (SGM) 1 aanwijst. Er is nu een
+staandegolfverhouding van 1 bereikt in
+
+A. Alleen kabel 2
+B. Alleen kabel 1
+C. Kabel 1 en kabel 2
+D. Geen van beide kabels
+(F-examen maart 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.140 Opgave 14-140
+De staandegolfmeter (SGM) is gemaakt voor 50 ohm.
+De antenne-aanpassingseenheid (ATU) wordt zo afgeregeld dat de staandegolfmeter 1
+aanwijst.
+
+In welke kabel is nu een staandegolfverhouding van 1 bereikt?
+A. Alleen kabel 1
+B. Geen van beide kabels
+C. Alleen kabel 2
+D. Kabel 1 en kabel 2
+(F-examen april 2008, september 2011 (2), mei 2012 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.141 Opgave 14-141
+De staandegolfmeter (SGM) is gemaakt voor 50 . De antenne-aanpassingseenheid (ATU)
+wordt zo afgeregeld dat de staandegolfmeter 1 aanwijst.
+
+Er is nu een staandegolfverhouding van 1 bereikt in:
+A. Kabel 1 en kabel 2
+B. Alleen kabel 1
+C. Alleen kabel 2
+D. Geen van beide kabels
+(F-examen november 2008 (1), maart 2015)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.142 Opgave 14-142
+Een staandegolfmeter voor 70  is opgenomen in een antennekabel van 70 . Bij welke
+afsluitimpedantie wijst de meter 1 aan?
+
+A. 50 
+B. 70 
+C. Niet afgesloten
+D. Kortsluiting
+(F-examen september 2009 (2), mei 2010 (1), mei 2014 (2), mei 2018 (2), januari 2020)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.143 Opgave 14-143
+In welke figuur is de aanpassing bij de halve-golfantenne juist?
+
+A. Figuur 1
+B. Figuur 3
+C. Figuur 2
+D. Figuur 4
+(F-examen najaar 2005, april 2009, November 2010 (2), mei 2015 (2), maart 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.144 Opgave 14-144
+Een 50  staandegolfmeter is met coaxiale kabels van 50  opgenomen tussen een zender
+en een antenne. Deze meter geeft een SWR van 1:20 aan.
+
+Dit betekent dat de:
+A. Antenne juist is aangepast
+B. Zender juist is aangepast
+C. Antenne zeer slecht is aangepast
+D. Zender veel vermogen levert
+(F-examen voorjaar 2005, februari 2010 (2), juni 2010, september 2010 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.145 Opgave 14-145
+De zender heeft een ingebouwde staandegolfmeter (SWR-meter). Door afregeling van de
+antenne-aanpassingseenheid (ATU) wijst de staandegolfmeter 1 aan.
+
+Door het afregelen van de ATU:
+A. Is de zender juist belast
+B. Is de SWR in de antennekabel veranderd
+C. Zijn de verliezen in de antennekabel verminderd
+D. Is het stralingsdiagram van de antennekabel verminderd
+(F-examen najaar 2007, november 2009, mei 2011 (1), mei 2019 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.146 Opgave 14-146
+De combinatie van transformator en antenne is het best aangepast aan de coaxiale kabel
+bij een wikkelverhouding n1/n2:
+A. 1:6
+B. 1:2
+C. 2:1
+D. 1:1
+
+(F-examen februari 2010, januari 2015)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.147 Opgave 14-147
+Om harmonischen van de zendfrequentie te onderdrukken, wordt aan de coaxiale
+voedingslijn naar de antenne een coaxiale stub aangebracht. Wat is juist:
+
+A. L = 33 cm; einde A is kortgesloten
+B. L = 33 cm; einde A is open
+C. L = 66 cm; einde A is kortgesloten
+D. L = 99 cm; einde A is open
+(F-examen april 2010, november 2010 (1), juni 2011, september 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.148 Opgave 14-148
+Om een hoogohmige antenne aan te passen aan een voedingslijn met lage impedantie
+wordt een “stub” toegepast. Wat is juist:
+
+A. Lengte 1: ½ lambda, einde A kortgesloten
+B. Lengte l: ¼ lambda,; einde A open
+C. Lengte l: ¼ lambda; einde A kortgesloten
+D. Lengte l: 1/8 lambda; einde A kortgesloten
+(F-examen mei 2009 (1), november 2010 (1),
+november 2013)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.149 Opgave 14-149
+Om een laagohmige antenne aan te passen aan een hoogohmige voedingslijn wordt een
+“stub” toegepast. Wat is juist:
+
+A. Lengte l: 1/8 lambda; einde A: kortgesloten
+B. Lengte l: ¼ lambda; einde A: open
+C. Lengte l: ½ lambda; einde A: open
+D. Lengte l: ¼ lambda; einde A: kortgesloten
+
+(F-examen juni 2009, januari 2011, september 2011 (1). mei 2014 (2), januari 2018,
+september 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.4.150 Opgave 14-150
+Een staandegolfmeter voor 50  meet een staandegolfverhouding van 1 op een coaxiale
+kabel van 50 wanneer deze is afgesloten met een
+A. Weerstand van 50 
+B. Hoge impedanteie
+C. Reactantie
+D. Kortsluiting
+(F-examen juni 2010, maart 2011 (1), maart 2012, september 2014 (1 en 2), maart 2015,
+november 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5 Uitwerkingen
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.101
+Uitwerking van Opgave 14-101
+Een halvegolf gevouwen dipoolantenne voor de 40-meterband wordt gevoed door een
+lintlijn met een karakteristieke impedantie van 300 . De lengte van deze voedingslijn:
+A. Moet een aantal kwartgolf-lengten bedragen
+B. Mag iedere willekeurige lengte hebben
+C. Moet precies 20 meter zijn
+D. Moet een oneven aantal halve golflengten bedragen
+Uitwerking
+De impedantie op het voedingspunt van een halvegolf gevouwen dipoolantenne bedraagt
+vrijwel 300 . De transmissielijn en de antenne zijn daarom aan elkaar aangepast. Er zijn
+dan (praktisch) alleen lopende golven op de transmissielijn en dan mag deze elke
+willekeurige lengte hebben. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.102 Uitwerking van Opgave 14-102
+De juiste impedantie-aanpassing van een antennesysteem wordt gecontroleerd met een:
+A. Ohmmeter
+B. Ampèremeter
+C. Veldsterktemeter
+D. Staandegolfmeter
+Uitwerking
+Deze meting wordt gedaan met een staandegolfmeter. Eigenlijk zou die tussen
+voedingslijn en antenne geplaatst moeten zijn, maar in de praktijk is dat om praktische
+redenen zelden of nooit uitvoerbaar en zit de meter tussen zenderuitgang en voedingslijn
+naar de antenne.
+Opmerkingen
+Met een ohmmeter bereik je bij het bepalen van karakteristieke impedanties helemaal
+niets; die dingen zijn geschikt voor gelijkstroom. Met een veldsterktemeter meet je
+veldsterkte en dat kan alleen voorbij de antenne. Ook ampèremeters zijn gemaakt voor
+andersoortige metingen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.103 Uitwerking van Opgave 14-103
+Om te bereiken dat de staandegolfverhouding op de voedingslijn van de zendantenne zo
+laag mogelijk is, dient:
+A. Als voedingslijn een coaxiale kabel te worden toegepast
+B. Een juiste aanpassing tussen zender en voedingslijn te worden gemaakt
+C. Een juiste aanpassing tussen antenne en voedingslijn te worden gemaakt
+D. De lengte van de voedingslijn zo kort mogelijk te zijn
+Uitwerking
+Om een zo laag mogelijke SWR op de voedingslijn naar de antenne te krijgen, moet de
+aanpassing tussen antenne en voedingslijn zo goed mogelijk zijn. Antwoord C.
+Opmerkingen
+Of een coax-kabel of een symmetrische lijn wordt toegepast, is van minder belang dan de
+karakteristieke impedantie. Eventueel kan een balun worden ingezet als kabel en
+antenneaansluiting ongelijk van symmetrie zijn. Een zo kort mogelijke voedingslijn is
+altijd zinvol, maar heeft niets met de SWR te maken en als het gaat om de voedingslijn
+van de zendantenne, is de aanpassing van de lijn aan de antenne aan de orde, niet die aan
+de zenderuitgang.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.104 Uitwerking van Opgave 14-104
+Een halvegolf gevouwen dipool wordt gevoed door een 300 ohm lintlijn. De
+staandegolfverhouding in de voedingslijn bij de zender bedraagt ongeveer
+A. 2
+B. 1
+C. 4
+D. 8
+Uitwerking
+Een halvegolf gevouwen dipoolantenne heeft op het voedingspunt een symmetrische
+aansluiting met een impedantie van bijna 300 ohm. De voedingslijn (lintlijn) is
+symmetrisch en is volgens de gegevens een exemplaar met een karakteristieke impedantie
+van eveneens 300 ohm. Dat betekent een SWR van 1. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.105 Uitwerking van Opgave 14-105
+Een staande golfmeter voor 50  is aangesloten tussen een zendontvanger en een 50 
+coaxiale kabel met antenne. De aanwijzing is 1. Dit betekent dat de:
+A. Voor/achterverhouding van de antenne goed is
+B. Antenne aangepast is aan de kabel
+C. Demping van de kabel minimaal is
+D. Uitgangsimpedantie van de zendontvanger 50  is
+Uitwerking
+De SWR-meter (staandegolfmeter) meet de verhouding tussen uitgaande spanning en de
+door eventuele misaanpassing aan de antenne richting zender teruggestuurde
+(gereflecteerde) spanning op de kabel. Als de kabel geen verliezen geeft door
+(bijvoorbeeld) een impedantieverschil, mag je ervan uitgaan dat je de aanpassing tussen
+zender en antenne meet.
+Opmerking
+Het meten van de SWR tussen zenderuitgang en antennekabel (voedingslijn) is onder
+zendamateurs normale praktijk, maar eigenlijk zou de aanpassing op het voedingspunt van
+de antenne moeten worden gemeten. In de praktijk is dat bijna nooit praktisch
+uitvoerbaar.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.106 Uitwerking van Opgave 14-106
+Het voornaamste doel van een aanpassingsnetwerk tussen zender en antennekabel is:
+A. Meting van de staandegolfverhouding in de antennekabel
+B. Optimale belasting van de zender
+C. Vermindering van de terugwerking op de zenderfrequentie
+D. Beveiliging tegen gevaar bij aanraking antennedraad
+Uitwerking
+Het eerste doel van aanpassingsnetwerken tussen zendereindtrap en antennekabel is
+aanpassing van de uitgangsimpedantie van de zender aan de impedantie van de kabel, zodat
+zoveel mogelijk vermogen van de zender de kabel ingaat. Dat mag ook optimale belasting
+worden genoemd. Antwoord B.
+Opmerkingen
+Het gaat hier om het beginsel dat aan een vermogensbron het maximale vermogen wordt
+onttrokken als hij wordt belast met een weerstand die even groot is als zijn eigen inwendige
+weerstand.
+Dat een aanpassingsnetwerk in een zendereindtrap meestal ook werkt als laagdoorlaatfilter
+is niet het hoofddoel, maar wel mooi meegenomen bij het onderdrukken van
+harmonischen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.107 Uitwerking van Opgave 14-107
+Het deel van een EZB-station dat zou kunnen bijdragen aan de onderdrukking van hogere
+harmonischen in het uitgangssignaal is:
+A. Het EZB-filter
+B. De antenne-aanpassingseenheid
+C. De spraakprocessor
+D. De staandegolfmeter
+Uitwerking
+Let op dat hier EZB-station staat en niet EZB-zender. Het station omvat alle betrokken
+apparatuur die met het uitzenden van EZB te maken heeft, niet alleen de zender.
+Dat betekent dat we de apparatuur die in de antwoorden wordt genoemd, moeten
+betrekken in het vinden van het juiste antwoord. Een antenne-aanpassingseenheid heet in
+het spraakgebruik kortweg tuner of iets langer: antennetuner. Het apparaat is bedoeld
+voor impedantie-aanpassing tussen zender en antennekabel. Vaak, maar niet altijd, is dit
+apparaat behalve impedantie-omzetter ook laagdoorlaatfilter. Een daarmee mag duidelijk
+zijn, welke kant deze uitwerking opgaat: antwoord B.
+Opmerkingen
+De term “hogere harmonischen” zou misschien doen vermoeden dat er ook lagere
+harmonischen bestaan. Lager dan wat? De grondfrequentie? Die bestaan niet.
+Een spraakprocessor is een apparaatje dat het spraaksignaal zo behandelt dat het
+amplitudeverschil tussen harde en zachte stukjes spraak wordt verminderd. Daarmee
+wordt het gemiddelde uitgezonden vermogen wat opgekrikt. Dat helpt soms bij de
+verstaanbaarheid, mits de processor het spraaksignaal niet te veel in elkaar drukt, want
+dan wordt de verstaanbaarheid er eerder slechter dan beter van. Géén examenstof, dus
+eigenlijk hoort de term niet thuis in het rijtje antwoorden.
+De staandegolfmeter en het EZB-filter kenden we al van eerder behandelde opgaven en
+die onderdrukt geen harmonischen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.108 Uitwerking van Opgave 14-108
+Een zender is via een antenne-aanpassingseenheid en een kabel met de antenne
+verbonden. Door een juiste instelling van de aanpassingseenheid wordt:
+A. De combinatie van tuner, kabel en antenne aangepast aan de zender
+B. De staandegolfverhouding op de kabel naar de antenne afgeregeld
+C. Alleen de kabel in resonantie gebracht
+D. Alleen de antenne in resonantie gebracht
+Uitwerking
+De combinatie aanpassingseenheid (ATU), kabel en antenne wordt door een goede
+instelling aangepast aan de zender. Bij de zender lijkt dan alles in orde, maar dat zegt niet
+alles over het deel kabel/antenne. Maar dat wordt niet gevraagd, dus toch: antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.109 Uitwerking van Opgave 14-109
+De staandegolfverhouding in een antennekabel wordt bepaald door:
+A. De som van het afgegeven vermogen van de zender en het aan de antenne
+toegevoerde vermogen
+B. Het afgegeven vermogen van de zender min het vermogen, toegevoerd aan de
+antenne
+C. De mate waarin de zendantenne-impedantie afwijkt van de karakteristieke
+impedantie van de kabel
+D. Het aan de antenne toegevoerde vermogen gedeeld door het afgegeven vermogen
+van de zender
+Uitwerking
+In principe geeft de staandegolfverhouding de (mis)aanpassing tussen kabel en
+zendantenne aan. Omdat een staandegolfmeter om praktische redenen niet tussen
+antenne-aansluiting en kabel, maar tussen zenderuitgang (of ATU-uitgang) en
+antennevoedingskabel zit, kan een SWR-aflezing wel eens afwijken van de werkelijke
+situatie tussen kabel en antenne. Maar toch: antwoord C.
+Opmerkingen
+Antwoord A ziet er indrukwekkend uit, net als B. Maar ze gaan beide uit van een
+optelling, waarvan één met een minteken, terwijl bij een verhouding altijd sprake is van
+een deling.
+Antwoord D zou je met enige goede wil kunnen zien als een soort rendement.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.110 Uitwerking van Opgave 14-110
+Een voordeel van een open voedingslijn ten opzichte van een coaxkabel is dat bij de open
+lijn:
+A. De karakteristieke impedantie (golfweerstand) lager is
+B. Er geen staande golven kunnen optreden
+C. De verliezen lager zijn
+D. De lijn minder straalt
+Uitwerking
+Bij de open voedingslijn zijn de verliezen gemiddeld kleiner dan bij coaxkabel. Daar staat
+tegenover dat de open lijn wat meer straalt en zo meer storing veroorzaakt (en ook
+ontvangt). Antwoord C.
+Opmerkingen
+De karakteristieke impedantie van open lijn is in het algemeen hoger dan bij coax.
+In elke transmissielijn kunnen staande golven optreden.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.111 Uitwerking van Opgave 14-111
+Het voordeel van een coaxiale kabel ten opzichte van een open voedingslijn is dat bij de
+coaxiale kabel:
+A. De karakteristieke impedantie (golfweerstand) hoger is
+B. Er geen staande golven kunnen optreden
+C. De verliezen lager zijn
+D. De kabel minder straalt
+Uitwerking
+Deze opgave lijkt op Opgave 14-110, maar met een rolverwisseling tussen coax en open
+lijn. Doordat bij coax de ene geleider volledig is omsloten door de andere en daardoor het
+EM-veld zich beperkt tot het omsloten gebied, is er geen sprake van straling (tenzij er
+door een of ander gebrek mantelstromen lopen). Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.112 Uitwerking van Opgave 14-112
+In vergelijking met een open voedingslijn geldt dat bij een coaxiale kabel:
+A. De verliezen in het algemeen lager zijn
+B. De karakteristieke impedantie in het algemeen lager is
+C. De kabel symmetrisch is
+D. Er geen staande golven kunnen optreden
+Uitwerking
+Een coaxiale kabel is niet symmetrisch, heeft in het algemeen wat hogere verliezen en er
+kunnen wel degelijk staande golven in optreden. Dan blijft antwoord B over en dat klopt
+ook, want de karakteristieke impedantie van coax is in het algemeen lager dan die van
+open lijn. Denk aan 100  of minder bij coax tegenover honderden  bij open lijn.
+Antwoord B dus.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.113 Uitwerking van Opgave 14-113
+De werkelijke lengte van een coaxiale kabel is korter dan de elektrische lengte doordat:
+A. De karakteristieke impedantie laag is
+B. Er buiten de kabel geen veld ontstaat
+C. Er huideffect optreedt
+D. De voortplantingssnelheid in coaxkabel lager is dan in lucht
+Uitwerking
+De voortplantingssnelheid van golven in coaxkabel is lager dan die van EM-golven in
+lucht. De verhouding van beide snelheden heet de verkortingsfactor. Die ligt ongeveer
+tussen 0,66 en 0,86, afhankelijk van de diameters van binnengeleider en buitenmantel en
+van de diëlektrische constante (permittiviteit) van het isolatiemateriaal tussen die twee.
+Een signaal plant zich in een coaxkabel langzamer voort dan in lucht en de golflengte bij
+gelijke frequentie in coax is kleiner dan in lucht. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.114 Uitwerking van Opgave 14-114
+De verkortingsfactor van een coaxiale kabel is afhankelijk van:
+A. De staandegolfverhouding
+B. Het diëlektricum
+C. De toegepaste frequentie
+D. De lengte van de kabel
+Uitwerking
+In de uitwerking van Opgave 14-113 is het al ter sprake geweest: het diëlektricum.
+Antwoord B.
+Opmerking
+Staandegolfverhouding, frequentie en kabellengte hebben geen enkele invloed op de
+verkortingsfactor.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.115 Uitwerking van Opgave 14-115
+De golflengte van een elektromagnetisch verschijnsel in een voedingslijn is altijd kleiner
+dan in lucht.
+Hierbij speelt vooral een rol:
+A. Het skineffect
+B. De verkortingsfactor
+C. De verliesfactor
+D. De reflectiecoëfficiënt
+Uitwerking
+Eigenlijk is deze vraagstelling niet juist. Het officiële juiste antwoord is B. De
+verkortingsfactor speelt hier echter geen rol, maar is de naam van de verhouding van de
+snelheid in de voedingslijn en die in lucht..
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.116 Uitwerking van Opgave 14-116
+De verliezen in een coaxiale kabel
+A. Nemen toe bij hogere frequenties
+B. Nemen af bij toenemende lengte
+C. Zijn onafhankelijk van de frequentie
+D. Nemen af bij hogere frequenties
+Uitwerking
+De verliezen van coax nemen toe bij hogere frequenties en zijn evenredig met de lengte:
+kabel n maal zo lang, verliezen n maal zo groot. Antwoord A.
+Ter illustratie een figuur uit de cursustekst voor drie verschillende soorten coax.
+
+Verliezen (dB/100 m)
+
+25.0
+RG 213 U (10,3 mm)
+Ecoflex 10 (10,2 mm)
+Ecoflex 15 (15 mm)
+
+20.0
+15.0
+10.0
+5.0
+0.0
+10
+
+100
+Frequentie (MHz)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-87
+
+1 000
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.117 Uitwerking van Opgave 14-117
+Voor de koppeling van de zender met de antenne wordt vaak coaxiale kabel gebruikt. Een
+belangrijke reden hiervoor is:
+A. Lage prijs
+B. Goede staandegolfverhouding
+C. Lage demping
+D. Afscherming tegen ongewenste straling
+Uitwerking
+De belangrijkste reden voor het gebruik van coax als antenneleiding is de geringe
+uitstraling (bijna 0) en omgekeerd de ongevoeligheid voor (ongewenste) instraling.
+Antwoord D.
+Opmerkingen
+Coax is niet heel goedkoop. De staandegolfverhouding hangt af van
+impedantieverhoudingen en niet van het soort transmissielijn.
+Relatief verliesarme coax heeft veel lucht in het diëlektricum, bv. kunststofschuim of een
+diëlektricum van kunststof ringetjes tussen buitenisolatie en mantel met lucht tussen de
+ringetjes. Demping is niet alleen hiervan afhankelijk, maar ook van de frequentie. Zie
+bijvoorbeeld de grafiek in de uitwerking van Opgave 14-117.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.118 Uitwerking van Opgave 14-118
+De verkortingsfactor is er bij een stuk coaxiale kabel de oorzaak van dat de verhouding
+werkelijke lengte/elektrische lengte (lengten uitgedrukt in dezelfde eenheid):
+A. Gelijk is aan 1
+B. Kleiner is dan 1
+C. Groter is dan 1
+D. Afhankelijk is van de kabelspanning
+Uitwerking
+De verkortingsfactor bij een eind coax is kleiner dan 1, omdat de voortplantingssnelheid
+van een golf daarin lager is dan die in vacuüm of lucht. Dat komt neer op antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.119 Uitwerking van Opgave 14-119
+De verkortingsfactor van gangbare coaxkabel is:
+A. 0,35
+B. 0,17
+C. 1,4
+D. 0,7
+Uitwerking
+Een verkortingsfactor is nooit groter dan 1. Daarmee vervalt antwoord C. 0,35 en 0,17 zijn
+wel erg klein en komen in de praktijk niet voor. Dan blijft 0,7 over. Het is een weetje, dat
+wel. In de cursustekst zijn wat meer waarden te vinden, vanaf 0,65. Daar past 0,7 vrij goed
+bij. Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.120 Uitwerking van Opgave 14-120
+De karakteristieke impedantie van een coaxkabel wordt bepaald door:
+A. De lengte
+B. De afsluitimpedantie
+C. Het materiaal van de mantel
+D. De doorsnede van de binnengeleider en de afstand tot de mantel.
+Uitwerking
+Er zijn drie dingen die de karakteristieke impedantie van coax bepalen:
+-
+
+De doorsnede van de binnengeleider
+De afstand tussen binnengeleider en mantel
+De diëlektrische constante (permittiviteit) van het isolatiemateriaal tussen
+binnengeleuder en mantel.
+
+Van deze drie zitten er twee in antwoord D en geen in de andere drie antwoorden.
+Antwoord D dus.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.121 Uitwerking van Opgave 14-121
+De coaxiale kabel van een 2-meterantenne dient zo kort mogelijk te zijn in verband met
+de:
+A. Verliezen in de kabel
+B. Aanpassing van de antenne aan de kabel
+C. Optimale staandegolfverhouding
+D. Aanpassing van de kabel aan de zender
+Uitwerking
+Kabelverliezen uitgedrukt in dB zijn evenredig met de kabellengte. Kabel n keer zo lang,
+verliezen in dB n keer zo groot. Antwoord A.
+Opmerkingen
+Dit is niet iets specifieks voor 2-meterantennes, het geldt voor alle frequenties. Dat is dus
+overbodige informatie. Wel nemen kabelverliezen in het algemeen toe met toenemende
+frequentie.
+De lengte van een coaxkabel heeft niets te maken met staandegolfverhouding of
+impedantieaanpassingen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.122 Uitwerking van Opgave 14-122
+De meest toegepaste coaxiale kabel tussen de zendontvanger en de antenne heeft een
+karakteristieke impedantie van
+A. 50 ohm
+B. 100 ohm
+C. 300 ohm
+D. 600 ohm
+Uitwerking
+Coaxkabel tussen zendontvanger en antenne heeft vrijwel altijd een karakteristieke
+impedantie van 50 . Niet meer dan een weetje. Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.123 Uitwerking van Opgave 14-123
+De karakteristieke impedantie van een coaxkabel is onafhankelijk van:
+A. De materiaaldikte van de buitengeleider
+B. De binnendiameter van de buitengeleider
+C. Het diëlektricum tussen de binnen- en buitengeleider
+D. De buitendiameter van de binnengeleider
+Uitwerking
+In de uitwerking van Opgave 14-120 onderscheidden we drie dingen die de
+karakteristieke impedantie van coax bepalen:
+-
+
+De doorsnede van de binnengeleider
+De afstand tussen binnengeleider en mantel
+De diëlektrische constante (permittiviteit) van het isolatiemateriaal tussen
+binnengeleuder en mantel.
+
+De antwoorden B, C en D geven allemaal zaken die direct of een beetje vermomd in die
+drie punten voorkomen. Zo gaat het niet letterlijk om de doorsnede van de
+binnengeleider, maar om de afstand tussen binnen- en buitengeleider. Die afstand
+bereken je uit de buitendiameter van de binnengeleider en de binnendiameter van de
+buitengeleider.
+Alleen de materiaaldikte van de buitengeleider valt buiten het rijtje van Opgave 14-120.
+Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.124 Uitwerking van Opgave 14-124
+De karakteristieke impedantie van een stuk voedingslijn van 20 m lang is 52 ohm.
+Wanneer er 10 meter wordt afgeknipt, is de karakteristieke impedantie
+A. 13 
+B. 104 
+C. 52 
+D. 26 
+Uitwerking
+De karakteristieke weerstand van een stuk transmissielijn is onafhankelijk van de lengte.
+Als je er een stuk van afknipt, blijft de karakteristieke impedantie van de voedingslijn (en
+die van het afgeknipte stuk!) onveranderd. Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.125 Uitwerking van Opgave 14-125
+Een hoog opgehangen halvegolf gevouwen dipool voor de 20-meterband wordt gevoed
+door een lintlijn met een karakteristieke impedantie van 300 ohm.
+De lengte van deze voedingslijn:
+A. Moet precies 20 meter zijn
+B. Moet een aantal kwartgolf lengten hebben
+C. Mag iedere willekeurige lengte hebben
+D. Moet een aantal halve golflengten hebben
+Uitwerking
+Een lintlijn is een symmetrische (open) lijn. De impedantie op de aansluiting van een
+gevouwen dipoolantenne is 300 ohm. De karakteristieke impedantie van de voedingslijn is
+ook 300 ohm, zodat voedingslijn en antenne goed zijn aangepast. In zo’n geval maakt de
+lengte van de voedingslijn niets uit (behalve voor verliezen die wel afhankelijk zijn van de
+lijnlengte). Antwoord C.
+Opmerking
+Een vergelijkbare opgave is Opgave 14-101. Daar gaat het om een antenne voor 40 m,
+maar voor het principe maakt dat niets uit.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.126 Uitwerking van Opgave 14-126
+De meest gebruikte impedantie van kunstantennes voor VHF is:
+A. 100 
+B. 25 
+C. 300 
+D. 50 
+Uitwerking
+Kunstantennes (dummyloads) zijn praktisch allemaal ingericht op de meest voorkomende
+voedingskabel, coax met een karakteristieke impedantie van 50 . En dat geldt niet in het
+bijzonder voor VHF, maar ook voor HF en UHF. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.127 Uitwerking van Opgave 14-127
+Een coaxiale kabel heeft een werkelijke lengte van 8 meter. De verkortingsfactor is 0,8. Bij
+een frequentie van 150 MHz is de werkelijke lengte:
+A. 2 golflengten
+B. 3,2 golflengten
+C. 5 golflengten
+D. 10 golflengten
+Uitwerking
+Voor de verandering geven we twee oplossingen.
+1. We beginnen met het bepalen van de elektrische lengte. Die is 8 m⁄0,8 = 10 m.
+De golflengte bij 150 MHz is 300 m⁄150 = 2m. Die past 5 keer in 10 meter.
+Antwoord C.
+2. De golflengte bij 150 MHz is 300 m⁄150 = 2m. Bij een verkortingsfactor van 0,8
+wordt dat 2 ∗ 0,8 m = 1,6 m. 1,6 m past 5 keer in 8 m.
+Antwoord C.
+Beide oplossingen geven (zoals het hoort) dezelfde uitkomst.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.128 Uitwerking van Opgave 14-128
+Een open (niet kortgesloten) stuk coaxiale kabel met een verkortingsfactor van circa 0,7
+gedraagt zich op 144 MHz als een seriekring in resonantie. De met een meetlat gemeten
+lengte bedraagt ongeveer:
+A. 35 cm
+B. 52 cm
+C. 74 cm
+D. 144 cm
+Uitwerking
+Een open (= niet-kortgesloten) stuk coax van een kwart golflengte lang gedraagt zich als
+een laagohmige kring, dat wil zeggen een seriekring in resonantie. Daarom moeten we
+eerst achter de golflengte op 144 MHz zien te komen. Die bedraagt 300 m⁄144 ≈ 2,08 m.
+Met een verkortingsfactor van 0,7 wordt dat 0,7 ∗ 2,08 m ≈ 1,46 m. Een kwart daarvan is
+1,46 m⁄ ≈ 0,36 m = 36 cm.
+4
+Dat ligt van de vier antwoorden veruit het dichtst in de buurt van de met een meetlat -dus
+niet heel nauwkeurig- gemeten 35 cm. Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.129 Uitwerking van Opgave 14-129
+Om de verkortingsfactor van een coaxiale kabel te bepalen, wordt een stuk kabel van 0,5
+meter lengte aan een einde kortgesloten. Met een dipmeter wordt vastgesteld dat de eerste
+parallelresonantie optreedt bij 120 MHz. De verkortingsfactor van de kabel is:
+A. 0,97
+B. 0,7
+C. 0,8
+D. 0,67
+Uitwerking
+Dat stuk coax met moet -rekening gehouden met de verkortingsfactor- een kwart
+golflengte lang zijn, want het zet een zeer lage impedantie (kortsluiting) aan het ene eind
+om in een zeer hoge aan het andere, waardoor het geheel het karakter krijgt van een
+parallelle resonantiekring.
+We beginnen weer met de golflengte zonder verkortingsfactor, nu bij 120 MHz. Die
+bedraagt 300 m⁄120 = 2,5 m. Een kwartgolflengte is dan 2,5 m⁄4 = 0,625 m.
+0,625 m wordt dus verkort naar 0,5 m, zodat de verkortingsfactor 0,5⁄0,625 = 0,8
+bedraagt.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.130 Uitwerking van Opgave 14-130
+De karakteristieke impedantie van de voedingslijn is 50 .
+
+De ingangsimpedantie Zi is:
+A. 25 
+B. Zeer hoog
+C. 100 
+D. 50 
+Uitwerking
+Als een transmissielijn (voedingslijn) met zijn eigen karakteristieke impedantie wordt
+afgesloten, is de ingangsimpedantie bij iedere lengte gelijk aan die karakteristieke
+impedantie, dus ook bij een lengte van ¼ . Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.131 Uitwerking van Opgave 14-131
+Een voedingslijn met een elektrische lengte van ¼ golflengte is aan het einde
+kortgesloten.
+
+De ingangsimpedantie Zi is:
+A. Zeer laag
+B. 12,5 
+C. Zeer hoog
+D. 50 
+Uitwerking
+Een aan één eind kortgesloten transmissielijn van ¼ golflengte lang gedraagt zich aan het
+andere einde als een parallelkring. De impedantie daarvan is altijd zeer hoog. Antwoord C.
+Opmerking
+Voor elke kwartgolf kwartgolf voedingslijn, coax of open, geldt: is de impedantie heel laag
+aan de ene kant, dan is hij heel hoog aan de andere. Eigenlijk is dit een extreem geval van
+de kwartgolf impedantietransformator in de volgende opgave (Opgave 14-132).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.132 Uitwerking van Opgave 14-132
+Een 50 ohm coaxiale kabel wil men aanpassen op een antenne van 72 ohm. Men gebruikt
+hiervoor een kwartgolf impedantietransformator. De transformator wordt gemaakt met
+coaxiale kabel met een karakteristieke impedantie van:
+A. 72 
+B. 100 
+C. 60 
+D. 50 
+Uitwerking
+Een kwartgolf impedantietransformator moet een karakteristieke impedantie hebben die
+het geometrisch gemiddelde is van de karakteristieke impedanties, waartussen hij de
+transformatie verzorgt. De vergelijking voor het geometrisch gemiddelde c van twee
+getallen a en b is 𝑐 = √𝑎. 𝑏. Duidelijk iets anders dan wat we meestal onder gemiddelde
+verstaan. Dat laatste heet voluit rekenkundig gemiddelde.
+Om een beeld te krijgen van de kwartgolftransformator voor de karakteristieke
+ingangsimpedantie Zin naar de karakteristieke uitgangsimpedantie Zuit door middel van een
+kwartgolf stub met karakteristieke impedantie ZG gebruiken we de figuur uit de
+cursustekst:
+
+¼
+Zin
+
+ZG= Zin.Zuit
+
+Zuit
+
+ZG is het geometrisch gemiddelde van Zin en Zuit: 𝑍𝐺 = √𝑍𝑖𝑛 . 𝑍𝑢𝑖𝑡 .
+Invullen van de karakteristieke impedanties levert 𝑍𝐺 = √50.72  = √3600  = 60 .
+Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.133 Uitwerking van Opgave 14-133
+De karakteristieke impedantie (Zk) van de coaxkabel is 50 ohm.
+
+Zi is ongeveer:
+A. 50 
+B. 33 
+C. 60 
+D. 75 
+Uitwerking 1
+De vergelijking uit de uitwerking van Opgave 14-132 kunnen we hier weer gebruiken:
+𝑍𝐾 = √𝑍𝑖𝑛 . 𝑍𝑢𝑖𝑡
+
+ZK = 50  en Zuit = 75 . Invullen levert
+50  = √𝑍𝑖𝑛 . 75 
+Kwadrateren om van het wortelteken af te komen:
+50. 50  = 𝑍𝑖𝑛 . 75  → 𝑍𝑖𝑛 = 50. 50 ⁄75  ≈ 33 
+Antwoord B.
+Uitwerking 2 voor wie een hekel heeft aan dit soort algebra:
+Omdat de karakteristieke impedantie van 50  van de transformerende stub (zo heet zo’n
+stuk coax) een soort gemiddelde is van de 75  aan de uitgang en de impedantie aan de
+ingang, kan het niet anders of Zi is kleiner dan 50 . In het rijtje antwoorden staat maar
+één kleinere waarde: de 33 ohm van antwoord B.
+Uitwerking 3
+Nog een vorm die voor veel mensen prettiger werkt dan uitwerking 1: Om van 75  naar
+50  te komen, moet je delen door 75⁄50 = 1,5. Om vanaf 50  Zi te vinden, moet je nog
+een keer delen door diezelfde 1,5. Dat levert afgerond 33  op. Alweer antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.134 Uitwerking van Opgave 14-134
+Een open (niet-kortgesloten) stuk coaxiale kabel kan gebruikt worden als parallelresonantiekring indien de met een meetlat gemeten lengte:
+A. Ongeveer 30% korter is dan een halve golflengte
+B. Een kwartgolflengte lang is
+C. Ongeveer 30% langer is dan een halve golflengte
+D. Een halve golflengte lang is
+Uitwerking
+Een parallel-resonantiekring is aan zijn uiteinden hoogohmig. Dat moet dus ook gelden
+voor het stuk coax met open eind in deze opgave. Dat kan met een stuk coax ter lengte
+van een halve golflengte maal de verkortingsfactor. Daarvan zijn de impedanties aan beide
+uiteinden gelijk.
+Het rijtje antwoorden levert hier (zoals het hoort!) één antwoord dat rekening houdt met
+een verkortingsfactor en dat is antwoord A. Antwoord C geeft een verlengingsfactor. Het
+eerste stuk coax met zoiets moet nog gemaakt worden.
+Opmerking
+Het spreekt natuurlijk niet vanzelf dat elk willekeurig stuk coaxkabel een
+verkortingsfactor van 0,7 heeft, zoals hier wordt verondersteld. Kijk in een voorkomend
+praktisch geval of er op de kabel een typenummer staat en probeer daarmee op internet of
+elders de bijbehorende verkortingsfactor te vinden.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.135 Uitwerking van Opgave 14-135
+De coaxiale kabels hebben een karakteristieke impedantie van 70 .De elektrische lengte
+is aangegeven. De zenders moeten met 50  worden belast.
+
+Aanpassing wordt verkregen:
+A. Met opstelling 1 en 2
+B. Alleen met opstelling 2
+C. Met geen van beide
+opstellingen
+D. Alleen met opstelling 1.
+
+Uitwerking
+In opstelling 1 wordt 1 kwartgolflengte coax gebruikt. Die transformeert de
+belastingsweerstand van naar een hogere waarde dan 70  (Voor de geïnteresseerden: 98
+. Volg uitwerking 3 van Opgave 14-133) Dat is dus geen goede aanpassing aan 50 
+In opstelling 2 zien we twee kwartgolflengtes coax in serie, samen ½ golflengte. Bij ½
+golflengte is ingangsimpedantie = uitgangsimpedantie De karakteristieke impedantie van
+de coaxkabel doet er dan niet toe. We zien dus aan beide kanten 50 , precies wat nodig is
+voor de zenderbelasting Dat betekent dat antwoord B goed is.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.136 Uitwerking van Opgave 14-136
+Twee stukken coaxkabel met een elektrische lengte elk van 0,25  en een karakteristieke
+impedantie van 70 , zijn in serie geschakeld. De staandegolfmeter (SGM), welke is
+gemaakt voor 50 , geeft een staandegolfverhouding aan van ongeveer
+
+A. 2,8
+B. 1,0
+C. 2,0
+D. 1,4
+Uitwerking
+Deze twee stukken kwartgolflengte zijn samen een halve golflengte. Eigenschap van een
+½ golflengte lang stuk coax is dat de ingangsimpedantie en de uitgangsimpedantie gelijk
+zijn. De SGM voor 50 ohm “ziet” dus 100 ohm. In de cursustekst en het formularium staat
+de vergelijking
+𝑠=
+
+ℎ𝑜𝑜𝑔𝑠𝑡𝑒 𝑖𝑚𝑝𝑒𝑑𝑎𝑛𝑡𝑖𝑒 𝑍𝑚𝑎𝑥
+=
+𝑙𝑎𝑎𝑔𝑠𝑡𝑒 𝑖𝑚𝑝𝑒𝑑𝑎𝑛𝑡𝑖𝑒
+𝑍𝑚𝑖𝑛
+
+En dat komt neer op 𝑠 = 100⁄50 = 2. Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.137 Uitwerking van Opgave 14-137
+Van elke coaxkabel is de karakteristieke impedantie en de elektrische lengte gegeven. De
+staandegolfmeter (SGM) welke is gemaakt voor 50 , geeft ongeveer aan:
+
+A. 1,4
+B. 0,7
+C. 2,0
+D. 1,0
+Uitwerking
+De SGM meet de SWR in de coax naar de belasting, niet die in de kabel van 70  tussen
+SGM en zender. Daarover wordt dan ook niets gevraagd. Rechts van de SGM is alles 50 .
+De SGM is ook gemaakt voor 50 , zodat de meting van de SWR ongeveer het getal 1,0
+moet opleveren. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.138 Uitwerking van Opgave 14-138
+De staandegolfmeter is gemaakt voor 50 . De antenne-aanpassingseenheid (ATU) wordt
+zo afgeregeld dat de staandegolfmeter (SGM) 1 aanwijst.
+
+Er is nu een staandegolfverhouding van 1 bereikt in
+A. Geen van beide kabels
+B. Kabel 1 en kabel 2
+C. Alleen kabel 1
+D. Alleen kabel 2
+Uitwerking
+Kabel 1 met karakteristieke impedantie van 70  en onbekende lengte is verbonden met
+een zender die vermoedelijk een uitgangsimpedantie van 50  heeft. Die zal geen
+staandegolfverhouding van 1 hebben.
+De ATU regelt de aanpassing aan kabel 2 (50 ) en de belasting van 50 . De SGM “ziet”
+een staandegolfverhouding van 1, dus ook een impedantie van 50 .
+Conclusie: de staandegolfverhouding van 1 zit alleen op kabel 2. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.139 Uitwerking van Opgave 14-139
+De staandegolfmeter is gemaakt voor 50 . De antenne-aanpassingseenheid (ATU) wordt
+zo afgeregeld dat de staandegolfmeter (SGM) 1 aanwijst. Er is nu een
+staandegolfverhouding van 1 bereikt in
+
+A. Alleen kabel 2
+B. Alleen kabel 1
+C. Kabel 1 en kabel 2
+D. Geen van beide kabels
+Uitwerking
+Op kabel 1 ziet de zender (met 50 ) een kabel van 50 , gevolgd door een SGM voor 50
+, zodat daar de staandegolfverhouding (SWR) 1 is.
+Op kabel 2 regelt de ATU een uitgangsimpedantie van 70  voor de kabel van 70  en de
+belasting van 70 . Dat betekent een SWR van 70⁄70 = 1, zodat in beide kabels de SWR
+1 is.
+Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.140 Uitwerking van Opgave 14-140
+De staandegolfmeter (SGM) is gemaakt voor 50 ohm.
+De antenne-aanpassingseenheid (ATU) wordt zo afgeregeld dat de staandegolfmeter 1
+aanwijst.
+
+In welke kabel is nu een staandegolfverhouding van 1 bereikt?
+A. Alleen kabel 1
+B. Geen van beide kabels
+C. Alleen kabel 2
+D. Kabel 1 en kabel 2
+Uitwerking
+Als de staandegolfmeter 1 aanwijst, “ziet” hij op de aansluiting met de ATU 50 . Dan
+heeft het geheel vanaf zender tot ATU alleen lopende golven en geldt voor kabel 1 dat de
+staandegolfverhouding 1 is.
+Op kabel 2 liggen de zaken anders. De karakteristieke impedantie van de kabel is 70  en
+de belasting 100 . Dan is de conclusie snel getrokken: hier is de impedantieverhouding
+tussen kabel en belasting 100⁄70 en dat is ongelijk aan 1.
+Dit alles komt neer op antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.141 Uitwerking van Opgave 14-141
+De staandegolfmeter (SGM) is gemaakt voor 50 . De antenne-aanpassingseenheid (ATU)
+wordt zo afgeregeld dat de staandegolfmeter 1 aanwijst.
+
+Er is nu een staandegolfverhouding van 1 bereikt in:
+A. Kabel 1 en kabel 2
+B. Alleen kabel 1
+C. Alleen kabel 2
+D. Geen van beide kabels
+Uitwerking
+In kabel 1 waar alles 50  is, is de SGV 1. In kabel 2 met een karakteristieke impedantie
+van 70  en een belasting van 50 is dat niet zo. De karakteristieke kabelimpedantie is 70
+ en de belasting is 50 . Dan hoef je al niet meer verder te kijken. Hier is de SGV niet 1.
+Conclusie: kabel 1 heeft een SGV van 1, kabel 2 niet. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.142 Uitwerking van Opgave 14-142
+Een staandegolfmeter (SGM) voor 70  is opgenomen in een antennekabel van 70 . Bij
+welke afsluitimpedantie wijst de meter 1 aan?
+
+A. 50 
+B. 70 
+C. Niet afgesloten
+D. Kortsluiting
+Uitwerking
+Bij een karakteristieke kabelimpedantie van 70  en een SGM voor 70  hoort bij een
+staandegolfverhouding van 1 een afsluitimpedantie van eveneens 70 . Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.143 Uitwerking van Opgave 14-143
+In welke figuur is de aanpassing bij de halve-golfantenne juist?
+
+A. Figuur 1
+B. Figuur 3
+C. Figuur 2
+D. Figuur 4
+Uitwerking
+Een halvegolf gevouwen dipool heeft op het voedingspunt een impedantie van afgerond
+300 ohm, een enkeldraads dipool afgerond 75 ohm. We beperken ons tot de impedantie;
+over de vraag symmetrisch/asymmetrisch staat iets in de opmerking.
+We gaan de figuren na.
+Figuur 1 heeft een wikkelverhouding van 2:1, is een impedantieverhouding van 4:1. De
+impedantie van de kippenladder (open lijn) is al 300 ohm. Dan had de wikkelverhouding
+1:1 in plaats van 2:1 moeten zijn.
+Figuur 2 heeft een 75-ohms leiding 1:1 aan een 300-ohms antenne. Fout dus.
+Figuur 3 heeft een 300-ohms kippenladder aan een 75-ohms enkeldraads dipool. Ook fout.
+Figuur 4 heeft 75 ohm aan 75 ohm. Goed. Antwoord D.
+Opmerking
+De coax-lijnen zijn van nature asymmetrisch. Ze zijn via een symmetrische koppeling met
+de antennes verbonden. Dat zou je voor een examenopgave bedenkelijk kunnen noemen,
+want eigenlijk hoort daar een 1:1 balun tussen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-114
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.144 Uitwerking van Opgave 14-144
+Een 50  staandegolfmeter is met coaxiale kabels van 50  opgenomen tussen een zender
+en een antenne. Deze meter geeft een SWR van 1:20 aan.
+
+Dit betekent dat de:
+A. Antenne juist is aangepast
+B. Zender juist is aangepast
+C. Antenne zeer slecht is aangepast
+D. Zender veel vermogen levert
+Uitwerking
+Bij een SGV van 20 (of 1:20) is de aanpassing allerbelabberdst. Dan valt er weinig te
+discussiëren: antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-115
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.145 Uitwerking van Opgave 14-145
+De zender heeft een ingebouwde staandegolfmeter (SWR-meter). Door afregeling van de
+antenne-aanpassingseenheid (ATU) wijst de staandegolfmeter 1 aan.
+
+Door het afregelen van de ATU:
+A. Is de zender juist belast
+B. Is de SWR in de antennekabel veranderd
+C. Zijn de verliezen in de antennekabel verminderd
+D. Is het stralingsdiagram van de antennekabel verminderd
+Uitwerking
+De SWR-meter wijst de staandegolfverhouding op de aansluiting naar de ATU aan. De
+SWR-meter “ziet” naar rechts in het schema de juiste impedantie, want hij geeft een
+waarde van 1 aan. Dan is er geen gereflecteerd vermogen dat terug de zender ingaat en is
+de zender juist belast. Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-116
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.146 Uitwerking van Opgave 14-146
+De combinatie van transformator en antenne is het best aangepast aan de coaxiale kabel
+bij een wikkelverhouding n1/n2:
+A. 1:6
+B. 1:2
+C. 2:1
+D. 1:1
+
+Uitwerking
+De golflengte bij 14,1 MHz is 300 m⁄14,1 ≈ 21 m. De verticale antenne is daarmee
+ongeveer een halve golflengte lang. Het bovenste uiteinde is nergens mee verbonden en
+heeft een zeer hoge impedantie. Door de lengte (½ λ) heeft ook het onderste uiteinde een
+zeer hoge impedantie. Dan is de beste (of de minst slechte?) aanpassing de hoogste in het
+rijtje, maar of dat met een wikkelverhouding 1:6 = impedantieverhouding van 1:36 genoeg
+is? Antwoord A (met een beetje tegenzin).
+Opmerking
+Als je zo’n antenne vervangt door een groundplane van ¼ λ, werkt die minstens even
+goed en kun je de 50 ohms kabel zonder poespas aansluiten. Wel zo praktisch.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-117
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.147 Uitwerking van Opgave 14-147
+Om harmonischen van de zendfrequentie te onderdrukken, wordt aan de coaxiale
+voedingslijn naar de antenne een coaxiale stub aangebracht. Wat is juist:
+
+A. L = 33 cm; einde A is kortgesloten
+B. L = 33 cm; einde A is open
+C. L = 66 cm; einde A is kortgesloten
+D. L = 99 cm; einde A is open
+Uitwerking
+We beginnen met de golflengte. Voor 144 MHz is die 300 m⁄144 ≈ 2,08 m. Maar die 33,
+66 en 99 cm lijken “familie” van de verkortingsfactor van 0,66. Daarom lijkt het
+verstandig, die 2,08 m eerst maar eens af te ronden op 2 m.
+Als we de frequentie zelf willen doorlaten en de harmonischen verzwakken, moet de stub
+zich gedragen als een parallelkring. Dat lukt met een kwartgolf stub die aan het andere
+eind is kortgesloten. Een kwart golf is 50 cm; vermenigvuldigen met 0,66 geeft 33 cm. Dat
+riekt naar antwoord A. Voor de zekerheid lopen we de rest ook even langs. (op het
+examen alleen doen als je tijd hebt!):
+Antwoord B is een zuigkring die de zendfrequentie weghaalt. Antwoord C ook (halve
+golflengte: aan beide kanten dezelfde impedantie) en antwoord D is ¾ golflengte met
+open uiteinde. Die gedraagt zich ongeveer als ¼ golflengte met open eind (antwoord B) en
+valt dus ook af.
+Inderdaad antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-118
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.148 Uitwerking van Opgave 14-148
+Om een hoogohmige antenne aan te passen aan een voedingslijn met lage impedantie
+wordt een “stub” toegepast. Wat is juist:
+
+A. Lengte 1: ½ lambda, einde A kortgesloten
+B. Lengte l: ¼ lambda,; einde A open
+C. Lengte l: ¼ lambda; einde A kortgesloten
+D. Lengte l: 1/8 lambda; einde A kortgesloten
+
+Uitwerking
+Dit is een eindgevoede horizontale antenne; denk aan een eindgevoede halvegolf-dipool
+(Zepp), al staat dat er niet bij. Lambda staat voor de Griekse letter  die op zijn beurt voor
+golflengte staat. Voor de verandering zien we een open (symmetrische) voedingslijn en
+dito stub.
+De stub zelf wordt gevoed door de voedingslijn rechts (met “Z = 500”). Als de stub op
+het eind bij de antenne (zeer) hoogohmig moet zijn, moet hij een kwart golflengte (¼ )
+verderop laagohmig zijn. Dat is mogelijk door de stub ¼  lang te maken en hem op het
+uiteinde bij A kort te sluiten. Dat is antwoord C.
+Opmerkingen
+Antwoord B geeft net als antwoord A een laagohmige aanpassing die dus geen aanpassing
+is (let op: bij antwoord A wordt een halve golf- in plaats van een kwartgolf stub gebruikt)
+De 1/8 golf werkt niet: te kort.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-119
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.149 Uitwerking van Opgave 14-149
+Om een laagohmige antenne aan te passen aan een hoogohmige voedingslijn wordt een
+“stub” toegepast. Wat is juist:
+
+A. Lengte l: 1/8 lambda; einde A: kortgesloten
+B. Lengte l: ¼ lambda; einde A: open
+C. Lengte l: ½ lambda; einde A: open
+D. Lengte l: ¼ lambda; einde A: kortgesloten
+
+Uitwerking
+We hebben te maken met een in het midden gevoede dipool met een aansluitimpedantie
+van 70 ohm. Om op het aansluitpunt laagohmig te zijn, moet de stub een lengte hebben
+van ¼ golflengte en op uiteinde A hoogohmig, dus open zijn. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-120
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 14_exa_C_20220719
+
+14.5.150 Uitwerking van Opgave 14-150
+Een staandegolfmeter voor 50  meet een staandegolfverhouding van 1 op een coaxiale
+kabel van 50  wanneer deze is afgesloten met een
+A. Weerstand van 50 
+B. Hoge impedantie
+C. Reactantie
+D. Kortsluiting
+Uitwerking
+Als een staandegolfmeter 1 aanwijst, is de aanpassing die hij meet, perfect. Dat is het geval
+als een kabel met een karakteristieke impedantie gelijk aan die waarvoor de SWR-meter is
+gemaakt en is afgesloten met een weerstand van dezelfde grootte. In dit geval gaat het om
+50 . Antwoord A.
+Opmerking
+Een hoge impedantie is bij 50  en s=1 niet aan de orde, evenmin als een reactantie (de
+belesting moet ohms zijn) of een kortsluiting. Die laatste reflecteert in dit geval alles.
+
+Kom mee naar deel D
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 14.4 uitgezonderd)
+
+14-121
+
+

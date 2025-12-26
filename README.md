@@ -25,22 +25,47 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
     - pico (p, 10^-12)
   - [ ] **Formulas:** Rearranging equations.
     - Example: If U = I * R, then R = U / I
+  - [ ] **Logarithms & Decibels:**
+    - [ ] **Logarithms:** Inverse of exponentiation (10^2 = 100 -> log(100) = 2).
+    - [ ] **Decibel (dB):** Logarithmic unit for ratios.
+      - [ ] **Power Ratio:** dB = 10 * log(P_out / P_in).
+        - +3 dB ≈ 2x Power.
+        - +10 dB = 10x Power.
+        - -3 dB ≈ 0.5x Power.
+      - [ ] **Voltage/Current Ratio:** dB = 20 * log(U_out / U_in).
+        - +6 dB ≈ 2x Voltage.
+        - +20 dB = 10x Voltage.
+  - [ ] **Trigonometry (Goniometrie):**
+    - [ ] **Sine & Cosine:** Fundamental for AC analysis.
+    - [ ] **Phase:** Shift between waveforms.
+    - [ ] **Radians:** Natural unit of angle. 360 degrees = 2 * pi radians.
+    - [ ] **Pythagoras Theorem:** a^2 + b^2 = c^2. (Used for Impedance Z = sqrt(R^2 + X^2)).
+  - [ ] **Graphs:** Interpreting linear and logarithmic scales.
 
 ---
 
 ## Eindterm 1: Electricity, Electromagnetism, and Radio Theory (Elektriciteitsleer, elektromagnetisme en radiotheorie)
 
 ### 1.1 Conductivity (Stroomgeleiding)
+- [ ] **Atomic Structure:**
+  - [ ] **Nucleus (Kern):** Protons (+) and Neutrons (neutral).
+  - [ ] **Shell (Schil):** Electrons (-).
+  - [ ] **Ion:** Atom with net charge (gained or lost electrons).
 - [ ] **Materials:**
   - [ ] **Conductors (Geleiders):** Low resistance, free electrons (e.g., Copper, Silver, Gold).
   - [ ] **Semiconductors (Halfgeleiders):** Conductivity between conductor and insulator (e.g., Silicon, Germanium).
   - [ ] **Insulators (Isolatoren):** High resistance (e.g., Glass, Ceramic, Plastic).
 - [ ] **Basic Quantities:**
+  - [ ] **Charge (Q, Coulomb):** 1 C ≈ 6.24 x 10^18 electrons.
   - [ ] **Current (I, Ampere):** Flow of charge (Q) per time (t). Formula: I = Q / t
   - [ ] **Direction:** Technical direction (Plus to Minus) vs Electron flow (Minus to Plus).
-  - [ ] **Voltage (U, Volt):** Potential difference.
+  - [ ] **Voltage (U, Volt):** Potential difference. Energy per charge.
   - [ ] **Resistance (R, Ohm):** Opposition to current flow.
-  - [ ] **Specific Resistance (Soortelijke weerstand):** Resistance based on material properties (rho) and dimensions (R = rho * L / A).
+  - [ ] **Specific Resistance (Soortelijke weerstand, rho):**
+    - [ ] Formula: R = rho * l / A
+    - [ ] rho = Specific resistance of material (Ohm-meter).
+    - [ ] l = Length (m).
+    - [ ] A = Cross-sectional area (m^2).
 - [ ] **Ohm's Law (Wet van Ohm):**
   - [ ] Formula: U = I * R
 - [ ] **Kirchhoff's Laws (Wetten van Kirchhoff):**
@@ -63,13 +88,13 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ### 1.3 Electric Field (Elektrisch veld)
 - [ ] **Concept:** Force field between charged plates.
-- [ ] **Field Strength (E):** Measured in Volts per metre (V/m).
+- [ ] **Field Strength (E):** E = U / d (Voltage / distance). Unit: V/m.
 - [ ] **Shielding (Afscherming):** Faraday Cage (conductive enclosure blocks static electric fields).
 
 ### 1.4 Magnetic Field (Magnetisch veld)
 - [ ] **Concept:** Field around current-carrying wires and coils.
   - [ ] Right-hand grip rule.
-- [ ] **Shielding:** Using high-permeability materials (e.g., Mu-metal) to divert magnetic flux.
+- [ ] **Shielding:** Using high-permeability materials (e.g., Mu-metal) to divert magnetic flux. Low resistance (Copper) does NOT shield magnetic fields well.
 
 ### 1.5 Electromagnetic Field (Elektromagnetisch veld)
 - [ ] **Radio Waves:** Combination of Electric (E) and Magnetic (H) fields at right angles.
@@ -80,13 +105,17 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 ### 1.6 Sinusoidal Signals (Sinusvormige signalen)
 - [ ] **Parameters:**
   - [ ] **Amplitude (U_max):** Peak voltage.
-  - [ ] **Effective/RMS Value (U_eff):** DC equivalent heating effect. U_eff = 0.707 * U_max.
-  - [ ] **Period (T):** Time for one cycle.
-  - [ ] **Frequency (f):** f = 1 / T (Unit: Hertz).
-  - [ ] **Phase Difference (Faseverschil):** Shift between two sine waves.
+  - [ ] **Effective/RMS Value (U_eff):** DC equivalent heating effect.
+    - [ ] Formula: U_eff = U_max / sqrt(2) ≈ 0.707 * U_max.
+  - [ ] **Period (T):** Time for one cycle (seconds).
+  - [ ] **Frequency (f):** f = 1 / T (Hertz).
+  - [ ] **Phase:** Relative timing between two waves (measured in degrees or radians).
+  - [ ] **Wavelength (lambda):** lambda = c / f. (Distance a wave travels in one period).
 
 ### 1.7 Non-sinusoidal Signals (Niet-sinusvormige signalen)
-- [ ] **Square Wave (Bloksignaal):** Fundamental frequency + odd harmonics.
+- [ ] **Square Wave (Blokgolf):** Fundamental frequency + odd harmonics (3f, 5f, 7f...). Amplitudes decrease as 1/n.
+- [ ] **Triangle Wave (Driehoeksgolf):** Fundamental + odd harmonics. Amplitudes decrease as 1/n^2.
+- [ ] **Sawtooth (Zaagtand):** Contains both even and odd harmonics.
 - [ ] **Fourier Analysis:** Any complex periodic wave is a sum of sine waves (Fundamental + Harmonics).
 - [ ] **DC Component:** Average voltage level.
 - [ ] **Noise (Ruis):**
@@ -100,28 +129,32 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Analogue:**
   - [ ] **CW (Morse):** Keying the carrier on/off. Narrow bandwidth (~100 Hz).
   - [ ] **AM (Amplitude Modulation):**
-    - [ ] **Modulation Depth (M):** Ratio of audio amplitude to carrier amplitude. M=1 (100%) is max before overmodulation.
-    - [ ] **Spectrum:** Carrier + Lower Sideband (LSB) + Upper Sideband (USB).
-    - [ ] **Bandwidth:** B = 2 * f_max (e.g., 2 * 3kHz = 6 kHz).
-    - [ ] **Power:** At M=100%, Sideband power is 50% of Carrier power (each SB is 25%). PEP = 4 * Carrier Power.
-  - [ ] **SSB (Enkelzijband, EZB):** Suppressed carrier and one sideband.
-    - [ ] **Efficiency:** All power goes into information. Bandwidth approx 2.7 kHz.
+    - [ ] **Modulation Depth (Modulatiediepte, m):** Ratio of audio amplitude to carrier amplitude (m = U_audio / U_carrier). m=1 (100%) is max.
+    - [ ] **Sidebands (Zijbanden):** Lower Sideband (LSB) and Upper Sideband (USB).
+    - [ ] **Bandwidth:** B = 2 * f_max_audio.
+    - [ ] **Power:** P_total = P_carrier * (1 + m^2 / 2).
+      - [ ] At 100% mod: Sidebands contain 1/3 of total power (1/6 each).
+      - [ ] PEP (Peak Envelope Power) = 4 * P_carrier (at 100% mod).
+  - [ ] **SSB (Enkelzijband, EZB):** Carrier and one sideband suppressed.
+    - [ ] **Efficiency:** All power useful. Bandwidth ~2.4 - 2.7 kHz.
   - [ ] **FM (Frequency Modulation) / PM (Phase Modulation):**
-    - [ ] **Deviation (Frequentiezwaai, df):** Max freq change from center.
-    - [ ] **Modulation Index (m):** m = df / f_mod.
-    - [ ] **Bandwidth (Carson's Rule):** B = 2 * (df + f_mod) = 2 * f_mod * (1 + m).
-      - [ ] Amateur FM (NBFM): Approx 12 kHz BW.
+    - [ ] **Deviation (Frequentiezwaai, Delta f):** Max frequency change from center.
+    - [ ] **Modulation Index (m):** m = Delta f / f_mod.
+    - [ ] **Bandwidth (Carson's Rule):** B = 2 * (Delta f + f_max_audio).
+      - [ ] NBFM (Narrow Band): B ~ 12.5 kHz.
 - [ ] **Digital:**
-  - [ ] **Rates:**
-    - [ ] **Bit rate (bps):** Bits per second.
-    - [ ] **Symbol rate (Baud, Bd):** Changes of state per second.
-    - [ ] Relationship: Bit rate = Symbol rate * bits_per_symbol.
+  - [ ] **Baud vs Bit rate:**
+    - [ ] **Baud (Bd):** Symbol rate (changes per second).
+    - [ ] **Bit rate (bps):** Information rate. Bit rate = Baud * bits_per_symbol.
   - [ ] **Types:**
-    - [ ] **ASK (Amplitude Shift Keying):** Digital AM.
-    - [ ] **FSK (Frequency Shift Keying):** Digital FM (Mark/Space frequencies).
-    - [ ] **PSK (Phase Shift Keying):** Phase changes (BPSK=2 states, QPSK=4 states).
-    - [ ] **QAM (Quadrature Amplitude Modulation):** Combination of ASK and PSK (Amplitude and Phase).
-  - [ ] **Correction:** CRC (Check), ARQ (Request Retransmission), FEC (Forward Error Correction).
+    - [ ] **ASK:** Amplitude Shift Keying.
+    - [ ] **FSK:** Frequency Shift Keying (RTTY).
+    - [ ] **PSK:** Phase Shift Keying (BPSK, QPSK).
+    - [ ] **QAM:** Quadrature Amplitude Modulation (Amplitude + Phase).
+  - [ ] **Coding:**
+    - [ ] **Baudot (CCITT-1):** 5-bit code (32 characters). Used in RTTY.
+    - [ ] **ASCII (CCITT-5):** 7 or 8-bit code.
+    - [ ] **Parity:** Error check bit.
 
 ### 1.9 Power and Energy (Vermogen en energie)
 - [ ] **Decibels (dB):** Logarithmic ratio.
@@ -161,8 +194,10 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ### 2.2 Capacitor (Condensator)
 - [ ] **Function:** Stores charge in electric field. Blocks DC, passes AC.
-- [ ] **Unit:** Farad (F).
-- [ ] **Factors:** Area of plates (A), distance (d), Dielectric constant (e). C = e * A / d.
+- [ ] **Unit:** Farad (F). 1 F = 1 Coulomb / Volt.
+- [ ] **Factors:** Area of plates (A), distance (d), Dielectric constant.
+  - [ ] Formula: C = epsilon_r * epsilon_0 * A / d
+  - [ ] **epsilon_r (Relative Permittivity):** Dielectric constant (Vacuum=1, Air≈1, others >1).
 - [ ] **Reactance (Xc):** Opposition to AC decreases as frequency rises.
   - Formula: Xc = 1 / (2 * pi * f * C)
 - [ ] **Phase:** Current **leads** Voltage by 90 degrees (ICE).
@@ -171,8 +206,9 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 ### 2.3 Inductor / Coil (Spoel)
 - [ ] **Function:** Stores energy in magnetic field. Blocks AC, passes DC.
 - [ ] **Unit:** Henry (H).
-- [ ] **Factors:** Turns (N^2), Core material, dimensions.
-- [ ] **Back EMF:** Voltage induced opposing change in current.
+- [ ] **Factors:** Turns (N^2), Core material (permeability mu), dimensions.
+- [ ] **Self-Induction (Zelfinductie):** Changing current creates changing magnetic field, inducing Back EMF.
+- [ ] **Lenz's Law:** Induced voltage opposes the change in current.
 - [ ] **Reactance (Xl):** Opposition to AC increases as frequency rises.
   - Formula: Xl = 2 * pi * f * L
 - [ ] **Phase:** Voltage **leads** Current by 90 degrees (ELI).
@@ -184,30 +220,52 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] Mitigation: Silver plating, Litz wire (Litzedraad).
 
 ### 2.4 Transformers (Transformatoren)
-- [ ] **Function:** Transform Voltage/Current/Impedance.
-- [ ] **Ideal:** Power In = Power Out.
-- [ ] **Ratios:**
-  - [ ] Voltage: Us / Up = Ns / Np
-  - [ ] Current: Is / Ip = Np / Ns
-  - [ ] Impedance: Zp / Zs = (Np / Ns)^2
-- [ ] **Autotransformer (Autotransformator):** Single winding with a tap. Not galvanically isolated (unsafe for mains).
+- [ ] **Function:** Transform Voltage/Current/Impedance using magnetic coupling.
+- [ ] **Ideal Transformer:** Power In = Power Out (P_prim = P_sec).
+- [ ] **Formulas:**
+  - [ ] Voltage: U_sec / U_prim = N_sec / N_prim (Directly proportional to turns).
+  - [ ] Current: I_sec / I_prim = N_prim / N_sec (Inversely proportional to turns).
+  - [ ] Impedance: Z_prim = Z_sec * (N_prim / N_sec)^2 (Square of turns ratio).
+- [ ] **Construction:**
+  - [ ] **Core Material:**
+    - [ ] **Laminated Iron (Weekijzer):** Low frequency (Mains, Audio). Reduces Eddy currents.
+    - [ ] **Ferrite / Powdered Iron:** High frequency (RF). Low losses at HF.
+    - [ ] **Toroid (Ringkern):** Closed magnetic loop, self-shielding (low leakage flux).
+- [ ] **Autotransformer (Autotransformator):** Single winding with a tap. Lighter/smaller but **NO** galvanic isolation (unsafe for mains).
 - [ ] **Losses (Verliezen):**
-  - [ ] **Copper Loss:** Resistance of the wire (I^2 * R).
+  - [ ] **Copper Loss:** Resistance of the wire (I^2 * R). Mitigated by thicker wire.
   - [ ] **Iron Loss:**
-    - [ ] **Eddy Currents (Wervelstromen):** Induced currents in core -> Use laminated core (gelamelleerd).
-    - [ ] **Hysteresis:** Energy lost reversing magnetic field -> Use soft iron/ferrite.
-  - [ ] **Leakage:** Magnetic field lines missing the secondary coil.
+    - [ ] **Eddy Currents (Wervelstromen):** Circulating currents in core -> Heat. Mitigated by laminated core (lamellen).
+    - [ ] **Hysteresis:** Energy lost reversing magnetic domains. Mitigated by soft iron/ferrite.
+  - [ ] **Flux Leakage (Spreidingsverliezen):** Magnetic lines not linking both coils.
+  - [ ] **No-load Current (Nullaststroom):** Current flowing in primary when secondary is open (due to finite inductance and losses).
+- [ ] **High Frequency (HF) Transformers:**
+  - [ ] **Skin Effect:** Current flows on outer surface. Mitigated by Silver plating or Litz wire (Litze - multistrand insulated wire).
+  - [ ] **Core:** Ferrite or Powdered Iron (Poederijzer). No solid iron.
 
 ### 2.5 Diode (Diode)
 - [ ] **Semiconductor Theory:**
-  - [ ] **Doping (Dotering):** Adding impurities to create N-type (Donor, e.g., Phosphorus) or P-type (Acceptor, e.g., Boron).
-  - [ ] **Depletion Zone (Uitputtingszone):** Non-conductive region at the PN junction.
-  - [ ] **Threshold Voltage (Drempelspanning):** ~0.6-0.7V for Silicon, ~0.2V for Germanium.
-- [ ] **PN Junction:** Allows current one way (Anode to Cathode).
-- [ ] **Rectifier:** AC to DC conversion.
-- [ ] **Zener:** Voltage stabilisation (conducts in reverse at breakdown voltage).
-- [ ] **Varicap:** Capacitance changes with reverse voltage (for tuning).
-- [ ] **LED:** Light Emitting Diode.
+  - [ ] **Doping:** N-type (excess electrons), P-type (excess holes).
+  - [ ] **PN Junction:** Boundary between P and N. Forms Depletion Zone (Uitputtingszone).
+- [ ] **Operation:**
+  - [ ] **Forward Bias (Doorlaat):** Anode +, Cathode -. Conducts if U > Threshold (Drempel).
+    - [ ] Silicon: ~0.6 - 0.7 V.
+    - [ ] Germanium: ~0.2 - 0.3 V.
+  - [ ] **Reverse Bias (Sper):** Anode -, Cathode +. Blocks current (small leakage).
+- [ ] **Types & Uses:**
+  - [ ] **Rectifier (Gelijkrichter):** Converts AC to DC.
+    - [ ] **Half-wave (Enkelzijdig):** Uses 1 diode.
+    - [ ] **Full-wave (Dubbelzijdig):** Uses 4 diodes (Bridge) or 2 diodes (Center-tapped transformer).
+  - [ ] **Zener:** Used in reverse breakdown. Voltage stabilisation.
+    - [ ] **Zener Effect:** < 5V. Quantum tunneling. Negative Temp Coeff (Voltage drops as Temp rises).
+    - [ ] **Avalanche Effect:** > 5V. Impact ionization. Positive Temp Coeff (Voltage rises as Temp rises).
+  - [ ] **Varicap (Capaciteitsdiode):** Reverse biased. Depletion zone acts as dielectric.
+    - [ ] Higher Voltage -> Wider Depletion Zone -> Lower Capacitance.
+  - [ ] **LED:** Light Emitting Diode. Forward biased.
+    - [ ] Material: Gallium-Arsenide (GaAs) etc.
+    - [ ] Color depends on band gap energy.
+  - [ ] **Schottky:** Low forward voltage drop (~0.2V), fast switching. Metal-semiconductor junction.
+- [ ] **Dissipation:** P = U_diode * I_forward.
 
 ### 2.6 Transistor (Transistor)
 - [ ] **Bipolar (BJT - NPN/PNP):** Current amplifier (Ic = Beta * Ib).
@@ -224,27 +282,41 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Common Base / Gate:** Low Input Z, High Output Z. HF amps.
 
 ### 2.7 Other Components (Overige componenten)
-- [ ] **Vacuum Tubes:**
-  - [ ] **Triode:** Cathode, Anode, Control Grid. Like a FET but high voltage.
-  - [ ] **Pentode:** Adds Screen Grid (g2, reduces capacitance) and Suppressor Grid (g3, prevents secondary emission).
+- [ ] **Vacuum Tubes (Buizen):**
+  - [ ] **Triode:** Anode, Cathode, Control Grid (Stuurrooster). Voltage amplifier.
+  - [ ] **Tetrode:** Adds Screen Grid (Schermrooster) to reduce Anode-Grid capacitance.
+  - [ ] **Pentode:** Adds Suppressor Grid (Vangrooster/Remrooster) to prevent secondary emission. High gain.
 - [ ] **Operational Amplifiers (Op-amps):**
-  - [ ] **Ideal:** Infinite gain, infinite input Z, zero output Z.
-  - [ ] **Feedback:** Negative feedback reduces gain but improves linearity and bandwidth.
-  - [ ] **Types:** Inverting, Non-inverting, Summing, Differential, Comparator.
-- [ ] **Digital Logic:**
+  - [ ] **Characteristics:** Very high gain (open loop), high input Z, low output Z. Differential input (+ and -).
+  - [ ] **Feedback (Tegenkoppeling):** Essential for linear operation.
+  - [ ] **Configurations:**
+    - [ ] **Inverting:** Signal to (-) input. Phase shift 180 deg.
+      - [ ] Gain A = -R_feedback / R_input.
+    - [ ] **Non-inverting:** Signal to (+) input. Phase shift 0 deg.
+      - [ ] Gain A = 1 + (R_feedback / R_ground).
+    - [ ] **Voltage Follower (Buffer):** Output connected to (-) input. Gain = 1. High Zin, Low Zout.
+    - [ ] **Comparator:** No feedback. Output swings to rail.
+- [ ] **Digital Logic (Digitale techniek):**
   - [ ] **Number Systems:**
-    - [ ] **Binary:** Base 2 (0, 1).
-    - [ ] **Hexadecimal:** Base 16 (0-9, A-F).
-  - [ ] **Boolean Algebra:**
-    - [ ] **De Morgan's Laws:** NAND is equivalent to OR with inverted inputs; NOR is equivalent to AND with inverted inputs.
-  - [ ] **Gates:** AND, OR, NOT, NAND, NOR, XOR (Exclusive OR), XNOR.
+    - [ ] **Binary (Tweetallig):** 0 and 1 (Bits). 8 bits = 1 Byte.
+    - [ ] **Hexadecimal (Zestientallig):** 0-9, A-F. (A=10, ... F=15).
+  - [ ] **Logic Gates (Poorten):**
+    - [ ] **AND (EN):** Output 1 if ALL inputs 1.
+    - [ ] **OR (OF):** Output 1 if AT LEAST one input 1.
+    - [ ] **NOT (NIET):** Inverter. 1 becomes 0, 0 becomes 1.
+    - [ ] **NAND (NEN):** NOT-AND. Output 0 only if ALL inputs 1.
+    - [ ] **NOR (NOF):** NOT-OR. Output 1 only if ALL inputs 0.
+    - [ ] **XOR (EXOF):** Exclusive OR. Output 1 if inputs are DIFFERENT.
+    - [ ] **XNOR (EXNOF):** Output 1 if inputs are SAME.
+  - [ ] **Boolean Algebra (Schakelalgebra):**
+    - [ ] **De Morgan:** NAND = OR with inverted inputs; NOR = AND with inverted inputs.
   - [ ] **Sequential Logic:**
-    - [ ] **Flip-flops:** Memory elements.
-      - [ ] **RS Flip-flop:** Set/Reset.
-      - [ ] **D Flip-flop:** Data latch, takes input on clock edge.
-      - [ ] **JK Flip-flop:** Configurable, can toggle.
-    - [ ] **Counters/Dividers:** Divide frequency by 2^n.
-    - [ ] **Shift Registers:** Serial-to-Parallel or Parallel-to-Serial conversion.
+    - [ ] **Flip-flops:**
+      - [ ] **RS:** Set/Reset. Undefined if R=1 and S=1.
+      - [ ] **D (Data):** Transmits input to output on clock edge (Flankgestuurd).
+      - [ ] **JK:** Like RS but J=1 K=1 toggles output.
+    - [ ] **Registers:** Series of flip-flops to store bytes.
+    - [ ] **Counters:** Divide clock frequency.
   - [ ] **Combinational Logic:**
     - [ ] **Adders:** Half Adder (2 bits), Full Adder (3 bits including carry).
     - [ ] **Parity:** Error detection bit (Even/Odd).
@@ -255,8 +327,12 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ### 3.1 Combinations (Combinatie van componenten)
 - [ ] **Resistors:**
-  - Series: R_total = R1 + R2
-  - Parallel: 1/R_total = 1/R1 + 1/R2
+  - [ ] **Series:** R_total = R1 + R2. (Voltage divides, Current same).
+  - [ ] **Parallel:** 1/R_total = 1/R1 + 1/R2. (Current divides, Voltage same).
+    - [ ] Formula (2 resistors): R_total = (R1 * R2) / (R1 + R2).
+  - [ ] **Voltage Divider:** U_out = U_in * R2 / (R1 + R2).
+  - [ ] **Wheatstone Bridge:** Measuring unknown resistance.
+    - [ ] Balance condition: R1 / R2 = Rx / R3.
 - [ ] **Capacitors:**
   - Series: like parallel resistors.
   - Parallel: Add up (C_total = C1 + C2).
@@ -273,13 +349,24 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ### 3.2 Analogue Filters (Analoge filters)
 - [ ] **Resonant Circuits (LC):**
-  - [ ] **Series LC:** Low impedance at resonance.
-  - [ ] **Parallel LC:** High impedance at resonance (Dynamic Resistance).
+  - [ ] **Series LC:**
+    - [ ] Impedance **Minimal** at resonance (Z = R_loss).
+    - [ ] Acts as **Acceptor/Suction** circuit (Zuigkring).
+    - [ ] Below f0: Capacitive. Above f0: Inductive.
+  - [ ] **Parallel LC:**
+    - [ ] Impedance **Maximal** at resonance (Z_dyn = L / (C * R_series)).
+    - [ ] Acts as **Rejector/Blocking** circuit (Sperkring).
+    - [ ] Below f0: Inductive. Above f0: Capacitive.
   - [ ] **Resonant Frequency:** f0 = 1 / (2 * pi * sqrt(L * C)).
 - [ ] **Filter Types:**
   - [ ] Low Pass (LPF), High Pass (HPF), Band Pass (BPF), Band Stop (Notch).
-  - [ ] **Crystal Filter:** High Q, very narrow bandwidth (Piezoelectric effect).
-- [ ] **Bandwidth:** BW = f0 / Q (-3dB points).
+  - [ ] **Q-Factor (Kwaliteitsfactor):**
+    - [ ] High Q -> Sharp peak -> Narrow Bandwidth.
+    - [ ] Bandwidth B = f0 / Q.
+  - [ ] **Crystal Filter:** Very High Q (thousands), very narrow bandwidth.
+- [ ] **Decibels in Filters:**
+  - [ ] **-3dB Point:** Cut-off frequency (Half Power point, Voltage x 0.707).
+  - [ ] **-60dB Point:** Used to define Shape Factor (-60dB BW / -6dB BW).
 
 ### 3.3 Power Supply (Voeding)
 - [ ] **Rectification:**
@@ -295,20 +382,20 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ### 3.4 Amplifiers (Versterker)
 - [ ] **Coupling Methods:**
-  - [ ] **RC Coupling:** Resistor + Capacitor. Audio/Wideband.
-  - [ ] **LC/Choke Coupling:** Higher efficiency for RF.
+  - [ ] **RC Coupling:** Resistor + Capacitor. Audio/Wideband. Cheap.
+  - [ ] **LC/Choke Coupling:** Higher efficiency for RF. DC voltage on collector = V_supply.
   - [ ] **Transformer:** Impedance matching, isolation. Used in RF and Push-Pull.
 - [ ] **Operating Characteristics:**
   - [ ] **Load Line (Belastingslijn):** Graphical line on characteristic curves representing the load. Intersection with device curve is the Operating Point (Werkpunt).
-  - [ ] **Dissipation:** Heat loss (P = U * I). Must stay within the Dissipation Hyperbola (Safe Operating Area).
+  - [ ] **Dissipation:** Heat loss (P = U_ce * I_c). Must stay within the **Dissipation Hyperbola** (Safe Operating Area).
 - [ ] **Feedback (Terugkoppeling):**
   - [ ] **Negative Feedback (Tegenkoppeling):** Reduces gain, reduces distortion, increases bandwidth. (e.g., unbypassed emitter resistor).
-  - [ ] **Positive Feedback (Meekoppeling):** Increases gain, reduces bandwidth. Used in oscillators.
+  - [ ] **Positive Feedback (Meekoppeling):** Increases gain, reduces bandwidth. Used in oscillators and regenerative receivers.
 - [ ] **Classes:**
-  - [ ] **Class A:** Conducts 100% (360 deg). High linearity, low efficiency (max 25-50%).
-  - [ ] **Class B:** Conducts 50% (180 deg). Push-pull needed to avoid Crossover Distortion. Efficiency ~78%.
-  - [ ] **Class AB:** Conducts >50% but <100%. Compromise.
-  - [ ] **Class C:** Conducts < 50%. Pulses. High efficiency. RF PA only (requires output tank circuit to restore sine wave).
+  - [ ] **Class A:** Conducts 100% (360 deg). Bias in middle of linear range. High linearity, low efficiency (max 25% with resistor, 50% with transformer).
+  - [ ] **Class B:** Conducts 50% (180 deg). Bias at cut-off. Push-pull needed to avoid Crossover Distortion. Efficiency max 78.5%.
+  - [ ] **Class AB:** Conducts >50% but <100%. Compromise between A and B. Reduced crossover distortion.
+  - [ ] **Class C:** Conducts < 50%. Pulses. High efficiency (>80%). RF PA only (requires output tank circuit to restore sine wave).
 - [ ] **Distortion:** Harmonic (multiples of freq), Intermodulation (mixing of two freqs).
 
 ### 3.5 Detectors (Detector)
@@ -317,33 +404,45 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **FM Detector:** Discriminator, Ratio Detector.
 
 ### 3.6 Oscillators (Oscillator)
-- [ ] **Condition:** Barkhausen criterion (Loop gain = 1, Phase shift = 0 or 360).
+- [ ] **Condition:** Barkhausen criterion (Loop gain = 1, Phase shift = 0 or 360 degrees). Positive Feedback.
 - [ ] **LC Oscillators:**
-  - [ ] **Meissner:** Inductive coupling (transformer).
-  - [ ] **Hartley:** Tapped coil (Inductive divider).
-  - [ ] **Colpitts:** Capacitive divider.
-  - [ ] **Clapp / Seiler:** Variations of Colpitts with series capacitors for better stability.
-- [ ] **Crystal Oscillators:** Piezoelectric effect. High Q.
-  - [ ] **Pierce:** Crystal between Base and Collector (or Gate/Drain).
+  - [ ] **Meissner:** Inductive coupling (transformer feedback).
+  - [ ] **Hartley:** Inductive voltage divider (Tapped coil).
+  - [ ] **Colpitts:** Capacitive voltage divider.
+  - [ ] **Clapp:** Variation of Colpitts with series capacitor for better frequency stability.
+- [ ] **Crystal Oscillators:** Piezoelectric effect. High Q, high stability.
+  - [ ] **Pierce:** Crystal between Base and Collector (or Gate/Drain). Acts as inductor.
   - [ ] **Overtone:** Crystal vibrates at odd harmonic (3rd, 5th). Requires LC tank to select overtone.
-- [ ] **VCO:** Voltage Controlled Oscillator. Uses Varicap (D).
-- [ ] **Phase Noise:** Jitter in time domain = noise sidebands in freq domain.
+- [ ] **VCO:** Voltage Controlled Oscillator. Uses Varicap (Capaciteitsdiode) to tune frequency.
+- [ ] **Phase Noise:** Jitter in time domain = noise sidebands in freq domain. Critical for digital modes and receiver selectivity.
 
 ### 3.7 PLL (Phase Locked Loop)
-- [ ] **Block Diagram:** Reference Osc -> Phase Detector -> Loop Filter -> VCO -> Divider -> Phase Detector.
-- [ ] **Use:** Frequency synthesis (stable variable frequency), FM demodulation.
+- [ ] **Components:**
+  - [ ] **Reference Oscillator:** Stable crystal oscillator.
+  - [ ] **Phase Detector (Fasevergelijker):** Compares reference phase with VCO phase. Output is Error Voltage.
+  - [ ] **Loop Filter (LDF):** Low pass filter to smooth error voltage. Determines lock speed and stability.
+  - [ ] **VCO:** Voltage Controlled Oscillator. Frequency adjusted by error voltage.
+  - [ ] **Divider:** Divides VCO frequency for comparison (in synthesizers).
+- [ ] **Use:** Frequency synthesis (stable variable frequency), FM demodulation, FM generation.
 
 ### 3.8 Mixers (Mengtrap)
 - [ ] **Operation:** Non-linear device combining f1 and f2.
-- [ ] **Output:** Sum (f1+f2) and Difference (f1-f2).
+- [ ] **Output:** Sum (f1+f2) and Difference (f1-f2), plus originals and harmonics.
 - [ ] **Image Frequency (Spiegelfrequentie):** Unwanted signal that mixes to the same IF.
   - [ ] Formula: f_image = f_wanted +/- (2 * IF).
-  - [ ] Mitigation: High IF or Double Conversion (Dubbelsuper).
+  - [ ] Mitigation: High IF or Double Conversion (Dubbelsuper), Preselection filters.
 
 ### 3.9 DSP (Digitale signaalverwerking)
-- [ ] **DDS (Direct Digital Synthesis):** Generating sine waves from a lookup table + DAC.
+- [ ] **Sampling:**
+  - [ ] **Nyquist-Shannon Theorem:** Sample rate must be > 2 * f_max_signal to avoid aliasing.
+  - [ ] **Aliasing:** High frequencies masquerading as low frequencies. Blocked by Anti-Alias Filter (Low Pass) before ADC.
+- [ ] **ADC / DAC:** Analogue-to-Digital / Digital-to-Analogue Converters.
+  - [ ] **Quantisation Noise:** Noise due to finite bit resolution (rounding errors).
+- [ ] **DDS (Direct Digital Synthesis):** Generating sine waves from a lookup table + DAC. Fast switching, high resolution.
 - [ ] **FFT (Fast Fourier Transform):** Convert Time domain signals to Frequency domain (Spectrum display).
-- [ ] **Filters:** FIR (Finite Impulse Response) and IIR (Infinite Impulse Response).
+- [ ] **Digital Filters:**
+  - [ ] **FIR (Finite Impulse Response):** Stable, linear phase.
+  - [ ] **IIR (Infinite Impulse Response):** Feedback used, potential instability, acts like analog filter.
 
 ---
 
@@ -352,6 +451,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Crystal Receiver:** Diode detector, no gain, poor selectivity.
   - [ ] **TRF (Rechtuit):** RF Amp + Detector + Audio Amp. Improved sensitivity but poor selectivity at high freq.
   - [ ] **Regenerative (Mexicaanse Hond):** Positive feedback to increase Q and gain. Risk of radiation.
+  - [ ] **Direct Conversion (DC / Homodyne):** Mixes RF directly to Audio (Local Oscillator = RF frequency). Simple, sensitive, but prone to hum and microphonics.
   - [ ] **Superheterodyne:** Mixes RF to fixed IF.
     - [ ] **Double Conversion (Dubbelsuper):** Uses two IFs.
       - [ ] **1st IF (High):** Good Image Rejection (Veraf-selectiviteit).
@@ -361,7 +461,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Selectivity:** Bandwidth/Shape factor. Determined by IF filters (Crystal, Mechanical, LC).
   - [ ] **Dynamic Range:** Ability to handle strong signals without distortion (Blocking, Intermodulation).
   - [ ] **AGC (Automatic Gain Control):** Feedback from detector to IF/RF amps to stabilize volume.
-  - [ ] **S-Meter:** Indicates signal strength (S9 = 50uV at 50 Ohm below 30MHz).
+  - [ ] **S-Meter:** Indicates signal strength (S9 = 50uV < 30MHz; 5uV > 30MHz).
   - [ ] **Noise Figure (Ruisgetal, F):** F = (S_in/N_in) / (S_out/N_out). Ideal F=1 (0dB).
 - [ ] **Detectors:**
   - [ ] **AM:** Envelope detector (Diode + RC low pass).
@@ -388,38 +488,44 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 ## Eindterm 6: Antennas and Transmission Lines (Antennes en transmissielijnen)
 
 ### 6.1 Antenna Types (Antennetypen)
-- [ ] **Dipole:** Total length approx half-wavelength (1/2 lambda). Impedance approx 73 Ohm (in free space).
+- [ ] **Isotropic Radiator (Isotrope straler):** Theoretical point source radiating equally in all directions (Sphere). 0 dBi.
+- [ ] **Dipole:** Total length approx half-wavelength (1/2 lambda). Impedance approx 73 Ohm (free space).
   - [ ] **Voltage/Current:** Low Voltage / High Current at center (Low Z). High Voltage / Low Current at ends (High Z).
   - [ ] **Folded Dipole:** Impedance approx 300 Ohm. Bandwidth wider than simple dipole.
-- [ ] **Ground Plane (GP):** Quarter-wave vertical element + radials. Impedance approx 36 Ohm. Omni-directional.
-- [ ] **Yagi-Uda:** Beam antenna. Driven element + Reflector (approx 5% longer) + Directors (approx 5% shorter). High Gain.
-- [ ] **End-fed (Zepp):** Voltage fed (High Z). Requires tuner or transformer.
+- [ ] **Ground Plane (GP):** Quarter-wave vertical element + radials. Impedance approx 36 Ohm (horiz. radials) to 50 Ohm (drooping radials). Omni-directional. Vertically polarised.
+- [ ] **Yagi-Uda:** Beam antenna. Driven element + Reflector (approx 5% longer) + Directors (approx 5% shorter). High Gain, high Front-to-Back ratio.
+- [ ] **End-fed (Zepp):** Voltage fed (High Z). Requires tuner or transformer (1:49 or 1:64 typical).
 - [ ] **Dummy Load (Kunstantenne):** Non-radiating 50 Ohm resistor (Carbon, not wirewound) for testing.
 
 ### 6.2 Properties (Antenne-eigenschappen)
 - [ ] **Gain:**
-  - [ ] **dBi:** Gain vs Isotropic radiator (theoretical point source, spherical pattern).
+  - [ ] **dBi:** Gain vs Isotropic radiator.
   - [ ] **dBd:** Gain vs Dipole. (dBd = dBi - 2.15).
-  - [ ] **ERP (Effective Radiated Power):** P_out - Losses + Gain(dBd).
-  - [ ] **EIRP:** P_out - Losses + Gain(dBi).
-- [ ] **Front-to-Back Ratio (Voor-achter verhouding):** Ratio of signal strength front vs back.
+  - [ ] **ERP (Effective Radiated Power):** Power relative to a Dipole. P_out - Losses + Gain(dBd).
+  - [ ] **EIRP:** Power relative to Isotropic. P_out - Losses + Gain(dBi).
+- [ ] **Front-to-Back Ratio (Voor-achter verhouding):** Ratio of signal strength front vs back (in dB).
 - [ ] **Beamwidth:** Angle between -3dB (half power) points on main lobe.
-- [ ] **Near Field vs Far Field:** Far field starts at approx 2 * lambda (for simple antennas).
+- [ ] **Near Field vs Far Field:**
+  - [ ] **Near Field:** Reactive zone close to antenna. E and H fields not orthogonal.
+  - [ ] **Far Field:** Radiating zone. Starts at approx 2 * D^2 / lambda (where D is antenna dimension).
 
 ### 6.3 Transmission Lines (Transmissielijnen)
 - [ ] **Coaxial Cable:** Asymmetric (Unbalanced). Core + Shield. (RG58, RG213). Z0 = 50 Ohm or 75 Ohm.
-  - [ ] **Velocity Factor (VF):** Approx 0.66 (solid PE) to 0.80 (Foam).
-- [ ] **Open Wire (Ladder Line):** Symmetric (Balanced). Low loss. Z0 approx 300-600 Ohm. High VF (~0.95).
+  - [ ] **Velocity Factor (Verkortingsfactor, VF):** Speed of signal in cable / c.
+    - [ ] Solid PE (Polyethylene): VF approx 0.66.
+    - [ ] Foam PE: VF approx 0.80 - 0.82.
+    - [ ] Air/PTFE: VF higher (>0.9).
+- [ ] **Open Wire (Kippenladder):** Symmetric (Balanced). Low loss. Z0 approx 300-600 Ohm. High VF (~0.95).
 - [ ] **Impedance Transformation:**
-  - [ ] **1/4 wave line:** Inverts impedance (Short -> Open, Open -> Short). Acts as transformer: Z_in * Z_out = Z0^2.
+  - [ ] **1/4 wave line:** Inverts impedance (Short -> Open, Open -> Short). Transformer: Z_in * Z_out = Z0^2.
   - [ ] **1/2 wave line:** Repeats impedance. Inverts phase.
 - [ ] **Balun:** **Bal**anced to **Un**balanced.
-  - [ ] **Choke Balun:** Mantelstroomfilter (Ferrite beads) to stop current on coax shield.
-  - [ ] **Transformer Balun:** 1:1, 1:4 (Impedance ratio).
-- [ ] **SWR (Standing Wave Ratio):** Ratio of V_max / V_min.
-  - [ ] Caused by reflection due to impedance mismatch.
-  - [ ] **Return Loss:** P_reflected in dB.
-  - [ ] **Antenna Tuner (ATU):** Matches Transmitter (50 Ohm) to Feeder/Antenna system. Does NOT change SWR on the feeder line, only protects the TX.
+  - [ ] **Choke Balun:** Mantelstroomfilter (Ferrite beads/coils) to stop current on coax shield outer surface.
+  - [ ] **Transformer Balun:** 1:1 (Isolation), 1:4 (Impedance up/down).
+- [ ] **SWR (Standing Wave Ratio):** Ratio of V_max / V_min on the line.
+  - [ ] **SWR = 1:** Perfect match (Z_load = Z0). No reflection.
+  - [ ] **Return Loss:** Power reflected (dB). High return loss = Good match.
+  - [ ] **Antenna Tuner (ATU):** Matches Transmitter to Feeder. **Does NOT fix SWR on the feeder line.** Only makes the TX happy.
 
 ---
 
@@ -430,47 +536,54 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Polarisation:** Defined by E-field vector (Horizontal/Vertical).
 
 ### 7.1 HF (High Frequency 3-30 MHz)
-- [ ] **Ground Wave (Grondgolf):** Follows curvature of earth. Best at low freq (160m/80m).
+- [ ] **Ground Wave (Grondgolf/Bodemgolf):** Follows earth curvature. Best at low freq. Vertical polarisation preferred.
 - [ ] **Sky Wave (Ruimtegolf):** Refracted by Ionosphere.
   - [ ] **Layers:**
-    - [ ] **D Layer:** Absorbs low HF (daytime). Disappears at night.
-    - [ ] **E Layer:** Sporadic E (VHF openings).
-    - [ ] **F1/F2 Layers:** Main refraction layers for DX. Merge into F at night.
-  - [ ] **Solar Cycle:** 11 years. Sunspots increase ionization (higher MUF).
-  - [ ] **MUF (Maximum Usable Frequency):** Highest freq that returns to earth.
+    - [ ] **D Layer (60-90 km):** Absorbs low HF (160/80m) during day. Exists only in sunlight.
+    - [ ] **E Layer (100-120 km):** Reflects lower HF. Sporadic E (Es) reflects VHF in summer.
+    - [ ] **F Layers (150-400+ km):** F1 (lower/day), F2 (higher/day & night). Main DX layer.
+  - [ ] **Solar Cycle:** 11 years. Sunspots (Zonnevlekken) indicate activity. More flux = Higher ionization = Higher MUF.
+  - [ ] **Critical Frequency:** Highest freq reflected when sent straight up (Vertical incidence).
+  - [ ] **MUF (Maximum Usable Frequency):** Highest freq for a specific path. Depends on angle of incidence.
   - [ ] **LUF (Lowest Usable Frequency):** Lowest freq not absorbed by D-layer.
-  - [ ] **Skip Distance:** Distance to first hop.
-  - [ ] **Dead Zone:** Between Ground Wave limit and First Skip.
-  - [ ] **Fading (QSB):** Interference between multiple paths (e.g., 1-hop and 2-hop).
+  - [ ] **Skip Distance (Sprongafstand):** Distance to where the signal returns to earth.
+  - [ ] **Dead Zone (Dode zone):** Area between end of Ground Wave and first Skip return.
+  - [ ] **Fading (QSB):** Signal fluctuation due to multipath interference (e.g. ground + sky wave, or O-wave + X-wave).
 
 ### 7.2 VHF/UHF (> 30 MHz)
-- [ ] **Line of Sight:** Direct wave.
-- [ ] **Radio Horizon:** 15% further than optical. d(km) = 4.12 * sqrt(h(m)).
-- [ ] **Tropospheric Ducting:** Temp inversion.
-- [ ] **Aurora:** Reflection off ionized poles.
-- [ ] **Meteor Scatter:** Reflections off ionized meteor trails.
-- [ ] **EME:** Moonbounce. High path loss (~250dB).
+- [ ] **Troposphere:** Weather layer (0-10km).
+  - [ ] **Line of Sight (Zichtverbinding):** Direct wave.
+  - [ ] **Radio Horizon:** 4/3 * Optical Horizon (due to standard refraction). Distance d(km) approx 4.1 * sqrt(h(m)).
+  - [ ] **Ducting:** Temperature Inversion (Warm air over Cold) traps signal. Long distance.
+- [ ] **Exotic Modes:**
+  - [ ] **Aurora:** Reflection off ionized zones at magnetic poles. Distorted audio (Whisper/Hiss).
+  - [ ] **Meteor Scatter:** Reflections off ionized trails of meteors. Short bursts.
+  - [ ] **EME (Moonbounce):** Moon as passive reflector. High path loss (~250 dB).
+  - [ ] **Satellite:** Active transponders. Doppler shift compensation needed.
 
 ---
 
 ## Eindterm 8: Measurements (Metingen)
 - [ ] **Multimeter:**
-  - [ ] **Analogue (Moving Coil):**
+  - [ ] **Analogue (Moving Coil / Draaispoel):**
     - [ ] Current: Shunt resistor.
     - [ ] Voltage: Series resistor. Sensitivity (kOhm/V) affects circuit loading.
     - [ ] Resistance: Internal battery required. Zero adjustment needed.
   - [ ] **Digital (DMM):** High input impedance (typically 10-11 MOhm).
   - [ ] **Usage:** Volts (Parallel), Amps (Series), Ohms (Circuit Power OFF!).
 - [ ] **SWR Meter:** Between TX and Antenna. Measures Forward vs Reflected power.
-  - [ ] Calibrate at full scale (SET) then read SWR.
+  - [ ] **Calibration:** Switch to FWD, Key TX, Adjust to Full Scale (SET). Switch to REF to read SWR.
 - [ ] **Oscilloscope:** Visualises **Time Domain** (Voltage vs Time).
   - [ ] Measure: Amplitude (V_peak, V_pp), Period (T), Waveform shape.
   - [ ] Calculate: Frequency (f = 1/T), V_rms.
 - [ ] **Spectrum Analyser:** Visualises **Frequency Domain** (Amplitude vs Frequency).
   - [ ] Measure: Harmonics, Spurious emissions, Sidebands, Bandwidth.
-- [ ] **Frequency Counter:** Measures precise frequency using a digital counter and accurate timebase (Gate).
-- [ ] **Dip Meter (Dipper):** Variable oscillator with exposed coil. Finds resonant frequency of unpowered LC circuits (Dip in meter current when energy is absorbed).
-- [ ] **Dummy Load (Kunstantenne):** Non-radiating 50 Ohm resistor (Carbon/Non-inductive) for testing transmitters.
+- [ ] **Frequency Counter:** Measures precise frequency using a digital counter and accurate timebase.
+  - [ ] **Gating:** Counts cycles during a fixed time window (e.g., 1 sec).
+  - [ ] **Accuracy:** Dependent on Timebase (Crystal/OCXO).
+- [ ] **Dip Meter (Dipper / Grid Dipper):** Variable oscillator with exposed coil.
+  - [ ] **Usage:** Finds resonant frequency of unpowered LC circuits. Meter dips when energy is absorbed by the external circuit.
+- [ ] **Dummy Load (Kunstantenne):** Non-radiating 50 Ohm resistor (Carbon/Non-inductive) for testing transmitters. Power turned into heat.
 
 ---
 
@@ -485,11 +598,12 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **LFD (Audio Rectification):** RF picked up by audio cables/circuits and rectified by PN junctions (transistors/diodes) in the amplifier. Heard as distorted speech (AM/SSB) or clicks (CW).
   - [ ] **Key Clicks:** Broadband interference caused by fast rise/fall times in CW keying.
   - [ ] **Chirp:** Frequency instability of oscillator during keying.
+  - [ ] **Tjoep:** Chirp-like sound at start of transmission (warm-up).
 - [ ] **Mitigation / Filters:**
   - [ ] **Mains Filter:** L-C filter to stop conducted interference.
-  - [ ] **Mains Choke:** Ferrite ring on mains cable (Common Mode Choke).
+  - [ ] **Mains Choke (Ferrietklem):** Ferrite ring on mains cable (Common Mode Choke).
   - [ ] **High Pass Filter (HPF):** On TV/Receiver antenna input to block HF amateur bands.
-  - [ ] **Low Pass Filter (LPF):** On Transmitter output to block Harmonics.
+  - [ ] **Low Pass Filter (LPF):** On Transmitter output to block Harmonics. (e.g. Pi-filter / T-filter).
   - [ ] **Band Stop (Notch):** Blocks specific frequency.
   - [ ] **Decoupling:** Capacitors (1-10nF) across audio inputs/speaker terminals to bypass RF.
   - [ ] **Shielding:** Faraday cage (grounded metal enclosure).
@@ -521,7 +635,8 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Protection:**
   - [ ] **Fuse:** Protects equipment/wiring from overcurrent (fire risk). Fast (F) vs Slow (T).
   - [ ] **RCD (Aardlekschakelaar):** Detects leakage to earth (shock risk). Trips at 30mA usually.
-  - [ ] **Bleeder Resistor:** Discharges capacitors after power off.
+  - [ ] **Bleeder Resistor:** Discharges capacitors after power off (must be safe < 1s).
+  - [ ] **Earthing:** Resistance of safety earth connections must be < 0.1 Ohm.
 - [ ] **RF Safety:**
   - [ ] **Heating:** RF cooks tissue (eyes, testes vulnerable). SAR limits (0.08 W/kg public, 0.4 W/kg occupational).
   - [ ] **Burns:** RF burn from touching antenna (High voltage at ends).
@@ -531,6 +646,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Hazardous Substances:**
   - [ ] **Beryllium Oxide (BeO):** White ceramic in power transistors. Toxic dust if broken.
   - [ ] **Lead:** In solder. Wash hands.
+  - [ ] **Etchants (Etsmiddelen):** Ferric Chloride etc. Corrosive.
 - [ ] **Lightning:** Disconnect antennas during storms.
 
 ---
@@ -546,6 +662,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **QRP:** Low power.
   - [ ] **QRT:** Closing down.
   - [ ] **QRV:** Ready.
+  - [ ] **QRX:** Wait / Call back at...
   - [ ] **QRZ:** Who is calling me?
   - [ ] **QSB:** Fading.
   - [ ] **QSL:** Confirm receipt / Can you confirm.
@@ -562,6 +679,8 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **R:** Received.
   - [ ] **RST:** Readability, Strength, Tone report.
   - [ ] **RX / TX:** Receiver / Transmitter.
+  - [ ] **AR:** End of transmission.
+  - [ ] **SK:** End of contact.
   - [ ] **73:** Best regards.
 - [ ] **Emergency Signals:**
   - [ ] **Telegraphy (CW):** SOS (... --- ...).
@@ -584,8 +703,27 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **RDI (Rijksinspectie Digitale Infrastructuur):** Dutch regulator (formerly Agentschap Telecom).
 - [ ] **Documents:**
   - [ ] **Radio Regulations (RR):** ITU treaty status.
+    - [ ] **Article 25 (Amateur Service):**
+      - [ ] **25.1:** International comms allowed.
+      - [ ] **25.2:** Technical/Personal messages only.
+      - [ ] **25.2A:** No encryption.
+      - [ ] **25.3:** Emergency comms for 3rd parties (if permitted).
+      - [ ] **25.5:** Morse requirement optional.
+      - [ ] **25.6:** Competence verification required.
+      - [ ] **25.9:** Call sign identification.
+      - [ ] **25.9B:** Guest licensing.
   - [ ] **T/R 61-01:** CEPT License (Temporary operation abroad).
   - [ ] **T/R 61-02:** HAREC (Exam standard for Full license recognition).
+- [ ] **Amateur Bands (NL Full License - Key Bands):**
+  - [ ] **160m:** 1.810 - 1.880 MHz
+  - [ ] **80m:** 3.500 - 3.800 MHz
+  - [ ] **40m:** 7.000 - 7.200 MHz
+  - [ ] **20m:** 14.000 - 14.350 MHz
+  - [ ] **15m:** 21.000 - 21.450 MHz
+  - [ ] **10m:** 28.000 - 29.700 MHz
+  - [ ] **6m:** 50.000 - 52.000 MHz
+  - [ ] **2m:** 144.000 - 146.000 MHz
+  - [ ] **70cm:** 430.000 - 440.000 MHz
 - [ ] **Service Status:**
   - [ ] **Primary:** Protected. Can claim protection from Secondary.
   - [ ] **Secondary:** No protection from Primary. Must not cause interference to Primary.

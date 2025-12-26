@@ -1,0 +1,527 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+Inhoudsopgave
+1
+
+De zendamateur in actie ................................................................................................1-2
+1.1
+
+Wat leer je in dit hoofdstuk ...................................................................................1-2
+
+1.2
+
+Wie met radio veel mag, moet weten wat hij/zij doet .........................................1-2
+
+1.3
+
+Een beetje geschiedenis..........................................................................................1-3
+
+1.4
+
+Een veelzijdige hobby ............................................................................................1-5
+
+1.5
+
+Web-SDR: Maak je eigen ontvanger op Internet. ..............................................1-11
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+1 De zendamateur in actie
+1.1 Wat leer je in dit hoofdstuk
+In dit hoofdstuk zit geen echte examenstof. Wel het waarom van het feit dat je voor de
+zendhobby examen moet doen. Verder bespreken we een stukje geschiedenis van het
+radiozendamateurisme. Dat wordt gevolgd door wat kanten en mogelijkheden van de
+zendhobby, een voorbeeld van een digitale verbinding en de mogelijkheid om via Internet
+onder meer amateurbanden te beluisteren.
+
+1.2 Wie met radio veel mag, moet weten wat hij/zij doet
+Zendamateurs zijn bevoorrechte mensen. Ze mogen iets dat geen enkele andere
+particulier mag: uitzenden met hun eigen zender, zelfs zonder dat die vooraf hoeft te zijn
+gekeurd. Het mag een kant-en-klaar fabrieksexemplaar zijn, maar ook een (zelf) aangepast
+of een helemaal zelfgebouwd apparaat. Als er een keuring komt is daar een aanleiding
+voor, bijvoorbeeld storingsklachten.
+De lucht zit vol met radiosignalen uit ontelbare bronnen. Die bronnen variëren van WiFiinstallaties of draadloze babyfoons met een bereik van enkele huizenblokken tot
+wereldwijd te beluisteren omroepzenders. Daarnaast zijn er signalen van luchtvaart,
+militaire verbindingen, taxi’s, bussen, hulpdiensten, schepen, satellieten, zendamateurs en
+een lange lijst anderen.
+Om te voorkomen dat dit één grote chaos wordt, zijn er internationaal regels voor het
+radioverkeer afgesproken. Daaraan hebben ook zendamateurs zich te houden. Zij hebben
+wereldwijd hun eigen stekjes in dit systeem. Die term “wereldwijd” is geen loze kreet.
+Zendamateurs maken onderling over de hele wereld verbindingen met hun eigen spullen,
+zonder dat daaraan providers en dergelijke te pas komen. Een zendamateur is zogezegd
+zijn/haar eigen provider.
+Aan die vrijheid zit een keerzijde. Zendamateurs moeten niet alleen op de hoogte zijn van
+de regels die voor hen gelden en zich eraan houden. Ze moeten ook in technische zin
+weten hoe hun spullen werken en vooral hoe je kunt voorkomen dat je onbedoeld een
+andere radiodienst in de weg zit. Daarom moet iedereen die zendamateur wil worden,
+examen doen. Op dat examen moet je laten zien dat je kennis op radiogebied voldoende is
+om op eigen houtje aan het amateurradioverkeer deel te nemen zonder brokken te maken.
+In Nederland kennen we daarbij twee niveaus. Dat zijn “N” van novice (nieuweling) en
+“F” van full (volledig). De exameneisen voor F zijn zwaarder dan die voor N. Daar staat
+tegenover dat je met F meer mag dan met N.
+Je kunt ervoor kiezen om eerst examen voor N te doen en later voor F. Veel zendamateurs
+met een F-registratie hebben die weg gevolgd. Wie zich zeker genoeg voelt, kan ook
+meteen opgaan voor F. Je kunt het ook bij N laten. Examen doe je bij het CBR, de
+organisatie die ook verantwoordelijk is voor de uitgifte van rijvaardigheidsbewijzen.
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+Deze cursus behandelt de stof voor het F-examen. Wie F doet, moet ook de stof voor N
+kennen. Die laatste zit er dus vanzelf in. Het aanvankelijke plan bij het schrijven van deze
+cursus was, aan te geven wat je alleen voor N nodig hebt. Doordat de exameneisen voor N
+en F niet mooi parallel lopen en het in de praktijk zo is dat sommige examenvragen voor F
+en N nogal op elkaar lijken en dan vooral verschillen in het aantal multiple-choiceantwoorden (4 tegen 3), hebben we daarvan afgezien. Inmiddels hebben we sinds begin
+juli 2023 een afzonderlijke N-versie.
+Naar een papieren versie van deze cursus zul je vergeefs zoeken. Een cursus op Internet is
+op ieder moment aan te passen als blijkt dat bepaalde zaken niet duidelijk zijn of als
+exameneisen veranderen. Met papier moet je wachten tot de volgende druk. Een van de
+leuke kanten van techniek is dat er altijd verandering is. Nieuwe dingen komen en oude
+raken in onbruik.
+Wie het examen heeft gehaald, kan zich als zendamateur laten registreren bij de
+Rijksinspectie Digitale Infrastructuur van het ministerie van Economische Zaken, kortweg
+de RDI. Je kunt daar roepletters (een call, zeggen zendamateurs) aanvragen. Als niemand
+anders dezelfde combinatie al heeft aangevraagd of gekregen, geeft de RDI aan jou de
+aangevraagde roepletters uit. Een call is net zoiets als een autokenteken, maar dan voor
+zendstations. In Nederland beginnen calls met PA t/m PI, gevolgd door een cijfer en
+daarna minstens één letter. PD is gereserveerd voor de N-registratie. PI is voor
+organisaties. De verenigingszender van de VRZA heeft bijvoorbeeld de call PI4VRZ. Klik
+aan en bekijk de webpagina als je wilt.
+
+1.3 Een beetje geschiedenis
+Wanneer het zendamateurisme in Nederland precies begon, hangt af van hoe je het
+omschrijft. In de eerste twee decennia van de 20e eeuw was het illegaal. Zelfs luisteren
+was verboden, want radioberichten moesten wel vertrouwelijk kunnen blijven, vonden
+onze landsbestuurders. Die berichten gingen allemaal in telegrafie, morsecode dus, want
+er was nog niets anders. Dat luisterverbod was met de verder gaande ontwikkeling van de
+radiotechniek natuurlijk niet te handhaven, maar zenden door particulieren bleef in
+Nederland lange tijd verboden.
+De eerste zendstations met vergunning waren bedrijven op het gebied van de
+radiotechniek. De eerste ter wereld met een op amusement gericht station was Hans
+Henricus Schotanus à Steringa Idzerda (biografie in Wikipedia). Hij zond uit van 1919 tot
+1924 vanuit Den Haag. De exploitant van een amusementsstation zou je tegenwoordig
+geen zendamateur noemen. In de tijd van Idzerda was het zendamateurisme in de
+Verenigde Staten al wel tot bloei gekomen, maar door het zendverbod voor particulieren
+in Nederland was daar in ons land voorlopig geen sprake van.
+Eind 1923 maakte H.J. Jesse de eerste radioverbinding vanuit Nederland met Amerika.
+Zijn zelfgebouwde station werd prompt in beslag genomen en Jesse moest voor de rechter
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+komen. Die verklaarde hem schuldig, maar legde geen straf op omdat hij vond dat Jesse
+een technische prestatie van formaat had geleverd. Dat was een flinke tik op de vingers
+van een kortzichtige overheid, zou je kunnen zeggen. Toch duurde het nog tot 1929
+voordat in Nederland op basis van een examen vergunningen aan amateurs werden
+uitgegeven. Toen pas mochten ze met hun zelfgebouwde spullen legaal ‘in de lucht’
+komen.
+Zelfbouw was in die tijd de basis van het zendamateurisme en bleef dat tot en met de
+tweede wereldoorlog. Bij het begin van de bezetting werd het zenden al snel verboden en
+de apparatuur moest worden ingeleverd. De Duitse bezetter was nu eenmaal niet gediend
+van mogelijk radiocontact tussen het verzet en de geallieerden. In 1943 had de oorlog een
+voor Duitsland ongunstige wending genomen. Toen moesten ook ontvangers worden
+ingeleverd. De bezetter zag niet graag dat men in Nederland geïnformeerd werd over de
+werkelijke gang van zaken. Een aantal zendamateurs bleef illegaal actief, zond belangrijke
+informatie naar de geallieerden en gaf ontvangen berichten door aan het verzet. Veel van
+hen hebben dat met hun leven moeten bekopen. Idzerda was daar één van.
+Na de oorlog kwam het legale zendamateurisme weer snel op gang. De zelfbouw maakte
+deels plaats voor ombouw van apparatuur uit de ‘dump’. Dat waren overtollig geworden
+Engelse en Amerikaanse legerspullen. Ook kwamen er bouwpakketten op de markt zoals
+die van Heathkit. Deze firma had trouwens een veel ruimer assortiment dan alleen
+amateurspullen. Ze zijn op Internet nog steeds af en toe te koop. Nog weer later kwamen
+kant en klare fabrieksspullen op de markt, aanvankelijk vooral uit de Verenigde Staten en
+Europa. Later werd dat vooral Azië. Door de gemakkelijke verkrijgbaarheid van
+fabrieksspullen raakte de zelfbouw van complete installaties geleidelijk op de achtergrond.
+De toenemende ingewikkeldheid van apparatuur droeg daar ook aan bij. Wel zijn er nog
+steeds veel zelfbouwers die hun eigen hulpapparatuur maken en enkelingen bouwen nog
+steeds hun eigen zendontvanger.
+Bij natuurrampen blijken amateurs vaak sneller de broodnodige radioverbindingen te
+kunnen opzetten dan officiële instanties. Het bekendste voorbeeld in Nederland was de
+watersnoodramp van 1953. Dat is lang geleden, maar ook bij de aardbevingsramp in Nepal
+in 2015 waren het in veel gevallen amateurs die de eerste radioverbindingen met getroffen
+gebieden tot stand brachten. Een amateurgroep die zich in Nederland met dergelijke
+zaken bezighoudt is DARES.
+Tegenwoordig maakt bij de meeste amateurstations de computer deel uit van de vaste
+inventaris. Soms is dat alleen om het logboek, dat is de lijst van ‘gewerkte’ andere stations,
+bij te houden. Veel amateurs gebruiken Internet om te zien waar ter wereld op dat
+moment een amateur actief is en op welke frequentie. Google maar eens ‘DX cluster’. Ook
+wordt de computer meer en meer gebruikt als verlengstuk van de zender voor het maken
+van digitale radioverbindingen. Daarvoor komen steeds meer manieren beschikbaar. Die
+zijn deels door zendamateurs ontwikkeld.
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+1.4 Een veelzijdige hobby
+Je kunt met de zendhobby veel kanten op. Het meest voor de hand ligt het maken van
+verbindingen naar Verweggistan, maar er is veel meer dan dat. De zelfbouw is al
+genoemd. Met zelfbouw hangt experimenteren samen. Veel amateurs doen dat
+tegenwoordig met antennes in allerlei vorm. De beperkte ruimte rondom de meeste
+huizen in het dichtbevolkte Nederland daagt uit tot het maken van relatief kleine
+antennes met toch een behoorlijk resultaat.
+De balans tussen experimenteren en verbindingen maken kan voor iedereen anders
+liggen. De ware techneut zal vooral experimenteren, een ander zal vooral verbindingen
+maken en landen verzamelen zoals anderen postzegels verzamelen of zeldzame vogels
+spotten. Sommigen zijn gewoon uit op een gezellige babbel met deze of gene. Zo kun je
+soms ook nieuwe vrienden maken
+Met kleine vermogens van enkele Watts grote afstanden overbruggen is ook een redelijk
+populaire bezigheid. ‘Ouderwetse’ telegrafie met de seinsleutel kan hier wonderen doen,
+maar dat moet je eerst leren. Met digitale signalen is op dit gebied ook veel interessants te
+beleven.
+Meedoen aan contesten ofwel radiowedstrijden waarbij het maken van zoveel mogelijk
+verbindingen met zoveel mogelijk landen of anders omschreven gebieden centraal staat, is
+ook een tak van amateursport. Met beperkte antennemogelijkheden bij huis lijkt dat niet
+altijd eenvoudig, maar toch kun je ook dan soms verrassend verre verbindingen maken.
+Als je met een afdelings- of ander clubstation kunt meedoen, is er vaak veel mogelijk en
+het is nog gezellig ook.
+
+Foto 1.4-1. Velddag (fotoarchief VRZA afd. Zuid-Veluwe)
+
+Velddagen (Foto 1.4-1) bieden ook mogelijkheden tot het maken van interessante
+verbindingen. Je bent dan meestal uit de ‘stoornevel’ van stad of dorp die wordt
+veroorzaakt door allerhande apparatuur en dus niet alleen door WiFi. De ontvangst van
+verre stations blijkt dan ineens een stuk gemakkelijker dan thuis. Ook door het ontbreken
+van obstakels zijn antennes in het open veld effectiever voor zenden en ontvangen dan
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+tussen de huizen. Omdat aan velddagen vaak in clubverband wordt deelgenomen, bieden
+ze ook een element van gezelligheid.
+Vossenjachten (Foto 1.4-2) zijn een andere vorm van onze hobby. Voor wie er onbekend
+mee is: de bedoeling is dat je met behulp van een draagbare ontvanger met
+richtinggevoelige antenne, vaak ‘peildoos’ genoemd, een verborgen zender of vaker een
+aantal zenders (vossen) in zo min mogelijk tijd vindt. Vossen jagen is ook goed voor de
+lichamelijke conditie!
+
+Foto 1.4-2. Links: start vossenjacht. Rechts: zou er een vos bij de vuilnisbak liggen? (fotoarchief VRZA afd.
+Zuid-Veluwe)
+
+Soms wordt ergens ter wereld een gebied waar weinig amateuractiviteit is, ‘geactiveerd’
+door een groep zendamateurs die daar tijdelijk neerstrijkt. Dat biedt amateurs wereldwijd
+de mogelijkheid, een verbinding met dat gebied te maken. Zoiets heet een DX-peditie, een
+expeditie naar een ‘ver’ land. ‘DX’ staat internationaal voor afstand (distance). In de
+praktijk komt dat dus neer op ‘ver weg’. De term wordt door amateurs ook wel gebruikt
+voor ‘zeldzame’ landen, dat wil zeggen gebieden met weinig amateuractiviteit. De
+gemaakte verbinding wordt bevestigd met een zogenoemde QSL-kaart. QSL staat
+internationaal voor ‘ik bevestig’ en is een van de in het radioverkeer gebruikte Q-codes,
+waarover later in deze cursus meer. Bij ‘gewone’ amateurverbindingen worden ook vaak
+kaarten uitgewisseld. De kaart in Figuur 1.4-1 is de voorkant van een kaart van een Duitse
+DX-peditie naar Senegal. De achterkant (niet getoond) bevat technische gegevens zoals
+datum en tijd van de verbinding, frequentie, sterkte en kwaliteit van het ontvangen
+signaal en de ‘mode’, dat is de vorm waarin het signaal is overgebracht.
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+Figuur 1.4-1. QSL-kaart van een DX-peditie van Duitse amateurs naar Senegal (verzameling PC7S).
+
+Het voorvoegsel 6W, ook ‘prefix’ genoemd, staat voor Senegal. De prefixen met ‘DL’ en
+‘DM’ staan voor Duitsland. Niet elke zendamateur maakt een mooie voorkant. Sommigen
+hebben een puur functionele kaart met alleen een gegevenskant. Dat zijn vaak standaardontwerpen die via een vereniging goedkoop te krijgen zijn. Figuur 1.4-2 toont er een.
+
+Figuur 1.4-2. Standaard-QSL-kaart met alleen een informatiekant (verzameling PC7S)
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+Op de kaart bevestigt W4RIG uit de VS een verbinding met het Nederlandse station PC7S.
+De informatie bevat onder andere
+•
+
+•
+
+•
+•
+•
+•
+
+•
+
+•
+
+•
+
+•
+
+Twee soorten zones (CQ en ITU) waarin de wereld onder zendamateurs is
+opgedeeld. Google ‘CQ zones’ of ‘ITU zones’ en je krijgt er via internet heel wat
+informatie over.
+Woonplaats en positie (QTH, weer een Q-code), laatstgenoemde verpakt in de
+gridlocator FN42qo. Informatie daarover is te vinden in Wikipedia, helaas in het
+Engels. Het is een manier om snel een positie door te geven. Als je een hand-GPS
+hebt, kun je je eigen locator vinden door voor coördinaten Maidenhead te
+selecteren (als dat erop zit).
+De roepletters van het verzendende station, in dit geval W4RIG
+De roepletters van het tegenstation, in dit geval het Nederlandse station PC7S
+Datum en tijd van de verbinding, meestal het begintijdstip. Tijden gaan altijd in
+UTC. Tot 1972 heette dat GMT, Greenwich Mean Time.
+De frequentie, in dit geval 21,070 MHz. In gesproken taal is dat in de 15
+meterband, dat wil zeggen een golflengte van ongeveer 15 m. Het verband tussen
+frequentie en golflengte is cursusstof.
+Informatie over het ontvangen signaal, RST. R staat voor Readability, leesbaarheid
+en heeft een schaal van 1 tot 5. In dit geval krijgt PC7S 5 uit 5. S staat voor
+Strength, signaalsterkte die een schaal van 1-9 heeft. PC7S krijgt 5 uit 9, een
+redelijk gemiddelde sterkte. T staat voor Tone voor toonzuiverheid met schaal 1-9
+en hier dus maximale score. De moeilijk leesbare krabbel eronder is ‘wQSB’, with
+QSB, alweer een Q-code die betekent dat het signaal van PC7S gedurende de
+verbinding ongelijkmatig van sterkte was.
+Mode is de manier waarop de informatie is overgebracht. PSK staat voor ‘Phase
+Shift Keying’, in 1998 ontworpen en gepubliceerd door de Britse zendamateur
+Peter Martinez, roepletters G3PLX. PSK komt in Hoofdstuk 14 aan de orde. PSK31
+is een meestal via de computer opgewekt signaal met een snelheid van ‘maar’ 31
+baud ofwel bits per seconde. Die ogenschijnlijk lage snelheid heeft grote voordelen
+als we met weinig zendvermogen toch ‘ver’ willen komen. Verderop in de cursus
+zullen we het daarover hebben. Doordat de letters en andere tekens erg slim zijn
+gecodeerd, komt de snelheid in de praktijk overeen met die van een ouderwetse
+telex of in amateurjargon ‘wortelstamper’. Die snelheid is voor een gemiddelde
+amateurtypist nog net zo’n beetje bij te benen. Wat de zendende amateur intypt,
+komt in hetzelfde tempo bij de ontvanger op het scherm.
+Onderin vinden we TNX QSL aangevinkt, dat wil zeggen ‘bedankt voor de
+bevestiging’. De Amerikaan heeft dus de kaart verstuurd na ontvangst van de kaart
+van PC7S.
+Iets links van het midden onderin staat een verificatiestempeltje, bedoeld om de
+kaart geldig te maken voor een hele reeks van diploma’s die in amateurjargon
+meestal ‘award’ heten. Een paraafje van de afzender is ook voldoende en een met
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-8
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 1_20250422
+
+de hand ingevulde kaart als deze wordt meestal ook daarzonder wel geaccepteerd.
+Voor kaarten met de informatie die op een printer is afgedrukt is een stempeltje
+half op de sticker en half op de kaart wel verplicht.
+Rechtsonder vinden we naam en adres van de afzender. In verreweg de meeste
+landen staan die op de kaart, maar in sommige niet. Op kaarten uit de vroegere
+Sovjet Unie bijvoorbeeld ontbraken ze praktisch altijd.
+
+Voor de uitwisseling van QSL-kaarten hebben de meeste landen een zogenoemd
+bureau. Die regelen de verzending van kaarten en de bezorging van ontvangen
+kaarten onder zendamateurs in het betreffende land. Voor Nederland is dat het Dutch
+QSL Bureau (DQB) van VERON en VRZA. Om van de diensten van het bureau
+gebruik te kunnen maken, moet je lid zijn van één van die twee verenigingen.
+Een verbinding kan verlopen als in het volgende filmpje. Het gaat weer om een
+verbinding in PSK op de korte golf in wat we meestal de 40 meterband noemen.
+Wat zien/horen we?
+•
+
+•
+
+•
+
+•
+•
+
+Een computerscherm met in het onderste venster een zogenoemd
+watervaldisplay. Daarop is een aantal gele en rode verticale sporen te zien die
+langzaam naar beneden lijken te stromen. Elk spoor is een station. Het geluid
+dat je hoort is meestal dat van een aantal sporen tegelijk, afhankelijk van de
+onderlinge frequentie-afstand. De frequentie staat erboven en loopt in dit geval
+van 7040 tot 7043 kHz. Als dit laatste abracadabra lijkt: het komt verderop in
+de cursus aan bod. De cursor staat op het dikke rode spoor iets links van het
+getal 7041. Dat is het spoor dat door de computer wordt gedecodeerd.
+Boven de waterval ligt een vrij groot venster met voor een deel
+onsamenhangende tekst. Helemaal onderin zien we een oproep (CQ) van het
+Duitse station DL5UG. Hij krijgt antwoord van de Belg ON2AD. Eerst lijkt de
+Duitser hem niet te horen, want deze geeft nog een keer CQ.
+De onsamenhangende tekst ertussen is ruis waarvan het programma
+willekeurige tekens maakt. Het ‘de’ in de oproep is geen lidwoord, maar
+betekent ‘van’. Het Engelse ‘from’ is in Morse (CW) nogal lang en is daarom
+vervangen door het veel kortere Franse ‘de’, wat hetzelfde betekent. Die
+gewoonte is overgewaaid naar PSK en andere manieren van tekst overbrengen
+onder amateurs. “Groeten aan de PA7xxx” of soortgelijk spraakgebruik onder
+zendamateurs komt hier vandaan, maar is dus eigenlijk onzin.
+‘pse k’ betekent ‘please come’, een uitnodiging om antwoord te geven.
+Er komt opnieuw antwoord van ON2AD en nu pikt DL5UG het wel op. Hij
+bedankt (‘tnx’, staat voor ‘thanks’) voor de aanroep, geeft een ontvangstrapport
+(599), zijn naam (Peter) en woonplaats (QTH, weer een Q-code), in dit geval
+Talheim in de buurt van Heilbronn met gridlocator (zie ook Figuur 1.4-2). ‘nr’
+staat voor ‘near’, ‘nabij’ dus, en niet voor number. Hij meldt dat meer gegevens
+te vinden zijn op de website www.qrz.com, een site waarop informatie van
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-9
+
+VRZA-cursus radiozendamateur
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Hoofdstuk 1_20250422
+
+zendamateurs over de hele wereld te vinden is. Daarna geeft hij twee
+lidmaatschapsnummers op: DARC (Deutscher Amateur-Radio-Club) en EPC
+(European PSK Club). Na de vraag hoe zijn signaal is binnengekomen (‘how
+copy?’, soms ook gespeld als ‘hw copy?’ of kortweg ‘hw?’) geeft hij het woord
+terug aan de Belg (‘BTU’ staat voor ‘back to you’). ‘kn’ in plaats van ‘k’ betekent
+dat DL5GU geen nieuwe inmelders wil, dus alleen een reactie van ON2AD.
+De Belg antwoordt in het Duits, maar ‘GE’ staat voor Good Evening, Engels
+dus. Weer zo’n afkorting. Hij noemt zijn ontvangstrapport niet RST maar RSQ,
+waarbij Q staat voor Quality, bij dit soort verbindingen wat toepasselijker dan
+T voor Tone. Dan speelt zich eenzelfde informatieriedeltje af als bij het Duitse
+station.
+DL5UG geeft –nog steeds in het Engels!- nu een beschrijving van de spullen
+die hij voor de verbinding gebruikt en meldt, een QSL-kaart via het QSLbureau te zullen sturen. Daarna gaat het woord weer naar ON2AD.
+ON2AD geeft nu eenzelfde overzicht, weer in het Duits, vergeet iets te zeggen
+over QSL en geeft het woord weer aan DL5UG, die er een eind aan draait met
+‘73’ (‘groeten’), bedankt voor de verbinding en weer vraagt om een QSL-kaart.
+‘sk’ betekent ‘ik beëindig de verbinding’.
+ON2AD komt terug in het Duits, bevestigt nu de QSL die hij op drie manieren
+zegt te gaan doen: een papieren kaart via het bureau, een elektronische via
+eQSL (die gelden voor de meeste awards niet omdat eQSL-kaarten
+fraudegevoelig zijn) en LotW. Dit laatste betekent Logbook of the World, is
+oorspronkelijk opgezet door de ARRL (American Radio Relay League, de
+Amerikaanse radioamateurvereniging) en is wat fraudegevoeligheid betreft
+behoorlijk dichtgespijkerd. LotW geldt daarom wel voor awards.
+ON2AD beëindigt de verbinding op dezelfde manier als DL5UG. Er komt dan
+nog een bye bye van het Duitse station achteraan.
+
+In zo’n verbinding kan zich tussen beide stations ook een langer gesprek
+ontwikkelen. Het kan ook heel kort blijven met alleen het uitwisselen van een
+ontvangstrapport. Dat laatste vind je vooral in contesten. Een contest is een
+wedstrijd in het maken van radioverbindingen. Een conteststation heeft altijd
+haast om zoveel mogelijk punten te sprokkelen. Geldige verbinding? Klaar en
+wegwezen! Bij een ‘normale’ verbinding worden doorgaans minimaal ook naam en
+woonplaats uitgewisseld. Ook DX-pedities kunnen kort van stof zijn. De reden
+daarvan is meestal dat ze graag zoveel mogelijk amateurs de kans willen bieden,
+die zeldzame verbinding te maken. Dan is het niet zo sociaal als iemand veel tijd
+van ze opeist.
+Verder valt het gebruik van afkortingen op. Die laten zich snel leren. Verderop in
+de cursus komen ze grotendeels aan bod. Als je al voldoende bent ingericht om
+naar zendamateurs te luisteren, des te beter. Je ontdekt dan de afkortingen en
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 1_20250422
+
+ander jargon vanzelf. Je ontdekt dan ook vanzelf hoe het er bij het maken van
+amateurverbindingen aan toe gaat. Het filmpje is maar één voorbeeld.
+
+1.5 Web-SDR: Maak je eigen ontvanger op Internet.
+Ook als je als beginnend amateur nog geen goede ontvanger en antenne voor de
+amateurbanden hebt, is het mogelijk, ze te beluisteren. Internet biedt
+tegenwoordig goede mogelijkheden. Dat gaat met SDR, een afkorting voort
+Software Defined Radio. Kijk bijvoorbeeld op de site
+https://www.rtlsdr.nl/websdr/. Daarop vind je een lijst met links naar Nederlandse
+en buitenlandse websites met computergestuurde ontvangers. Je kunt de sites via
+je eigen webbrowser bedienen. Helaas zijn die sites over het algemeen Engelstalig.
+Eigenlijk krijg je zo een gratis ontvanger voor onder meer amateurfrequenties.
+Wel is er enige radiokennis nodig om te snappen hoe je die dingen via je browser
+bedient. Maar ook -en misschien vooral- als je al een eind in de cursus bent
+gevorderd, zo ongeveer tot en met hoofdstuk 12 of 13 (of de N-cursus), kan het
+leuk zijn, ernaar te luisteren. Je doet meteen informatie op over hoe verbindingen
+tussen amateurstations verlopen.
+Een goede site is die van de Universiteit Twente met URL
+http://websdr.ewi.utwente.nl:8901/. Ook op deze site is de taal Engels. Enig
+basisbegrip van radio heb je ook hier nodig. Hulp vragen bij een ervaren amateur
+kan natuurlijk ook. De taal op dit soort sites is, helaas voor sommigen onder ons,
+bijna uitsluitend Engels.
+Hieronder volgen wat puntjes over de bediening.
+•
+•
+
+•
+
+•
+•
+
+Bovenaan de pagina staat een foto van de kern van het systeem. Het is
+zelfbouw!
+Je kunt kiezen tussen verschillende vormen van radio, maar begin liever bij het
+brede display met verticale strepen, iets naar beneden op de pagina. Het lijkt
+op het waterval-display uit het filmpje, maar in dit geval gaat de ‘waterval’
+omhoog.
+Door de pijl eronder te verslepen, kun je afstemmen. Bedenk dat je alles vanaf
+lange golf tot en met de hele korte golf in beeld hebt. Nauwkeurig afstemmen
+is er dus op deze manier niet bij.
+Via de knoppen rechts kun je in- en uitzoomen. Dat vergemakkelijkt het
+afstemmen met de pijl. Hieronder gaan we het nog wat gemakkelijker doen.
+Na zonsondergang kun je op de 80-meterband veel amateurs horen. Die band
+loopt van 3500-3800 kHz (wat dat is, leer je verderop). Moresetelegrafie hoor
+je meest tussen 3500 en 3580 kHz, spraak boven 3620 kHz.
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-11
+
+VRZA-cursus radiozendamateur
+
+•
+
+•
+•
+
+•
+
+Hoofdstuk 1_20250422
+
+Typ in het venster bijvoorbeeld 3650. Kies in het knoppendisplay in het
+midden de knop ‘LSB’. Als je zo gauw niets hoort, verstem je in hetzelfde vakje
+met de + en – knoppen. Voor zowel + als – kun je drie stapgrootten kiezen.
+Kijk in het getalvenster dat je zojuist hebt gebruikt en zie dat je daadwerkelijk
+verstemt als je op een van de + of – toetsen klikt.
+Overdag hoor je in de 20-meterband meestal wel het een en ander. Die band
+loopt van 14000 tot 14350 kHz. Voor morsetelegrafie moet je ‘onderin’ de
+band zijn, zo tussen 14000 en 14060 kHz, voor spraakverbindingen boven 14
+100 kHz. Kies hier de knop ‘USB’ in plaats van ‘LSB’, anders versta je van de
+spraak geen snars.
+Er zijn nog veel meer amateurbanden op de korte golf, maar om een begin te
+maken met luisteren heb je hier voldoende aan. Bij de plaatselijke of regionale
+afdeling van een amateurvereniging helpt men je graag verder.
+
+© 2019-2022, Vereniging van Radiozendamateurs VRZA
+
+1-12
+
+

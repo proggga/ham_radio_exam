@@ -1,0 +1,3256 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+Inhoudsopgave
+12
+
+Uitgewerkte examenopgaven bij Hoofdstuk 12, Deel B (51-100) ..........................12-5
+12.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........12-5
+
+12.2
+
+Enkele opmerkingen ..........................................................................................12-6
+
+12.3
+
+Formularium ......................................................................................................12-7
+
+12.3.1 Zenders algemeen.............................................................................................. 12-7
+12.3.2 Spraakmodulatie (telefonie) ..............................................................................12-7
+12.3.3 Amplitudemodulatie (AM) ...............................................................................12-7
+12.3.4 PEP berekenen ..................................................................................................12-7
+12.3.5 Vermogensverdeling tussen draaggolf en zijbanden bij AM ..........................12-8
+12.3.6 Van AM naar dubbel- en enkelzijband ............................................................ 12-9
+12.3.7 Modulatoren/mixers ........................................................................................12-10
+12.3.8 Morse-telegrafie (CW) ....................................................................................12-11
+12.3.9 Frequentiemodulatie (FM)..............................................................................12-12
+12.3.10 Fasemodulatie (PM) ......................................................................................12-13
+12.3.11 Digitale modulaties: bitsnelheid en symboolsnelheid .................................12-14
+12.3.12 Frequency shift keying (FSK) .......................................................................12-14
+12.3.13 Phase Shift Keying (2-PSK) ..........................................................................12-14
+12.3.14 Quadrature Phase Shift Keying (Q-PSK of 4-PSK) .....................................12-15
+12.3.15 8-PSK .............................................................................................................12-16
+12.3.16 Quadrature Amplitude Modulation (QAM). ...............................................12-16
+12.4
+
+Opgaven ............................................................................................................12-18
+
+12.4.51 Opgave 12-51 .................................................................................................12-19
+12.4.52 Opgave 12-52 .................................................................................................12-20
+12.4.53 Opgave 12-53 .................................................................................................12-21
+12.4.54 Opgave 12-54 .................................................................................................12-22
+12.4.55 Opgave 12-55 .................................................................................................12-23
+12.4.56 Opgave 12-56 .................................................................................................12-24
+12.4.57 Opgave 12-57 .................................................................................................12-25
+12.4.58 Opgave 12-58 .................................................................................................12-26
+12.4.59 Opgave 12-59 .................................................................................................12-27
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.60 Opgave 12-60 .................................................................................................12-28
+12.4.61 Opgave 12-61 .................................................................................................12-29
+12.4.62 Opgave 12-62 .................................................................................................12-30
+12.4.63 Opgave 12-63 .................................................................................................12-31
+12.4.64 Opgave 12-64 .................................................................................................12-32
+12.4.65 Opgave 12-65 .................................................................................................12-33
+12.4.66 Opgave 12-66 .................................................................................................12-34
+12.4.67 Opgave 12-67 .................................................................................................12-35
+12.4.68 Opgave 12-68 .................................................................................................12-36
+12.4.69 Opgave 12-69 .................................................................................................12-37
+12.4.70 Opgave 12-70 .................................................................................................12-38
+12.4.71 Opgave 12-71 .................................................................................................12-39
+12.4.72 Opgave 12-72 .................................................................................................12-40
+12.4.73 Opgave 12-73 .................................................................................................12-41
+12.4.74 Opgave 12-74 .................................................................................................12-42
+12.4.75 Opgave 12-75 .................................................................................................12-43
+12.4.76 Opgave 12-76 .................................................................................................12-44
+12.4.77 Opgave 12-77 .................................................................................................12-45
+12.4.78 Opgave 12-78 .................................................................................................12-46
+12.4.79 Opgave 12-79 .................................................................................................12-47
+12.4.80 Opgave 12-80 .................................................................................................12-48
+12.4.81 Opgave 12-81 .................................................................................................12-49
+12.4.82 Opgave 12-82 .................................................................................................12-50
+12.4.83 Opgave 12-83 .................................................................................................12-51
+12.4.84 Opgave 12-84 .................................................................................................12-52
+12.4.85 Opgave 12-85 .................................................................................................12-53
+12.4.86 Opgave 12-86 .................................................................................................12-54
+12.4.87 Opgave 12-87 .................................................................................................12-55
+12.4.88 Opgave 12-88 .................................................................................................12-56
+12.4.89 Opgave 12-89 .................................................................................................12-57
+12.4.90 Opgave 12-90 .................................................................................................12-58
+12.4.91 Opgave 12-91 .................................................................................................12-59
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.92 Opgave 12-92 .................................................................................................12-60
+12.4.93 Opgave 12-93 .................................................................................................12-61
+12.4.94 Opgave 12-94 .................................................................................................12-62
+12.4.95 Opgave 12-95 .................................................................................................12-63
+12.4.96 Opgave 12-96 .................................................................................................12-64
+12.4.97 Opgave 12-97 .................................................................................................12-65
+12.4.98 Opgave 12-98 .................................................................................................12-66
+12.4.99 Opgave 12-99 .................................................................................................12-67
+12.4.100 Opgave 12-100 ............................................................................................. 12-68
+12.5
+
+Uitwerkingen ...................................................................................................12-69
+
+12.5.51 Uitwerking van Opgave 12-51 .....................................................................12-70
+12.5.52 Uitwerking van Opgave 12-52 .....................................................................12-71
+12.5.53 Uitwerking van Opgave 12-53 .....................................................................12-72
+12.5.54 Uitwerking van Opgave 12-54 .....................................................................12-73
+12.5.55 Uitwerking van Opgave 12-55 .....................................................................12-74
+12.5.56 Uitwerking van Opgave 12-56 .....................................................................12-75
+12.5.57 Uitwerking van Opgave 12-57 .....................................................................12-76
+12.5.58 Uitwerking van Opgave 12-58 .....................................................................12-77
+12.5.59 Uitwerking van Opgave 12-59 .....................................................................12-78
+12.5.60 Uitwerking van Opgave 12-60 ....................................................................12-79
+12.5.61 Uitwerking van Opgave 12-61 ....................................................................12-80
+12.5.62 Uitwerking van Opgave 12-62 ....................................................................12-81
+12.5.63 Uitwerking van Opgave 12-63 ...................................................................12-82
+12.5.64 Uitwerking van Opgave 12-64 ....................................................................12-83
+12.5.65 Uitwerking van Opgave 12-65 ....................................................................12-84
+12.5.66 Uitwerking van Opgave 12-66 ....................................................................12-85
+12.5.67 Uitwerking van Opgave 12-67 ....................................................................12-86
+12.5.68 Uitwerking van Opgave 12-68 ....................................................................12-87
+12.5.69 Uitwerking van Opgave 12-69 ....................................................................12-88
+12.5.70 Uitwerking van Opgave 12-70 ....................................................................12-89
+12.5.71 Uitwerking van Opgave 12-71 ....................................................................12-90
+12.5.72 Uitwerking van Opgave 12-72 ....................................................................12-91
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.73 Uitwerking van Opgave 12-73 ....................................................................12-92
+12.5.74 Uitwerking van Opgave 12-74 ....................................................................12-93
+12.5.75 Uitwerking van Opgave 12-75 ....................................................................12-94
+12.5.76 Uitwerking van Opgave 12-76 ....................................................................12-95
+12.5.77 Uitwerking van Opgave 12-77 ....................................................................12-96
+12.5.78 Uitwerking van Opgave 12-78 ....................................................................12-97
+12.5.79 Uitwerking van Opgave 12-79 ....................................................................12-98
+12.5.80 Uitwerking van Opgave 12-80 ....................................................................12-99
+12.5.81 Uitwerking van Opgave 12-81 ..................................................................12-100
+12.5.82 Uitwerking van Opgave 12-82 ..................................................................12-101
+12.5.83 Uitwerking van Opgave 12-83 ..................................................................12-102
+12.5.84 Uitwerking van Opgave 12-84 ..................................................................12-103
+12.5.85 Uitwerking van Opgave 12-85 ..................................................................12-104
+12.5.86 Uitwerking van Opgave 12-86 ..................................................................12-105
+12.5.87 Uitwerking van Opgave 12-87 ..................................................................12-106
+12.5.88 Uitwerking van Opgave 12-88 ..................................................................12-107
+12.5.89 Uitwerking van Opgave 12-89 ..................................................................12-108
+12.5.90 Uitwerking van Opgave 12-90 ...................................................................12-109
+12.5.91 Uitwerking van Opgave 12-91 ..................................................................12-110
+12.5.92 Uitwerking van Opgave 12-92 ..................................................................12-111
+12.5.93 Uitwerking van Opgave 12-93 ..................................................................12-113
+12.5.94 Uitwerking van Opgave 12-94 ..................................................................12-114
+12.5.95 Uitwerking van Opgave 12-95 ..................................................................12-115
+12.5.96 Uitwerking van Opgave 12-96 ..................................................................12-116
+12.5.97 Uitwerking van Opgave 12-97 ..................................................................12-117
+12.5.98 Uitwerking van Opgave 12-98 ..................................................................12-118
+12.5.99 Uitwerking van Opgave 12-99 ..................................................................12-119
+12.5.100 Uitwerking van Opgave 12-100 ............................................................... 12-120
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12 Uitgewerkte examenopgaven bij Hoofdstuk 12, Deel B (51-100)
+12.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk12
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+We moeten hierbij opmerken dat in 2020 de examenopgaven niet langer na afloop van het
+examen door examenkandidaten mogen worden meegenomen, omdat Agentschap
+Telecom zich niet in staat acht, in voldoende mate nieuwe examenopgaven te produceren.
+Verwacht dus voorlopig geen aanvulling op deze bundel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking van de opgave waarmee je bezig bent.
+Deze:
+
+De uitwerking begint met de opgave en het goede antwoord vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot een goed
+antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 12.5.
+
+12.2 Enkele opmerkingen
+Wegens het grote aantal beschikbare examenopgaven is de bundel bij hoofdstuk 12
+gesplitst in deel A tot en met D. Dit is deel B met 50 opgaven. De delen A en C bevatten er
+ook 50. Deel D bevat 25 opgaven.
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008, waren er maar twee examens per jaar,
+het voorjaars- en najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en plotseling, bijvoorbeeld na
+10 jaar of nog meer, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden voor
+het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is in alle hoofdstukken in
+deze cursus met een bijbehorende bundel examenvraagstukken een overzicht van
+vergelijkingen (“formules”) en begrippen met sterk samengevatte uitleg. We raden aan, dit
+eerst door te nemen.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.3 Formularium
+12.3.1 Zenders algemeen
+Een zender omvat meestal een LF-deel, een modulatiedeel en een eindversterker, waarna
+het geproduceerde signaal naar de antenne gaat. Er zijn analoge en digitale
+modulatievormen.
+De analoge modulatievormen waarin wordt geëxamineerd, zijn
+•
+•
+
+•
+•
+
+Morsetelegrafie (CW)
+Amplitudemodulatie (AM) en de daarvan afgeleide vormen:
+o Dubbelzijband (DZB, DSB in het Engels)
+o Enkelzijband (EZB, SSB in het Engels), te onderscheiden in
+▪ Bovenste zijband (BSB, USB in het Engels)
+▪ Onderste zijband (OZB, LSB in het Engels)
+Frequentiemodulatie (FM)
+Fasemodulatie (PM)
+
+12.3.2 Spraakmodulatie (telefonie)
+Uit te zenden spraak wordt bij amateurzenders beperkt tot het frequentiedeel dat het
+meest bijdraagt aan verstaanbaarheid. Dat is het frequentiegebied van 300 tot 2700 Hz.
+300 tot 3000 Hz komt ook voor. In examenopgaven levert dat verschil geen moeilijkheden
+op. Er zijn verschillende modulatievormen. We beginnen met amplitudemodulatie (AM)
+12.3.3 Amplitudemodulatie (AM)
+Amplitudemodulatie in de amateurwereld is voornamelijk telefonie. AM ontstaat als
+product van een in amplitude en frequentie constante hoogfrequente draaggolf en een in
+amplitude en frequentie variërend laagfrequent signaal.
+Modulatiediepte M is de verhouding van de amplitudes van draaggolf en audio die in het
+signaal zijn verwerkt. Bij modulatiediepte M=100% zijn ze even groot. M>100% kan niet.
+De omhullende geeft de vorm van het modulerend signaal twee keer. Eén keer boven de
+nullijn en één keer gespiegeld eronder.
+12.3.4 PEP berekenen
+PEP, afkorting van Peak Envelope Power is het vermogen van 1 periode van het signaal
+op het maximum van de omhullende. Onderstaande figuur komt uit de cursustekst. Hij
+geeft de vorm van de omhullende in tweevoud. Eén keer boven en één keer onder de
+nullijn.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-7
+
+VRZA-cursus radiozendamateur
+
+U/amplitude
+
+2.0
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+Piek van de omhullende
+
+1.0
+0.0
+-1.0
+-2.0
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+Fase van de modulatie / 
+Figuur 12.3-1. Omhullende van 100% gemoduleerd AM-signaal met 1 constante LF-frequentie.
+
+De figuur toont de omhullende bij modulatie-index 𝑀 = 1 = 100% en modulatie van de
+draaggolf met één constante audiofrequentie. De amplitude van de omhullende is 2x de
+amplitude van de draaggolf en 2x de amplitude van het modulerende LF- (audio-)signaal.
+Daarom is PEP in dit geval 4x het draaggolfvermogen, want vermogen is evenredig met
+het kwadraat van effectieve spanning van de draaggolf.
+PEP berekenen bij AM gaat zo:
+1. Zoek het hoogste punt van de omhullende. In de figuur is dat op de bovenpunt van
+de rode gestippelde pijl
+2. Bepaal de amplitude Umax op dat punt. Dat is de afstand in V vanaf het punt tot de
+nullijn.
+3. De effectieve waarde Ueff van een denkbeeldige sinus met amplitude Umax bereken
+𝑈
+je op de gebruikelijke manier: 𝑈𝑒𝑓𝑓 = 𝑚𝑎𝑥⁄ , maar lees eerst de volgende twee
+√2
+punten; dat scheelt werk.
+4. De spanning staat over een weerstand R die ergens in de examenopgave gegeven is.
+𝑈2
+5. PEP is vermogen P, dus het kwadraat van spanning gedeeld door R: 𝑃 = 𝑒𝑓𝑓⁄𝑅 .
+𝑈2
+Dat is hetzelfde als 𝑃 = 𝑚𝑎𝑥⁄2𝑅 . Zo kom je meteen van het wortelteken af, want
+die wordt meegekwadrateerd naar het getal 2.
+Is de golfvorm onregelmatig, zoek dan het hoogste punt. De rest gaat volgens het recept
+hierboven.
+12.3.5 Vermogensverdeling tussen draaggolf en zijbanden bij AM
+Een AM-signaal bevat geen harmonischen van de draaggolf. Wel de draaggolffrequentie
+met som van en verschil tussen draaggolffrequentie en modulerende frequentie. Dat ziet
+eruit als in Figuur 12.3-2 links.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-8
+
+VRZA-cursus radiozendamateur
+
+Amplitude
+Draaggolf
+Onderste
+zijband
+
+Bovenste
+zijband
+
+Frequentie→
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+Vermogen
+Draaggolf
+Onderste
+zijband
+
+Gestileerd
+AM-spectrum
+
+Bovenste
+zijband
+
+Frequentie→
+
+Frequentie→
+
+Figuur 12.3-2. AM-spectrum. Links 1 modulerende frequentie amplitude. Midden: 1 modulerende
+frequentie, vermogen. Rechts: gestileerd met spraakmodulatie.
+
+De amplitudes van de zijbanden zijn half zo groot als die van de draaggolf. Ze geven
+spanning weer. Het vermogen (midden) is evenredig met het kwadraat van de spanning.
+Elke zijband bevat daarom niet de helft, maar ¼ van het draaggolfvermogen. Rechts in de
+figuur een gestileerde manier om het spectrum van een met spraak gemoduleerd AMsignaal weer te geven. De hoogten van beide zijbandgrafieken lopen op met toenemend
+frequentieverschil met de draaggolf. Het “gat” tussen zijbanden en draaggolf is de 0-300
+Hz die niet wordt meegemoduleerd.
+De zijbanden bevatten samen half zoveel vermogen als de draaggolf. Bevat bijvoorbeeld de
+draaggolf 100 W, dan zit in elke zijband 25 W, samen 50 W. Het totale signaal bevat in dit
+voorbeeld 150 W. De informatie zit in de zijbanden, dus in 50 van de 150 W.
+12.3.6 Van AM naar dubbel- en enkelzijband
+In het voorbeeld zit de informatie in 50 van de 150 W. Die 50 W zit in 2 gespiegelde,
+maar verder identieke zijbanden met gelijke informatie-inhoud. Trek je conclusie over de
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+efficiëntie van AM. Figuur 12.3-3 laat zien wat daaraan te doen is.
+
+Frequentie→
+
+Frequentie→
+
+BZB
+(USB)
+
+Vermogen→
+
+Vermogen→
+
+Vermogen→
+
+OZB
+(LSB)
+
+Vermogen→
+
+DZB
+(DSB)
+
+AM
+
+Frequentie→
+
+Frequentie→
+
+Figuur 12.3-3. Van AM naar EZB met gestileerde spectra. AM zonder draaggolf wordt DZB. DZB zonder
+bovenste zijband wordt OZB (LSB, lower sideband) en DSB zonder onderste zijband wordt BZB (USB, Upper
+sideband).
+
+Links boven het vermogensspectrum van AM. Verwijder de draaggolf en je houdt twee
+zijbanden over. Dat is DZB, dubbelzijband. Engels: DSB, double sideband. Van de 150 W
+blijft 50 W over zonder informatieverlies, maar wel in twee banden met elk 25 W.
+Volgende stap: verwijder één van de twee zijbanden. Van 50 W naar 25 W zonder
+informatieverlies. Winst in bandbreedte: van 6 kHz naar 2,7 of 2,4 kHz. Minder dan de
+helft, want de “lege” 300 Hz tussen positie draaggolf en modulatie zit niet meer in de weg.
+Houd de laagste zijband over en het wordt OZB (onderste zijband) of LSB (lower
+sideband). Laat de hoogste zijband staan en het wordt BZB (bovenste zijband) of USB
+(upper sideband). De verzamelnaam voor OZB en BZB is EZB (enkelzijband). Voor USB
+en LSB is dat SSB (Single Sideband). Van 50 naar 25 W, een meer dan gehalveerde
+bandbreedte zonder informatieverlies. Gerekend vanaf AM: dezelfde hoeveelheid
+informatie in 1/6 van het vermogen bij een meer dan gehalveerde bandbreedte.
+PEP is ook voor DZB en EZB te berekenen. De werkwijze is dezelfde als voor AM.
+12.3.7 Modulatoren/mixers
+AM
+Een AM-modulator is nooit lineair. In een lineaire schakeling worden signalen opgeteld.
+Om AM te krijgen moeten ze worden vermenigvuldigd. De simpelste manier van AMmoduleren is via een kromme diode-, transistor-, buis- of FET-karakteristiek. Ook de
+oorspronkelijke frequenties komen daar weer uit, plus hun som- en verschilfrequenties.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+DZB
+Bij een enkel gebalanceerde modulator (mixer) verdwijnt één van de oorspronkelijke
+frequenties. In de praktijk is dat de draaggolffrequentie. De spraakfrequenties verdwijnen
+vanzelf in het eerste HF-filter. Zo ontstaat DZB. Het kan ook met een dubbel
+gebalanceerde mixer (DBM). Dan is de modulerende frequentie ook meteen weg.
+Bij een dubbel gebalanceerde modulator of mixer (DBM) blijven alleen de zijbanden over
+en verdwijnen alle oorspronkelijke frequenties. Vooral nuttig als twee hoogfrequente
+signalen moeten worden gemengd. Je houdt alleen de som- en verschilfrequentie over.
+EZB
+Als van DZB één van de twee zijbanden wordt verwijderd met een kristalfilter, ontstaat
+EZB, enkelzijband.
+12.3.8 Morse-telegrafie (CW)
+De basis van CW (afkorting van “Continuous Wave”) is afwisselende aan- en afwezigheid
+van een draaggolf (Figuur 12.3-4).
+2.00
+1.75
+1.50
+
+1
+
+1.25
+1.00
+0.75
+0.50
+0.25
+
+2
+
+0.00
+-0.25
+-0.50
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Figuur 12.3-4. Signaalvorm bij morse-telegrafie (CW). (1): bron (seinsleutel); (2) gemoduleerd signaal.
+
+Die wordt bewerkstelligd met een seinsleutel, vanouds een met de hand te bedienen
+schakelaar. CW is veel smalbandiger dan EZB. De scherpe overgangen tussen wel en geen
+draaggolf geven echter harmonischen die als sleutel”clicks” storing kunnen veroorzaken,
+ook op andere frequenties dan de gebruikte.
+De scherpe overgangen moeten worden gedempt om storing door sleutelclicks te
+voorkomen. Daarvoor wordt een laagdoorlaatfilter gebruikt. Het resultaat ziet er ongeveer
+uit als in Figuur 12.3-5.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+1
+
+2
+0.0
+
+Figuur 12.3-5. Signaalvorm bij CW met filtering. (1) bron; (2) gemoduleerd signaal.
+0
+
+12.3.9 Frequentiemodulatie (FM)
+Bij FM zit de informatie niet in de amplitude van het gemoduleerde signaal, maar in de
+frequentie. De frequentie varieert met de momentele waarde van het te moduleren
+signaal. De amplitude van een FM-signaal is daardoor constant. Kenmerkende grootheden
+zijn:
+De frequentiezwaai of kortweg “zwaai” f. Dat is het verschil tussen de
+draaggolffrequentie fd en de maximale frequentie fmax:
+∆𝑓 = 𝑓𝑚𝑎𝑥 − 𝑓𝑑
+Als fmax en fmin even ver van fd liggen, is de modulatie symmetrisch. Dan geldt ook
+∆𝑓 = 𝑓𝑑 − 𝑓𝑚𝑖𝑛
+De modulatie-index m (niet te verwarren met de modulatiediepte M bij AM) is de
+verhouding van de zwaai en de hoogste modulerende frequentie fi :
+𝑚=
+
+∆𝑓
+𝑓𝑖
+
+Bij een frequentiezwaai van 3 kHz en een modulerende frequentie van 1 kHz is m=3. Is de
+hoogste modulerende frequentie 3 kHz, dan is m=1.
+De bandbreedte B van een FM-signaal hangt af van m en fi. Als m niet groter is dan
+ongeveer 1 is, geldt bij benadering:
+𝐵 ≈ 2𝑓𝑖 (1 + 𝑚)
+Wie dat uitrekent voor een hoogste modulerende frequentie van 3 kHz en een zwaai van
+eveneens 3 kHz vindt 𝐵 ≈ 12 kHz. Dat is meer dan bij EZB of zelfs AM. Oorzaak: bij FM
+zijn er vele zijbanden op afstanden van hele veelvouden van de hoogste modulerende
+frequentie. Voor m=1 zijn dat er 2 aan weerskanten van de draaggolffrequentie, in totaal
+dus 4. Eigenlijk is het aantal zijbanden oneindig, maar bij FM geldt dat alleen de zijbanden
+worden geteld die 99% van het uitgezonden vermogen. Dat komt neer op -20 dB.
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+FM-modulatie komt tot stand in een spanninggestuurde oscillator. Veranderende
+stuurspanning (spraak bijvoorbeeld) geeft veranderende frequentie.
+In tegenstelling tot AM en daarvan afgeleide modulatievormen kan een frequentie voor
+FM ook tot stand komen door frequentievermenigvuldiging. Het meest gebruikelijk is
+moduleren in de oscillator door het LF-signaal via een varicap de oscillatiefrequentie te
+laten beïnvloeden. Daarna kan door vervorming van het signaal
+frequentievermenigvuldiging tot stand komen. Bedenk dat als een frequentie met een
+getal wordt vermenigvuldigd, de frequentiezwaai en daarmee ook de bandbreedte met
+datzelfde getal wordt vermenigvuldigd.
+12.3.10 Fasemodulatie (PM)
+Het verschil tussen PM en FM is dat de frequentie niet afhangt van de momentele waarde
+van het modulerende signaal, maar van de snelheid waarmee de momentele waarde van
+dat signaal verandert. Figuur 12.3-6 laat het zien.
+
+2
+
+U/amplitude
+
+AF-signaal
+1
+0
+-1
+-2
+2
+
+-0,5
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+2,5
+
+3,0
+
+3,5
+
+2,5
+
+3,0
+
+3,5
+
+2,5
+
+3,0
+
+3,5
+
+Fase van de modulatie / 
+
+U/amplitude
+
+FM-gemoduleerd signaal
+1
+0
+-1
+-2
+-0,5
+
+0,0
+
+0,5
+
+2
+
+1,0
+
+1,5
+
+2,0
+
+Fase van de modulatie / 
+
+U/amplitude
+
+PM-gemoduleerd signaal
+1
+0
+-1
+-2
+-0,5
+
+0,0
+
+0,5
+
+1,0
+
+1,5
+
+2,0
+
+Fase van de modulatie / 
+
+Figuur 12.3-6. Boven: AF-signaal. Midden: het AF-signaal FM gemoduleerd. Onder: AF-signaal, PM
+gemoduleerd.
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.3.11 Digitale modulaties: bitsnelheid en symboolsnelheid
+Voor we met modulatievormen beginnen eerst iets over de transportsnelheid van digitale
+data. Daarvoor bestaan twee eenheden. Dat zijn bits per seconde (bps) en symboolsnelheid
+baud (Bd). Als elk bit afzonderlijk wordt verstuurd, zijn Bd en bps gelijk.
+1 Mbps is dan hetzelfde als 1 MBd, 1 miljoen bits per seconde.
+Als de 1 miljoen bits per seconde worden verstuurd in pakketjes van 2, dan is de
+bitsnelheid nog steeds 1 Mbps, maar de symboolsnelheid 0,5 MBd. De 2 bits in 1 pakketje
+worden gezien als 1 symbool.
+Zitten er 4 bits in een symbool, dan moet het aantal bps door 4 worden gedeeld voor de
+symboolsnelheid. Dan is dus 1 Mbps = 250 kBd.
+In plaats van de term symboolsnelheid wordt ook tekensnelheid gebruikt.
+12.3.12 Frequency shift keying (FSK)
+FSK is digitale FM. Het ziet eruit als in Figuur 12.3-7.
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0.0
+
+1.0
+
+Zeile 483
+
+Zeile 443
+
+Zeile 403
+
+Zeile 363
+
+Zeile 323
+
+Zeile 283
+
+Zeile 243
+
+Zeile 203
+
+Zeile 163
+
+Zeile 123
+
+Zeile 83
+
+Zeile 43
+
+Zeile 3
+
+-1.0
+
+Figuur 12.3-7. FSK-modulatie. Digitaal signaal (rood) boven. Gemoduleerd signaal (blauw) onder.
+Frequentieverschillen zijn overdreven voorgesteld terwille van de duidelijkheid.
+
+De modulatie is vaak CW, maar kan ook een andere vorm van digitale codering zijn.
+Voordeel: de draaggolf wordt niet onderbroken zodat er vrijwel geen sleutelclicks zijn.
+Voor de bandbreedte B geldt bij benadering
+𝐵 ≈ 2(1,6𝑓𝑆 + ∆𝑓)
+Daarin is fs de tekensnelheid. 100 Bd en een zwaai van 1 kHz leidt tot een bandbreedte
+van 2(160 Hz + 1000 Hz) = 2320 Hz.
+12.3.13 Phase Shift Keying (2-PSK)
+Pij PSK geeft een faseverandering de verandering van een één of meer bits aan. De
+faseverandering is abrupt. De 2 in 2-PSK geeft aan dat er maar 2 waarden zijn. 1 bit dus.
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+De faseverandering is bij elke waardeverandering 180˚ Bitsnelheid is tekensnelheid. 2PSK ziet eruit als in Figuur 12.3-8
+2.0
+
+1
+
+1
+
+1
+
+1
+
+1.0
+
+1
+
+0.5
+
+1.5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.0
+
+1.0
+
+-0.5
+
+0.5
+
+-1.0
+-1.5
+
+0.0
+
+-2.0
+-0.5
+
+-2.5
+
+-1.0
+
+-3.0
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+Figuur 12.3-8. Voorbeeld van BPSK. Een 1 begint op 0 ºen een 0 op 180 º (). Het aantal sinusperioden per
+bit is meestal groter dan in de tekening.
+
+Bij 2-PSK is de bitsnelheid gelijk aan de teken- of symboolsnelheid. In vectordiagram:
+
+0
+180 ()
+
+0 ()
+0→1
+
+Figuur 12.3-9. BPSK of 2PSK in vectorvorm met fasesprongen 1→0 (rode stippellijn) en 0→1 (groene
+stippellijn).
+
+12.3.14 Quadrature Phase Shift Keying (Q-PSK of 4-PSK)
+4-PSK kent 4 fasesprongen in plaats van 2. Die zijn elk 90. Figuur 12.3-10 laat ze zien.
+00
+01
+11
+10
+00
+1.0
+0.5
+0.0
+-0.5
+-1.0
+0
+
+80
+
+160
+
+240
+
+320
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-15
+
+400
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+Figuur 12.3-10. De bitcombinaties 00, 01, 10, en 11 van QPSK. Let op de fasesprongen.
+
+Het vectordiagram en het constellatiediagram staan in Figuur 12.3-11.
+
+00 (45)
+
+01
+
+00
+
+11
+
+10
+
+se
+fa
+4
+
+fa
+se
+3
+
+2
+se
+fa
+
+fa
+se
+1
+
+01 (135)
+
+11 (225)
+
+10 (315)
+Vectordiagram
+
+Constellatiediagram
+
+Figuur 12.3-11. 4PSK (QPSK) in vectorvorm (links) en als constellatiediagram (rechts).
+
+Elke fasepositie betreft 2 bits en dekt daarom de getallen 00-11 (decimaal: 0-3). De
+tekensnelheiod (symboolsnelheid) is daarom de helft van de bitsnalheid.
+
+45
+
+
+13
+
+90
+
+1
+01
+
+00
+0
+
+010
+
+12.3.15 8-PSK
+8-PSK kent 8 vectorposities met faseverschillen van 45˚. Figuur 12.3-12 toont vector- en
+constellatiediagram.
+
+5
+
+0
+5
+1
+10
+100
+
+11
+0
+
+22
+
+001
+
+31
+
+270
+
+180
+5
+
+111
+
+Figuur 12.3-12. Vectordiagram (links) en constellatiediagram (rechts) van 8-PSK.
+
+Elke vectorpositie (fase) staat voor 3 bits (000 t/m 111). De tekensnelheid
+(symboolsnelheid) is daarom 1/3 van de bitsnelheid (of bitsnelheid is 3x tekensnelheid).
+12.3.16 Quadrature Amplitude Modulation (QAM).
+QAM is een mengvorm van digitale amplitude- en fasemodulatie. 8-QAM is een
+mengvorm van 4-PSK en 2 amplitudes. 4-PSK kent 4 verschillende fasetoestanden (2 bits),
+gecombineerd met 2 amplitudes, totaal 3 bits. We geven alleen het constellatiediagram
+(Figuur 12.3-13).
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+Figuur 12.3-13. Constellatiediagram van 8-QAM.
+
+De vier binnenste geven de vier mogelijkheden met kleine amplitude, de buitenste vier
+die met grote amplitude. Samen 8 mogelijkheden of 3 bits, zoals al opgemerkt. Ook hier is
+de bitsnelheid 3x de teken- of symboolsnelheid.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4 Opgaven
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.51 Opgave 12-51
+De spanning op de aansluitklemmen van een antenne wordt verhoogd van 10 naar 14 volt.
+De vermogenstoename komt ongeveer overeen met:
+A. 4 dB
+B. 3 dB
+C. 1,4 dB
+D. 6 dB
+(F-examen met spanning in mV: februari 2010 (2); met spanning in V: februari 2011,
+september 2014 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.52 Opgave 12-52
+Het zendvermogen van een zender wordt verlaagd van 16 naar 4 watt. Hierdoor zal de
+hoogfrequent stroom in de antenne:
+A. 2x zo klein worden
+B. 4x zo klein worden
+C. 16x zo klein worden
+D. 8x zo klein worden
+(F-examen maart 2010)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.53 Opgave 12-53
+Een zendereindtrap heeft een rendement van 60%. Bij een voedingspanning van 10 volt
+bedraagt de door de eindtrap opgenomen stroom 10 ampère.
+De coaxiale kabel naar de antenne geeft een vermogensverlies van 30%.
+Het aan de antenne afgegeven vermogen is:
+A. 28 W
+B. 42 W
+C. 18 W
+D. 12 W
+
+(F-examen mei 2010 (1), augustus 2010, mei 2014 (2),)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.54 Opgave 12-54
+De eindtrap van een transistorzender neemt van de voeding bij een spanning van 20 volt,
+1,5 ampère op. Het uitgangsvermogen van deze zender is 20 watt. Het rendement van de
+eindtrap is
+A. 66,6 %
+B. 50 %
+C. 33,3 %
+D. 75 %
+(F-examen september 2010 (1), september 2011 (1), mei 2013 (1), november 2014 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.55 Opgave 12-55
+Een zendereindtrap, ingesteld in klasse B, wordt maximaal uitgestuurd door een 100% in
+amplitude gemoduleerde draaggolf. Het uitgangsvermogen van de draaggolf is 100 watt.
+Als deze eindtrap maximaal wordt uitgestuurd door een enkelzijbandsignaal, bedraagt het
+uitgangsvermogen (PEP)
+A. 50 W
+B. 400 W
+C. 100 W
+D. 200 W
+(F-examen november 2008 (1), april 2009, mei 2009 (1), september 2009 (1), februari 2010
+(2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.56 Opgave 12-56
+Van een zender nemen de laatste twee trappen een stroom op van respectievelijk 100 mA
+en 1 A; de voedingsspanning is 10 V. Het rendement van elke trap is 50%. De versterking
+van de laatste trap is:
+A. 6 dB
+B. 10 dB
+C. 20 dB
+D. 3 dB
+
+(F-examen december 2012, november 2013 (2), mei 2017 (1), mei 2019 (1))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.57 Opgave 12-57
+De versterker heeft een rendement van 50%. Het aan de belastingsweerstand afgegeven
+vermogen is 18 watt.
+
+De toegevoerde gelijkstroom is:
+A. 1 A
+B. 4 A
+C. 2 A
+D. 0,5 A
+(F-examen mei 2010 (2), februari 2011, maart 2012)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.58 Opgave 12-58
+Van een transistoreindtrap is het stuurvermogen 1 W, het afgegeven vermogen is 4 W. De
+eindtrap neemt vanuit de voeding 1 A op bij een spanning van 10 V. Dan is:
+A. Het rendement 30% en de versterking 3 dB
+B. Het rendement 40% en de versterking 6 dB
+C. Het rendement 30% en de versterking 6 dB
+D. Het rendement 40% en de versterking 3 dB
+(F-examen augustus 2013)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.59 Opgave 12-59
+Achter een zender met een uitgangsvermogen van 5 watt wordt een versterker
+geschakeld, welke 20 watt afgeeft. Het zendvermogen zal toenemen met
+A. 12 dB
+B. 6 dB
+C. 9 dB
+D. 3 dB
+(F-examen april 2008, februari 2010 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.60 Opgave 12-60
+Een amplitude gemoduleerd signaal kan onvervormd worden versterkt door:
+A. Een frequentievermenigvuldiger
+B. Een lineaire versterker
+C. Een versterker in klasse C
+D. Een niet-lineaire versterker
+(F-examen voorjaar 2000)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.61 Opgave 12-61
+Een 100% amplitude gemoduleerd signaal kan lineair worden versterkt met:
+A. Een versterkertrap, ingesteld in klasse A
+B. Een begrenzertrap
+C. Een balansmodulator
+D. Een eindtrap ingesteld in klasse C
+(F-examen maart 2011 (1))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.62 Opgave 12-62
+Tussen antenne en zender wordt een aan de antenne aangepaste coaxiale kabel met een
+demping van 9 dB per 100 meter toegepast. Bij welke kabellengte is het aan de antenne
+toegevoerde vermogen ongeveer de helft van het zendvermogen?
+A. 100 meter
+B. 17 meter
+C. 33 meter
+D. 50 meter
+(F-examen november 2008 (1), juli 2011)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.63 Opgave 12-63
+Het signaal van een EZB-amateurzender heeft het volgende spectrum:
+
+Het vermogen van de rest-draaggolf is 10 milliwatt. Het vermogen van de zijband is:
+A. 100 mW
+B. 1 W
+C. 10 W
+D. 100 W
+(F-examenvoorjaar 2003, mei 2011 (1), november 2014 (1))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.64 Opgave 12-64
+Van een coaxiale kabel is de demping bij 14 MHz 12 dB/100 meter. De lengte van de kabel
+is 25 meter. Door de zender wordt bij 14 MHz een vermogen van 30 watt in de kabel
+gestuurd. In de kabel gaat verloren:
+A. 1,5 W
+B. 7,5 W
+C. 3 W
+D. 15 W
+(F-examen september 2010 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.65 Opgave 12-65
+Tussen twee versterkertrappen is een passief filter geschakeld.
+
+De totale versterking tussen A en B is:
+A. 280 dB
+B. 11,2 dB
+C. 20 dB
+D. 10 dB
+(F-examen april 2009, september 2018)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.66 Opgave 12-66
+
+In de verzwakker wordt gedissipeerd:
+A. 3 W
+B. 2 W
+C. 5 W
+D. 4 W
+(F-examen februari 2010 (1), juli 2010, mei 2014 (2), januari 2017, januari 2018, mei 2018
+(2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.67 Opgave 12-67
+Hoeveel vermogen wordt gedissipeerd in de verzwakker?
+
+A. 9 W
+B. 10 W
+C. 1
+D. 5 W
+(F-examen september 2014 (2), maart 2015)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.68 Opgave 12-68
+Tussen twee versterkertrappen is een passief filter geschakeld.
+
+De versterking tussen A en B is
+A. 15 dB
+B. 5 dB
+C. 500 dB
+D. 25 dB
+(F-examen januari 2010, mei 2015 (2), mei 2016 (1), september 2018)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.69 Opgave 12-69
+Deze versterker heeft een spanningsversterking van 8 maal en de ingangsweerstand is 50
+ohm.
+
+De vermogensversterking is:
+A. 8√2 maal
+B. 64 maal
+C. 400 maal
+D. 8 maal
+(F-examen mei 2016 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.70 Opgave 12-70
+Sleutelklikken kunnen worden verminderd door tussen de seinsleutel en de zender op te
+nemen:
+
+A. Schakeling 1
+B. Schakeling 4
+C. Schakeling 3
+D. Schakeling 2
+(F-examen december 2009, januari 2010, mei 2010 (1), juni 2010, september 2010 (1),
+maart 2013, mei 2013 (2), mei 2015 (2), september 2016, mei 2017 (1), september 2017,
+januari 2018)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.71 Opgave 12-71
+Welke van de volgende schakelingen is het meest geschikt voor
+frequentievermenigvuldiging?
+A. Een lineaire versterker
+B. Een versterker in klasse C
+C. Een oscillator
+D. Een mengtrap
+(F-examen najaar 1978)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.72 Opgave 12-72
+Een van de voordelen bij een zender voor frequentiemodulatie (FM) is:
+A. Dat alle versterkertrappen in klasse B of C kunnen worden ingesteld
+B. Dat de bandbreedte klein is
+C. Dat een grote stabiliteit van de zendfrequentie verkregen wordt
+D. Dat de draaggolf onderdrukt is, waardoor meer vermogen voor de zijbanden
+beschikbaar is
+(F-examen najaar 1975 )
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.73 Opgave 12-73
+Om de in het HF-spectrum ingenomen bandbreedte te beperken, wordt in de
+modulatieversterker van een EZB-zender een laagdoorlaat- en een hoogdoorlaatfilter
+opgenomen. De gebruikelijke afsnijfrequenties van deze filters bedragen:
+A. Hoogdoorlaat: fc 50 Hz;
+B. Hoogdoorlaat: fc 600 Hz;
+C. Hoogdoorlaat: fc 300 Hz;
+D. Hoogdoorlaat: fc 0 Hz;
+
+Laagdoorlaat: fc 15000 Hz
+Laagdoorlaat: fc 1800 Hz
+Laagdoorlaat: fc 3000 Hz
+Laagdoorlaat: fc 6000 Hz
+
+(F-examen najaar 2003, maart 2010)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.74 Opgave 12-74
+Een frequentieverdrievoudiger met een transistor wordt gestuurd met een 10 MHz
+signaal. In de collectorstroom zijn de volgende frequenties aanwezig:
+A. 15 MHz en 30 MHz
+B. 5 MHz en 15 MHz
+C. 10 MHz en 25 MHz
+D. 10 MHz en 30 MHz
+
+(F-examen maart 2009 (1), maart 2010, december 2010, maart 2011 (2), november 2018,
+november 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.75 Opgave 12-75
+Van een lineaire versterker kan worden gezegd:
+A. Deze wordt niet voor AM-gemoduleerde signalen toegepast
+B. Deze versterker heeft altijd een rendement van 50%
+C. De vorm van de uitgangsspanning is gelijk aan die van de ingangsspanning
+D. Deze wordt alleen voor FM-gemoduleerde signalen toegepast
+(F-examen november 2008 (1), oktober 2009, november 2010 (2), november 2014 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.76 Opgave 12-76
+Een amplitudegemoduleerd signaal kan onvervormd worden versterkt door
+A. Een versterker in klasse C
+B. Een frequentievermenigvuldiger
+C. Een lineaire versterker
+D. Een niet-lineaire versterker
+(F-examen voorjaar 2003, september 2009 (1))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.77 Opgave 12-77
+Als een niet-lineaire zenderversterker gebruikt wordt voor EZB-telefonie, dan:
+A. Wordt de verstaanbaarheid verbeterd
+B. Wordt de bandbreedte kleiner
+C. Ontstaat er vervorming
+D. Wordt de zijband omgekeerd
+(F-examen juni 2009, november 2013 (2), mei 2018 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.78 Opgave 12-78
+Een voorversterker voor de 2 meter amateurband heeft minimaal een bandbreedte van:
+A. 146 MHz
+B. 2 meter
+C. 144 MHz
+D. 2 MHz
+(F-examen juni 2009, september 2011 (2), mei 2012 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.79 Opgave 12-79
+
+Welke karakteristiek hoort bij een VHF-voorversterker?
+A. Karakteristiek 4
+B. Karakteristiek 3
+C. Karakteristiek1
+D. Karakteristiek 2
+(F-examen mei 2011 (2), mei 2012 (1), augustus 2013, januari 2017, september 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.80 Opgave 12-80
+In een versterker wordt de 80 meter amateurband (3,5 – 3,8 MHz) in zijn geheel versterkt.
+De bandbreedte van deze versterker moet minimaal zijn:
+A. 600 kHz
+B. 3,8 MHz
+C. 3,5 MHz
+D. 300 kHz
+(F-examen najaar 2006, november 2010 (1), januari 2015)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.81 Opgave 12-81
+
+Dit is een schema van
+A. Een balansmodulator
+B. Een LF-eindversterker
+C. Een frequentiemodulator
+D. Een HF-eindversterker
+(F-examen november 2010 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.82 Opgave 12-82
+
+Deze vermogensversterker is geschikt voor:
+A. Morsetelegrafie (draaggolf aan/uit)
+B. Amplitudemodulatie (0-100% modulatie)
+C. Enkelzijbandmodulatie zonder draaggolf
+D. Dubbelzijbandmodulatie zonder draaggolf
+(F-examen voorjaar 2001, mei 2011 (1))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.83 Opgave 12-83
+Voor een EZB-zender geldt:
+A. De trappen na de balansmodulator moeten in klasse A of B worden ingesteld
+B. De zendereindtrap mag in klasse C worden ingesteld
+C. Er kan geen frequentietransformatie worden toegepast
+D. In de trappen na de balansmodulator mag frequentievermenigvuldiging worden
+toegepast
+(F-examen najaar 2001, februari 2009, september 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.84 Opgave 12-84
+Een zendereindtrap, bedoeld voor het verwerken van een enkelzijbandsignaal, wordt voor
+een zo hoog mogelijk rendement ingesteld in:
+A. De klasse heeft geen invloed op het rendement
+B. Klasse B
+C. Klasse A
+D. Klasse C
+(F-examen januari 2009, maart 2019, november 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.85 Opgave 12-85
+Voor een telegrafiezender (A1A) geldt:
+A. Alle trappen kunnen in klasse C worden ingesteld
+B. De frequentiestabiliteit is niet belangrijk omdat er geen spraakmodulatie wordt
+toegepast
+C. Er kan alleen in de eindtrap worden gesleuteld
+D. De bandbreedte van het uitgezonden signaal is nul hertz.
+(F-examen voorjaar 2002, november 2009, maart 2013, januari 2015, mei 2017 (2),
+september 2017)
+Opmerking: Laat je niet van je stuk brengen door de A1A in de vraagstelling. Het is een
+van de zogenoemde klassen van uitzending die in Hoofdstuk 18 worden behandeld. A1A
+is morsetelegrafie (CW).
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.86 Opgave 12-86
+Voor het versterken met een zo hoog mogelijk rendement van een CW-telegrafiesignaal
+wordt de zendereindtrap ingesteld in
+A. Klasse C
+B. Klasse B
+C. Klasse A/B
+D. Klasse A
+(F-examen mei 2009 (1), december 2010), mei 2013 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.87 Opgave 12-87
+Voor het versterken met zo hoog mogelijk rendement van een morse-telegrafiesignaal
+moet de zendereindtrap worden ingesteld in:
+A. Klasse B
+B. Klasse A
+C. Klasse C
+D. Klasse A/B
+(F-examen januari 2009, juni 2011, november 2014 (1, 2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.88 Opgave 12-88
+Een eindtrap van een frequentie-gemoduleerde zender wordt voor een zo hoog mogelijk
+rendement ingesteld in:
+A. Klasse C
+B. Klasse B
+C. Klasse A
+D. Klasse AB
+(F-examen november 2012)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.89 Opgave 12-89
+De kans dat een zender te veel harmonischen uitstraalt is het grootst als de eindtrap wordt
+ingesteld in
+A. Klasse A
+B. Klasse B
+C. Klasse C
+D. Klasse AB
+(F-examen najaar 2005, maart 2017, mei 2019 (2))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.90 Opgave 12-90
+Een HF-versterker, bedoeld voor het versterken van een frequentie-gemoduleerd signaal,
+wordt voor een zo hoog mogelijk rendement ingesteld in:
+A. Klasse A/B
+B. Klasse B
+C. Klasse A
+D. Klasse C
+(F-examen februari 2020 (2), mei 2011 (2), maart 2012, mei 2012 (1), januari 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.91 Opgave 12-91
+Een specifieke modulatievorm voor digitale signalen is:
+Variant 1
+
+Variant 2
+
+A. AM
+B. 2-PSK
+C. EZB (SSB)
+D. FM
+
+A. DAC
+B. 2-PSK
+C. ADC
+D. PEP
+
+(Variant 1: F-examen november 2008 (1), december 2010, mei 2013 (2); Variant 2: Fexamen januari 2017, mei 2018 (1))
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.92 Opgave 12-92
+Een bitstroom wordt in FSK gemoduleerd met een shift van 170 Hz en een
+symboolsnelheid van 50 baud. De benodigde bandbreedte van het uitgezonden signaal is
+in de praktijk:
+A. 170 Hz
+B. 50 Hz
+C. 250 Hz
+D. 8500 Hz
+F-examen december 2008, maart 2009 (2), maart 2013)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.93 Opgave 12-93
+Een bitstroom wordt in 4-PSK gemoduleerd. Als de bitsnelheid 4800 bits/sec is, is de
+symboolsnelheid
+A. 1200 baud
+B. 2400 baud
+C. 4800 baud
+D. 9600 baud
+(F-examen februari 2009, november 2016)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.94 Opgave 12-94
+Welke afkorting wijst op fasemodulatie door een digitaal signaal?
+A. CW
+B. FM
+C. EZB
+D. 2-PSK
+(F-examen september 2009 (1), mei 2010 (1)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.95 Opgave 12-95
+Een bitstroom wordt in 16-QAM gemoduleerd. Als de bitsnelheid 9600 bits/s is, is de
+symboolsnelheid:
+A. 2400 baud
+B. 600 baud
+C. 38400 baud
+D. 9600 baud
+(F-examen maart 2009 (1), april 2009)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.96 Opgave 12-96
+Bij de modulatiewijze QAM waarbij 16 toestanden worden onderscheiden, is het aantal
+bits per symbool:
+A. 16
+B. 4
+C. 2
+D. 8
+(F-examen maart 2009 (2), januari 2010, december 2010, maart 2015)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.97 Opgave 12-97
+In het ASCII-alfabet wordt elk teken weergegeven door 7 bits. Aan elk teken wordt een
+pariteitsbit toegevoegd. Een tekst van 6000 ASCII-tekens wordt in 1 minuut verzonden.
+De bitsnelheid is:
+A. 700 b/s
+B. 48000 b/s
+C. 800 b/s
+D. 100 b/s
+(F-examen mei 2009 (2), februari 2010 (1), september 2015)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.98 Opgave 12-98
+De ontvangst van frequentie-gemoduleerde signalen is weinig gevoelig voor vonkstoring,
+omdat in FM-ontvangers
+A. Frequentie-transformatie plaatsvindt
+B. Amplitude-begrenzing wordt toegepast
+C. Automatische frequentie-bijregeling wordt toegepast
+D. Automatische volumeregeling wordt toegepast
+(F-examen september 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.99 Opgave 12-99
+Aan de modulator van een zender wordt een bitstroom toegevoerd. Als een bit een
+waarde 1 heeft, wordt de frequentie van het uitgezonden signaal 170 Hz lager dan
+wanneer het de waarde 0 heeft. Deze modulatie heet:
+A. QAM
+B. FSK
+C. 4-PSK
+D. 2-PSK
+(F-examen september 2019, november 2019)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.4.100 Opgave 12-100
+De Engelse afkorting “CRC” wordt gebruikt voor
+A. De modulatiemethode van een VCO
+B. De foutdetectie in packetradio systemen
+C. Het aangeven van de capaciteit van een batterij
+D. Het in serie schakelen van twee condensatoren en een weerstand
+(F-examen augustus 2009, augustus 2010, maart 2016)
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5 Uitwerkingen
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.51 Uitwerking van Opgave 12-51
+De spanning op de aansluitklemmen van een antenne wordt verhoogd van 10 naar 14 volt.
+De vermogenstoename komt ongeveer overeen met:
+A. 4 dB
+B. 3 dB
+C. 1,4 dB
+D. 6 dB
+Uitwerking
+Vermogen is evenredig met het kwadraat van de spanning. Als de spanning met een factor
+14⁄ = 1,4 ≈ √2 omhooggaat, gaat daarom het vermogen met een factor 2 omhoog. In
+10
+dB is dat 10log 2=3 dB. Antwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.52 Uitwerking van Opgave 12-52
+Het zendvermogen van een zender wordt verlaagd van 16 naar 4 watt. Hierdoor zal de
+hoogfrequent stroom in de antenne:
+A. 2x zo klein worden
+B. 4x zo klein worden
+C. 16x zo klein worden
+D. 8x zo klein worden
+Uitwerking
+Net als spanning is stroom evenredig met het kwadraat van het vermogen. Omgekeerd:
+het vermogen is evenredig met de wortel uit de stroom. Als het vermogen met een factor
+4 omlaaggaat, dan gaat de stroom met een factor √4 = 2 omlaag. Dat draait uit op
+antwoord A.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.53 Uitwerking van Opgave 12-53
+Een zendereindtrap heeft een rendement van 60%. Bij een voedingspanning van 10 volt
+bedraagt de door de eindtrap opgenomen stroom 10 ampère.
+De coaxiale kabel naar de antenne geeft een vermogensverlies van 30%.
+Het aan de antenne afgegeven vermogen is:
+A. 28 W
+B. 42 W
+C. 18 W
+D. 12 W
+Uitwerking
+Dit is een kwestie van rekenen. Het vermogen dat de eindtrap ingaat is 10 V maal 10 A is
+100 W. 60% gaat richting antenne, dat is 0,6 maal 100 W is 60 W. In de antennekabel
+verdwijnt daarvan 30%, zodat 70% van 60 W is 42 W bij de antenne aankomt, of in
+bewoordingen van de opgave, aan de antenne wordt afgegeven. Dat is antwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.54 Uitwerking van Opgave 12-54
+De eindtrap van een transistorzender neemt van de voeding bij een spanning van 20 volt,
+1,5 ampère op. Het uitgangsvermogen van deze zender is 20 watt. Het rendement van de
+eindtrap is
+A. 66,6 %
+B. 50 %
+C. 33,3 %
+D. 75 %
+Uitwerking
+We kunnen hier het beste maar meteen gaan rekenen. Het vermogen dat de eindtrap
+ingaat, is 20 V maal 1,5 A is 30 W. Er komt 20 W aan HF-vermogen weer uit, dus het
+rendement is 20 𝑊⁄30 𝑊 = 0,6666 … . .6 ≈ 66,7 %. Dat is antwoord A, al is het niet
+helemaal netjes afgerond.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.55 Uitwerking van Opgave 12-55
+Een zendereindtrap, ingesteld in klasse B, wordt maximaal uitgestuurd door een 100% in
+amplitude gemoduleerde draaggolf. Het uitgangsvermogen van de draaggolf is 100 watt.
+Als deze eindtrap maximaal wordt uitgestuurd door een enkelzijbandsignaal, bedraagt het
+uitgangsvermogen (PEP)
+A. 50 W
+B. 400 W
+C. 100 W
+D. 200 W
+
+Uitwerking
+Hier wordt van AM-draaggolfvermogen overgesprongen op PEP bij EZB. Het vermogen
+van een draaggolf bij AM is gebaseerd op gemiddelde amplitude. De maximale amplitude
+is bij 100% modulatiediepte 2x de gemiddelde amplitude. Als er EZB wordt uitgezonden
+via dezelfde zender is de maximale amplitude ook dezelfde, want de zender verandert
+niet. Maximale amplitude 2x zo groot als gemiddeld, betekent maximaal vermogen 4x zo
+groot, want amplitude is gebaseerd op spanning. Vermogen is evenredig met het kwadraat
+van de spanning, dus de 2x zo grote spanningsamplitude wordt 4x zoveel vermogen.
+Dit alles draait uit op antwoord B
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.56 Uitwerking van Opgave 12-56
+Van een zender nemen de laatste twee trappen een stroom op van respectievelijk 100 mA
+en 1 A; de voedingsspanning is 10 V. Het rendement van elke trap is 50%. De versterking
+van de laatste trap is:
+A. 6 dB
+B. 10 dB
+C. 20 dB
+D. 3 dB
+
+Uitwerking
+We moeten van vermogensverbruik en rendement van de (voor)versterker naar de
+versterking van de eindversterker zien te komen.
+De voorveersterker neemt 0,1 A maal 10 V is 1 W aan vermogen op. 50% rendement
+betekent dat de versterkertrap daarvan de helft, dat is 0,5 W doorgeeft aan de
+eindversterker.
+De eindversterker neemt 10 V maal 1 A is 10 W aan vermogen op. Bij een rendement van
+opnieuw 50% levert de eindversterker 5 W naar de antenne.
+0,5 W in en 5 W uit is een vermogensversterking van 10x. dat is in dB 10log 10. Log 10 =
+1. 10 log 10 = dus 10. De vermogensversterking is dan 10 dB. Antwoord B.
+Opmerking 1
+Het kan korter. Beide versterkertrappen worden gevoed met 10 V en hebben hetzelfde
+rendement van 50%. Dan verhouden de uitgangsvermogens zich als de voedingsstromen
+en komt uit de eindversterker 10x zoveel vermogen als uit de voorversterker. Ook dat is
+10 dB.
+Opmerking 2
+De oscillator hangt er voor spek en bonen bij. Daar had elke andere HF-bron, bijvoorbeeld
+een modulator, kunnen staan. Of alleen een HF-ingang.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.57 Uitwerking van Opgave 12-57
+De versterker heeft een rendement van 50%. Het aan de belastingsweerstand afgegeven
+vermogen is 18 watt.
+
+De toegevoerde gelijkstroom is:
+A. 1 A
+B. 4 A
+C. 2 A
+D. 0,5 A
+Uitwerking
+De transistor wordt gevoed met 18 V. De versterker levert 18 W aan de
+belastingsweerstand R bij een rendement van 50%. Dan moet de transistor 2 maal 18 W is
+36 W opnemen. Bij een voedingsspanning van 18 V is dat 36 W⁄18 V = 2 A. Antwoord C
+dus.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.58 Uitwerking van Opgave 12-58
+Van een transistoreindtrap is het stuurvermogen 1 W, het afgegeven vermogen is 4 W. De
+eindtrap neemt vanuit de voeding 1 A op bij een spanning van 10 V. Dan is:
+A. Het rendement 30% en de versterking 3 dB
+B. Het rendement 40% en de versterking 6 dB
+C. Het rendement 30% en de versterking 6 dB
+D. Het rendement 40% en de versterking 3 dB
+Uitwerking
+Als de eindtrap van 1 W input 4 W output maakt, is de vermogensversterking 4. Log 4 is
+0,6. 10 maal 0,6 is 6, dus de vermogensversterking is 6 dB. Daarmee houden we de
+antwoorden B en C over.
+Nu voor de finale naar het rendement. De eindtrap neemt 1 A op bij een
+voedingsspanning van 10 V. Er komt dus 10 W uit de voeding (1 A maal 10 V). Die 10 W
+leidt tot 4 W aan HF-output, dat is een rendement van 4⁄10 = 0,4 = 40%. De winnaar is
+antwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.59 Uitwerking van Opgave 12-59
+Achter een zender met een uitgangsvermogen van 5 watt wordt een versterker
+geschakeld, welke 20 watt afgeeft. Het zendvermogen zal toenemen met
+A. 12 dB
+B. 6 dB
+C. 9 dB
+D. 3 dB
+Uitwerking
+De vermogenstoename is een factor 4. In de vorm van een vergelijking:
+𝑃𝑖𝑛
+5
+=
+=4
+𝑃𝑢𝑖𝑡 20
+In dB wordt dat. Antwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.60 Uitwerking van Opgave 12-60
+Een amplitude gemoduleerd signaal kan onvervormd worden versterkt door:
+A. Een frequentievermenigvuldiger
+B. Een lineaire versterker
+C. Een versterker in klasse C
+D. Een niet-lineaire versterker
+Uitwerking
+Een 100% gemoduleerd AM-signaal moet lineair worden versterkt. Anders wordt de
+modulatie vervormd. Dat is gemakkelijk in te zien als we bedenken dat de omhullende de
+modulatie is plus de verticaal gespiegelde modulatie. Bij gelijkrichting blijft één van de
+twee over. Een vervormd AM-signaal betekent een vervormde omhullende en dus een
+vervormde modulatie. Er is maar één antwoord dat leidt tot een (vrijwel) onvervormd
+signaal en dat is antwoord B.
+Opmerking 1
+De lineaire versterker zal een versterker in klasse A zijn, of één in klasse B of AB, maar
+dan in balansuitvoering, zodat de positieve periodehelft door de ene versterkerhelft wordt
+versterkt en de negatieve door de andere.
+Opmerking 2
+Voor AM met een modulatiediepte van 100 % (𝑀 = 1) geldt de uitwerking hierboven.
+Maar voor 𝑀 < 1, bijvoorbeeld 0,5 of 0,7, zou zelfs klasse C kunnen worden toegepast,
+zolang alles binnen de oorspronkelijke omhullende maar redelijk boven de onderkant ligt
+van wat nog versterkt wordt. Dus niet (letterlijk) tot op het randje. Bij deze opgave had
+dus eigenlijk de modulatiediepte moeten worden vermeld. In Opgave 12-61 is dat wel het
+geval.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.61 Uitwerking van Opgave 12-61
+Een 100% amplitude gemoduleerd signaal kan lineair worden versterkt met:
+A. Een versterkertrap, ingesteld in klasse A
+B. Een begrenzertrap
+C. Een balansmodulator
+D. Een eindtrap ingesteld in klasse C
+Uitwerking
+Net als in de vorige vraag geldt voor een 100% AM-gemoduleerd signaal dat het, om geen
+vervorming van het erop gemoduleerde LF-signaal te krijgen, een lineaire versterker
+nodig heeft. Een klasse A-versterker voldoet aan die eis; de andere drie antwoorden niet.
+Opmerkingen
+Net als bij het antwoord van Opgave 12-60 kan ook hier een balansversterker in klasse B
+worden gebruikt voor meer vermogensrendement. De daar gemaakte opmerking over een
+klasse B- of klasse AB-versterker geldt hier ook
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.62 Uitwerking van Opgave 12-62
+Tussen antenne en zender wordt een aan de antenne aangepaste coaxiale kabel met een
+demping van 9 dB per 100 meter toegepast. Bij welke kabellengte is het aan de antenne
+toegevoerde vermogen ongeveer de helft van het zendvermogen?
+A. 100 meter
+B. 17 meter
+C. 33 meter
+D. 50 meter
+Uitwerking
+De vraag is, bij welke kabellengte 0,5 maal het oorspronkelijke zendvermogen over is. In
+dB is dat 10 ∗ log(0,5) = −3 dB. Dat is 1/3 van de -9 dB per 100 meter. Daarvoor moet de
+kabel ook 1/3 van 100 m lang zijn, dus afgerond 33 m. Antwoord C is dan ook het juiste
+antwoord.
+Opmerking
+Het aanpassen van kabels aan antennes, waarvan in dit vraagstuk sprake is, zullen we in
+Hoofdstuk 14 bespreken.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.63 Uitwerking van Opgave 12-63
+Het signaal van een EZB-amateurzender heeft het volgende spectrum:
+
+Het vermogen van de rest-draaggolf is 10 milliwatt. Het vermogen van de zijband is:
+A. 100 mW
+B. 1 W
+C. 10 W
+D. 100 W
+Uitwerking
+Het vermogensverschil tussen restdraaggolf en zijband is 40 dB - 30 dB =10 dB in het
+voordeel van de zijband, zoals uit de grafiek valt op te maken. Dan verhouden
+zijbandvermogen Pz en het restdraaggolfvermogen Pd zich
+𝑃𝑧
+𝑃𝑧
+10 ∗ log ( ) = 10 → log ( ) = 1
+𝑃𝑑
+𝑃𝑑
+Dan geldt
+𝑃𝑧
+( ) = 101 = 10 → 𝑃𝑧 = 10𝑃𝑑
+𝑃𝑑
+En is Pz=10 maal 10 mW is 100 mW. Antwoord A.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.64 Uitwerking van Opgave 12-64
+Van een coaxiale kabel is de demping bij 14 MHz 12 dB/100 meter. De lengte van de kabel
+is 25 meter. Door de zender wordt bij 14 MHz een vermogen van 30 watt in de kabel
+gestuurd. In de kabel gaat verloren:
+A. 1,5 W
+B. 7,5 W
+C. 3 W
+D. 15 W
+Uitwerking
+Bij een lengte van 25 m in plaats van 100 m is de demping in de kabel 25⁄100 van 12 dB is
+3 dB, dus een versterking van -3 dB. Dat betekent dat het vermogen dat de kabel ingaat,
+wordt gehalveerd. Er blijft 15 W over en er gaat 30 W-15 W=15 W verloren. Antwoord
+D.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.65 Uitwerking van Opgave 12-65
+Tussen twee versterkertrappen is een passief filter geschakeld.
+
+De totale versterking tussen A en B is:
+A. 280 dB
+B. 11,2 dB
+C. 20 dB
+D. 10 dB
+Uitwerking
+Een passief filter is een filter zonder versterkende elementen. Het hoogdoorlaatfilter
+(schemasymbool in Hoofdstuk 5) moet dus wel 5 dB verzwakken, al staat er geen
+minteken bij. De totale versterking komt dan uit op 7 dB – 5 dB + 8 dB = 10 dB. Dat is
+antwoord D.
+Opmerkingen
+Antwoord A krijgt degene die alle dB-waarden met elkaar vermenigvuldigt. dB-waarden
+moet je optellen.
+Antwoord C krijgt degene die alles optelt zonder te beseffen dat een passief filter niet kan
+versterken.
+En antwoord B? Wie het weet, mag het zeggen.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.66 Uitwerking van Opgave 12-66
+
+In de verzwakker wordt gedissipeerd:
+A. 3 W
+B. 2 W
+C. 5 W
+D. 4 W
+Uitwerking
+De verzwakker krijgt 6 W binnen. Dissipatie neemt 3 dB, dat is de helft. Van de 6 W
+wordt dus 3 W gedissipeerd. Antwoord A.
+Opmerkingen
+De belasting is voor wat betreft de vraag niet meer dan een afleidingsmanoeuvre,
+schijnbeweging, of hoe je het ook wilt noemen. Dat een verzwakker met een impedantie
+van 75  netjes met 75  wordt afgesloten is mooi, maar voor de beantwoording van de
+vraag geheel overbodig.
+De 3 dB in de verzwakker heeft geen minteken. Dat hoeft ook niet, want een verzwakker
+verzwakt. Het aantal dB’s is dan per definitie negatief.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.67 Uitwerking van Opgave 12-67
+Hoeveel vermogen wordt gedissipeerd in de verzwakker?
+
+A. 9 W
+B. 10 W
+C. 1
+D. 5 W
+Uitwerking
+De verzwakker brengt de 10 W input terug naar 1 W (deelt door 10). De 10 dB hoeft geen
+minteken, want bij een verzwakker spreekt dat vanzelf. Van de 10 W input blijft 1 W
+output over. Dat houdt in dat 9 W in warmte (en hopelijk niet in rook) opgaat. Dat is
+antwoord A.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.68 Uitwerking van Opgave 12-68
+Tussen twee versterkertrappen is een passief filter geschakeld.
+
+De versterking tussen A en B is
+A. 15 dB
+B. 5 dB
+C. 500 dB
+D. 25 dB
+Uitwerking
+Een passief filter bevat geen versterkende elementen. De 5 dB moet dus verzwakking zijn.
+Het minteken ontbreekt omdat dit vanzelfsprekend is. Daarmee krijgen we de optelling
+10 dB -5 dB + 10 dB = 15 dB. Antwoord A is daarmee het juiste.
+Opmerking
+Deze opgave lijkt sterk op Opgave 12-65. Alleen de getallen zijn anders.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.69 Uitwerking van Opgave 12-69
+Deze versterker heeft een spanningsversterking van 8 maal en de ingangsweerstand is 50
+ohm.
+
+De vermogensversterking is:
+A. 8√2 maal
+B. 64 maal
+C. 400 maal
+D. 8 maal
+Uitwerking
+De ingangsweerstand en de uitgangsweerstand zijn gelijk. Dat bespaart ons het omrekenen
+naar vermogen op in- en uitgang. Als de spanningsversterking 8 maal is, dan is de
+2
+vermogensversterking 82 = 64 maal, want 𝑃 = 𝑈 ⁄𝑅 en R is op in- en uitgang dezelfde.
+Antwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.70 Uitwerking van Opgave 12-70
+Sleutelklikken kunnen worden verminderd door tussen de seinsleutel en de zender op te
+nemen:
+
+A. Schakeling 1
+B. Schakeling 4
+C. Schakeling 3
+D. Schakeling 2
+
+Uitwerking
+Doordat sleutelklikken een scherpe flank hebben, veroorzaken ze harmonischen.Die zijn
+te verminderen door tussen seinsleutel en zender een laagdoorlaatfilter op te nemen. Wie
+de figuur even op zich laat inwerken, ziet drie schakelingen met de condensator in de
+baan van het signaal en één met de condensator parallel aan de seinsleutelaansluiting van
+de zender. Die laatste, schakeling 1, is het enige laagdoorlaatfilter in het viertal; de andere
+drie zijn hoogdoorlaatfilters. Dan is de keus niet moeilijk: antwoord A.
+Opmerking
+De condensator evenwijdig aan de seinsleutel zorgt ervoor dat de flank van het
+seinsleutelsignaal wordt afgerond.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.71 Uitwerking van Opgave 12-71
+Welke van de volgende schakelingen is het meest geschikt voor
+frequentievermenigvuldiging?
+A. Een lineaire versterker
+B. Een versterker in klasse C
+C. Een oscillator
+D. Een mengtrap
+Uitwerking
+Voor frequentievermenigvuldiging is een schakeling nodig die flink wat harmonischen
+produceert. Een lineaire versterker produceert ze juist zo min mogelijk. Dat geldt
+doorgaans ook voor een oscillator. Een mengtrap zou een tweede harmonische kunnen
+produceren als je hem voorziet van 2x dezelfde frequentie. Maar de echte producent van
+harmonischen in het rijtje is de versterker in klasse C. Antwoord B dus.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.72 Uitwerking van Opgave 12-72
+Een van de voordelen bij een zender voor frequentiemodulatie (FM) is:
+A. Dat alle versterkertrappen in klasse B of C kunnen worden ingesteld
+B. Dat de bandbreedte klein is
+C. Dat een grote stabiliteit van de zendfrequentie verkregen wordt
+D. Dat de draaggolf onderdrukt is, waardoor meer vermogen voor de zijbanden
+beschikbaar is
+Uitwerking
+Een voordeel van FM is dat bij het ontwerpen van de versterkertrappen geen rekening
+hoeft te worden gehouden met informatie in de amplitude, want die zit daar niet in. Die
+zit in de frequentie. Zolang de frequentie niet wordt aangetast, is er weinig aan de hand.
+Dat betekent dat versterkertrappen flink mogen vervormen, want de vervorming gaat niet
+in de frequentie zitten. Dat klinkt naar antwoord A.
+We lopen toch de andere drie antwoorden even na. Kleine bandbreedte (antwoord B) is
+onzin; de bandbreedte is zelfs bij AM kleiner. Ook antwoord C klopt niet, want de
+frequentiestabiliteit zit hem in de oscillator. Of je daar FM uit haalt of een frequentie om
+AM of EZB van te maken, maakt voor de stabiliteit niets uit. Antwoord D is het gekste
+van allemaal, want bij FM hebben de zijbanden niets met de draaggolf te maken, maar met
+de modulatie-index. Kortom, antwoord A blijft staan als het enige juiste antwoord.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.73 Uitwerking van Opgave 12-73
+Om de in het HF-spectrum ingenomen bandbreedte te beperken, wordt in de
+modulatieversterker van een EZB-zender een laagdoorlaat- en een hoogdoorlaatfilter
+opgenomen. De gebruikelijke afsnijfrequenties van deze filters bedragen:
+A. Hoogdoorlaat: fc 50 Hz;
+B. Hoogdoorlaat: fc 600 Hz;
+C. Hoogdoorlaat: fc 300 Hz;
+D. Hoogdoorlaat: fc 0 Hz;
+
+Laagdoorlaat: fc 15000 Hz
+Laagdoorlaat: fc 1800 Hz
+Laagdoorlaat: fc 3000 Hz
+Laagdoorlaat: fc 6000 Hz
+
+Uitwerking
+De laagfrequent-bandbreedte van een EZB-zender ligt veelal tussen 300 Hz en 3000 Hz.
+Dat betekent antwoord C. Meer valt er niet over te zeggen.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.74 Uitwerking van Opgave 12-74
+Een frequentieverdrievoudiger met een transistor wordt gestuurd met een 10 MHz
+signaal. In de collectorstroom zijn de volgende frequenties aanwezig:
+A. 15 MHz en 30 MHz
+B. 5 MHz en 15 MHz
+C. 10 MHz en 25 MHz
+D. 10 MHz en 30 MHz
+
+Uitwerking
+In een frequentievermenigvuldiger worden harmonischen van de aansturingsfrequentie
+opgewekt. Een harmonische is een geheel veelvoud van de grondfrequentie. In dit geval is
+die laatste de aansturingsfrequentie van 10 MHz. Ook de grondfrequentie zal in de
+collectorstroom aanwezig zijn. In de antwoorden A, B en C komen frequenties voor die
+eindigen op een 5. Die kunnen geen harmonische van 10 MHz zijn. Dan blijft antwoord D
+over, waarin de grondfrequentie van 10 MHz en de derde harmonische, 30 MHz, wordt
+genoemd. Dat is dan ook het juiste antwoord.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.75 Uitwerking van Opgave 12-75
+Van een lineaire versterker kan worden gezegd:
+A. Deze wordt niet voor AM-gemoduleerde signalen toegepast
+B. Deze versterker heeft altijd een rendement van 50%
+C. De vorm van de uitgangsspanning is gelijk aan die van de ingangsspanning
+D. Deze wordt alleen voor FM-gemoduleerde signalen toegepast
+Uitwerking
+Een lineaire versterker versterkt spanningen/stromen binnen zijn bereik voor elke waarde
+evenveel. 2x zoveel in = 2x zoveel uit. Daardoor is de vorm van de uitgangsspanning gelijk
+aan die van de ingangsspanning.
+Antwoord C.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.76 Uitwerking van Opgave 12-76
+Een amplitudegemoduleerd signaal kan onvervormd worden versterkt door
+A. Een versterker in klasse C
+B. Een frequentievermenigvuldiger
+C. Een lineaire versterker
+D. Een niet-lineaire versterker
+Uitwerking
+Een amplitudegemoduleerd signaal moet lineair worden versterkt. Lineair betekent dat
+het uitgangssignaal dezelfde vorm heeft als het ingangssignaal. Je kunt ook zeggen dat het
+uitgangssignaal een -meestal vergrote- kopie is van het ingangssignaal.
+Bij AM is dat belangrijk, omdat de informatie in de amplitude en de amplitudeverandering
+zit. Dat betekent antwoord C.
+Opmerkingen
+Een frequentievermenigvuldiger komt niet in aanmerking, want die is gebaseerd op Deze
+opgave lijkt als twee druppels water op Opgave 12-60, op de volgorde van de antwoorden
+na. De bij de uitwerking ervan gemaakte opmerkingen zijn ook hier van toepassing.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.77 Uitwerking van Opgave 12-77
+Als een niet-lineaire zenderversterker gebruikt wordt voor EZB-telefonie, dan:
+A. Wordt de verstaanbaarheid verbeterd
+B. Wordt de bandbreedte kleiner
+C. Ontstaat er vervorming
+D. Wordt de zijband omgekeerd
+Uitwerking
+Elke niet-lineaire versterker levert vervorming. Dan kunnen we kort zijn over het juiste
+antwoord: C
+Opmerkingen
+Vervorming leidt tot verslechtering van verstaanbaarheid als het om spraak gaat. De
+bandbreedte wordt door de ontstane intermodulatieproducten groter in plaats van kleiner.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.78 Uitwerking van Opgave 12-78
+Een voorversterker voor de 2 meter amateurband heeft minimaal een bandbreedte van:
+A. 146 MHz
+B. 2 meter
+C. 144 MHz
+D. 2 MHz
+Uitwerking
+De 2 meter amateurband loopt van 144 MHz tot 146 MHz. De voorversterker moet
+daarom deze twee frequenties en alles wat daartussenin ligt, ongeveer evenveel
+versterken. Dat leidt tot een bandbreedte van 146 MHz – 144 MHz = 2 MHz.
+Dat is antwoord D.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.79 Uitwerking van Opgave 12-79
+
+Welke karakteristiek hoort bij een VHF-voorversterker?
+A. Karakteristiek 4
+B. Karakteristiek 3
+C. Karakteristiek1
+D. Karakteristiek 2
+Uitwerking
+VHF (Very High Frequency) is het frequentiegebied tussen 30 en 300 MHz. Er is in de
+figuur maar één filterkarakteristiek voor dat frequentiegebied: karakteristiek 2. Het is nog
+een banddoorlaatfilter ook, maar daarover wordt niets gevraagd.
+Dat betekent antwoord D.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.80 Uitwerking van Opgave 12-80
+In een versterker wordt de 80 meter amateurband (3,5 – 3,8 MHz in zijn geheel versterkt.
+De bandbreedte van deze versterker moet minimaal zijn:
+A. 600 kHz
+B. 3,8 MHz
+C. 3,5 MHz
+D. 300 kHz
+Uitwerking
+De voorversterker moet minimaal een bandbreedte hebben van 3,8 MHz – 3,5 MHz = 0,3
+MHz = 300 kHz. Antwoord D.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.81 Uitwerking van Opgave 12-81
+
+Dit is een schema van
+A. Een balansmodulator
+B. Een LF-eindversterker
+C. Een frequentiemodulator
+D. Een HF-eindversterker
+Uitwerking
+Dit schema is van een LF-balansversterker. Alles wat met hoogfrequente zaken te maken
+heeft, kunnen we wegstrepen. Dat is te zien aan het volledig ontbreken van afgestemde
+kringen. De elco in de schakeling is ook te traag voor hogere frequenties dan audio.
+De twee transistoren in de balanseindtrap, de bovenste NPN, de onderste PNP, worden in
+tegenfase aangestuurd door de NPN-transistor links in het schema via zijn collector en
+emitter. De twee eindtransistoren staan in klasse B. De transformatorhelften voegen de
+twee halve perioden van het signaal weer samen.
+Kortom, antwoord B is goed.
+Opmerking
+Hoewel dit een LF-schakeling is, staat hij bij de opgaven voor hoofdstuk 12 over zenders.
+De reden is dat drie van de vier antwoorden betrekking hebben op deelschakelingen van
+zenders.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.82 Uitwerking van Opgave 12-82
+
+Deze vermogensversterker is geschikt voor:
+A. Morsetelegrafie (draaggolf aan/uit)
+B. Amplitudemodulatie (0-100% modulatie)
+C. Enkelzijbandmodulatie zonder draaggolf
+D. Dubbelzijbandmodulatie zonder draaggolf
+Uitwerking
+Er is geen gelijkstroominstelling van de transistor. Zou de basis-emitterspanning bij
+geleidende transistor 0 zijn, dan zou dit een klasse B-instelling zijn. In werkelijkheid moet
+er eerst een kleine wisselspanning op de ingang van de schakeling staan, wil de transistor
+in geleiding komen. Daarom staat de transistor in klasse C. Dat betekent dat de schakeling
+altijd amplitudevervorming geeft. Daarmee is de schakeling ongeschikt voor alle
+modulatiesoorten waarbij informatie in de amplitude zit. Alles wat met
+amplitudemodulatie te maken heeft, valt daarmee af. FM en morsetelegrafie met aan/uit
+draaggolf blijven over. FM staat niet in het rijtje, dus wordt het antwoord A.
+Opmerking
+Heel strikt genomen is amplitude-CW (antwoord A) ook te zien als een vorm van AM,
+maar als het alleen maar gaat om aan/uit is dat niet aan de orde. Voordeel van een
+schakeling als deze is het hoge rendement.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.83 Uitwerking van Opgave 12-83
+Voor een EZB-zender geldt:
+A. De trappen na de balansmodulator moeten in klasse A of B worden ingesteld
+B. De zendereindtrap mag in klasse C worden ingesteld
+C. Er kan geen frequentietransformatie worden toegepast
+D. In de trappen na de balansmodulator mag frequentievermenigvuldiging worden
+toegepast
+Uitwerking
+Na de balansmodulator moeten de versterkertrappen in klasse A of als balansversterker in
+klasse A, AB of B worden ingesteld, anders treedt vervorming op in de modulatie.
+Frequentietransformatie kan wel; daarvoor is een (balans)modulator nodig.
+Frequentievermenigvuldiging na het modulatieproces is uit den boze, want dan wordt niet
+alleen de frequentie van de modulatie vermenigvuldigd, maar de modulatie zelf wordt ook
+nog eens ernstig vervormd. Kortom, A is het enige juiste antwoord.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.84 Uitwerking van Opgave 12-84
+Een zendereindtrap, bedoeld voor het verwerken van een enkelzijbandsignaal, wordt voor
+een zo hoog mogelijk rendement ingesteld in:
+A. De klasse heeft geen invloed op het rendement
+B. Klasse B
+C. Klasse A
+D. Klasse C
+Uitwerking
+Zoals we in Hoofdstuk 9 hebben kunnen zien, heeft de klasse van instelling wel degelijk
+invloed op het rendement.
+In klasse A wordt de volle 360 graden van een periode evenveel versterkt, met het gevolg
+dat er zonder signaal een stroom blijft lopen en het rendement niet verder komt dan
+ongeveer 25%.
+In klasse B wordt 180 graden van de periode versterkt. Zonder signaal loopt er net geen
+stroom. Daarmee wordt een hoger rendement bereikt dan bij klasse A: maximaal zo’n
+50%. Bij een enkelvoudige eindtrap (1 versterkend element) kan dat vooral bij
+transistoren tot nogal wat vervorming en dus harmonischen leiden; bij buizen is dat
+minder het geval. Het probleem kan -als het hinderlijk is- voor een belangrijk deel
+worden opgelost door de eindtrap als balansversterker uit te voeren: één versterkend
+element versterkt de ene halve periode en het tweede element de andere.
+Klasse C versterkt (ruim) minder dan de 180 graden van een halve periode. Dat geeft te
+veel vervorming om nog verstaanbare modulatie te produceren. Dan heb je wel een hoog
+rendement (tot 70%), maar met een onverstaanbaar signaal heeft dat weinig nut. Voor
+CW, FM en PM wekt klasse C wel, omdat bij die modulatiesoorten geen informatie in de
+amplitude zit.
+Om kort te gaan, antwoord B is het juiste antwoord
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.85 Uitwerking van Opgave 12-85
+Voor een telegrafiezender (A1A) geldt:
+A. Alle trappen kunnen in klasse C worden ingesteld
+B. De frequentiestabiliteit is niet belangrijk omdat er geen spraakmodulatie wordt
+toegepast
+C. Er kan alleen in de eindtrap worden gesleuteld
+D. De bandbreedte van het uitgezonden signaal is nul hertz.
+Uitwerking
+Zoals in de opgave als is vermeld: A1A is een aanduiding voor CW (morsetelegrafie). De
+aanduiding wordt behandeld in Hoofdstuk 18. Er is geen enkele noodzaak, nu naar
+hoofdstuk 18 te gaan.
+Omdat CW een kwestie is van aan of uit (wel draaggolf of geen draaggolf), kan met CW in
+klasse C worden gewerkt. Dat betekent antwoord A.
+Opmerkingen
+De frequentiestabiliteit is juist wel belangrijk, omdat CW een smalbandige mode is
+(filterbandbreedte meestal 500 Hz).
+Dat alleen in de eindtrap kan worden gesleuteld is onzin en geen enkele
+signaalbandbreedte is 0 Hz. Alleen al het opkomen en eindigen van een teken vraagt
+bandbreedte.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.86 Uitwerking van Opgave 12-86
+Voor het versterken met een zo hoog mogelijk rendement van een CW-telegrafiesignaal
+wordt de zendereindtrap ingesteld in
+A. Klasse C
+B. Klasse B
+C. Klasse A/B
+D. Klasse A
+Uitwerking
+Het is bij Opgave 12-85 al toegelicht: klasse C, dus antwoord A.
+Opmerking
+Bij de modulatiesoorten FM en PM geldt hetzelfde, want daar zit de informatie niet in de
+amplitude, maar in de frequentie en die verandert niet bij toepassing van klasse C.
+Antwoord A dus.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.87 Uitwerking van Opgave 12-87
+Voor het versterken met zo hoog mogelijk rendement van een morse-telegrafiesignaal
+moet de zendereindtrap worden ingesteld in:
+A. Klasse B
+B. Klasse A
+C. Klasse C
+D. Klasse A/B
+Uitwerking
+Dit is eigenlijk een herhaling van Opgave 12-85 en Opgave 12-86. Het wordt dus opnieuw
+klasse C (antwoord C).
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.88 Uitwerking van Opgave 12-88
+Een eindtrap van een frequentie-gemoduleerde zender wordt voor een zo hoog mogelijk
+rendement ingesteld in:
+A. Klasse C
+B. Klasse B
+C. Klasse A
+D. Klasse AB
+Uitwerking
+Voor FM geldt net als voor CW dat de eindtrap in klasse C kan worden ingesteld zonder
+informatieverlies. Dan is het rendement het hoogst. Dat betekent antwoord A.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.89 Uitwerking van Opgave 12-89
+De kans dat een zender te veel harmonischen uitstraalt is het grootst als de eindtrap wordt
+ingesteld in
+A. Klasse A
+B. Klasse B
+C. Klasse C
+D. Klasse AB
+Uitwerking
+De grootste kans op harmonischen is bij instelling in klasse C, omdat dan het kleinste deel
+van de periode (minder dan 180 graden) wordt versterkt en daardoor de meeste
+vervorming optreedt. Veel vervorming betekent veel harmonischen. De onderdrukking
+van harmonischen in de eindtrap moet daarom effectiever zijn dan bij andere klassen van
+instelling. Antwoord C.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.90 Uitwerking van Opgave 12-90
+Een HF-versterker, bedoeld voor het versterken van een frequentie-gemoduleerd signaal,
+wordt voor een zo hoog mogelijk rendement ingesteld in:
+A. Klasse A/B
+B. Klasse B
+C. Klasse A
+D. Klasse C
+Uitwerking
+Als het om rendement gaat, is klasse C de meest efficiënte klasse van instelling. Omdat bij
+een aantal modulatiesoorten, meer in het bijzonder de AM-familie (AM, DZB en EZB), de
+informatie in de amplitude zit, zijn die modulatiesoorten ongeschikt voor klasse C. Bij
+klasse C wordt namelijk minder dan 180 graden per periode van 360 graden versterkt. Dat
+leidt tot vervorming van de modulatie zelf en dus tot onverstaanbaarheid bij ontvangst.
+Bij frequentie- en fasemodulatie (FM en PM) is dat laatste niet het geval, omdat de
+informatie in de frequentie zit en die wordt in klasse C niet aangetast. Dat leidt tot
+antwoord D.
+Opmerkingen
+Voor de modulatiesoorten van de AM-familie wordt klasse A, AB of B gebruikt. Daarbij
+wordt bij klasse A de volle periode (360 graden) versterkt, Bij klasse B is dat180 graden en
+bij AB iets daartussenin. Bij klasse B ontstaat de meeste vervorming van de drie; het minst
+bij buizen en het meest bij transistoren. De vervorming kan worden beperkt door gebruik
+van een balansversterker. Een balansversterker is gebaseerd op twee versterkende
+elementen, waarbij het ene de positieve halve periode (1800) versterkt en het andere de
+negatieve. Een balansversterker kan ook in klasse A of AB staan.
+Bij CW kan de versterker ook in klasse C staan, omdat de amplitude behalve aan/uit geen
+informatie bevat.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.91 Uitwerking van Opgave 12-91
+Een specifieke modulatievorm voor digitale signalen is:
+Variant 1
+
+Variant 2
+
+A. AM
+B. 2-PSK
+C. EZB (SSB)
+D. FM
+
+A. DAC
+B. 2-PSK
+C. ADC
+D. PEP
+
+Uitwerking
+Hier zien we dezelfde vraag in twee varianten. In variant 1 zien we maar 1 digitale
+modulatievorm (antwoord B) en in variant B ook (weer antwoord B dus). In variant 1 zijn
+de drie andere antwoorden analoge modulatievormen, in variant 2 zijn de
+“concurrerende” antwoorden twee schakelingen en één grootheid (PEP).
+Het juiste antwoord is dus in beide gevallen antwoord B, dus PSK of voluit Phase Shift
+Keying. De 2 heeft betrekking op de twee mogelijke fasesprongen per periode (zie figuur).
+2.0
+
+1
+
+1
+
+1
+
+1
+
+1.0
+
+1
+
+0.5
+
+1.5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.0
+
+1.0
+
+-0.5
+
+0.5
+
+-1.0
+-1.5
+
+0.0
+
+-2.0
+-0.5
+
+-2.5
+
+-1.0
+
+-3.0
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+Opmerking
+De fase van de draaggolf verspringt 180˚bij een overgang van “0” naar “1” en van “1”naar
+“0”. Frequentie en amplitude blijven gelijk.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.92 Uitwerking van Opgave 12-92
+Een bitstroom wordt in FSK gemoduleerd met een shift van 170 Hz en een
+symboolsnelheid van 50 baud. De benodigde bandbreedte van het uitgezonden signaal is
+in de praktijk:
+A. 170 Hz
+B. 50 Hz
+C. 250 Hz
+D. 8500 Hz
+Uitwerking
+We beginnen met de nauwkeurige uitwerking en daarna één volgens de methode quick &
+dirty, zoals dat op z’n Amerikaans heet.
+Nauwkeurig
+De bandbreedte wordt berekend met de vergelijking
+𝐵 ≈ 2(1,6𝑓𝑆 + ∆𝑓)
+Uitwerking:
+𝐵 ≈ 2 (1,6 ∗ 50 +
+
+170
+) Hz = 80 Hz + 170Hz = 250 Hz
+2
+
+Antwoord C.
+Nu quick & dirty:
+Elke vorm van modulatie leidt tot een vergroting van de bandbreedte van het “kale”
+signaal. Dat is te zien aan het plaatje in de cursustekst dat we hieronder herhalen.
+
+Daarmee vervallen de antwoorden A en B. Antwoord C houdt een niet al te forse
+verhoging in die redelijk oogt, gegeven de vrij lage symboolsnelheid van 50 Bd. Antwoord
+D is voor die symboolsnelheid een wel heel extreme vergroting van de bandbreedte. Dan
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+is het meest waarschijnlijke antwoord C. Wellicht zijn de vier antwoorden niet voor niets
+zo gekozen.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.93 Uitwerking van Opgave 12-93
+Een bitstroom wordt in 4-PSK gemoduleerd. Als de bitsnelheid 4800 bits/sec is, is de
+symboolsnelheid
+A. 1200 baud
+B. 2400 baud
+C. 4800 baud
+D. 9600 baud
+Uitwerking
+Bij PSK-2 is één symbool 1 bit. Bij PSK-4 is één symbool 2 bits, want het signaal heeft 4
+fasestanden en die 4 waarden kun je beschrijven met 2 bits.
+De symboolsnelheid of het aantal tekens per seconde is dan het aantal bits per seconde
+gedeeld door 2. Dat komt in dit geval neer op 4800/2 is 2400 baud.
+Opmerking
+Houd goed in de gaten dat bitsnelheid altijd het aantal bits per seconde (bps) is en
+symboolsnelheid het aantal symbolen of tekens met de eenheid baud, afgekort Bd. Om het
+aantal baud te vinden, deel je het aantal bits/sec door het aantal bits per teken of symbool.
+Om van het aantal baud naar bits/sec te komen, vermenigvuldig je het aantal Bd met het
+aantal bits per teken of symbool.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.94 Uitwerking van Opgave 12-94
+Welke afkorting wijst op fasemodulatie door een digitaal signaal?
+A. CW
+B. FM
+C. EZB
+D. 2-PSK
+Uitwerking
+De enige digitale modulatie in het rijtje is 2-PSK en de afkorting betekent Phase Shift
+Keying. Geen twijfel mogelijk: digitaal en fasemodulatie, antwoord D.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-114
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.95 Uitwerking van Opgave 12-95
+Een bitstroom wordt in 16-QAM gemoduleerd. Als de bitsnelheid 9600 bits/s is, is de
+symboolsnelheid:
+A. 2400 baud
+B. 600 baud
+C. 38400 baud
+D. 9600 baud
+Uitwerking
+Bij QAM-16-modulatie wordt per symbool een binair getal verstuurd dat 16 waarden kan
+aannemen. Daarvoor zijn 4 bits nodig. Eén symbool is daarom 4 bits. Dat betekent dat de
+symboolsnelheid ¼ is van de bitsnelheid: 9600/4 is 2400. Antwoord A is juist.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-115
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.96 Uitwerking van Opgave 12-96
+Bij de modulatiewijze QAM waarbij 16 toestanden worden onderscheiden, is het aantal
+bits per symbool:
+A. 16
+B. 4
+C. 2
+D. 8
+Uitwerking
+16 is 24, zodat voor het nummeren van 16 toestanden 4 bits benodigd zijn. Dat komt neer
+op antwoord B.
+Opmerking
+Eigenlijk is dit dezelfde vraag als Opgave 12-95.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-116
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.97 Uitwerking van Opgave 12-97
+In het ASCII-alfabet wordt elk teken weergegeven door 7 bits. Aan elk teken wordt een
+pariteitsbit toegevoegd. Een tekst van 6000 ASCII-tekens wordt in 1 minuut verzonden.
+De bitsnelheid is:
+A. 700 b/s
+B. 48000 b/s
+C. 800 b/s
+D. 100 b/s
+(F-examen mei 2009 (2), februari 2010 (1), september 2015)
+Uitwerking
+Het is even opletten: de 6000 tekens worden in 1 minuut verzonden, niet in 1 seconde.
+Eerst dus maar delen door 60. 6000/60=100. 100 tekens per seconde van elk 8 bits (het
+pariteitsbit doet ook mee!) komt neer op een bitsnelheid van 8*100 b/s is 800 b/s.
+Dan is antwoord C juist.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-117
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.98 Uitwerking van Opgave 12-98
+De ontvangst van frequentie-gemoduleerde signalen is weinig gevoelig voor vonkstoring,
+omdat in FM-ontvangers
+A. Frequentie-transformatie plaatsvindt
+B. Amplitude-begrenzing wordt toegepast
+C. Automatische frequentie-bijregeling wordt toegepast
+D. Automatische volumeregeling wordt toegepast
+Uitwerking
+Detectie van FM gaat meestal in twee stappen. Eerst wordt het FM-signaal omgezet in AM
+en daarna wordt AM-detectie toegepast. Om geen storingen met een AM-karakter of AMbestanddelen die het signaal misschien onderweg oploopt te detecteren, wordt in het FMsignaal eerst begrenzing (de “grasmaaier”) toegepast (schema hieronder).
+
+De twee tegen elkaar in geschakelde dioden vóór de uitgang realiseren de
+signaalbegrenzing.
+Aantwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-118
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.99 Uitwerking van Opgave 12-99
+Aan de modulator van een zender wordt een bitstroom toegevoerd. Als een bit een
+waarde 1 heeft, wordt de frequentie van het uitgezonden signaal 170 Hz lager dan
+wanneer het de waarde 0 heeft. Deze modulatie heet:
+A. QAM
+B. FSK
+C. 4-PSK
+D. 2-PSK
+Uitwerking
+Dit type modulatie heet Frequency Shift Keying (FSK). Antwoord B.
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-119
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 12. Examenopgaven_B_20220608
+
+12.5.100 Uitwerking van Opgave 12-100
+De Engelse afkorting “CRC” wordt gebruikt voor
+A. De modulatiemethode van een VCO
+B. De foutdetectie in packetradio systemen
+C. Het aangeven van de capaciteit van een batterij
+D. Het in serie schakelen van twee condensatoren en een weerstand
+Uitwerking
+De afkorting CRC staat voor Cyclic Readundancy Check en is een methode voor
+foutdetectie in packet radio. Antwoord B.
+
+Meer opgaven in deel C
+
+© 2021-2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 12.4 uitgezonderd)
+
+12-120
+
+

@@ -1,0 +1,3097 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+Inhoudsopgave
+7
+
+53 uitgewerkte examenopgaven bij Hoofdstuk 7 .........................................................7-6
+7.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ..............7-6
+
+7.2
+
+Enkele opmerkingen ............................................................................................... 7-7
+
+7.3
+
+Formularium ............................................................................................................7-7
+
+7.3.1
+
+Vergelijkingen ..................................................................................................7-7
+
+7.3.2
+
+Gelijkrichting ...................................................................................................7-8
+
+7.3.3
+
+De sperspanning van een gelijkrichtdiode ....................................................7-11
+
+7.3.4
+
+Diodecapaciteit ............................................................................................... 7-11
+
+7.3.5
+
+Zenerdioden ...................................................................................................7-11
+
+7.3.6
+
+Licht emitterende dioden (LED’s) .................................................................7-12
+
+7.4
+
+Opgaven .................................................................................................................7-13
+
+7.4.1
+
+Opgave 7-1 ......................................................................................................7-14
+
+7.4.2
+
+Opgave 7-2 ......................................................................................................7-15
+
+7.4.3
+
+Opgave 7-3 ......................................................................................................7-16
+
+7.4.4
+
+Opgave 7-4 ......................................................................................................7-17
+
+7.4.5
+
+Opgave 7-5 ......................................................................................................7-18
+
+7.4.6
+
+Opgave 7-6 ......................................................................................................7-19
+
+7.4.7
+
+Opgave 7-7 ......................................................................................................7-20
+
+7.4.8
+
+Opgave 7-8 ......................................................................................................7-21
+
+7.4.9
+
+Opgave 7-9 ......................................................................................................7-22
+
+7.4.10 Opgave 7-10 ....................................................................................................7-23
+7.4.11 Opgave 7-11 ....................................................................................................7-24
+7.4.12 Opgave 7-12 ....................................................................................................7-25
+7.4.13 Opgave 7-13 ....................................................................................................7-26
+7.4.14 Opgave 7-14 ....................................................................................................7-27
+7.4.15 Opgave 7-15 ....................................................................................................7-28
+7.4.16 Opgave 7-16 ....................................................................................................7-29
+7.4.17 Opgave 7-17 ....................................................................................................7-30
+7.4.18 Opgave 7-18 ....................................................................................................7-31
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.19 Opgave 7-19 ....................................................................................................7-32
+7.4.20 Opgave 7-20 ....................................................................................................7-33
+7.4.21 Opgave 7-21 ....................................................................................................7-34
+7.4.22 Opgave 7-22 ....................................................................................................7-35
+7.4.23 Opgave 7-23 ....................................................................................................7-36
+7.4.24 Opgave 7-24 ....................................................................................................7-37
+7.4.25 Opgave 7-25 ....................................................................................................7-38
+7.4.26 Opgave 7-26 ....................................................................................................7-39
+7.4.27 Opgave 7-27 ....................................................................................................7-40
+7.4.28 Opgave 7-28 ....................................................................................................7-41
+7.4.29
+
+Opgave 7-29 ....................................................................................................7-42
+
+7.4.30 Opgave 7-30 ....................................................................................................7-43
+7.4.31 Opgave 7-31 ....................................................................................................7-44
+7.4.32 Opgave 7-32 ....................................................................................................7-45
+7.4.33 Opgave 7-33 ....................................................................................................7-46
+7.4.34 Opgave 7-34 ....................................................................................................7-47
+7.4.35 Opgave 7-35 ....................................................................................................7-48
+7.4.36 Opgave 7-36 ....................................................................................................7-49
+7.4.37 Opgave 7-37 ....................................................................................................7-50
+7.4.38
+
+Opgave 7-38 ....................................................................................................7-51
+
+7.4.39 Opgave 7-39 ....................................................................................................7-52
+7.4.40 Opgave 7-40 ....................................................................................................7-53
+7.4.41 Opgave 7-41 ....................................................................................................7-54
+7.4.42 Opgave 7-42 ....................................................................................................7-55
+7.4.43 Opgave 7-43 ....................................................................................................7-56
+7.4.44 Opgave 7-44 ....................................................................................................7-57
+7.4.45 Opgave 7-45 ....................................................................................................7-58
+7.4.46 Opgave 7-46 ....................................................................................................7-59
+7.4.47
+
+Opgave 7-47 ....................................................................................................7-60
+
+7.4.48 Opgave 7-48 ....................................................................................................7-61
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.49 Opgave 7-49 ....................................................................................................7-62
+7.4.50 Opgave 7-50 ....................................................................................................7-63
+7.4.51 Opgave 7-51 ....................................................................................................7-64
+7.4.52 Opgave 7-52 ....................................................................................................7-65
+7.4.53 Opgave 7-53 ....................................................................................................7-66
+7.5
+
+Uitwerkingen .........................................................................................................7-67
+
+7.5.1
+
+Uitwerking van Opgave 7-1 ..........................................................................7-68
+
+7.5.2
+
+Uitwerking van Opgave 7-2 ..........................................................................7-69
+
+7.5.3
+
+Uitwerking van Opgave 7-3 ..........................................................................7-71
+
+7.5.4
+
+Uitwerking van Opgave 7-4 ..........................................................................7-72
+
+7.5.5
+
+Uitwerking van Opgave 7-5 ..........................................................................7-74
+
+7.5.6
+
+Uitwerking van Opgave 7-6 ..........................................................................7-75
+
+7.5.7
+
+Uitwerking van Opgave 7-7 ..........................................................................7-76
+
+7.5.8
+
+Uitwerking van Opgave 7-8 ..........................................................................7-77
+
+7.5.9
+
+Uitwerking van Opgave 7-9 ..........................................................................7-78
+
+7.5.10 Uitwerking van Opgave 7-10 ........................................................................7-79
+7.5.11 Uitwerking van Opgave 7-11 ........................................................................7-80
+7.5.12 Uitwerking van Opgave 7-12 ........................................................................7-82
+7.5.13 Uitwerking van Opgave 7-13 ........................................................................7-83
+7.5.14 Uitwerking van Opgave 7-14 ........................................................................7-84
+7.5.15 Uitwerking van Opgave 7-15 .......................................................................7-85
+7.5.16 Uitwerking van Opgave 7-16 ........................................................................7-86
+7.5.17 Uitwerking van Opgave 7-17 ........................................................................7-87
+7.5.18 Uitwerking van Opgave 7-18 ........................................................................7-88
+7.5.19 Uitwerking van Opgave 7-19 ........................................................................7-89
+7.5.20 Uitwerking van Opgave 7-20 ........................................................................7-90
+7.5.21 Uitwerking van Opgave 7-21 ........................................................................7-91
+7.5.22 Uitwerking van Opgave 7-22 ........................................................................7-92
+7.5.23 Uitwerking van Opgave 7-23 ........................................................................7-93
+7.5.24 Uitwerking van Opgave 7-24 ........................................................................7-94
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.25 Uitwerking van Opgave 7-25 ........................................................................7-95
+7.5.26 Uitwerking van Opgave 7-26 ........................................................................7-96
+7.5.27 Uitwerking van Opgave 7-27 ........................................................................7-97
+7.5.28 Uitwerking van Opgave 7-28 ........................................................................7-98
+7.5.29 Uitwerking van Opgave 7-29 ........................................................................7-99
+7.5.30 Uitwerking van Opgave 7-30 ......................................................................7-100
+7.5.31 Uitwerking van Opgave 7-31 ......................................................................7-101
+7.5.32 Uitwerking van Opgave 7-32 ......................................................................7-102
+7.5.33 Uitwerking van Opgave 7-33 ......................................................................7-103
+7.5.34 Uitwerking van Opgave 7-34 ......................................................................7-104
+7.5.35 Uitwerking van Opgave 7-35 ......................................................................7-105
+7.5.36 Uitwerking van Opgave 7-36 ......................................................................7-106
+7.5.37 Uitwerking van Opgave 7-37 ......................................................................7-107
+7.5.38 Uitwerking van Opgave 7-38 ......................................................................7-108
+7.5.39 Uitwerking van Opgave 7-39 ......................................................................7-109
+7.5.40 Uitwerking van Opgave 7-40 ......................................................................7-110
+7.5.41 Uitwerking van Opgave 7-41 ......................................................................7-111
+7.5.42 Uitwerking van Opgave 7-42 ......................................................................7-112
+7.5.43 Uitwerking van Opgave 7-43 ......................................................................7-113
+7.5.44 Uitwerking van Opgave 7-44 ......................................................................7-114
+7.5.45 Uitwerking van Opgave 7-45 ......................................................................7-115
+7.5.46 Uitwerking van Opgave 7-46 ......................................................................7-116
+7.5.47 Uitwerking van Opgave 7-47 ......................................................................7-117
+7.5.48 Uitwerking van Opgave 7-48 ......................................................................7-118
+7.5.49 Uitwerking van Opgave 7-49 ......................................................................7-119
+7.5.50 Uitwerking van Opgave 7-50 ......................................................................7-120
+7.5.51 Uitwerking van Opgave 7-51 ......................................................................7-121
+7.5.52 Uitwerking van Opgave 7-52 ......................................................................7-122
+7.5.53 Uitwerking van Opgave 7-53 ......................................................................7-123
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7 53 uitgewerkte examenopgaven bij Hoofdstuk 7
+7.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 7
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave en het goede antwoord vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot een goed
+antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave. Dat is deze:
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 7.5.
+
+7.2 Enkele opmerkingen
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er een volledige
+datum. Vóór het jaar 2008 waren er maar twee examens per jaar, het voorjaars- en
+najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer in een examen zit en plotseling,
+bijvoorbeeld 10 jaar later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”), grafieken en soms wat handigheidjes. We raden aan, dit eerst
+door te nemen.
+
+7.3 Formularium
+7.3.1 Vergelijkingen
+Voor dioden zijn er heel weinig vergelijkingen. De voorwaartse spanning UF is de
+spanning over de diode als deze geleidt. De drempelspanning is UF die nodig is om de
+diode in geleiding te krijgen.
+Voor een siliciumdiode wordt meestal uitgegaan van 𝑈𝐹 ≈ 0,6 𝑉. Voor een
+germaniumdiode geldt 𝑈 ≈ 0,2 𝑉. Bij toenemende stroom kan UF bij beide typen met
+enkele tienden van een volt toenemen.
+Voor de dissipatie P geldt voor elke spanning UD over de diode
+𝑃 = 𝐼𝐹 𝑈D
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.3.2 Gelijkrichting
+Een diode is een ding dat maar in één richting geleidt. Zo’n ding is geschikt om
+wisselstroom of -spanning om te zetten in gelijkstroom, resp. -spanning.
+Gelijkrichting kan enkelzijdig of dubbelzijdig zijn. Soms kom je de termen enkelfasig of
+dubbelfasig tegen. Ze betekenen hetzelfde.
+Een enkelzijdig gelijkgerichte sinus ziet er zo uit (Figuur 7.3-1)
+
+Figuur 7.3-1. Spanning over de weerstand na enkelzijdige gelijkrichting. Links de schakeling, rechts het
+resultaat. De weerstand staat symbool voor de schakeling die door de gelijkgerichte spanning wordt gevoed.
+
+Voor de gemiddelde spanning Ugem onder 1 gelijkgerichte halve periode met amplitude A
+geldt
+𝑈𝑔𝑒𝑚 =
+
+2𝑈𝑚𝑎𝑥
+𝜋
+
+Omdat tussen de opeenvolgende halve perioden een halve periode ontbreekt, geldt door
+het totale signaal
+𝑈𝑔𝑒𝑚 =
+
+𝑈𝑚𝑎𝑥
+𝜋
+
+Wordt parallel aan de belasting een condensator van voldoende capaciteit toegevoegd, dan
+wordt de gelijkgerichte spanning hoger (Figuur 7.3-2).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+Figuur 7.3-2. Spanning over de weerstand na enkelzijdige gelijkrichting en afvlakking door een condensator.
+Links de schakeling, rechts het resultaat. Getrokken lijn: het spanningsverloop in deze schakeling.
+Gestippeld: het spanningsverloop zonder condensator, zoals afgebeeld in Figuur 7.3-1.
+
+Zonder belasting loopt de getrokken lijn op de hoogte van de amplitude A en is de
+gelijkgerichte spanning gelijk aan de amplitude van de oorspronkelijke wisselspanning.
+Voor de amplitude A (=Umax) geldt
+𝑈𝑚𝑎𝑥 = 𝑈𝑒𝑓𝑓 √2
+Merk op dat de voorwaartse spanning over de diode hier steeds is verwaarloosd. Als de
+gelijkgerichte spanning hoog genoeg is, is dat gebruikelijk en verantwoord.
+Tweezijdige (dubbelzijdige) gelijkrichting keert de negatieve halve periode om. Dat kan
+zoals in het schema van Figuur 7.3-3, met twee gelijke secundaire trafowikkelingen.
+
+Figuur 7.3-3. Tweezijdige gelijkrichting met een transformatorwikkeling met middenaftakking. De pijlen
+geven de technische stroomrichting; de rode voor de eerste periodehelft, de groene voor de tweede.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+Het kan ook met een enkeletrafowikkeling en een zogenoemde brugschakeling (Figuur
+7.3-4).
+
+Figuur 7.3-4. Tweezijdige gelijkrichting vanuit een enkele secundaire wikkeling door middel van een
+bruggelijkrichter die bestaat uit de dioden D1 tot en met D4. De pijlen geven de technische stroomrichting;
+de rode voor de ene periodehelft, de groene voor de andere.
+
+In beide gevallen is de grafiek van
+
+Figuur 7.3-5. Tweezijdig gelijkgerichte sinusvormige wisselspanning met afvlakking door middel van een
+condensator (getrokken curve). De gestippelde curve geeft de vorm van de gelijkgerichte spanning zonder
+afvlakking. Het rode deel komt van de positieve halve perioden, het blauwe deel van de negatieve. De
+grafiek start met de allereerste periode. Daarom begint de getrokken lijn bij U/Umax=0.
+
+Zonder afvlakcondensator is de gemiddelde spanning van het gelijkgerichte signaal
+𝑈𝑔𝑒𝑚 =
+
+2𝑈𝑚𝑎𝑥
+𝜋
+
+Met afvlakcondensator en zonder belasting is de gelijkgerichte spanning gelijk aan Umax.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.3.3 De sperspanning van een gelijkrichtdiode
+Een gelijkrichtdiode moet bestand zijn tegen een spanning van 2 Umax. Voor Umax geldt
+𝑈𝑚𝑎𝑥 = 𝑈𝑒𝑓𝑓 √2
+Veiligheidshalve wordt meestal uitgegaan van √2 = 1,5 of nog wat meer.
+7.3.4 Diodecapaciteit
+Een diode kan dienen als spanninggestuurde condensator. Als de diode gesperd is, wordt
+de uitputtingszone langs de PN-junctie groter naarmate de sperspanning hoger is en wordt
+de capaciteit navenant lager. De benaming is capaciteitsdiode of varicap. De betekenis is
+dezelfde. In examenopgaven komen soms grafieken voor met de relatie spanningcapaciteit.
+7.3.5 Zenerdioden
+De doorlaatkarakteristiek van een zenerdiode ziet er ongeveer uit als in Figuur 7.3-6.
+
+Figuur 7.3-6. Doorlaatkarakteristiek van een zenerdiode met diodespanning UD en diodestroom ID,
+drempelspanning Udrempel en zenerspanning UZ. Op de horizontale as is UD rechts van het snijpunt met de
+verticale as in doorlaatrichting, links in sperrichting.
+
+Zenerdioden worden gebruikt om een constante spanning te maken. Dat kan bijvoorbeeld
+zoals in Figuur 7.3-7.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+Figuur 7.3-7. Schakeling om een zenerspanning te krijgen zonder de zenerdiode aan een te grote stroom
+bloot te stellen. In de schakeling wordt daarvoor een weerstand gebruikt, in schakeling b een stroombron.
+
+De bronspanning moet groter zijn dan de zenerspanning, anders blijft er geen spanning UR
+over, dus de eis is
+𝑈bron = 𝑈R + 𝑈Z , 𝑈R > 0 V
+Verder moet de dissipatie 𝑃 = 𝐼𝑈𝑍 (ruim) onder de maximale dissipatie van de zenerdiode
+liggen.
+7.3.6 Licht emitterende dioden (LED’s)
+Een LED is een diode die licht geeft. De drempelspanning varieert van 1,7 V (rood) tot 2,8
+à 4,6 V voor blauw licht. Om de stroom binnen de perken te houden, staat er vrijwel altijd
+een weerstand in serie met de LED. Oudere typen hebben 10-20 mA nodig, modernere
+kunnen het met 5 mA af.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4 Opgaven
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.1 Opgave 7-1
+Welke LED licht duidelijk op?
+1k
+LED 1
+1k
+LED 2
+100k
+
++12 V
+
+LED 3
+100k
+LED 4
+0V
+
+A. LED 3
+B. LED 4
+C. LED 2
+D. LED 1
+
+(F-examen 07-09-2016, 01-03-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.2 Opgave 7-2
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling kan
+leveren.
+
+A. Uuit = 100 V en Iuit = 1A
+B. Uuit = 200 V en Iuit = 1A
+C. Uuit = 200 V en Iuit = 2A
+D. Uuit = 350 V en Iuit = 1A
+(F-examen najaar 2005, januari 2010, 7-09-2016, 17-05-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.3 Opgave 7-3
+De sperspanning van een normale siliciumdiode is:
+A. Tussen 2V en 10V
+B. Kleiner dan 0,4 V
+C. Groter dan 10V
+D. Tussen 0,4V en 2V
+(F-examen voorjaar 2002, oktober 2010, 11-01-2017, 06-03-2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.4 Opgave 7-4
+
+Als voedingsgelijkrichter
+kan worden toegepast:
+A. Gelijkrichter 3
+B. Gelijkrichter 4
+C. Gelijkrichter 1
+D. Gelijkrichter 2
+
+gelijkrichter 1
+
+gelijkrichter 2
+
+gelijkrichter 3
+
+gelijkrichter 4
+
+(F-examen voorjaar 1978, najaar 2004, november 2008 (2), 17-05-2017, 10-01-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.5 Opgave 7-5
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling kan
+leveren.
+
+A. Uuit = 100 V en Iuit = 1A
+B. Uuit = 200 V en Iuit = 2A
+C. Uuit = 100 V en Iuit = 2A
+D. Uuit = 200 V en Iuit = 1A
+(F-examen april 2008, maart 2009 (1), september 2013 (1). 17-05-2017, 10-01-2018,
+januari 2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.6 Opgave 7-6
+Voor een constante uitgangsspanning dient de
+ingangsspanning
+A. Hoger te zijn dan de zenerspanning
+B. Lager te zijn dan de zenerspanning
+C. Gelijk te zijn aan de zenerspanning
+D. Een wisselspanning te zijn
+
+(F-examen september 2011 (1), november 2011, maart 2012, september 2012, januari
+2015, 24-05-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.7 Opgave 7-7
+
+Een ideale voltmeter, geijkt voor gelijkspanning, wordt via een gelijkrichter aangesloten
+op een sinusvormige wisselspanning met een effectieve waarde van 10 volt. De meter zal
+dan ongeveer aanwijzen:
+A. 7,1 V
+B. 14,1 V
+C. 9 V
+D. 10,0 V
+(F-examen september 2009 (1), maart 2010, maart 2014, mei 2014 (2), januari 2015, maart
+2016, 24-05-2017, januari 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.8 Opgave 7-8
+Om deze schakeling te kunnen maken, beschikt u over 4 trafo’s met verschillende
+wikkelverhoudingen. U wenst een onbelaste uitgangsspanning van 10 V zo dicht mogelijk
+te benaderen.
+
+N1
+
+N2
+
+220 V
+
+10V=
+
+U kiest een transformator met een wikkelverhouding van:
+A. 31:1
+B. 44:1
+C. 22:1
+D. 5,5:1
+(F-examen maart 2009, september 2009 (1), december 2009, maart 2010, september 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.9 Opgave 7-9
+
+De belastingsstroom Ibel varieert van 100 tot 300 mA. Het maximaal gedissipeerde
+vermogen door de zenerdiode is:
+A. 3 W
+B. 2 W
+C. 8 W
+D. 1W
+(F-examen najaar 2000, juli 2007, september 2007 (1), januari 2010, november 2010 (2),
+december 2010, , maart 2011 (2), mei 2013 (2), november 2013 (1), mei 2016 (1), 06-092017, 01-11-2017, januari 2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.10 Opgave 7-10
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling
+kan leveren:
+
+A. Uuit =20V en Iuit =2A
+B. Uuit =20V en Iuit =3A
+C. Uuit =10V en Iuit =2A
+D. Uuit =10V en Iuit =3A
+
+(F-examen voorjaar 2004, mei 2009 (1), maart 2010 (1), mei 2016 (1), mei 2018 (1)))
+
+uit
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.11 Opgave 7-11
+Met de schakeling worden achtereenvolgens vier signalen met gelijke amplitude gemeten.
+
+De grootste uitslag treedt op bij
+A. Signaal 3
+B. Signaal 2
+C. Signaal 1
+D. Signaal 4
+(F-examen januari 2011, februari 2011, 16 mei 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.12 Opgave 7-12
+Met de schakeling worden achtereenvolgens vier signalen met gelijke amplitude gemeten.
+
+De kleinste uitslag treedt op bij
+A. Signaal 4
+B. Signaal 2
+C. Signaal 1
+D. Signaal 3
+(F-examen februari 2010 (1), augustus 2010, maart 2011(1), december 2011, maart 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.13 Opgave 7-13
+De uitgangsspanning U is:
+
+A. -36 V
+B. -12 V
+C. +10 V
+D. 0 V
+
+(F-examen februari 2010, januari 2017, 07-11-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.14 Opgave 7-14
+Welke van de schakelingen kan worden toegepast om een negatieve en een positieve
+gelijkspanning te krijgen?
+
+A. Zowel schakeling X als schakeling Y
+B. Alleen schakeling Y
+C. Alleen schakeling X
+D. Geen van beide schakelingen
+
+(F-examen september 2009 (1), februari 2010 (2), 5-09-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.15 Opgave 7-15
+De onbelaste uitgangsspanningen U1 en U2 zijn ongeveer:
+
+A. U1 = 140 V en U2 = 280 V
+B. U1 = 140 V en U2 = 140 V
+C. U1 = 100 V en U2 = 140 V
+D. U1 = 100 V en U2 = 100 V
+
+(F-examen voorjaar 2005, mei 2010 (1), 05-09-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.16 Opgave 7-16
+In het afvlakfilter van een netspanninggevoede ontvanger dienen de condensatoren een
+waarde te hebben van ongeveer
+A. 1000 nanofarad
+B. 1000 picofarad
+C. 1000 microfarad
+D. 100 farad
+(F-examen september 2013 (2), juli 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.17 Opgave 7-17
+Op de ingang is een pulsvormige spanning aangesloten
+
+De onbelaste uitgangsspanning is:
+A. 40/ V
+B. 20 V
+C. 40 V
+D. 10 V
+Let op:
+Op de uitgang van de schakeling is het ouderwetse symbool V voor spanning gebruikt.
+Eigenlijk had hier Uu moeten staan.
+
+(F-examen december 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.18 Opgave 7-18
+De condensator in de schakeling moet minstens geschikt zijn voor een spanning van:
+
+A. 100 V
+B. 50 V
+C. 75 V
+D. 150 V
+
+(F-examen najaar 2004, maart 2011 (1), november 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.19 Opgave 7-19
+De diodekeuze in een gelijkrichtschakeling is afhankelijk van
+A. Alleen de maximale sperspanning
+B. Zowel de maximale sperspanning als de maximale stroom
+C. Alleen de maximale stroom
+D. Geen van de hierboven gegeven grootheden
+(F-examen voorjaar 2000)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.20 Opgave 7-20
+De maximale doorlaatstroom in een halfgeleider wordt bepaald door de
+A. Maximale sperspanning
+B. Doorlaatspanning
+C. Omgekeerde EMK
+D. Kristaltemperatuur
+(F-examen voorjaar 2005, juli 2010, november 2010 (1), januari 2011, september 2012, mei
+2015 (2), mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.21 Opgave 7-21
+In welke situatie is de diode gesperd?
+
+A. Situatie 1
+B. Situatie 2
+C. Situatie 3
+D. Situatie 4
+
+(F-examen voorjaar 2007, september 2011 (1), mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.22 Opgave 7-22
+De lekstroom van een diode
+A. Is alleen afhankelijk van de spanning
+B. Is niet afhankelijk van de temperatuur
+C. Neemt toe bij temperatuurverhoging
+D. Neemt af bij temperatuurverhoging
+
+(F-examen voorjaar 2004, december 2008, maart 2009 (2), mei 2009 (1), augustus 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.23 Opgave 7-23
+De juiste uitgangsspanningen X en Y
+zijn:
+
+A. X=+24 V en Y=0 V
+B. X=-12 V en Y=0 V
+C. X=-12 V en Y=+24 V
+D. X=0 V en Y=-12 V
+
+(F-examen november 2008 (1), december 2011, augustus 2012, mei 2017 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.24 Opgave 7-24
+De uitgangsspanning U is:
+A. 0 V
+B. - 12 V
+C. - 24 V
+D. - 36 V
+
+(F-examen najaar 2003)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.25 Opgave 7-25
+De voltmeter wijst ongeveer 5 volt aan.
+De stand van de schakelaars is:
+A. S1 open; S2 open
+B. S1 open; S2 dicht
+C. S1 dicht; S2 open
+D. S1 dicht; S2 dicht
+
+(F-examen augustus 2012)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.26 Opgave 7-26
+In de schakelingen zijn identieke
+componenten gebruikt; I1 en I2 zijn de
+piekstromen door de dioden. Welke van de
+volgende beweringen is juist?
+
+A. I1 is groter dan I2; U1 is groter dan U2
+B. I1 is kleiner dan I2; U1 is kleiner dan U2
+C. I1 is kleiner dan I2; U1 is groter dan U2
+D. I1 is groter dan I2; U1 is kleiner dan U2
+
+(F-examen voorjaar 2007, mei 2011 (3), september 2012, januari 2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.27 Opgave 7-27
+Als S1 geopend wordt, zal de lamp:
+A. Uitgaan
+B. Gaan branden
+C. Gaan knipperen
+D. Blijven branden
+
+(F-examen najaar 2005, maart 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.28 Opgave 7-28
+Als schakelaar S1 gesloten wordt, zal de lamp
+A. Gaan knipperen
+B. Uitgaan
+C. Blijven branden
+D. Gaan branden
+
+(F-examen december 2008, april 2014, september 2015)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.29 Opgave 7-29
+In de schakeling zal:
+A. Lamp 1 en 2 branden
+B. Alleen lamp 1 branden
+C. Alleen lamp 2 branden
+D. Geen lamp branden
+
+(F-examen najaar 2000, mei 2016 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.30 Opgave 7-30
+Welke schakeling kan gebruikt worden als dubbelzijdige gelijkrichter?
+
+A. Schema A
+B. Schema B
+C. Schema C
+D. Schema D
+
+(F-examen najaar 2002)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.31 Opgave 7-31
+De wisselspanning tussen de punten X en Y is 10 Veff. De spanning (onbelast) tussen de
+punten P en Q is ongeveer:
+
+A. 0 V
+B. 14 V
+C. 20 V
+D. 28 V
+
+(F-examen september 2013 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.32 Opgave 7-32
+De onbelaste spanning tussen de punten P en Q is ongeveer
+
+A. 0 V
+B. 8 V
+C. 26 V
+D. 17 V
+
+(F-examen najaar 2001, mei 2010 (1), mei 2011 (2), mei 2012 (1), mei 2014 (2), september
+2014 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.33 Opgave 7-33
+De onbelaste uitgangsspanningen U1 en U2 zijn ongeveer
+
+A. 20 V en 20 V
+B. 28 V en 28 V
+C. 20 V en 40 V
+D. 40 V en 40 V
+
+(F-examen najaar 2007, mei 2015 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.34 Opgave 7-34
+Als gelijkrichter kan worden toegepast:
+
+A. Schema A
+B. Schema B
+C. Schema C
+D. Schema D
+
+(F-examen voorjaar 2002, november 2013 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.35 Opgave 7-35
+De schakeling is onbelast.
+De spanning tussen P en Q wordt weergegeven door:
+
+A. Schema A
+B. Schema B
+C. Schema C
+D. Schema D
+(F-examen voorjaar 2006)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.36 Opgave 7-36
+De uitgangsspanning van een belaste enkelzijdige gelijkrichter met een afvlakcondensator
+verloopt als aangegeven in
+
+A. Figuur A
+B. Figuur B
+C. Figuur C
+D. Figuur D
+(F-examen najaar 2005, juli 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.37 Opgave 7-37
+Van een dubbelfasige gelijkrichter is de uitgangsspanning 10 volt bij een belasting met 100
+ohm. De transformator en de diodes worden ideaal verondersteld. De primaire stroom is:
+
+A. 100√2 mA
+B. 100 mA
+C. 10 mA
+D. 10√2 mA
+(F-examen voorjaar 2005, november 2010 (1), mei 2011 (2), mei 2012 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.38 Opgave 7-38
+Om licht te geven dient een LED te werken
+A. In de sperrichting
+B. Met inductieve voorspanning
+C. In de doorlaatrichting
+D. Met een spanning van circa 0,7 V
+
+(F-examen maart 2011 (1), maart 2013, mei 2016 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.39 Opgave 7-39
+Veel voorkomende spanning en stroom van een LED zijn
+A. 5 V en 60 mA
+B. 1,7 V en 20 mA
+C. 60 V en 20 mA
+D. 0,7 V en 60 mA
+
+(F-examen maart 2009 (2), februari 2010 (2), januari 2013)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.40 Opgave 7-40
+Een LED (light emitting diode) dient op een spanning van 12 V te worden aangesloten
+volgens:
+A. Schema 4
+B. Schema 3
+C. Schema 2
+D. Schema 1
+
+(F-examen voorjaar 2001, april 2009, september 2009 (1), september 2012, september 2013
+(2), november 2015)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.41 Opgave 7-41
+Een zenerdiode wordt meestal toegepast om een
+A. Voedingsspanning te verhogen
+B. Constante spanning te maken
+C. Wisselspanning gelijk te richten
+D. Signaal te versterken
+
+(F-examen maart 2010 (1), mei 2011 (1), mei 2014 (2), mei 2019 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.42 Opgave 7-42
+Deze schakeling kan worden gebruikt als:
+
+A. Stroomstabilisator
+B. Spanningverdubbelaar
+C. Frequentievergelijker
+D. Spanningsstabilisator
+
+(F-examen augustus 2009, juni 2010, juli 2011, september 2011 (1), november 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.43 Opgave 7-43
+Van de gelijke zenerdiodes is de karakteristiek gegeven. Hoe groot is U?
+
+A. 8,8 V
+B. 12,8 V
+C. 10,8 V
+D. 7,4 V
+(F-examen najaar 2005, november 2008 (2), november 2015, november 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.44 Opgave 7-44
+De dioden zijn gelijk. Kies uit de alternatieven de combinatie van hoogste Uuit en grootste
+Iuit die de schakeling kan leveren:
+
+A. Uuit = 20 V en Iuit = 2A
+B. Uuit = 10 V en Iuit = 1A
+C. Uuit = 20 V en Iuit = 1A
+D. Uuit = 10 V en Iuit = 2A
+
+(F-examen najaar 2006, augustus 2009, September 2010 (1), juli 2011, November 2014 (1),
+mei 2015 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.45 Opgave 7-45
+Als door variatie van de voedingsspanning de stroom door de zenerdiode varieert van -20
+mA tot -60 mA, varieert de spanning over Rb met:
+A. 0 V
+B. 0,3 V
+C. 0,4 V
+D. 0,2 V
+
++
+U
+
+Rb
+
+(F-examen maart 2011 (2), april 2011, juni 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.46 Opgave 7-46
+De zenerdiode in de schakeling heeft de onderstaande karakteristiek. De spanning U over
+de zenerdiode is weergegeven in:
+
+A. Grafiek 4
+B. Grafiek 3
+C. Grafiek 2
+D. Grafiek 1
+(F-examen mei 2011 (2), mei 2012 (1 en 2), januari 2013, maart 2014, mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.47 Opgave 7-47
+De schakeling wordt gebruikt voor het meten van een wisselspanning met een frequentie
+van 50 Hz. De draaispoelmeter, die voor gelijkspanning geijkt is, meet van de gelijkgerichte spanning:
+A. De gemiddelde waarde
+B. De topwaarde
+C. De effectieve waarde
+D. Het kwadraat van de effectieve waarde
+
+(F-examen voorjaar 2002, november 2008 (2), oktober 2009, mei 2010 (2), mei 2013 (1),
+september 2016, januari 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.48 Opgave 7-48
+De dioden zijn gelijk.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling
+kan leveren:
+
+A. Uuit= 400V en Iuit= 4A
+B. Uuit= 400V en Iuit= 2A
+C. Uuit= 200V en Iuit= 4A
+D. Uuit= 200V en Iuit= 2A
+
+(F-examen najaar 2006, augustus 2009, september 2010 (1), juli 2011, November 2014 (1),
+mei 2015 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.49 Opgave 7-49
+Deze karakteristiek heeft betrekking op een:
+A. Spanningsbron
+B. Zenerdiode
+C. Weerstand
+D. FET
+
+(F-examen najaar 2007, februari 2009, juni 2009, juli 2009, september 2009 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.50 Opgave 7-50
+De spanning over Rb moet worden gestabiliseerd op 5 volt. Rs moet zijn:
+A. 24 
+B. 50 
+C. 20 
+D. 10 
+
+(F-examen najaar 2001, september 2010 (2), november 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.51 Opgave 7-51
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van de hoogste Uuit en de grootste Iuit die de
+schakeling kan leveren.
+
+A. Uuit = 20 V en Iuit = 1 A
+B. Uuit = 10 V en Iuit = 2 A
+C. Uuit = 30 V en Iuit = 2 A
+D. Uuit = 10 V en Iuit = 1 A
+
+(F-examen najaar 2000, februari 2009, mei 2010 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.52 Opgave 7-52
+Om de resonantiefrequentie van de kring een factor 2 te verhogen, moet de regelspanning
+op de varicap gewijzigd
+worden van:
+A. 12,5 V naar 20 V
+B. 5 V naar 20 V
+C. 10 V naar 5 V
+D. 20 V naar 5 V
+
+(F-examen najaar 2002, juni 2009, januari 2010, augustus 2010, september 2010 (1),
+november 2010 (1), maart 2011 (2), juli 2011, maart 2013, september 2015, november
+2015, mei 2019 (1), mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.4.53 Opgave 7-53
+Deze karakteristiek heeft betrekking op een:
+A. Resonantiekring
+B. NPN-transistor
+C. Weerstand
+D. Diode
+
+(F-examen april 2008, februari 2011, april 2011, december 2011, mei 2018 (2), januari
+2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5 Uitwerkingen
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.1 Uitwerking van Opgave 7-1
+Welke LED licht duidelijk op?
+1k
+LED 1
+1k
+LED 2
+100k
+
++12 V
+
+LED 3
+100k
+LED 4
+0V
+
+A. LED 3
+B. LED 4
+C. LED 2
+D. LED 1
+Uitwerking
+Een LED licht duidelijk op bij een voorwaartse stroom van 5-10 mA bij een
+drempelspanning die afhankelijk van de kleur 1,7 tot 2,8 V is en voor bijzondere kleuren
+ongeveer 4,6 V.
+Twee antwoorden vallen af, omdat de bijbehorende LED spert. Dat zijn LED 2 en LED 4.
+Daar staat de kathode naar de +. Denk aan het ezelsbruggetje KNAP – Kathode Negatief,
+Anode Positief. We houden zo LED 1 en LED 3 over.
+LED 1 staat in serie met 1 k. Bij een drempelspanning van 4,6 V blijft er 7,4V voor de
+weerstand over. Die is 1 k. Dan is de stroom 7,4 mA. Genoeg voor duidelijk licht. Bij een
+drempelspanning van 1,7 V wordt dat ruim 10 mA. Zelfde conclusie. Dit lijkt hem te
+worden, maar toch nog even LED 3 controleren.
+LED 3 staat in serie met 100 k. 7,4 V over 100 k betekent 0,074 mA en 10,3 V leidt tot
+0,097 mA. In beide gevallen is dat veel te weinig om de LED duidelijk te laten oplichten.
+Misschien zie je in het pikdonker een beetje licht, maar dat is verre van “duidelijk”.
+Het wordt dus LED 1, antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.2 Uitwerking van Opgave 7-2
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling kan
+leveren.
+
+D1
+
+D2
+Iuit
+
+D1
+
++
+
+D2
+
+100 k
+
+Usper 150V 200V
+Igem
+2A 1A
+
+100 k
+
+Uuit
+
+A. Uuit = 100 V en Iuit = 1A
+B. Uuit = 200 V en Iuit = 1A
+C. Uuit = 200 V en Iuit = 2A
+D. Uuit = 350 V en Iuit = 1A
+Analyse en oplossing
+We beginnen met het eenvoudigste deel van het probleem, de stroom. Die loopt door
+beide dioden. Dan is de zwakste bepalend. Dat is D2. Die kan maar 1A hebben., Daarmee
+valt antwoord C af.
+Voor de spanning is het verhaal wat lastiger. We beginnen bij het plaatje hieronder.
+1.0
+
+Wisselspanning op ingang
+Uuit belast
+
+Umax
+
+Uuit onbelast
+0.0
+
+-Umax
+
+-1.0
+0
+90
+180
+270
+360
+450
+540
+630
+720
+De rode
+kromme
+is de aangeboden
+sinusvormige
+wisselspanning
+links in het schema. Na
+gelijkrichting door D1 en D2 ontstaat over de elco een spanning Uuit. Het verloop ziet er
+bij belaste schakeling ongeveer uit als de blauwe lijn; de groene lijn geeft het verloop bij
+onbelaste schakeling. Dan lekt er alleen een beetje stroom uit de elco weg via de twee
+weerstanden van 100 k. Uuit blijft dan vrijwel op de maximale spanning Umax. Met die
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+situatie moeten we rekening houden bij het bepalen van de maximale Uuit. Halverwege de
+negatieve halve periode staat de hoogst mogelijke spanning, praktisch 2Umax, over de
+schakeling met D1, D2 en de twee weerstanden van 100 k. De vraag is nu hoeveel
+spanning in sperrichting de afzonderlijke dioden in deze situatie “voor hun kiezen”
+krijgen. De twee weerstanden van 100 k vormen een spanningsdeler. Elke diode krijgt
+daardoor de helft van 2Umax is Umax  Uuit, te weerstaan. Ook hier is de ketting niet sterker
+dan de zwakste schakel. In dit geval is dat D1, die tegen maximaal 150V bestand is. Zou
+Uuit = 200V zijn, dan is dat voor D1 te veel. Die slaat door, over D2 komt dan 400 V te
+staan, waardoor die ook sneuvelt. Over Uuit = 350V hoeven we het dan helemaal niet te
+hebben. Antwoord A dus.
+Alternatief. Het kan ook via de methode van wegstrepen van duidelijk verkeerde
+antwoorden., Als er één overblijft heb je echter niet bewezen dat dit antwoord goed is. Bij
+Uuit = 200V staat er over de dioden 400 V. Samen kunnen ze in theorie een sperspanning
+van 350 V aan, dus de antwoorden B en C zijn niet goed. C was trouwens vanwege de
+stroom al afgevallen. Voor antwoord D moeten ze samen 700 V kunnen weerstaan. Ook
+helemaal fout dus. Resteert antwoord A. Antwoord D is de valkuil voor wie niet snapt hoe
+zo’n gelijkrichtsysteem werkt. De dioden moeten niet alleen de positieve, maar ook de
+negatieve halve periode van de wisselspanning op de ingang overleven.
+Slotopmerking. Wie de opgave goed leest, ziet dat er geen exacte berekeningsuitkomst
+wordt gevraagd. Er staat “Kies uit de alternatieven de combinatie van hoogste Uuit en
+grootste Iuit die de schakeling kan leveren”. Er staat niet: “de combinatie van hoogste Uuit en
+grootste Iuit die de schakeling kan leveren is”. Dat zou voor dit soort schakeling een wat
+bedenkelijke vraag zijn. Het is nooit verstandig, een diode permanent op zijn maximale
+spanning te belasten. Er hoeft dan maar iets met de wisselspanning te gebeuren of het gaat
+fout. Uit een oogpunt van bedrijfszekerheid houd je de spanningen het liefst beperkt tot iets
+in de buurt van 2/3 van het theoretische maximum. Dat is hier daadwerkelijk gebeurd. Uw
+schrijver zou met een diode die maximaal 1A kan leveren, het liefst ook de maximale stroom
+van de schakeling wat hebben beperkt, bijvoorbeeld 0,8 A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.3 Uitwerking van Opgave 7-3
+De sperspanning van een normale siliciumdiode is:
+A. Tussen 2V en 10V
+B. Kleiner dan 0,4 V
+C. Groter dan 10V
+D. Tussen 0,4V en 2V
+Oplossing
+Een “normale” siliciumdiode heeft eigenlijk altijd een sperspanning van enkele tientallen
+V of meer. Si-dioden voor honderden V tot zelfs een aantal kV bestaan ook. Antwoord C
+is dan ook goed.
+Opmerking 1
+Verwar sperspanning niet met drempelspanning. Drempelspanning is de voorwaartse
+spanning, waarbij de diode begint te geleiden. Dan zou je voor een siliciumdiode bij
+antwoord D zijn uitgekomen en als je de siliciumdiode verwart met een germaniumdiode
+bij antwoord B.
+Opmerking 2
+Er wordt gesproken over een “normale siliciumdiode”. Daarmee worden bv. zenerdioden
+uitgesloten.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.4 Uitwerking van Opgave 7-4
+
+Als voedingsgelijkrichter
+kan worden toegepast:
+A. Gelijkrichter 3
+B. Gelijkrichter 4
+C. Gelijkrichter 1
+D. Gelijkrichter 2
+
+gelijkrichter 1
+
+gelijkrichter 2
+
+gelijkrichter 3
+
+gelijkrichter 4
+
+Analyse en oplossing
+In de tekening zien we vier schakelingen met iets dat op een bruggelijkrichter lijkt. De
+transformator links levert de wisselspanning (of -stroom), over de condensator onder moet
+een gelijkspanning komen. Aan welke kant van de condensator de plus en de min moeten
+komen, wordt niet vermeld. Dat merken we dus wel bij nadere beschouwing. De
+weerstand stelt de belasting voor.
+De wisselspanning komt op de bovenste en onderste aansluiting van de brug en er moet
+rechts of links een + uitkomen en aan de overkant een -. Verder mag een bruggelijkrichter
+van binnen geen kortsluiting maken. Om de diodekennis nog even op te frissen: de
+driehoek van de diode kun je zien als een pijl die de technische stroomrichting aangeeft.
+Nu naar de schakelingen.
+Gelijkrichter 1. Is de bovenaansluiting positief (en de onderste dus negatief), dan vormen
+de rechtertwee dioden een kortsluiting. In het omgekeerde geval (boven negatief, onder
+positief), geleiden de linker twee dioden. Weer kortsluiting (en rook en kapotte dioden).
+Deze valt dus af.
+Gelijkrichter 2. Is de bovenaansluiting positief (en de onderste dus negatief), dan vormen
+zowel het linker diodenpaar als het rechter een kortsluiting tussen boven en onder; is de
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+bovenaansluiting negatief, dan sperren de diodeparel links en rechts. Ook hier rook en ter
+ziele gegane dioden. Deze moesten we dus ook maar niet in een schakeling monteren.
+Gelijkrichter 3. Is de bovenste aansluiting positief, en de onderste negatief, dan komt er
+een plus op de rechteraansluiting van de condensator en een min op de linker. Is de
+bovenste aansluiting negatief en de onderste positief, dan gebeurt hetzelfde. Dat werkt dus
+wel. Toch voor de zekerheid nummer 4 even bekijken!
+Gelijkrichter 4. Is de bovenste aansluiting positief, en de onderste negatief, dan geleiden
+de bovenste twee dioden en sperren de onderste twee. Bij de volgende halve periode van
+de wisselspanning (boven negatief, onder positief), dan geleiden de onderste twee en
+sperren de bovenste. Beide aansluitingen van de condensator krijgen steeds een plus; de
+spanning tussen plus en plus is 0. Deze blijft wel rookvrij, maar geeft geen gelijkspanning.
+Conclusie: nummer 3 is de enige die werkt, antwoord A.
+Opmerking
+Je herkent een werkende bruggelijkrichter gemakkelijk, doordat de dioden op de
+tegenover elkaar liggende zijden dezelfde kant op wijzen en bij de
+wisselstroomaansluitingen één diode naar de aansluiting wijst en de tweede van de
+aansluiting af.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.5 Uitwerking van Opgave 7-5
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling kan
+leveren.
+
+A. Uuit = 100 V en Iuit = 1A
+B. Uuit = 200 V en Iuit = 2A
+C. Uuit = 100 V en Iuit = 2A
+D. Uuit = 200 V en Iuit = 1A
+Oplossing
+Er is nauwelijks verschil met Opgave 7-2. D2 heeft nu ook een maximale sperspanning
+van 150 V in plaats van 200 V en het antwoord met 350 V is vervangen door één met 200
+V. Ook nu vallen de antwoorden met Iuit = 2A af, want daar kan D2 niet tegen. De vraag is
+nu of een uitgangsspanning van 200 V (antwoord D) verantwoord is. Omdat er bij het
+minimum van de negatieve halve periode 400 V over de hele schakeling komt te staan, is
+het antwoord nee. Het blijft dus bij antwoord A. Wie wil, kan de uitvoeriger analyse bij
+Uitwerking van Opgave 7-2 nog eens nalezen door op de link te klikken.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.6 Uitwerking van Opgave 7-6
+Voor een constante uitgangsspanning dient de
+ingangsspanning
+A. Hoger te zijn dan de zenerspanning
+B. Lager te zijn dan de zenerspanning
+C. Gelijk te zijn aan de zenerspanning
+D. Een wisselspanning te zijn
+
+Analyse en oplossing
+De zenerdiode moet een constante spanning afleveren. Daarvoor moet hij geleiden, maar
+wel in sperrichting zijn aangesloten. Om de stroom door de zenerdiode in stand te
+houden, moet er spanning over de weerstand staan. De ingangsspanning is de som van de
+zenerspanning en de spanning over de weerstand (tweede wet van Kirchhoff). De
+ingangsspanning moet dus groter zijn dan de zenerspanning; antwoord A.
+Opmerking
+De stroom door de zenerdiode mag niet zo groot worden dat de maximale dissipatie
+(zenerspanning maal stroom) wordt overschreden. Ook mag de weerstand niet te heet
+worden, dus het is bij dit soort schakelingen een beetje balanceren met de belasting.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.7 Uitwerking van Opgave 7-7
+
+Een ideale voltmeter, geijkt voor gelijkspanning, wordt via een gelijkrichter aangesloten
+op een sinusvormige wisselspanning met een effectieve waarde van 10 volt. De meter zal
+dan ongeveer aanwijzen:
+A. 7,1 V
+B. 14,1 V
+C. 9 V
+D. 10,0 V
+Oplossing
+De enkelfasige gelijkrichter laat per periode de positieve helft van de periode door.
+Daardoor wordt de condensator opgeladen tot de maximale spanning, dat is de effectieve
+waarde maal √2. Omdat de voltmeter ideaal is, is de inwendige weerstand oneindig en is
+er geen stroomverlies via de meter. Dan blijft de spanning op de condensator constant op
+10 V maal √2 is ongeveer 14,1 V. Antwoord B dus.
+Opmerking
+Strikt genomen moeten hier ook condensator en diode ideaal zijn. Anders is niet te
+bepalen welk antwoord goed is, want een diëlektricum is nooit een ideale isolator met een
+oneindige weerstand en een in sperrichting geschakelde diode heeft altijd een
+lekstroompje.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.8 Uitwerking van Opgave 7-8
+Om deze schakeling te kunnen maken, beschikt u over 4 trafo’s met verschillende
+wikkelverhoudingen. U wenst een onbelaste uitgangsspanning van 10 V zo dicht mogelijk
+te benaderen.
+
+N1
+
+N2
+
+220 V
+
+10V=
+
+U kiest een transformator met een wikkelverhouding van:
+A. 31:1
+B. 44:1
+C. 22:1
+D. 5,5:1
+Uitwerking
+De instinker van deze opgave is dat de gelijkspanning op de uitgang niet gelijk is aan de
+effectieve spanning Ueff van de secundaire wisselspanning, maar aan Umax, want het gaat
+om de onbelaste gelijkspanning. Dan is de effectieve secundaire wisselspanning gelijk aan
+10 𝑉⁄ ≈ 7,1 𝑉. Dat betekent een transformatieverhouding = wikkelverhouding van
+√2
+220⁄ : 1 ≈ 31: 1.
+7,1
+Antwoord A is dus het goede antwoord.
+Opmerking
+Als je je laat verleiden om uit te gaan van √31:1, heb je aan impedantietransformatie
+gedaan en kom je op antwoord D. Het gaat hier om gewone spanningstransformatie. Bij
+antwoord C ben je vergeten, terug te gaan van de maximale naar de effectieve waarde op
+de secundaire wikkeling en bij antwoord B heb je de 10 V niet gedeeld door √2, maar
+ermee vermenigvuldigd.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.9 Uitwerking van Opgave 7-9
+
+De belastingsstroom Ibel varieert van 100 tot 300 mA. Het maximaal gedissipeerde
+vermogen door de zenerdiode is:
+A. 3 W
+B. 2 W
+C. 8 W
+D. 1W
+Analyse en oplossing
+Over de zenerdiode staat 10 V. Dat betekent dat er over de weerstand van 25  een
+spanning van 20 V – 10 V = 10 V staat. Dan loopt door de weerstand 10 V/25  = 400 mA.
+Die 400 mA wordt verdeeld over Ibel en de stroom door de zener. Als Ibel varieert tussen
+100 mA en 300 mA, varieert de zenerstroom tussen 400 mA – 100 mA = 300 mA en 400
+mA-300 mA = 100 mA. Het hoogste gedissipeerde vermogen in de zenerdiode treedt op bij
+de grootste stroom, dus 300 mA. Dat gebeurt bij een spanning van 10 V en dan krijgen we
+10 V * 0,3 A = 3 W. Antwoord A dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.10 Uitwerking van Opgave 7-10
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling
+kan leveren:
+
+A. Uuit =20V en Iuit =2A
+B. Uuit =20V en Iuit =3A
+C. Uuit =10V en Iuit =2A
+D. Uuit =10V en Iuit =3A
+Uitwerking
+Deze opgave lijkt op Opgave 7-2 en Opgave 7-5. Het verschil is dat daar de dioden niet
+dezelfde maximum-waarden hebben en in serie staan. Hier staan ze parallel.
+Het gemakkelijkste is de stroom Iuit. Daarmee beginnen we. Beide dioden zullen bij gelijke
+karakteristieken evenveel stroom voeren (zie ook de opmerking verderop). Dan is de
+zwakste bepalend. Die kan 1 A hebben, dus met zijn tweeën wordt dat 2 A. Daarmee
+houden we antwoord A en C over.
+Bij een sinusvormige wisselspanning (symbooltje op de ingang) moet je rekening houden
+met 2x de maximale spanning. De reden zie je bij de uitwerking van Opgave 7-2. De
+dioden kunnen 30 V hebben, dus Uuit = 20V is te veel, want dan kan elke diode 40 V te
+verwerken krijgen. In het rijtje staat alleen nog 10 V, dus dat wordt antwoord C. Daarin
+zit meteen de gebruikelijke (en verstandige) veiligheidsmarge van 50% van de
+uitgangsspanning verwerkt.
+Opmerking
+De twee weerstanden van 1 staan niet zomaar in het schema. Bij parallel geschakelde
+dioden kan een minimaal verschil in karakteristiek een groot verschil in stroomsterkte per
+diode veroorzaken. Daardoor kan toch de maximale stroomsterkte in één van de dioden
+worden overschreden. Een kleine weerstand in serie met elke diode voorkomt dit effect.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.11 Uitwerking van Opgave 7-11
+Met de schakeling worden achtereenvolgens vier signalen met gelijke amplitude gemeten.
+
+De grootste uitslag treedt op bij
+A. Signaal 3
+B. Signaal 2
+C. Signaal 1
+D. Signaal 4
+Uitwerking
+Er komt geen afvlakcondensator aan de zaak te pas. Dus geen maximale waarden als
+gelijkspanning op de uitgang. De gemiddelde waarde (oppervlakte in de grafiek) van het
+gelijkgerichte signaal bepaalt hier de meteruitslag.
+Signaal 1 en 2 leveren na gelijkrichting dezelfde signaalvorm op; die van signaal 2. Signaal
+3 levert een signaal ter grootte van de amplitude. Signaal 4 levert hoe dan ook de kleinste
+uitslag, want een driehoek beslaat minder oppervlak in de grafiek dan de bollere sinus.
+Signaal 3 levert een signaal ter grootte van de amplitude, de rest is kleiner. Antwoord A.
+Opmerking (volgende bladzij)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+Het driehoekssignaal wordt niet genoemd in de exameneisen. Het zou daarom ook niet in
+een examenvraag mogen voorkomen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.12 Uitwerking van Opgave 7-12
+Met de schakeling worden achtereenvolgens vier signalen met gelijke amplitude gemeten.
+
+De kleinste uitslag treedt op bij
+A. Signaal 4
+B. Signaal 2
+C. Signaal 1
+D. Signaal 3
+Uitwerking
+Net als bij Opgave 7-11 ontbreekt de afvlakcondensator en is de oppervlakte van het
+gelijkgerichte signaal bepalend voor het antwoord. Signaal 1 en 2 leveren na gelijkrichting
+hetzelfde resultaat. Signaal 3 geeft een gelijkspanning ter grootte van de amplitude en na
+gelijkrichting leveren de driehoeken van signaal 4 de kleinste oppervlakte van allemaal.
+Antwoord A.
+Opmerking
+Zoals al opgemerkt komt het driehoekssignaal niet voor in de exameneisen en zou dus ook
+niet in een examenvraag mogen voorkomen en al helemaal niet als het goede antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.13 Uitwerking van Opgave 7-13
+De uitgangsspanning U is:
+
+A. -36 V
+B. -12 V
+C. +10 V
+D. 0 V
+
+Analyse en oplossing
+De vraag is, welke diode in geleiding is. Alle dioden hebben een anodespanning die
+positief is in vergelijking met de -36 V, maar de anodespanningen kunnen niet negatiever
+zijn dan U. Dan “wint” de meest positieve en dat is de diode met 10 V op de anode.
+Antwoord C.
+Opmerking
+De drempelspanningen van de dioden zijn hier gemakshalve niet meegerekend, maar daar
+gaat het bij deze opgave ook niet om.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.14 Uitwerking van Opgave 7-14
+Welke van de schakelingen kan worden toegepast om een negatieve en een positieve
+gelijkspanning te krijgen?
+
+A. Zowel schakeling X als schakeling Y
+B. Alleen schakeling Y
+C. Alleen schakeling X
+D. Geen van beide schakelingen
+
+Uitwerking
+We lopen beide schakelingen stuk voor stuk na.
+Schakeling X is een trafo met twee enkelfasige gelijkrichters. De dioden staan in
+tegengestelde richting. De onderste diode geeft een positieve, de bovenste een negatieve
+gelijkspanning. Daarmee is schakeling X “goedgekeurd”.
+Schakeling Y is een trafo met twee dubbelfasige gelijkrichters. De bovenste uitgang is
+negatief (de twee dioden staan in de goede richting); de middelste is positief, ook met
+beide dioden de goede kant op. Ook “goedgekeurd” dus.
+(De onderste aansluiting is massa voor beide)
+Dit leidt tot antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.15 Uitwerking van Opgave 7-15
+De onbelaste uitgangsspanningen U1 en U2 zijn ongeveer:
+
+A. U1 = 140 V en U2 = 280 V
+B. U1 = 140 V en U2 = 140 V
+C. U1 = 100 V en U2 = 140 V
+D. U1 = 100 V en U2 = 100 V
+Oplossing
+De bovenste schakeling is een trafo met enkelfasige gelijkrichter. De wisselspanning is 100
+V effectief. Doordat de schakeling onbelast is, bouwt zich op condensator C een spanning
+U1 op die gelijk is aan de maximale spanning, dat is 100√2 V, ofwel ongeveer 140 V.
+De onderste schakeling is een trafo met dubbelfasige gelijkrichter. Beide wikkelingen
+geven 100 V effectief, zodat voor deze schakeling hetzelfde geldt als voor de eerste: U2 =
+Umax = 100√2 V, ofwel ongeveer 140 V.
+Conclusie: antwoord B is het juiste antwoord.
+Opmerking
+Ken het onderscheid tussen enkel- en dubbelzijdige gelijkrichting!
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.16 Uitwerking van Opgave 7-16
+In het afvlakfilter van een netspanninggevoede ontvanger dienen de condensatoren een
+waarde te hebben van ongeveer
+A. 1000 nanofarad
+B. 1000 picofarad
+C. 1000 microfarad
+D. 100 farad
+Uitwerking
+De vraagstelling is eigenlijk te algemeen. Bij een transistorontvanger loopt meestal een
+flinke stroom bij een relatief lage spanning, in een buizenontvanger een veel lagere
+stroom bij een hoge spanning. Maar de condensatoren in een afvlakfilter zitten vrijwel
+altijd in het gebied van microfarads (F). Die hoge waarden zijn het gevolg van de lage
+netfrequentie, 50 Hz (in sommige andere landen 60 Hz). Dan is C het voor de hand
+liggende antwoord.
+Opmerking
+Om een iets duidelijker idee te krijgen van condensatorwaarden in dit soort situaties het
+volgende. Bij een apparaat dat ongeveer 100 mA gebruikt, is 2 keer 50 of 100 F plus een
+smoorspoel vrij gebruikelijk. Als het verbruik in de ampères loopt, zoals bij een
+vermogensversterker met transistoren of MOSFET’s, kom je wat condensatoren betreft
+snel op het tienvoudige. Het gaat bij dit soort waarden altijd om elco’s. Die kunnen een
+hoge capaciteit hebben, maar kunnen geen hoge frequenties aan. Dat past dus goed bij
+netspanningsvoeding.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.17 Uitwerking van Opgave 7-17
+Op de ingang is een pulsvormige spanning aangesloten
+
+De onbelaste uitgangsspanning is:
+A. 40/ V
+B. 20 V
+C. 40 V
+D. 10 V
+Opmerking
+Let op: op de uitgang van de schakeling is het ouderwetse symbool V voor spanning
+gebruikt. Eigenlijk had hier Uu moeten staan.
+Uitwerking
+Bij een onbelaste condensator is in deze schakeling de uitgangsspanning gelijk aan de
+hoogste spanning aan de ingang. Dat is in dit geval 40 V. Dat betekent antwoord C.
+Opmerkingen
+Voor de scherpslijpers onder ons: Er moet eigenlijk een heel klein beetje van die 40 V af,
+vanwege de drempelspanning van de diode. Bij een onbelaste schakeling is dat bijna niets.
+De uitgangsspanning moet zich na inschakelen van de ingangsspanning wel opbouwen.
+Hoe snel dat gaat hangt af van de capaciteit, de breedte van de pulsen en de frequentie. De
+spanning is tijdens de opbouw trapvormig, één trede per puls.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.18 Uitwerking van Opgave 7-18
+De condensator in de schakeling moet minstens geschikt zijn voor een spanning van:
+
+A. 100 V
+B. 50 V
+C. 75 V
+D. 150 V
+Uitwerking
+Bij een dergelijke schakeling moet men rekening houden met de mogelijkheid dat de
+belasting geen stroom opneemt. Dan komt over de condensator de maximale spanning te
+staan. Het schema suggereert een sinusvormige ingangsspanning. In dat geval is de
+maximale spanning gelijk aan √2 maal de effectieve spanning. 50√2 is ongeveer 70,7, dus
+de maximale spanning is 70,7 V. De dichtstbijzijnde hogere waarde in het rijtje
+antwoorden is 75 V, dus dat wordt de uitkomst. Antwoord C.
+Opmerkingen
+In de praktijk is het niet verstandig, zo’n klein verschil aan te houden tussen de te
+verwachten spanning en de spanning waarvoor de condensator geschikt is. Bij die 75 V
+kan de eerste de beste piek op de netspanning -en die zijn er meer dan veel mensen
+denken- de boel opblazen. Meestal wordt gewerkt met de dubbele spanning, in dit geval
+dus zo’n 150 V. Dat beschermt je dure apparaat.
+Verwar de maximale spanning over de condensator niet met die over de diode!
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.19 Uitwerking van Opgave 7-19
+De diodekeuze in een gelijkrichtschakeling is afhankelijk van
+A. Alleen de maximale sperspanning
+B. Zowel de maximale sperspanning als de maximale stroom
+C. Alleen de maximale stroom
+D. Geen van de hierboven gegeven grootheden
+Uitwerking
+Voor een diode in een gelijkrichter moet je rekening houden met de maximale stroom en
+de maximale sperspanning. Die moeten groter zijn dan de maximale spanning over en de
+maximale stroom door de diode. In de praktijk wordt vaak een veilige marge aangehouden
+van 100% in verband met kortstondige pieken op de gelijk te richten spanning. Als in een
+voedingsschakeling de diode doorslaat, zal dat in veel gevallen ook de te voeden
+schakeling ruïneren. Een ruim bemeten voedingsschakeling is de goedkoopst denkbare
+schadeverzekering voor de rest van een apparaat. Antwoord B is het juiste antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.20 Uitwerking van Opgave 7-20
+De maximale doorlaatstroom in een halfgeleider wordt bepaald door de
+A. Maximale sperspanning
+B. Doorlaatspanning
+C. Omgekeerde EMK
+D. Kristaltemperatuur
+Uitwerking
+De temperatuur van het kristalmateriaal mag niet te hoog worden Voor germanium ligt
+die temperatuur in de buurt van 70 ºC, voor silicium in de buurt van 150 ºC. Dat betekent
+antwoord D.
+Opmerkingen
+Met maximale sperspanning heeft de maximale stroom niets te maken, evenmin als met de
+doorlaatspanning. “Omgekeerde EMK” is geen standaardterm.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.21 Uitwerking van Opgave 7-21
+In welke situatie is de diode gesperd?
+
+A. Situatie 1
+B. Situatie 2
+C. Situatie 3
+D. Situatie 4
+
+Uitwerking
+De diode is gesperd als de spanning op de kathode (hier de rechterkant van alle vier de
+diodes) positief is ten opzichte van de anode (hier de linkerkanten). Dat is maar in één van
+de vier het geval (en zo hoort het ook op een multiple-choice-examen) en dat is situatie 2.
+Antwoord B wint.
+Opmerkingen
+In theorie zou je rekening moeten houden met de drempelspanning, maar bij spanningen
+van 5 V of meer is dat niet aan de orde.
+Denk aan het ezelsbruggetje KNAP – Kathode Negatief, Anode Positief.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.22 Uitwerking van Opgave 7-22
+De lekstroom van een diode
+A. Is alleen afhankelijk van de spanning
+B. Is niet afhankelijk van de temperatuur
+C. Neemt toe bij temperatuurverhoging
+D. Neemt af bij temperatuurverhoging
+Uitwerking
+De lekstroom van een diode is de stroom door de diode als deze gesperd staat. Die stroom
+wordt groter, naarmate de temperatuur van de diode hoger is. Dat is het gevolg van met
+de temperatuur toenemende trilling van de atomen in het kristalrooster. Dus is antwoord
+C het juiste antwoord.
+Opmerking
+Bij germanium is het effect over het algemeen groter dan bij silicium.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.23 Uitwerking van Opgave 7-23
+De juiste uitgangsspanningen X en Y
+zijn:
+
+A. X=+24 V en Y=0 V
+B. X=-12 V en Y=0 V
+C. X=-12 V en Y=+24 V
+D. X=0 V en Y=-12 V
+
+Uitwerking
+Als een diode geleidt, moet de spanning op de anode positief zijn ten opzichte van die op
+de kathode. In dat geval heeft de spanning X en/of Y (vrijwel) de waarde van de spanning
+aan de “overkant” van de diode. De weerstand beperkt dan alleen de stroom, zodat de
+diode heel blijft.
+Als de diode niet geleidt, heeft X en/of Y de spanning 24 V, want door de weerstand loopt
+geen stroom.
+Bij X staan de dioden met hun anode naar de +, maar de kathode van de onderste diode
+heeft -12 V en die van de andere 0 V. Dan wint de -12 V en geleidt de bovenste diode
+niet. Daarmee vallen de antwoorden A en D af.
+Bij Y staan de dioden in omgekeerde richting ten opzichte van X en geleiden ze geen van
+beide. Dat betekent dat op Y +24 V staat, want doordat er geen stroom loopt, staat er over
+de weerstand geen spanning en blijft de 24 V in zijn geheel over. Daarmee valt ook
+antwoord B af en houden we antwoord C over.
+Opmerking
+In dit soort schakelingen “wint” het grootste verschil in spanning in de doorlaatrichting.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.24 Uitwerking van Opgave 7-24
+De uitgangsspanning U is:
+A. 0 V
+B. - 12 V
+C. - 24 V
+D. - 36 V
+
+Uitwerking
+Ook in deze schakeling “wint” het grootste verschil in spanning, mits de diode geleidt en
+dat is hier het geval.
+Dat betekent dat U = 0 V, antwoord A.
+Opmerking
+Zie ook de Uitwerking van Opgave 7-13 en de opmerking bij de Uitwerking van Opgave
+7-23.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.25 Uitwerking van Opgave 7-25
+De voltmeter wijst ongeveer 5 volt aan.
+De stand van de schakelaars is:
+A. S1 open; S2 open
+B. S1 open; S2 dicht
+C. S1 dicht; S2 open
+D. S1 dicht; S2 dicht
+
+Uitwerking
+5 V over de voltmeter kan alleen als geen van beide dioden geleidt. Omdat de anodes naar
++ 5 staan en de kathodes aan de kant van de schakelaars die de weg naar 0 V bedienen,
+kunnen de schakelaars niet geleiden. Ze moeten daarom allebei open staan. Dat leidt tot
+antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.26 Uitwerking van Opgave 7-26
+In de schakelingen zijn identieke
+componenten gebruikt; I1 en I2 zijn de
+piekstromen door de dioden. Welke van de
+volgende beweringen is juist?
+
+A. I1 is groter dan I2; U1 is groter dan U2
+B. I1 is kleiner dan I2; U1 is kleiner dan U2
+C. I1 is kleiner dan I2; U1 is groter dan U2
+D. I1 is groter dan I2; U1 is kleiner dan U2
+
+Uitwerking
+In deze twee voedingsschakelingen is I2 groter dan I1 als gevolg van de laadstroom van de
+elco links van de smoorspoel in de onderste schakeling. In de bovenste schakeling komt de
+laadstroom als gevolg van de smoorspoel geleidelijker op gang. Dat sluit de antwoorden A
+en D uit.
+De uitgangsspanning U1 zal kleiner zijn dan U2 als gevolg van de buffer die de extra elco
+in de onderste schakeling geeft. Ook is de wisselspanningsrimpel op de uitgangsspanning
+bij twee elco’s kleiner is dan bij een enkele elco van dezelfde capaciteit. Antwoord B.
+Opmerking
+Bij deze opgave is goed lezen belangrijk: het gaat niet om de stromen, maar om de
+piekstromen. De identieke componenten (onderdelen) betekenen dat condensatoren,
+diodes, trafo’s, smoorspoelen en weerstanden allemaal gelijk zijn.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.27 Uitwerking van Opgave 7-27
+Als S1 geopend wordt, zal de lamp:
+A. Uitgaan
+B. Gaan branden
+C. Gaan knipperen
+D. Blijven branden
+
+Uitwerking
+De takken met S1 en S2 zijn identiek en beide in
+geleiding, want hun anode is verbonden met de plus- en
+hun kathode via de lamp met de minpool van de batterij. Als één van beide verbindingen
+wegvalt, blijft de andere geleiden.
+Als S1 wordt geopend, loopt de stroom via S2 en blijft de lamp gewoon branden. Dat betekent
+dat antwoord D goed is.
+Opmerking
+Er wordt stilzwijgend van uitgegaan dat de combinatie van batterijspanning en lamp tot een
+brandende lamp leidt. Dat is zonder nadere gegevens niet vanzelfsprekend, maar ga er maar
+vanuit dat zulke valstrikken op het examen niet voorkomen, of ze moeten uit de meerkeuzeantwoorden blijken.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.28 Uitwerking van Opgave 7-28
+Als schakelaar S1 gesloten wordt, zal de lamp
+A. Gaan knipperen
+B. Uitgaan
+C. Blijven branden
+D. Gaan branden
+
+Uitwerking
+De anode van diode D2 is via S2 verbonden met de pluspool van de batterij; de lamp met de
+minpool. Doordat de schakelaar gesloten is, brandt de lamp. Of S1 nu open of gesloten is,
+maakt voor de lamp niets meer uit: die blijft gewoon branden. Antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.29 Uitwerking van Opgave 7-29
+In de schakeling zal:
+A. Lamp 1 en 2 branden
+B. Alleen lamp 1 branden
+C. Alleen lamp 2 branden
+D. Geen lamp branden
+
+Uitwerking
+Links in de schakeling zien we een wisselspanningsbron. Via een gelijkrichtdiode bereikt
+de stroom twee diodes, één in serie met lamp 1 en de ander in serie met lamp 2.
+De diode over lamp 1 staat in dezelfde richting geschakeld als de gelijkrichtdiode.
+Daardoor bereikt de stroom ook lamp 1. De andere diode staat in omgekeerde richting
+geschakeld en staat daarom gesperd.
+Conclusie: lamp 1 kan branden, lamp 2 niet. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.30 Uitwerking van Opgave 7-30
+Welke schakeling kan gebruikt worden als dubbelzijdige gelijkrichter?
+
+A. Schema A
+B. Schema B
+C. Schema C
+D. Schema D
+Uitwerking
+We lopen alle vier schakelingen na.
+In schakeling A vormen de diodes een gelijkstroomkortsluiting tussen beide uiteinden van
+de secundaire wikkeling. Die gaat niet werken.
+In schakeling B zien we iets dat op een bruggelijkrichter lijkt. Bij nadere beschouwing
+blijken aan beide kanten de diodes een pluspool te moeten leveren. Die kunnen we dus
+ook vergeten.
+In schakeling C zien we twee diodes die twee met elkaar verbonden plussen opleveren en
+een middenaftakking die een min maakt. Deze werkt.
+Toch voor de zekerheid nog even naar schakeling D. Een enkelzijdige gelijkrichter? Jawel,
+maar met een nutteloze diode aan de middenaftakking. In elk geval géén dubbelzijdige
+gelijkrichter. Conclusie: antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.31 Uitwerking van Opgave 7-31
+De wisselspanning tussen de punten X en Y is 10 Veff. De spanning (onbelast) tussen de
+punten P en Q is ongeveer:
+
+A. 0 V
+B. 14 V
+C. 20 V
+D. 28 V
+Uitwerking
+We zien twee gelijkrichters aan dezelfde aansluiting van de secundaire van de trafo. De
+andere kant van de wikkeling vormt de 0 V voor beide gelijkrichters. Dan is de spanning
+op punt P 10√2 V  14 V. Die op punt Q is dan -10√2 V  -14 V. Daarmee komt de
+spanning tussen P en Q op ongeveer 28 V en dat is antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.32 Uitwerking van Opgave 7-32
+De onbelaste spanning tussen de punten P en Q is ongeveer
+
+A. 0 V
+B. 8 V
+C. 26 V
+D. 17 V
+Uitwerking
+De schakeling bevat twee dubbelzijdige gelijkrichters. De een (met de binnenste twee
+diodes) is de gebruikelijke dubbelzijdige gelijkrichter met positieve uitgangsspanning, de
+andere (buitenste) is eenzelfde gelijkrichter, maar met negatieve uitgangsspanning. Op
+punt Q staat 6√2 V, op punt P -6√2 V. Samen is dat een spanning van 12√2 V 1,4*12 V
+17 V. Antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.33 Uitwerking van Opgave 7-33
+De onbelaste uitgangsspanningen U1 en U2 zijn ongeveer
+
+A. 20 V en 20 V
+B. 28 V en 28 V
+C. 20 V en 40 V
+D. 40 V en 40 V
+Uitwerking
+Om te beginnen zien we een bruggelijkrichter die dubbelzijdig gelijkricht. Het enige
+bijzondere is de middenaftakking van de secundaire van de trafo, waarvan de
+aansluitleiding (de “nulleiding”) midden tussen de positieve en de negatieve leiding is
+getekend. Dan moeten U1 en U2 gelijk zijn ten opzichte van de leiding aan de
+middenaftakking. De 40 V van de trafo wordt netjes in tweeën gedeeld, zodat U1 gelijk is
+aan +20√2 V ten opzichte van de nulleiding en de nulleiding +20√2 V ten opzichte van U2.
+20√2 is afgerond 28. Antwoord B is het juiste antwoord, maar kijk wel even bij de
+opmerking.
+Opmerking
+Als je U1 definieert ten opzichte van de nulleiding, moet je dat eigenlijk ook voor U2 doen.
+In dat geval is U2 -28 V en had antwoord B eigenlijk +28 V en -28 V moeten zijn. Naar de
+mening van de schrijver zou dit een juister antwoord zijn geweest. Ook een samensteller
+van examens maakt wel eens een uitglijder.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.34 Uitwerking van Opgave 7-34
+Als gelijkrichter kan worden toegepast:
+
+A. Schema A
+B. Schema B
+C. Schema C
+D. Schema D
+Uitwerking
+Er is keuze uit vier schema’s. Dan kan men het beste de schema’s stuk voor stuk nalopen.
+Schema A levert een kortsluiting op tussen de aansluitingen van de trafo. Die werkt dus
+niet, misschien alleen als (zeer) tijdelijke vonken- of rookfabriek.
+Schema B lijkt op een bruggelijkrichter, maar is het niet, alleen al door het feit dat de
+rechterhelft van de brug voor één fase een kortsluiting vormt over de secundaire van de
+trafo, om maar niet te spreken van drie in plaats van twee punten van de brug aan de trafo
+die ook nog eens een enkelfasige kortsluiting maken via de middenaftakking van de trafo.
+Schema C is een ordentelijke brugschakeling. Is de bovenkant van de secundaire positief,
+dan hebben we op de brug links een min en rechts een plus en is de onderkant positief,
+dan hebben we hetzelfde resultaat.
+In schema D horen de beide diodes dezelfde kant op te “wijzen”, maar ze staan
+tegengesteld. Dat werkt dus ook niet.
+Conclusie: C is het enige bruikbare schema en daarmee is antwoord C het enige goede.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.35 Uitwerking van Opgave 7-35
+De schakeling is onbelast.
+De spanning tussen P en Q wordt weergegeven door:
+
+A. Schema A
+B. Schema B
+C. Schema C
+D. Schema D
+Uitwerking
+Het schema toont een dubbelzijdige gelijkrichter met een elco over de uitgang. Als de
+schakeling onbelast is, zijn er geen noemenswaardige verliezen en moet op de uitgang een
+gelijkspanning staan zonder wisselspanningsrimpel. Het enige plaatje dat daaraan voldoet
+is C. Dat is dan ook het goede antwoord.
+Opmerkingen
+De plaatjes B en D lijken sterk op elkaar. Het verschil is dat bij B de spanning na een piek
+langzaam daalt, wat bij belasting normaal is en bij D langzaam stijgt, wat niet kan. Dat is
+iets om in de gaten te houden bij een eventuele vraag over een soortgelijke schakeling met
+belasting.
+Bij plaatje A is de condensator stuk of afwezig.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.36 Uitwerking van Opgave 7-36
+De uitgangsspanning van een belaste enkelzijdige gelijkrichter met een afvlakcondensator
+verloopt als aangegeven in
+
+A. Figuur A
+B. Figuur B
+C. Figuur C
+D. Figuur D
+Uitwerking
+De spanning op de uitgang van een belaste gelijkrichtschakeling ziet eruit als de laad/ en
+ontlaadkarakteristiek van een condensator, parallel aan een weerstand. In hoofdstuk 4
+hebben we daarvan een oscilloscoopbeeld gezien.
+In verkleinde vorm is het hiernaast weergegeven. De
+gelijkenis met figuur B is het grootst. B is minder
+puntig. Dat komt doordat B wordt gevoed met een
+sinus en de golfvorm op de foto met een blokgolf. B is
+het goede antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.37 Uitwerking van Opgave 7-37
+Van een dubbelfasige gelijkrichter is de uitgangsspanning 10 volt bij een belasting met 100
+ohm. De transformator en de diodes worden ideaal verondersteld. De primaire stroom is:
+
+A. 100√2 mA
+B. 100 mA
+C. 10 mA
+D. 10√2 mA
+Uitwerking
+De gemakkelijkste manier om dit vraagstuk op te lossen, is via het vermogen. Dat bespaart
+gedoe met effectieve spanningen en dergelijke. Alles is ideaal, dus het elektrisch vermogen
+dat uit de schakeling komt, moet er ook zijn ingegaan.
+10 V over 100  betekent een vermogen P volgens
+𝑈2
+𝑃=
+𝑅
+En dat betekent 100/100 W is 1 W. Nu van vermogen naar primaire stroom. Dat gaat met
+𝑃 = 𝑈𝐼 → 𝐼 =
+
+𝑃
+𝑈
+
+Daaruit volgt dat I =1/100 A is 10 mA. Antwoord C.
+Opmerking
+Er wordt stilzwijgend vanuit gegaan dat de primaire spanning 100 V effectief is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.38 Uitwerking van Opgave 7-38
+Om licht te geven moet een LED werken
+A. In de sperrichting
+B. Met inductieve voorspanning
+C. In de doorlaatrichting
+D. Met een spanning van circa 0,7 V
+Uitwerking
+Een LED moet in doorlaatrichting staan. De stroom bepaalt lichtsterkte en levensduur, de
+drempelspanning is afhankelijk van de lichtkleur, maar altijd hoger dan de ongeveer 0,7 V
+van een siliciumdiode. Afhankelijk van de kleur is dat ongeveer 1,1 tot 3,5 V. Antwoord C
+is daarom goed.
+Opmerking
+Bij oudere types LED is de stroom ongeveer 20 mA, bij modernere types 5 mA. Die
+stromen worden bij gebruik als signaallampjes meestal ingesteld met behulp van een
+serieweerstand.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.39 Uitwerking van Opgave 7-39
+Veel voorkomende spanning en stroom van een LED zijn
+A. 5 V en 60 mA
+B. 1,7 V en 20 mA
+C. 60 V en 20 mA
+D. 0,7 V en 60 mA
+Uitwerking
+Dit is een weetje. Zie ook de uitwerking van Opgave 7-38.
+Afhankelijk van de lichtkleur werkt een LED met ongeveer 1,1 V tot 3,5 V. De stroom ligt
+meestal in de buurt van 20 mA, bij moderne typen kan dat 5 mA zijn.
+Het enige antwoord dat hieraan voldoet, is antwoord B. In dat geval gaat het om een rode
+LED, maar dat laatste was de vraag niet.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.40 Uitwerking van Opgave 7-40
+Een LED (light emitting diode) dient op een spanning van 12 V te worden aangesloten
+volgens:
+A. Schema 4
+B. Schema 3
+C. Schema 2
+D. Schema 1
+
+Uitwerking
+Afhankelijk van de kleur heeft een LED een voorwaartse spanning nodig tussen circa 1,1
+en 3,5 V. Door de LED zonder serieweerstand op 12 V aan te sluiten, is deze op hetzelfde
+moment doorgebrand. Daarmee vervalt schema 1. In schema 2 en in schema 3 staat de
+LED gesperd, dus ook daar blijft het donker, ook al blijft de LED waarschijnlijk wel heel.
+In schema 4 staat de LED in doorlaatrichting aangesloten, in serie met een weerstand die
+dan wel een zodanige waarde moet hebben dat de stroom zo rond de 20 mA (of 5 mA voor
+een modern exemplaar) ligt.
+Opmerking
+Over de weerstandswaarde wordt niets vermeld. Als die bijvoorbeeld 1 M is, geeft de
+LED geen licht. Dat mag worden gezien als een klein gebrek aan deze opgave.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.41 Uitwerking van Opgave 7-41
+Een zenerdiode wordt meestal toegepast om een
+A. Voedingsspanning te verhogen
+B. Constante spanning te maken
+C. Wisselspanning gelijk te richten
+D. Signaal te versterken
+Uitwerking
+Een zenerdiode wordt meestal gebruikt om een vrijwel constante spanning te maken voor
+kleine belastingen. Hij staat geschakeld in sperrichting en gedraagt zich in
+doorlaatrichting als een gewone diode. Bij een bepaalde spanning in sperrichting, de
+zenerspanning, neemt de sperstroom sterk toe en blijft de spanning over de zenerdiode tot
+op tienden van een volt constant.
+Dat wordt dus antwoord B
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.42 Uitwerking van Opgave 7-42
+Deze schakeling kan worden gebruikt als:
+
+A. Stroomstabilisator
+B. Spanningverdubbelaar
+C. Frequentievergelijker
+D. Spanningsstabilisator
+Uitwerking
+De schakeling bestaat uit een zenerdiode met een weerstand naar een ingang. Een
+zenerdiode staat in sperrichting aangesloten en zal bij een zekere spanning, afhankelijk
+van zijn inwendige samenstelling, gaan geleiden, waardoor over de zener een vrijwel
+constante spanning komt te staan. Antwoord D is dan ook het juiste antwoord.
+Opmerkingen
+Het schema laat niet zien waar plus en min zitten. Als de plus onderin het schema zit, is
+de diode in geleiding en staat er ongeveer 0,7 V overheen.
+De ingangsspanning moet hoger zijn dan de zenerspanning. Geen van beide staan in het
+schema.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.43 Uitwerking van Opgave 7-43
+Van de gelijke zenerdiodes is de karakteristiek gegeven. Hoe groot is U?
+
+A. 8,8 V
+B. 12,8 V
+C. 10,8 V
+D. 7,4 V
+Uitwerking
+Als door de weerstand 20 mA loopt, moet die ook door de twee zenerdioden lopen.
+Daarmee is de zenerspanning in de grafiek af te lezen: 5,4 V. Omdat er twee zenerdioden
+in serie staan, staat over beide dioden samen 2 * 5,4 V = 10,8 V. Voor U komt daar nog de
+spanning over de weerstand bij. Door de weerstand loopt diezelfde 20 mA. Bij 100 
+betekent dat 0,02 * 100 V = 2 V. Dan is U = 10,8 V + 2 V = 12,8 V. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.44 Uitwerking van Opgave 7-44
+De dioden zijn gelijk. Kies uit de alternatieven de combinatie van hoogste Uuit en grootste
+Iuit die de schakeling kan leveren:
+
+A. Uuit = 20 V en Iuit = 2A
+B. Uuit = 10 V en Iuit = 1A
+C. Uuit = 20 V en Iuit = 1A
+D. Uuit = 10 V en Iuit = 2A
+Uitwerking
+De dioden staan parallel en zijn gelijk aan elkaar. Dat betekent dat de stroom gelijk
+verdeeld wordt over beide. Dan mag Iuit maximaal gelijk zijn aan het dubbele van de
+maximale stroom per diode (zie ook de opmerking), dus 2 A. Daarmee vallen de
+antwoorden B en C af.
+Over de dioden mag maximaal 30 V komen te staan. Als de belasting 0 is, kan tijdens de
+negatieve periode van de wisselspanning de dubbele uitgangsspanning over de dioden
+komen te staan. Voor antwoord A zou dat op 2*20 V = 40 V uitkomen. Dat leidt in veel
+gevallen tot doorslag, hoewel veel dioden wel iets meer kunnen hebben dan de
+fabrieksspecificatie aangeeft. Maar een voeding moet zo degelijk in elkaar zitten dat de te
+voeden apparatuur goed wordt beschermd. Daarmee blijft antwoord D over. Dat antwoord
+geeft een 50% veiligheidsmarge. Een marge van 50-70% op de sperspanning is
+gebruikelijk.
+Voor de stroom geldt die veiligheidsmarge in mindere mate, want een defecte diode
+geleidt doorgaans niet.
+Opmerking
+De twee weerstanden van 1  in serie met de dioden werken kleine verschilletjes in
+eigenschappen van beide dioden grotendeels weg. Dit is een gebruikelijke
+veiligheidsmaatregel bij het parallel schakelen van dioden.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-114
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.45 Uitwerking van Opgave 7-45
+Als door variatie van de voedingsspanning de stroom door de zenerdiode varieert van -20
+mA tot -60 mA, varieert de spanning over Rb:
+A. 0 V
+B. 0,3 V
+C. 0,4 V
+D. 0,2 V
+
++
+U
+
+Rb
+
+Uitwerking
+Dit is een kwestie van aflezen van de grafiek. Bij -20 mA hoort volgens de grafiek een
+spanning over de zenerdiode van -5 V (bovenste rode pijl). Bij -60 mA hoort -5,2 V
+(onderste rode pijl). Verschil: 0,2 V, wat neerkomt op antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-115
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.46 Uitwerking van Opgave 7-46
+De zenerdiode in de schakeling heeft de onderstaande karakteristiek. De spanning U over
+de zenerdiode is weergegeven in:
+
+A. Grafiek 4
+B. Grafiek 3
+C. Grafiek 2
+D. Grafiek 1
+Uitwerking
+Let allereerst op de schakelrichting van de zenerdiode: die staat met de anode naar boven.
+Dat betekent dat tijdens de positieve helft van de wisselspanning de zenerdiode in
+doorlaatrichting staat en volgens de karakteristiek de spanning U dan 1 V is. Eigenlijk
+hoeven we dan al niet verder te kijken, want alleen grafiek 2 vertoont dat gedrag. Toch
+maar controleren, je weet maar nooit.
+Tijdens de negatieve periodehelft staat over de zenerdiode een spanning van -3 V en ook
+dat klopt met grafiek 2. Dat betekent dus antwoord C.
+Opmerking
+Wie zich verwondert over de blokspanningen in Grafiek 1-4, moet nog eens goed naar de
+karakteristiek kijken. Die is op beide uiteinden zeer steil. Dat betekent dat de
+stroomsterkte nauwelijks (lees: geen) invloed heeft op de spanning over de zenerdiode.
+Dat dit een nogal theoretisch geval is, mag duidelijk zijn, maar het gaat hier vooral om het
+kunnen lezen en begrijpen van een grafiek.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-116
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.47 Uitwerking van Opgave 7-47
+De schakeling wordt gebruikt voor het meten van een wisselspanning met een frequentie
+van 50 Hz. De draaispoelmeter, die voor gelijkspanning geijkt is, meet van de
+gelijkgerichte spanning:
+A. De gemiddelde waarde
+B. De topwaarde
+C. De effectieve waarde
+D. Het kwadraat van de effectieve waarde
+
+Uitwerking
+Een draaispoelmeter is een wijzerinstrument. De wijzer is niet in staat, 50 Hz te volgen.
+Het gevolg is, dat het apparaat de gemiddelde waarde aanwijst. Antwoord A is dus het
+goede antwoord.
+Opmerking
+Zou er een condensator over de voltmeter hebben gestaan, dan zou antwoord B juist zijn
+geweest.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-117
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.48 Uitwerking van Opgave 7-48
+De dioden zijn gelijk.
+Kies uit de alternatieven de combinatie van hoogste Uuit en grootste Iuit die de schakeling
+kan leveren:
+
+A. Uuit= 400V en Iuit= 4A
+B. Uuit= 400V en Iuit= 2A
+C. Uuit= 200V en Iuit= 4A
+D. Uuit= 200V en Iuit= 2A
+Uitwerking
+De stroom is voor beide dioden dezelfde, een maximale gemiddelde stroom van 2 A. Ze
+staan in serie en daarmee is de grootste Iuit gelijk aan 2 A. De antwoorden A en C vallen
+hiermee af.
+Over de dioden mag maximaal 600 V komen te staan. De weerstanden van 100 k zorgen
+ervoor dat de spanning per diode dezelfde is, 300 V. Als de belasting 0 is, kan tijdens de
+negatieve periode van de wisselspanning de dubbele uitgangsspanning over de dioden
+komen te staan. De 400 V van antwoord B wordt daarmee uitgesloten, want dan zouden
+de dioden samen 800 V en per stuk 400 V over hun junctie kunnen krijgen. Daartegen zijn
+ze met 300 V max niet bestand, dus wordt het antwoord D met 200 V. Zo wordt een
+veiligheidsmarge van 50% in acht genomen. Zo’n veiligheidsmarge op de sperspanning is
+overigens gebruikelijk.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-118
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.49 Uitwerking van Opgave 7-49
+Deze karakteristiek heeft betrekking op een:
+A. Spanningsbron
+B. Zenerdiode
+C. Weerstand
+D. FET
+
+Uitwerking
+De karakteristiek kan van een gewone diode of van een zenerdiode zijn. In beide gevallen
+is er een kleine voorwaartse spanning nodig om stroom te laten lopen, terwijl bij een
+grotere spanning in sperrichting nodig is om stroom door de diode te krijgen (links in de
+grafiek). Bij een zenerdiode kan dat enkele volts tot tientallen volts zijn, bij
+gelijkrichtdioden nog (veel) meer. In deze opgaaf staat alleen de zenerdiode in het rijtje
+keuzemogelijkheden. Dan moet het juiste antwoord B zijn.
+Opmerking
+De stroom in sperrichting moet door een weerstand worden begrensd on de dissipatie niet
+te hoog te laten oplopen. Aan de vergelijking 𝑃Z = 𝑈Z 𝐼Z valt nu eenmaal niet te ontkomen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-119
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.50 Uitwerking van Opgave 7-50
+De spanning over Rb moet worden gestabiliseerd op 5 volt. RS moet zijn:
+A. 24 
+B. 50 
+C. 20 
+D. 10 
+
+Uitwerking
+Over de weerstand RS moet 7,4 V – 5 V = 2,4 V staan. Over de zenerdiode staat 5 V, want
+dat was de eis. In de grafiek is af te lezen dat er bij een zenerspanning van 5 V 20 mA door
+de zenerdiode loopt. Dan loopt er 100 mA + 20 mA = 120 mA door RS.
+Voor RS geldt dat 𝑅𝑆 = 2,4 V⁄0,12 A = 20. Dat is antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-120
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.51 Uitwerking van Opgave 7-51
+De dioden hebben gelijke doorlaatkarakteristieken, maar de belastbaarheid is verschillend.
+Kies uit de alternatieven de combinatie van de hoogste Uuit en de grootste Iuit die de
+schakeling kan leveren.
+
+A. Uuit = 20 V en Iuit = 1 A
+B. Uuit = 10 V en Iuit = 2 A
+C. Uuit = 30 V en Iuit = 2 A
+D. Uuit = 10 V en Iuit = 1 A
+Uitwerking
+Voor de maximale spanning moeten we uitgaan van de diode met de laagste
+maximumspanning, dus D1. Die moet in sperrichting 30 V kunnen weerstaan. Dat
+betekent voor de uitgangsspanning in theorie de piekwaarde van 15 V. In de praktijk
+nemen we een veiligheidsmarge van 50% van de werkelijke uitgangsspanning in acht.
+Daarmee wordt de uitgangsspanning 10 V. Voor de stroom mogen we uitgaan van D2 die 1
+A kan hebben. De andere 1 A loopt via D1, zodat de totale stroom 2 A is. De twee
+weerstanden van 1  zorgen voor een vrijwel gelijke verdeling van de stroom over D1 en
+D2. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-121
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.52 Uitwerking van Opgave 7-52
+Om de resonantiefrequentie van de kring een factor 2 te verhogen, moet de regelspanning
+op de varicap gewijzigd worden van:
+A. 12,5 V naar 20 V
+B. 5 V naar 20 V
+C. 10 V naar 5 V
+D. 20 V naar 5 V
+
+Uitwerking
+De resonantiefrequentie fres van een LC-kring is omgekeerd evenredig met de wortel uit
+de capaciteit (en de wortel uit de zelfinductie, maar die valt buiten de vraag). Dat gaat
+volgens
+𝑓𝑟𝑒𝑠 =
+
+1
+2𝜋√𝐿𝐶
+
+Als we de resonantiefrequentie van de kring met een factor 2 willen verhogen, moet de
+capaciteit van de varicap met een factor 22 = 4 omlaag. Daarvoor is de grafiek links in de
+figuur nodig. We zien daarin dat een hogere spanning over de varicap (let even niet op het
+minteken) leidt tot een lagere capaciteit. We moeten daarom bij een lage spanning
+beginnen en met een hogere eindigen. Daarmee vallen de antwoorden C en D alvast af.
+Antwoord A gaat van 12,5 V naar 20 V; volgens de grafiek is dat van iets minder dan 40
+pF naar 20 pF. Dat is te weinig. Onze hoop is nu gevestigd op antwoord B: van 5 V naar 20
+V. Volgens de grafiek hoort bij 5 V 80 pF en bij 20 V 20 pF (hadden we al gevonden). Dat
+is een factor 4, dus het wordt inderdaad antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-122
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 7. Examenopgaven 20220425
+
+7.5.53 Uitwerking van Opgave 7-53
+Deze karakteristiek heeft betrekking op een:
+A. Resonantiekring
+B. NPN-transistor
+C. Weerstand
+D. Diode
+
+Uitwerking
+Deze opgave lijkt sterk op Opgave 7-49. Het plaatje is hetzelfde, de antwoorden zijn een
+beetje anders. We zien rechts van de verticale as (stroom) de karakteristiek zeer steil naar
+boven gaan. Dat betekent dat bij U iets groter dan 0 geleiding optreedt. Links van het
+nulpunt zien we aanvankelijk een kleine tegengestelde stroom die met negatiever
+wordende spanning aanvankelijk weinig verandert, maar dan plotseling sterk negatief
+wordt. Dat zou de doorslagspanning van een diode kunnen zijn, maar het kan ook
+zenergedrag zijn. Hoe dan ook, dit gedrag lijkt sterk op dat van een diode. Zener- of
+gelijkrichtdiode is niet zonder meer duidelijk.
+Een resonantiekring is het niet, want die heeft niet zo’n S-bocht, op een
+transistorkarakteristiek lijkt het plaatje ook niet en een weerstand is het al helemaal niet,
+want die heeft een schuin oplopende rechte lijn. Dan is antwoord D het enig mogelijke
+antwoord.
+
+Dit waren de examenopgaven bij hoofdstuk 7.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 7.4 uitgezonderd)
+
+7-123
+
+

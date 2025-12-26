@@ -1,0 +1,2811 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+Inhoudsopgave
+18
+
+Uitgewerkte examenopgaven bij Hoofdstuk 18 (Deel B: 48-99) ............................18-5
+18.8
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........18-5
+
+18.9
+
+Enkele algemene opmerkingen .........................................................................18-6
+
+18.10
+
+Opmerkingen bij de examenopgaven ...............................................................18-6
+
+18.11
+
+Vragen ................................................................................................................18-8
+
+18.11.48
+
+Opgave 18-48 ..........................................................................................18-9
+
+18.11.49
+
+Opgave 18-49 ........................................................................................18-10
+
+18.11.50
+
+Opgave 18-50 ........................................................................................18-11
+
+18.11.51
+
+Opgave 18-51 ........................................................................................18-12
+
+18.11.52
+
+Opgave 18-52 ........................................................................................18-13
+
+18.11.53
+
+Opgave 18-53 ........................................................................................18-14
+
+18.11.54
+
+Opgave 18-54 ........................................................................................18-15
+
+18.11.55
+
+Opgave 18-55 ........................................................................................18-16
+
+18.11.56
+
+Opgave 18-56 ........................................................................................18-17
+
+18.11.57
+
+Opgave 18-57 ........................................................................................18-18
+
+18.11.58
+
+Opgave 18-58 ........................................................................................18-19
+
+18.11.59
+
+Opgave 18-59 ........................................................................................18-20
+
+18.11.60
+
+Opgave 18-60 ........................................................................................18-21
+
+18.11.61
+
+Opgave 18-61 ........................................................................................18-22
+
+18.11.62
+
+Opgave 18-62 ........................................................................................18-23
+
+18.11.63
+
+Opgave 18-63 ........................................................................................18-24
+
+18.11.64
+
+Opgave 18-64 ........................................................................................18-25
+
+18.11.65
+
+Opgave 18-65 ........................................................................................18-26
+
+18.11.66
+
+Opgave 18-66 ........................................................................................18-27
+
+18.11.67
+
+Opgave 18-67 ........................................................................................18-28
+
+18.11.68
+
+Opgave 18-68 ........................................................................................18-29
+
+18.11.69
+
+Opgave 18-69 ........................................................................................18-30
+
+18.11.70
+
+Opgave 18-70 ........................................................................................18-31
+
+18.11.71
+
+Opgave 18-71 ........................................................................................18-32
+
+18.11.72
+
+Opgave 18-72 ........................................................................................18-33
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.73
+
+Opgave 18-73 ........................................................................................18-34
+
+18.11.74
+
+Opgave 18-74 ........................................................................................18-35
+
+18.11.75
+
+Opgave 18-75 ........................................................................................18-36
+
+18.11.76
+
+Opgave 18-76 ........................................................................................18-37
+
+18.11.77
+
+Opgave 18-77 ........................................................................................18-38
+
+18.11.78
+
+Opgave 18-78 ........................................................................................18-39
+
+18.11.79
+
+Opgave 18-79 ........................................................................................18-40
+
+18.11.80
+
+Opgave 18-80 ........................................................................................18-41
+
+18.11.81
+
+Opgave 18-81 ........................................................................................18-42
+
+18.11.82
+
+Opgave 18-82 ........................................................................................18-43
+
+18.11.83
+
+Opgave 18-83 ........................................................................................18-44
+
+18.11.84
+
+Opgave 18-84 ........................................................................................18-45
+
+18.11.85
+
+Opgave 18-85 ........................................................................................18-46
+
+18.11.86
+
+Opgave 18-86 ........................................................................................18-47
+
+18.11.87
+
+Opgave 18-87 ........................................................................................18-48
+
+18.11.88
+
+Opgave 18-88 ........................................................................................18-49
+
+18.11.89
+
+Opgave 18-89 ........................................................................................18-50
+
+18.11.90
+
+Opgave 18-90 ........................................................................................18-51
+
+18.11.91
+
+Opgave 18-91 ........................................................................................18-52
+
+18.11.92
+
+Opgave 18-92 ........................................................................................18-53
+
+18.11.93
+
+Opgave 18-93 ........................................................................................18-54
+
+18.11.94
+
+Opgave 18-94 ........................................................................................18-55
+
+18.11.95
+
+Opgave 18-95 ........................................................................................18-56
+
+18.11.96
+
+Opgave 18-96 ........................................................................................18-57
+
+18.11.97
+
+Opgave 18-97 ........................................................................................18-58
+
+18.11.98
+
+Opgave 18-98 ........................................................................................18-59
+
+18.11.99
+
+Opgave 18-99 ........................................................................................18-60
+
+18.12
+
+Antwoorden .....................................................................................................18-61
+
+18.12.48
+
+Antwoord bij Opgave 18-48 .................................................................18-62
+
+18.12.49
+
+Antwoord bij Opgave 18-49 .................................................................18-63
+
+18.12.50
+
+Antwoord bij Opgave 18-50 .................................................................18-64
+
+18.12.51
+
+Antwoord bij Opgave 18-51 .................................................................18-65
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.52
+
+Antwoord bij Opgave 18-52 .................................................................18-66
+
+18.12.53
+
+Antwoord bij Opgave 18-53 .................................................................18-67
+
+18.12.54
+
+Antwoord bij Opgave 18-54 .................................................................18-68
+
+18.12.55
+
+Antwoord bij Opgave 18-55 .................................................................18-69
+
+18.12.56
+
+Antwoord bij Opgave 18-56 .................................................................18-70
+
+18.12.57
+
+Antwoord bij Opgave 18-57 .................................................................18-71
+
+18.12.58
+
+Antwoord bij Opgave 18-58 .................................................................18-72
+
+18.12.59
+
+Antwoord bij Opgave 18-59 .................................................................18-73
+
+18.12.60
+
+Antwoord bij Opgave 18-60 ................................................................ 18-74
+
+18.12.61
+
+Antwoord bij Opgave 18-61 ................................................................ 18-75
+
+18.12.62
+
+Antwoord bij Opgave 18-62 .................................................................18-76
+
+18.12.63
+
+Antwoord bij Opgave 18-63 .................................................................18-77
+
+18.12.64
+
+Antwoord bij Opgave 18-64 .................................................................18-78
+
+18.12.65
+
+Antwoord bij Opgave 18-65 .................................................................18-79
+
+18.12.66
+
+Antwoord bij Opgave 18-66 ................................................................ 18-80
+
+18.12.67
+
+Antwoord bij Opgave 18-67 .................................................................18-81
+
+18.12.68
+
+Antwoord bij Opgave 18-68 .................................................................18-82
+
+18.12.69
+
+Antwoord bijOpgave 18-69 ..................................................................18-83
+
+18.12.70
+
+Antwoord bij Opgave 18-70 .................................................................18-84
+
+18.12.71
+
+Antwoord bij Opgave 18-71 .................................................................18-85
+
+18.12.72
+
+Antwoord bij Opgave 18-72 ................................................................ 18-86
+
+18.12.73
+
+Antwoord bij Opgave 18-73 .................................................................18-87
+
+18.12.74
+
+Antwoord bij Opgave 18-74 ................................................................ 18-88
+
+18.12.75
+
+Antwoord bij Opgave 18-75 ................................................................ 18-89
+
+18.12.76
+
+Antwoord bij Opgave 18-76 ................................................................ 18-90
+
+18.12.77
+
+Antwoord bij Opgave 18-77 ................................................................ 18-91
+
+18.12.78
+
+Antwoord bij Opgave 18-78 ................................................................ 18-92
+
+18.12.79
+
+Antwoord bij Opgave 18-79 ................................................................ 18-93
+
+18.12.80
+
+Antwoord bij Opgave 18-80 ................................................................ 18-94
+
+18.12.81
+
+Antwoord bij Opgave 18-81 ................................................................ 18-95
+
+18.12.82
+
+Antwoord bij Opgave 18-82 ................................................................ 18-96
+
+18.12.83
+
+Antwoord bij Opgave 18-83 ................................................................ 18-97
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.84
+
+Antwoord bij Opgave 18-84 ................................................................ 18-98
+
+18.12.85
+
+Antwoord bij Opgave 18-85 ................................................................ 18-99
+
+18.12.86
+
+Antwoord bij Opgave 18-86 .............................................................. 18-100
+
+18.12.87
+
+Antwoord bij Opgave 18-87 .............................................................. 18-101
+
+18.12.88
+
+Antwoord bij Opgave 18-88 ............................................................... 18-102
+
+18.12.89
+
+Antwoord bij Opgave 18-88 ............................................................... 18-103
+
+18.12.90
+
+Antwoord bij Opgave 18-88 ............................................................... 18-104
+
+18.12.91
+
+Antwoord bij Opgave 18-91 ............................................................... 18-105
+
+18.12.92
+
+Antwoord bij Opgave 18-92 ............................................................... 18-106
+
+18.12.93
+
+Antwoord bij Opgave 18-93 ............................................................... 18-107
+
+18.12.94
+
+Antwoord bij Opgave 18-94 ............................................................... 18-108
+
+18.12.95
+
+Antwoord bij Opgave 18-95 ............................................................... 18-109
+
+18.12.96
+
+Antwoord bij Opgave 18-96 ............................................................... 18-110
+
+18.12.97
+
+Antwoord bij Opgave 18-97 ............................................................... 18-111
+
+18.12.98
+
+Antwoord bij Opgave 18-98 ............................................................... 18-112
+
+18.12.99
+
+Antwoord bij Opgave 18-99 ............................................................... 18-113
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18 Uitgewerkte examenopgaven bij Hoofdstuk 18 (Deel B: 48-99)
+18.8 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 16
+van de N-cursus hebt opgedaan, kunt toetsen aan examenvragen. Het is daarom een vorm
+van examentraining.
+De schrijvers verwachten dat de opgedane kennis door het bestuderen en maken van de
+vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training is
+het natuurlijk wel.
+We moeten hierbij opmerken dat na 1 juli 2020 de examenopgaven niet langer na afloop
+van het examen door examenkandidaten mochten worden meegenomen, omdat de
+toenmalige verantwoordelijke instantie, Agentschap Telecom, zich niet in staat achtte,
+steeds voldoende nieuwe examenopgaven te produceren. Tegenwoordig worden examens
+door het CBR via een computer afgenomen. Daarvandaan valt weinig mee naar huis te
+nemen. Verwacht daarom geen aanvulling op deze bundel; wel een geleidelijke
+veroudering.
+Advies: maak eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk staan, loop
+daarna het hoofdstuk nog een keer door om te zien of alles bekend is en begin pas daarna
+aan de examenvragen in deze bundel.
+De vragen zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+beantwoorden zonder ongewild het antwoord toch te zien. Aanklikken van een gele pijl
+in een blauw veld aan het eind van een examenvraag brengt je naar het antwoord. Dit is
+de pijl:
+
+Omdat aan de opgaven weinig uit te werken valt -het zijn voornamelijk weetjes- geven
+we antwoorden, geen uitwerkingen. Wel wordt bij praktisch alle antwoorden verwezen
+naar wetsteksten of teksten die daarop zijn terug te voeren. Soms ook staan ze bij het
+antwoord. Het goede antwoord is vetgedrukt.
+Aan het eind van een antwoord kun je via een rode pijl in een blauw veld terug naar de
+opgave. Dat is deze:
+
+Via een groene pijl in een blauw veld kom je vanaf de beantwoording bij de volgende
+vraag. Dat is deze:
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+De cursusredactie beveelt aan, de opgaven te maken langs de route van de pijlen. Dan
+weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken opgave als je
+stopt om wat anders te doen. Via de inhoudsopgave kun je er met één muisklik weer
+naartoe. Voor wie om wat voor reden ook alleen geïnteresseerd is in de antwoorden: je
+kunt ze allemaal ook achter elkaar doorlezen in paragraaf 18.12.
+
+18.9 Enkele algemene opmerkingen
+Er zijn bij hoofdstuk 18 99 vragen. Die zitten in twee bundels, de delen A en B. Deel A
+bevat 47 vragen, deel B de overige 52. Dit is deel B. De vragen zijn doorgenummerd van
+18-1 tot en met 18-99.
+De meest recente vragen dateren uit 2015. Dat komt niet doordat de samenstellers van
+deze cursus er bij latere examens de brui aan hebben gegeven, maar vanaf 2015 tot na juli
+2020 is er geen enkele nieuwe examenvraag geweest. Vermoedelijk heeft dat in elk geval
+geduurd tot 1 juli 2023 toen het CBR de examens overnam. Hoe het daarna is gegaan,
+weten we niet (dit is geschreven in januari 2024).
+Wel weten we dat Q-codes die sinds 2015 niet meer waren gevraagd, ergens tussen juni
+2020 en januari 2024 weer in examens voorkwamen. Dat benadrukt een waarschuwing,
+gegeven bij eerdere hoofdstukken van deze cursus. Die houdt in dat examenopgaven die
+jarenlang niet meer zijn gebruikt, na vele jaren zomaar weer kunnen opduiken.
+
+18.10 Opmerkingen bij de examenopgaven
+Na 2015 zijn er, zoals gezegd, geen nieuwe opgaven geweest. Enkele oudere opgaven zijn
+door de ontwikkelingen achterhaald en daarom niet opgenomen.
+Lees voor de woorden ‘vergunninghouder’ of ‘machtiginghouder’ steeds het woord
+‘registratiehouder’ of ‘geregistreerde’.
+Soms wordt verwezen naar “Voorschriften en beperkingen” of “Gebruikersbepalingen”. In
+het verleden kregen degenen die zich hadden aangemeld voor een examen, die
+toegestuurd, maar ze bestaan niet meer. Dat wil niet zeggen dat de inhoud niet meer van
+kracht zou zijn, maar die staat in wetten of daarvan afgeleide regelingen.
+Wat er wel is: de studiehulp van de Stichting Radio-examens. Die stichting organiseerde
+tot 1 juli 2023 de zendexamens. Volg daarvoor de link: Stichting Radio Examens (radioexamen.nl). Hoofdstuk 18 van de cursustekst is er voor een belangrijk deel op gebaseerd.
+Omdat de opgaven voor het overgrote deel over weetjes gaan en natuurkundige logica
+afwezig is, heeft een formularium weinig zin. Het is daarom bij dit hoofdstuk niet
+opgenomen.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+Omdat na 2005 andere voorschriften golden dan in en vóór dat jaar, zijn vragen uit oudere
+examens niet opgenomen.
+Ooit had de zendamateur een vergunning; later (2008) is dat veranderd in een registratie.
+In de opgaven komen de termen “vergunning” en “vergunninghouder” regelmatig voor,
+naast “registratie”, “registratiehouder” en “geregistreerde”. Trek je er niets van aan; in de
+praktijk van de zendamateur komen de termen op hetzelfde neer.
+Bij de opgaven zitten geen echte uitwerkingen maar antwoorden Wel zit bij het antwoord
+op vrijwel elke examenvraag ofwel een verwijzing naar delen van de cursustekst waarin
+het onderwerp aandacht krijgt, ofwel een andere vorm van uitleg.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11 Vragen
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.48 Opgave 18-48
+Het woord “GOLF” wordt volgens het voorgeschreven spellingsalfabet gespeld als:
+A. Golf Ontario Lima Fox
+B. Golf Oscar Lima Fox
+C. Golf Oscar London Fox
+D. Golf Oscar Lima Foxtrot
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.49 Opgave 18-49
+Bewering 1
+
+Een enkelzijbandzender met onderdrukte draaggolf wordt gemoduleerd met een
+spraaksignaal. De klasse van uitzending is G3E.
+Bewering 2
+
+Een FM-zender wordt gebruikt voor het uitzenden van een analoog TV-signaal.
+De klasse van uitzending is F1D
+Wat is juist?
+A. Alleen bewering 2
+B. Alleen bewering 1
+C. Geen van beide beweringen
+D. Bewering 1 en bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.50 Opgave 18-50
+Bij het toepassen van fasemodulatie in een zender voor de overdracht van een
+telefoniesignaal is de klasse van uitzending:
+A. J3E
+B. A3A
+C. G3E
+D. F3E
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.51 Opgave 18-51
+In de “Gebruikersbepalingen” is onder meer bepaald dat de radiozendamateur
+A. Tijdens de uitzendingen van een amateurstation hierbij altijd aanwezig dient te
+zijn
+B. Recht geeft op ongestoord gebruik van de aan de Amateur-dienst toegewezen
+frequentiebanden
+C. Alleen radiozendapparaten mag gebruiken die van een toegestaan type zijn
+D. Bij het gebruik van het radiostation overlast in het radioverkeer dient te
+voorkomen
+Opmerking: de “Gebruikersbepalingen” behoren tot het verleden, de inhoud niet.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.52 Opgave 18-52
+Bewering 1:
+
+Een FM-zender wordt gemoduleerd met een spraaksignaal. De klasse van uitzending is
+F3E.
+Bewering 2:
+
+Via een enkelzijbandzender met onderdrukte draaggolf worden met behulp van een
+hulpdraaggolf met de hand geseinde morsetekens verzonden. De klasse van uitzending is
+J2A.
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 2
+C. Alleen bewering 1
+D. Bewering 1 en bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.53 Opgave 18-53
+Radiozendamateurs met een F-registratie bij Agentschap Telecom mogen CWverbindingen maken op 2197 meter op:
+A. 135,7 – 137,8 kHz
+B. 13,57 – 13,78 MHz
+C. 13,57 – 13,78 kHz
+D. 1,357 - 1,378 kHz
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.54 Opgave 18-54
+Een radiozendamateur laat voor een georganiseerd radio-peilevenement zijn zender
+werkend achter in het bos. Dit is:
+A. Niet toegestaan
+B. Uitsluitend toegestaan als hiervoor toestemming van AT is verkregen
+C. Uitsluitend toegestaan onder voorwaarde dat AT hierover vooraf in kennis is
+gesteld
+D. Toegestaan
+Opmerking: Lees in plaats van “AT” de afkorting “RDI”.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.55 Opgave 18-55
+Bewering 1:
+
+Een dubbelzijband AM-zender wordt gemoduleerd met een spraaksignaal.
+De klasse van uitzending is F3E.
+Bewering 2:
+
+Een FM-zender zendt een telegrafiesignaal uit, bestemd voor automatische ontvangst.
+De klasse van uitzending is F1B.
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 2
+C. Alleen bewering 1
+D. Bewering 1 en bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.56 Opgave 18-56
+Een radiozendamateur ondervindt storing van een radiostation dat niet bevoegd is, met
+hem radioverbindingen te maken.
+Om dit station hierover te informeren, brengt de radiozendamateur hiermee een
+radioverbinding tot stand.
+Dit is:
+A. Toegestaan als de amateurdienst in de frequentieband een secundaire status heeft
+B. Niet toegestaan
+C. Toegestaan als blijkt dat het radiostation eveneens storing ondervindt van de
+uitzending van het amateurstation
+D. Toegestaan als de amateurdienst in de frequentieband een primaire status heeft.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.57 Opgave 18-57
+Bewering 1:
+
+Een enkelzijbandzender met onderdrukte draaggolf wordt gemoduleerd met een
+spraaksignaal. De klasse van uitzending is J3E.
+Bewering 2.
+
+Een FM-zender zendt datasignalen uit. De klasse van uitzending is F1D.
+Wat is juist?
+A. Alleen bewering1
+B. Geen van beide beweringen
+C. Bewering 1 en bewering 2
+D. Alleen bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.58 Opgave 18-58
+Een radiozendamateur werkt op een amateurfrequentie waarop de Amateurdienst met een
+secundaire status is toegelaten.
+De radiozendamateur is verplicht om gedurende de uitzendingen:
+A. In het geval van storing, veroorzaakt bij een andere gebruiker, zijn uitzendingen
+altijd te staken
+B. Altijd voorrang te verlenen aan diensten met een primaire status
+C. Altijd voorrang te verlenen aan professionele diensten met een secundaire status
+D. In het geval hij storing veroorzaakt bij een andere radiozendamateur, zijn
+uitzending direct te staken.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.59 Opgave 18-59
+De wetgever onderscheidt registratie in de categorieën F en N voor het doen van
+onderzoekingen door radiozendamateurs.
+Dit onderscheid bepaalt uitsluitend:
+A. Frequentiebanden
+B. Zendvermogen en klassen van uitzending
+C. Klassen van uitzending en de status op de toegewezen banden
+D. Frequentiebanden en zendvermogens
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.60 Opgave 18-60
+Bewering 1:
+
+Een FM-zender wordt gemoduleerd met een spraaksignaal.
+De klasse van uitzending is F2A
+Bewering 2:
+
+Een enkelzijbandzender met onderdrukte draaggolf wordt gemoduleerd met een
+spraaksignaal. De klasse van uitzending is J2B
+Wat is juist?
+A. Geen van beide beweringen
+B. Bewering 1 en bewering 2
+C. Alleen bewering 1
+D. Alleen bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.61 Opgave 18-61
+Een AM-zender wordt gemoduleerd met spraak. De klasse van uitzending is:
+A. J1B
+B. A3E
+C. F1D
+D. F3A
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.62 Opgave 18-62
+Bewering 1:
+
+Een dubbelzijband AM-zender zendt een muzieksignaal uit.
+De klasse van uitzending is A3C.
+Bewering 2:
+
+Via een FM-zender worden met de hand geseinde morsesignalen verzonden.
+De klasse van uitzending is F1E.
+Wat is juist?
+A. Geen van beide beweringen
+B. Bewering 1 en bewering 2
+C. Alleen bewering 1
+D. Alleen bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.63 Opgave 18-63
+Een radiozendamateur zendt een signaal uit met een bandbreedte van 2200 kHz
+Dit is:
+A. Alleen toegestaan in amateurbanden vanaf 430 MHz
+B. In de 2-meter amateurband toegestaan
+C. In geen enkele amateurband toegestaan
+D. In alle amateurbanden toegestaan
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.64 Opgave 18-64
+Tijdens een morse-verbinding wilt u aan het tegenstation kenbaar maken dat u gestoord
+wordt door andere stations. U gebruikt dan de Q-code:
+A. QRM
+B. QRX
+C. QRZ
+D. QSB
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.65 Opgave 18-65
+Bewering 1:
+
+Een dubbelzijband AM-zender wordt gemoduleerd met een spraaksignaal.
+De klasse van uitzending is A3E.
+Bewering 2:
+
+In een zender wordt fasemodulatie toegepast voor het uitzenden van een datakanaal.
+De klasse van uitzending is G3E.
+Juist is:
+A. Alleen bewering 1
+B. Alleen bewering 2
+C. Bewering 1 en bewering 2
+D. Geen van beide beweringen
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.66 Opgave 18-66
+Definitie zendvermogen:
+Het door de direct met de antenne-inrichting te koppelen trap van het radio-zendapparaat
+afgegeven gemiddelde vermogen, gerekend over een periode van de […X…] tijdens het
+maximum van de omhullende (Peak Envelope Power).
+Op plaats […X…] moet staan:
+A. Laagfrequente ingangswisselspanning
+B. Hoogfrequente ingangswisselspanning
+C. Laagfrequente uitgangswisselspanning
+D. Hoogfrequente uitgangswisselspanning
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.67 Opgave 18-67
+De roepletters G5BEQ worden volgens het voorgeschreven spellingsalfabet gespeld als:
+A. George Vijf Bravo Echo Quebec
+B. Golf Vijf Bravo Echo Quebec
+C. Golf Vijf Baker Echo Quebec
+D. George Vijf Baker Echo Quebec
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.68 Opgave 18-68
+Het woord “AXIOMA” wordt volgens het voorgeschreven spellingsalfabet gespeld als:
+A. Ajax X-ray India Oscar Mexico Ajax
+B. Alfa X-ray India Oscar Mike Alfa
+C. Alfa X-ray India Ontario Mike Alfa
+D. Ajax Xantippe India Oscar Mexico Ajax
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.69 Opgave 18-69
+Het maximaal toegestane zendvermogen voor een radiozendamateur met F-registratie is
+in de 2-meterband:
+A. 120 W
+B. 100 W
+C. 400 W
+D. 25 W
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.70 Opgave 18-70
+Het houden van radiowedstrijden (contesten) is niet toegestaan in de frequentieband:
+A. 7,0 – 7,1 MHz
+B. 10,1 – 10,15 MHz
+C. 3,5 – 3,8 MHz
+D. 1,81 - 1,85 MHz
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.71 Opgave 18-71
+De roepletters PA3RMI worden volgens het voorgeschreven spellingsalfabet gespeld als:
+A. Papa Alfa Drie Radio Mike India
+B. Papa Alfa Drie Romeo Mike Italy
+C. Papa Alfa Drie Romeo Mike India
+D. Papa Alfa Drie Roger Mike India
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.72 Opgave 18-72
+Het woord “MOSFET” wordt volgens het internationale spellingsalfabet als volgt gespeld:
+A. Martha Ontario Sierra Foxtrot Echo Texas
+B. Mike Oscar Sierra Fox Echo Texas
+C. Mike Oscar Sierra Foxtrot Echo Tango
+D. Mexico Ontario Santiago Fox Echo Tango
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.73 Opgave 18-73
+Bewering 1:
+
+Een dubbelzijband AM-zender wordt gemoduleerd met een spraaksignaal. De klasse van
+uitzending is J3E
+Bewering 2:
+
+Een FM-zender wordt gemoduleerd met een spraaksignaal. De klasse van uitzending is
+F3E.
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 1
+C. Bewering 1 en bewering 2
+D. Alleen bewering 2.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.74 Opgave 18-74
+De Amateurdienst wordt uitgeoefend door bevoegde personen:
+1. Die geïnteresseerd zijn in de radiotechniek
+2. Met uitsluitend een persoonlijk oogmerk en zonder geldelijke interesse
+Wat is juist?
+A. Bewering 1 en bewering 2
+B. Geen van beide beweringen
+C. Alleen bewering 1
+D. Alleen bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.75 Opgave 18-75
+Bewering 1:
+
+In een zender wordt fasemodulatie toegepast voor het uitzenden van een datakanaal. De
+klasse van uitzending is G3E
+Bewering 2:
+
+Via een enkelzijbandzender met onderdrukte draaggolf worden met behulp van een
+hulpdraaggolf met de hand geseinde morsetekens uitgezonden. De klasse van uitzending is
+J2A.
+Wat is juist:
+A. Alleen bewering 1
+B. Geen van beide beweringen
+C. Bewering 1 en bewering 2
+D. Alleen bewering 2
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.76 Opgave 18-76
+Een geregistreerde zendamateur gebruikt zijn amateur-station als een onbemand
+relaisstation. Dit is:
+A. Altijd toegestaan op een frequentie in de 2-meterband
+B. Altijd toegestaan
+C. Uitsluitend toegestaan met een vergunning van Agentschap Telecom
+D. Nooit toegestaan
+Lees voor “Agentschap Telecom” “Rijksinspectie Digitale Infrastructuur” (“RDI”)
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.77 Opgave 18-77
+De radiozendamateur mag het amateurstation gebruiken voor het uitzenden van:
+A. Versleutelde informatie
+B. Informatie die betrekking heeft op het amateurstation
+C. Opmerkingen van commerciële aard
+D. Informatie afkomstig van commerciële radiostations
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.78 Opgave 18-78
+Definitie zendvermogen:
+Het door de direct met […X…] te koppelen trap van het radio-zendapparaat afgegeven
+gemiddeld vermogen, gerekend over een periode van de hoogfrequent
+uitgangswisselspanning tijdens het maximum van de omhullende (Peak Envelope Power).
+Op plaats […X…] moet staan:
+A. De antenne-inrichting
+B. Het voedingsapparaat
+C. Het ontvangapparaat
+D. Het radio-zendapparaat
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.79 Opgave 18-79
+Een geregistreerde zendamateur koopt een tweedehands mobilofoon, werkend in de band
+146-174 MHz. Hij wijzigt het frequentiebereik in 144-172 MHz. Het gebruik van dit
+apparaat is:
+A. Alleen toegestaan als de eindtrap van de zender is verwijderd
+B. Toegestaan, mits het toegestane zendvermogen niet kan worden overschreden
+C. Niet toegestaan
+D. Toegestaan, mits hij zich aan de Gebruikersbepalingen Amateurfrequentiegebruik
+houdt.
+Opmerking: De Gebruikersbepalingen Amateurfrequentiegebruik zijn verleden tijd, maar
+hun inhoud niet.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.80 Opgave 18-80
+Een enkelzijbandzender wordt gebruikt voor het uitzenden van morsetekens. De klasse
+van uitzending is:
+A. F1D
+B. F2A
+C. J1E
+D. J2A
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.81 Opgave 18-81
+Het woord EXPORT wordt volgens het voorgeschreven spellingalfabet gespeld als:
+A. Echo Xantippe Papa Oslo Romeo Tango
+B. Echo X-ray Portugal Ontario Romeo Tango
+C. Echo X-ray Papa Ontario Radio Tango
+D. Echo X-ray Papa Oscar Romeo Tango
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.82 Opgave 18-82
+Welke combinatie van mogelijkheden mag de radiozendamateur met een F-registratie
+gebruiken?
+A. Zendvermogen 120 W; frequentie 3400,1 MHz
+B. Zendvermogen 400 W; frequentie 1250,1 MHz
+C. Zendvermogen 400 W; frequentie 138,0 kHz
+D. Zendvermogen 120 W; frequentie 29,9 MHz
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.83 Opgave 18-83
+Het woord “YOGHURT” wordt volgens het voorgeschreven spellingalfabet gespeld als:
+A. Yuliett Ontario Golf Hotel Uniform Romeo Tango
+B. Yellow Ontario Golf Hotel Uniform Romeo Tango
+C. Yankee Oscar Ghana Hotel Utrecht Romeo Tango
+D. Yankee Oscar Golf Hotel Uniform Romeo Tango
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.84 Opgave 18-84
+Een FM-zender wordt gebruikt voor het uitzenden van een facsimilé signaal (fax). De
+klasse van uitzending is:
+A. A1A
+B. J1C
+C. F2C
+D. F1D
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.85 Opgave 18-85
+Volgens het Internationale Radioreglement is radiocommunicatie tussen amateurstations
+van verschillende landen:
+A. Altijd toegestaan
+B. Alleen toegestaan als in het internationale amateur-overleg hierover een
+overeenkomst is bereikt
+C. Verboden indien de administratie van één der betrokken landen heeft laten weten
+hiertegen bezwaar te hebben
+D. Alleen toegestaan voor amateurs die hebben aangetoond teksten in morseschrift
+met de hand te kunnen seinen en correct op het gehoor te kunnen ontvangen.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.86 Opgave 18-86
+Het woord “ZOTSKAP” wordt volgens het voorgeschreven spellingalfabet gespeld als:
+A. Zulu Oslo Texas Sierra Kilo Alfa Papa
+B. Zebra Oscar Texas Santiago Kilo Alfa Papa
+C. Zulu Ontario Tango Sierra Kilo Alfa Papa
+D. Zulu Oscar Tango Sierra Kilo Alfa Papa
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.87 Opgave 18-87
+Juist is:
+A. De 50 MHz frequentieband mag door de radiozendamateur met een F-registratie
+worden gebruikt met een zendvermogen van 400 W
+B. De 50 MHz frequentieband mag door de radiozendamateur met een F- of Nregistratie worden gebruikt met een zendvermogen van 25 W
+C. De 50 MHz frequentieband mag door de radiozendamateur met een F- of Nregistratie worden gebruikt met een zendvermogen van 120 W
+D. De 50 MHz frequentieband mag door de radiozendamateur met een F-registratie
+worden gebruikt met een zendvermogen van 30 W.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.88 Opgave 18-88
+De roepletters moeten worden uitgezonden:
+A. Bij het begin en het einde van elke uitzending tenminste éénmaal en tijdens de
+uitzending éénmaal per 5 minuten
+B. Telkens om de 5 minuten tenminste tweemaal in spraak of morsetekens
+C. Bij het begin en het einde van elke uitzending tenminste tweemaal en tijdens de
+uitzending éénmaal per 5 minuten
+D. Bij het begin en het einde van de uitzending tenminste éénmaal en tijdens de
+uitzending éénmaal per 10 minuten
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.89 Opgave 18-89
+U werkt op 15 meter en uw buurman laat weten dat u zijn TV-ontvangst verstoort. Na
+enig onderzoek komt u tot de ontdekking dat uw zender op deze band te sterke
+harmonischen uitstraalt. Hoe stelt u zich op in deze situatie?
+A. U zegt dat er geen redelijke oplossing is voor dit probleem
+B. U zegt dat hij een klacht bij Agentschap Telecom kan indienen
+C. U gebruikt deze frequentieband niet tot u de storing heeft opgelost
+D. U adviseert de buurman om bij de vakhandel een ontstoorfilter te kopen.
+Opmerking: Lees voor Agentschap Telecom: Rijksinspectie Digitale Infrastructuur (RDI).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.90 Opgave 18-90
+IARU-bandplannen dienen om:
+A. Het aantal toegepaste klassen van uitzending te beperken
+B. De bandbreedte van amateur-uitzendingen te beperken
+C. De storingen tussen amateurstations onderling te beperken
+D. Aan iedere amateur een vaste frequentie toe te wijzen
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.91 Opgave 18-91
+Uw tegenstation in een CW-QSO blijkt een zeer slecht seiner te zijn. U begrijpt
+desondanks met moeite wat er wordt geseind. Bovendien komt het signaal zwak binnen
+en zit er een hevige bromtoon op zijn signaal.
+Welk ontvangstrapport geeft u hem?
+A. 515
+B. 199
+C. 332
+D. 599
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.92 Opgave 18-92
+PE1ABC geeft een algemene oproep op de 2-meterband. Wat is de juiste procedure?
+A. Oproep door PE1ABC: Hier is PE1ABC
+antwoord door PE3ZZZ: “PE3EZZ voor PE1ABC”
+B. Oproep door PE1ABC: CQ CQ CQ dit is PE1ABC
+antwoord door PE3ZZZ: “PE3BZZ”
+C. Oproep door PE1ABC: CQ CQ CQ dit is PE1ABC
+antwoord door PE3EZZ: ”PE1ABC de PE3BZZ”
+D. Oproep door PE1ABC: CQ CQ CQ dit is PE1ABC
+antwoord door PE3ZZZ: “PE3ZZZ voor PE1ABC”.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.93 Opgave 18-93
+U bent heel ambitieus en besluit, zelf een 2-meter zender te gaan bouwen. Zodra de
+zender zover is dat u er een signaal mee kunt uitzenden:
+A. Gaat u dit zonder meer proberen en direct een verbinding maken
+B. Stuurt u de zender op naar AT met het verzoek, de zender op harmonischen te
+testen
+C. Sluit u een kunstantenne aan om te kijken hoe de zender werkt zonder een signaal
+uit te zenden
+D. Doet u een algemene oproep op 2 meter met het verzoek of iemand u verder kan
+helpen
+Opmerking: Lees voor AT: RDI.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.94 Opgave 18-94
+In het telegrafieverkeer is de gebruikelijke afkorting voor ZENDER
+A. TX
+B. TR
+C. TRX
+D. ZDR
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.95 Opgave 18-95
+PA3XXX in Breda hoort op 80 meter ON4ZZZ uit Antwerpen roepen: CQ-DX, CQ-DX, de
+ON4ZZZ. Hoe reageert PA3XXX hierop?
+A. ON4ZZZ de PA3XXX
+B. Hij antwoordt niet
+C. PA3XXX voor ON4ZZZ
+D. ON4ZZZ, ON4ZZZ, ON4ZZZ, ON4ZZZ, QRX
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.96 Opgave 18-96
+Wat dient u te doen voordat u op een aan de amateurdienst toegewezen frequentie een
+CQ-oproep wilt uitzenden?
+A. Ik zend enkele malen kort een signaal uit om te constateren dat ik geen andere
+verbinding stoor
+B. Ik overtuig mij ervan dat de frequentie vrij is, zodat ik geen andere verbinding
+stoor
+C. Ik observeer gedurende tenminste tien minuten de frequentie en ga daarna mijn
+oproep uitzenden
+D. Ik vraag enkele malen of de frequentie vrij is
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.97 Opgave 18-97
+Een amateur met een N-registratie maakt op de repeater-uitgangsfrequentie 145,650 MHz
+een verbinding in CW met een radiozendamateur met een F-registratie in een naburige
+stad. Dit is:
+A. In overeenstemming met het IARU-bandplan
+B. Niet toegestaan
+C. Alleen toegestaan met minder dan 10 watt zendvermogen
+D. Niet in overeenstemming met het IARU-bandplan
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.98 Opgave 18-98
+Wat doet u voor u op een frequentie CQ gaat roepen?
+A. Ik roep QRX en zend daarna mijn oproep uit
+B. Ik roep “break break” en begin mijn oproep
+C. Ik luister of de frequentie vrij is
+D. Ik hoef niets te doen
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.11.99 Opgave 18-99
+IARU-bandplannen zijn
+A. Door de CEPT voorgeschreven
+B. Aanbevelingen binnen de Amateurdienst
+C. Wettelijk vastgelegd
+D. Door de ITU voorgeschreven
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12 Antwoorden
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.48 Antwoord bij Opgave 18-48
+Het woord “GOLF” wordt volgens het voorgeschreven spellingsalfabet gespeld als:
+A. Golf Ontario Lima Fox
+B. Golf Oscar Lima Fox
+C. Golf Oscar London Fox
+D. Golf Oscar Lima Foxtrot
+Antwoord D.
+De spelwoorden staan in Tabel 18.6-1 in paragraaf 18.6 van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.49 Antwoord bij Opgave 18-49
+Bewering 1
+
+Een enkelzijbandzender met onderdrukte draaggolf wordt gemoduleerd met een
+spraaksignaal. De klasse van uitzending is G3E.
+Bewering 2
+
+Een FM-zender wordt gebruikt voor het uitzenden van een analoog TV-signaal. De klasse
+van uitzending is F1D.
+Wat is juist?
+A. Alleen bewering 2
+B. Alleen bewering 1
+C. Geen van beide beweringen
+D. Bewering 1 en bewering 2
+Antwoord C.
+We ontleden de codes met behulp van de tabellen 18.8-1 t/m 18.8-3 uit sub-paragraaf
+18.8.5 van de cursustekst:
+Tabel 18.8-1: G bij bewering 1 staat voor fasemodulatie en niet voor EZB. F bij bewering 2
+is wèl FM. (Tabel 18.10-1 in sub-paragraaf 18.10.5). Bewering 2 gaat door naar de
+volgende ronde, bewering 1 naar de prullenbak.
+Tabel 18.8-2: De 1 van F1D staat voor een enkel kanaal met niet-analoge informatie. Het
+ging om een analoog TV-kanaal, dus hier strandt bewering 2.
+Geen van beide goed. We komen niet eens aan Tabel 18.8-3 toe.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.50 Antwoord bij Opgave 18-50
+Bij het toepassen van fasemodulatie in een zender voor de overdracht van een
+telefoniesignaal is de klasse van uitzending:
+A. J3E
+B. A3A
+C. G3E
+D. F3E
+Antwoord C.
+Antwoord C ligt voor de hand, want G staat voor fasemodulatie (Tabel 18.8-1, subparagraaf 18.8.5) en er is geen andere G.
+Toch even de overgebleven 3E controleren. 3 staat voor een enkel kanaal met analoge
+informatie (Tabel 18.8-2). Dat klopt. De E staat voor telefonie, dus uitzending van
+gesproken woord (Tabel 18.8-3) en dat klopt ook. Antwoord C is definitief goedgekeurd.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.51 Antwoord bij Opgave 18-51
+In de “Gebruikersbepalingen” is onder meer bepaald dat de radiozendamateur
+A. Tijdens de uitzendingen van een amateurstation hierbij altijd aanwezig dient te
+zijn
+B. Recht geeft op ongestoord gebruik van de aan de Amateur-dienst toegewezen
+frequentiebanden
+C. Alleen radiozendapparaten mag gebruiken die van een toegestaan type zijn
+D. Bij het gebruik van het radiostation overlast in het radioverkeer dient te
+voorkomen
+Antwoord D.
+De antwoorden B en C zijn overduidelijk niet juist: er is voor de radiozendamateur geen
+typegoedkeuring van apparatuur en recht op ongestoord gebruik van amateurfrequenties
+is er al evenmin.
+Het altijd aanwezig moeten zijn (antwoord A) is ook niet helemaal waar, vossenjachten
+zijn zo’n uitzondering (cursustekst, sub-paragraaf 18.10.4, laatste alinea), Wel moet de
+zendamateur voor volledig onbemand gebruik van de zender aparte toestemming hebben.
+Dan blijft over antwoord D en inderdaad ligt het voor de hand dat je anderen geen
+overlast hoort te bezorgen. Zo stond het ook ongeveer in die niet meer gebruikte
+“Gebruikersbepalingen”.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.52 Antwoord bij Opgave 18-52
+Bewering 1:
+
+Een FM-zender wordt gemoduleerd met een spraaksignaal. De klasse van uitzending is
+F3E.
+Bewering 2:
+
+Via een enkelzijbandzender met onderdrukte draaggolf worden met behulp van een
+hulpdraaggolf met de hand geseinde morsetekens verzonden. De klasse van uitzending is
+J2A.
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 2
+C. Alleen bewering 1
+D. Bewering 1 en bewering 2
+Antwoord D.
+De beweringen gaan op de ontleedtafel. De erbij te gebruiken tabellen staan in paragraaf
+18.8 van de cursustekst.
+Tabel 18.8-1: De F van F3E staat voor FM. Klopt. De J van J2A staat voor enkelzijband.
+Klopt ook. Beide beweringen mogen door naar de tweede ronde:
+Tabel 18.10-2: de 3 van F3E staat voor “een enkel kanaal met analoge informatie”. Spraak
+voldoet daaraan. Klopt dus. De 2 van J2A staat voor “een enkel kanaal met niet-analoge
+informatie, waarbij gebruik wordt gemaakt van een hulpdraaggolf”. Klopt ook. Beide naar
+de derde ronde.
+Tabel 18.10-3: De E van F3E staat voor telefonie. Dat betekent een spraaksignaal en dat
+klopt. De A van J2A staat voor “Morsetelegrafie, bestemd om op het gehoor te worden
+opgenomen”. Klopt alweer.
+Beide beweringen zijn dus juist, zodat antwoord D inderdaad het juiste antwoord is.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.53 Antwoord bij Opgave 18-53
+Radiozendamateurs met een F-registratie bij Agentschap Telecom mogen CWverbindingen maken op 2197 meter op:
+A. 135,7 – 137,8 kHz
+B. 13,57 – 13,78 MHz
+C. 13,57 – 13,78 kHz
+D. 1,357 - 1,378 kHz
+Antwoord A.
+Je kunt de golflengte 1297 m omrekenen naar frequentie: 300 ⁄2197 MHz =
+0,1365 MHz = 136,5 kHz. Dat is midden in de band 0,1357 - 0,1378 MHz (=135,7 – 137,8
+kHz).
+Zoek eventueel de band op in Tabel 18.12-2 (bovenin) in sub-par. 18.12.3 van de
+cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.54 Antwoord bij Opgave 18-54
+Een radiozendamateur laat voor een georganiseerd radio-peilevenement zijn zender
+werkend achter in het bos. Dit is:
+A. Niet toegestaan
+B. Uitsluitend toegestaan als hiervoor toestemming van AT is verkregen
+C. Uitsluitend toegestaan onder voorwaarde dat AT hierover vooraf in kennis is
+gesteld
+D. Toegestaan
+Antwoord D.
+Voor een vossenjacht (“radio-peilevenement”) mag dat (cursustekst, sub-paragraaf 18.10.4,
+laatste alinea).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.55 Antwoord bij Opgave 18-55
+Bewering 1:
+
+Een dubbelzijband AM-zender wordt gemoduleerd met een spraaksignaal.
+De klasse van uitzending is F3E.
+Bewering 2:
+
+Een FM-zender zendt een telegrafiesignaal uit, bestemd voor automatische ontvangst.
+De klasse van uitzending is F1B.
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 2
+C. Alleen bewering 1
+D. Bewering 1 en bewering 2
+Antwoord B.
+Nu naar de ontleedtafel met de tabellen uit sub-paragraaf 18.8.5:
+Tabel 18.8-1: De eerste letter van F3E betekent een vorm van FM terwijl het om een AMzender gaat. Daarvoor had de eerste letter een A moeten zijn. Die bewering kan de
+prullenmand in.
+Een FM-zender met KVU F1B kan wel, want dat is FM. Bewering 2 gaat naar de volgende
+ronde.
+Tabel 18.10-2: Het cijfer 1 in F1B betekent een enkel kanaal met niet-analoge informatie,
+waarbij geen gebruik wordt gemaakt van een modulerende hulpdraaggolf. Dat past bij het
+telegrafiesignaal. Bewering 2 gaat door naar de laatste ronde.
+Tabel 18.10-3: de laatste letter is B en dat betekent telegrafie voor automatische ontvangst.
+Ook die is goed.
+Alleen bewering 2 is in orde, wat de juistheid van antwoord B bevestigt.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.56 Antwoord bij Opgave 18-56
+Een radiozendamateur ondervindt storing van een radiostation dat niet bevoegd is, met
+hem radioverbindingen te maken.
+Om dit station hierover te informeren, brengt de radiozendamateur hiermee een
+radioverbinding tot stand.
+Dit is:
+A. Toegestaan als de amateurdienst in de frequentieband een secundaire status heeft
+B. Niet toegestaan
+C. Toegestaan als blijkt dat het radiostation eveneens storing ondervindt van de
+uitzending van het amateurstation
+D. Toegestaan als de amateurdienst in de frequentieband een primaire status heeft.
+Antwoord B.
+Een amateurstation mag alleen verbindingen maken met andere stations die mogen
+uitkomen op amateurfrequenties, maar zeker niet met stations die met hem geen
+verbinding mogen maken. Dan werk je mee aan een overtreding door een ander en ben je
+daaraan medeplichtig.
+Het lijkt bij deze vraag of de zendamateur verbinding mag maken met andersoortige
+gebruikers van amateurbanden (als die er zijn). In werkelijkheid maken amateurs
+verbindingen met amateurs, niet anders.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.57 Antwoord bij Opgave 18-57
+Bewering 1:
+
+Een enkelzijbandzender met onderdrukte draaggolf wordt gemoduleerd met een
+spraaksignaal. De klasse van uitzending is J3E.
+Bewering 2.
+
+Een FM-zender zendt datasignalen uit. De klasse van uitzending is F1D.
+Wat is juist?
+A. Alleen bewering1
+B. Geen van beide beweringen
+C. Bewering 1 en bewering 2
+D. Alleen bewering 2
+Antwoord C.
+De beweringen gaan weer op de ontleedtafel.
+Tabel 18.8-1: De eerste letter J past bij EZB en de eerste letter F bij FM. Beide mogen door
+naar de tweede ronde.
+Tabel 18.8-2: De 3 van J3E betekent een enkel kanaal met analoge informatie. Dat klopt
+met het spraaksignaal. De 1 van F1D hoort bij een enkel kanaal met niet-analoge
+informatie, waarbij geen gebruik wordt gemaakt van een modulerende hulpdraaggolf. In
+bewering 2 wordt over een modulerende hulpdraaggolf niet gerept. Dan is die 1 goed.
+Beide door naar de finale
+Tabel 18-8-3. De laatste letter van J3E betekent telefonie; uitzending van gesproken
+woord. Bij modulatie met een spraaksignaal is dat het geval. Deze is dus juist.
+De D van F1D betekent datatransmissie. Als er datasignalen worden uitgezonden
+(bewering 2) is dat het geval. Ook deze is juist.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.58 Antwoord bij Opgave 18-58
+Een radiozendamateur werkt op een amateurfrequentie waarop de Amateurdienst met een
+secundaire status is toegelaten.
+De radiozendamateur is verplicht om gedurende de uitzendingen:
+A. In het geval van storing, veroorzaakt bij een andere gebruiker, zijn uitzendingen
+altijd te staken
+B. Altijd voorrang te verlenen aan diensten met een primaire status
+C. Altijd voorrang te verlenen aan professionele diensten met een secundaire status
+D. In het geval hij storing veroorzaakt bij een andere radiozendamateur, zijn
+uitzending direct te staken.
+Antwoord B.
+De amateur moet met zijn secundaire status voorrang verlenen aan diensten met een
+primaire status. Zie in de cursustekst sub-paragraaf 18.12.1 (Rangen en standen).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.59 Antwoord bij Opgave 18-59
+De wetgever onderscheidt registratie in de categorieën F en N voor het doen van
+onderzoekingen door radiozendamateurs.
+Dit onderscheid bepaalt uitsluitend:
+A. Frequentiebanden
+B. Zendvermogen en klassen van uitzending
+C. Klassen van uitzending en de status op de toegewezen banden
+D. Frequentiebanden en zendvermogens
+Antwoord D.
+Bij het onderscheid tussen F en N gaat het alleen om frequentiebanden en
+zendvermogens.
+Je kunt dat afleiden uit het feit dat de twee registratiesoorten alleen twee verschillende
+tabellen voor frequentietoewijzing hebben. Die staan in sub-par. 18.12.2 (Tabel 18.12-1)
+en 18.12.3 (Tabel 18.12-2). Voor het overige zul je op dit punt nergens verschillen
+tegenkomen.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.60 Antwoord bij Opgave 18-60
+Bewering 1:
+
+Een FM-zender wordt gemoduleerd met een spraaksignaal.
+De klasse van uitzending is F2A.
+Bewering 2:
+Een enkelzijbandzender met onderdrukte draaggolf wordt gemoduleerd met een
+
+spraaksignaal. De klasse van uitzending is J2B.
+Wat is juist?
+A. Geen van beide beweringen
+B. Bewering 1 en bewering 2
+C. Alleen bewering 1
+D. Alleen bewering 2
+Antwoord A.
+De klassen van uitzending gaan weer op de ontleedtafel. We beginnen met de eerste
+letter. De omschrijvingen staan in Tabel 18.8-1 t/m 18.8-3 in sub-paragraaf 18.8.5 van de
+cursustekst.
+De F in bewering 1 is juist (FM) en de J in bewering 2 (enkelzijband met onderdrukte
+draaggolf) ook. Beide gaan door naar de tweede ronde.
+Het cijfer 2 in F2A staat voor een enkel kanaal met niet-analoge informatie. Spraak is zo
+analoog als het maar kan, dus die valt door de mand. Hetzelfde geldt voor het cijfer 2 in
+J2B. Allebei onjuist.
+Eigenlijk hoeven we niet verder te kijken, maar de A van F2A staat voor morsetelegrafie
+(geen spraak); had een E moeten zijn en de B in J2B ook.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.61 Antwoord bij Opgave 18-61
+Een AM-zender wordt gemoduleerd met spraak. De klasse van uitzending is:
+A. J1B
+B. A3E
+C. F1D
+D. F3A
+Antwoord B.
+We pakken de drie tabellen van sub-paragraaf 18.10.5 er weer bij voor het bewijs.
+De eerste letter moet bij AM een A zijn. Dat heeft alleen antwoord B, dus eigenlijk is de
+vraag al beantwoord. Voor de zekerheid en de leerzaamheid doen we ook de rest.
+De 3 in A3E staat voor een enkel kanaal met analoge informatie. Klopt met spraak.
+De E staat voor telefonie: klopt ook.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.62 Antwoord bij Opgave 18-62
+Bewering 1:
+
+Een dubbelzijband AM-zender zendt een muzieksignaal uit.
+De klasse van uitzending is A3C.
+Bewering 2:
+
+Via een FM-zender worden met de hand geseinde morsesignalen verzonden.
+De klasse van uitzending is F1E.
+Wat is juist?
+A. Geen van beide beweringen
+B. Bewering 1 en bewering 2
+C. Alleen bewering 1
+D. Alleen bewering 2
+Antwoord A.
+We gaan kritisch kijken met behulp van de tabellen 18.8.1 – 18.8.3 in sub-paragraaf 18.8.5
+van de cursustekst.
+De A van A3C is AM, dus dat klopt. De F van F1E is ook goed, want het gaat om een FMzender. Beide door naar de volgende ronde.
+De 3 van A3C staat voor een enkel kanaal met analoge informatie. Klopt, muziek is
+analoog. De 1 van F1E staat voor een enkel kanaal met niet-analoge informatie. Klopt ook.
+Beide gaan door naar de finale.
+De C van A3C hoort te staan voor facsimile (fax). Dat is geen muziek. Fout.
+De E van F1E is telefonie. Morsesignalen zijn telegrafie. Ook fout.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.63 Antwoord bij Opgave 18-63
+Een radiozendamateur zendt een signaal uit met een bandbreedte van 2200 kHz
+Dit is:
+A. Alleen toegestaan in amateurbanden vanaf 430 MHz
+B. In de 2-meter amateurband toegestaan
+C. In geen enkele amateurband toegestaan
+D. In alle amateurbanden toegestaan
+Antwoord A.
+Een signaal van 2200 kHz (=2,2 MHz) past alleen binnen een amateurband die minstens
+2200 kHz breed is. Dat laatste geldt niet voor de banden van LF t/m VHF, dus ook niet
+voor de 2-meterband, want die is 2,0 MHz breed (144-146 MHz; zie Tabel 18.12-1 of
+Tabel 18.12-2 in resp. sub-paragraaf 18.12.2 of 18.12.3).
+Alle banden lager dan 430 MHz (70 cm) zijn te smal voor deze signaalbreedte. Je krijgt in
+al die gevallen overschrijding van de bandgrenzen en dat mag niet.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.64 Antwoord bij Opgave 18-64
+Tijdens een morse-verbinding wilt u aan het tegenstation kenbaar maken dat u gestoord
+wordt door andere stations. U gebruikt dan de Q-code:
+A. QRM
+B. QRX
+C. QRZ
+D. QSB
+Antwoord A.
+QRM met de M van “Man-made” betekent: “ik ondervind door de mens veroorzaakte
+storing”.
+Niet te verwarren met QRN met de N van “Nature”. “Ik heb last van atmosferische
+storingen”. Dat komt meestal neer op storing door onweer.
+De tabel met de belangrijkste Q-codes in de cursustekst is Tabel 18.4-1 in sub-par. 18.4.2.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.65 Antwoord bij Opgave 18-65
+Bewering 1:
+
+Een dubbelzijband AM-zender wordt gemoduleerd met een spraaksignaal.
+De klasse van uitzending is A3E.
+Bewering 2:
+
+In een zender wordt fasemodulatie toegepast voor het uitzenden van een datakanaal.
+De klasse van uitzending is G3E.
+Juist is:
+A. Alleen bewering 1
+B. Alleen bewering 2
+C. Bewering 1 en bewering 2
+D. Geen van beide beweringen
+Antwoord A.
+We ontleden de codes weer met behulp van de tabellen 18.8-1 – 18.8-3 in sub-paragraaf
+18.8.5 van de cursustekst.
+Tabel 18.8-1 vertelt dat de A van A3E staat voor AM en de G van G3E staat voor
+fasemodulatie. Allebei goed. Beide gaan door naar de tweede ronde.
+Tabel 18.8-2 geeft aan dat de 3 van A3E staat voor analoge informatie. Een spraaksignaal is
+analoog. Datzelfde geldt vanzelfsprekend ook voor die andere 3 van G3E. Een datakanaal
+is echter digitaal en dat kan geen spraak zijn. Hiermee valt bewering 2 af. Bewering 1 gaat
+naar de finale.
+Tabel 18.8-3. Die geeft aan dat de E van A3E staat voor telefonie, gesproken woord dus.
+Dat klopt met de beschrijving van het signaal bij bewering 1. (Bij bewering 2 klopt het
+dan alweer niet).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.66 Antwoord bij Opgave 18-66
+Definitie zendvermogen:
+Het door de direct met de antenne-inrichting te koppelen trap van het radio-zendapparaat
+afgegeven gemiddelde vermogen, gerekend over een periode van de […X…] tijdens het
+maximum van de omhullende (Peak Envelope Power).
+Op plaats […X…] moet staan:
+A. Laagfrequente ingangswisselspanning
+B. Hoogfrequente ingangswisselspanning
+C. Laagfrequente uitgangswisselspanning
+D. Hoogfrequente uitgangswisselspanning
+Antwoord D.
+Het antwoord staat in sub-par. 18.12.2 en 18.12.3 van de cursustekst:
+
+“Het door de direct met de antenne-inrichting te koppelen trap van het radioapparaat
+afgegeven gemiddeld vermogen, gerekend over een periode van de hoogfrequente
+uitgangswisselspanning tijdens het maximum van de omhullende (Peak Envelope Power).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.67 Antwoord bij Opgave 18-67
+De roepletters G5BEQ worden volgens het voorgeschreven spellingsalfabet gespeld als:
+A. George Vijf Bravo Echo Quebec
+B. Golf Vijf Bravo Echo Quebec
+C. Golf Vijf Baker Echo Quebec
+D. George Vijf Baker Echo Quebec
+Antwoord B.
+Pak er Tabel 18.6-1 in paragraaf 18.6 van de cursustekst bij. Die geeft het hele
+spellingsalfabet.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.68 Antwoord bij Opgave 18-68
+Het woord “AXIOMA” wordt volgens het voorgeschreven spellingsalfabet gespeld als:
+A. Ajax X-ray India Oscar Mexico Ajax
+B. Alfa X-ray India Oscar Mike Alfa
+C. Alfa X-ray India Ontario Mike Alfa
+D. Ajax Xantippe India Oscar Mexico Ajax
+Antwoord B.
+Ook hier het advies: pak er als je wilt Tabel 18.6-1 in paragraaf 18.6 van de cursustekst bij.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.69 Antwoord bijOpgave 18-69
+Het maximaal toegestane zendvermogen voor een radiozendamateur met F-registratie is
+in de 2-meterband:
+A. 120 W
+B. 100 W
+C. 400 W
+D. 25 W
+Antwoord C.
+Zie de frequentietabel, Tabel 18.11-2, in sub-paragraaf 18.11.3 van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.70 Antwoord bij Opgave 18-70
+Het houden van radiowedstrijden (contesten) is niet toegestaan in de frequentieband:
+A. 7,0 – 7,1 MHz
+B. 10,1 – 10,15 MHz
+C. 3,5 – 3,8 MHz
+D. 1,81 - 1,85 MHz
+Antwoord B.
+Hier geldt de frequentietabel 18.12-2 in sub-paragraaf 18.12.3 van de cursustekst. Kijk in
+de rechterkolom (Bijzondere bepalingen).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.71 Antwoord bij Opgave 18-71
+De roepletters PA3RMI worden volgens het voorgeschreven spellingsalfabet gespeld als:
+A. Papa Alfa Drie Radio Mike India
+B. Papa Alfa Drie Romeo Mike Italy
+C. Papa Alfa Drie Romeo Mike India
+D. Papa Alfa Drie Roger Mike India
+Antwoord C.
+Zie Tabel 18.6-1 in paragraaf 18.6 van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.72 Antwoord bij Opgave 18-72
+Het woord “MOSFET” wordt volgens het internationale spellingsalfabet als volgt gespeld:
+A. Martha Ontario Sierra Foxtrot Echo Texas
+B. Mike Oscar Sierra Fox Echo Texas
+C. Mike Oscar Sierra Foxtrot Echo Tango
+D. Mexico Ontario Santiago Fox Echo Tango
+Antwoord C.
+De tabel met het spellingsalfabet staat in de cursustekst als Tabel 18.6-1 in paragraaf 18.6.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.73 Antwoord bij Opgave 18-73
+Bewering 1:
+
+Een dubbelzijband AM-zender wordt gemoduleerd met een spraaksignaal. De klasse van
+uitzending is J3E
+Bewering 2:
+
+Een FM-zender wordt gemoduleerd met een spraaksignaal. De klasse van uitzending is
+F3E.
+Wat is juist?
+A. Geen van beide beweringen
+B. Alleen bewering 1
+C. Bewering 1 en bewering 2
+D. Alleen bewering 2.
+Antwoord D.
+We gaan de codes weer ontleden met behulp van de tabellen 18.8-1 t/m 18.8-3 in subparagraaf 18.8.5 van de cursustekst.
+Tabel 18.8-1 geeft voor de J van J3E enkelzijband en geen AM. Dan had er een A moeten
+staan. Die is dus fout (J3E is telefonie in SSB; het had A3E moeten zijn)
+De F van F3E staat voor FM en dat klopt. Bewering 2 gaat naar de tweede ronde.
+Tabel 18.9-2 geeft voor de 3 van F3E een enkel kanaal met analoge informatie. Klopt.
+Tabel 18.9-3 geeft voor de E van F3E telefonie. Klopt ook. Bewering 2 is goed, bewering 1
+niet.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.74 Antwoord bij Opgave 18-74
+De Amateurdienst wordt uitgeoefend door bevoegde personen:
+1. Die geïnteresseerd zijn in de radiotechniek
+2. Met uitsluitend een persoonlijk oogmerk en zonder geldelijke interesse
+Wat is juist?
+A. Bewering 1 en bewering 2
+B. Geen van beide beweringen
+C. Alleen bewering 1
+D. Alleen bewering 2
+Antwoord A.
+Zie de definitie van de amateurdienst in de ITU-regulations in Art. S1.56 (cursustekst,
+sub-par. 18.7.2:
+“Amateurdienst: Een radiodienst van zelfontwikkeling, onderlinge radiogemeenschap en
+
+technische onderzoekingen, uitgeoefend door radioamateurs, dat wil zeggen door
+bevoegde personen die zijn geïnteresseerd in de radiotechniek, uitsluitend met een
+persoonlijk oogmerk en zonder geldelijk belang.”
+Zo hoor je het eens van een ander.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.75 Antwoord bij Opgave 18-75
+Bewering 1: In een zender wordt fasemodulatie toegepast voor het uitzenden van een
+datakanaal. De klasse van uitzending is G3E.
+Bewering 2: Via een enkelzijbandzender met onderdrukte draaggolf worden met behulp
+
+van een hulpdraaggolf met de hand geseinde morsetekens uitgezonden. De klasse van
+uitzending is J2A.
+Wat is juist:
+A. Alleen bewering 1
+B. Geen van beide beweringen
+C. Bewering 1 en bewering 2
+D. Alleen bewering 2
+Antwoord D.
+We gaan het zien door de codes te ontleden met behulp van de tabellen 18.8-1 t/m 18.8-3
+in sub-paragraaf 18.8.5 van de cursustekst.
+Tabel 18.8-1: De eerste letter van G3E betekent fasemodulatie. Dat klopt met de tekst. De
+eerste letter van J2A betekent EZB (SSB) met onderdrukte draaggolf en dat klopt ook.
+Beide door naar de tweede ronde.
+Tabel 18.8-2: Het cijfer 3 in G3E betekent een enkel kanaal met analoge informatie. Dat
+klopt niet als het een datakanaal betreft. Dat is digitaal. Bewering 1 kan naar het rijk der
+fabelen.
+Het cijfer 2 in J2A betekent een enkel kanaal met niet-analoge informatie op een
+hulpdraaggolf. Dat klopt met de handgeseinde morsetekens op een hulpdraaggolf.
+Bewering 2 gaat naar de eindronde.
+Tabel 18.8-3: De A van J2A betekent morsetelegrafie, bestemd om op het gehoor te
+worden opgenomen. Goedgekeurd.
+Bewering 1 is onjuist bevonden en bewering 2 juist. Antwoord D.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.76 Antwoord bij Opgave 18-76
+Een geregistreerde zendamateur gebruikt zijn amateur-station als een onbemand
+relaisstation. Dit is:
+A. Altijd toegestaan op een frequentie in de 2-meterband
+B. Altijd toegestaan
+C. Uitsluitend toegestaan met een vergunning van Agentschap Telecom
+D. Nooit toegestaan
+Antwoord C.
+Een relaisstation (repeater) wordt op afstand door zijn gebruikers bediend en dus niet per
+definitie door zijn eigenaar. Daarom is voor onbemande stations een extra
+vergunning/registratie van AT (nu RDI) nodig.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.77 Antwoord bij Opgave 18-77
+De radiozendamateur mag het amateurstation gebruiken voor het uitzenden van:
+A. Versleutelde informatie
+B. Informatie die betrekking heeft op het amateurstation
+C. Opmerkingen van commerciële aard
+D. Informatie afkomstig van commerciële radiostations
+Antwoord B.
+Over je eigen station mag je het altijd hebben.
+In sub-paragraaf 18.7.3 staat in 25.2A:
+“Verbindingen tussen amateurstations van verschillende landen mogen niet gecodeerd
+
+zijn met het doel, hun betekenis te verbergen; dit geldt niet voor stuursignalen die
+worden uitgewisseld tussen grond- en ruimtestations in de amateur-satellietdienst.”
+Versleutelen mag niet tussen verschillende landen en in Nederland binnenslands ook
+niet.
+Uit de definitie van de amateurdienst (sub-par. 18.7.2) blijkt dat de amateur zich bij het
+beoefenen van zijn/haar hobby niet mag inlaten met commerciële zaken. Die definitie
+luidt “Amateurdienst: Een radiodienst van zelfontwikkeling, onderlinge
+radiogemeenschap en technische onderzoekingen, uitgeoefend door radioamateurs, dat
+wil zeggen door bevoegde personen die zijn geïnteresseerd in de radiotechniek,
+uitsluitend met een persoonlijk oogmerk en zonder geldelijk belang”.
+De kneep zit hem in dat geldelijke belang. Artikel 10, lid 1 punt b van de “Regeling
+gebruik van frequentieruimte met meldingsplicht” (sub-paragraaf 18.10.4 cursustekst)
+scherpt het nog wat aan: “Het uitzenden van media-aanbod of reclameboodschappen als
+bedoeld in artikel 1.1 van de Mediawet 2008 is niet toegestaan.”
+Daarmee vervallen de antwoorden C en D. Dan blijft alleen antwoord B over.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.78 Antwoord bij Opgave 18-78
+Definitie zendvermogen:
+Het door de direct met […X…] te koppelen trap van het radio-zendapparaat afgegeven
+gemiddeld vermogen, gerekend over een periode van de hoogfrequent
+uitgangswisselspanning tijdens het maximum van de omhullende (Peak Envelope Power).
+Op plaats […X…] moet staan:
+A. De antenne-inrichting
+B. Het voedingsapparaat
+C. Het ontvangapparaat
+D. Het radio-zendapparaat
+Antwoord A.
+Op de plaats van […X…] hoort de tekst van antwoord A te staan. Je vindt het goede
+antwoord in sub-par. 18.11.2 en 18.11.3 van de cursustekst:
+“Zendvermogen: het door de direct met de antenne-inrichting te koppelen trap
+
+van het radioapparaat afgegeven gemiddeld vermogen, gerekend over één
+periode van de hoogfrequente uitgangswisselspanning tijdens het maximum van
+de omhullende (Peak Envelope Power)”
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.79 Antwoord bij Opgave 18-79
+Een geregistreerde zendamateur koopt een tweedehands mobilofoon, werkend in de band
+146-174 MHz. Hij wijzigt het frequentiebereik in 144-172 MHz. Het gebruik van dit
+apparaat is:
+A. Alleen toegestaan als de eindtrap van de zender is verwijderd
+B. Toegestaan, mits het toegestane zendvermogen niet kan worden overschreden
+C. Niet toegestaan
+D. Toegestaan, mits hij zich aan de Gebruikersbepalingen Amateurfrequentiegebruik
+houdt.
+Antwoord D.
+Een zendamateur mag zelfbouwapparatuur gebruiken zonder dat die is gekeurd. De
+verbouwing van een fabrieksapparaat valt daar ook onder.
+Het is de verantwoordelijkheid van de amateur dat hij/zij zich aan de regels houdt. In dit
+geval gaat het vooral om aan zendamateurs toegewezen frequentiebanden en de
+bijbehorende maximale zendvermogens. Voor een N-geregistreerde geldt Tabel 18.12-1,
+voor een F-geregistreerde Tabel 18.12-2 in respectievelijk sub-paragraaf 18.12.2 en 18.12.3
+van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.80 Antwoord bij Opgave 18-80
+Een enkelzijbandzender wordt gebruikt voor het uitzenden van morsetekens. De klasse
+van uitzending is:
+A. F1D
+B. F2A
+C. J1E
+D. J2A
+Antwoord D.
+F als eerste letter staat voor (een vorm van) FM, de J voor EZB met onderdrukte draaggolf.
+Die laatste moeten we dus hebben: antwoord C of D. Om morsetekens met een EZBzender uit te zenden, heb je een hulpdraaggolf nodig. Dan komen we voor het cijfer 2 van
+J2A bij niet-analoge modulatie met een hulpdraaggolf en de laatste letter, de A, staat voor
+morsetelegrafie, bestemd om op het gehoor te worden opgenomen. Inderdaad antwoord
+D. (Tabellen 18.10-1 t/m 18.10-3 van de cursustekst)
+Opmerking
+De J1E van antwoord C is waard, nader bekeken te worden. J is EZB, zagen we. J1 is EZB
+met “een enkel kanaal met niet-analoge informatie, waarbij geen gebruik wordt gemaakt
+van een modulerende hulpdraaggolf”. Hiervoor is al opgemerkt dat je voor morse op een
+EZB-zender een hulpdraaggolf nodig hebt. We komen dus in het rijk der fantasieën. Maar
+het wordt nog gekker met die E van J1E. Die staat voor telefonie. Commentaar overbodig,
+behalve dat dit aantoont dat je ook met indrukwekkende codes onzin kunt opschrijven.
+Waarvan akte.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.81 Antwoord bij Opgave 18-81
+Het woord EXPORT wordt volgens het voorgeschreven spellingalfabet gespeld als:
+A. Echo Xantippe Papa Oslo Romeo Tango
+B. Echo X-ray Portugal Ontario Romeo Tango
+C. Echo X-ray Papa Ontario Radio Tango
+D. Echo X-ray Papa Oscar Romeo Tango
+Antwoord D.
+De tabel met alle spelwoorden vind je in de cursustekst als Tabel 18.6-1 in paragraaf 18.6.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.82 Antwoord bij Opgave 18-82
+Welke combinatie van mogelijkheden mag de radiozendamateur met een F-registratie
+gebruiken?
+A. Zendvermogen 120 W; frequentie 3400,1 MHz
+B. Zendvermogen 400 W; frequentie 1250,1 MHz
+C. Zendvermogen 400 W; frequentie 138,0 kHz
+D. Zendvermogen 120 W; frequentie 29,9 MHz
+Antwoord A.
+De tabel met vermogens en frequenties is te vinden in sub-par. 18.12.3, Tabel 18.12-2 van
+de cursustekst.
+Bij antwoord B is het maximale vermogen 400 W. Het hoort 120 W te zijn.
+Bij antwoord C valt 138,0 kHz buiten de toegelaten band van 0,1357 tot 0,1378 kHz.
+Bij antwoord D ligt de frequentie 29,9 MHz buiten de 10-meterband. Die is 28,0 - 29,7
+MHz.
+Opmerking
+Uw schrijver vindt dit wat overtrokken. Je kunt niet van examenkandidaten verwachten
+dat ze al die cijfers scherp in het hoofd hebben. Een beetje amateur die een nieuwe
+frequentieband wil uitproberen, zal eerst opzoeken wat hij/zij daar wel en niet mag.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.83 Antwoord bij Opgave 18-83
+Het woord “YOGHURT” wordt volgens het voorgeschreven spellingalfabet gespeld als:
+A. Yuliett Ontario Golf Hotel Uniform Romeo Tango
+B. Yellow Ontario Golf Hotel Uniform Romeo Tango
+C. Yankee Oscar Ghana Hotel Utrecht Romeo Tango
+D. Yankee Oscar Golf Hotel Uniform Romeo Tango
+Antwoord D.
+De tabel met alle spelwoorden vind je in de cursustekst als Tabel 18.6-1 in paragraaf 18.6.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.84 Antwoord bij Opgave 18-84
+Een FM-zender wordt gebruikt voor het uitzenden van een facsimilé signaal. De klasse
+van uitzending is:
+A. A1A
+B. J1C
+C. F2C
+D. F1D
+Antwoord C.
+Met de tabellen 18.8-1 t/m 18.8-3 in sub-paragraaf 18.8.5 van de cursustekst gaan we de
+code te lijf.
+Tabel 18.10-1: voor de eerste letter: A staat voor AM, J voor EZB en F voor FM. Daarmee
+vallen de antwoorden A en B af.
+Tabel 18.9-2: het cijfer: 1 staat voor niet-analoge modulatie zonder modulerende
+hulpdraaggolf; het cijfer 2 voor niet-analoge modulatie met modulerende hulpdraaggolf.
+Fax is een in toonhoogte variërend signaal; dat is meteen de hulpdraaggolf. Eigenlijk
+weten we het dus al: antwoord C.
+Tabel 18.9-3: de laatste letter C staat voor facsimilé (fax), waarmee we volledige zekerheid
+hebben (de D van antwoord D is datatransmissie).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.85 Antwoord bij Opgave 18-85
+Volgens het Internationale Radioreglement is radiocommunicatie tussen amateurstations
+van verschillende landen:
+A. Altijd toegestaan
+B. Alleen toegestaan als in het internationale amateur-overleg hierover een
+overeenkomst is bereikt
+C. Verboden indien de administratie van één der betrokken landen heeft laten weten
+hiertegen bezwaar te hebben
+D. Alleen toegestaan voor amateurs die hebben aangetoond teksten in morseschrift
+met de hand te kunnen seinen en correct op het gehoor te kunnen ontvangen.
+Antwoord C.
+Zie artikel S25.1 van Hoofdstuk I van de ITU Regulations (sub-paragraaf 18.7.3 van de
+cursustekst):
+“Radiocommunicatie tussen amateurstations van verschillende landen is toegestaan, tenzij
+
+de administratie van één van de betreffende landen heeft aangegeven, bezwaar te hebben
+tegen dergelijke communicatie.”
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.86 Antwoord bij Opgave 18-86
+Het woord “ZOTSKAP” wordt volgens het voorgeschreven spellingalfabet gespeld als:
+A. Zulu Oslo Texas Sierra Kilo Alfa Papa
+B. Zebra Oscar Texas Santiago Kilo Alfa Papa
+C. Zulu Ontario Tango Sierra Kilo Alfa Papa
+D. Zulu Oscar Tango Sierra Kilo Alfa Papa
+Antwoord D.
+Bekijk indien nodig de tabel met alle spelwoorden in de cursustekst (Tabel 18.6-1 in
+paragraaf 18.6).
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.87 Antwoord bij Opgave 18-87
+Juist is:
+A. De 50 MHz frequentieband mag door de radiozendamateur met een F-registratie
+worden gebruikt met een zendvermogen van 400 W
+B. De 50 MHz frequentieband mag door de radiozendamateur met een F- of Nregistratie worden gebruikt met een zendvermogen van 25 W
+C. De 50 MHz frequentieband mag door de radiozendamateur met een F- of Nregistratie worden gebruikt met een zendvermogen van 120 W
+D. De 50 MHz frequentieband mag door de radiozendamateur met een F-registratie
+worden gebruikt met een zendvermogen van 30 W.
+Antwoord D.
+Uit de frequentietabel 18.12-1 in sub-par. 18.12.2 blijkt dat N-geregistreerden niet op deze
+band mogen uitzenden, waarmee de antwoorden B en C naar de prullenbak kunnen.
+400 W mag op 50 MHz in geen geval (Tabel 18.12-2 in sub-par. 18.12.3), zodat antwoord
+A hetzelfde lot treft als B en C.
+Blijft over antwoord D. Dat is een wat moeilijk geval, omdat je er met A1A (CW) en J3E
+(EZB) 120 W mag produceren. Voor andere modulatiesoorten ligt het maximale vermogen
+inderdaad op 30 W. Als de modulatiesoort niet wordt aangegeven, zoals in antwoord D,
+moeten we uitgaan van alle modulatiesoorten en dan wordt het inderdaad 30 W.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.88 Antwoord bij Opgave 18-88
+De roepletters moeten worden uitgezonden:
+A. Bij het begin en het einde van elke uitzending tenminste éénmaal en tijdens de
+uitzending éénmaal per 5 minuten
+B. Telkens om de 5 minuten tenminste tweemaal in spraak of morsetekens
+C. Bij het begin en het einde van elke uitzending tenminste tweemaal en tijdens de
+uitzending éénmaal per 5 minuten
+D. Bij het begin en het einde van de uitzending tenminste éénmaal en tijdens de
+uitzending éénmaal per 10 minuten
+Antwoord A.
+Zie sub-paragraaf 18.7.3 van de cursustekst, onder artikel S25.9. Nauwkeuriger
+omschreven vind je het in sub-par. 18.10.4 (“Regeling gebruik van frequentieruimte met
+meldingsplicht”) onder Artikel 10, lid 1, punt c.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.89 Antwoord bij Opgave 18-88
+U werkt op 15 meter en uw buurman laat weten dat u zijn TV-ontvangst verstoort. Na
+enig onderzoek komt u tot de ontdekking dat uw zender op deze band te sterke
+harmonischen uitstraalt. Hoe stelt u zich op in deze situatie?
+A. U zegt dat er geen redelijke oplossing is voor dit probleem
+B. U zegt dat hij een klacht bij Agentschap Telecom kan indienen
+C. U gebruikt deze frequentieband niet tot u de storing heeft opgelost
+D. U adviseert de buurman om bij de vakhandel een ontstoorfilter te kopen.
+Antwoord C.
+De zendamateur blijkt het probleem naar alle waarschijnlijkheid te veroorzaken. Dan is
+het niet meer dan redelijk dat hij probeert de zaak op te lossen en in de tussentijd de
+storende frequentie niet gebruikt.
+Zie ook sub-par. 18.13.2 en 18.13.3 van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.90 Antwoord bij Opgave 18-88
+IARU-bandplannen dienen om:
+A. Het aantal toegepaste klassen van uitzending te beperken
+B. De bandbreedte van amateur-uitzendingen te beperken
+C. De storingen tussen amateurstations onderling te beperken
+D. Aan iedere amateur een vaste frequentie toe te wijzen
+Antwoord C.
+Je vindt informatie over bandplannen en aanbevelingen voor hun gebruik in subparagrafen 18.3.3, 18.13.4 en 18.14.1 van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.91 Antwoord bij Opgave 18-91
+Uw tegenstation in een CW-QSO blijkt een zeer slecht seiner te zijn. U begrijpt
+desondanks met moeite wat er wordt geseind. Bovendien komt het signaal zwak binnen
+en zit er een hevige bromtoon op zijn signaal.
+Welk ontvangstrapport geeft u hem?
+A. 515
+B. 199
+C. 332
+D. 599
+Antwoord C.
+Het RST-rapportsysteem vind je in de cursustekst in sub-par. 18.14.3. De tabel met
+betekenissen van de cijfers is Tabel 18.14-1.
+De eerste 3 (neembaarheid) van het rapport 332 betekent “Met moeite neembaar”
+De tweede 3 (signaalsterkte) betekent “Zwak”
+De 2 in de derde positie (toonkwaliteit) betekent “Zeer ruwe toon”
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.92 Antwoord bij Opgave 18-92
+PE1ABC geeft een algemene oproep op de 2-meterband. Wat is de juiste procedure?
+A. Oproep door PE1ABC: “Hier is PE1ABC”
+antwoord door PE3ZZZ: “PE3EZZ voor PE1ABC”
+B. Oproep door PE1ABC: “CQ CQ CQ dit is PE1ABC”
+antwoord door PE3ZZZ: “PE3BZZ”
+C. Oproep door PE1ABC: “CQ CQ CQ dit is PE1ABC”
+antwoord door PE3EZZ: ”PE1ABC de PE3BZZ”
+D. Oproep door PE1ABC: “CQ CQ CQ dit is PE1ABC”
+antwoord door PE3ZZZ: “PE3ZZZ voor PE1ABC”.
+Antwoord C.
+CQ betekent “algemene oproep”. In het Engels klinkt het als “seek you”, (ik) zoek je.
+Oorspronkelijk zal het een telegrafie-afkorting zijn geweest, tegenwoordig wordt het voor
+alle modulatiesoorten gebruikt. Bij een antwoord noem je altijd het tegenstation eerst, dan
+pas je eigen roepletters. Precies zoals je nooit zegt “Ik en Pietje”, maar altijd “Pietje en ik”.
+In de cursustekst: sub-paragraaf 18.14.4.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.93 Antwoord bij Opgave 18-93
+U bent heel ambitieus en besluit, zelf een 2-meter zender te gaan bouwen. Zodra de
+zender zover is dat u er een signaal mee kunt uitzenden:
+A. Gaat u dit zonder meer proberen en direct een verbinding maken
+B. Stuurt u de zender op naar AT met het verzoek, de zender op harmonischen te
+testen
+C. Sluit u een kunstantenne aan om te kijken hoe de zender werkt zonder een signaal
+uit te zenden
+D. Doet u een algemene oproep op 2 meter met het verzoek of iemand u verder kan
+helpen
+Antwoord C.
+Voordat je met je zelfgebouwde zender “in de lucht komt”, is het raadzaam om eerst via
+een kunstantenne (Cursustekst, hoofdstuk 16) wat testen uit te voeren, bijvoorbeeld of de
+frequentie klopt, het vermogen binnen de toegestane grenzen ligt en als het kan, of het
+signaal niet sterk vervormd is. Voorkom dat je bij een ander storing veroorzaakt.
+Je kunt bij zelfbouw misschien niet alles voorkomen, maar doe wat je kunt. Gebruik
+bijvoorbeeld bij je eerste uitzendingen na de test met de kunstantenne zo klein mogelijk
+vermogen en spreek bijvoorbeeld met een mede-amateur in de buurt een testsessie af.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.94 Antwoord bij Opgave 18-94
+In het telegrafieverkeer is de gebruikelijke afkorting voor ZENDER
+A. TX
+B. TR
+C. TRX
+D. ZDR
+Antwoord A.
+Het juiste antwoord is TX.
+Zie Tabel 19.3-2 in sub-par. 19.3.4. “Amateur-afkortingen” van de cursustekst.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.95 Antwoord bij Opgave 18-95
+PA3XXX in Breda hoort op 80 meter ON4ZZZ uit Antwerpen roepen: CQ-DX, CQ-DX, de
+ON4ZZZ. Hoe reageert PA3XXX hierop?
+A. ON4ZZZ de PA3XXX
+B. Hij antwoordt niet
+C. PA3XXX voor ON4ZZZ
+D. ON4ZZZ, ON4ZZZ, ON4ZZZ, ON4ZZZ, QRX
+Antwoord B.
+Hij reageert niet. De reden: met CQ-DX geeft ON4ZZZ te kennen dat hij uit is op een
+lange-afstandverbinding. Op 80 meter is van Breda naar waar dan ook in België op 80
+meter geen lange-afstandswerk. Daarom reageert PA3XXX niet. Zie ook de cursustekst,
+sub-paragraaf 18.14.1.
+Opmerking
+PA3XXX hoeft helemaal niet te weten dat ON4ZZZ in Antwerpen zit. PA3XXX ziet aan
+de prefix ON4 dat het om een Belgisch station gaat. Heel België is te dichtbij om te
+reageren op een CQ DX op 80 meter.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.96 Antwoord bij Opgave 18-96
+Wat dient u te doen voordat u op een aan de amateurdienst toegewezen frequentie een
+CQ-oproep wilt uitzenden?
+A. Ik zend enkele malen kort een signaal uit om te constateren dat ik geen andere
+verbinding stoor
+B. Ik overtuig mij ervan dat de frequentie vrij is, zodat ik geen andere verbinding
+stoor
+C. Ik observeer gedurende tenminste tien minuten de frequentie en ga daarna mijn
+oproep uitzenden
+D. Ik vraag enkele malen of de frequentie vrij is
+Antwoord B.
+Aan dit onderwerp wordt enige aandacht besteed in de cursustekst, sub-par. 18.14.4 “Hoe
+maak je een verbinding?”
+Opmerking 1
+Ook na luisteren kun je niet volledig zeker weten of een frequentie vrij is. Je kunt
+bijvoorbeeld in de stille zone zitten van een station dat aan het woord is, terwijl het
+tegenstation dat luistert, jou wel kan horen als je zendt. Blijkt zoiets het geval, zeg “Sorry
+OM” en zoek een andere frequentie of luister op andere frequenties of er iemand “CQ”
+roept.
+Je kunt na noemen van je call ook vragen of de frequentie in gebruik is.
+Opmerking 2
+Er is nog een manier om tot een goed antwoord te komen. Dat is uitgaan van de eigen
+verantwoordelijkheid van de zendamateur. Tegenwoordig is dat normaal; in een nog niet
+zo heel grijs verleden was dat anders. Drie van de vier antwoorden schrijven voor, hoe je
+moei vaststellen of een frequentie in gebruik is. De uitzondering is antwoord B: overtuig
+je dat de frequentie vrij is. Hoe je dat doet, is jouw verantwoordelijkheid en dat is dan ook
+in onze tijd het goede antwoord.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.97 Antwoord bij Opgave 18-97
+Een amateur met een N-registratie maakt op de repeater-uitgangsfrequentie 145,650 MHz
+een verbinding in CW met een radiozendamateur met een F-registratie in een naburige
+stad. Dit is:
+A. In overeenstemming met het IARU-bandplan
+B. Niet toegestaan
+C. Alleen toegestaan met minder dan 10 watt zendvermogen
+D. Niet in overeenstemming met het IARU-bandplan
+Antwoord
+Antwoord D is juist. Het waarom:
+Als 145,650 MHz volgens bandplan een repeater-uitgangsfrequentie is, is het hoogst
+ongepast om op diezelfde frequentie een of meer verbindingen te maken, ongeacht het
+soort registratie van de deelnemers. Daarom antwoord D.
+Opmerking
+145,650 MHz is inderdaad een repeater-uitgangsfrequentie.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.98 Antwoord bij Opgave 18-98
+Wat doet u voor u op een frequentie CQ gaat roepen?
+A. Ik roep QRX en zend daarna mijn oproep uit
+B. Ik roep “break break” en begin mijn oproep
+C. Ik luister of de frequentie vrij is
+D. Ik hoef niets te doen
+Antwoord C.
+Zie sub-paragraaf 18.14.4 van de cursustekst met de manieren waarop PG7PQR
+(gefantaseerde call) verbindingen maakt. Zie ook onder Antwoord bij Opgave 18-96.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 18. Examenopgaven_B_20250416
+
+18.12.99 Antwoord bij Opgave 18-99
+IARU-bandplannen zijn
+A. Door de CEPT voorgeschreven
+B. Aanbevelingen binnen de Amateurdienst
+C. Wettelijk vastgelegd
+D. Door de ITU voorgeschreven
+Antwoord B.
+De IARU-bandplannen hebben geen nationale of internationale wettelijke status. Het zijn
+aanbevelingen binnen de amateurwereld. Wel word je geacht, je aan die bandplannen te
+houden. CQ-roepen op een “verkeerd” stuk amateurband heeft dan ook weinig zin, want
+de kans op antwoord is miniem. De kans is veel groter dat je er door een mede-amateur op
+attent wordt gemaakt dat je op de verkeerde plek zit. Zie ook sub-par. 18.13.4 van de
+cursustekst. Daarin staan ook linkjes naar bandplannen.
+
+Dit waren de opgaven bij Hoofdstuk 18, het laatste hoofdstuk van deze cursus.
+
+© 2021, Vereniging van radiozendamateurs VRZA
+
+18-113
+
+

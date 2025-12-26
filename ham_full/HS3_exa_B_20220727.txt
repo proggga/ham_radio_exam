@@ -1,0 +1,2870 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+Inhoudsopgave
+3
+
+Uitgewerkte examenopgaven bij Hoofdstuk 3, deel B (51-91) .................................... 3-5
+3.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? .............. 3-5
+
+3.2
+
+Enkele praktische opmerkingen ............................................................................. 3-6
+
+3.3
+
+Formularium ............................................................................................................ 3-6
+
+3.3.1
+
+Stroom I is verplaatsing van lading Q ............................................................. 3-6
+
+3.3.2
+
+De Wet van Ohm: samenhang van spanning U, stroom I en weerstand R .. 3-7
+
+3.3.3
+
+Weerstand, soortelijke of specifieke weerstand  en geleiderafmetingen .... 3-7
+
+3.3.4
+
+Vermogen P, stroom en spanning ................................................................... 3-7
+
+3.3.5
+
+Vermogen en de wet van Ohm ....................................................................... 3-8
+
+3.3.6
+
+De eerste wet van Kirchhoff gaat over stroom ............................................... 3-8
+
+3.3.7
+
+De tweede wet van Kirchhoff gaat over spanning ......................................... 3-8
+
+3.3.8
+
+Vervangingsweerstand bij serieschakeling ..................................................... 3-9
+
+3.3.9
+
+Vervangingsweerstand bij parallelschakeling ................................................ 3-9
+
+3.3.10
+
+Spanningsdelers .............................................................................................. 3-10
+
+3.3.11
+
+Opsplitsen van een niet-ideale spanningsbron ............................................. 3-11
+
+3.3.12
+
+Niet-ideale spanningsbron en belastingsweerstand ..................................... 3-11
+
+3.3.13
+
+Serieschakeling van niet-ideale spanningsbronnen ..................................... 3-12
+
+3.4
+
+Opgaven ................................................................................................................. 3-13
+
+3.4.51
+
+Opgave 3-51 .................................................................................................... 3-14
+
+3.4.52
+
+Opgave 3-52 .................................................................................................... 3-15
+
+3.4.53
+
+Opgave 3-53 .................................................................................................... 3-16
+
+3.4.54
+
+Opgave 3-54 .................................................................................................... 3-17
+
+3.4.55
+
+Opgave 3-55 .................................................................................................... 3-18
+
+3.4.56
+
+Opgave 3-56 .................................................................................................... 3-19
+
+3.4.57
+
+Opgave 3-57 .................................................................................................... 3-20
+
+3.4.58
+
+Opgave 3-58 .................................................................................................... 3-21
+
+3.4.59
+
+Opgave 3-59 .................................................................................................... 3-22
+
+3.4.60
+
+Opgave 3-60 .................................................................................................... 3-23
+
+3.4.61
+
+Opgave 3-61 .................................................................................................... 3-24
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.62
+
+Opgave 3-62 .................................................................................................... 3-25
+
+3.4.63
+
+Opgave 3-63 .................................................................................................... 3-26
+
+3.4.64
+
+Opgave 3-64 .................................................................................................... 3-27
+
+3.4.65
+
+Opgave 3-65 .................................................................................................... 3-28
+
+3.4.66
+
+Opgave 3-66 .................................................................................................... 3-29
+
+3.4.67
+
+Opgave 3-67 .................................................................................................... 3-30
+
+3.4.68
+
+Opgave 3-68 .................................................................................................... 3-31
+
+3.4.69
+
+Opgave 3-69 .................................................................................................... 3-32
+
+3.4.70
+
+Opgave 3-70 .................................................................................................... 3-33
+
+3.4.71
+
+Opgave 3-71 .................................................................................................... 3-34
+
+3.4.72
+
+Opgave 3-72 .................................................................................................... 3-35
+
+3.4.73
+
+Opgave 3-73 .................................................................................................... 3-36
+
+3.4.74
+
+Opgave 3-74 .................................................................................................... 3-37
+
+3.4.75
+
+Opgave 3-75 .................................................................................................... 3-38
+
+3.4.76
+
+Opgave 3-76 .................................................................................................... 3-39
+
+3.4.77
+
+Opgave 3-77 .................................................................................................... 3-40
+
+3.4.78
+
+Opgave 3-78 .................................................................................................... 3-41
+
+3.4.79
+
+Opgave 3-79 .................................................................................................... 3-42
+
+3.4.80
+
+Opgave 3-80 .................................................................................................... 3-43
+
+3.4.81
+
+Opgave 3-81 .................................................................................................... 3-44
+
+3.4.82
+
+Opgave 3-82 .................................................................................................... 3-45
+
+3.4.83
+
+Opgave 3-83 .................................................................................................... 3-46
+
+3.4.84
+
+Opgave 3-84 .................................................................................................... 3-47
+
+3.4.85
+
+Opgave 3-85 .................................................................................................... 3-48
+
+3.4.86
+
+Opgave 3-86 .................................................................................................... 3-49
+
+3.4.87
+
+Opgave 3-87 .................................................................................................... 3-50
+
+3.4.88
+
+Opgave 3-88 .................................................................................................... 3-51
+
+3.4.89
+
+Opgave 3-89 .................................................................................................... 3-52
+
+3.4.90
+
+Opgave 3-90 .................................................................................................... 3-53
+
+3.4.91
+
+Opgave 3-91 .................................................................................................... 3-54
+
+3.5
+
+Uitwerkingen ......................................................................................................... 3-55
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.51
+
+Uitwerking van Opgave 3-51 ........................................................................ 3-56
+
+3.5.52
+
+Uitwerking van Opgave 3-52 ........................................................................ 3-57
+
+3.5.53
+
+Uitwerking van Opgave 3-53 ........................................................................ 3-58
+
+3.5.54
+
+Uitwerking van Opgave 3-54 ........................................................................ 3-59
+
+3.5.55
+
+Uitwerking van Opgave 3-55 ........................................................................ 3-60
+
+3.5.56
+
+Uitwerking van Opgave 3-56 ........................................................................ 3-61
+
+3.5.57
+
+Uitwerking van Opgave 3-57 ........................................................................ 3-62
+
+3.5.58
+
+Uitwerking van Opgave 3-58 ........................................................................ 3-63
+
+3.5.59
+
+Uitwerking van Opgave 3-59 ........................................................................ 3-64
+
+3.5.60
+
+Uitwerking van Opgave 3-60 ........................................................................ 3-65
+
+3.5.61
+
+Uitwerking van Opgave 3-61 ........................................................................ 3-66
+
+3.5.62
+
+Uitwerking van Opgave 3-62 ........................................................................ 3-67
+
+3.5.63
+
+Uitwerking van Opgave 3-63 ........................................................................ 3-68
+
+3.5.64
+
+Uitwerking van Opgave 3-64 ........................................................................ 3-69
+
+3.5.65
+
+Uitwerking van Opgave 3-65 ........................................................................ 3-71
+
+3.5.66
+
+Uitwerking van Opgave 3-66 ........................................................................ 3-72
+
+3.5.67
+
+Uitwerking van Opgave 3-67 ........................................................................ 3-73
+
+3.5.68
+
+Uitwerking van Opgave 3-68 ........................................................................ 3-74
+
+3.5.69
+
+Uitwerking van Opgave 3-69 ........................................................................ 3-75
+
+3.5.70
+
+Uitwerking van Opgave 3-70 ........................................................................ 3-77
+
+3.5.71
+
+Uitwerking van Opgave 3-71 ........................................................................ 3-78
+
+3.5.72
+
+Uitwerking van Opgave 3-72 ........................................................................ 3-79
+
+3.5.73
+
+Uitwerking van Opgave 3-73 ........................................................................ 3-80
+
+3.5.74
+
+Uitwerking van Opgave 3-74 ........................................................................ 3-81
+
+3.5.75
+
+Uitwerking van Opgave 3-75 ........................................................................ 3-82
+
+3.5.76
+
+Uitwerking van Opgave 3-76 ........................................................................ 3-83
+
+3.5.77
+
+Uitwerking van Opgave 3-77 ........................................................................ 3-84
+
+3.5.78
+
+Uitwerking van Opgave 3-78 ........................................................................ 3-85
+
+3.5.79
+
+Uitwerking van Opgave 3-79 ........................................................................ 3-86
+
+3.5.80
+
+Uitwerking van Opgave 3-80 ........................................................................ 3-87
+
+3.5.81
+
+Uitwerking van Opgave 3-81 ........................................................................ 3-88
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.82
+
+Uitwerking van Opgave 3-82 ........................................................................ 3-89
+
+3.5.83
+
+Uitwerking van Opgave 3-83 ........................................................................ 3-90
+
+3.5.84
+
+Uitwerking van Opgave 3-84 ........................................................................ 3-91
+
+3.5.85
+
+Uitwerking van Opgave 3-85 ........................................................................ 3-92
+
+3.5.86
+
+Uitwerking van Opgave 3-86 ........................................................................ 3-93
+
+3.5.87
+
+Uitwerking van Opgave 3-87 ........................................................................ 3-94
+
+3.5.88
+
+Uitwerking van Opgave 3-88 ........................................................................ 3-95
+
+3.5.89
+
+Uitwerking van Opgave 3-89 ........................................................................ 3-96
+
+3.5.90
+
+Uitwerking van Opgave 3-90 ........................................................................ 3-97
+
+3.5.91
+
+Uitwerking van Opgave 3-91 ........................................................................ 3-98
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3 Uitgewerkte examenopgaven bij Hoofdstuk 3, deel B (51-91)
+3.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 3
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan
+het eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave en het goede antwoord vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot een goed
+antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 3.5.
+
+3.2 Enkele praktische opmerkingen
+Wegens het grote aantal beschikbare examenopgaven is de bundel bij hoofdstuk 3 gesplitst
+in deel A en deel B. Dit is deel B en bevat 41 opgaven.
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Vóór het jaar 2008, waren er
+maar twee examens per jaar, het voorjaars- en najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer in een examen zit en plotseling,
+bijvoorbeeld 10 jaar later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”) met soms wat handigheidjes. We raden aan, dit eerst door te
+nemen.
+
+3.3 Formularium
+3.3.1 Stroom I is verplaatsing van lading Q
+Elektrische lading Q (eenheid: coulomb, C) is stroom I (eenheid: ampère, A) maal tijd t
+(eenheid: seconde, s)
+𝑄 = 𝐼𝑡
+Dat kun je ook schrijven als
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+𝐼=
+
+𝑄
+𝑄
+en 𝑡 =
+𝑡
+𝐼
+
+In een figuur uitgedrukt:
+
+Denk de te berekenen grootheid weg. De overige symbolen geven het rechterlid van de
+bijbehorende vergelijking.
+3.3.2 De Wet van Ohm: samenhang van spanning U, stroom I en weerstand R
+De wet van Ohm beschrijft de relatie tussen spanning U (volt, V) stroom I en weerstand R
+(eenheid: ohm, )
+𝑈 = 𝐼𝑅
+Ook deze vergelijking kan als figuur worden weergegeven:
+
+Gebruiksaanwijzing: dezelfde als in de vorige tekening.
+3.3.3 Weerstand, soortelijke of specifieke weerstand  en geleiderafmetingen
+De weerstand R van een geleider is afhankelijk van de soortelijke of specifieke weerstand
+ (eenheid: ohmmeter, m) de lengte L (eenheid: meter, m) en de doorsnede A (eenheid:
+vierkante meter, m2) volgens
+𝑅=
+
+𝐿
+𝐴
+
+3.3.4 Vermogen P, stroom en spanning
+Vermogen P (eenheid: watt, W) is stroom I maal spanning U
+𝑃 = 𝑈𝐼
+Ook hier worden twee grootheden vermenigvuldigd en kan de driehoek worden
+toegepast:
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.3.5 Vermogen en de wet van Ohm
+Combineren met de wet van Ohm leidt tot
+𝑃 = 𝐼 2 𝑅 en 𝑃 =
+
+𝑈2
+𝑅
+
+3.3.6 De eerste wet van Kirchhoff gaat over stroom
+De eerste wet van Kirchhoff: totale stroom naar en van een knooppunt van leidingen is 0.
+
+𝐼1 + 𝐼2 + 𝐼3 + 𝐼4 + 𝐼5 = 0
+
+( 3.3-1)
+
+En voor een knooppunt met n takken
+𝐼1 + ⋯ + 𝐼𝑛 = 0
+
+( 3.3-2)
+
+3.3.7 De tweede wet van Kirchhoff gaat over spanning
+De tweede wet van Kirchhoff: de som van de spanningen in een gesloten circuit is 0.
+
+In de figuur is de som van de spanningen over de weerstanden gelijk aan de spanning over
+de batterij of de spanningsbron als je niet let op de polariteit van de spanning (wat in de
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+meeste schakelingen prima werkt). Doe je dat wel, dan is de ene richting plus en de
+andere min en kom je op 0 uit. Dat geldt ook in het schema hieronder.
+
+𝑈 + 𝑈1 + 𝑈2 + 𝑈3 = 0
+Bij aanwezigheid van één spanningsbron is het niet nodig, je druk te maken over de
+polariteit en kun je rustig werken met
+𝑈 = 𝑈1 + 𝑈2 + 𝑈3
+Maar bij aanwezigheid van meer dan 1 bron is het zaak, op te letten of hun polariteit
+gelijk of tegengesteld is. Bereken dan eerst de totale spanning en pas daarna het gevraagde
+in de opgave. Zie ook 3.3.13.
+3.3.8 Vervangingsweerstand bij serieschakeling
+De weerstanden in de figuur hierboven kun je vervangen door één vervangingsweerstand
+Rtot. Voor weerstanden in serie is de stroom gelijk en verschillen de spanningen per
+weerstand. Dan geldt
+𝑅tot = 𝑅1 + 𝑅2 + 𝑅3
+Of voor n weerstanden
+𝑅tot = 𝑅1 + 𝑅2 + ⋯ + 𝑅𝑛
+In woorden: Voor de serieschakeling van weerstanden geldt dat de vervangende
+weerstand Rtot de som is van alle weerstanden in de serieschakeling. De vervangende
+weerstand is dus altijd groter dan de grootste weerstand in de serieschakeling.
+In het bijzondere geval dat een serieschakeling alleen gelijke weerstanden R bevat, is de
+vervangende weerstand gelijk aan het aantal weerstanden maal R.
+3.3.9 Vervangingsweerstand bij parallelschakeling
+Voor parallel geschakelde weerstanden is de spanning gelijk en verschillen de stromen per
+weerstand. Dat leidt tot een andere manier van berekenen van de vervangingsweerstand.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+1
+1
+1
+1
+=
++
++
+𝑅𝑡𝑜𝑡 𝑅1 𝑅2 𝑅3
+Of voor n weerstanden
+1
+1
+1
+1
+=
++
++ ⋯+
+𝑅𝑡𝑜𝑡 𝑅1 𝑅2
+𝑅𝑛
+Voor twee parallel geschakelde weerstanden kun je afleiden
+𝑅tot =
+
+𝑅1 𝑅2
+𝑅1 + 𝑅2
+
+Voor de parallelschakeling van weerstanden geldt dat de vervangende weerstand kleiner
+dan de kleinste weerstand is. De omgekeerde waarde van de vervangende weerstand is de
+som van de omgekeerde waarden van alle weerstanden in de parallelschakeling.
+In het bijzondere geval dat een parallelschakeling weerstanden R bevat die allemaal even
+groot zijn, is de vervangende weerstand gelijk aan R gedeeld door het aantal weerstanden.
+Voorbeeld: de vervangende waarde van 4 parallelle weerstanden van 100  is 100 /4 is
+25 .
+3.3.10 Spanningsdelers
+Spanningsdelers met weerstanden komen veel voor. Een eenvoudig voorbeeld met twee
+weerstanden zien we hieronder.
+
+De batterij B levert een spanning UB = 10 V. De spanning UA op punt A bereken je met
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+𝑈𝐴 = 𝑈𝐵
+
+𝑅2
+𝑅1 + 𝑅2
+
+Een spanningsdeler is een niet-ideale spanningsbron met een inwendige weerstand die
+gelijk is aan de parallelweerstand van de (vervangings)weerstanden in de beide takken.
+In het voorbeeld is dat 6 k parallel aan 4 k is 2,4 k. De EMK of bronspanning is de
+eerder berekende 4 V. Bij meer weerstanden bereken je eerst de vervangingsweerstand in
+de ene tak van de deler, dan die van de andere tak en berekent vervolgens de
+parallelschakeling van beide vervangingsweerstanden. Zit er maar één weerstand in een
+tak, dan is die weerstand zijn eigen vervangingsweerstand.
+Een voor sommigen gemakkelijker benadering is de volgende, die ook voor meer dan twee
+weerstanden bruikbaar is:
+1. Bereken de vervangingsweerstand in de schakeling en vind zo de totale weerstand.
+2. Bepaal voor elke weerstand welk deel van de totale weerstand deze is. In de vorige
+figuur is dat 6/10 voor R1 en 4/10 voor R2.
+3. Verdeel nu de spanning UB op dezelfde manier. Dan staat er 6 V over R1 en 4 V
+over R2, waarmee de spanning op punt A dus 4 V is. Bij meer dan 2 weerstanden
+werkt het net zo. Het plaatje hieronder laat dat zien.
+
+3.3.11 Opsplitsen van een niet-ideale spanningsbron
+Bij het werken met niet-ideale spanningsbronnen kan het handig zijn, ze op te splitsen in
+een ideale bron met een weerstand in serie die gelijk is aan de inwendige weerstand van
+de bron, zoals hieronder getekend.
+
+De blauw getekende bron stelt de EMK (bronspanning) voor, in serie met de groen
+getekende inwendige weerstand Ri van de eveneens groen getekende batterij.
+3.3.12 Niet-ideale spanningsbron en belastingsweerstand
+Een niet-ideale spanningsbron levert het hoogste vermogen aan een belastingsweerstand
+als die gelijk is aan de inwendige weerstand.
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.3.13 Serieschakeling van niet-ideale spanningsbronnen
+Bij in serie schakelen van spanningsbronnen met een inwendige weerstand mag je zowel
+de spanningen van de bronnen als de inwendige weerstanden bij elkaar optellen volgens
+de figuur hieronder. Ze zijn getekend met een lampje als belasting.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4 Opgaven
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.51 Opgave 3-51
+Op een volledig geladen accu van 12 V wordt een lampje aangesloten van 12V/6W. Na 24
+uur is de accu uitgeput.
+De accu heeft een capaciteit van:
+A. 6 W
+B. 12 Ah
+C. 72 Ah
+D. 144 Wh
+(F-examen voorjaar 2004)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.52 Opgave 3-52
+Bij 12 volt en een stroom van 1 ampère wordt gedurende 1 minuut een energie verbruikt
+van
+A. 5 Ws
+B. 12 Ws
+C. 60 Ws
+D. 720 Ws
+(F-examen najaar 2000)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.53 Opgave 3-53
+Er is 1 kWh energie beschikbaar.
+Een 100 watt lamp kan hiermee worden gevoed gedurende
+A. 0,1 uur
+B. 1 uur
+C. 10 uur
+D. 100 uur
+(F-examen voorjaar 2003, november 2012)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.54 Opgave 3-54
+Een batterij is opgebouwd uit oplaadbare cellen van 1,2 V en een capaciteit van 0,5 Ah.
+Een draagbare zendontvanger neemt bij 7,2 V gemiddeld 0,7 A op.
+Het aantal cellen dat nodig is om deze zendontvanger gedurende minimaal 1 uur te laten
+werken, bedraagt:
+A. 12
+B. 14
+C. 2
+D. 6
+
+(F-examen voorjaar 2005, november 2008, januari 2009, april 2013, september 2013 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.55 Opgave 3-55
+De karakteristiek van een metaalfilmweerstand is:
+
+A. Karakteristiek D
+B. Karakteristiek B
+C. Karakteristiek C
+D. Karakteristiek A
+(F_examen, jaartal onbekend)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+Afbeelding 1
+
+weerstand
+
+weerstand
+
+3.4.56 Opgave 3-56
+Het weerstandsverloop van een NTC-weerstand is
+
+Afbeelding 3
+
+temperatuur
+
+weerstand
+
+weerstand
+
+temperatuur
+
+Afbeelding 2
+
+temperatuur
+
+Afbeelding 4
+
+temperatuur
+
+A. Afbeelding 4
+B. Afbeelding 2
+C. Afbeelding 3
+D. Afbeelding 1
+
+(F_examen, jaartal onbekend)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.57 Opgave 3-57
+Een weerstand waarvan de weerstandswaarde sterk toeneemt bij toenemende
+temperatuur, is een:
+A. NTC-weerstand
+B. PTC-weerstand
+C. Metaalfilmweerstand
+D. Koolweerstand
+
+(F-examen najaar 2002, najaar 2004, najaar 2006)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.58 Opgave 3-58
+De spanning tussen X en Y is
+
+A. 5 V
+B. 3 V
+C. 0 V
+D. 8 V
+
+(F-examen augustus 2012, mei 2015 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.59 Opgave 3-59
+Het spanningsverschil tussen P en Q is:
+
+A. 8 V
+B. 4 V
+C. 2 V
+D. 0 V
+(F-examen voorjaar 2002, september 2010 (2), maart 2011 (2), maart 2014)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.60 Opgave 3-60
+Vier goede elektrische isolatoren zijn
+A. Papier, glas, lucht, aluminium
+B. Glas, lucht, plastic, porselein
+C. Glas, hout, koper, porselein
+D. Plastic, rubber, hout, koolstof
+(F-examen februari 2011)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.61 Opgave 3-61
+Door een weerstand loopt een stroom. Hierdoor ontstaat over de weerstand een spanning
+van 12 volt. De stroom wordt viermaal zo groot gemaakt. De spanning wordt dan:
+A. 24 V
+B. 12 V
+C. 48 V
+D. 3 V
+(F-examen voorjaar 2003, maart 2012, september 2014 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.62 Opgave 3-62
+Door een weerstand loopt een stroom van I ampère. De spanning over deze weerstand is
+evenredig met
+A. √I
+B. I2
+C. 1/I
+D. I
+
+(F-examen najaar 2006)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.63 Opgave 3-63
+De spanning over R2 is 60 V. De spanning U is:
+
+A. 90 V
+B. 96 V
+C. 100 V
+D. 150 V
+
+(F-examen najaar 2004, september 2009 (1), september 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.64 Opgave 3-64
+De ampèremeter met een inwendige weerstand Ri wijst 4 ampère aan. Met gesloten
+schakelaar S wijst de ampèremeter 7 ampère aan. De spanning U en de inwendige
+weerstand Ri zijn:
+
+A
+
+S
+
+Ri
+
+6
+
+U
+
+A. 24,5 V en 0,5 
+B. 26 V en 0,5 
+C. 26 V en 1 
+D. 28 V en 1 
+(F-examen oktober 2008, maart 2009 (1), februari 2010 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-27
+
+6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.65 Opgave 3-65
+De spanning tussen de punten X en Y is
+
+4
+
+4
+X
+
+0V
+
++4 V
+Y
+-4 V
+
+A. 8 V
+B. 6 V
+C. 5 V
+D. 4 V
+(F-examen najaar 2003, december 2010)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.66 Opgave 3-66
+Bij toenemende temperatuur zal:
+
+A. U1 toenemen en U2 afnemen
+B. U1 constant blijven en U2 toenemen
+C. U1 afnemen en U2 toenemen
+D. U1 constant blijven en U2 afnemen
+(F-examen voorjaar 2000)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.67 Opgave 3-67
+De voltmeter wordt ideaal verondersteld. De temperatuur van de NTC-weerstand is 80 ºC.
+De voltmeter wijst aan:
+
+A. 4 V
+B. 4,5 V
+C. 6 V
+D. 7,5 V
+
+(F-examen najaar 2005)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.68 Opgave 3-68
+Bij welke waarde van R levert de spanningsbron de maximale stroom?
+50
+
+10 V
+
+R
+
+A. 100 
+B. 50 
+C. 10 
+D. 0 
+(F-examen, najaar 2005, voorjaar 2007, juni 2010, mei 2011 (2), september 2012)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.69 Opgave 3-69
+Bij welke waarde van R wordt maximaal vermogen aan deze weerstand geleverd?
+
+A. 25 
+B. 100 
+C. 50 
+D. 500 
+(F-examen september 2010 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.70 Opgave 3-70
+De waarde van R2 is driemaal zo groot als die van R1. De stroom door R1 is:
+
+A. 150 mA
+B. 200 mA
+C. 450 mA
+D. 400 mA
+
+(F-examen voorjaar 2004)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.71 Opgave 3-71
+De stroom, welke door de kortsluitdraad tussen X en Y vloeit, is (let op de polariteit)
+
+A. 0,5 A
+B. 1 A
+C. 1,5 A
+D. 2,5 A
+
+(F-examen najaar 2004)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.72 Opgave 3-72
+De stroom I door de weerstand R is:
+
+A. 5 mA
+B. 20 mA
+C. 8 mA
+D. 10 mA
+(F-examen januari 2011, augustus 2011, januari 2013)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.73 Opgave 3-73
+De stroom I is
+
+2k
+
+8 k
++
+
+I
+
+20 V
+
+40 V
+-
+
++
+
+A. 5 mA
+B. 10 mA
+C. 15 mA
+D. 20 mA
+
+(F-examen voorjaar 2007)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.74 Opgave 3-74
+De stroom I is
+
+4
+
+8
++
+
++
+I
+
+2V
+
+4V
+-
+
+A. 0 A
+B. 0,5 A
+C. 1 A
+D. 2 A
+(F-examen najaar 2007)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.75 Opgave 3-75
+In de schakeling is de stroom:
+
+1
+
++
+
+3
+
++
+
+2V
+
+4V
+-
+
+-
+
+A. 0,5A
+B. 1 A
+C. 1,5 A
+D. 2 A
+
+(F-examen voorjaar 2002)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.76 Opgave 3-76
+De maximaal toelaatbare stroom die continu door een 10 watt weerstand van 1000 ohm
+mag vloeien, is
+A. 0,01 A
+B. 0,1 A
+C. 1 A
+D. √10 A
+
+(F-examen najaar 2000, voorjaar 2004, mei 2009 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.77 Opgave 3-77
+In de weerstand R1 wordt 10 watt gedissipeerd. Het gedissipeerde vermogen in de gehele
+schakeling is:
+
+A. 2 W
+B. 20 W
+C. 5 W
+D. 7 W
+
+(F-examen mei 2009 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.78 Opgave 3-78
+Om de maximaal toelaatbare vermogensdissipatie van een weerstand te verhogen, kan
+men het beste:
+A. Het oppervlak van de weerstand zo klein mogelijk maken
+B. Het oppervlak van de weerstand zo groot mogelijk maken
+C. De weerstandswaarde zo klein mogelijk maken
+D. De weerstandswaarde zo groot mogelijk maken
+
+(F-examen voorjaar 2005, november 2014 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.79 Opgave 3-79
+Om de maximaal toelaatbare vermogensdissipatie van een weerstand te verhogen, kan
+men het beste de
+A. Weerstand NTC-eigenschappen geven
+B. Weerstand PTC-eigenschappen geven
+C. Weerstand op een koelplaat monteren
+D. Weerstand in een glazen lichaam opsluiten
+
+(F-examen najaar 2007)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.80 Opgave 3-80
+In de schakeling zijn alle weerstanden 1000 ohm. In R1 wordt 4 W gedissipeerd. Het
+vermogen in R2 is:
+
+A. 0,5 W
+B. 1 W
+C. 2 W
+D. 4 W
+
+(F-examen najaar 2007)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.81 Opgave 3-81
+In de weerstand R1 wordt 25 watt gedissipeerd. In de weerstand R2 wordt gedissipeerd:
+
+A. 12,5 W
+B. 25 W
+C. 50 W
+D. 100 W
+
+(F-examen voorjaar 2006, maart 2013)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.82 Opgave 3-82
+In R3 wordt een vermogen gedissipeerd van 2 watt. Het vermogen dat in R1 gedissipeerd
+wordt, is:
+
+A. 2 W
+B. 4 W
+C. 8 W
+D. 16 W
+
+(F-examen voorjaar 2003, april 2008, november 2010 (2), februari 2011)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.83 Opgave 3-83
+R dissipeert 4 watt. Het gedissipeerd vermogen van de gehele schakeling is:
+
+A. 12 W
+B. 36 W
+C. 8 W
+D. 6 W
+
+(F-examen juli 2010, september 2014 (1), November 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.84 Opgave 3-84
+Bij een spanning van 6 V en een stroom van 1 A wordt gedurende 1 minuut een energie
+opgenomen van
+A. 360 Ws
+B. 6 Ws
+C. 60 Ws
+D. 1 Ws
+(F-examen najaar 2001, najaar 2005, september 2014 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.85 Opgave 3-85
+Voor het meten van het door een zender opgenomen gelijkstroomvermogen wordt
+gebruik gemaakt van
+A. Alleen een ampèremeter
+B. Alleen een voltmeter
+C. Een ampèremeter en een voltmeter
+D. Een ohmmeter
+
+(F-examen januari 2009, maart 2009 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.86 Opgave 3-86
+De uitgang van een zender is aangesloten op een belastingsweerstand van 50 ohm. Verder
+zijn de volgende gegevens bekend:
+•
+•
+•
+•
+
+De voedingsspanning is 12 volt
+De opgenomen stroom is 4 ampère
+De stroom, toegevoerd aan de eindtrap is 3 ampère
+De stroom in de belastingsweerstand is 0,5 ampère
+
+Het afgegeven hoogfrequent zendvermogen bedraagt:
+A. 12,5 W
+B. 25 W
+C. 36 W
+D. 48 W
+
+(F-examen najaar 2000, juli 2011, december 2011)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.87 Opgave 3-87
+Bij een voedingsspanning van 20 volt neemt een zendereindtrap 1 ampère op. De
+dissipatie van de eindtrap is 10 watt.
+Het door de eindtrap afgegeven uitgangsvermogen is
+A. 10 W
+B. 20 W
+C. 15 W
+D. 30 W
+
+(F-examen voorjaar 2002, maart 2014)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.88 Opgave 3-88
+De transistor in de eindtrap van een zender neemt 2 ampère uit de voeding op. Deze
+transistor wordt vervangen door een transistor welke in dezelfde schakeling 4 ampère
+opneemt. Het rendement van de zender blijft gelijk. Het uitgangsvermogen van de zender
+is dan:
+A. 4x zo groot
+B. Even groot
+C. 2x zo groot
+D. 2x zo klein
+
+(F-examen mei 2016 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.89 Opgave 3-89
+Het zendvermogen van een zender wordt verhoogd van 3 watt naar 12 watt. De stroom in
+de antenne wordt daardoor:
+A. √2 maal zo groot
+B. 2 maal zo groot
+C. 4 maal zo groot
+D. 16 maal zo groot
+
+(F-examen najaar 2003)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.90 Opgave 3-90
+Een zender is afgesloten met een belastingsweerstand van 50 .
+
+Het rendement van de eindversterker is ongeveer
+A. 20%
+B. 60%
+C. 50%
+D. 24%
+
+(F-examen februari en mei 2009 (1), november 2013 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.4.91 Opgave 3-91
+De lengte en de diameter van een stuk koperdraad worden beide gehalveerd. De
+weerstand tussen de einden van de draad:
+A. Verandert niet
+B. Wordt 2x zo groot
+C. Wordt 2x zo klein
+D. Wordt 4x zo klein
+(F-examen najaar 2007)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5 Uitwerkingen
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.51 Uitwerking van Opgave 3-51
+Op een volledig geladen accu van 12 V wordt een lampje aangesloten van 12V/6W. Na 24
+uur is de accu uitgeput.
+De accu heeft een capaciteit van:
+A. 6 W
+B. 12 Ah
+C. 72 Ah
+D. 144 Wh
+Uitwerking
+De capaciteit van een accu wordt uitgedrukt in Ah (of mAh als het een kleintje is).
+Daarmee vallen de antwoorden in W en Wh af, zodat we de antwoorden A en D kunnen
+wegstrepen.
+Je kunt nu gokken voor 50% kans op een goed antwoord, maar het is verstandiger, toch
+maar even te gaan rekenen. 6 W bij 12 V betekent 6W⁄12V = 0,5 A. 0,5 A gedurende 24
+uur is 12 Ah. Het wordt dus antwoord B.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.52 Uitwerking van Opgave 3-52
+Bij 12 volt en een stroom van 1 ampère wordt gedurende 1 minuut een energie verbruikt
+van
+A. 5 Ws
+B. 12 Ws
+C. 60 Ws
+D. 720 Ws
+Uitwerking
+Energie (symboolW ) is vermogen maal tijd: W=Pt. De tijd is bekend, maar het vermogen
+moeten we eerst uitrekenen. P=UI, in dit geval 12V * 1 A = 12 W.
+1 minuut is 60 s, dus de energie is 12*60 Ws = 720 Ws = 720 J. Dat is dus antwoord D.
+Opmerkingen
+Wie is vergeten, de minuut om te zetten naar seconden, krijgt antwoord B. Wie is
+vergeten dat het om 12 V ging, krijgt antwoord C. Wie antwoord A kiest, heeft gegokt en
+verloren.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.53 Uitwerking van Opgave 3-53
+Er is 1 kWh energie beschikbaar.
+Een 100 watt lamp kan hiermee worden gevoed gedurende
+A. 0.1 uur
+B. 1 uur
+C. 10 uur
+D. 100 uur
+Uitwerking
+1 kWh is 1000 Wh. De brandduur van een 100 W-lamp is dan 1000 Wh/100 W = 10 uur.
+Antwoord C. Recht toe - recht aan.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.54 Uitwerking van Opgave 3-54
+Een batterij is opgebouwd uit oplaadbare cellen van 1,2 V en een capaciteit van 0,5 Ah.
+Een draagbare zendontvanger neemt bij 7,2 V gemiddeld 0,7 A op.
+Het aantal cellen dat nodig is om deze zendontvanger gedurende minimaal 1 uur te laten
+werken, bedraagt:
+A. 12
+B. 14
+C. 2
+D. 6
+Uitwerking
+Om de zendontvanger van voldoende spanning te voorzien, moeten we 7,2 V maken. Bij
+1,2 V per cel hebben we 7,2 / 1,2 = 6 cellen nodig. De zo gevormde batterij heeft een
+capaciteit van 0,5 Ah, want bij serieschakeling blijft het aantal Ah gelijk.
+De zendontvanger heeft 0,7 Ah nodig om een uur “in de lucht” te blijven. Dat lukt dus
+niet met een batterij van 0,5 Ah. Dan moet er een batterij bijkomen. Dat brengt de totaal
+beschikbare capaciteit op 1,0 Ah. Dat is ruim voldoende. Precies 0,7 Ah maken lukt niet,
+want dan hebben we een tweede batterij nodig van 6x 0,4 cel en dat werkt niet. In de
+opgave stond trouwens ook het woord “minimaal”.
+In totaal worden het dus 2*6 = 12 cellen, antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.55 Uitwerking van Opgave 3-55
+De karakteristiek van een metaalfilmweerstand is:
+
+A. Karakteristiek D
+B. Karakteristiek B
+C. Karakteristiek C
+D. Karakteristiek A
+Uitwerking
+Bij een weerstand, of het nu een koolweerstand, metaalfilmweerstand of nog een ander
+soort “gewone” weerstand is, zijn spanning en stroom evenredig: spanning x maal zo
+groot, stroom ook x maal zo groot. De enige karakteristiek die daaraan voldoet, is C.
+“Toevallig” is dat ook antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+Afbeelding 1
+
+weerstand
+
+weerstand
+
+3.5.56 Uitwerking van Opgave 3-56
+Het weerstandsverloop van een NTC-weerstand is
+
+Afbeelding 3
+
+temperatuur
+
+weerstand
+
+weerstand
+
+temperatuur
+
+Afbeelding 2
+
+temperatuur
+
+Afbeelding 4
+
+temperatuur
+
+A. Afbeelding 4
+B. Afbeelding 2
+C. Afbeelding 3
+D. Afbeelding 1
+Uitwerking
+De weerstand van een NTC-weerstand wordt lager, naarmate de temperatuur hoger is.
+Afbeelding 2 is de enige die dat gedrag laat zien. Antwoord B dus.
+Opmerkingen
+Afbeeldingen 1 en 3 tonen verschillende vormen van PTC-gedrag; de grafieken gaan
+allebei omhoog bij stijgende temperatuur.
+Afbeelding 4 toont het gedrag van een “gewone” weerstand met een in de grafiek niet
+zichtbare temperatuurcoëfficiënt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.57 Uitwerking van Opgave 3-57
+Een weerstand waarvan de weerstandswaarde sterk toeneemt bij toenemende
+temperatuur, is een:
+A. NTC-weerstand
+B. PTC-weerstand
+C. Metaalfilmweerstand
+D. Koolweerstand
+
+Uitwerking
+Een weerstand die een sterk toenemende weerstandswaarde heeft naarmate hij warmer
+wordt, is per definitie een PTC-weerstand. Antwoord B is onontkoombaar juist.
+Opmerking
+Dit soort weetjes moet je gewoon paraat hebben. PTC is de afkorting van Positieve
+TemperatuurCoëfficiënt, NTC van Negatieve TemperatuurCoëfficiënt. Die laatste krijgt
+een lagere weerstand, naarmate hij warmer wordt. De verzamelnaam voor deze twee is
+thermistor. Staat allemaal ook in hoofdstuk 3.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.58 Uitwerking van Opgave 3-58
+De spanning tussen X en Y is
+
+A. 5 V
+B. 3 V
+C. 0 V
+D. 8 V
+
+Uitwerking
+In de figuur zien we een zogenoemde brugschakeling. Hoewel de weerstanden schuin
+getekend staan, kunnen we in het schema twee spanningsdelers ontdekken. De linker
+bestaat uit de weerstanden van 40  en 80 ; de rechter de weerstanden van 90  en 30
+. X en Y zijn de respectieve knooppunten. Met de spanningen rekenen we voor de
+verandering van bovenaf.
+Over de weerstand van 40  staat 40 ∗ 12V⁄(80 + 40) = 4 ∗ 12V⁄12 = 4 V.
+Over de weerstand van 90  staat 90 ∗ 12V⁄(90 + 30) = 9 ∗ 12V⁄12 = 9 V
+Dan is de spanning tussen X en Y gelijk aan 9V – 4V = 5V en is antwoord A goed.
+Opmerking
+Omdat de spanningen over de linker- en de rechtertak van de brugschakeling gelijk zijn,
+heeft het geen zin om alle spanningen uit te rekenen. De spanningen over de bovenste
+twee weerstanden zijn daarom genoeg Uitrekenen van de rest is op een examen
+tijdverspilling. Reken desgewenst zelf uit of het klopt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.59 Uitwerking van Opgave 3-59
+Het spanningsverschil tussen P en Q is:
+
+A. 8 V
+B. 4 V
+C. 2 V
+D. 0 V
+Uitwerking
+Afgezien van de weerstandswaarden en de bronspanning is de opgave gelijk aan Opgave
+3-58. Alleen het schema is anders getekend. Wen er maar aan. De oplossing is ook
+dezelfde. Hier komt-ie.
+De bronspanning is 10 V. Over de weerstand van 60  staat 10V ∗ 60⁄(60 + 40) = 6V. Op
+dezelfde manier berekenen we de spanning over de weerstand van 20 :
+10V ∗ 20⁄
+(20 + 30) = 4V. Verschil 2 V, antwoord C.
+
+De spanning over de weerstanden van 40 en 30  kun je ook uitrekenen en het verschil
+tussen P en Q bepalen. Probeer maar. De uitkomst moet dezelfde zijn.
+Opmerking
+Een kleine opmerking over de tekst van de opgave. Meestal hebben we het niet over
+spanningsverschil tussen twee punten, maar over de spanning tussen twee punten.
+Spanning is al een verschilgrootheid, want je meet spanning in een schakeling altijd ten
+opzichte van een ander punt in diezelfde schakeling. Spanningsverschil is dus strikt
+genomen een verschil van een verschil. Erg is het hier niet, want iedereen snapt wat er
+bedoeld wordt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.60 Uitwerking van Opgave 3-60
+Vier goede elektrische isolatoren zijn
+A. Papier, glas, lucht, aluminium
+B. Glas, lucht, plastic, porselein
+C. Glas, hout, koper, porselein
+D. Plastic, rubber, hout, koolstof
+
+Uitwerking
+De vraag kun je ook lezen als: “In welk rijtje staat geen geleider?”. In rij A staat
+aluminium, een uitstekende geleider. A is dus een fout rijtje. In rij B staan alleen maar
+isolatoren. Die zou het dus moeten zijn.
+Voor de zekerheid bekijken we toch de rest ook maar. In rij C zien we koper, een nog
+betere geleider dan aluminium. Ook C is dus een fout rijtje. Rij D dan? Die is misschien
+wat lastiger, want er staat geen metaal in. Maar koolstof is een vrij goede geleider en
+beslist geen isolator. Ook D is daarom een fout rijtje en dan houden we B als enige goede
+rij over. Zoals het hoort op een multiple-choice-examen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.61 Uitwerking van Opgave 3-61
+Door een weerstand loopt een stroom. Hierdoor ontstaat over de weerstand een spanning
+van 12 V. De stroom wordt viermaal zo groot gemaakt. De spanning wordt dan:
+A. 24 V
+B. 12 V
+C. 48 V
+D. 3 V
+Uitwerking
+Volgens de wet van Ohm is U =IR. Dan is 4IR = 4U. Als U = 12V, dan is 4U = 4*12V =
+48V. Helemaal in getallen:
+Neem een weerstand van 12 . Loopt daar 1 A doorheen, dan is de spanning over de
+weerstand 12 V. Wordt de stroom 4 A, dan wordt de spanning 4*12V = 48V.
+Opmerking
+Dit soort simpele opgaven kan een valstrik zijn voor wie achter een examenvraag meer
+zoekt dan er in werkelijkheid achter zit.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.62 Uitwerking van Opgave 3-62
+Door een weerstand loopt een stroom van I ampère. De spanning over deze weerstand is
+evenredig met
+A. √I
+B. I2
+C. 1/I
+D. I
+
+Uitwerking
+Deze opgave is op te lossen met de wet van Ohm in zijn eenvoudigste vorm: 𝑈 = 𝐼𝑅.
+De spanning U is evenredig met I en met R. R staat niet in het rijtje; dan blijft I over.
+Antwoord D.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.63 Uitwerking van Opgave 3-63
+De spanning over R2 is 60 V. De spanning U is:
+
+A. 90 V
+B. 96 V
+C. 100 V
+D. 150 V
+
+Uitwerkingen
+We geven er drie.
+1. Door beide weerstanden loopt dezelfde stroom, want ze staan in serie. Hun
+vervangingsweerstand is 200  + 300  = 500 . Als voor de stroom door 200 
+een spanning van 60 V nodig is, is om diezelfde stroom door 500  te laten lopen,
+een spanning van 60V ∗ 500⁄200 = 150V nodig.
+2. Met de wet van Ohm er netjes bij kan het ook: U=IR. Voor R=200  is U=60 V.
+Voor een 2,5 maal zo grote R (500  dus) moet U ook 2,5 maal zo groot worden
+voor dezelfde I.
+2,5 * 60 V = 150 V. Op beide manieren vinden we antwoord D.
+3. Het kan ook weerstand voor weerstand. Als de spanning over R2 60 V is en R2 =
+200 , dan moet de spanning over R3 = 300  bij dezelfde stroom 1,5 keer zo groot
+zijn, want 300  is 1,5 maal 200 . Over R3 staat dus 1,5 * 60 V = 90 V. Volgens
+Kirchhoff (2e wet) staat er dan 60 V + 90 V = 150 V over beide weerstanden samen
+en dat is ook de bronspanning. Opnieuw dezelfde uitkomst (had iemand iets anders
+verwacht?).
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.64 Uitwerking van Opgave 3-64
+De ampèremeter met een inwendige weerstand Ri wijst 4 ampère aan. Met gesloten
+schakelaar S wijst de ampèremeter 7 ampère aan. De spanning U en de inwendige
+weerstand Ri zijn:
+
+A
+
+S
+
+Ri
+
+6
+
+U
+
+6
+
+A. 24,5 V en 0,5 
+B. 26 V en 0,5 
+C. 26 V en 1 
+D. 28 V en 1 
+Uitwerking
+Als de schakelaar S open staat, is de belasting Ri + 6  en de stroom is dan 4 A. De
+spanning over 6  is dan 4A ∗ 6 = 24V.
+Als de schakelaar S dicht staat, is de belasting Ri + 3  en de stroom is dan 7 A. De
+spanning over 3  is dan 7A ∗ 3 = 21V.
+Bij een stroom van 7 A staat er 3 V meer over R1 dan bij een stroom van 4 A. Verschil in
+stroom 3 A, verschil in spanning 3 V; dan is Ri = 1 .
+Nu U nog. Die doen we eerst met open schakelaar. De totale weerstand is dan
+𝑅𝑖 + 6  = 7. Daar gaat 4 A doorheen. Dan is de spanning 𝑈 = 4A ∗ 7 = 28V. Dat
+betekent antwoord D.
+Nu de controle met de 7 A. De totale weerstand is 𝑅𝑖 + 3  = 4. Daar loopt 7 A
+doorheen en dan is de spanning 𝑈 = 7A ∗ 4 = 28V. Opnieuw antwoord D en zo hoort
+het natuurlijk ook.
+Opmerking
+De wiskundig geschoolden onder ons hebben mogelijk al door dat dit een geval is van
+twee vergelijkingen met twee onbekenden. De onbekenden zijn U en Ri. Voor de
+liefhebbers werken we dit uit. De twee vergelijkingen zijn:
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+1) Schakelaar open: 𝑈 = 4A(𝑅𝑖 + 6)
+
+2) Schakelaar dicht: 𝑈 = 7A(𝑅𝑖 + 3)
+
+De linker leden van beide vergelijkingen zijn beide U en dus gelijk aan elkaar. Dat
+betekent dat de rechterleden ook gelijk aan elkaar zijn. Dan kunnen we schrijven
+4A(𝑅𝑖 + 6) = 7A(𝑅𝑖 + 3)
+En na delen van beide kanten door ampère (A) krijgen we
+4𝑅𝑖 + 24 = 7𝑅𝑖 + 21
+Nu de Ri naar links en de  naar rechts:
+−3𝑅𝑖 = −3
+Dus ook nu vinden we 𝑅𝑖 = 1. Dat vullen we in in één van de twee vergelijkingen,
+bijvoorbeeld 𝑈 = 4A(𝑅𝑖 + 6) → 𝑈 = 4V + 24V = 28 V. Ga zelf na of het met de andere
+vergelijking ook lukt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.65 Uitwerking van Opgave 3-65
+De spanning tussen de punten X en Y is
+
+4
+
+4
+X
+
+0V
+
++4 V
+Y
+-4 V
+
+A. 8 V
+B. 6 V
+C. 5 V
+D. 4 V
+Uitwerking
+De twee batterijen staan tegen elkaar in. De rechter geeft 8 V en de linker 4 V. Er wordt
+niet gesproken over bron- en klemspanningen. De feitelijke spanningen worden gegeven.
+Dat leidt tot de vervangende en mogelijk iets beter te begrijpen schakeling hieronder:
+
+4
+
++
+4V
+-
+
+4
+
+X
+Y
+
++
+8V
+-
+
+De eenvoudigste manier om deze schakeling te bekijken is ervan uitgaan dat Y aan 0 V
+ligt. Je neemt dan alle spanningen ten opzichte van Y. Daar is niets op tegen, want elke
+spanning is “ten opzichte van” een andere spanning.
+Aan de bovenkant van de linker aansluiting staat dan 4 V en aan de bovenkant van de
+rechter 8 V. Omdat beide weerstanden gelijk zijn, staat op punt X dan (4 V + 8 V)/2 = 6 V.
+Dat is meteen de oplossing, want op Y staat 0 V. B is dus het goede antwoord.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.66 Uitwerking van Opgave 3-66
+Bij toenemende temperatuur zal:
+
+A. U1 toenemen en U2 afnemen
+B. U1 constant blijven en U2 toenemen
+C. U1 afnemen en U2 toenemen
+D. U1 constant blijven en U2 afnemen
+Uitwerking
+Bij stijgende (“toenemende”) temperatuur neemt de weerstand van een NTC-thermistor
+af. Dat is het uitgangspunt. De totale spanning U1 + U2 blijft gelijk, want de bron is
+blijkbaar ideaal. Anders had dit in de opgave moeten staan.
+Als de weerstand van de NTC kleiner wordt door stijgende temperatuur, wordt U2 ook
+kleiner. Dan moet U1 toenemen, want de som van beide moet gelijk blijven.
+Opmerking
+De spanningsbron in het schema is niet getekend volgens tegenwoordige normen. Je kunt
+je dus afvragen of dit wel een ideale spanningsbron is. Omdat niets wordt gezegd over een
+inwendige weerstand, mag je ervan uitgaan dat de spanningsbron als ideaal is bedoeld,
+maar fraai is dit niet, vindt de schrijver.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.67 Uitwerking van Opgave 3-67
+De voltmeter wordt ideaal verondersteld. De temperatuur van de NTC-weerstand is 80 ºC.
+De voltmeter wijst aan:
+
+A. 4 V
+B. 4,5 V
+C. 6 V
+D. 7,5 V
+Uitwerking
+De opgave bestaat uit twee delen: 1) een grafiek aflezen en 2) een spanning in een
+weerstandsnetwerk berekenen.
+Deel 1. Om de opgave te kunnen uitwerken hebben we de weerstand van R nodig. De
+temperatuur ervan is 80 ºC. Aflezen van de grafiek vanaf 80 ºC op de horizontale as recht
+omhoog brengt ons bij 0,3 k op de verticale as. Dus R= 0,3 k.
+Deel 2. Aan de linkerkant (pluskant) van de meter is de spanning snel uitgerekend. Beide
+weerstanden zijn gelijk, dus op het knooppunt van de spanningsdeler staat 6V. Rechts is
+het wat lastiger De spanning is 12V ∗ 0,3⁄(1,5 + 0,3) = 3,6V⁄1,8 = 2V. De spanning over
+de meter is dan 6V – 2V = 4 V. Dat is antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.68 Uitwerking van Opgave 3-68
+Bij welke waarde van R levert de spanningsbron de maximale stroom?
+50
+
+10 V
+
+R
+
+A. 100 
+B. 50 
+C. 10 
+D. 0 
+Uitwerking
+Elke bron levert een maximale stroom als de belastingsweerstand, inclusief de inwendige
+weerstand, zo laag mogelijk is. Dat is hier het geval als R=0. (antwoord D)
+Opmerkingen
+Deze uitkomst geeft aan dat kortsluiten van een accu of andersoortige batterij een slecht
+idee is, omdat de stroom dan maximaal is en bij een lage inwendige weerstand (en een
+goede batterij of accu heeft die) betekent “maximaal” zo groot, dat er doorgaans
+ongelukken bij gebeuren. Men is gewaarschuwd.
+De instinker is hier vermogen. Was hier het maximale vermogen gevraagd, dan zou het
+goede antwoord C zijn geweest. Goed lezen blijft belangrijk!
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.69 Uitwerking van Opgave 3-69
+Bij welke waarde van R wordt maximaal vermogen aan deze weerstand geleverd?
+
+A. 25 
+B. 100 
+C. 50 
+D. 500 
+Uitwerking
+In de examenfiguur staat een wisselspanningsbron. In hoofdstuk 3 is dit volledig
+beschreven voor gelijkspanning. Dat maakt hier geen verschil. We pakken de figuur uit de
+cursustekst erbij.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+We kunnen de spanningsbron en de weerstand van 50  samen als een niet-ideale
+spanningsbron met een inwendige weerstand van 50  beschouwen. Dan krijgen we de
+schakeling in de tweede figuur. Ri staat voor de 50  in de examenopgave en Ru voor R in
+de examenopgave.
+Als R = 0 , dan levert de bron maximale stroom, zagen we in Opgave 3-68. In de figuur
+hierboven zien we dat ook. Maximale stroom is maximaal inwendig vermogen en 0
+vermogen in R.
+Als Ru = Ri, is het gedissipeerd vermogen Pu in Ru maximaal en even groot als het in de
+bron gedissipeerde vermogen Pi. Dat draait dus uit op antwoord C.
+Opmerking
+Bij kortsluiting van de bron loopt het inwendig gedissipeerd vermogen op tot 4 maal het
+hoogste vermogen dat aan een belastingsweerstand kan worden geleverd: het hoogste
+punt van de rode curve in de grafiek. Dat maakt nog eens duidelijk dat kortsluiten van een
+accu of batterij meestal geen goed idee is, want slecht voor accu of batterij (en vaak ook
+voor wie hem vasthoudt).
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.70 Uitwerking van Opgave 3-70
+De waarde van R2 is 3 maal zo groot als die van R1. De stroom door R1 is:
+
+A. 150 mA
+B. 200 mA
+C. 450 mA
+D. 400 mA
+Uitwerking
+De totale stroom is 600 mA. R1 is de kleinste weerstand met een 3x zo grote stroom als die
+door de grootste weerstand R2. Je kunt het ook zo zeggen: drie delen lopen door R1 en één
+deel door R2. Samen zijn dat vier delen. Eén deel is dan ¼ van 600 mA, is 150 mA. Dat ene
+deel loopt door R2. Drie delen, 450 mA, lopen door R1. Antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.71 Uitwerking van Opgave 3-71
+De stroom, welke door de kortsluitdraad tussen X en Y vloeit, is (let op de polariteit)
+
+A. 0,5 A
+B. 1 A
+C. 1,5 A
+D. 2,5 A
+
+Uitwerking
+De batterij van 6 V (midden) staat omgekeerd ten opzichte van de andere twee. Hij levert
+daardoor ook een stroom in omgekeerde richting. Als we dat in de gaten hebben, is het
+een vrij eenvoudige optelsom. De linker batterij levert 2V⁄4 = 0,5A; de middelste -1 A
+(6/6) en de rechter +1 A. De stromen van de middelste en de rechter batterij vallen tegen
+elkaar weg en we houden de linker over: 0,5 A dus (antwoord A).
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.72 Uitwerking van Opgave 3-72
+De stroom I door de weerstand R is:
+
+A. 5 mA
+B. 20 mA
+C. 8 mA
+D. 10 mA
+Uitwerking
+De stroom loopt door twee weerstanden van 2 k in serie, gevolgd door twee
+weerstanden van 2 k parallel. Die laatste twee zijn te vervangen door een enkele
+weerstand van 1 k. Dan wordt de batterij belast met (2+2+1)k= 5 k. De stroom is dan
+snel uitgerekend: 50 V over 5 k betekent 10 mA.
+Nu weer terug naar de twee parallelweerstanden: die zijn even groot en elk krijgt dan ook
+een even grote stroom te verwerken. Voor elk van beide is dat 5 mA. Dat geldt dus ook
+voor weerstand R. Daarmee stemt antwoord A overeen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.73 Uitwerking van Opgave 3-73
+De stroom I is
+
+2k
+
+8 k
++
+
+I
+
+20 V
+
+40 V
+-
+
++
+
+A. 5 mA
+B. 10 mA
+C. 15 mA
+D. 20 mA
+Uitwerking
+Om te beginnen is het opletten met de polariteit van de twee bronnen. Die van 20 V staat
+met de min omhoog, die van 40 V met de plus. Ze leveren dus tegengestelde stromen. We
+houden de technische stroomrichting aan: van + naar -.
+
+2k
+
+8 k
++
+
+I
+
+20 V
+
+40 V
+-
+
++
+
+De bron van 20 V levert 10 mA (20 V over 2 k) langs de middellijn omhoog.
+De bron van 40 V levert 5 mA (40 V over 8 k) langs de middellijn omlaag.
+Netto is dat 5 mA langs de middellijn omhoog; antwoord A is met 5 mA de winnaar.
+Opmerkingen
+De instinker is antwoord C. Dat antwoord krijg je als je geen rekening houdt met de
+stroomrichtingen. Conclusie: goed lezen, goed kijken!
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.74 Uitwerking van Opgave 3-74
+De stroom I is
+
+4
+
+8
++
+
++
+I
+
+2V
+
+4V
+-
+
+A. 0 A
+B. 0,5 A
+C. 1 A
+D. 2 A
+Uitwerking
+
+Deze opgave lijkt sterk op Opgave 3-73. De manier van oplossen is dan ook dezelfde.
+Beide bronnen hebben hier echter de plus in dezelfde richting. De figuur hieronder geeft
+de stroomrichtingen
+
+4
+
+8
++
+
++
+I
+
+2V
+
+4V
+-
+
+-
+
+De linker bron zet 2 V over 4 , dus de stroom is 0,5 A. De rechter bron zet 4 V over 8  ;
+hier is de stroom dus ook 0,5 A. Samen is dat 1 A, dus C is het goede antwoord.
+Opmerking
+De symbolen rechts van de aangegeven bronspanningen, een getrokken lijntje boven een
+stippellijntje, betekenen dat het om gelijkspanning gaat. Overbodig, want de + en de – bij
+beide bronsymbolen zeggen dat ook al.
+Opmerking 2
+Antwoord A is hier de instinker. Wie de stromen tegengesteld laat lopen, komt daar uit.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.75 Uitwerking van Opgave 3-75
+In de schakeling is de stroom:
+
+1
+
++
+
+3
+
++
+
+2V
+
+4V
+-
+
+-
+
+A. 0,5A
+B. 1 A
+C. 1,5 A
+D. 2 A
+Uitwerking
+De beide bronnen zijn geschakeld met verbonden minpolen. Dat betekent dat de spanning
+tussen hun pluspolen 4V – 2V = 2V is.
+De serieschakeling van beide weerstanden tussen de pluspolen heeft een
+vervangingswaarde van 1 + 3= 4.
+2V over 4 leidt tot een stroom van 0,5A, dus antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.76 Uitwerking van Opgave 3-76
+De maximaal toelaatbare stroom die continu door een 10 watt weerstand van 1000 ohm
+mag vloeien, is
+A. 0,01 A
+B. 0,1 A
+C. 1 A
+D. √10 A
+Uitwerking
+De vraag is ook te stellen als: “hoeveel stroom loopt er door een weerstand van 1000 ohm
+bij een dissipatie van 10 watt?”
+Daarvoor kennen we de vergelijking 𝑃 = 𝐼 2 𝑅. Je kunt dat ook schrijven als 𝐼 2 = 𝑃⁄𝑅.
+Gegeven is P=10 W, R= 1000 , dus 𝐼 2 = 𝑃⁄𝑅 = 0,01 A2 en 𝐼 = √0,01A2 = 0,1 A. Dat is
+antwoord B.
+Opmerking
+Dat wortelteken bij antwoord D is een aardig lokkertje, maar daar kun je beter niet
+intrappen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.77 Uitwerking van Opgave 3-77
+In de weerstand R1 wordt 10 watt gedissipeerd. Het gedissipeerde vermogen in de hele
+schakeling is:
+
+A. 2 W
+B. 20 W
+C. 5 W
+D. 7 W
+Uitwerking
+
+R1 is 10 ohm. De andere twee weerstanden staan in serie met R1 en zijn samen ook 10
+ohm. In totaal zijn de weerstanden 20 ohm. Doordat de weerstanden is serie staan, loopt
+door alle weerstanden dezelfde stroom. In 10 ohm wordt 10 W gedissipeerd, in 20 ohm
+wordt dat 20 W, antwoord B.
+Opmerking
+Met enige slimheid en een minimum aan elektronisch inzicht is deze opgave ook op te
+lossen. In R1 wordt 10 W gedissipeerd. In de hele schakeling moet dat meer zijn, want er
+zijn nog twee weerstanden waar stroom doorheen loopt. Het enige antwoord dat niet
+lager is dan 10 W, is antwoord B.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.78 Uitwerking van Opgave 3-78
+Om de maximum toelaatbare vermogensdissipatie van een weerstand te verhogen, kan
+men het beste:
+A. Het oppervlak van de weerstand zo klein mogelijk maken
+B. Het oppervlak van de weerstand zo groot mogelijk maken
+C. De weerstandswaarde zo klein mogelijk maken
+D. De weerstandswaarde zo groot mogelijk maken
+Uitwerking
+Een weerstand moet niet zo heet worden dat hij stuk gaat. Hoe warmer een weerstand
+wordt, des te groter is de warmteafgifte naar zijn omgeving. De temperatuur van een
+weerstand houdt op met stijgen als de warmteafgifte even groot is als de dissipatie. Het is
+dus zaak, de warmteafgifte zo gemakkelijk mogelijk te laten verlopen. Een groot
+oppervlak helpt daarbij. Dat is antwoord B.
+Opmerking
+Hetzelfde gebeurt bij een CV-radiator. Hoe kleiner het oppervlak van de radiator is, des te
+heter moet hij worden om de ruimte waarin hij is geplaatst, op de gewenste temperatuur
+te brengen. Hoe groter de radiator, des te minder hoeft de radiatortemperatuur op te
+lopen om dezelfde hoeveelheid warmte af te geven. Datzelfde doe je door bijvoorbeeld
+een weerstand op een koelplaat te monteren.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.79 Uitwerking van Opgave 3-79
+Om de maximaal toelaatbare vermogensdissipatie van een weerstand te verhogen, kan
+men het beste de
+A. Weerstand NTC-eigenschappen geven
+B. Weerstand PTC-eigenschappen geven
+C. Weerstand op een koelplaat monteren
+D. Weerstand in een glazen lichaam opsluiten
+Uitwerking
+Als de maximale vermogensdissipatie van een weerstand zo hoog mogelijk moet zijn, moet
+de ontwikkelde warmte zo snel mogelijk worden afgevoerd. Dat lukt niet door de
+weerstand in een glazen lichaam op te sluiten. Glas kan goed tegen warmte, maar de
+weerstand verandert er niet van en het glas is een extra laag tussen weerstand en
+omgeving die de warmteafgifte alleen maar afremt. Zo’n weerstand moet op een koelplaat.
+Die vergroot het effectief koelend oppervlak, waardoor de weerstand minder heet wordt.
+Antwoord C.
+Opmerking
+NTC en PTC geven een weerstandsverandering bij veranderende temperatuur en een
+weerstand moet als daar verder niets over wordt vermeld, zijn weerstandswaarde bij
+veranderende temperatuur behouden. NTC of PTC worden alleen toegepast in speciale
+schakelingen waarin het juist de bedoeling is dat ze bij veranderende temperatuur een
+andere waarde krijgen. Zie ook de opmerking bij de Uitwerking van Opgave 3-78
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.80 Uitwerking van Opgave 3-80
+In de schakeling zijn alle weerstanden 1000 ohm. In R1 wordt 4 W gedissipeerd. Het
+vermogen in R2 is:
+
+A. 0,5 W
+B. 1 W
+C. 2 W
+D. 4 W
+Uitwerking
+R1 staat parallel aan de in serie geschakelde R2 en R3. Die laatste twee vormen samen 2 k;
+R1 is 1 k. De stroom door de serieschakeling van in totaal 2 k is daarom helft van die
+door R1, want die is 1 k. Net als R1 is R2 1 k, maar de stroom door R2 is maar half zo
+groot als die door R1. Omdat vermogen 𝑃 = 𝐼 2 𝑅, heb je bij de halve stroom door een
+weerstand maar een kwart (¼) vermogen. In plaats van 4 W, dissipeert R2 daarom 1 W;
+antwoord B.
+Het kan ook iets anders. Omdat R2 en R3 samen 2 k zijn, is hun gezamenlijke dissipatie
+2
+2
+𝑃 = 𝑈 ⁄2 k terwijl die in R1 gelijk is aan 𝑈 ⁄1 k. R2 en R3 samen dissiperen dus de
+helft van het vermogen dat R1 opneemt. R2 op zijn eentje dissipeert dan de helft van de
+helft is een kwart, dus 1 W. Andere redenering, zelfde uitkomst, zoals het hoort. Ook hier
+antwoord B.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.81 Uitwerking van Opgave 3-81
+In de weerstand R1 wordt 25 watt gedissipeerd. In de weerstand R2 wordt gedissipeerd:
+
+A. 12,5 W
+B. 25 W
+C. 50 W
+D. 100 W
+
+Uitwerking
+Omdat beide parallel geschakelde weerstanden gelijk zijn, loopt door beide de helft van de
+stroom die door R2 loopt. Let op de wat onlogische plaatsing: R2 staat bovenin het schema,
+R1 lager. Omdat dissipatie 𝑃 = 𝐼 2 𝑅 wordt P bij dubbele stroom verviervoudigd als de
+weerstand gelijk blijft, wat hier zo is. De dissipatie in R2 is dus 4 maal die in R1, dus 4 *
+25W = 100 W, antwoord D.
+Opmerking
+Het dikke = teken naast de spanningsbron betekent dat het om gelijkspanning gaat.
+Wisselspanning behandelen we pas in hoofdstuk 5, maar in dit geval had het voor de
+berekening niets uitgemaakt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.82 Uitwerking van Opgave 3-82
+In R3 wordt een vermogen gedissipeerd van 2 watt. Het vermogen dat in R1 gedissipeeerd
+wordt, is:
+
+A. 2 W
+B. 4 W
+C. 8 W
+D. 16 W
+Uitwerking
+De stroom door R1 wordt gesplitst in twee gelijke delen die door R2 en R3 lopen, want
+beide weerstanden zijn gelijk. Ze zijn ook nog eens gelijk aan R1. De stroom door R1 is dus
+twee keer die door R3. Bij gelijke weerstandswaarden is de dissipatie in R1 dan twee keer
+twee is vier keer zo groot als in R3, want 𝑃 = 𝐼 2 𝑅. 4 * 2W = 8W Antwoord C is daarom
+goed.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.83 Uitwerking van Opgave 3-83
+R dissipeert 4 watt. Het gedissipeerd vermogen van de gehele schakeling is:
+
+A. 12 W
+B. 36 W
+C. 8 W
+D. 6 W
+Uitwerking
+De stroom door R splitst zich in twee gelijke delen in de beide onderste weerstanden van
+16 . Per stuk krijgen die de halve stroom te verwerken terwijl de weerstandswaarden
+even groot zijn als R. Omdat dissipatie 𝑃 = 𝐼 2 𝑅, valt de dissipatie P bij halve stroom terug
+tot een kwart, dat is 1 W. In twee weerstanden is dat natuurlijk 2 W, dus het totaal wordt
+4W+2W = 6W, antwoord D.
+Het mag ook anders. De twee weerstanden van 16  staan parallel, dus samen zijn ze 8 .
+De stroom door R loopt ook door die 8 . Als een stroom door 16  leidt tot een dissipatie
+van 4 W, dan leidt dezelfde stroom door 8  tot een dissipatie van 2 W. Dus ook hier
+vinden we 4W+2W = 6W, antwoord D. Geruststellend.
+Opmerking
+Eigenlijk maakt de weerstandswaarde in deze opgave en in enkele voorgaande niets uit.
+Zolang de drie weerstanden gelijk zijn en de gegeven dissipatie dezelfde blijft, vind je
+dezelfde uitkomst.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.84 Uitwerking van Opgave 3-84
+Bij een spanning van 6 V en een stroom van 1 A wordt gedurende 1 minuut een energie
+opgenomen van
+A. 360 Ws
+B. 6 Ws
+C. 60 Ws
+D. 1 Ws
+Uitwerking
+Bij een spanning van 6 V en een stroom van 1 A is het vermogen P = 6 W. Energie (of
+arbeid, wat hetzelfde is) is vermogen maal tijd (Pt). De tijd is 1 minuut = 60 s. Dan is de
+opgenomen energie W = Pt = 6 W * 60 s = 360 Ws. Antwoord A.
+Opmerking
+In de uitwerking wordt twee keer het symbool W gebruikt, de ene keer voor de grootheid
+energie (of arbeid, van het Engelse Work), de andere keer voor de eenheid W (watt) van
+vermogen. Als men zich houdt aan de gestandaardiseerde schrijfwijze, is het onderscheid
+duidelijk. W (cursief) is een grootheid, W (rechtop) een eenheid. Bij de radio-examens
+houdt men zich er niet aan, in een internetnaslagwerk als Wikipedia wel.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.85 Uitwerking van Opgave 3-85
+Voor het meten van het door een zender opgenomen gelijkstroomvermogen wordt
+gebruik gemaakt van
+A. Alleen een ampèremeter
+B. Alleen een voltmeter
+C. Een ampèremeter en een voltmeter
+D. Een ohmmeter
+Uitwerking
+Het gaat om het meten van een vermogen P. Voor P geldt 𝑃 = 𝑈𝐼, dus het product van
+stroom en spanning. Dan moet je ze beide ook meten, dus hier geldt dat antwoord C goed
+is.
+Opmerking
+Als de spanning vastligt, zou je ook gebruik kunnen maken van een ampèremeter met een
+als vermogensmeter ingerichte schaal. Maar over een vaste spanning wordt in de vraag
+niet gerept. Dan moet je ervan uitgaan dat de spanning niet vastligt en dus moet worden
+gemeten.
+Hetzelfde geldt in theorie voor een vaste stroom en een gemeten spanning, maar verderop
+in deze cursus zal blijken dat bij zenders de stroom niet vaak tevoren vastligt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.86 Uitwerking van Opgave 3-86
+De uitgang van een zender is aangesloten op een belastingsweerstand van 50 ohm. Verder
+zijn de volgende gegevens bekend:
+•
+•
+•
+•
+
+De voedingsspanning is 12 volt
+De opgenomen stroom is 4 ampère
+De stroom, toegevoerd aan de eindtrap is 3 ampère
+De stroom in de belastingsweerstand is 0,5 ampère
+
+Het afgegeven hoogfrequent zendvermogen bedraagt:
+A. 12,5 W
+B. 25 W
+C. 36 W
+D. 48 W
+Uitwerking
+Dit lijkt een onmogelijke opgave omdat we het in dit stadium van deze cursus nog niet
+hebben gehad over zenders. Maar een zender verbruikt, net als elk elektrisch apparaat,
+stroom bij een zekere spanning. Laten we beginnen, er een tekening bij te maken.
+
+12V/4A
+1A
+
+3A
+
+Voorversterker
+
+Eindtrap
+
+0,5 A
+50 
+
+Zender
+Die geeft een beeld van de gang van zaken. Voorversterker en eindtrap binnen de
+stippellijn vormen samen de zender. In de opgave (en ook de tekening) staan wat meer
+gegevens dan strikt nodig. Het hoogfrequent zendvermogen is het vermogen dat door de
+belastingsweerstand van 50  wordt opgenomen.
+Het gaat dan ook om de 0,5 A die door de belastingsweerstand van 50  loopt. Voor de
+vraagstelling is de rest van geen belang. Het afgegeven hoogfrequent zendvermogen 𝐼 2 𝑅 is
+gelijk aan 0,52 . 50 W = 12,5 W. Antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.87 Uitwerking van Opgave 3-87
+Bij een voedingsspanning van 20 volt neemt een zendereindtrap 1 ampère op. De
+dissipatie van de eindtrap is 10 watt.
+Het door de eindtrap afgegeven uitgangsvermogen is
+A. 10 W
+B. 20 W
+C. 15 W
+D. 30 W
+
+Uitwerking
+Het totaal opgenomen vermogen is 𝑈𝐼 = 20V. 1A = 20W. De dissipatie, dat is het onnuttig
+vermogen dat de eindtrap “verstookt”, bedraagt 10 W. Dan blijft er ook 10 W aan nuttig
+vermogen over, want vermogen 𝑃 = 𝑃𝑜𝑛𝑛𝑢𝑡𝑡𝑖𝑔 + 𝑃𝑛𝑢𝑡𝑡𝑖𝑔 en 𝑃𝑛𝑢𝑡𝑡𝑖𝑔 is het
+uitgangsvermogen. Antwoord A is het goede antwoord.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.88 Uitwerking van Opgave 3-88
+De transistor in de eindtrap van een zender neemt 2 ampère uit de voeding op. Deze
+transistor wordt vervangen door een transistor welke in dezelfde schakeling 4 ampère
+opneemt. Het rendement van de zender blijft gelijk. Het uitgangsvermogen van de zender
+is dan:
+A. 4x zo groot
+B. Even groot
+C. 2x zo groot
+D. 2x zo klein
+
+Uitwerking
+In de opgave wordt niet vermeld of de voedingsspanning na verwisseling van de transistor
+even groot blijft. We gaan ervan uit dat dit zo is.
+Bij verdubbeling van de stroom I en gelijkblijvende voedingsspanning U is het opgenomen
+vermogen 𝑈𝐼 2x zo groot geworden. Bij gelijkblijvend rendement levert de uitgang van de
+zender ook 2x zoveel vermogen. Dat brengt ons bij antwoord C.
+Opmerking
+Antwoord A is een instinker, want je bent al gauw geneigd, bij verdubbelde stroom het
+vermogen te verviervoudigen. Maar als er maar 2x zoveel vermogen de zender ingaat, is
+dat natuurlijk een illusie. Dat geldt ook voor antwoord B, want meer vermogen erin zal,
+als er verder niets verandert, ook meer vermogen eruit betekenen. Over antwoord D
+hoeven we het daarom niet eens te hebben. Wie dat antwoord heeft gekozen, heeft reden
+voor ongerustheid als het examen aanstaande is.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.89 Uitwerking van Opgave 3-89
+Het zendvermogen van een zender wordt verhoogd van 3 watt naar 12 watt. De stroom in
+de antenne wordt daardoor:
+A. √2 maal zo groot
+B. 2 maal zo groot
+C. 4 maal zo groot
+D. 16 maal zo groot
+
+Uitwerking
+In dit stadium van de cursus past deze vraag eigenlijk niet helemaal, want antennes en
+hun gedrag zijn nog niet behandeld. Dat komt pas veel verder. Daarom dit: het mag nu
+misschien vreemd klinken, maar een passende antenne vertegenwoordigt voor een
+zendersignaal een weerstand.
+We kunnen daarom met een gerust hart uitgaan van de vergelijking 𝑃 = 𝐼 2 𝑅. R blijft
+gelijk, want die is (bijna) niet afhankelijk van het opgenomen vermogen. Als P 4x zo groot
+wordt, is I dus √4 = 2 maal zo groot. Antwoord B.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.90 Uitwerking van Opgave 3-90
+Een zender is afgesloten met een belastingsweerstand van 50 .
+
+Het rendement van de eindversterker is ongeveer
+A. 20%
+B. 60%
+C. 50%
+D. 24%
+
+Uitwerking
+In deze opgave wordt een en ander gegeven dat voor de uitwerking onnodig is. De vraag
+gaat over het rendement van de eindversterker. Dat is de eindtrap in de tekening; met de
+rest hebben we daarom niets te maken. Kwestie van goed lezen!
+De eindtrap neemt 2,5 A op bij een spanning van 12 V. Het vermogen P is dan 2,5 A maal
+12 V is 30 W. Aan de belastingsweerstand van 50  wordt 0,6 A geleverd. Dat is volgens
+𝑃 = 𝐼 2 𝑅 = 0,62 . 50 W=18 W. 18 W is 60% van 30 W, dus het juiste antwoord is B.
+Opmerking 1
+Wie moeite heeft met de term “rendement” kan terugkijken in hoofdstuk 2 bij de
+paragraaf over percentages (procenten).
+Opmerking 2
+In de tekening staat het woord “Eindtrap” en in de tekst wordt gesproken over de
+“eindversterker”. Dat is verwarrend. Wees bij het zendexamen op zulke zaken bedacht. Ze
+komen niet heel veel voor, maar een gewaarschuwde examenkandidaat telt voor twee…..
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 3. Examenopgaven 20220727_B
+
+3.5.91 Uitwerking van Opgave 3-91
+De lengte en de diameter van een stuk koperdraad worden beide gehalveerd. De
+weerstand tussen de einden van de draad:
+A. Verandert niet
+B. Wordt 2x zo groot
+C. Wordt 2x zo klein
+D. Wordt 4x zo klein
+Uitwerking
+Halvering van de lengte van een draad leidt tot halvering van de weerstand. Maar als de
+diameter wordt gehalveerd, wordt de weerstand niet verdubbeld, maar verviervoudigd,
+want de doorsnede is evenredig met het kwadraat van de diameter (en de diameter is 2x
+de straal). Nog maar een keer een oude waarschuwing: verwar doorsnede en diameter
+niet!
+Een halvering en een verviervoudiging is delen door 2 en vermenigvuldigen met vier, in
+totaal dus vermenigvuldigen met 2: ½ ∗ 4𝑥 = 2𝑥. Dat wordt daarom antwoord B.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 3.4 uitgezonderd)
+
+3-98
+
+

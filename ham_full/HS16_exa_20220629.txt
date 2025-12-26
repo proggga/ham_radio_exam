@@ -1,0 +1,2921 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+Inhoudsopgave
+16
+
+51 Uitgewerkte examenopgaven bij Hoofdstuk 16 ....................................................16-5
+16.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........16-5
+
+16.2
+
+Enkele opmerkingen ..........................................................................................16-6
+
+16.3
+
+Formularium ......................................................................................................16-6
+
+16.3.1 Om te beginnen .............................................................................................. 16-6
+16.3.2 Soorten storing ............................................................................................... 16-6
+16.3.3 Oorzaken en kenmerken ...............................................................................16-7
+16.3.4 Verhelpen van storingen ...............................................................................16-8
+16.4
+
+Opgaven..............................................................................................................16-9
+
+16.4.1 Opgave 16-1 ..................................................................................................16-10
+16.4.2 Opgave 16-2 ..................................................................................................16-11
+16.4.3 Opgave 16-3 ..................................................................................................16-12
+16.4.4 Opgave 16-4 ..................................................................................................16-13
+16.4.5 Opgave 16-5 ..................................................................................................16-14
+16.4.6 Opgave 16-6 ..................................................................................................16-15
+16.4.7 Opgave 16-7 ..................................................................................................16-16
+16.4.8
+
+Opgave 16-8 ..................................................................................................16-17
+
+16.4.9 Opgave 16-9 ..................................................................................................16-18
+16.4.10
+
+Opgave 16-10 ............................................................................................ 16-19
+
+16.4.11
+
+Opgave 16-11 ............................................................................................ 16-20
+
+16.4.12
+
+Opgave 16-12 ............................................................................................ 16-21
+
+16.4.13
+
+Opgave 16-13 ............................................................................................ 16-22
+
+16.4.14
+
+Opgave 16-14 ............................................................................................ 16-23
+
+16.4.15
+
+Opgave 16-15 ............................................................................................ 16-24
+
+16.4.16
+
+Opgave 16-16 ............................................................................................ 16-25
+
+16.4.17
+
+Opgave 16-17 ............................................................................................ 16-26
+
+16.4.18
+
+Opgave 16-18 ............................................................................................ 16-27
+
+16.4.19
+
+Opgave 16-19 ............................................................................................ 16-28
+
+16.4.20
+
+Opgave 16-20 ............................................................................................ 16-29
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.21
+
+Opgave 16-21 ............................................................................................ 16-30
+
+16.4.22
+
+Opgave 16-22 ............................................................................................ 16-31
+
+16.4.23
+
+Opgave 16-23 ............................................................................................ 16-32
+
+16.4.24
+
+Opgave 16-24 ............................................................................................ 16-33
+
+16.4.25
+
+Opgave 16-25 ............................................................................................ 16-34
+
+16.4.26
+
+Opgave 16-26 ............................................................................................ 16-35
+
+16.4.27
+
+Opgave 16-27 ............................................................................................ 16-36
+
+16.4.28
+
+Opgave 16-28 ............................................................................................ 16-37
+
+16.4.29
+
+Opgave 16-29 ............................................................................................ 16-38
+
+16.4.30
+
+Opgave 16-30 ............................................................................................ 16-39
+
+16.4.31
+
+Opgave 16-31 ............................................................................................ 16-40
+
+16.4.32
+
+Opgave 16-32 ............................................................................................ 16-41
+
+16.4.33
+
+Opgave 16-33 ............................................................................................ 16-42
+
+16.4.34
+
+Opgave 16-34 ............................................................................................ 16-43
+
+16.4.35
+
+Opgave 16-35 ............................................................................................ 16-44
+
+16.4.36
+
+Opgave 16-36 ............................................................................................ 16-45
+
+16.4.37
+
+Opgave 16-37 ............................................................................................ 16-46
+
+16.4.38
+
+Opgave 16-38 ............................................................................................ 16-47
+
+16.4.39
+
+Opgave 16-39 ............................................................................................ 16-48
+
+16.4.40
+
+Opgave 16-40 ............................................................................................ 16-49
+
+16.4.41
+
+Opgave 16-41 ............................................................................................ 16-50
+
+16.4.42
+
+Opgave 16-42 ............................................................................................ 16-51
+
+16.4.43
+
+Opgave 16-43 ............................................................................................ 16-52
+
+16.4.44
+
+Opgave 16-44 ............................................................................................ 16-53
+
+16.4.45
+
+Opgave 16-45 ............................................................................................ 16-54
+
+16.4.46
+
+Opgave 16-46 ............................................................................................ 16-55
+
+16.4.47
+
+Opgave 16-47 ............................................................................................ 16-56
+
+16.4.48
+
+Opgave 16-48 ............................................................................................ 16-57
+
+16.4.49
+
+Opgave 16-49 ............................................................................................ 16-58
+
+16.4.50
+
+Opgave 16-50 ............................................................................................ 16-59
+
+16.5
+
+Uitwerkingen ...................................................................................................16-60
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.1 Uitwerking van Opgave 16-1 ......................................................................16-61
+16.5.2 Uitwerking van Opgave 16-2 ......................................................................16-62
+16.5.3 Uitwerking van Opgave 16-3 ......................................................................16-63
+16.5.4 Uitwerking van Opgave 16-4 ......................................................................16-64
+16.5.5 Uitwerking van Opgave 16-5 ......................................................................16-65
+16.5.6 Uitwerking van Opgave 16-6 ......................................................................16-66
+16.5.7 Uitwerking van Opgave 16-7 ......................................................................16-67
+16.5.8 Uitwerking van Opgave 16-8 ......................................................................16-68
+16.5.9 Uitwerking van Opgave 16-9 ......................................................................16-69
+16.5.10
+
+Uitwerking van Opgave 16-10 ................................................................ 16-70
+
+16.5.11
+
+Uitwerking van Opgave 16-11 ................................................................ 16-71
+
+16.5.12
+
+Uitwerking van Opgave 16-12 ................................................................ 16-72
+
+16.5.13
+
+Uitwerking van Opgave 16-13 ................................................................ 16-73
+
+16.5.14
+
+Uitwerking van Opgave 16-14 .............................................................. 16-74
+
+16.5.15
+
+Uitwerking van Opgave 16-15 ................................................................ 16-75
+
+16.5.16
+
+Uitwerking van Opgave 16-16 ................................................................ 16-76
+
+16.5.17
+
+Uitwerking van Opgave 16-17 ................................................................ 16-77
+
+16.5.18
+
+Uitwerking van Opgave 16-18 ................................................................ 16-78
+
+16.5.19
+
+Uitwerking van Opgave 16-19 ................................................................ 16-79
+
+16.5.20
+
+Uitwerking van Opgave 16-20 ................................................................ 16-80
+
+16.5.21
+
+Uitwerking van Opgave 16-21 ................................................................ 16-81
+
+16.5.22
+
+Uitwerking van Opgave 16-22 ................................................................ 16-82
+
+16.5.23
+
+Uitwerking van Opgave 16-23 ................................................................ 16-83
+
+16.5.24
+
+Uitwerking van Opgave 16-24 ................................................................ 16-84
+
+16.5.25
+
+Uitwerking van Opgave 16-25 ................................................................ 16-85
+
+16.5.26
+
+Uitwerking van Opgave 16-26 ................................................................ 16-86
+
+16.5.27
+
+Uitwerking van Opgave 16-27 ................................................................ 16-87
+
+16.5.28
+
+Uitwerking van Opgave 16-28 ................................................................ 16-88
+
+16.5.29
+
+Uitwerking van Opgave 16-29 ................................................................ 16-89
+
+16.5.30
+
+Uitwerking van Opgave 16-30 .................................................................16-90
+
+16.5.31
+
+Uitwerking van Opgave 16-31 ................................................................ 16-91
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.32
+
+Uitwerking van Opgave 16-32 ................................................................ 16-92
+
+16.5.33
+
+Uitwerking van Opgave 16-33 ................................................................ 16-93
+
+16.5.34
+
+Uitwerking van Opgave 16-34 ................................................................ 16-94
+
+16.5.35
+
+Uitwerking van Opgave 16-35 ................................................................ 16-95
+
+16.5.36
+
+Uitwerking van Opgave 16-36 ................................................................ 16-96
+
+16.5.37
+
+Uitwerking van Opgave 16-37 ................................................................ 16-97
+
+16.5.38
+
+Uitwerking van Opgave 16-38 ................................................................ 16-98
+
+16.5.39
+
+Uitwerking van Opgave 16-39 ................................................................ 16-99
+
+16.5.40
+
+Uitwerking van Opgave 16-40 .............................................................. 16-100
+
+16.5.41
+
+Uitwerking van Opgave 16-41 .............................................................. 16-101
+
+16.5.42
+
+Uitwerking van Opgave 16-42 .............................................................. 16-102
+
+16.5.43
+
+Uitwerking van Opgave 16-43 .............................................................. 16-103
+
+16.5.44
+
+Uitwerking van Opgave 16-44 .............................................................. 16-104
+
+16.5.45
+
+Uitwerking van Opgave 16-45 .............................................................. 16-105
+
+16.5.46
+
+Uitwerking van Opgave 16-46 .............................................................. 16-106
+
+16.5.47
+
+Uitwerking van Opgave 16-47 .............................................................. 16-107
+
+16.5.48
+
+Uitwerking van Opgave 16-48 ............................................................... 16-108
+
+16.5.49
+
+Uitwerking van Opgave 16-49 ............................................................... 16-109
+
+16.5.50
+
+Uitwerking van Opgave 16-50 ............................................................... 16-110
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16 50 Uitgewerkte examenopgaven bij Hoofdstuk 16
+16.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 17
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is dan ook examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 verschillende
+examenvragen zijn gesteld. Die weg is daarom tijdrovend en de slagingskans klein. Bedenk
+ook dat examenvragen die op elkaar lijken, vaak niet precies aan elkaar gelijk zijn, dat de
+antwoorden op meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk
+zijn aan hun voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar
+heel veel examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de volledige tekst van het leerhoofdstuk
+staan. In de verkorte versies staan geen opgaven. Loop daarna de verkorte versie nog een
+keer door om te zien of alles bekend is. Begin pas dan aan de examenvragen in deze
+bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave. Het goede antwoord is vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De gegeven
+uitwerking hoeft niet de enig juiste te zijn. Het is niet ongewoon dat een andere weg ook
+tot een goed antwoord leidt.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave. Dat is deze:
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie om wat voor reden ook alleen geïnteresseerd is in de
+uitwerkingen: je kunt alle uitwerkingen ook achter elkaar doorlezen in paragraaf 16.5
+
+16.2 Enkele opmerkingen
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Een enkele keer staat er
+(3). Dat was dan een extra volle examenmaand. Als er in een maand maar één examen is
+geweest, is er geen aanduiding. Soms staat er in plaats daarvan een volledige datum. Vóór
+het jaar 2008, waren er maar twee examens per jaar, het voorjaars- en najaarsexamen.
+Het kan voorkomen dat een opgave jarenlang niet meer is gebruikt en bijvoorbeeld 10 jaar
+of nog meer later, plotseling weer opduikt. Denk dus niet dat een opgave die 15 jaar
+geleden voor het laatst in een examen zat, nooit meer zal voorkomen. Maar een opgave
+die vaak voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar
+één of twee keer is voorgekomen. Het verstandigste is, nergens op te rekenen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”), schema’s en andere zaken. We raden aan, dit eerst door te
+nemen, maar wie zich zeker genoeg voelt, kan natuurlijk ook meteen naar de opgaven
+gaan. Elke cursist is eigen baas.
+
+16.3 Formularium
+16.3.1 Om te beginnen
+Dit formularium is anders dan eerdere subparagrafen van dezelfde naam, want er staan
+geen vergelijkingen (“formules”) in. Die staan ook nauwelijks in de hoofdstuktekst.
+Vandaar.
+16.3.2 Soorten storing
+• Blokkering: de ingangstrap van (meestal) een ontvanger wordt merkbaar of
+helemaal dichtgedrukt door gelijkrichting van een sterk signaal.
+• Interferentie: menging van een gewenst signaal met een ongewenst signaal of een
+harmonische daarvan op (ongeveer) dezelfde frequentie.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+•
+
+Intermodulatie: menging van twee signalen of harmonischen daarvan. Vooral
+hinderlijk als naar zwakke signalen wordt geluisterd en de frequentie van het
+intermodulatieproduct in dezelfde frequentieband ligt.
+• Laagfrequentdetectie: heet ook wel LFD of laagfrequent inpraten. Gelijkrichting
+van een HF, VHF of UHF-signaal in een audio-apparaat.
+• Faseruis: leidt tot een zwakke signaal”wolk” aan weerskanten van een uitgezonden
+frequentie.
+• Chirp: Op gang komen van oscillator in CW-zender met korte parasitaire oscillatie
+na indrukken seinsleutel. Wordt in het Nederlands ook wel tjoep genoemd, maar
+eigenlijk is dat weliswaar ook op gang komen van de oscillator, maar met een
+hoorbare frequentieverschuiving na het indrukken van de seinsleutel.
+16.3.3 Oorzaken en kenmerken
+• Blokkering: door zender in de buurt. Kan de ingangstrap zijn, soms de mengtrap
+van de geblokkeerde ontvanger. De signaalgevoeligheid van het gestoorde apparaat
+is sterk verminderd of helemaal weg. De frequentie van het storende signaal hoeft
+niet gelijk te zijn aan die van het gewenste signaal.
+• Interferentie: Een ongewenst signaal op (ongeveer) dezelfde frequentie als het
+gewenste signaal mengt met het gewenste. Het ongewenste signaal kan een
+harmonische zijn van een (in de buurt) uitgezonden signaal. In examenopgaven is
+het soms een harmonische van een 15-meter zender (21 MHz) op het niet meer
+gebruikte TV-kanaal 4 ( 63 MHz). Examenadvies: kijk of de ene frequentie een
+harmonische is van de andere.
+• Intermodulatie: Menging van frequenties en/of hun harmonischen in de
+voorversterker of mengtrap van een ontvanger. Het gaat om verschilfrequenties.
+Somfrequenties liggen praktisch altijd te ver van het beluisterde frequentiegebied
+om te kunnen storen. De frequenties die intermodulatie veroorzaken, liggen niet
+ver van de beluisterde frequentie. Voorbeelden met twee frequenties, f1 en f2:
+2𝑓1 − 𝑓2; 2𝑓2 − 𝑓1 ; 3𝑓1 − 2𝑓2 ; 3𝑓2 − 2𝑓1 enz.
+Algemeen: de frequentie van het intermodulatieproduct ligt nooit tussen f1 en f2,
+maar is altijd hoger dan de hoogste of lager dan de laagste frequentie van de twee.
+• Laagfrequentdetectie: waarschijnlijk het meest voorkomende type storing. Een
+zendersignaal komt ergens een audio-apparaat binnen en wordt daar gelijkgericht.
+Gelijkrichting is detectie van signalen van de AM-familie: AM, DZB, EZB, CW
+(morsetelegrafie). Het leidt tot geluid uit de luidspreker of koptelefoon. AM en
+DZB: verstaanbare spraak. EZB: onverstaanbaar, vaak schor klinkend gebrabbel in
+spraakritme. CW: geplop in het ritme van het morsesignaal.
+FM en PM leiden niet tot geluid, maar soms tot meer of minder dichtdrukken van
+de versterker, vergelijkbaar met het effect van blokkering.
+• Faseruis: Een onstabiele oscillator in de zender. Naast de eigenlijke frequentie is
+het signaal over een groter of kleiner frequentiegebied niet sterk maar wel
+hoorbaar en in elk geval bij FM en PM verstaanbaar.
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-7
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+Chirp: De oscillator van de zender geeft na het indrukken van de seinsleutel een
+korte parasitaire oscillatie. Oorzaak: onvoldoende stabiele oscillator,
+voedingsspanning of veranderde oscillatorbelasting.
+
+16.3.4 Verhelpen van storingen
+• Blokkering: hieraan is meestal weinig te doen, behalve soms bij een richtantenne
+(Yagi). Draai de antenne zo, dat het storende station zo zwak mogelijk
+binnenkomt. Hopelijk komt het geblokkeerde signaal uit een richting loodrecht op
+de richting van het blokkerende signaal.
+• Interferentie: Als twee ontvangen frequenties ongeveer gelijk zijn, is daar met een
+frequentiefilter weinig aan te doen. Hetzelfde recept als bij blokkering. Gaat het
+om een harmonische van een uitgezonden signaal, dan zal de zender zich op korte
+afstand bevinden. Een extra laagdoorlaatfilter tussen zender en antenneleiding van
+het storende station of verminderen van het zendvermogen kan de oplossing zijn.
+Bij een radio-ontvanger kan een ingangsverzwakker soms ook helpen; een TVontvanger heeft die vrijwel nooit.
+• Intermodulatie: ontstaat voornamelijk in de ontvanger, soms in de voorversterker,
+soms in de mengtrap. Is vooral hinderlijk bij het beluisteren van zwakke stations.
+Een ingangsverzwakker kan soms helpen. Zit in elke goede amateurontvanger.
+• Laagfrequentdetectie: de eerste vraag is, waar de storing binnenkomt. Meestal is
+dat via de luidsprekerleiding. Dan is het geluidsniveau onafhankelijk van de stand
+van de volumeregelaar. Ontkoppelen door een condensator over de
+luidsprekercontacten die op de storende frequentie een reactantie heeft van
+ongeveer 1 ohm of minder (vuistregel). Helpt dat merkbaar, maar te weinig, dan
+een deel van de luidsprekerleiding om een ferrietringkern wikkelen.
+Bij geen effect is het instraling in de schakeling na de volumeregelaar. Inblikken
+(binnenkant kast beplakken met geaarde aluminiumfolie.
+Volumeregelaar heeft effect: signaalleiding afschermen en laagdoorlaatfilter
+toepassen dat audiofrequenties onverzwakt doorlaat en HF onderdrukt.
+• Faseruis: Zender heeft gammele oscillator. Voorzien van een stabielere oscillator.
+Meestal gemakkelijker gezegd dan gedaan.
+• Chirp en tjoep: Voedingsspanning van de zenderoscillator stabiliseren, een buffer
+tussen oscillator en de rest van de schakeling aanbrengen of de oscillator
+permanent laten doorlopen en de onderbrekingen van het signaal elders in de
+zender realiseren.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4 Opgaven
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.1 Opgave 16-1
+Uit de luidsprekers van een geluidsinstallatie wordt het signaal van een 144 MHz
+amateurzender hoorbaar.
+Er is al een netfilter aangebracht en er zijn smoorspoelen in de luidsprekerleidingen
+geplaatst. De storing blijft aanwezig als alle signaaltoevoerdraden zijn losgenomen. De
+storing is waarschijnlijk het gevolg van
+A. Te sterke harmonischen van de zender
+B. Onjuist gebruik van ringkerntransformatoren
+C. Extreme propagatie-omstandigheden
+D. Directe instraling
+(F-examen voorjaar 2007, november 2008 (1), februari 2009, april 2009, september 2009
+(2), oktober 2009, januari 2011, maart 2011 (2), mei 2011 (2), november 20011 (1 en 2),
+november 2016, januari 2018, mei 2018 (1), januari 2020))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.2 Opgave 16-2
+Als een radiozendamateur zijn Yagi in een bepaalde richting zet en gaat zenden, blijkt bij
+de buren de CD-speler gestoord te worden. De speler heeft een CE-keurmerk. De storing
+is waarschijnlijk het gevolg van:
+A. Het gebruik van afgeschermde kabel
+B. Frequentie-instabiliteit van de zender
+C. De hoge veldsterkte van het zendsignaal in de CD-speler
+D. Harmonischen van de zender
+(F-examen najaar 2000, november 2008 (2), juli 2010, september 2010, november 2010 (1),
+december 2010, februari 2011, maart 2011 (2), mei 2011 (1), november 2011, november
+2013 (1), mei 2019 (1), mei 2019 (2), januari 2020)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.3 Opgave 16-3
+Een radiozendamateur werkt met CW op 28,01 MHz. Zijn buurman luistert op 27 MHz en
+merkt dat de ontvangst van zwakke signalen onderbroken wordt in het seintempo van de
+amateur.
+De waarschijnlijke oorzaak is
+A. Verkeerd aangepaste ontvangantenne
+B. Harmonischen van de amateurzender
+C. Intermodulatie
+D. Blokkering van de 27 MHz-ontvanger door het 28 MHz-signaal
+(F-examen 2004, april 2008, juni 2009, oktober 2009, april 2010, juli 2010, augustus 2010,
+december 2010, maart 2011 (2), april 2011, mei 2011 (1 en 2), september 2011 (2), mei
+2012 (1 en 2), januari 2012, mei 2012 (1 en 2), januari 2013, mei 2013 (2), september 2012
+(2), november 2012 (1), mei 2015 (1), maart 2016, september 2016, november 2016, mei
+2017 (2), november 2017, november 2018, september 2019, november 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.4 Opgave 16-4
+Wanneer alle TV-beelden van uw buurman met ruis ontvangen worden op het moment
+dat u uw zender inschakelt en uw buurman heeft zijn eigen TV-antenne, dan hebben we
+te maken met
+A. Een niet goed aangepaste antennekabel
+B. Een niet goed aangepaste detectieschakeling in het TV-toestel
+C. Een overbelaste voedingsstabilisatieschakeling in het TV-toestel
+D. Blokkering van de ingangsversterker van het TV-toestel
+(F-examen september 2009 (1), september 2010 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.5 Opgave 16-5
+Indien een FM-zender een te grote frequentiezwaai vertoont, kan dit worden verholpen
+door:
+A. De amplitude van de modulerende spanning te verkleinen
+B. De voedingsspanning van de zender te stabiliseren
+C. De frequentie van de modulatie te verlagen
+D. De voedingsspanning van de zender te verlagen
+(F-examen mei 2019 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.6 Opgave 16-6
+Een radiozendamateur werkt met zijn 70-cm FM-transceiver op de camping. Zijn
+buurman gebruikt een draagbare TV, ingesteld op circa 480 MHz. Hij merkt dat het beeld
+donker wordt als de amateur uitzendt.
+Dat kan het gevolg zijn van:
+A. Verkeerde antenne-aanpassing van de amateurzender
+B. Harmonischen van de amateurzender
+C. Blokkering van de mengtrap in de TV
+D. Te grote frequentiezwaai van de amateurzender
+(F-examen januari 2010, maart 2010, juni 2010, november 2012, maart 2013, mei 2014
+(2), maart 2015, mei 2015 (2), november 2015, maart 2017, september 2018, januari 2019,
+november 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.7 Opgave 16-7
+Oversturing van een ontvanger wordt veroorzaakt door:
+A. Intermodulatie
+B. Te veel inkomend signaal
+C. Mantelstromen in de antennekabel
+D. Het wegvallen van de oscillatorfrequentie
+(F-examen najaar 2007)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.8 Opgave 16-8
+Laagfrequentdetectie wordt veroorzaakt door:
+A. Onvoldoende frequentiestabiliteit
+B. Onvoldoende harmonischen-onderdrukking van de zender
+C. Niet-lineaire effecten van halfgeleiders
+D. Niet-lineaire zendereindtrappen
+(F-examen voorjaar 2006, maart 2009 (1), mei 2009 (1), juli 2010, februari 2011, mei 2011
+(3), september 2012, maart 2014, september 2014 (1), september 2017)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.9 Opgave 16-9
+Een 10-meter zender veroorzaakt laagfrequentdetectie in een geluidsinstallatie. Om de
+storing op te heffen, worden de laagohmige luidsprekeruitgangen ontkoppeld door middel
+van condensatoren, parallel aan de uitgangen.
+De meest geschikte capaciteitswaarde is:
+A. 10 picofarad
+B. 10 millifarad
+C. 10 nanofarad
+D. 10 microfarad
+(F-examen augustus 2010, juni 2009, september 2009 (1), april 2010, juni 2010, maart 2011
+(1 en 2), juni 2011, september 2011, maart 2013, mei 2017 (1), september 2018)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.10 Opgave 16-10
+Wanneer in een geluidsinstallatie laagfrequentdetectie optreedt als gevolg van een nabije
+EZB-zender die gemoduleerd wordt met spraak, klinkt dat als:
+A. Vervormde spraak
+B. Aan/uit geschakelde brom
+C. ’n fluittoon
+D. Duidelijk verstaanbare spraak
+(F-examen december 2008, mei 2010 (1), augustus 2010, februari 2011, april 2011, juli
+2011, september 2011 (1 en 2), december 2011, mei 2012 (2),november 2012, mei 2013 (1),
+augustus 2013, september 2013, mei 2016 (2), maart 2017, september 2019, januari 2020)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.11 Opgave 16-11
+Van een amplitude-gemoduleerde 2-meter zender is de modulatie hoorbaar uit de
+luidspreker van een TV-ontvanger, zelfs als de volumeregelaar hiervan op minimum is
+ingesteld.
+De juiste conclusie is:
+A. In de laagfrequentversterker van de TV treden detectieverschijnselen op
+B. De TV-antenne heeft te weinig richteffect
+C. De buitenmantel van de TV-antennekabel is onderbroken
+D. De storing zal verdwijnen als in de zender enkelzijbandmodulatie wordt toegepast
+(F-examen mei 2009 (2), juni 2009, oktober 2009, mei 2011 (3), september 2012, januari
+2013, augustus 2013, september 2013 (1), september 2014 (2), september 2015, mei 2016
+(1), mei 2018 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.12 Opgave 16-12
+Een omroepontvanger wordt over het hele afstembereik gestoord door een
+amateurstation. De meest waarschijnlijke oorzaak is:
+A. Slechte spiegelonderdrukking van de ontvanger
+B. Laagfrequentdetectie in de ontvanger
+C. Splatter van de zender
+D. Harmonischen van de zender
+(F-examen mei 2009 (2), juni 2009, oktober 2009, mei 2011 (3), september 2012, januari
+2013, augustus 2013, , September 2013 (1), september 2014 (2), september 2015, mei 2016
+(1), mei 2018 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.13 Opgave 16-13
+Laagfrequentdetectie geeft de minst opvallende storing bij de volgende soort uitzending:
+A. Morsetelegrafie
+B. Enkelzijbandmodulatie
+C. Frequentiemodulatie
+D. Amplitudemodulatie
+(F-examen september 2009 (2), januari 2010, december 2012, maart 2013, november 2014
+(2), mei 2018 (1), november 2018, mei 2019 (1 en 2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.14 Opgave 16-14
+De meest effectieve schakeling om “laagfrequent inpraten” te voorkomen is:
+A. Schakeling 1
+B. Schakeling 4
+C. Schakeling 2
+D. Schakeling 3
+
+(F-examen voorjaar 2004, maart 2010, september 2011, augustus 3013, september 2013 (2),
+november 2015, mei 2016 (2), mei 2018 (2), mei 2019 (1), november 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.15 Opgave 16-15
+Een 2-meter EZB-zender veroorzaakt storing in een
+geluidsversterker. LF-detectie wordt voorkomen door
+toepassing van een weerstand van ongeveer 500 ohm in de
+basisleiding van de eerste transistor en een C naar aarde.
+De goede keuze voor C is:
+A. 100 pF
+B. 1 pF
+C. 1 F
+D. 100 nF
+(F-examen januari 2011, september 2013 (2), maart 2016, mei 2016 (2), januari 2017,
+maart 2018, mei 2019 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.16 Opgave 16-16
+De modulatievorm welke de minste storing door laagfrequent detectie veroorzaakt, is:
+A. Amplitudemodulatie
+B. Frequentiemodulatie
+C. Enkelzijbandmodulatie
+D. Morsetelegrafie
+(F-examen voorjaar 2000, september 2010 (1), november 2010 (1), mei 2011 (2), november
+2011, maart 2012, mei 2012 (1), mei 2013 (1), september 2014 (2), november 2015)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.17 Opgave 16-17
+In een elektronisch orgel treedt laagfrequent detectie op. Deze is het duidelijkst
+waarneembaar bij:
+A. Fasemodulatie
+B. Enkelzijbandmodulatie
+C. Bij alle modulatiesoorten
+D. Frequentiemodulatie
+(F-examen augustus 2009, april 2010, september 2011, mei 2017 (1), september 2017,
+januari 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.18 Opgave 16-18
+De 40-meter amateurband grenst aan een omroepband. Als ’s avonds een aantal
+omroepzenders door elkaar hoorbaar wordt op een in de amateurband afgestemde
+ontvanger, is dit waarschijnlijk te wijten aan:
+A. Harmonischen
+B. Intermodulatie
+C. Overmodulatie
+D. Bijzondere propagatiecondities
+(F-examen januari 2009, februari 2009, maart 2009 (2), mei 2009 (2), november 2009, mei
+2010 (1), november 2010 (1 en 2), juni 2011, augustus 2011, maart 2012, september 2013
+(1), november 2016, maart 2017, januari 2018, januari 2019, september 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.19 Opgave 16-19
+Twee radiozendamateurs die dicht bij elkaar wonen, hebben onderling een duplexverbinding in FM op 70 cm. De ene amateur zendt op 431,5 MHz en de andere op 438,5
+MHz. In dezelfde straat worden op een porto beide amateurstations hoorbaar op 424,5
+MHz.
+Er is hier waarschijnlijk sprake van storing door:
+A. Intermodulatie
+B. Overmodulatie
+C. Laagfrequent detectie
+D. Harmonischen
+(F-examen voorjaar 2002, mei 2009 (2), juli 2009, november 2009, november 2010 (2), juni
+2010, augustus 2010, december 2011, maart 2013, mei 2013 (2), september 2014 (1), maart
+2015, mei 2016 (1), november 2016, mei 2017 (2), november 2017, mei 2018 (2),
+november 2018, mei 2019 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.20 Opgave 16-20
+Een radiozendamateur plaatst zijn antenne op een dak waarop reeds mobilofoonantennes
+staan. De mobilofoons werken op 150,5 en 155,5 MHz. Als de amateur op 145,5 MHz
+zendt, blijkt zo nu en dan zijn signaal op 155,5 MHz hoorbaar te worden. De
+waarschijnlijke oorzaak is:
+A. Overmodulatie
+B. Intermodulatie
+C. Blokkering
+D. Laagfrequentdetectie
+(F-examen augustus 2008, februari 2010 (1), mei 2010 (1), jul 2010, september 2010,
+december 2010, januari 2011, februari 2011, april2011, juni 2011, juli 2011, september
+2011 (2), maart 2012, mei 2012 (2), januari 2013, maart 2014, januari 2015, maart 3015,
+mei 2015 (2), november 2015, september 2016, mei 2017 (2), mei 2018, maart 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.21 Opgave 16-21
+Twee dicht bij elkaar wonende zendamateurs zenden gelijktijdig uit, de een op 144,5 MHz
+en de ander op 145,5 MHz.
+Door intermodulatie kunnen ook signalen ontstaan op:
+A. 144,5 MHz en 145 MHz
+B. 145,5 MHz en 146 MHz
+C. 144 MHz en 146 MHz
+D. 143,5 MHz en 146,5 MHz
+(F-examen april 2011, november 2013 (1 en 2), november 2015)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.22 Opgave 16-22
+Als gevolg van niet-lineariteit in een zendereindtrap ontstaat:
+A. Frequentie-instabiliteit
+B. Extra warmte-ontwikkeling
+C. Intermodulatie
+D. Frequentiemodulatie
+(F-examen voorjaar 2002, augustus 2009, mei 2011 (3), september 2012, maart 2015, mei
+2017 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.23 Opgave 16-23
+Sommige ontvangers voor HF-banden van 1,5 – 30 MHz hebben een middenfrequent van
+40 MHz en een vast laagdoorlaatfilter als ingangskring. Deze constructie vergroot de kans
+op:
+A. Misaanpassing aan de antenne
+B. Oscilleren van de HF-versterker
+C. Ontvangst van de spiegelfrequentie
+D. Intermodulatie
+(F-examen maart 2017)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.24 Opgave 16-24
+Storingen welke veroorzaakt worden door sleutelklikken van een telegrafiezender kunnen
+worden voorkomen door:
+A. Verhoging van de stuurspanning van de eindtrap
+B. Afscherming van de eindtrap van de zender
+C. De eindtrap in klasse A in te stellen
+D. Het in- en uitschakelen van het HF-signaal geleidelijk te laten geschieden
+(F-examen maart 2009, juni 2011, maart 2017, mei 2017 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.25 Opgave 16-25
+Een zender neemt een aanzienlijk grotere bandbreedte in beslag dan normaal is voor de
+gebruikte modulatiemethode (veroorzaakt “splatter”)
+Dit wordt veroorzaakt door
+A. Onvoldoende onderdrukking van harmonischen
+B. Brom op de draaggolf
+C. Overmodulatie
+D. Te lage plaatsing van de antenne
+(F-examen maart 2009 (2), juni 2011, mei 2013 (1), november 2013 (2), maart 2015)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.26 Opgave 16-26
+Een TV-toestel ondervindt op de meeste kanalen storing van een amateur-radiozender,
+werkend in de 50 MHz band. De meest waarschijnlijke oorzaak is:
+A. Bij de TV ontbreekt een laagdoorlaatfilter
+B. De zender straalt harmonischen uit
+C. De zender is slecht geaard
+D. De ingangstrap van de TV wordt overbelast
+(F-examen najaar 2005, mei 2009 (2), augustus 2009, oktober 2009, februari 2010 (1),
+november 2011, november 2012, mei 2013 (1), mei 2013 (2), november 2014 (1), maart
+2016, september 2016, maart 2018, november 2018, maart 2019).
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.27 Opgave 16-27
+Het oversturen van de eindtrap van een EZB-zender heeft tot gevolg dat de signalen
+A. Niet vervormd klinken en minder bandbreedte in beslag nemen
+B. Harder worden zonder andere effecten
+C. Niet vervormd klinken en meer bandbreedte in beslag nemen
+D. Vervormd klinken en meer bandbreedte in beslag nemen
+(F-examen mei 2009 (2), mei 2016 (1), maart 2017)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.28 Opgave 16-28
+Een maatregel om chirp te voorkomen is:
+A. De zendereindtrap in klasse B instellen
+B. De oscillator van de zender mee te sleutelen
+C. De oscillator van de zender continu te laten oscilleren
+D. Een ontstoorcondensator over de seinsleutel te schakelen
+(F-examen mei 2009 (2), mei 2015 (1), maart 2017)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.29 Opgave 16-29
+Chirp (Tjoep) kan optreden als
+A. De seinsleutel te veel varieert
+B. De antenne te licht gekoppeld is met de eindtrap
+C. De voedingsspanning van de oscillator onvoldoende stabiel is
+D. De seinsleutel van de zender niet goed is afgesteld
+(F-examen voorjaar 2003, juni 2010, september 2010 (2), november 2010 (1), april 2011,
+mei 2011 (3), september 2012, november 2013 (1 en 2), november 2014 (1), januari 2015,
+november 2016).
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.30 Opgave 16-30
+U kunt vaststellen of het door uw zender uitgezonden morsesignaal chirpt door
+A. De omhullende van uw eigen signaal op de oscilloscoop te bekijken
+B. Te letten op de staandegolfverhouding
+C. Te luisteren naar uw eigen signaal
+D. Te letten op variaties in uw uitgangsvermogen
+(F-examen september 2014 (2), maart 2016, mei 2017 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.31 Opgave 16-31
+Een amateur stuurt zijn SSB-zender niet te ver uit, maar toch veroorzaakt hij
+splatterstoring. Dit kan worden veroorzaakt door:
+A. Onvoldoende onderdrukking van harmonischen
+B. Te hoog zendvermogen
+C. Parasitair oscilleren van de eindtrap
+D. Verkeerde zijbandkeuze (USB/LSB)
+(F-examen november 2015 (1), januari 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.32 Opgave 16-32
+Een enkelzijband-telefoniezender met onderdrukte draaggolf op 28,5 MHz werkt volgens
+de filtermethode en wordt gemoduleerd met een sinusvormig signaal van 2500 Hz. De
+hoge zijband wordt uitgezonden. In het frequentiespectrum komt de component 28 497,5
+kHz in sterke mate voor. Dit wijst op:
+A. Onvoldoende onderdrukking van de draaggolf
+B. Intermodulatie in een trap na het zijbandfilter
+C. Onvoldoende onderdrukking van de lage zijband
+D. Intermodulatie in de balansmodulator
+(F-examen januari 2009, september 2010 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.33 Opgave 16-33
+Een amateurzender, werkend in de 21 MHz-band veroorzaakt storing in de
+frequentieband 61-68 MHz. De storing kan worden verminderd door:
+A. De eindtrap in klasse C in te stellen
+B. Een laagdoorlaatfilter in de antennevoedingskabel van de zender toe te passen
+C. Een hoogdoorlaatfilter in de antennevoedingskabel van de zender toe te passen
+D. In de modulatortrap een laagdoorlatend filter toe te passen
+(F-examen juli 2009, november 2009)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.34 Opgave 16-34
+Een amateur-zender werkend in de 21 MHz-band veroorzaakt storing in de
+frequentieband 61-68 MHz. De storing kan worden verminderd door:
+A. De uitsturing van de eindtrap te verkleinen
+B. De afvlakking van de voeding te verbeteren
+C. De frequentiestabiliteit te vergroten
+D. Een hoogdoorlaatfilter achter de zender te plaatsen
+(F-examen najaar 2002, september 2009 (1 en 2), januari 2010, maart 2010, juni 2010,
+september 2010 (2), november 2010, september 2011 (2), november 2011 (2), december
+2011, maart 2012, mei 2012 (2), september 2013 (2), mei 2014 (2), november 2014, januari
+2015, september 2016, mei 2017 (1 en 2), september 2017, mei 2018 (1), maart 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.35 Opgave 16-35
+Een breedband-antenneversterker is aangesloten tussen een TV-antenne en een TVontvanger. Bij het inschakelen van een HF-amateurzender worden alle TV-kanalen
+gestoord. Deze storing is in het algemeen op te heffen door:
+A. Een hoogdoorlaatfilter voor de versterker te plaatsen
+B. De antennemast waaraan de versterker is bevestigd, te aarden
+C. Een banddoorlaatfilter achter de versterker te plaatsen
+D. Een laagdoorlaatfilter voor de versterker te plaatsen
+(F-examen voorjaar 2005, augustus 2009, september 2010 (2), november 2010, augustus
+2011, mei 2014 (2), september 2014 (1), november 2017, januari 2018)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.36 Opgave 16-36
+Een zender voor 144 MHz heeft in het uitgangssignaal een sterke component op 72 MHz.
+Dit is waarschijnlijk het gevolg van
+A. Een onjuiste keuze van de kristalfrequentie
+B. Een onjuiste belasting van de eindversterker
+C. Een onvoldoende filtering van het signaal voordat het aan de eindversterker wordt
+aangeboden
+D. Onjuist oscilleren van de kristaloscillator
+(F-examen september 2009 (1), november 2014 (1)))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.37 Opgave 16-37
+Een enkelzijbandzender heeft een zijbandfilter met een bandbreedte van 2500 Hz. De
+draaggolf is goed onderdrukt.
+Als de zender met spraak wordt gemoduleerd, blijkt de bandbreedte van de uitzending
+aanzienlijk groter te zijn dan 2500 Hz. Door welke oorzaak kan dit verschijnsel ontstaan?
+A. De frequentie van de draaggolf ligt te ver naast de doorlaatband van het
+zijbandfilter
+B. Een versterkertrap na het zijbandfilter wordt overstuurd
+C. De frequentiekarakteristiek van de laagfrequent modulatieversterker loopt te ver
+door
+D. De staandegolfverhouding in de voedingskabel naar de antenne is te groot.
+(F-examen juli 2011, november 2012, januari 2013, november 2014 (2), maart 2016, mei
+2016 (2), mei 2018 (2)))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.38 Opgave 16-38
+Door een 15-meterzender wordt een ongewenst signaal van 63 MHz uitgestraald,
+waardoor de televisieontvangst op deze frequentie wordt gestoord.
+De storing kan worden voorkomen door:
+A. Tussen de zender en de voedingslijn naar de antenne een laagdoorlatend filter op
+te nemen
+B. Een sperfilter voor 63 MHz op de nemen in de antenneleiding van de TVontvanger
+C. De eindtrap van de zender in symmetrische schakeling uit te voeren
+D. De staandegolfverhouding te verbeteren
+(F-examen najaar 2006, februari 2010 (2), september 2010 (2), mei 2014 (2), november
+2014, januari 2018, maart 2018, september 2019)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.39 Opgave 16-39
+Een kunstantenne (dummyload) wordt gebruikt om:
+A. Een zender te belasten zonder signalen uit te stralen
+B. Nauwkeurige frequentiemetingen uit te voeren
+C. De kans op televisiestoringen (TVI) te verminderen
+D. Lange-afstandverbindingen te maken
+(F-examen augustus 2011 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.40 Opgave 16-40
+Op grote afstand van een 21 MHz-zender worden rasterstoringen ondervonden in de
+televisie-ontvangst op kanaal 4 (63 MHz).
+De storingen kunnen worden opgeheven door:
+A. Bij de televisie-ontvanger een afgestemde antenneversterkers toe te passen
+B. Frequentiemodulatie in de zender toe te passen
+C. De harmonischen-uitstraling van de zender te verminderen
+D. De afscherming van de antennekabel van de televisie-ontvanger te verbeteren
+(F-examen april 2011, mei 2011 (2), augustus 2011, november 2011, mei 2012 (1), maart
+2013, januari 2015, mei 2018 (2)).
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.41 Opgave 16-41
+Een amateur-radiozender veroorzaakt storing in een tv-toestel op kanaal 4 (61-68 MHz)
+wanneer op 15 meter gewerkt wordt. Andere kanalen worden niet beïnvloed.
+De meest waarschijnlijke oorzaak is:
+A. De ingangstrap van de TV wordt overbelast
+B. Bij de TV ontbreekt een laagdoorlaatfilter
+C. De zender straalt harmonischen uit
+D. De zender is slecht geaard
+(F-examen voorjaar 2004)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.42 Opgave 16-42
+U werkt op 15 meter en uw buurman laat u weten dat u zijn TV-ontvangst verstoort. Na
+enig onderzoek komt u tot de ontdekking dat uw zender op deze band te sterke
+harmonischen uitstraalt. Hoe stelt u zich op in deze situatie?
+A. U zegt dat er geen redelijke oplossing is voor dit probleem
+B. U zegt dat hij een klacht bij Agentschap Telecom kan indienen
+C. U gebruikt deze frequentieband niet tot u de verstoring heeft opgelost
+D. U adviseert de buurman om bij de vakhandel een ontstoorfilter te kopen
+(F-examen april 2008)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.43 Opgave 16-43
+Een amateurzender straalt minder harmonischen uit indien:
+A. De eindtrap in klasse C wordt ingesteld in plaats van in klasse A
+B. De eindtrap in klasse A wordt ingesteld in plaats van in klasse C
+C. De voedingsspanning van de oscillator beter wordt gestabiliseerd
+D. Een kristaloscillator wordt gebruikt in plaats van een LC-oscillator
+(F-examen september 2010, mei 2011 (2), mei 2012 (1), november 2014 (1, mei 2015 (1),
+november 2016, September 2017, September 2018, November 2018, mei 2019 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.44 Opgave 16-44
+Een ontvanger is afgestemd op een zwak AM-signaal dat gemoduleerd is met een toon van
+1000 Hz. Ongeveer 10 kHz hoger is een zeer sterk AM-signaal aanwezig dat gemoduleerd
+is met een toon van 1500 Hz. Er treedt kruismodulatie op. U hoort nu in de hoofdtelefoon:
+A. 1500 Hz
+B. 1000 Hz
+C. 1000 en 1500 Hz
+D. 2500 Hz
+(F-examen november 2011, maart 2012, mei 3013 (1), september 2016, mei 2018 (1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.45 Opgave 16-45
+Als een lokaal 2-meter FM-amateurstation uitzendt, merken amateurs in de omgeving dat
+de ontvangst van zwakke signalen, op 100 - 500 kHz naast de frequentie van het lokale
+station, verslechtert.
+Het signaal van het lokale station is niet zo sterk, dat de gestoorde ontvangers worden
+overstuurd. Dit duidt erop dat de zender van het lokale station waarschijnlijk:
+A. Intermodulatieproducten uitzendt
+B. Een te grote frequentiezwaai heeft
+C. Veel harmonischen produceert
+D. Veel faseruis produceert
+(F-examen september 2009 (1), juli 2010, november 2014, september 2018)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.46 Opgave 16-46
+Het optreden van chirp kan worden voorkomen door:
+A. Een hoogdoorlaatfilter toe te passen
+B. De voedingsspanning van de oscillator te stabiliseren
+C. De antenne zwaarder met de zender te koppelen
+D. Een laagdoorlaatfilter toe te passen
+(F-examen mei 2011 (1), september 2013 (2), september 2014 (1), mei 2017 (2), mei 2019
+(1))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.47 Opgave 16-47
+Bij de ontvangst van een zwak telegrafiesignaal (A1A)1 ondervindt u hinder van een zeer
+sterke AM-omroepzender die ongeveer 10 kHz boven het gewenste signaal uitzendt. De
+modulatie van de AM-zender is hoorbaar op de telegrafietekens. Deze kruismodulatie
+ontstaat in de:
+A. Mengtrap
+B. Hoofdtelefoon
+C. LF-versterker
+D. Antenne-aanpassing
+(F-examen januari 2020)
+
+1
+
+Deze code wordt behandeld in hoofdstuk 18. Hij staat hier alleen maar omdat hij in de originele
+examentekst staat. Niets van aantrekken dus.
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.48 Opgave 16-48
+Dit is het blokschema van een FMrelaisstation. Het filter aan de
+ontvangeringang voorkomt:
+A. Blokkering door de draaggolf
+op 145,6 MHz
+B. Ontvangststoring door faseruis
+van de zender
+C. Ontvangst op de
+spiegelfrequentie
+D. Lekken van oscillatorsignaal van de zender
+(F-examen november 2008 (1), november 2010 (1), maart 2011, juni 2011, maart 2018)
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.49 Opgave 16-49
+Dit is het blokschema van een FMrelaisstation. Het filter aan de
+zenderuitgang voorkomt:
+A. Het uitzenden van
+harmonischen
+B. Een te grote frequentiezwaai
+C. Blokkering door de draaggolf
+op 145,6 MHz
+D. Ontvangststoring door faseruis van de zender
+(F-examen juli 2010, juni 2011, maart 2012, november 2015, september 2016, mei 2018
+(1), januari 2019, maart 2019, mei 2019 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.4.50 Opgave 16-50
+Aan de ingang van een ontvanger zijn sterke signalen aanwezig op 145,5 en 144,8 MHz.
+Welke intermodulatieproducten kunnen ontstaan?
+A. 144 MHz en 146 MHz
+B. 145,5 MHz en 146,2 MHz
+C. 144,1 en 144,8 MHz
+D. 144,1 en 146,2 MHz
+(F-examen voorjaar 2005 en november 2014 (2))
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5 Uitwerkingen
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.1 Uitwerking van Opgave 16-1
+Uit de luidsprekers van een geluidsinstallatie wordt het signaal van een 144 MHz
+amateurzender hoorbaar.
+Er is al een netfilter aangebracht en er zijn smoorspoelen in de luidsprekerleidingen
+geplaatst. De storing blijft aanwezig als alle signaaltoevoerdraden zijn losgenomen. De
+storing is waarschijnlijk het gevolg van
+A. Te sterke harmonischen van de zender
+B. Onjuist gebruik van ringkerntransformatoren
+C. Extreme propagatie-omstandigheden
+D. Directe instraling
+Uitwerking
+We lopen de antwoorden langs. Harmonischen van de zender zijn altijd zwakker dan het
+gewenste signaal en LFD is tamelijk frequentie-ongevoelig. Antwoord A kan het dus
+eigenlijk niet zijn.
+Antwoord B heeft met het verschijnsel LFD niets te maken. Ringkerntransformatoren van
+een audioinstallatie zitten in de voeding. Ook dit antwoord kan weggestreept.
+Antwoord C, extreme propagatie-omstandigheden kan ook niet. Als een zendersignaal
+alleen binnenkomt bij extreme propagatie-omstandigheden is de afstand tot de zender zo
+groot dat het signaal te zwak is om storende LFD te veroorzaken. Dit antwoord kunnen
+we ook uitsluiten.
+Resteert antwoord D, directe instraling. En dat kan inderdaad het geval zijn. Om in
+examentermen te blijven: de enige geslaagde kandidaat van de vier. Inblikken dus.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.2 Uitwerking van Opgave 16-2
+Als een radiozendamateur zijn Yagi in een bepaalde richting zet en gaat zenden, blijkt bij
+de buren de CD-speler gestoord te worden. De speler heeft een CE-keurmerk. De stroring
+is waarschijnlijk het gevolg van:
+A. Het gebruik van afgeschermde kabel
+B. Frequentie-instabiliteit van de zender
+C. De hoge veldsterkte van het zendsignaal in de CD-speler
+D. Harmonischen van de zender
+Uitwerking
+Hier lijkt ondanks het CE-keurmerk laagfrequentdetectie aan de orde. Het effect van de
+Yagi geeft aan, dat het hier om ERP-afhankelijke veldsterkte gaat omdat de storing
+blijkbaar samenhangt met de stand van de antenne. Het enige antwoord dat veldsterkte als
+mogelijke oorzaak noemt, is antwoord C.
+Opmerkingen
+Afgeschermde kabel straalt altijd minder dan niet-afgeschermde en is daarom als oorzaak
+ongeloofwaardig.
+Frequentie-instabiliteit heeft niets te maken met LFD, evenmin als harmonischen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.3 Uitwerking van Opgave 16-3
+Een radiozendamateur werkt met CW op 28,01 MHz. Zijn buurman luistert op 27 MHz en
+merkt dat de ontvangst van zwakke signalen onderbroken wordt in het seintempo van de
+amateur.
+De waarschijnlijke oorzaak is
+A. Verkeerd aangepaste ontvangantenne
+B. Harmonischen van de amateurzender
+C. Intermodulatie
+D. Blokkering van de 27 MHz-ontvanger door het 28 MHz-signaal
+Uitwerking
+Beide frequenties liggen dichtbij elkaar; het 28 MHz-signaal is sterk door de korte afstand
+en een ingangskring van de 27 MHz-ontvanger zal het nabije 28 MHz nauwelijks
+onderdrukken. Het ligt daarom voor de hand dat door het kleine frequentieverschil de
+ingang van de 27 MHz-ontvanger wordt geblokkeerd. Antwoord D.
+Opmerkingen
+De aanpassing van de ontvangantenne zal hieraan weinig toe- of afdoen, ook al door het
+kleine frequentieverschil. Door het kleine frequentieverschil doen harmonischen niet
+mee; de tweede harmonische van het zendsignaal zit pas op 2*28 MHz is 56 MHz. Ook
+intermodulatie waarbij mengproducten als 2𝑓1 − 𝑓2 of 2𝑓2 − 𝑓1 ontstaan, is niet
+waarschijnlijk want die zijn (aanzienlijk) zwakker dan het CW-signaal en liggen ook nog
+eens buiten de beluisterde band.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.4 Uitwerking van Opgave 16-4
+Wanneer alle TV-beelden van uw buurman met ruis ontvangen worden op het moment
+dat u uw zender inschakelt en uw buurman heeft zijn eigen TV-antenne, dan hebben we
+te maken met
+A. Een niet goed aangepaste antennekabel
+B. Een niet goed aangepaste detectieschakeling in het TV-toestel
+C. Een overbelaste voedingsstabilisatieschakeling in het TV-toestel
+D. Blokkering van de ingangsversterker van het TV-toestel
+Uitwerking
+Wanneer alle TV -beelden van uw buurman met ruis ontvangen worden op het moment
+dat u de zender inschakelt en uw buurman heeft zijn eigen TV-antenne, dan hebben we te
+maken met blokkering van de ingangsversterker van het TV-toestel. Antwoord D.
+Opmerkingen
+Aanpassing van de antennekabel heeft hier weinig mee te maken. Trouwens: welke
+antennekabel? Er zijn er twee, de eigen kabel en die van de buurman. Alleen al daarom
+deugt dit antwoord niet.
+De TV-detectieschakeling heeft hier niets mee te maken en de spanningsstabilisatie in de
+voeding van de TV al evenmin.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.5 Uitwerking van Opgave 16-5
+Indien een FM-zender een te grote frequentiezwaai vertoont, kan dit worden verholpen
+door:
+A. De amplitude van de modulerende spanning te verkleinen
+B. De voedingsspanning van de zender te stabiliseren
+C. De frequentie van de modulatie te verlagen
+D. De voedingsspanning van de zender te verlagen
+Uitwerking
+De frequentiezwaai is (bij benadering) evenredig met de amplitude van de modulerende
+spanning. Dit betekent dat antwoord A goed is.
+Opmerking
+De voedingsspanning van de zender heeft met de frequentiezwaai niets te maken.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.6 Uitwerking van Opgave 16-6
+Een radiozendamateur werkt met zin 70-cm FM-transceiver op de camping. Zijn buurman
+gebruikt een draagbare TV, ingesteld op circa 480 MHz. Hij merkt dat het beeld donker
+wordt als de amateur uitzendt.
+Dat kan het gevolg zijn van:
+A. Verkeerde antenne -aanpassing van de amateurzender
+B. Harmonischen van de amateurzender
+C. Blokkering van de mengtrap in de TV
+D. Te grote frequentiezwaai van de amateurzender
+Uitwerking
+Storing door FM leidt hoogstens tot blokkering, niet tot LFD-verschijnselen als
+dwarrelend beeld en dergelijke. Omdat het beeld donker wordt, wordt wel een frequentie
+ontvangen. Dat past bij blokkering door een FM-signaal.
+Je zou blokkering van de ingangstrap verwachten, maar die staat niet in het rijtje.
+Blokkering van de mengtrap wel en dat kan natuurlijk ook. Dat wordt dan antwoord C
+Opmerkingen
+De antenne-aanpassing heeft hier niets mee te maken. Dat geldt ook voor harmonischen,
+want 480 MHz is geen heel veelvoud van een frequentie van de 70 cm-amateurband die
+van 430 tot 440 MHz loopt. Frequentiezwaai maakt ook niets uit: de TV “ziet” een signaal
+dat zijn ingang of mengtrap dichtdrukt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.7 Uitwerking van Opgave 16-7
+Oversturing van een ontvanger wordt veroorzaakt door:
+A. Intermodulatie
+B. Te veel inkomend signaal
+C. Mantelstromen in de antennekabel
+D. Het wegvallen van de oscillatorfrequentie
+Uitwerking
+Oversturing van een ontvanger komt door een te sterk signaal op de ingang. Dat heet ook
+blokkeren of in het Engels: blocking. Dan wordt de ontvangstgevoeligheid zo klein dat er
+praktisch gesproken geen signaal meer door de ingangstrap komt. Antwoord B.
+Opmerkingen
+Intermodulatie is geen oversturing/blokkering, mantelstromen in de antennekabel hebben
+met oversturing niets te maken en het wegvallen van de oscillatorfrequentie is een
+inwendig defect van de ontvanger.
+Bij oversturing kan een ingangsverzwakker helpen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.8 Uitwerking van Opgave 16-8
+Laagfrequentdetectie wordt veroorzaakt door:
+A. Onvoldoende frequentiestabiliteit
+B. Onvoldoende harmonischen-onderdrukking van de zender
+C. Niet-lineaire effecten van halfgeleiders
+D. Niet-lineaire zendereindtrappen
+Uitwerking
+Laagfrequentdetectie (LFD) wordt veroorzaakt door niet-lineaire effecten van onder meer
+halfgeleiders. Een diode is een bij uitstek niet-lineair element, a) door gelijkrichting
+(diodedetectie van signalen uit de AM-familie) en b) door de kromme karakteristiek. Elke
+bipolaire transistor en junctie-FET heeft een diode in resp. de basis-emitterovergang en de
+gate-source-overgang. Antwoord C dus. De andere antwoorden hebben met LFD niets van
+doen.
+Opmerking
+Bij een buis kan hetzelfde gebeuren. Wordt het stuurrooster positief ten opzichte van de
+kathode, dan gaat het rooster werken als anode en vormt het met de kathode een
+zogenoemde vacuümdiode waarin gelijkrichting optreedt.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.9 Uitwerking van Opgave 16-9
+Een 10-meter zender veroorzaakt laagfrequentdetectie in een geluidsinstallatie. Om de
+storing op te heffen, worden de laagohmige luidsprekeruitgangen ontkoppeld door middel
+van condensatoren, parallel aan de uitgangen.
+De meest geschikte capaciteitswaarde is:
+A. 10 picofarad
+B. 10 millifarad
+C. 10 nanofarad
+D. 10 microfarad
+Uitwerking
+Laagfrequentdetectie is de ongewilde ontvangst en detectie van een HF-signaal in een
+audio-apparaat. Detectie ontstaat door niet-lineariteit in halfgeleiders of buizen. Meestal
+gaat het om gelijkrichting, eigenlijk een extreme vorm van niet-lineariteit. Het signaal
+wordt hoorbaar in een luidspreker of koptelefoon. Om te voorkomen dat het HF-signaal
+de versterker binnenkomt, moet het direct buiten de versterker worden ontkoppeld. In dit
+geval gaat het om luidsprekerleidingen. De impedantie van luidsprekeraansluitingen ligt
+voor audiofrequenties op 4 of 8 ohm, voor HF is dat meer.
+De reactantie van de koppelcondensator moet voor de storende frequentie, in dit geval 30
+MHz, liefst ongeveer 1 ohm of lager zijn. Te laag is ook niet goed. Dan kunnen vooral
+hoge audiofrequenties hoorbaar worden onderdrukt. We berekenen de reactantie hier
+met opzet voor een fout antwoord. Dat is om te laten zien hoe je na één berekening
+zonder veel rekenwerk bij het goede uitkomt. Tussen de antwoorden zit steeds een factor
+1000, 3 nullen verschil. We gaan uit van 10 mF = 10-2 F. De frequentie van de 10meterband is 30 MHz = 30.106 Hz. Voor de reactantie XC geldt:
+𝑋𝐶 =
+
+1
+1
+=
+ = 0,00000053 
+2𝜋𝑓𝐶 2𝜋. 30. 106 . 10−2
+
+Van 10 mF naar 10F betekent 3 nullen achter de komma weghalen. Dat levert
+0,00053 . Daar kunnen nog wel een keer 3 nullen af. De capaciteit wordt dan 10 nF en
+de reactantie 0,53 . Dat is dan ook in dit geval het goede antwoord: C.
+Opmerking
+De waarde van de ontkoppelcondensator is afhankelijk van de frequentie: Bij 144 MHz
+kom je voor dezelfde reactantie uit bij ongeveer een 5x zo kleine capaciteit, is 2 nF.
+Doordat ook zelfinducties van de luidsprekerleidingen een grotere rol gaan spelen, mag de
+capaciteit nog wel wat lager.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.10 Uitwerking van Opgave 16-10
+Wanneer in een geluidsinstallatie laagfrequentdetectie optreedt als gevolg van een nabije
+EZB-zender die gemoduleerd wordt met spraak, klinkt dat als:
+A. Vervormde spraak
+B. Aan/uit geschakelde brom
+C. ’n fluittoon
+D. Duidelijk verstaanbare spraak
+Uitwerking
+Hier is maar één zinvol antwoord: vervormde spraak. Antwoord A.
+Opmerking
+Verstaanbare spraak ontstaat bij AM.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.11 Uitwerking van Opgave 16-11
+Van een amplitude-gemoduleerde 2-meter zender is de modulatie hoorbaar uit de
+luidspreker van een TV-ontvanger, zelfs als de volumeregelaar hiervan op minimum is
+ingesteld.
+De juiste conclusie is:
+A. In de laagfrequentversterker van de TV treden detectieverschijnselen op
+B. De TV-antenne heeft te weinig richteffect
+C. De buitenmantel van de TV-antennekabel is onderbroken
+D. De storing zal verdwijnen als in de zender enkelzijbandmodulatie wordt toegepast
+Uitwerking
+Het enige zinnige antwoord is A: LFD in de LF-versterker van de TV.
+Opmerkingen
+Met richteffect van de TV-antenne heeft dit niets te maken, evenmin als een onderbroken
+buitenmantel van de TV-antennekabel. Met EZB wordt de storing alleen maar
+onverstaanbaar.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.12 Uitwerking van Opgave 16-12
+Een omroepontvanger wordt over het hele afstembereik gestoord door een
+amateurstation. De meest waarschijnlijke oorzaak is:
+A. Slechte spiegelonderdrukking van de ontvanger
+B. Laagfrequentdetectie in de ontvanger
+C. Splatter van de zender
+D. Harmonischen van de zender
+Uitwerking
+Als de storing over het hele afstembereik van de ontvanger optreedt, is die storing
+blijkbaar niet frequentie-afhankelijk. De enige frequentie-onafhankelijke storing in het
+rijtje antwoorden is LFD. Dat betekent antwoord B.
+Opmerking
+Splatter betekent spetteren of spetter. Je hoort, meestal niet ver van de frequentie van een
+sterk EZB-station, stukjes (spetters) vervormde modulatie. Ook dat is dus frequentieafhankelijk. Splatter staat niet in de exameneisen, maar komt wel voor in enkele examens.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.13 Uitwerking van Opgave 16-13
+Laagfrequentdetectie geeft de minst opvallende storing bij de volgende soort uitzending:
+A. Morsetelegrafie
+B. Enkelzijbandmodulatie
+C. Frequentiemodulatie
+D. amplitudemodulatie
+Uitwerking
+Van het rijtje antwoorden is FM de enige modulatiesoort die bij LFD geen hoorbare
+storing veroorzaakt. Het kan alleen zijn dat de laagfrequentversterker in meerdere of
+mindere mate wordt “dichtgedrukt”, zodat het geluid zachter wordt. Antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.14 Uitwerking van Opgave 16-14
+De meest effectieve schakeling om “laagfrequent inpraten” te voorkomen is:
+A. Schakeling 1
+B. Schakeling 4
+C. Schakeling 2
+D. Schakeling 3
+
+Uitwerking
+Laagfrequentdetectie treedt in transistorschakelingen bijna altijd op in de emitterbasisdiode. Die moet in zo’n geval goed ontkoppeld worden. We lopen de schakelingen
+na.
+Bij schakeling 1 is de collector-basisovergang ontkoppeld. Levert hoogstens een
+ongewenst verlies aan hoge tonen.
+Bij schakeling 2 is de emitter-basisdiode weliswaar met een condensator ontkoppeld, maar
+de opgenomen weerstand maakt de ontkoppeling alleen maar minder effectief dan zonder
+weerstand.
+Schakeling 3 is een effectieve ontkoppeling van de emitter-basisdiode.
+We kijken voor de zekerheid nog naar schakeling 4. Daar is via een zelfinductie vooral
+sprake van kortsluiting voor gelijkspanning, zodat de emitter-basisovergang niet eens in
+geleiding komt. Die schakeling (in klasse C!) werkt dus voor goed LF helemaal niet.
+Kortom: schakeling 3 is de juiste. Antwoord D.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.15 Uitwerking van Opgave 16-15
+Een 2-meter EZB-zender veroorzaakt storing in een
+geluidsversterker. LF-detectie wordt voorkomen door
+toepassing van een weerstand van ongeveer 500 ohm in de
+basisleiding van de eerste transistor en een C naar aarde.
+De goede keuze voor C is:
+A. 100 pF
+B. 1 pF
+C. 1 F
+D. 100 nF
+Uitwerking
+Als de reactantie XC van C een orde van grootte (ongeveer een factor 10) lager is dan de
+weerstand R, hebben we vrijwel altijd een voldoende effectief filter voor de
+onderdrukking van de zendfrequentie. Die ligt in de 2-meterband, dat is tussen 144 en 146
+MHz. We gaan uit van het gemiddelde, 145 MHz. Daarbij moet XC ergens in de buurt van
+50 ohm of minder liggen. We proberen antwoord A, 100 pF. Als dat niet goed is, kunnen
+we door te “schuiven” met nullen, de zaak vrij gemakkelijk alsnog in orde krijgen.
+100 pF = 10-10 F. 145 MHz = 1,45.108 Hz. Voor XC geldt dan
+𝑋𝐶 =
+
+1
+1
+=
+≈ 11,0 
+2𝜋𝑓𝐶 2𝜋. 1,45. 108 . 10−10
+
+Waarmee het voor antwoord A meteen raak is, want 1 pF leidt tot 1100 , wat ruim te
+veel is en 100 nF tot 0,011, wat nergens voor nodig is en in het slechtste geval de hogere
+audio-tonen nadelig kan beïnvloeden. Ook dat laatste is te controleren voor 100 pF en 20
+000 Hz = 2.104 Hz:
+𝑋𝐶 =
+
+1
+1
+=
+≈ 79,6 k
+2𝜋𝑓𝐶 2𝜋. 2. 104 . 10−10
+
+De uitkomst is bijna 160 keer zo groot als 500 , dus dat effect is verwaarloosbaar.
+Definitief: antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.16 Uitwerking van Opgave 16-16
+De modulatievorm welke de minste storing door laagfrequent detectie veroorzaakt, is:
+A. Amplitudemodulatie
+B. Frequentiemodulatie
+C. Enkelzijbandmodulatie
+D. Morsetelegrafie
+Uitwerking
+Deze opgave lijkt sterk op Opgave 16-13. Ook hier is het juiste antwoord
+frequentiemodulatie (FM), dus antwoord B.
+Opmerking
+Zou hier fasemodulatie (PM) in plaats van FM in het rijtje hebben gestaan, dan zou B ook
+het goede antwoord zijn geweest.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.17 Uitwerking van Opgave 16-17
+In een elektronisch orgel treedt laagfrequent detectie op. Deze is het duidelijkst
+waarneembaar bij:
+A. Fasemodulatie
+B. Enkelzijbandmodulatie
+C. Bij alle modulatiesoorten
+D. Frequentiemodulatie
+Uitwerking
+Ook een elektronisch orgel is een audio-apparaat waarin LFD kan optreden. Er gelden dan
+ook dezelfde wetmatigheden als bij een gewone audioversterker. Maar let op: de vraag is
+nu welke modulatiesoort de duidelijkst waarneembare hinder veroorzaakt, niet de minst
+duidelijke. In tegenstelling tot Opgave 16-13 en Opgave 16-16 vallen FM en PM hier dan
+ook buiten de prijzen. Door de manier van vraagstelling is enkelzijbandmodulatie hier de
+winnaar: antwoord B.
+Opmerking
+Antwoord C is niet goed, want bij FM en PM is er vaak geen merkbare storing.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.18 Uitwerking van Opgave 16-18
+De 40-meter amateurband grenst aan een omroepband. Als ’s avonds een aantal
+omroepzenders door elkaar hoorbaar wordt op een in de amateurband afgestemde
+ontvanger, is dit waarschijnlijk te wijten aan:
+A. Harmonischen
+B. Intermodulatie
+C. Overmodulatie
+D. Bijzondere propagatiecondities
+Uitwerking
+Waarschijnlijk gaat het hier om intermodulatie. Bij intermodulatie ontstaat een nieuwe
+frequentie door onderlinge menging van twee frequenties, meestal een harmonische van
+één frequentie en een oorspronkelijke andere, maar van twee verschillende
+harmonischen, bijvoorbeeld de tweede van de één en de derde van de andere kan ook.
+Voorbeelden: 2𝑓1 − 𝑓2 , 2𝑓2 − 𝑓2 , 3𝑓1 − 2𝑓2 , enz. Deze mengproducten ontstaan in de
+ontvanger en dan vooral in de mengtrap, want die is per definitie niet-lineair. Anders
+wordt er niet gemengd.
+Opmerkingen
+Overmodulatie veroorzaakt vervorming en dus harmonischen in de zender, niet
+noodzakelijkerwijs in de ontvanger. Bijzondere propagatiecondities hebben met het
+beschreven verschijnsel weinig te naken.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.19 Uitwerking van Opgave 16-19
+Twee radiozendamateurs die dicht bij elkaar wonen, hebben onderling een duplexverbinding in FM op 70 cm. De ene amateur zendt op 431,5 MHz en de andere op 438,5
+MHz. In dezelfde straat worden op een porto beide amateurstations hoorbaar op 424,5
+MHz.
+Er is hier waarschijnlijk sprake van storing door:
+A. Intermodulatie
+B. Overmodulatie
+C. Laagfrequent detectie
+D. Harmonischen
+Uitwerking
+Dit is een geval van intermodulatie via de menging van 2𝑓1 − 𝑓2 , te berekenen volgens:
+2 ∗ 431,5 MHz − 438,5 MHz = 863 MHz − 438,5 MHz = 424,5 MHz
+Bewijs geleverd: antwoord A is juist.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.20 Uitwerking van Opgave 16-20
+Een radiozendamateur plaatst zijn antenne op een dak waarop reeds mobilofoonantennes
+staan. De mobilofoons werken op 150,5 en 155,5 MHz. Als de amateur op 145,5 MHz
+zendt, blijkt zo nu en dan zijn signaal op 155,5 MHz hoorbaar te worden. De
+waarschijnlijke oorzaak is:
+A. Overmodulatie
+B. Intermodulatie
+C. Blokkering
+D. Laagfrequentdetectie
+Uitwerking
+Door intermodulatie kunnen signalen ontstaan op 155,5 en 140,5 MHz. Dat is mogelijk
+doordat 2 ∗ 150,5 MHz – 145,5 MHz = 301 MHz − 145,5 MHz = 155,5 MHz
+Dat betekent antwoord B.
+Opmerkingen
+Een tweede intermodulatiefrequentie zou 140,5 MHz kunnen zijn, omdat
+2 ∗ 145,5 MHz – 150,5 MHz = 291 MHz − 145,5 MHz = 140,5 MHz
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.21 Uitwerking van Opgave 16-21
+Twee dicht bij elkaar wonende zendamateurs zenden gelijktijdig uit, de een op 144,5 MHz
+en de ander op 145,5 MHz.
+Door intermodulatie kunnen ook signalen ontstaan op:
+A. 144,5 MHz en 145 MHz
+B. 145,5 MHz en 146 MHz
+C. 144 MHz en 146 MHz
+D. 143,5 MHz en 146,5 MHz
+Uitwerking
+Om te onthouden: Bij intermodulatie van twee frequenties is een frequentie waarop
+intermodulatie ontstaat, altijd hoger dan de hoogste of lager dan de laagste van de twee.
+Daaraan voldoen de antwoorden C en D. Nu een berekening
+2 ∗ 144,5 MHz – 145,5 MHz = 289 MHz − 145,5 MHz = 143,5 MHz
+Die past bij antwoord D. Nu de tweede frequentie:
+2 ∗ 145,5 MHz – 144,5 MHz = 291 MHz − 144,5 MHz = 146,5 MHz
+En die past ook bij antwoord D. Overtuigende winnaar: antwoord D.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.22 Uitwerking van Opgave 16-22
+Als gevolg van niet-lineariteit in een zendereindtrap ontstaat:
+A. Frequentie-instabiliteit
+B. Extra warmte-ontwikkeling
+C. Intermodulatie
+D. Frequentiemodulatie
+Uitwerking
+Niet-lineariteit in een zendereindtrap kan leiden tot harmonischen en als in het
+ingangssignaal van de eindtrap twee of meer frequenties tegelijk aanwezig zijn, tot
+intermodulatie. De harmonischen worden in het rijtje antwoorden niet genoemd. Dan
+blijft de intermodulatie over. Antwoord C.
+Opmerking
+Bij amplitude-modulatie en daarvan afgeleide modulatievormen en hun demodulatie
+wordt gebruik gemaakt van niet-lineaire eigenschappen van componenten.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.23 Uitwerking van Opgave 16-23
+Sommige ontvangers voor HF-banden van 1,5 – 30 MHz hebben een middenfrequent van
+40 MHz en een vast laagdoorlaatfilter als ingangskring. Deze constructie vergroot de kans
+op:
+A. Misaanpassing aan de antenne
+B. Oscilleren van de HF-versterker
+C. Ontvangst van de spiegelfrequentie
+D. Intermodulatie
+Uitwerking
+Het voordeel van een middenfrequentie die hoger is dan de ontvangstfrequentie is het
+ontbreken van problemen met spiegelfrequenties, omdat
+𝑓𝑠𝑝𝑖𝑒𝑔𝑒𝑙 = 𝑓𝑜𝑛𝑡𝑣𝑎𝑛𝑔𝑠𝑡 − 2𝑓𝑀𝐹
+Echter: door de hogere middenfrequentie en het LDF op de ingang wordt een breder
+spectrum aan frequenties doorgelaten, waardoor de kans op intermodulatie toeneemt.
+Voorbeelden hebben we gezien in de vorm van 2𝑓1 − 𝑓2 , 2𝑓2 − 𝑓2 , 3𝑓1 − 2𝑓2 , enz.
+Antwoord D.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.24 Uitwerking van Opgave 16-24
+Storingen welke veroorzaakt worden door sleutelklikken van een telegrafiezender kunnen
+worden voorkomen door:
+A. Verhoging van de stuurspanning van de eindtrap
+B. Afscherming van de eindtrap van de zender
+C. De eindtrap in klasse A in te stellen
+D. Het in- en uitschakelen van het HF-signaal geleidelijk te laten geschieden
+Uitwerking
+Storingen die worden veroorzaakt door sleutelklikken in een telegrafiezender zijn te
+voorkomen door het in- en uitschakelen van het HF-signaal geleidelijk te laten
+plaatsvinden. Dat is antwoord D.
+Opmerking
+Op deze manier worden de bandbreedte en de sterkte van harmonischen beperkt. Dit
+onderwerp is al in hoofdstuk 12 behandeld, maar hoort ook hier thuis. Hier zijn de
+bijbehorende plaatjes nog eens. Links stoort het meest, rechts het minst (1 is omhullende,
+2 is draaggolf).
+2.00
+1.75
+1.50
+
+1
+
+1
+
+1.25
+1.00
+0.75
+
+2
+
+0.50
+0.25
+
+0.0
+
+2
+
+0.00
+-0.25
+-0.50
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.25 Uitwerking van Opgave 16-25
+Een zender neemt een aanzienlijk grotere bandbreedte in beslag dan normaal is voor de
+gebruikte modulatiemethode (veroorzaakt “splatter”)
+Dit wordt veroorzaakt door
+A. Onvoldoende onderdrukking van harmonischen
+B. Brom op de draaggolf
+C. Overmodulatie
+D. Te lage plaatsing van de antenne
+Uitwerking
+Overmodulatie leidt tot een vergrote bandbreedte. De antwoorden B en D hebben niets
+met vergrote bandbreedte te maken. Splatter is een storing die direct naast het signaal
+optreedt, dus in dezelfde frequentieband waarin wordt uitgezonden. Die kan daarom niets
+met harmonischen (antwoord A) te maken hebben. Dan blijft antwoord C over.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.26 Uitwerking van Opgave 16-26
+Een TV-toestel ondervindt op de meeste kanalen storing van een amateur-radiozender,
+werkend in de 50 MHz band. De meest waarschijnlijke oorzaak is:
+A. Bij de TV ontbreekt een laagdoorlaatfilter
+B. De zender straalt harmonischen uit
+C. De zender is slecht geaard
+D. De ingangstrap van de TV wordt overbelast
+Uitwerking
+Het feit dat op zoveel frequenties tegelijk de TV wordt gestoord, wijst erop dat de storing
+weinig met de uitgezonden frequentie te maken heeft. Bovendien liggen de gestoorde
+frequenties te dicht bij elkaar om iets met harmonischen van doen te kunnen hebben. Dit
+lijkt meer op blokkering van de ingangstrap van de TV, ofwel overbelasting. Antwoord D.
+Opmerking
+Omdat de ontvangstfrequenties van de TV hoger zullen liggen dan 50 MHz, zou de
+eigenaar van de TV gebaat kunnen zijn bij een hoogdoorlaatfilter tussen TV en
+antenneleiding.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.27 Uitwerking van Opgave 16-27
+Het oversturen van de eindtrap van een EZB-zender heeft tot gevolg dat de signalen
+A. Niet vervormd klinken en minder bandbreedte in beslag nemen
+B. Harder worden zonder andere effecten
+C. Niet vervormd klinken en meer bandbreedte in beslag nemen
+D. Vervormd klinken en meer bandbreedte in beslag nemen
+Uitwerking
+Oversturing van de eindtrap van een EZB-zender heeft altijd tot gevolg dat de signalen
+vervormd klinken en meer bandbreedte in beslag nemen dan zonder oversturing.
+Dat kan dus niet anders dan antwoord D zijn.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.28 Uitwerking van Opgave 16-28
+Een maatregel om chirp te voorkomen is:
+A. De zendereindtrap in klasse B instellen
+B. De oscillator van de zender mee te sleutelen
+C. De oscillator van de zender continu te laten oscilleren
+D. Een ontstoorcondensator over de seinsleutel te schakelen
+Uitwerking
+Chirp is het geluid dat ontstaat als in een CW-zender de oscillator na het indrukken van
+de seinsleutel heel even een parasitaire oscillatie geeft. Dat uit zich in een soort
+snerpgeluidje.
+Eén van de manieren om dit te ondervangen is, de oscillator door te laten lopen en de
+draaggolf in de zender bij het sleutelen op een andere manier aan en uit te zetten.
+Dat is antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.29 Uitwerking van Opgave 16-29
+Chirp (Tjoep) kan optreden als
+A. De seinsleutel te veel varieert
+B. De antenne te licht gekoppeld is met de eindtrap
+C. De voedingsspanning van de oscillator onvoldoende stabiel is
+D. De seinsleutel van de zender niet goed is afgesteld
+Uitwerking
+Chirp is het geluid dat ontstaat als in een CW-zender de oscillator na het indrukken van
+de seinsleutel met een korte parasitaire oscillatie op gang komt; tjoep is een korte
+hoorbare verandering in frequentie na het indrukken van de seinsleutel. In beide gevallen
+kan dat komen doordat de voedingsspanning onvoldoende is gestabiliseerd, waardoor deze
+verandert bij het inschakelen van de oscillator via de seinsleutel (zie ook Opgave 16-28).
+Dat is antwoord C.
+Opmerkingen
+Chirp is niet hetzelfde als tjoep (cursustekst).
+Er zijn voor dit probleem verschillende oplossingen mogelijk. Een betere
+spanningsstabilisatie ligt voor de hand. Een buffer- of scheidingstrap tussen oscillator en
+de rest van de zender of door de oscillator door te laten oscilleren en het signaal elders in
+de zender aan en uit te schakelen zijn andere mogelijkheden.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.30 Uitwerking van Opgave 16-30
+U kunt vaststellen of het door uw zender uitgezonden morsesignaal chirpt door
+A. De omhullende van uw eigen signaal op de oscilloscoop te bekijken
+B. Te letten op de staandegolfverhouding
+C. Te luisteren naar uw eigen signaal
+D. Te letten op variaties in uw uitgangsvermogen
+Uitwerking
+De meest eenvoudige methode is luisteren naar het eigen signaal. Tegenwoordig zijn er
+SDR (Software Defined Radio) sites waarmee dat eenvoudig kan. In hoofdstuk 1 van deze
+cursus zit een link naar de SDR-site van Universiteit Twente. Dit is-ie (klik de link aan):
+Wide-band WebSDR in Enschede, the Netherlands (utwente.nl). Antwoord C.
+Opmerkingen
+De omhullende bekijken op de oscilloscoop (antwoord A) is geen handige methode: je ziet
+het verschil in frequentie meestal niet en langzaam opkomen hoort ook bij een goed
+storingsarm CW-signaal. Staandegolfverhouding (antwoord B) heeft er niets mee te
+maken en voor variaties in uitgangsvermogen (antwoord C) geldt min of meer hetzelfde
+als voor antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.31 Uitwerking van Opgave 16-31
+Een amateur stuurt zijn SSB-zender niet te ver uit, maar toch veroorzaakt hij
+splatterstoring. Dit kan worden veroorzaakt door:
+A. Onvoldoende onderdrukking van harmonischen
+B. Te hoog zendvermogen
+C. Parasitair oscilleren van de eindtrap
+D. Verkeerde zijbandkeuze (USB/LSB)
+Uitwerking
+Dit is hoogstwaarschijnlijk parasitair oscilleren van de eindtrap. We kennen parasitair
+oscilleren uit hoofdstuk 10 in de vorm van het Miller-effect: parasitaire terugkoppeling in
+een versterkertrap. Die kan in een eindtrap natuurlijk evengoed optreden als in een
+voorversterkertrap, als er maar een parasitaire capaciteit is die een positieve
+terugkoppeling veroorzaakt. Een ringkern in basis- en/of collectorleiding helpt meestal.
+Kortom: antwoord C.
+Opmerkingen
+Met harmonischen (antwoord A), zendvermogen (B) of zijbandkeuze (D) heeft dit niets te
+maken. Ook zo kom je tot antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.32 Uitwerking van Opgave 16-32
+Een enkelzijband-telefoniezender met onderdrukte draaggolf op 28,5 MHz werkt volgens
+de filtermethode en wordt gemoduleerd met een sinusvormig signaal van 2500 Hz. De
+hoge zijband wordt uitgezonden. In het frequentiespectrum komt de component 28 497,5
+kHz in sterke mate voor. Dit wijst op:
+A. Onvoldoende onderdrukking van de draaggolf
+B. Intermodulatie in een trap na het zijbandfilter
+C. Onvoldoende onderdrukking van de lage zijband
+D. Intermodulatie in de balansmodulator
+Uitwerking
+In de balansmodulator ontstaan twee frequenties: de hoge zijband op 28500 kHz + 2,5 kHz
+= 28502,5 kHz en de lage zijband, 28500 kHz - 2,5 kHz = 28497,5 kHz. De hoge zijband
+wordt uitgezonden. Dan moet de lage zijband worden onderdrukt. Het plaatje geeft dat
+28497,5 kHz
+28502,5 kHz weer. Als die lage zijband toch wordt uitgezonden,
+dan is er met de onderdrukking ervan blijkbaar iets
+28500 kHz
+misgegaan. Onvermijdelijk: antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.33 Uitwerking van Opgave 16-33
+Een amateurzender, werkend in de 21 MHz-band veroorzaakt storing in de
+frequentieband 61-68 MHz. De storing kan worden verminderd door:
+A. De eindtrap in klasse C in te stellen
+B. Een laagdoorlaatfilter in de antennevoedingskabel van de zender toe te passen
+C. Een hoogdoorlaatfilter in de antennevoedingskabel van de zender toe te passen
+D. In de modulatortrap een laagdoorlatend filter toe te passen
+Uitwerking
+Even rekenen: de derde harmonische van de zenderfrequentie valt in de gestoorde band:
+3 ∗ 21 MHz = 63 MHz. De zender straalt dus te veel harmonischen uit. Een
+laagdoorlaatfilter in de antenneleiding van de zender zal op zijn minst het probleem
+verminderen en waarschijnlijk helemaal oplossen. Antwoord B.
+Het plaatje hieronder laat het nog een keer zien.
+Zonder LDF in amateurzender
+
+Met LDF in amateurzender
+
+Harmonischen amateurzender
+Signalen TV-zenders
+
+Harmonischen amateurzender
+Signalen TV-zenders
+
+Frequentie→
+
+Legende
+
+Opmerkingen
+Antwoord A (eindtrap in klasse C) zal de problemen hoogstens verergeren. Antwoord C
+lost niets op, want de harmonischen huppelen ongestoord door het hoogdoorlaatfilter
+heen en antwoord D lost alleen wat op als de harmonischen in de modulator ontstaan en
+niet daarna, wat weinig waarschijnlijk is.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.34 Uitwerking van Opgave 16-34
+Een amateur-zender werkend in de 21 MHz-band veroorzaakt storing in de
+frequentieband 61-68 MHz. De storing kan worden verminderd door:
+A. De uitsturing van de eindtrap te verkleinen
+B. De afvlakking van de voeding te verbeteren
+C. De frequentiestabiliteit te vergroten
+D. Een hoogdoorlaatfilter achter de zender te plaatsen
+Uitwerking
+De vraag is een kopie van Opgave 16-33, de antwoorden zijn dat niet. Het gaat natuurlijk
+weer om de vraag, hoe je de hoeveelheid uitgestraalde harmonischen kunt verminderen.
+Het standaardmiddel, een laagdoorlaatfilter in de antenneleiding, ontbreekt hier. De
+valstrik voor wie te haastig leest, is dan natuurlijk antwoord D. Helaas, een
+hoogdoorlaatfilter laat die harmonischen ongehinderd passeren.
+Het juiste antwoord is het minder ver uitsturen van de eindtrap. Die komt dan in elk geval
+niet in zijn hoogste bereik, waar de lineariteit bij toenemende uitsturing steeds slechter
+wordt en de productie van harmonischen toeneemt. Dat wordt dus antwoord A.
+Opmerkingen
+De afvlakking van de voeding (B) heeft niets met harmonischen te maken, wel met brom
+op de modulatie. Slechte frequentiestabiliteit (C) leidt evenmin tot harmonischen en over
+het hoogdoorlaatfilter (D) hebben we het al gehad.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.35 Uitwerking van Opgave 16-35
+Een breedband-antenneversterker is aangesloten tussen een TV-antenne en een TVontvanger. Bij het inschakelen van een HF-amateurzender worden alle TV-kanalen
+gestoord. Deze storing is in het algemeen op te heffen door:
+A. Een hoogdoorlaatfilter voor de versterker te plaatsen
+B. De antennemast waaraan de versterker is bevestigd, te aarden
+C. Een banddoorlaatfilter achter de versterker te plaatsen
+D. Een laagdoorlaatfilter voor de versterker te plaatsen
+Uitwerking
+Een breedbandversterker versterkt, zoals de naam al zegt, een brede band aan frequenties.
+De kans is daarom groot dat ook (een deel van) het HF-gebied wordt meeversterkt dat via
+blokkering de ontvangst van alle TV-frequenties stoort. De TV-frequenties liggen (veel)
+hoger dan het HF-gebied. Daardoor kan in dit geval een hoogdoorlaatfilter (HDF) helpen.
+Het moet worden geplaatst vóór de versterker. Dan worden de HF-frequenties onderdrukt
+en de (veel) hogere TV-frequenties doorgelaten. Antwoord A.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.36 Uitwerking van Opgave 16-36
+Een zender voor 144 MHz heeft in het uitgangssignaal een sterke component op 72 MHz.
+Dit is waarschijnlijk het gevolg van
+A. Een onjuiste keuze van de kristalfrequentie
+B. Een onjuiste belasting van de eindversterker
+C. Een onvoldoende filtering van het signaal voordat het aan de eindversterker wordt
+aangeboden
+D. Onjuist oscilleren van de kristaloscillator
+Uitwerking
+Een zender voor 144 MHz die ook 72 MHz uitzendt, ontleent zijn frequentie vrijwel zeker
+aan frequentievermenigvuldiging, want 2 ∗ 72 MHz = 144 MHz. Voordat het signaal in
+het 144 MHz-deel van de zender belandt, zullen eerst de resten van die 72 MHz zo goed
+mogelijk moeten worden weggefilterd. Blijkbaar is dat hier onvoldoende gebeurd. Dat
+betekent antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.37 Uitwerking van Opgave 16-37
+Een enkelzijbandzender heeft een zijbandfilter met een bandbreedte van 2500 Hz. De
+draaggolf is goed onderdrukt.
+Als de zender met spraak wordt gemoduleerd, blijkt de bandbreedte van de uitzending
+aanzienlijk groter te zijn dan 2500 Hz. Door welke oorzaak kan dit verschijnsel ontstaan?
+A. De frequentie van de draaggolf ligt te ver naast de doorlaatband van het
+zijbandfilter
+B. Een versterkertrap na het zijbandfilter wordt overstuurd
+C. De frequentiekarakteristiek van de laagfrequent modulatieversterker loopt te ver
+door
+D. De staandegolfverhouding in de voedingskabel naar de antenne is te groot.
+Uitwerking
+Als het zijbandfilter 2500 Hz breed is en van behoorlijke kwaliteit, dan kan het niet
+anders of het probleem moet voorbij dat filter zitten. Er is maar één antwoord dat dit ook
+werkelijk suggereert, en dat is antwoord B: oversturing van een versterkertrap na het
+zijbandfilter. B moet dan ook het juiste antwoord zijn.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.38 Uitwerking van Opgave 16-38
+Door een 15-meterzender wordt een ongewenst signaal van 63 MHz uitgestraald,
+waardoor de televisieontvangst op deze frequentie wordt gestoord.
+De storing kan worden voorkomen door:
+A. Tussen de zender en de voedingslijn naar de antenne een laagdoorlatend filter op
+te nemen
+B. Een sperfilter voor 63 MHz op de nemen in de antenneleiding van de TVontvanger
+C. De eindtrap van de zender in symmetrische schakeling uit te voeren
+D. De staandegolfverhouding te verbeteren
+Uitwerking
+De 15-meterband loopt van 21,000 tot 21,450 MHz. 63 MHz is de derde harmonische van
+21 MHz. Het kan dus bijna niet anders of de amateurzender straalt deze harmonische uit.
+De remedie is een laagdoorlaatfilter direct achter de amateurzender in de voedingslijn
+naar de antenne. Dat onderdrukt de harmonische(n) van de uitgezonden frequentie.
+Kortom: antwoord A.
+Opmerkingen
+Een sperfilter voor 63 MHz in de antenneleiding van een ontvanger die het juist van
+signalen op 63 MHz moet hebben (antwoord B), is een slecht idee. De andere twee
+antwoorden (C en D) hebben met het probleem waar het in de opgave om gaat, niets van
+doen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.39 Uitwerking van Opgave 16-39
+Een kunstantenne (dummyload) wordt gebruikt om:
+A. Een zender te belasten zonder signalen uit te stralen
+B. Nauwkeurige frequentiemetingen uit te voeren
+C. De kans op televisiestoringen (TVI) te verminderen
+D. Lange-afstandverbindingen te maken
+Uitwerking
+Het “officiële” antwoord is A. Daar valt veel voor te zeggen, want inderdaad dient een
+dummyload voor het doen van metingen aan een zender terwijl die in bedrijf is, maar
+zonder dat er een signaal “in de lucht wordt gezet”, zoals dat ook wel heet.
+Maar kijk nu naar antwoord B. Eén van de metingen kan een nauwkeurige meting van de
+zenderfrequentie zijn. Wel is het voor de bescherming van de teller raadzaam, de zender
+op laag vermogen in te stellen en/of een verzwakker te gebruiken. Dan is antwoord B
+eigenlijk ook goed of in elk geval niet fout.
+En C: de kans op televisiestoringen verminderen…? Wel degelijk, want de dummyload
+wordt niet zomaar gebruikt. Als je bijvoorbeeld nog niet weet hoe een pas gebouwde
+zender zich gedraagt, kun je niet voorzichtig genoeg zijn en gebruik je voor de eerste
+metingen een dummyload. Ook niet echt fout, dus.
+Het enige echt foute antwoord is D. Lange-afstandverbindingen maken met een zender
+die niet straalt, is natuurlijk grote onzin.
+Zou dit alles de reden zijn, waarom deze opgave maar één keer op een examen is gebruikt?
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.40 Uitwerking van Opgave 16-40
+Op grote afstand van een 21 MHz-zender worden rasterstoringen ondervonden in de
+televisie-ontvangst op kanaal 4 (63 MHz).
+De storingen kunnen worden opgeheven door:
+A. Bij de televisie-ontvanger afgestemde antenneversterkers toe te passen
+B. Frequentiemodulatie in de zender toe te passen
+C. De harmonischen-uitstraling van de zender te verminderen
+D. De afscherming van de antennekabel van de televisie-ontvanger te verbeteren
+Uitwerking
+63 MHz is de derde harmonische van 21 MHz en is daarom vrijwel zeker de oorzaak van
+de storing. In de zender zijn zeer waarschijnlijk harmonischen onvoldoende onderdrukt.
+Daar moet dus iets aan gebeuren. Antwoord C
+Opmerkingen
+Een laagdoorlaatfilter tussen eindtrap en antenneleiding is de meest voor de hand liggende
+remedie. Bij wijze van tijdelijke maatregel kan de eigenaar van de zender ook het
+uitgangsvermogen verminderen.
+Afgestemde antenneversterkers (antwoord A) zullen zijn afgestemd op 63 MHz en helpen
+dus geen zier. Frequentiemodulatie (antwoord B) zal vermoedelijk ook niet helpen, want
+ook dat signaal gaat via de eindtrap die de harmonischen veroorzaakt. Afscherming van de
+antennekabel van de ontvanger (D) heeft evenmin zin, want zou de kabelafscherming al
+niet deugen, dan komt nog steeds diezelfde derde harmonische via de antenne binnen.
+Zie ook de vergelijkbare Opgave 16-34.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.41 Uitwerking van Opgave 16-41
+Een amateur-radiozender veroorzaakt storing in een tv-toestel op kanaal 4 (61-68 MHz)
+wanneer op 15 meter gewerkt wordt. Andere kanalen worden niet beïnvloed.
+De meest waarschijnlijke oorzaak is:
+A. De ingangstrap van de TV wordt overbelast
+B. Bij de TV ontbreekt een laagdoorlaatfilter
+C. De zender straalt harmonischen uit
+D. De zender is slecht geaard
+Uitwerking
+De 15-meterband loopt van 21 tot 21,45 MHz. De derde harmonische valt daarom in de
+band 61-68 MHz. Dat verklaart de storing op dat ene TV-kanaal. Antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.42 Uitwerking van Opgave 16-42
+U werkt op 15 meter en uw buurman laat u weten dat u zijn TV-ontvangst verstoort. Na
+enig onderzoek komt u tot de ontdekking dat uw zender op deze band te sterke
+harmonischen uitstraalt. Hoe stelt u zich op in deze situatie?
+A. U zegt dat er geen redelijke oplossing is voor dit probleem
+B. U zegt dat hij een klacht bij Agentschap Telecom kan indienen
+C. U gebruikt deze frequentieband niet tot u de verstoring heeft opgelost
+D. U adviseert de buurman om bij de vakhandel een ontstoorfilter te kopen
+Uitwerking
+De oorzaak van de storing ligt bij u, want de zender geeft te sterke harmonischen. Daarom
+gebruikt u deze frequentieband niet meer, tot u zelf het probleem hebt opgelost.
+Antwoord C.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.43 Uitwerking van Opgave 16-43
+Een amateurzender straalt minder harmonischen uit indien:
+A. De eindtrap in klasse C wordt ingesteld in plaats van in klasse A
+B. De eindtrap in klasse A wordt ingesteld in plaats van in klasse C
+C. De voedingsspanning van de oscillator beter wordt gestabiliseerd
+D. Een kristaloscillator wordt gebruikt in plaats van een LC-oscillator
+Uitwerking
+In klasse A wordt de volle 360 van elke periode versterkt en zit het werkpunt van het
+versterkende element in het meest lineaire deel van de karakteristiek. Daardoor ontstaan
+bij deze instelling de minste harmonischen. Bij instelling in klasse C wordt maar een deel,
+minder dan 180 per periode, versterkt en zit het werkpunt van het versterkende element
+in een sterk niet-lineair deel van de karakteristiek. Conclusie: antwoord B is juist.
+Opmerkingen
+De stabilisatie van de voedingsspanning van de oscillator heeft invloed op de
+frequentiestabiliteit, niet op harmonischen. Een kristaloscillator zou misschien een wat
+betere frequentiestabiliteit kunnen leveren dan een LC-exemplaar, maar invloed op
+harmonischen heeft dat net zo min als de voedingsspanning.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.44 Uitwerking van Opgave 16-44
+Een ontvanger is afgestemd op een zwak AM-signaal dat gemoduleerd is met een toon van
+1000 Hz. Ongeveer 10 kHz hoger is een zeer sterk AM-signaal aanwezig dat gemoduleerd
+is met een toon van 1500 Hz. Er treedt kruismodulatie op. U hoort nu in de hoofdtelefoon:
+A. 1500 Hz
+B. 1000 Hz
+C. 1000 en 1500 Hz
+D. 2500 Hz
+Uitwerking
+Kruismodulatie is vooral bekend van FM in de VHF- en UHF-banden, maar ook bij AM
+op deze of andere frequenties kan het voorkomen. De oorzaak is oversturing van de
+ingangstrap met de daarbij behorende onderlinge modulatie van ontvangen en nog niet
+onderdrukte frequenties. Dat gebeurt vooral bij kleine verschillen in frequentie, zoals in
+dit geval. Dan worden beide modulaties hoorbaar. Dat leidt tot antwoord C.
+Opmerking
+Een verzwakker op de ontvangeringang (zit op praktisch elke goede amateurset) kan in dit
+soort gevallen een oplossing zijn, net als bij intermodulatiestoringen.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.45 Uitwerking van Opgave 16-45
+Als een lokaal 2-meter FM-amateurstation uitzendt, merken amateurs in de omgeving dat
+de ontvangst van zwakke signalen, op 100 - 500 kHz naast de frequentie van het lokale
+station, verslechtert.
+Het signaal van het lokale station is niet zo sterk, dat de gestoorde ontvangers worden
+overstuurd. Dit duidt erop dat de zender van het lokale station waarschijnlijk:
+A. Intermodulatieproducten uitzendt
+B. Een te grote frequentiezwaai heeft
+C. Veel harmonischen produceert
+D. Veel faseruis produceert
+Uitwerking
+De storing treedt op in een breed gebied en de sterkte is niet groot. Dat wijst in de
+richting van faseruis. Die ontstaat door wederzijdse menging met thermische ruis. Dat is
+ruis die in alle componenten kan optreden. De bandbreedte kan tientallen kHz bedragen
+en is ook de oorzaak dat een FM-ontvanger naast de zender ruist, zelfs met kortgesloten
+antenne-ingang.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.46 Uitwerking van Opgave 16-46
+Het optreden van chirp kan worden voorkomen door:
+A. Een hoogdoorlaatfilter toe te passen
+B. De voedingsspanning van de oscillator te stabiliseren
+C. De antenne zwaarder met de zender te koppelen
+D. Een laagdoorlaatfilter toe te passen
+Uitwerking
+Chirp is de frequentieverandering van een morsesignaal onder invloed van een kort
+durende parasitaire oscillatie meteen na het indrukken van de seinsleutel. Daardoor klinkt
+het signaal eventjes wat schor. Een mogelijke oorzaak is dat na het indrukken de
+oscillatorspanning niet meteen op volle sterkte aanwezig is, maar zich even -meestal in
+een fractie van een seconde- moet opbouwen. Daardoor maakt de oscillator een kort maar
+hoorbaar aanloopje naar zijn uiteindelijke frequentie.
+Door ofwel
+•
+•
+•
+
+de voedingsspanning van de oscillator te stabiliseren
+de oscillator te laten doorlopen en het signaal verderop aan en uit te schakelen
+een buffer/scheidingstrap tussen oscillator en zender aan te brengen
+
+is dit verschijnsel tegen te gaan.
+In deze examenopgave wordt alleen het eerste gedachtenpunt als oplossing gegeven in
+antwoord B.
+Opmerkingen
+Resterende sleutelklikken zijn te voorkomen door middel van een RC-laagdoorlaatfilter
+dat het in- en uitschakelen vertraagt (uitwerking Opgave 16-24).
+Kijk desgewenst ook nog even bij de uitwerkingen van Opgave 16-28 en Opgave 16-29.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.47 Uitwerking van Opgave 16-47
+Bij de ontvangst van een zwak telegrafiesignaal (A1A)1 ondervindt u hinder van een zeer
+sterke AM-omroepzender die ongeveer 10 kHz boven het gewenste signaal uitzendt. De
+modulatie van de AM-zender is hoorbaar op de telegrafietekens. Deze kruismodulatie
+ontstaat in de:
+A. Mengtrap
+B. Hoofdtelefoon
+C. LF-versterker
+D. Antenne-aanpassing
+Uitwerking
+Dit verschijnsel kan ontstaan in elk element met niet-lineaire eigenschappen, zoals alle
+versterkende elementen en dioden. In wezen is het amplitudemodulatie van het ene
+signaal op het andere. Als daar een AM-signaal bij betrokken is, doet ook de daarin
+“verpakte” modulatie mee. Vandaar dat die modulatie hoorbaar is op de telegrafietekens.
+Er is maar één antwoord dat verwijst naar een schakeling met één of meer niet-lineaire
+elementen, namelijk naar de mengtrap en dat is antwoord A.
+Opmerking
+De kruismodulatie kan niet voorbij de mengtrap ontstaan, want tussen mengtrap en MF
+hoort een degelijk filter te zitten dat het storende AM-signaal voldoende onderdrukt.
+
+1
+
+Deze code wordt behandeld in hoofdstuk 18. Hij staat hier alleen maar omdat hij in de originele
+examentekst staat. Niets van aantrekken dus.
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.48 Uitwerking van Opgave 16-48
+Dit is het blokschema van een FMrelaisstation. Het filter aan de
+ontvangeringang voorkomt:
+A. Blokkering door de draaggolf
+op 145,6 MHz
+B. Ontvangststoring door faseruis
+van de zender
+C. Ontvangst op de
+spiegelfrequentie
+D. Lekken van oscillatorsignaal van de zender
+Uitwerking
+Bij een relaisstation is de afstand tussen zender en ontvanger heel klein. Het verschil in
+frequentie van 600 kHz is zo klein, dat de zender gemakkelijk blokkering van de
+ontvanger kan veroorzaken. Daarom zijn zulke relaisstations voorzien van heel scherpe
+filters, zodat de ontvanger de zender niet noemenswaard “hoort”.
+Antwoord A is dan ook het juiste antwoord.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.49 Uitwerking van Opgave 16-49
+Dit is het blokschema van een FMrelaisstation. Het filter aan de
+zenderuitgang voorkomt:
+A. Het uitzenden van
+harmonischen
+B. Een te grote frequentiezwaai
+C. Blokkering door de draaggolf
+op 145,6 MHz
+D. Ontvangststoring door faseruis van de zender
+Uitwerking
+Het bandsperfilter van 145,000 MHz op de zenderuitgang voorkomt op zich niet het
+uitzenden van harmonischen. Antwoord A is dus niet goed.
+De blokkering van de ontvanger door de draaggolf wordt voorkomen door het
+bandsperfilter voor 145,600 MHz op de ontvangeringang (uitwerking van Opgave 16-49).
+Daarmee vervalt antwoord C.
+Wat het wel doet, is voorkomen dat faseruis in de zender de ontvangeringang bereikt en
+daar de ontvangst verstoort. Dat is antwoord D.
+Opmerking
+Met frequentiezwaai heeft dit niets te maken. De zwaai wordt binnen de
+zenderschakeling bepaald, niet door iets daarbuiten.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 16. Examenopgaven_20220629
+
+16.5.50 Uitwerking van Opgave 16-50
+Aan de ingang van een ontvanger zijn sterke signalen aanwezig op 145,5 en 144,8 MHz.
+Welke intermodulatieproducten kunnen ontstaan?
+A. 144 MHz en 146 MHz
+B. 145,5 MHz en 146,2 MHz
+C. 144,1 en 144,8 MHz
+D. 144,1 en 146,2 MHz
+Uitwerking
+Dit zal gaan om zogenoemde 2e orde producten. Dat zijn mengproducten van 2 maal de
+ene frequentie min 1 maal de andere. Maar eens kijken of dat wil lukken.
+2 ∗ 145,5 MHz − 144,8 MHz = 146,2 MHz
+Die staat in B en D, dus we zijn op de goede weg.
+2 ∗ 144,8 MHz − 145,5 MHz = 144,1 MHz
+Die staat in C en D, dus het moet antwoord D zijn.
+
+© 2021, 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 16.4 uitgezonderd)
+
+16-110
+
+

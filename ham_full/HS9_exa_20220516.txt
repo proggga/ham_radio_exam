@@ -1,0 +1,1829 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+Inhoudsopgave
+9
+
+25 uitgewerkte examenopgaven bij Hoofdstuk 9 .........................................................9-3
+9.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ..............9-3
+
+9.2
+
+Enkele opmerkingen ............................................................................................... 9-4
+
+9.3
+
+Formularium ............................................................................................................9-4
+
+9.3.1
+
+Algemeen ..........................................................................................................9-4
+
+9.3.2
+
+Belastingslijnen.................................................................................................9-5
+
+9.3.3
+
+Koppeling van versterkers ...............................................................................9-5
+
+9.3.4
+
+Klassen van instelling van versterkers ............................................................9-6
+
+9.4
+
+Opgaven ...................................................................................................................9-9
+
+9.4.1
+
+Opgave 9-1 .....................................................................................................9-10
+
+9.4.2
+
+Opgave 9-2 ......................................................................................................9-11
+
+9.4.3
+
+Opgave 9-3 ......................................................................................................9-12
+
+9.4.4
+
+Opgave 9-4 ......................................................................................................9-13
+
+9.4.5
+
+Opgave 9-5 ......................................................................................................9-14
+
+9.4.6
+
+Opgave 9-6 ......................................................................................................9-15
+
+9.4.7
+
+Opgave 9-7 ......................................................................................................9-16
+
+9.4.8
+
+Opgave 9-8 ......................................................................................................9-17
+
+9.4.9
+
+Opgave 9-9 ......................................................................................................9-18
+
+9.4.10 Opgave 9-10 ....................................................................................................9-19
+9.4.11 Opgave 9-11 ....................................................................................................9-20
+9.4.12 Opgave 9-12 ....................................................................................................9-21
+9.4.13 Opgave 9-13 ....................................................................................................9-22
+9.4.14 Opgave 9-14 ....................................................................................................9-23
+9.4.15 Opgave 9-15 ....................................................................................................9-24
+9.4.16 Opgave 9-16 ....................................................................................................9-25
+9.4.17 Opgave 9-17 ....................................................................................................9-26
+9.4.18 Opgave 9-18 ....................................................................................................9-27
+9.4.19 Opgave 9-19 ....................................................................................................9-28
+9.4.20 Opgave 9-20 ....................................................................................................9-29
+9.4.21 Opgave 9-21 ....................................................................................................9-30
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.22 Opgave 9-22 ....................................................................................................9-31
+9.4.23 Opgave 9-23 ....................................................................................................9-32
+9.4.24 Opgave 9-24 ....................................................................................................9-33
+9.4.25 Opgave 9-25 ....................................................................................................9-34
+9.5
+
+Uitwerkingen .........................................................................................................9-35
+
+9.5.1
+
+Uitwerking van Opgave 9-1 .........................................................................9-36
+
+9.5.2
+
+Uitwerking van Opgave 9-2 ..........................................................................9-37
+
+9.5.3
+
+Uitwerking van Opgave 9-3 ..........................................................................9-38
+
+9.5.4
+
+Uitwerking van Opgave 9-4 ..........................................................................9-39
+
+9.5.5
+
+Uitwerking van Opgave 9-5 ..........................................................................9-40
+
+9.5.6
+
+Uitwerking van Opgave 9-6 ..........................................................................9-41
+
+9.5.7
+
+Uitwerking van Opgave 9-7 ..........................................................................9-42
+
+9.5.8
+
+Uitwerking van Opgave 9-8 ..........................................................................9-43
+
+9.5.9
+
+Uitwerking van Opgave 9-9 ..........................................................................9-44
+
+9.5.10 Uitwerking van Opgave 9-10 ........................................................................9-45
+9.5.11 Uitwerking van Opgave 9-11 ........................................................................9-46
+9.5.12 Uitwerking van Opgave 9-12 ........................................................................9-47
+9.5.13 Uitwerking van Opgave 9-13 .......................................................................9-48
+9.5.14 Uitwerking van Opgave 9-14 ........................................................................9-49
+9.5.15 Uitwerking van Opgave 9-15 ........................................................................9-50
+9.5.16 Uitwerking van Opgave 9-16 ........................................................................9-51
+9.5.17 Uitwerking van Opgave 9-17 ........................................................................9-52
+9.5.18 Uitwerking van Opgave 9-18 ........................................................................9-53
+9.5.19 Uitwerking van Opgave 9-19 ........................................................................9-54
+9.5.20 Uitwerking van Opgave 9-20 ........................................................................9-55
+9.5.21 Uitwerking van Opgave 9-21 ........................................................................9-56
+9.5.22 Uitwerking van Opgave 9-22 ........................................................................9-57
+9.5.23 Uitwerking van Opgave 9-23 ........................................................................9-58
+9.5.24 Uitwerking van Opgave 9-24 ........................................................................9-59
+9.5.25 Uitwerking van Opgave 9-25 ........................................................................9-60
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9 25 uitgewerkte examenopgaven bij Hoofdstuk 9
+9.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 9
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is dan ook examentraining.
+Het aantal examenvragen is in vergelijking met andere hoofdstukken vrij klein. Dat komt
+doordat het onderwerp van dit hoofdstuk verwerkt zit in examenvragen voor volgende
+hoofdstukken, waarvoor ook kennis van die hoofdstukken nodig is. Denk dus niet dat dit
+hoofdstuk onbelangrijk is.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 verschillende
+examenvragen zijn gesteld. Die weg is daarom tijdrovend en de slagingskans klein. Bedenk
+ook dat examenvragen die op elkaar lijken, vaak niet precies aan elkaar gelijk zijn, dat de
+antwoorden op meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk
+zijn aan hun voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar
+heel veel examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de volledige tekst van het leerhoofdstuk
+staan. In de verkorte versies staan geen opgaven. Loop daarna de verkorte versie nog een
+keer door om te zien of alles bekend is. Begin pas dan aan de examenvragen in deze
+bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave. Het goede antwoord is vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De gegeven
+uitwerking hoeft niet de enig juiste te zijn. Het is niet ongewoon dat een andere weg ook
+tot een goed antwoord leidt.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave. Dat is deze:
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie om wat voor reden ook alleen geïnteresseerd is in de
+uitwerkingen: je kunt alle uitwerkingen ook achter elkaar doorlezen in paragraaf 9.5.
+
+9.2 Enkele opmerkingen
+Bij elke opgave is vermeld, in welke examens de opgave is voorgekomen. Voorbeeld: Fexamen mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei
+2011. Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Een enkele keer
+staat er (3). Dat was dan een extra volle examenmaand. Als er in een maand maar één
+examen is geweest, is er geen aanduiding. Soms staat er in plaats daarvan een volledige
+datum. Vóór het jaar 2008, waren er maar twee examens per jaar, het voorjaars- en
+najaarsexamen.
+Het kan voorkomen dat een opgave jarenlang niet meer is gebruikt en bijvoorbeeld 10 jaar
+of nog meer later, plotseling weer opduikt. Denk dus niet dat een opgave die 15 jaar
+geleden voor het laatst in een examen zat, nooit meer zal voorkomen. Maar een opgave
+die vaak voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar
+één of twee keer is voorgekomen. Het verstandigste is, nergens op te rekenen. Ga ervanuit
+dat elke opgave terug kan komen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”), schema’s en andere zaken. We raden aan, dit eerst door te
+nemen, maar wie zich zeker genoeg voelt, kan natuurlijk ook meteen naar de opgaven
+gaan. Elke cursist is eigen baas.
+
+9.3 Formularium
+9.3.1 Algemeen
+In dit formularium komen geen vergelijkingen voor, hoewel de kop anders suggereert. Dat
+komt doordat die bij dit onderwerp in de cursustekst ook schaars zijn.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.3.2 Belastingslijnen
+Neem een grafiek van een schakeling met diode of versterkend element, waarin een of
+meer verbanden worden weergegeven tussen de stroom door en de spanning over de
+schakeling. In zo’n grafiek is een belastingslijn een rechte tussen het punt op de as voor de
+spanning waarbij de stroom 0 wordt en het punt op de as voor de stroom waarbij de
+spanning 0 is. De streepjeslijn in Figuur 9.3-1 is daarvan een voorbeeld.
+
+Figuur 9.3-1. Schakeling van spanningsbron, diode en weerstand (links) en de bijbehorende
+diodekarakteristiek met getrokken lijn en de gestippelde belastingslijn (rechts).
+
+De bijbehorende schakeling staat links in de figuur. De streepjerslijn snijdt de
+diodekarakteristiek in punt D. D is het werkpunt van de schakeling. De ligging van D
+wordt bepaald door de schakeling. Vervang de weerstand van 100 ohm door 50 ohm en de
+belastingslijn loopt van 2V op de horizontale as naar 40 mA op de verticale as in plaats van
+20 mA in de figuur. Het nieuwe snijpunt geeft de nieuwe bijbehorende combinatie van
+spanning over en stroom door de diode, ofwel het nieuwe werkpunt.
+Zo wordt ook bij versterkende elementen het werkpunt bepaald door de karakteristieken
+van het element enerzijds en de aan het element gekoppelde weerstanden anderzijds.
+Omgekeerd kan een werkpunt zo worden gekozen dat het ongeveer midden op de
+karakteristiek ligt, zodat er ongeveer evenveel ruimte boven en onder het werkpunt zit,
+zodat een zo groot mogelijke wisselspanning nog redelijk lineair kan worden versterkt. De
+weerstanden worden dan berekend op basis van de stroom en spanningen die bij het
+werkpunt horen.
+9.3.3 Koppeling van versterkers
+Er zijn drie hoofdsoorten
+a. Weerstandskoppeling
+b. Smoorspoelkoppeling
+c. Transformatorkoppeling
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+Bij a. en b. dienen weerstand, resp. smoorspoel, om stroom om te zetten in spanning. De
+eigenlijke spanningskoppeling vindt plaats via een condensator. Bij LF-versterkers met
+FET of buis ligt de capaciteit in de orde van tientallen of honderd(en) nF. meestal met
+kunststof-diëlektricum. Bij de relatief hoge ingangsimpedantie van dit soort elementen is
+dat vrijwel altijd genoeg. Bij bipolaire transistoren (dus NPN of PNP) is de
+ingangsimpedantie lager en vind je elco’s, meestal in de orde van tientallen µF.
+Weerstandskoppeling vind je in hoofdzaak in audioversterkers (LF dus). Die moeten
+breedbandig zijn in vergelijking met hun werkfrequenties. Een weerstand geeft een
+frequentie-onafhankelijke omzetting van spanning naar stroom.
+Een smoorspoel zet een wisselstroom om in een wisselspanning, waarbij de spanning
+hoger is naarmate de frequentie hoger is. Daarom vind je dit type koppeling niet in LFversterkers, maar wel in HF, waarbij de vereiste bandbreedte klein is ten opzichte van de
+frequentie. Vaak is de spoel opgenomen in een LC-kring.
+Dit laatste geldt ook voor transformatorkoppeling die je dan ook hoofdzakelijk in HFschakelingen vindt. In LF-schakelingen werd dit type koppeling lang geleden ook wel
+toegepast. Door de benodigde grootte (en zwaarte) van de trafo komt bij LF deze manier
+van koppelen eigenlijk niet meer voor, behalve heel zelden in balanseindtrappen.
+9.3.4 Klassen van instelling van versterkers
+We onderscheiden de klassen A, B, AB en C.
+Klasse A is de “normale” versterkerschakeling met werkpunt ergens op het midden van de
+belastingslijn. Kenmerken:
+•
+•
+•
+•
+
+De opgenomen gelijkstroom blijft met en zonder signaal ongeveer gelijk
+De vervorming is klein
+Toepassing in zowel HF- als LF-versterkerschakelingen
+Vermogensrendement hooguit 25 %.
+
+Steilheidsgrafiek voor een N-FET (Figuur 9.3-2):
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+Figuur 9.3-2. Geïdealiseerde voorstelling van een steilheidsgrafiek voor een N-FET in Klasse A. De
+steilheidsgrafiek is in werkelijkheid krom.
+
+In klasse B ligt het werkpunt bij het afknijppunt. Dat is de plaats waar de
+steilheidskarakteristiek op de horizontale as eindigt (Figuur 9.3-3).
+
+Figuur 9.3-3. Steilheidsgrafiek voor een N-FET in Klasse B.
+
+Alleen de positieve periodehelft wordt versterkt (bij een PNP-transistor is dat de
+negatieve periodehelft). Het versterkende element voert zonder signaal en gedurende de
+negatieve periodehelft geen stroom (bij een PNP-transistor de positieve periodehelft). Zo
+wordt het rendement verhoogd tot ongeveer 50%. De prijs is vervorming. Voor een
+smalbandige HF-versterker is dat niet altijd erg: met één of meer filters achter het
+versterkende element wordt de oorspronkelijke sinus gerestaureerd.
+In LF-versterkerschakelingen komt klasse B voor in de vorm van een balansschakeling
+met twee (vrijwel) gelijke elementen waarbij de één de positieve en de ander de negatieve
+periodehelft versterkt.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+Klasse AB ligt tussen A en B in. De negatieve periodehelft wordt nog een beetje
+meegenomen, de positieve volledig. Voor klein signaal is het klasse A, naarmate de
+amplitude groter is, steeds meer klasse B. Het rendement hangt af van het karakter:
+dichter bij A (lager) of dichter bij B (hoger). Zie Figuur 9.3-4.
+
+Figuur 9.3-4. Steilheidsgrafiek voor een N-kanaals FET in Klasse AB. Voor kleine signalen is dit klasse A,
+voor grote vrijwel klasse B.
+
+Bij klasse C ligt het nulpunt links van waar de karakteristiek op de horizontale as uitkomt.
+Dan wordt maar een deel van de positieve periodehelft versterkt (bij een PNP-transistor is
+dat natuurlijk de negatieve periodehelft) en de rest van het signaal verdwijnt. De
+vervorming is nog groter dan in klasse B, maar het rendement hoger (tot zo’n 75%). Klasse
+C wordt ook toegepast bij frequentievermenigvuldiging, want de vervorming levert veel
+en sterke harmonischen, wat dan juist de bedoeling is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4 Opgaven
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.1 Opgave 9-1
+In een in klasse A ingestelde LF-penthode geldt:
+Stelling 1: het schermrooster is positief ten opzichte van de kathode
+Stelling 2: het vangrooster is positief ten opzichte van de kathode
+Wat is juist
+A. Beide stellingen
+B. Geen van beide stellingen
+C. Alleen Stelling 1
+D. Alleen Stelling 2
+(F-examen voorjaar 2001, februari 2010 (1), november 2012, 07-09-2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.2 Opgave 9-2
+
++12V
+1000 
+
+9V
+
+2V
+
+De collectorstroom is
+A. 3 mA
+B. 1 mA
+C. 10 mA
+D. 0,1 mA
+(F-examen mei 2015 (2), 2-11-2016, januari 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.3 Opgave 9-3
+Voor een PNP-transistor in klasse A geldt:
+A. De collectorspanning is ten opzichte van de emitter positief
+B. De basisspanning is ten opzichte van de emitter positief
+C. De basisspanning is ten opzichte van de collector negatief
+D. De collectorspanning is ten opzichte van de emitter negatief
+(F-examen najaar 2001, oktober 2009, November 2015, 11-01-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.4 Opgave 9-4
+De hoogfrequent versterkertrap (schema X) is ingesteld in klasse C. De ingangsspanning Ui
+verloopt volgens schema Y.
+schema Y
+
+schema X
+
++
+
+Ui→
+
+1
+
+00
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+Ic
+
+-1
+2
+Ie→
+
+tekening 1
+
+Ui
+
+1
+
+00
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+tekening 2
+
+Ie→
+
+1
+
+00
+
+tekening 3
+
+Ie→
+
+1
+
+0
+
+tekening 4
+
+Ie→
+
+1
+
+0
+
+De collectorstroom verloopt zoals in
+A. Tekening 4
+B. Tekening 1
+C. Tekening 2
+D. Tekening 3
+(F-examen maart 2014, 01-03-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.5 Opgave 9-5
+Van een penthode, ingesteld in klasse A, is het
+verband tussen Ia en Ug gegeven bij een
+anodeweerstand van 5000 ohm. De
+spanningsversterking is:
+A. 20 maal
+B. 10 maal
+C. 250 maal
+D. 50 maal
+
+(F-examen najaar 2001, juni 2009, oktober 2009, april 2011, mei 2011 (1), mei 2014 (2),
+24-05-2017, 09-01-2019, november 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.6 Opgave 9-6
+Indien een transistor wordt gebruikt als frequentievermenigvuldiger, zal deze bij voorkeur
+worden ingesteld in:
+A. Klasse A/B
+B. Klasse A
+C. Klasse C
+D. Klasse B
+(F-examen najaar 2003, februari 2008 (2), februari 2010 (2), mei 2013 (1), mei 2016 (2),
+mei 2017 (2), 10-01-2018, 06-03-2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.7 Opgave 9-7
+De spanning over de diode
+is:
+A. 0,6 V
+B. 0,8 V
+C. 1,2 V
+D. 2 V
+
+(F-examen april 2008, mei 2009 (1), mei 2013 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.8 Opgave 9-8
+Een radiobuis staat ingesteld in klasse A.
+Bij sturing met een sinusvormig signaal is anodestroom aanwezig gedurende
+A. De gehele periode
+B. De halve periode
+C. Twee derde periode
+D. Een derde periode
+(F-examen april 2010, januari 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.9 Opgave 9-9
+Van een penthode, ingesteld in klasse A, is het verband tussen Ia en Ug bij een
+anodeweerstand van 5000 ohm:
+
+De spanningsversterking is
+A. 250 maal
+B. 50 maal
+C. 10 maal
+D. 20 maal
+(F-examen najaar 2001, juni 2009, oktober 2009, april 2001, mei 2011 (1), mei 2014 (2),
+mei 2017 (2), januari 2019, november 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.10 Opgave 9-10
+In een in klasse A ingestelde triode-versterker geldt:
+Stelling 1: de anode is positief ten opzichte van de kathode
+Stelling 2: het stuurrooster is positief ten opzichte van de kathode
+Wat is juist:
+A. Beide stellingen
+B. Geen van beide stellingen
+C. Alleen stelling 2
+D. Alleen stelling 1
+(F-examen najaar 2003, mei 2010 (1), november 2013 (1), november 2014 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.11 Opgave 9-11
+Als een NPN-transistor in klasse C is ingesteld en er is geen ingangssignaal aanwezig, dan:
+A. Loopt er maximale basisstroom
+B. Is het spanningsverschil tussen collector en emitter maximaal
+C. Loopt er geen stroom van collector naar emitter
+D. Loopt er maximale stroom van collector naar emitter
+
+(F-examen september 2009 (1), maart 2013)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.12 Opgave 9-12
+In een laagfrequent versterker in klasse A kunnen harmonischen ontstaan door:
+A. Te kleine uitsturing
+B. Te grote parasitaire capaciteiten
+C. Te grote uitsturing
+D. Te lage inwendige weerstand van de voeding
+
+(F-examen najaar 2001, april 2008)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.13 Opgave 9-13
+Een amateurzender wekt een minimaal vermogen aan harmonischen op door de eindtrap
+in te stellen in
+A. Klasse C
+B. Klasse B
+C. Klasse A
+D. Klasse A/B
+(F-examen juli 2009, mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.14 Opgave 9-14
+Aan de uitgang van een LF-versterker kunnen harmonischen van het ingangssignaal
+verschijnen, wanneer:
+A. Er parasitaire capaciteiten aanwezig zijn
+B. De bandbreedte beperkt is
+C. De versterking bij alle frequenties niet even groot is
+D. De versterker overstuurd wordt
+
+(F-examen februari 2011, maart 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.15 Opgave 9-15
+Een triode is ingesteld in het werkpunt P. De roosterspanning Ug is in de karakteristiek
+aangegeven. De triode werkt in
+A. Klasse A zonder roosterstroom
+B. Klasse B zonder roosterstroom
+C. Klasse B met roosterstroom
+D. Klasse C met roosterstroom
+
+(F-examen voorjaar 1998)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.16 Opgave 9-16
+De kans dat een zender te veel harmonischen uitstraalt, is het grootst als de eindtrap
+wordt ingesteld in
+A. Klasse A
+B. Klasse B
+C. Klasse C
+D. Klasse AB
+(F-examen najaar 2005, maart 2017, mei 2019 (2)))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.17 Opgave 9-17
+Een frequentieverdrievoudiger met een transistor wordt gestuurd met een frequentie f. In
+de collectorstroom zijn de volgende frequenties aanwezig:
+A. 1/3 f en 3f
+B. f en 3f
+C. f en 1/2 f
+D. f en 1/3 f
+(F-examen november 2008 (2), december 2008, oktober 2009, november 2018, januari
+2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.18 Opgave 9-18
+Een frequentieverdrievoudiger met één transistor wordt gestuurd met een 10 MHz
+signaal. In de collectorstroom zijn de volgende frequenties aanwezig:
+A. 10 MHz en 25 MHz
+B. 15 MHz en 30 MHz
+C. 5 MHz en 15 MHz
+D. 10 MHz en 30 MHz
+(F-examen november 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.19 Opgave 9-19
+
+Bij een ID = 4 mA en UGS = -3 V behoort een sourceweerstand RS van:
+A. 1 k
+B. 750 
+C. 375 
+D. 3 k
+(F-examen voorjaar 1993, najaar 1997, november 2008 (2), januari 2009, augustus 2009,
+juli 2010, maart 2014, september 2014 (1 en 2), 06-09-2017,mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.20 Opgave 9-20
+Een versterker heeft een bandbreedte van 1 MHz. Als twee van deze versterkers achter
+elkaar worden geschakeld, dan zal de bandbreedte:
+A. Verdubbelen
+B. Iets groter worden
+C. Gelijk blijven
+D. Iets kleiner worden
+(F-examen september 2013 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.21 Opgave 9-21
+
+A
+
++18 V
+
++
+in
+uit
+
+De eindtrap van de zender is ingesteld in:
+A. Klasse C
+B. Klasse D
+C. Klasse A/B
+D. Klasse A
+(F-examen mei 2011 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.22 Opgave 9-22
+
+Een LF-versterker die frequentie-lineair is tussen f1 en f2, heeft de:
+A. Karakteristiek 2
+B. Karakteristiek 3
+C. Karakteristiek 1
+D. Karakteristiek 4
+(F-examen november 2010 (1), april 2011, mei 2011 (3), September 2012, September 2014
+(2), mei 2015 (2), November 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.23 Opgave 9-23
+De versterkertrap werkt op 145 MHz. Wat is juist?
+A. C1 is een kunststof condensator.
+C2 is een elektrolytische condensator
+B. C1 is een elektrolytische condensator
+C2 is een keramische condensator
+C. C1 is een keramische condensator
+C2 is een keramische condensator
+D. C1 is een keramische condensator
+C2 is een elektrolytische condensator
+
+(F-examen oktober 2009, april 2010, mei 2011 (1), november 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.24 Opgave 9-24
+Aan de uitgang van een LF-versterker kunnen harmonischen van het ingangssignaal
+verschijnen, wanneer:
+A. De bandbreedte beperkt is
+B. Er parasitaire capaciteiten aanwezig zijn
+C. De versterking bij alle frequenties niet even groot is
+D. De versterker niet-lineair is
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.4.25 Opgave 9-25
+Het meest geschikt als frequentievermenigvuldigtrap is een:
+A. Versterker in klasse C
+B. Mengtrap
+C. Lineaire versterker
+D. Oscillator
+(F-examen juni 2009, augustus 2010, maart 2014, november 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5 Uitwerkingen
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.1 Uitwerking van Opgave 9-1
+In een in Klasse A ingestelde LF-penthode geldt:
+Stelling 1: het schermrooster is positief ten opzichte van de kathode
+Stelling 2: het vangrooster is positief ten opzichte van de kathode
+Wat is juist
+A. Beide stellingen
+B. Geen van beide stellingen
+C. Alleen Stelling 1
+D. Alleen Stelling 2
+Uitwerking
+We beginnen met het schema hieronder om de vraag in beeld te krijgen. Het is meteen
+een kleine herhaling van een stukje cursusstof uit hoofdstuk 8.
+250 V (bijvoorbeeld)
+Anodeweerstand
+
+Schermroosterweerstand
+
+Rem- vang- of keerrooster.
+Verbonden met kathode.
+Schermrooster
+Stuurrooster
+
+Schermroosterspanning. Ontkoppeld via
+schermroosterweerstand en -condensator
+Schermroosterontkoppelcondensator
+gloeidraad (Eng.: filament)
+
+Roosterweerstand.
+Stuurroosterspanning is 0, dus
+negatief t.o.v. kathode.
+
+Kathodeweerstand zorgt voor
+licht positieve kathodespanning
+
+Het schermrooster is met de schermroosterweerstand verbonden met de plus en daardoor
+positief ten opzichte van de kathode. Ook met een heel grote weerstand blijft dat zo.
+Stelling 1 is dus juist
+Het vangrooster (remrooster, keerrooster) is altijd verbonden met de kathode en heeft dus
+dezelfde spanning. Dan is Stelling 2 onjuist.
+Conclusie: antwoord C is goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.2 Uitwerking van Opgave 9-2
++12V
+
+1000 
+
+9V
+
+2V
+
+De collectorstroom is
+A. 3 mA
+B. 1 mA
+C. 10 mA
+D. 0,1 mA
+Uitwerking
+De voedingsspanning is 12 V. De emitterspanning is 2 V en over de transistor staat 9V.
+Dan is de collectorspanning 12V – 2V – 9V= 11V. Over de collectorweerstand van 1000
+(is 1 k) staat dan volgens de tweede wet van Kirchhoff 12V - 11V = 1V. De wet van Ohm
+levert het antwoord op de vraag: 1 mA. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.3 Uitwerking van Opgave 9-3
+Voor een PNP-transistor in klasse A geldt:
+A. De collectorspanning is ten opzichte van de emitter positief
+B. De basisspanning is ten opzichte van de emitter positief
+C. De basisspanning is ten opzichte van de collector negatief
+D. De collectorspanning is ten opzichte van de emitter negatief
+
+Uitwerking
+Let wel: het gaat hier om een PNP-transistor, niet over een NPN. Het
+schemasymbool voor een PNP-transistor met aanduidingen van
+emitter, basis en collector staat in de figuur hiernaast.
+
+c
+b
+
+De (technische) stroomrichting is die van de pijl in de emitter, op
+dezelfde manier als bij een diode.
+
+e
+
+Daaruit volgt dat de emitter aan de + ligt, de basis 1x de drempelspanning van de emitterbasisdiode negatiever is en de collectorspanning nog veel negatiever. Antwoord D is dus
+goed.
+Opmerkingen
+Hoe zit het met de andere antwoorden? Antwoorden A, B en C hebben allemaal
+betrekking op een NPN-transistor.
+Een waarom die klasse A? Een gegeven dat niet helemaal overbodig is. In klasse C kunnen
+bijvoorbeeld basisspanning en emitterspanning gelijk zijn. Bij een PNP kan de
+basisspanning zelfs positief zijn ten opzichte van de emitter.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.4 Uitwerking van Opgave 9-4
+De hoogfrequent versterkertrap (schema X) is ingesteld in klasse C. De ingangsspanning Ui
+verloopt volgens schema Y.
+schema Y
+
+schema X
+
++
+
+Ui→
+
+1
+
+00
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+Ic
+
+-1
+2
+Ie→
+
+tekening 1
+
+Ui
+
+1
+
+00
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+0
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+4t→
+
+Ie→
+
+1
+
+tekening 2
+
+00
+
+tekening 3
+
+Ie→
+
+1
+
+0
+
+tekening 4
+
+Ie→
+
+1
+
+0
+
+De collectorstroom verloopt zoals in
+A. Tekening 4
+B. Tekening 1
+C. Tekening 2
+D. Tekening 3
+Uitwerking
+Om te beginnen: let op dat er wordt gesproken over ingangsspanning en collectorstroom.
+Ook hier geldt: goed lezen. Bij klasse C geldt dat een NPN-transistor alleen op het hoogste
+deel van een positieve periode geleidt en er dus collectorstroom is. De rest van de tijd
+spert de transistor. De enige tekening die hieraan voldoet, is nummer 3.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.5 Uitwerking van Opgave 9-5
+Van een penthode, ingesteld in klasse A, is het
+verband tussen Ia en Ug gegeven bij een
+anodeweerstand van 5000 ohm. De
+spanningsversterking is:
+A. 20 maal
+B. 10 maal
+C. 250 maal
+D. 50 maal
+
+Uitwerking
+De spanningsversterking Au in dit soort schakeling
+bereken je op dezelfde manier als bij een FET zonder sourceweerstand volgens de
+vergelijking
+𝐴𝑢 =
+
+𝑅a
+= 𝑅a 𝑆
+1⁄
+𝑆
+
+De grootheid RD van de FET wordt bij een buis natuurlijk Ra. S is de steilheid, net als bij de
+FET. Volgens de grafiek loopt de anodestroom Ia met 20 mA op als de roosterspanning Ug
+verandert van -2V naar 0V, dus 2 V omhoog. Dan is S = 20 mA per 2 V en dat is hetzelfde als
+10 mA/V. De anodeweerstand Ra bedraagt 5000  (gegeven). 1/S = 1V/10mA = 1V/0,01A =
+100. Dan is het verder invullen: 5000⁄100 = 50. Dat is antwoord D.
+Opmerking
+Houd goed in de gaten dat 1/S een weerstand is! S is stroom/spanning, zodat 1/S
+spanning/stroom is en volgens de wet van Ohm komt daar weerstand uit.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.6 Uitwerking van Opgave 9-6
+Indien een transistor wordt gebruikt als frequentievermenigvuldiger, zal deze bij voorkeur
+worden ingesteld in:
+De weerstand van de draad
+A. Klasse A/B
+B. Klasse A
+C. Klasse C
+D. Klasse B
+Uitwerking
+Om een frequentie te vermenigvuldigen, versterk je niet de grondfrequentie, maar een
+harmonische. Om sterke harmonischen te krijgen, moet een in oorsprong sinusvormig
+signaal flink worden vervormd. Dat lukt het best met een versterker in klasse C, want die
+vervormt het meest. Het goede antwoord is dus C.
+Opmerking
+In alle schakelingen ontstaat altijd enige vervorming. Daarom staat er in de vraag “bij
+voorkeur”.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.7 Uitwerking van Opgave 9-7
+De spanning over de diode
+is:
+A. 0,6 V
+B. 0,8 V
+C. 1,2 V
+D. 2 V
+
+Uitwerking
+Voor de oplossing van dit soort vraagstukken is de
+belastingslijn het aangewezen hulpmiddel.
+Die vinden we met behulp van R1 die in dit geval 40 
+is en van de tweede wet van Kirchhoff die zegt dat de
+som van de spanningen over weerstand en diode gelijk
+is aan de bronspanning van 2 V.
+Als de spanning over de diode 0 V zou zijn, dan staat
+over R1 2 V en is de stroom 50 mA. Is de spanning over
+de diode 2 V, dus gelijk aan de bronspanning, dan staat
+over R1 een spanning van 0 V en is de stroom ook 0.
+Deze twee uitkomsten geven de uiteinden van de
+belastingslijn. Hij is in rood weergegeven in de figuur
+hiernaast. Het snijpunt van de diodekarakteristiek en
+de belastingslijn ligt bij U =0,8 V en I = 30 mA. Dat
+betekent antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.8 Uitwerking van Opgave 9-8
+Een radiobuis staat ingesteld in klasse A.
+Bij sturing met een sinusvormig signaal is anodestroom aanwezig gedurende
+A. De gehele periode
+B. De halve periode
+C. Twee derde periode
+D. Een derde periode
+Uitwerking
+Bij instelling in klasse A wordt elk deel van een signaal bij benadering evenveel versterkt.
+Het aangeboden signaal komt daardoor met heel weinig vervorming op de uitgang van het
+versterkende element te staan. Dat kan alleen als het versterkende element, in dit geval de
+buis, gedurende de volle sinusperiode stroom voert. Dat betekent dat antwoord A het
+juiste is.
+Opmerking
+Door instelling in klasse A wordt een belangrijk deel van het door de buis opgenomen
+vermogen niet in signaal omgezet. Het gevolg is een laag rendement (tot 25%) in klasse A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.9 Uitwerking van Opgave 9-9
+Van een penthode, ingesteld in klasse A, is het verband tussen Ia en Ug bij een
+anodeweerstand van 5000 ohm:
+
+De spanningsversterking is
+A. 250 maal
+B. 50 maal
+C. 10 maal
+D. 20 maal
+Uitwerking
+De spanningsversterking is bij benadering gelijk aan anodeweerstand gedeeld door de som
+van kathodeweerstand en 1/S, waarin S staat voor steilheid. Er wordt in de opgave niet
+gerept over een kathodeweerstand. We mogen er daarom van uitgaan dat die er niet is. S
+is af te lezen uit de karakteristiek Ia tegen Ug in de grafiek. Voor Ug tussen -1 V en 0 V
+varieert Ia tussen 10 mA naar 20 mA. Dat komt neer op: S = 10 mA/V. Daaruit volgt dat
+1/S = 100 Ω. Nu weer terug naar het begin van de uitwerking: de anodeweerstand delen
+door 1/S: 5000 ⁄100  = 50. De spanningsversterking bedraagt dus 50 maal. Antwoord
+B is goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.10 Uitwerking van Opgave 9-10
+In een in klasse A ingestelde triode-versterker geldt:
+Stelling 1: de anode is positief ten opzichte van de kathode
+Stelling 2: het stuurrooster is positief ten opzichte van de kathode
+Wat is juist:
+A. Beide stellingen
+B. Geen van beide stellingen
+C. Alleen stelling 2
+D. Alleen stelling 1
+Uitwerking 1 (geldt voor audioversterkers en de meeste HF-versterkers)
+In een triode is de anode positief ten opzichte van de kathode omdat er anders geen
+stroom door de buis loopt. Het stuurrooster hoort bij een klasse A-versterker iets negatief
+ten opzichte van de kathode te zijn om binnen het min of meer rechte deel van de
+steilheidskarakteristiek (Ia -Ug karakteristiek) te blijven. Dat betekent dat stelling 1 deugt
+en stelling 2 niet. Antwoord D. Dat is ook het “officiële” antwoord. Maar kijk ook bij
+uitwerking 2.
+Uitwerking 2 (voor enkele HF-triodes)
+Er bestaan zendtriodes die zijn ontworpen om met een positief stuurrooster te werken. Als
+we die bij de opgave betrekken, is plotseling antwoord A het juiste antwoord. Een
+voorbeeld is de Eimac 3-500Z (3-500Z data sheet (w7brs.com) of 3-500Z Amplifier Project
+(moneysmith.com), beide Engelstalig). Als je het rooster 0 V geeft, staat het ding in klasse
+AB; voor klasse A moet de roosterspanning iets positief zijn. Toegegeven, dit zijn
+bijzondere gevallen, maar ze bestaan.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.11 Uitwerking van Opgave 9-11
+Als een NPN-transistor in klasse C is ingesteld en er is geen ingangssignaal aanwezig, dan:
+A. Loopt er maximale basisstroom
+B. Is het spanningsverschil tussen collector en emitter maximaal
+C. Loopt er geen stroom van collector naar emitter
+D. Loopt er maximale stroom van collector naar emitter
+Uitwerking
+Als een transistor, NPN of PNP, in klasse C is ingesteld, loopt er zonder signaal geen
+stroom doorheen. Geen basisstroom, geen emitterstroom en geen collectorstroom. Hij
+wordt pas “tot leven gewekt” als er signaal is. Dat leidt tot vervorming, maar ook tot een
+hoog rendement (tot 75%). Het enige antwoord dat hierop past, is antwoord C
+Opmerking
+Ditzelfde geldt voor FET’s en buizen in klasse C.
+Antwoord B is ook verleidelijk. Als er geen stroom loopt, is de spanning over de transistor
+gelijk aan de voedingsspanning. Maar is die spanning dan ook maximaal? Bij een Ohmse
+belasting wel, maar bij een inductieve belasting kan de spanning tussen collector en
+emitter hoger uitslingeren dan de voedingsspanning. Antwoord B is dus een instinker.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.12 Uitwerking van Opgave 9-12
+In een laagfrequent versterker in klasse A kunnen harmonischen ontstaan door:
+A. Te kleine uitsturing
+B. Te grote parasitaire capaciteiten
+C. Te grote uitsturing
+D. Te lage inwendige weerstand van de voeding
+
+Uitwerking
+In een in klasse A ingestelde LF-versterker komt doorgaans de hele periode (360º)
+onvervormd en versterkt op de uitgang. Zonder vervorming geen harmonischen, of ze
+moeten op de ingang al in het signaal hebben gezeten. Maar als het signaal zo sterk is, dat
+het uitgangssignaal niet meer goed past tussen voedingsspanning en massa (“het signaal
+loopt vast op de voedingsspanning”), dan krijgt het een afgeplatte top of een afgeplatte
+onderkant (of beide). Dat heet vervorming door oversturing. Bij vervorming ontstaan
+altijd harmonischen. Dat wordt dus antwoord C.
+Opmerking
+Zie ook de uitwerkingen van Opgave 9-14 en Opgave 9-24.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.13 Uitwerking van Opgave 9-13
+Een amateurzender wekt een minimaal vermogen aan harmonischen op door de eindtrap
+in te stellen in
+A. Klasse C
+B. Klasse B
+C. Klasse A
+D. Klasse A/B
+Uitwerking
+Een eindtrap in klasse A wekt minder harmonischen op dan alle andere klassen van
+uitzending. De prijs is een relatief laag rendement (maximaal ongeveer 25%). Antwoord C
+is daarom juist.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.14 Uitwerking van Opgave 9-14
+Aan de uitgang van een LF-versterker kunnen harmonischen van het ingangssignaal
+verschijnen, wanneer:
+A. Er parasitaire capaciteiten aanwezig zijn
+B. De bandbreedte beperkt is
+C. De versterking bij alle frequenties niet even groot is
+D. De versterker overstuurd wordt
+Uitwerking
+Een versterkertrap maakt hoofdzakelijk harmonischen aan als hij wordt overstuurd, dat
+wil zeggen als het ingangssignaal zo sterk is dat de voedingsspanning het uitgangssignaal
+gaat begrenzen. Dan ontstaan afgeplatte bovenkanten. Afgeplatte onderkanten kunnen
+ook ontstaan als de gelijkstroominstelling zodanig is, dat dat het signaal eerder aan de
+onderkant dan aan de bovenkant wordt begrensd. Capaciteiten, bandbreedte of
+frequentie-afhankelijke versterking hebben met vervorming in een klasse A-versterker
+niets van doen. Antwoord D.
+Opmerking
+Zie ook de uitwerkingen van Opgave 9-12 en Opgave 9-24.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.15 Uitwerking van Opgave 9-15
+Een triode is ingesteld in het werkpunt P. De roosterspanning Ug is in de karakteristiek
+aangegeven. De triode werkt in
+A. Klasse A zonder roosterstroom
+B. Klasse B zonder roosterstroom
+C. Klasse B met roosterstroom
+D. Klasse C met roosterstroom
+
+Uitwerking
+De roosterspanning is ingesteld op -10 V (punt P op de Ug – as). Punt P is het afknijppunt
+van de triode. Dat is het punt waarbij de anodestroom net niet meer loopt. Bij elke minder
+negatieve spanning dan op punt P (rechts ervan) loopt die stroom wel. De rechter halve
+periode wordt versterkt, de linker wordt afgesneden. Dat betekent dat deze buis in klasse
+B staat. Omdat de roosterspanning nergens positief wordt (= rechts van de verticale as
+komt), is er nooit roosterstroom. Dat leidt tot antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.16 Uitwerking van Opgave 9-16
+De kans dat een zender te veel harmonischen uitstraalt, is het grootst als de eindtrap
+wordt ingesteld in
+A. Klasse A
+B. Klasse B
+C. Klasse C
+D. Klasse AB
+Uitwerking
+De kans dat een zender te veel harmonischen uitstraalt, is het grootst als hij wordt
+ingesteld in klasse C, want die veroorzaakt de meeste vervorming doordat maar een klein
+deel van een volle sinusperiode wordt doorgegeven en versterkt. Antwoord C is daarom
+het goede antwoord.
+Opmerking
+Die harmonischen worden weer weggefilterd door achter de eindtrap een
+laagdoorlaatfilter en/of afgestemde kring op te nemen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.17 Uitwerking van Opgave 9-17
+Een frequentieverdrievoudiger met een transistor wordt gestuurd met een frequentie f. In
+de collectorstroom zijn de volgende frequenties aanwezig:
+A. 1/3 f en 3f
+B. f en 3f
+C. f en 1/2 f
+D. f en 1/3 f
+(F-examen november 2008 (2), december 2008, oktober 2009, november 2018, januari
+2020)
+Uitwerking
+De transistor zal zo niet-lineair mogelijk zijn ingesteld, want dan ontstaan de meeste
+harmonischen. In de praktijk zal dat vrijwel altijd klasse C zijn. Die harmonischen zijn
+nodig als er een frequentie moet worden vermenigvuldigd. Een harmonische heeft n maal
+de frequentie van het oorspronkelijke signaal. Daarbij is n een geheel getal dat groter is
+dan 1. Dus 2, 3, 4, enz. Daarmee vallen alle antwoorden met 1/2 f en 1/3 f af. Het enige
+antwoord dat overblijft, is antwoord B en dat is een goed antwoord..
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.18 Uitwerking van Opgave 9-18
+Een frequentieverdrievoudiger met één transistor wordt gestuurd met een 10 MHz
+signaal. In de collectorstroom zijn de volgende frequenties aanwezig:
+A. 10 MHz en 25 MHz
+B. 15 MHz en 30 MHz
+C. 5 MHz en 15 MHz
+D. 10 MHz en 30 MHz
+Uitwerking
+De transistor in een frequentievermenigvuldiger staat meestal in klasse C. Dan worden de
+sterkste harmonischen geproduceerd. De frequentie van een harmonische is altijd een
+geheel maal die van de oorspronkelijke frequentie: 2x, 3x, enz. 1x is eigenlijk geen
+harmonische, maar de oorspronkelijke frequentie, hoewel deze ook wel de 1e harmonische
+wordt genoemd. Een betere benaming is grondfrequentie. Omdat de oorspronkelijke 10
+MHz alleen maar met een geheel getal kan worden vermenigvuldigd, vallen alle
+antwoorden af met getallen die niet eindigen op een 0. Dan blijft er maar ééntje over en
+dat is antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.19 Uitwerking van Opgave 9-19
+
+Bij een ID = 4 mA en UGS = -3 V behoort een sourceweerstand RS van:
+A. 1 k
+B. 750 
+C. 375 
+D. 3 k
+Uitwerking
+Om een weerstand te berekenen, zijn stroom en spanning nodig. De stroom is gegeven als
+ID. Wat via de drain loopt, loopt ook door de source, dus ID = 4 mA. De spanning komt uit
+het werkpunt P in de grafiek. P ligt op de lijn van UGS=-3 V.
+Dan wordt de vraag teruggebracht tot: hoe groot is de weerstand RS, waarbij een spanning
+van 3 V over de weerstand een stroom van 4 mA veroorzaakt. 𝑅𝑆 = 𝑈⁄𝐼 = 3V⁄4mA =
+0,75 k. Gebruik V en mA en je krijgt k. 0,75 k = 750 . Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.20 Uitwerking van Opgave 9-20
+Een versterker heeft een bandbreedte van 1 MHz. Als twee van deze versterkers achter
+elkaar worden geschakeld, dan zal de bandbreedte:
+A. Verdubbelen
+B. Iets groter worden
+C. Gelijk blijven
+D. Iets kleiner worden
+Uitwerking
+Als twee gelijke bandfilters achter elkaar worden geschakeld, zullen ze elkaars werking
+versterken. Daarmee wordt hun gezamenlijke bandbreedte kleiner.
+In cijfers: bandbreedte is de frequentie-afstand tussen de twee -3 dB-punten van de
+doorlaat. Twee doorlaten in serie betekent dat op die frequenties de demping van -3 dB
+naar -6 dB gaat en dat de nieuwe bandbreedte ligt tussen de vroegere -1,5 dB-punten die
+nu samen -3 dB maken. De frequentieruimte tussen de vroegere -1,5 dB-punten is minder
+dan die tussen de vroegere -3 dB-punten. De bandbreedte wordt dus kleiner. Antwoord D.
+Opmerking
+Een versterker als in de opgave omschreven is ook op te vatten als een bandfilter, maar
+dan één met heel grote bandbreedte. Zet twee gelijke bandfilters in serie en hun
+gezamenlijke bandbreedte wordt kleiner.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.21 Uitwerking van Opgave 9-21
+
+A
+
++18 V
+
++
+in
+uit
+
+De eindtrap van de zender is ingesteld in:
+A. Klasse C
+B. Klasse D
+C. Klasse A/B
+D. Klasse A
+Uitwerking
+De basis van de NPN-transistor is via de spoel van de ingangskring verbonden met aarde
+en heeft dus een gelijkspanningsinstelling met 0 V. Bovendien staat er op de emitter ook
+nog een positieve spanning, waardoor de transistor nog verder in de spertoestand wordt
+gedrukt. Daarmee staat de transistor overduidelijk in klasse C; dat is antwoord A.
+Opmerking 1
+De rest van de schakeling (filter naar de uitgang) heeft niets met de vraagstelling te
+maken. Een voorbeeld van een opgave waarbij de kandidaat zich moet beperken tot de
+kern van de vraagstelling en zich niet moet laten afleiden door de franje eromheen.
+Opmerking 2
+In de praktijk heeft de eindtrap van een zender nooit een emitterweerstand. Zo’n
+weerstand kost alleen maar vermogen dat in warmte wordt omgezet in plaats van in HFvermogen. De emitter ligt daarom bij een goed ontworpen transistoreindtrap altijd aan 0
+V (“aarde”).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.22 Uitwerking van Opgave 9-22
+
+Een LF-versterker die frequentie-lineair is tussen f1 en f2, heeft de:
+A. Karakteristiek 2
+B. Karakteristiek 3
+C. Karakteristiek 1
+D. Karakteristiek 4
+Uitwerking
+Frequentie-lineair betekent dat de versterking voor een aaneengesloten frequentiegebied
+(nagenoeg) dezelfde is. In dit geval zou dat tussen de frequenties tussen f1 en f2 het geval
+moeten zijn. Als we de vier karakteristieken bekijken, is er maar één die daaraan voldoet
+en dat is nummer 2. Antwoord A dus.
+Opmerkingen
+Karakteristiek 1 voldoet niet omdat die grafiek weliswaar recht is, maar schuin oploopt.
+Hoe hoger de frequentie, des te meer versterking.
+Karakteristieken 3 en 4 halen het gevraagde frequentiebereik niet. Karakteristiek 3 links
+nog wel, karakteristiek 4 is aan beide kanten te krap.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.23 Uitwerking van Opgave 9-23
+De versterkertrap werkt op 145 MHz. Wat is juist?
+A. C1 is een kunststof condensator.
+C2 is een elektrolytische condensator
+B. C1 is een elektrolytische condensator
+C2 is een keramische condensator
+C. C1 is een keramische condensator
+C2 is een keramische condensator
+D. C1 is een keramische condensator
+C2 is een elektrolytische condensator
+
+Uitwerking
+De frequentie van 145 MHz is hoog. Voor die frequentie zijn elektrolytische
+condensatoren (veel) te traag. Die komen van pas bij gelijkspanningen en laagfrequente
+wisselspanningen. Keramische condensatoren hebben weliswaar een kleinere capaciteit,
+maar voor hoge frequenties als 145 MHz zijn die ruim toereikend.
+Er is maar één antwoord zonder elektrolytische condensatoren, en dat is antwoord C. Dat
+is dan ook het goede antwoord.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.24 Uitwerking van Opgave 9-24
+Aan de uitgang van een LF-versterker kunnen harmonischen van het ingangssignaal
+verschijnen, wanneer:
+A. De bandbreedte beperkt is
+B. Er parasitaire capaciteiten aanwezig zijn
+C. De versterking bij alle frequenties niet even groot is
+D. De versterker niet-lineair is
+Uitwerking
+Harmonischen ontstaan als vervorming optreedt. Vervorming ontstaat als een deel van
+een signaal meer of minder wordt versterkt dan een ander. Dat heet niet-lineariteit en
+hangt samen met een kromme karakteristiek. Dat draait uit op antwoord D
+De figuur hieronder laat het zien met een driehoeksspanning. Daaraan is (niet-)lineariteit
+beter te zien dan aan een sinus. De zwarte driehoeksspanning onder geeft via de blauwe
+rechte karakteristiek een volledig gelijkvormige blauwe driehoeksspanning. De rode
+komt er via de kromme karakteristiek zichtbaar vervormd uit. De onderste fasehelft is
+door de flauwere helling van de karakteristiek in elkaar gedrukt ten opzichte van de
+bovenste die juist verticaal uitgerekt is.
+
+Karakteristiek krom
+Karakteristiek recht
+
+0
+0
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 9. Examenopgaven 20220516
+
+9.5.25 Uitwerking van Opgave 9-25
+Het meest geschikt als frequentievermenigvuldigtrap is een:
+A. Versterker in klasse C
+B. Mengtrap
+C. Lineaire versterker
+D. Oscillator
+Uitwerking
+Voor frequentievermenigvuldiging zijn harmonischen nodig, want hun frequenties zijn
+steeds een geheel veelvoud (*2, *3, *4, enzovoort) van de oorspronkelijke frequentie. Een
+schakeling voor frequentievermenigvuldiging moet dan ook zo sterk mogelijke
+harmonischen produceren. Met andere woorden: de schakeling moet zoveel mogelijk
+vervorming produceren. Aan die eis voldoet een schakeling in klasse C meer dan alle
+andere (A, B en AB).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.9.4 uitgezonderd)
+
+9-60
+
+

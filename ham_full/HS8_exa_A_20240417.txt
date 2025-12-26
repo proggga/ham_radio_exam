@@ -1,0 +1,3468 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+Inhoudsopgave
+8
+
+Uitgewerkte examenopgaven bij Hoofdstuk 8, deel A (opg. 1-50).............................. 8-5
+8.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ..............8-5
+
+8.2
+
+Enkele opmerkingen ............................................................................................... 8-6
+
+8.3
+
+Formularium ............................................................................................................8-6
+
+8.3.1
+
+Soorten versterkende elementen .....................................................................8-6
+
+8.3.2
+
+Overeenkomsten .............................................................................................. 8-7
+
+8.3.3
+
+Verschillen ........................................................................................................8-7
+
+8.3.4
+
+De drie basisschakelingen in schemavorm .....................................................8-8
+
+8.3.5
+
+De drie basisschakelingen samengevat in tabelvorm en per element. ........8-10
+
+8.3.6
+
+Spanningsverdeling over een versterkend element. ....................................8-11
+
+8.4
+
+Opgaven .................................................................................................................8-13
+
+8.4.1
+
+Opgave 8-1 ......................................................................................................8-14
+
+8.4.2
+
+Opgave 8-2 ......................................................................................................8-15
+
+8.4.3
+
+Opgave 8-3 ......................................................................................................8-16
+
+8.4.4
+
+Opgave 8-4 ......................................................................................................8-17
+
+8.4.5
+
+Opgave 8-5 ......................................................................................................8-18
+
+8.4.6
+
+Opgave 8-6 ......................................................................................................8-19
+
+8.4.7
+
+Opgave 8-7 ......................................................................................................8-20
+
+8.4.8
+
+Opgave 8-8 ......................................................................................................8-21
+
+8.4.9
+
+Opgave 8-9 ......................................................................................................8-22
+
+8.4.10
+
+Opgave 8-10 ................................................................................................ 8-23
+
+8.4.11
+
+Opgave 8-11 ................................................................................................ 8-24
+
+8.4.12
+
+Opgave 8-12 ................................................................................................ 8-25
+
+8.4.13
+
+Opgave 8-13 ................................................................................................ 8-26
+
+8.4.14
+
+Opgave 8-14 ................................................................................................ 8-27
+
+8.4.15
+
+Opgave 8-15 ................................................................................................ 8-28
+
+8.4.16
+
+Opgave 8-16 ................................................................................................ 8-29
+
+8.4.17
+
+Opgave 8-17 ................................................................................................ 8-30
+
+8.4.18
+
+Opgave 8-18 ................................................................................................ 8-31
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.19
+
+Opgave 8-19 ................................................................................................ 8-32
+
+8.4.20
+
+Opgave 8-20 ................................................................................................ 8-33
+
+8.4.21
+
+Opgave 8-21 ................................................................................................ 8-34
+
+8.4.22
+
+Opgave 8-22 ................................................................................................ 8-35
+
+8.4.23
+
+Opgave 8-23 ................................................................................................ 8-36
+
+8.4.24
+
+Opgave 8-24 ................................................................................................ 8-37
+
+8.4.25
+
+Opgave 8-25 ................................................................................................ 8-38
+
+8.4.26
+
+Opgave 8-26 ................................................................................................ 8-39
+
+8.4.27
+
+Opgave 8-27 ................................................................................................ 8-40
+
+8.4.28
+
+Opgave 8-28 ................................................................................................ 8-41
+
+8.4.29
+
+Opgave 8-29 ................................................................................................ 8-42
+
+8.4.30
+
+Opgave 8-30 ................................................................................................ 8-43
+
+8.4.31
+
+Opgave 8-31 ................................................................................................ 8-44
+
+8.4.32
+
+Opgave 8-32 ................................................................................................ 8-45
+
+8.4.33
+
+Opgave 8-33 ................................................................................................ 8-46
+
+8.4.34
+
+Opgave 8-34 ................................................................................................ 8-47
+
+8.4.35
+
+Opgave 8-35 ................................................................................................ 8-48
+
+8.4.36
+
+Opgave 8-36 ................................................................................................ 8-49
+
+8.4.37
+
+Opgave 8-37 ................................................................................................ 8-50
+
+8.4.38
+
+Opgave 8-38 ................................................................................................ 8-51
+
+8.4.39
+
+Opgave 8-39 ................................................................................................ 8-52
+
+8.4.40
+
+Opgave 8-40 ................................................................................................ 8-53
+
+8.4.41
+
+Opgave 8-41 ................................................................................................ 8-54
+
+8.4.42
+
+Opgave 8-42 ................................................................................................ 8-55
+
+8.4.43
+
+Opgave 8-43 ................................................................................................ 8-56
+
+8.4.44
+
+Opgave 8-44 ................................................................................................ 8-57
+
+8.4.45
+
+Opgave 8-45 ................................................................................................ 8-58
+
+8.4.46
+
+Opgave 8-46 ................................................................................................ 8-59
+
+8.4.47
+
+Opgave 8-47 ................................................................................................ 8-60
+
+8.4.48
+
+Opgave 8-48 ................................................................................................ 8-61
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.49
+
+Opgave 8-49 ................................................................................................ 8-62
+
+8.4.50
+
+Opgave 8-50 ................................................................................................ 8-63
+
+8.5
+
+Uitwerkingen .........................................................................................................8-64
+
+8.5.1
+
+Uitwerking van Opgave 8-1 ..........................................................................8-65
+
+8.5.2
+
+Uitwerking van Opgave 8-2 ..........................................................................8-66
+
+8.5.3
+
+Uitwerking van Opgave 8-3 ..........................................................................8-67
+
+8.5.4
+
+Uitwerking van Opgave 8-4 ..........................................................................8-68
+
+8.5.5
+
+Uitwerking van Opgave 8-5 ..........................................................................8-69
+
+8.5.6
+
+Uitwerking van Opgave 8-6 ..........................................................................8-70
+
+8.5.7
+
+Uitwerking van Opgave 8-7 ..........................................................................8-71
+
+8.5.8
+
+Uitwerking van Opgave 8-8 ..........................................................................8-72
+
+8.5.9
+
+Uitwerking van Opgave 8-9 ..........................................................................8-73
+
+8.5.10
+
+Uitwerking van Opgave 8-10 .....................................................................8-74
+
+8.5.11
+
+Uitwerking van Opgave 8-11 .....................................................................8-75
+
+8.5.12
+
+Uitwerking van Opgave 8-12 .....................................................................8-76
+
+8.5.13
+
+Uitwerking van Opgave 8-13 .....................................................................8-77
+
+8.5.14
+
+Uitwerking van Opgave 8-14 .....................................................................8-78
+
+8.5.15
+
+Uitwerking van Opgave 8-15 .....................................................................8-79
+
+8.5.16
+
+Uitwerking van Opgave 8-16....................................................................8-80
+
+8.5.17
+
+Uitwerking van Opgave 8-17 .....................................................................8-81
+
+8.5.18
+
+Uitwerking van Opgave 8-18 .....................................................................8-82
+
+8.5.19
+
+Uitwerking van Opgave 8-19 .....................................................................8-83
+
+8.5.20
+
+Uitwerking van Opgave 8-20 .....................................................................8-84
+
+8.5.21
+
+Uitwerking van Opgave 8-21 .....................................................................8-85
+
+8.5.22
+
+Uitwerking van Opgave 8-22 .....................................................................8-86
+
+8.5.23
+
+Uitwerking van Opgave 8-23 .....................................................................8-87
+
+8.5.24
+
+Uitwerking van Opgave 8-24 .....................................................................8-88
+
+8.5.25
+
+Uitwerking van Opgave 8-25 .....................................................................8-89
+
+8.5.26
+
+Uitwerking van Opgave 8-26 .....................................................................8-90
+
+8.5.27
+
+Uitwerking van Opgave 8-27 .....................................................................8-91
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.28
+
+Uitwerking van Opgave 8-28 .....................................................................8-92
+
+8.5.29
+
+Uitwerking van Opgave 8-29 .....................................................................8-93
+
+8.5.30
+
+Uitwerking van Opgave 8-30 .....................................................................8-94
+
+8.5.31
+
+Uitwerking van Opgave 8-31 .....................................................................8-95
+
+8.5.32
+
+Uitwerking van Opgave 8-32 .....................................................................8-96
+
+8.5.33
+
+Uitwerking van Opgave 8-33 .....................................................................8-97
+
+8.5.34
+
+Uitwerking van Opgave 8-34 .....................................................................8-98
+
+8.5.35
+
+Uitwerking van Opgave 8-35 .....................................................................8-99
+
+8.5.36
+
+Uitwerking van Opgave 8-36 ...................................................................8-100
+
+8.5.37
+
+Uitwerking van Opgave 8-37 ...................................................................8-101
+
+8.5.38
+
+Uitwerking van Opgave 8-38 ...................................................................8-102
+
+8.5.39
+
+Uitwerking van Opgave 8-39 ...................................................................8-103
+
+8.5.40
+
+Uitwerking van Opgave 8-40 ...................................................................8-104
+
+8.5.41
+
+Uitwerking van Opgave 8-41 ...................................................................8-105
+
+8.5.42
+
+Uitwerking van Opgave 8-42 ...................................................................8-106
+
+8.5.43
+
+Uitwerking van Opgave 8-43 ...................................................................8-107
+
+8.5.44
+
+Uitwerking van Opgave 8-44 ...................................................................8-108
+
+8.5.45
+
+Uitwerking van Opgave 8-45 ...................................................................8-109
+
+8.5.46
+
+Uitwerking van Opgave 8-46 ...................................................................8-110
+
+8.5.47
+
+Uitwerking van Opgave 8-47 ...................................................................8-111
+
+8.5.48
+
+Uitwerking van Opgave 8-48 ...................................................................8-112
+
+8.5.49
+
+Uitwerking van Opgave 8-49 ...................................................................8-113
+
+8.5.50
+
+Uitwerking van Opgave 8-50 ...................................................................8-114
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8 Uitgewerkte examenopgaven bij Hoofdstuk 8, deel A (opg. 1-50)
+8.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 8
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald, maar veel zijn het er niet. Bedenk dat tussen 2000 en 2020
+ongeveer 1400 examenvragen zijn gesteld. Die weg is daarom tijdrovend en de
+slagingskans niet groot. Bedenk ook dat examenvragen die op elkaar lijken, vaak niet
+precies gelijk zijn en dat de antwoorden op meerkeuzevragen niet altijd in dezelfde
+volgorde staan of precies gelijk zijn aan hun voorgangers. Of snappen sommigen de stof
+geleidelijk aan toch als ze maar heel veel examenvragen maken? Wie het weet, mag het
+zeggen.
+De schrijvers verwachten dat de opgedane kennis door het bestuderen en maken van de
+vragen scherper in je hoofd wordt geprent dan zonder examentraining.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild toch het antwoord te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave. Dat voorkomt uitvoerig terugscrollen. Het goede
+antwoord is vetgedrukt. Daarna volgt de eigenlijke uitwerking, soms gevolgd door een of
+meer opmerkingen. De uitwerking hoeft niet de enig juiste te zijn. Het is niet ongewoon
+dat je via een andere weg ook tot een goed antwoord komt. Leg dan beide antwoorden
+naast elkaar en vergelijk. Soms geven we zelf meer dan één uitwerking.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave aan het begin kun je er
+met één muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je
+kunt alle uitwerkingen ook achter elkaar doorlezen in paragraaf 8.5.
+
+8.2 Enkele opmerkingen
+Omdat het aantal examenvragen bij Hoofdstuk 8 ruim meer dan 50 is, is deze bundel
+gesplitst in twee delen. Dit is deel A en bevat 50 examenvragen. Deel B bevat er 14.
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008, waren er maar twee examens per jaar,
+het voorjaars- en het najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en bijvoorbeeld 10 jaar of nog
+meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden voor het laatst
+in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak voorkomt, zal
+een grotere kans hebben om weer op te duiken dan één die maar één of twee keer is
+voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een sterk ingedikt
+overzicht van de leerstof met vergelijkingen, schema’s, tabellen en andere zaken met soms
+wat handigheidjes. We raden aan, dit eerst door te nemen, maar wie zich zeker genoeg
+voelt, kan natuurlijk ook meteen naar de opgaven gaan.
+
+8.3 Formularium
+8.3.1 Soorten versterkende elementen
+Het zijn
+•
+•
+•
+
+(bipolaire) transistor: NPN en PNP
+Veldeffect-transistor (FET): N-kanaal en P-kanaal
+Elektronenbuis (buis): triode en penthode
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+De staan allemaal in beeld met schemasymbolen in Figuur 8.3-1.
+
+Figuur 8.3-1. De versterkende elementen
+
+8.3.2 Overeenkomsten
+Alle behandelde elementen hebben drie elektroden: een laagohmige en een hoogohmige
+waartussen de stroomdoorgang plaatsvindt en een stuurelektrode die de stroomdoorgang
+beïnvloedt. Tabel 8.3-1 geeft een overzicht van de namen.
+Tabel 8.3-1. De drie versterkende elementen en hun elektroden. De nummers tussen haakjes verwijzen naar
+Figuur 8.3-1.
+
+FET
+
+Buis
+
+Transistor
+
+Laagohmig
+
+Source (1)
+
+Kathode (1)
+
+Emitter (1)
+
+Stuurelektrode
+
+Gate (2)
+
+(Stuur)rooster (2)
+
+Basis (2)
+
+Hoogohmig
+
+Drain (3)
+
+Anode (3)
+
+Collector (3)
+
+8.3.3 Verschillen
+Buis en FET hebben een een stuurelektrode met heel hoge weerstand. Het zijn
+spanninggestuurde elementen.
+De basis van een transistor wordt met een stroom aangestuurd. Een transistyor is dan ook
+een stroomversterker, maar kan zo worden geschakeld dat de totale schakeling enigszins
+lijkt op een spanninggestuurd element.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+Schakelingen met FET’s en transistoren werken op relatief lage spanning (grofweg 40 V of
+minder, maar er zijn uitzonderingen)
+Schakelingen met buizen werken op hoge spanning, meestal 250 V of meer.
+De ladingdragers in FET’s en bipolaire transistoren kunnen elektronen of “gaten” zijn; in
+buizen zijn het altijd elektronen (Tabel 8.3-2)
+Tabel 8.3-2. Ladingdragers en soort versterkend element
+
+FET
+
+Buis
+
+Transistor
+
+Elektronen
+
+N-kanaals FET
+
+Buis
+
+NPN
+
+Gaten
+
+P-kanaals FET
+
+-
+
+PNP
+
+8.3.4 De drie basisschakelingen in schemavorm
+We laten de schakelingen per soort schakeling zien; in de volgende sub-paragraaf vatten
+we de eigenschappen samen per soort element.
+Om te beginnen de gemeenschappelijke source-, kathode- en emitterschakeling, afgekort
+resp. GDS, GKS en GES (Figuur 8.3-2).
+
+Figuur 8.3-2. (1) Gemeenschappelijke drainschakeling (GDS), (2) gemeenschappelijke kathodeschakeling
+(GKS) en (3) gemeenschappelijke emitterschakeling (GES). Signaalin- en uitgang aangegeven met “in” en
+“uit”.
+
+Vaak zit in de source-. kathode- of emitterleidingen een weerstand. Bij FET en buis maakt
+die source of kathode positief ten opzichte van gate of rooster. Gate of rooster zijn dan
+negatief ten opzichte van source of kathode. De weerstand vervangt zo de negatieve
+spanningsbron (UGS, respectievelijk Ug). Bij de transistor wordt dan meestal een weerstand
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+in de emitterleiding met spanningsdeler op de basis toegepast of enkel een weerstand van
+basis naar de plus- of de minleiding (NPN, resp. PNP).
+Nu de gemeenschappelijke gate-, rooster- en basisschakeling, afgekort resp. GGS, GRS en
+GBS (Figuur 8.3-3).
+
+Figuur 8.3-3. (1) Gemeenschappelijke gateschakeling (GGS), (2) gemeenschappelijke roosterschakeling
+(GRS) en (3) gemeenschappelijke basisschakeling (GBS). Signaalin- en uitgang aangegeven met “in” en “uit”.
+
+Hier geldt hetzelfde voor weerstanden in respectievelijk de source- kathode- en
+emitterleidingen als bij Figuur 8.3-2. Gate, respectievelijk rooster en basis kunnen ook via
+een weerstand zijn verbonden met de nulleiding (de onderste in de figuren) en
+ontkoppeld via een condensator, parallel aan die weerstand.
+Tenslotte in Figuur 8.3-4 de gemeenschappelijke drain-, anode- en collectorschakelingen,
+afgekort GDS, GAS en GCS. Dit drietal staat ook bekend onder de respectieve namen
+sourcevolger, kathodevolger en emittervolger. De volger heeft betrekking op het feit dat
+het signaal op de uitgang dat op de ingang bijna 1:1 volgt.
+
+Figuur 8.3-4. (1) Gemeenschappelijke drainschakeling (GDS), (2) gemeenschappelijke anodeschakeling
+(GAS) en (3) gemeenschappelijke collectorschakeling (GCS). Signaalin- en uitgang aangegeven met “in” en
+“uit”.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+In de plusleiding kan soms een weerstand zijn opgenomen. Dat doet niets af aan de
+werking en de benaming van een schakeling.
+8.3.5 De drie basisschakelingen samengevat in tabelvorm en per element.
+De drie basisschakelingen voor de FET zijn samengevat in Tabel 8.3-3; die voor een buis
+(triode) in Tabel 8.3-4 en die voor een transistor in Tabel 8.3-5.
+Tabel 8.3-3. Samenvatting van de eigenschappen van de drie basisschakelingen voor de FET. RD is
+drainweerstand, RS is sourceweerstand.
+
+Soort Signaal
+in en uit
+
+Weerstand
+ingang →
+uitgang
+
+Spanningsversterking
+
+Stroomversterking
+
+Vermogensversterking
+
+Faseverschil in
+en uit
+
+GSS
+
+In: Gate
+Uit: Drain
+
+In: zeer hoog
+Uit: hoog
+
+Iets minder
+dan RD/RS
+
+Zeer groot
+
+Zeer groot
+
+Tegenfase
+
+GGS
+
+In: Source
+Uit: Drain
+
+In: laag
+Uit: hoog
+
+Iets minder
+dan RD/RS
+
+1
+
+Iets minder
+dan RD/RS
+
+In fase
+
+GDS
+
+In: Gate
+Uit: Source
+
+In: zeer hoog
+Uit: laag
+
+Iets minder
+dan 1
+
+Zeer groot
+
+Groot
+
+In fase
+
+GDS heet ook sourcevolger.
+Een vergelijkbare tabel voor buizen verschilt afgezien van de benamingen nauwelijks van
+die voor de FET. Volledigheidshalve geven we hem hieronder.
+Tabel 8.3-4. Samenvatting van de eigenschappen van de drie basisschakelingen voor de buis (triode). Ra is
+anodeweerstand, Rk is kathodeweerstand.
+
+Soort Signaal
+in en uit
+
+Weerstand
+ingang →
+uitgang
+
+Spanningsversterking
+
+Stroomversterking
+
+Vermogensversterking
+
+Faseverschil in
+en uit
+
+GKS
+
+In: Rooster
+Uit: Anode
+
+In: zeer hoog
+Uit: hoog
+
+Iets minder
+dan Ra/Rk
+
+Zeer groot
+
+Zeer groot
+
+Tegenfase
+
+GRS
+
+In: Kathode
+Uit: Anode
+
+In: laag
+Uit: hoog
+
+Iets minder
+dan Ra/Rk
+
+1
+
+Iets minder
+dan Ra/Rk
+
+In fase
+
+GAS
+
+In: Rooster
+In: zeer hoog
+Uit: Kathode Uit: laag
+
+Iets minder
+dan 1
+
+Zeer groot
+
+Groot
+
+In fase
+
+GAS heet ook kathodevolger. Lees voor een penthode stuurrooster in plaats van rooster.
+Voor de rest geen verschillen.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+De verschillen tussen de vorige twee tabellen en die voor de transistor (Tabel 8.3-5) zijn
+niet groot, maar iets minder klein dan die voor FET en buis. Dat komt doordat de triode in
+beginsel een stroomversterker is en de eerdere twee spanningsversterkers.
+Tabel 8.3-5. Samenvatting van de eigenschappen van de drie basisschakelingen voor de transistor. Rc is
+collectorweerstand, Re is emitterweerstand.
+
+Soort Signaal
+in en uit
+
+Weerstand
+ingang →
+uitgang
+
+Spanningsversterking
+
+Stroomversterking
+
+Vermogensversterking
+
+Fase in en
+uit
+Tegenfase
+
+GES
+
+In: basis
+Uit: collector
+
+In: matig
+Uit: hoog
+
+Vrijwel
+Rc/Re
+
+Zeer groot
+
+Zeer groot
+
+GBS
+
+In: emitter
+Uit: collector
+
+In: laag
+Uit: hoog
+
+Vrijwel
+Rc/Re
+
+1
+
+Vrijwel Rc/Re In fase
+
+GCS
+
+In: basis
+
+In: matig
+Uit: laag
+
+Vrijwel 1
+
+Zeer groot
+
+Groot
+
+Uit: emitter
+
+In fase
+
+8.3.6 Spanningsverdeling over een versterkend element.
+In een versterkerschakeling staan over verschillende delen van de schakeling
+verschillende spanningen. Ze voldoen altijd aan de tweede wet van Kirchoff: de som van
+die (deel)spanningen is gelijk aan de spanning over de totale schakeling.
+
+Figuur 8.3-5. NPN-transistor in GES met diverse weerstanden (links) en de basis-emitterspanning van 0,6 V.
+Rechts het volledig uitgewerkte schema met waarden voor spanning en weerstand. Bruin: emittercircuit,
+paars basiscircuit en groen: collectorcircuit. Kijk zelf of alles klopt.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+In examens zitten nogal wat vragen van deze soort. Voor buis en FET zijn er ook zulke
+opgaven. Het principe is steeds hetzelfde, alleen ontbreekt de basis-emitterspanning (!).
+Tenslotte nog een belangrijk punt bij de transistor. De weerstand (impedantie) op de
+basisaansluiting is bij benadering gelijk aan de emitterweerstand vermenigvuldigd met de
+stroomversterking β of hFE. Tussen die laatste twee grootheden is geen verschil.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4 Opgaven
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.1 Opgave 8-1
+De “oervorm” van een NPN-transistor is de “twee-dioden” schakeling in
+
+A. Schakeling 1
+B. Schakeling 3
+C. Schakeling 2
+D. Schakeling 4
+
+(F-examen maart 2009 (2), augustus 2010, maart 2013)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.2 Opgave 8-2
+De stroomversterking van PNP- en NPN-transistoren zal bij toenemende frequentie:
+A. Afnemen
+B. Toenemen
+C. Gelijk blijven
+D. Eerst afnemen en daarna weer toenemen
+(F-examen mei 2016 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.3 Opgave 8-3
+De uitgangsspanning Uuit van de schakeling met siliciumtransistor is ongeveer
+
+330 
+33 
+
+9V
+
+Uuit
+
+5,6 V
+
+A. 5,6 V
+B. 8,4 V
+C. 6,2 V
+D. 5,0 V
+(F-examen maart 2009 (2), januari 2010, februari 2010 (2), april 2010, mei 2010 (1),
+augustus 2010, februari 2011, augustus 2011, september 2011 (1), maart 2012, maart 2013,
+november 2014 (1), 07-09-2016, september 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.4 Opgave 8-4
+Voor de transistor geldt Ube = -0,5 V. De zenerspanning is 2 V.
+-6 V
+
+2 k
+
+U
+1 k
+
+De spanning U is
+A. -1,5 V
+B. -2,5 V
+C. 0 V
+D. -6 V
+(F-examen augustus 2009, november 2011 (2), mei 2013 (1 en 2), mei 2016 (2), september
+2016, januari 2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.5 Opgave 8-5
+
+Rb
+
+Ic = 6 mA
+Ib = 50 A
+Ube = 0,5 V
+Rc = 1 k
+
+Rc
+
++ 9V
+
+De waarde van Rb is
+A. 120 k
+B. 200 k
+C. 10 k
+D. 170 k
+(F-examen februari 2010 (1), maart 2010, september 2010 (1), 7-09-2016, november 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.6 Opgave 8-6
+Een transistorversterker in gemeenschappelijke basisschakeling heeft:
+A. Een grote stroomversterking
+B. Een lage uitgangsimpedantie
+C. Een geringe dissipatie
+D. Een lage ingangsimpedantie
+(F-examen najaar 1995, najaar 2000, voorjaar 2004, april 2010, maart 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.7 Opgave 8-7
+
++12V
+100k
+
+6,8k
+
+uuit
+uin
+
+15k
+
+1k
+
+In deze schakeling wordt in plaats van een transistor met een stroomversterkingsfactor
+hFE= 100 een transistor toegepast met een hFE= 50. Wat is het gevolg?
+A. De spanningsversterking wordt veel groter
+B. De schakeling zal niet meer werken
+C. De spanningsversterking wordt veel kleiner
+D. De spanningsversterking blijft ongeveer gelijk
+(F-examen maart 2009 (1 en 2), mei 2010 (2), juni 2010, augustus 2010, september 2010
+(1), januari 2011, november 2011, december 2011, september 2013 (1), maart 2014, 2-112016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.8 Opgave 8-8
+De transistor staat in:
+A. GOS
+B. GCS
+C. GBS
+D. GES
+
+(F-examen februari 2009, januari 2011, november 2012, September 2013 (1), mei 2015 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.9 Opgave 8-9
+De spanning over de weerstand Rc is:
+A. 20 V
+B. 19,8 V
+C. 0,2 V
+D. 9,8 V
+
+(F-examen februari 2009, mei 2009 (1), juli 2009, november 2009, mei 2010 (1), december
+2010, november 2013 (2), januari 2015, mei 2017 (2), 06-09-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.10 Opgave 8-10
+De waarde van Rb is:
+A. 60 k
+B. 160 k
+C. 120 k
+D. 180 k
+
+(F-examen november 2008 (1 en 2), februari 2009, augustus 2010, november 2010 (2),
+maart 2011 (1), mei 2011 (2), juni 2011, november 2011, mei 2013 (1), augustus 2013,
+november 2014 (2), maart 2015, 11-01-2017, 10-01-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.11 Opgave 8-11
+
++Ub
+Rd
+
+Rg
+
+Rs
+
+Cs
+
+De gelijkspanning tussen gate en source wordt bepaald door
+A. De gatestroom en de weerstand Rs
+B. De sourcestroom en de weerstand Rs
+C. De condensator Cs
+D. De weerstand Rg
+(F-examen augustus 2009, februari 2011, maart 2015, 11-01-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.12 Opgave 8-12
+
++12V
+
+in
+uit
+R
+
+Dit type schakeling heeft een
+A. Spanningsversterking vrijwel gelijk aan 1
+B. Uitgangsweerstand gelijk aan R
+C. Stroomversterking veel kleiner dan 1
+D. Spanningsversterking veel groter dan 1
+(F-examen 01-03-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.13 Opgave 8-13
++18,5V
+
+Voor de transistor geldt Ube = 0,7 V. De
+basisstroom is verwaarloosbaar klein.
+
+24k
+
+1k
+
+6k
+
+300
+
+Uce is:
+A. 13 V
+B. 5,5 V
+C. 0,55 V
+D. 8,5 V
+
+(F-examen voorjaar 1994, najaar 1998, najaar 2001, mei 2009 (2), oktober 2009, augustus
+2011, september 2014 (2), 1-03-2017, 17-05-2017, 24-05-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.14 Opgave 8-14
+Een transistor in gemeenschappelijke collectorschakeling (emittervolger) heeft:
+A. Een lage ingangsimpedantie
+B. Een hoge ingangsimpedantie
+C. Een lage lekstroom
+D. Een hoge basis-emitterspanning
+
+(F-examen najaar 2000)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.15 Opgave 8-15
+Het vermogen dat de transistor dissipeert, is ongeveer
+A. 24 mW
+B. 20 mW
+C. 12 mW
+D. 10 mW
+
+(F-examen april 2008, september 2010 (1), 24-05-2017, 05-09-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.16 Opgave 8-16
+Dit is een transistor in:
+A. Gemeenschappelijke basisschakeling
+B. Gemeenschappelijke emitterschakeling
+C. Geaarde basisschakeling
+D. Gemeenschappelijke collectorschakeling
+
+(F-examen januari 2010, april 2010, november 2010 (1), november 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.17 Opgave 8-17
+
+Van de transistor is β = 100. De spanningsversterking van deze schakeling is ongeveer
+A. 20
+B. 5
+C. 100
+D. 1
+(F-examen voorjaar 1996, voorjaar 2002, juni 2009, november 2013 (2), 24-05-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.18 Opgave 8-18
+Kenmerkend voor een gemeenschappelijke basisschakeling is
+A. Een lage ingangsimpedantie en een lage uitgangsimpedantie
+B. Een lage ingangsimpedantie en een hoge uitgangsimpedantie
+C. Een hoge ingangsimpedantie en een hoge uitgangsimpedantie
+D. Een hoge ingangsimpedantie en een lage uitgangsimpedantie
+
+(F-examen najaar 2003, januari 2009, oktober 2009, september 2010 (2), november 2012,
+november 2015, 06-09-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.19 Opgave 8-19
+
+Bij een ID = 4 mA en UGS = -3 V behoort een sourceweerstand RS van:
+A. 1 k
+B. 750 
+C. 375 
+D. 3 k
+(F-examen voorjaar 1993, najaar 1997, november 2008 (2), januari 2009, augustus 2009,
+juli 2010, maart 2014, september 2014 (1 en 2), 06-09-2017,mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.20 Opgave 8-20
+
+-12V
+50
+
+100
+
+100
+
+I
+50
+Ic=100mA
+
+0V
+De collectorstroom is 100 mA. De stroom I is:
+A. 25 mA
+B. 12,5 mA
+C. 50 mA
+D. 5 mA
+(F-examen maart 2013, 06-09-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.21 Opgave 8-21
+
+Indien S wordt gesloten, zal Uuit:
+A. Kleiner worden
+B. Niet veranderen
+C. Nul worden
+D. Groter worden
+(F-examen 06-09-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.22 Opgave 8-22
+De volgende pinaansluiting geeft aan dat de transistor een FET is:
+A. S-G-D
+B. V-C-C
+C. E-B-C
+D. P-I-E
+(F-examen 01-11-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.23 Opgave 8-23
+
+12 V
+De collectorstroom is
+
+1000 ohm
+
+A. 1 mA
+B. 3 mA
+C. 0,1 mA
+D. 10 mA
+
+9V
+
+2V
+
+(F-examen mei 2015 (2), november 2016, 10-01-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.24 Opgave 8-24
+Het vermogen dat de transistor dissipeert, is ongeveer
+A. 30 mW
+B. 60 mW
+C. 35 mW
+D. 25 mW
+
+12 V
+Ic
+
+1k
+
+5 mA
+
+200 
+0
+(F-examen voorjaar 2003, 10-01-2018, september 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.25 Opgave 8-25
+Voor de schakeling geldt:
+A. U2 is kleiner dan U1 en in fase met U1
+B. U2 is groter dan U1 en in fase met U1
+C. U2 is groter dan U1 en in tegenfase met U1
+D. U2 is kleiner dan U1 en in tegenfase met U1
+
+(F-examen najaar 2001, oktober 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.26 Opgave 8-26
+De transistor staat geschakeld in
+A. Gemeenschappelijke basisschakeling (GBS)
+B. Een combinatie van GBS en GES
+C. Gemeenschappelijke collectorschakeling
+(GCS)
+D. Gemeenschappelijke emitterschakeling (GES)
+
+(F-examen voorjaar 2000. November 2010 (2), 07-03-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.27 Opgave 8-27
+Voor een transistor geldt: Ube = 0,7 V.
+De basisstroom is te verwaarlozen.
+Uce is:
+A. 10,7 V
+B. 0,7 V
+C. 5,0 V
+D. 4,3 V
+
+(F-examen mei 2009 (2), mei 2010 (1), februari 2011, april 2011, juni 2011, maart 2012,
+november 2013 (2), mei 2016 (1), 07-03-2018, 07-11-2018, mei 2019 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.28 Opgave 8-28
+De collectorstroom is 100 mA. De stroom I is:
+A. 50 mA
+B. 25 mA
+C. 75 mA
+D. 100 mA
+
+(F-examen maart 2008, oktober 2008 (1), april 2009 (1 en 2), maart 2010, 07-03-2018, mei
+2019 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.29 Opgave 8-29
+De voltmeter wijst 5 volt aan en heeft een inwendige weerstand van 2 k. Van de
+transistor is β =100.
+
+De ingangsweerstand Ri is ongeveer
+A. 10 k
+B. 2 k
+C. 0,5 k
+D. 200 k
+(F-examen najaar 2004, juni 2011, november 2013 (1), 16-05-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.30 Opgave 8-30
+Deze karakteristiek heeft betrekking op
+een:
+
+A. FET
+B. zenerdiode
+C. weerstand
+D. spanningsbron
+
+(F-examen najaar 2007, februari 2009, juni 2009, juli 2009, september 2009 (1), 29-052018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.31 Opgave 8-31
+De waarde van de weerstand Rc is:
+A. 0,5 kΩ
+B. 2,5 kΩ
+C. 2 kΩ
+D. 3 kΩ
+
+(F-examen najaar 2000, januari 2009, januari 2013)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.32 Opgave 8-32
+Van de transistor is de hFE = 100. Welke bewering is juist?
+
+A. U1 = 0V en U2 = 10V
+B. U1 = 0,1V en U2 = 0,1V en hebben dezelfde fase
+C. De ingangsspanning is te klein om enig effect op U1 en U2 te hebben
+D. U1 = 0,1V en U2 = 0,1V en hebben tegengestelde fase
+
+(F-examen januari 2010, mei 2010 (2), juni 2010, mei 2011 (3), september 2012, november
+2012, september 2014 (1), 29-05-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.33 Opgave 8-33
+De waarde van Rb is:
+
+A. 600 k
+B. 400 k
+C. 300 kg
+D. 500 k
+
+(F-examen september 2010, januari 2018, 09-01-2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.34 Opgave 8-34
+De voltmeter wijst aan:
+
+A. 5 V
+B. 2 V
+C. 10 V
+D. 0 V
+(F-examen 05-09-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.35 Opgave 8-35
+De spanning U is:
+A. 0 V
+B. 10 V
+C. 2 V
+D. 8 V
+
+(F-examen september 2009)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.36 Opgave 8-36
+De meter wijst 100 A aan; 𝐼e = 20mA.
+De collectorstroom is
+A. 20 mA
+B. 20,1 mA
+C. 21 mA
+D. 19,9 mA
+(F-examen juni 2010, februari 2012)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.37 Opgave 8-37
+Ib is 200 A; Ie is 18 mA. De collectorstroom
+is
+A. 18,2 mA
+B. 17,8 mA
+C. 18 mA
+D. 20 mA
+
+(F-examen mei 2011 (2), mei 2012 (1),
+september 2013 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.38 Opgave 8-38
+Deze karakteristiek heeft betrekking op
+een:
+
+A. Resonantiekring
+B. NPN-transistor
+C. Weerstand
+D. Diode
+
+F-examen april 2008, februari 2009, April 2009, December 2009, mei 2018 (2), januari
+2020)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.39 Opgave 8-39
+Indien de punten X en Y worden
+doorverbonden:
+A. Neemt de collectorstroom af
+B. Neemt de emitterstroom toe
+C. Blijft de collectorstroom gelijk
+D. Neemt de collectorstroom toe
+
+(F-examen november 2009, december 2010, maart 2014, mei 2019 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.40 Opgave 8-40
+De stroomversterking is ongeveer:
+A. 200
+B. 50
+C. 10
+D. 100
+
+(F-examen voorjaar 2000, september 2013 (2), september 2014 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.41 Opgave 8-41
+In de schakeling met een siliciumtransistor zal de meter de volgende gelijkspanning
+aangeven:
+A. 3,4 V
+B. 2,7 V
+C. 2 V
+D. 5,3 V
+(F-examen maart 2009 (1), augustus 2009, mei 2010
+(2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.42 Opgave 8-42
+De spanning Uce tussen emitter en collector is:
+A. 0,5 V
+B. 9,5 V
+C. 10 V
+D. 19,5 V
+
+(F-examen maart 2009 (1), september 2011 (2), mei 2012 (2), mei 2013 (1), september 2013
+(2), mei 2016 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.43 Opgave 8-43
+De ingang van een junction-FET gedraagt zich als een diode die in sperrichting is
+aangesloten. De ingangsweerstand van deze junction-FET:
+A. Is zeer laag (enkele ohm)
+B. Is enkele kilo-ohm
+C. Is zeer hoog (enkele mega-ohm)
+D. Is vrijwel een kortsluiting
+(F-examen november 2010 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.44 Opgave 8-44
+De ingangsimpedantie bij 1 kHz van een JFET ligt tussen
+A. 100  en 1 k
+B. 1  en 100 
+C. 1 M en 100 M
+D. 10 k en 100 k
+(F-examen augustus 2008, september 2010 (2), december 2010)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.45 Opgave 8-45
+De ingangsimpedantie bij 1 kHz wordt hoofdzakelijk bepaald door de:
+A. Externe weerstand tussen gate en aarde
+B. Externe drain-weerstand
+C. Instelling van de FET
+D. Externe source-weerstand
+
+(F-examen september 2011 (1), maart 2012, september 2013 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.46 Opgave 8-46
+Bij een normale instelling is de weerstand tussen de gate en de source van een
+veldeffecttransistor:
+A. Gelijk aan de steilheid S
+B. Gelijk aan de stroomversterking hFE
+C. Zeer groot
+D. Zeer klein
+(F-examen mei 2010 (1 en 2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.47 Opgave 8-47
+De ingangsfrequentie is 10 kHz. De condensator wordt vervangen door een condensator
+van 1000 pF.
+Hierdoor zal de versterking:
+A. Groter worden
+B. Kleiner worden
+C. Gelijk blijven
+D. Nul worden
+
+(F-examen voorjaar 2000)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.48 Opgave 8-48
+Stelling 1: de drainstroom van een FET is afhankelijk van de gatespanning
+Stelling 2: de drainstroom van een FET is praktisch onafhankelijk van de drainspanning
+Wat is juist:
+A. Geen van beide stellingen
+B. Alleen stelling 1
+C. Alleen stelling 2
+D. Stelling 1 en 2
+(F-examen november 2009 (1), februari 2010 (2), augustur 2013, november 2013 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.49 Opgave 8-49
+Van de onderstaande schakeling is gegeven:
+Ia = 100 mA
+Ua = 50 V
+Ub = 300 V
+De waarde van de weerstand Ra is:
+A. 0,5 k
+B. 1 k
+C. 2,5 k
+D. 3 k
+(F-examen voorjaar 1974)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.4.50 Opgave 8-50
+In onderstaande figuur is een triode opgenomen in een versterkerschakeling.
+
+Deze triode is geschakeld in
+A. Gemeenschappelijke roosterschakeling
+B. Gemeenschappelijke kathodeschakeling
+C. Gemeenschappelijke anodeschakeling
+D. Gemeenschappelijke kathode-roosterschakeling
+(F-examen voorjaar 1976)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5 Uitwerkingen
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.1 Uitwerking van Opgave 8-1
+De “oervorm” van een NPN-transistor is de “twee-dioden” schakeling in
+
+A. Schakeling 1
+B. Schakeling 3
+C. Schakeling 2
+D. Schakeling 4
+
+Uitwerking
+De oervorm van een transistor is twee tegen elkaar in geschakelde dioden. Hiermee vallen
+de schakelingen 2 en 4 (antwoorden C en D) af. Bij een NPN-transistor is
+c
+de (technische) stroomrichting van collector naar emitter; in de
+tekeningen van boven naar onder. De basis-emitter diode, in de
+tekeningen de onderste, moet dan de doorlaatrichting van boven naar
+onder hebben (zie ook hiernaast). Daaraan voldoet schakeling 3.
+b
+Antwoord B.
+e
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.2 Uitwerking van Opgave 8-2
+De stroomversterking van PNP- en NPN-transistoren zal bij toenemende frequentie:
+A. Afnemen
+B. Toenemen
+C. Gelijk blijven
+D. Eerst afnemen en daarna weer toenemen
+Uitwerking
+Elke PN-overgang heeft een zekere capaciteit. Denk aan de varicap. Een transistor heeft
+twee van die overgangen, waarvan er één, de basis-collector-overgang, bij een normale
+versterkerschakeling gesperd staat. Dat is dus een soort varicap. Bij toenemende frequentie
+neemt de reactantie van de basis-collector-capaciteit af. Dat doet afbreuk aan de
+versterkende werking van de transistor. Daardoor neemt bij toenemende frequentie de
+(stroom)versterking van elke transistor af. Hoeveel, hangt af van de constructie van de
+transistor, maar de afname is er altijd. Dat betekent dat antwoord A goed is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.3 Uitwerking van Opgave 8-3
+De uitgangsspanning Uuit van de schakeling met siliciumtransistor is ongeveer
+
+330 
+33 
+
+9V
+
+Uuit
+
+5,6 V
+
+A. 5,6 V
+B. 8,4 V
+C. 6,2 V
+D. 5,0 V
+Uitwerking
+De stroom door de weerstand van 330  en de zenerdiode zetten 5,6 V op de basis. Omdat
+het om een Si-transistor gaat, is de basis-emitterspanning ongeveer 0,5 tot 0,7 V. Dan ligt
+de uitgangsspanning evenveel lager dan 5,6 V. Daarbij past 5,0 V voor Uuit. Antwoord D
+dus.
+
+9V
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-67
+
+5,6 V
+
+33 
+
+V
+
+Voor het overige blijft de uitwerking gewoon gelden,
+dus nog steeds antwoord D.
+
+6
+0,
+
+Meestal (maar lang niet altijd) wordt een transistor
+niet horizontaal maar verticaal getekend. We kunnen
+het plaatje gemakkelijk een kwartslag draaien. Dan
+ziet het er voor sommigen waarschijnlijk wat
+bekender uit. De 0,6 V van de emitter-basisovergang
+is voor de duidelijkheid mee ingetekend.
+
+330 
+
+Opmerking
+
+5V
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.4 Uitwerking van Opgave 8-4
+Voor de transistor geldt Ube = -0,5 V. De zenerspanning is 2 V.
+-6 V
+
+2 k
+
+U
+1 k
+
+De spanning U is
+A. -1,5 V
+B. -2,5 V
+C. 0 V
+D. -6 V
+Analyse en oplossing
+Let op: dit is een PNP-transistor. De collector is dan ook verbonden met een negatieve
+spanning.
+Op de basis staat -2 V. Om de emitterspanning U te vinden, moet Ube van die -2 V worden
+afgetrokken. -2 V – (-0,5 V) is -2 V + 0,5 V is -1,5 V. Hier moet dus nauwkeurig met het
+teken worden omgesprongen! Het goede antwoord is A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.5 Uitwerking van Opgave 8-5
+
+Rb
+
+Ic = 6 mA
+Ib = 50 A
+Ube = 0,5 V
+Rc = 1 k
+
+Rc
+
++ 9V
+
+De waarde van Rb is
+A. 120 k
+B. 200 k
+C. 10 k
+D. 170 k
+
+Uitwerking
+De uitwerking is rechttoe rechtaan. Over Rb staat de batterijspanning van 9 V, verminderd
+met de basis-emitterspanning Ube van 0,5 V. Dat wordt dan 8,5 V. De basisstroom Ib van
+50 A moet er bij die spanning doorheen lopen. De wet van Ohm zegt dat 𝑅 = 𝑈⁄𝐼 . 8,5 V
+gedeeld door 50 A is 0,17 M is 170 k (V en A geven M, net zoals V en mA k
+opleveren). Antwoord D is het juiste antwoord.
+Opmerking
+Ic en Rc zijn hier overbodige gegevens!
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.6 Uitwerking van Opgave 8-6
+Een transistorversterker in gemeenschappelijke basisschakeling heeft:
+A. Een grote stroomversterking
+B. Een lage uitgangsimpedantie
+C. Een geringe dissipatie
+D. Een lage ingangsimpedantie
+Uitwerking
+
++
+
+In een gemeenschappelijke basisschakeling
+(figuur hiernaast) heeft de basis een
+constante spanning, is de emitter de
+signaalingang en de collector de
+signaaluitgang. Daarmee is de signaalingang
+(zeer) laagohmig -want dat is eigen aan de
+emitter- en de uitgang hoogohmig. Dat
+sig. in
+eerste riekt naar antwoord D en dat is in dit
+geval ook het enige zinnige antwoord.
+
+Rc
+
+Re
+
+sig. uit
+
+We lopen de andere antwoorden even
+langs:
+Antwoord A: de emitterstroom is vrijwel gelijk aan de collectorstroom. Het verschil is de
+relatief kleine basisstroom. Niks stroomversterking dus.
+Antwoord B: de impedantie van een collectoruitgang is juist hoog.
+Antwoord C: dissipatie wordt niet bepaald door de aard van de schakeling, maar door de
+stroom door en de spanning over de transistor.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.7 Uitwerking van Opgave 8-7
+
++12V
+100k
+
+6,8k
+
+uuit
+uin
+
+15k
+
+1k
+
+In deze schakeling wordt in plaats van een transistor met een stroomversterkingsfactor
+hfe = 100 een transistor toegepast met een hfe = 50. Wat is het gevolg?
+A. De spanningsversterking wordt veel groter
+B. De schakeling zal niet meer werken
+C. De spanningsversterking wordt veel kleiner
+D. De spanningsversterking blijft ongeveer gelijk
+Uitwerking
+Bij een hfe van 100 is de basisstroom 1/100, dus 1% van de collectorstroom; bij een hfe
+van 50 gaat het om 2%. Je kunt ook zeggen dat de collectorstroom ongeveer 1% zakt. Dat
+kan geen grote gevolgen hebben. De spanningsversterking van deze transistorschakeling is
+en blijft (bijna) gelijk aan collectorweerstand gedeeld door emitterweerstand: vrijwel 6,8.
+Antwoord D dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.8 Uitwerking van Opgave 8-8
+De transistor staat in:
+A. GOS
+B. GCS
+C. GBS
+D. GES
+
+Uitwerking
+De basis van de transistor is voor wisselspanning ontkoppeld via de condensator naar
+massa (aarde). De emitter is aangegeven als de signaalingang en de collector als uitgang.
+Dat is onmiskenbaar een Gemeenschappelijke BasisSchakeling (hoofdletters met opzet
+toegevoegd), afgekort GBS, antwoord C.
+Opmerking
+Zoek niet naar wat er achter de afkorting GOS schuilt. Het is een onzin-afkorting om het
+viertal compleet te krijgen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.9 Uitwerking van Opgave 8-9
+De spanning over de weerstand Rc is:
+A. 20 V
+B. 19,8 V
+C. 0,2 V
+D. 9,8 V
+Uitwerking
+Om de spanning over de collectorweerstand te berekenen hebben we de waarde van de
+weerstand en de grootte van de collectorstroom nodig. De weerstand is gegeven (1k). De
+collectorstroom is hFE maal de basisstroom Ib, dus 49 . 200 A = 9,8 mA. Om 9,8 mA door
+een weerstand van 1 k te laten lopen is 9,8 mA . 1 k = 9,8 V nodig. (gebruik k en mA
+in de wet van Ohm en er rollen volts uit!). Antwoord D is dus goed.
+Opmerking
+Er staan weer eens meer gegevens bij dan nodig is. Op het examen moet je ook kunnen
+laten zien dat je weet wat je bij een berekening wel en niet nodig hebt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.10 Uitwerking van Opgave 8-10
+De waarde van Rb is:
+A. 60 k
+B. 160 k
+C. 120 k
+D. 180 k
+
+Uitwerking
+Om de waarde van weerstand Rb te berekenen, hebben we nodig: de basisspanning, de
+basisstroom Ib en de voedingsspanning. Die zijn alle drie gegeven; de voedingsspanning is
+de batterijspanning van 9V.
+De basisspanning is 1V, dus over Rb staat 9V – 1V is 8V. De basisstroom is 50 A. Daaruit
+volgt via de wet van Ohm dat Rb = 8V / 50A = 0,16 M= 160k. (Gebruik V en A in de
+wet van Ohm en er rollen M uit!)
+Opmerking
+Er is maar één gegeven te veel, namelijk de collectorstroom Ic. Laat je door zulke dingen
+niet op het verkeerde been zetten en bedenk eerst wat je uit het aangebodene wel en niet
+nodig hebt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.11 Uitwerking van Opgave 8-11
+
++Ub
+Rd
+
+Rg
+
+Rs
+
+Cs
+
+De gelijkspanning tussen gate en source wordt bepaald door
+A. De gatestroom en de weerstand Rs
+B. De sourcestroom en de weerstand Rs
+C. De condensator Cs
+D. De weerstand Rg
+Uitwerking
+Bij dit type FET loopt nagenoeg geen gatestroom, want de gate is een sperrende diode.
+Antwoord A valt dus af, net als antwoord D, want over een weerstand zonder stroom staat
+geen spanning. Een condensator doet niets met gelijkspanning. Dan valt antwoord C ook
+af. Dan zou het antwoord B moeten zijn. Dat controleren we natuurlijk.
+De drainstroom is gelijk aan de sourcestroom. Die laatste loopt door Rs en veroorzaakt een
+spanningsverschil over de weerstand. De sourcespanning is dan positief. De gatespanning
+is (praktisch) 0, want de gate is via Rg verbonden met 0 V en door deze weerstand loopt
+(praktisch) geen stroom. Sourcestroom (gelijk aan de drainstroom) en Rs bepalen dus de
+spanning tussen gate en source: antwoord B is goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.12 Uitwerking van Opgave 8-12
++12V
+
+in
+uit
+R
+
+Dit type schakeling heeft een
+A. Spanningsversterking vrijwel gelijk aan 1
+B. Uitgangsweerstand gelijk aan R
+C. Stroomversterking veel kleiner dan 1
+D. Spanningsversterking veel groter dan 1
+Uitwerking
+We herkennen in de schakeling een Gemeenschappelijke Collectorschakeling, afgekort
+GCS, ook emittervolger genoemd. De collector ligt aan een vaste spanning en doet dus
+niet mee met het versterkingsproces. De wisselspanning op de ingang (basis) wordt vrijwel
+zonder verzwakking via de emitter-basisdiode doorgegeven naar de emitter. De
+(wissel)spanningsversterking van die schakeling is daardoor bijna gelijk aan 1: antwoord A
+is goed.
+Opmerking
+Antwoord B ziet er verleidelijk uit: uitgangsweerstand gelijk aan R. Als dat zo zou zijn,
+zou bij parallelschakeling van nog een weerstand R de spanningsversterking teruggaan tot
+½. In werkelijkheid blijft de spanningsversterking vrijwel 1, zolang de transistor geen te
+grote stroom te verwerken krijgt en/of te veel vermogen opneemt. Dat komt doordat de
+karakteristiek van de emitter-basisdiode heel steil is, overeenkomend met hooguit 10 of 20
+.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.13 Uitwerking van Opgave 8-13
++18,5V
+
+Voor de transistor geldt Ube = 0,7 V. De
+basisstroom is verwaarloosbaar klein.
+
+24k
+
+1k
+
+6k
+
+300
+
+Uce is:
+A. 13 V
+B. 5,5 V
+C. 0,55 V
+D. 8,5 V
+
+Uitwerking
+Omdat de basisstroom verwaarloosbaar is, mogen we de spanningsdeler met knooppunt op
+de basis van de transistor als onbelast beschouwen. De basisspanning is dan
+18,5(6⁄(24 + 6) V = 18,5 𝑉⁄5 = 3,7 V Voor de emitterspanning moet daar Ube = 0,7 V
+vanaf. Dan blijft voor de emitterspanning 3V over. Die staat over de emitterweerstand van
+300 , zodat de emitterstroom 10 mA is. Omdat de basisstroom verwaarloosbaar is, loopt
+dezelfde 10 mA door de collectorweerstand van 1 k. Dan staat over de
+collectorweerstand precies 10 V (wet van Ohm met mA en k). Daardoor bedraagt de
+spanning Uce tussen collector en emitter 18,5 V – 10V − 3V = 5,5 V. Antwoord B is dus
+het juiste.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.14 Uitwerking van Opgave 8-14
+Een transistor in gemeenschappelijke collectorschakeling (emittervolger) heeft:
+A. Een lage ingangsimpedantie
+B. Een hoge ingangsimpedantie
+C. Een hoge lekstroom
+D. Een hoge basis-emitterspanning
+
+Uitwerking
+De gemeenschappelijke collectorschakeling heet in
+de praktijk meestal emittervolger. De figuur hiernaast
+laat een emittervolgerschakeling zien.
+
++
+
+De basis is signaalingang. De impedantie is gelijk aan
+(𝛽 + 1)𝑅𝑒 . De waarde van β ligt meestal ergens
+tussen 50 en 250. Daarom is de ingangsimpedantie
+hoog. Dat betekent antwoord B.
+Opmerkingen over de andere antwoorden
+
+sig. in
+Antwoord A vervalt onmiddellijk, want het is
+tegengesteld aan het goede antwoord B. Antwoord C:
+welke lekstroom? Antwoord D: de basisemitterspanning is voor een Si-transistor altijd iets
+tussen 0,5 en 0,7 V; voor een Ge-transistor is die rond
+0,2 V. Dat heeft niets te maken met een GCS-schakeling.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-78
+
+Re
+
+sig. uit
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.15 Uitwerking van Opgave 8-15
+Het vermogen dat de transistor dissipeert, is ongeveer
+A. 24 mW
+B. 20 mW
+C. 12 mW
+D. 10 mW
+
+Uitwerking 1
+We mogen ervan uitgaan dat de basisstroom te verwaarlozen is. Zo niet, dan had dat wel
+in de opgave gestaan. We mogen daarom aannemen dat collector- en emitterstroom gelijk
+zijn: 2 mA zoals aangegeven in het schema.
+Bij een stroom van 2 mA staat over de collectorweerstand van 5 k een spanning van 10
+V. Bij dezelfde stroom staat er 2 V over de emitterweerstand van 1 k. Samen is dat 12 V.
+Volgens de tweede wet van Kirchhoff blijft er dan 24 V – 12 V = 12 V over die over de
+transistor staat. Bij diezelfde 2 mA is dat 24 mW, antwoord A.
+Uitwerking 2
+Het kan een beetje korter. Omdat door de collector en de emitterweerstand dezelfde
+stroom loopt kun je ook eerst de weerstanden optellen, want die staan in serie met de
+transistor ertussen: 6 k waar een stroom van 2 mA doorheen loopt: 12 V samen. Voor de
+transistor blijft er weer 12 V over. Bij 2 mA is dat 24 mW; natuurlijk dezelfde uitkomst.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.16 Uitwerking van Opgave 8-16
+Dit is een transistor in:
+A. Gemeenschappelijke basisschakeling
+B. Gemeenschappelijke emitterschakeling
+C. Geaarde basisschakeling
+D. Gemeenschappelijke collectorschakeling
+
+Uitwerking
+De emitter ligt aan massa (aarde). De basis is de signaalingang. De signaaluitgang is de
+collector. De emitter is het gemeenschappelijke element van in- en uitgang. Dan is dit
+een gemeenschappelijke emitterschakeling (GES) en is antwoord B goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.17 Uitwerking van Opgave 8-17
+
+Van de transistor is β = 100. De spanningsversterking van deze schakeling is ongeveer
+A. 20
+B. 5
+C. 100
+D. 1
+Uitwerking
+Dit is een instinker. Je bent gauw geneigd, blindelings de collectorweerstand van 5 k te
+delen door de emitterweerstand van 1 k en B als het goede antwoord aan te geven,
+vooral omdat ook β wordt gegeven. Mis!
+Ondanks de collectorweerstand van 5 k is dit een gemeenschappelijke
+collectorschakeling oftewel een emittervolger, want de uitgangsspanning wordt van de
+emitter afgenomen. Vaak is dit soort schakeling vanaf de collector zonder weerstand met
+de voedingsspanning verbonden, maar dat kan zonder bezwaar ook via een weerstand,
+zoals in het schema. De spanningsversterking van een emittervolger is praktisch 1, dus het
+wordt antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.18 Uitwerking van Opgave 8-18
+Kenmerkend voor een gemeenschappelijke basisschakeling is
+A. Een lage ingangsimpedantie en een lage uitgangsimpedantie
+B. Een lage ingangsimpedantie en een hoge uitgangsimpedantie
+C. Een hoge ingangsimpedantie en een hoge uitgangsimpedantie
+D. Een hoge ingangsimpedantie en een lage uitgangsimpedantie
+Uitwerking
+Eerst de ezelsbrug, bedacht door een cursist in Groningen: “Basisinkomen is lage
+inkomsten en hoge uitgaven”. Dat riekt naar antwoord B.
+
++
+
+Rc
+
+sig. in
+Re
+
+sig. uit
+
+Nu de elektronisch wat meer verantwoorde redenering (zie tekening hierboven). Bij een
+gemeenschappelijke basisschakeling blijft de basis op constante spanning. De ontkoppeling
+voor wisselspanning loopt via de condensator. De signaalingang is de emitter, waar het
+signaal een heel lage impedantie ontmoet. De uitgang is de collector. Die heeft een relatief
+hoge impedantie, namelijk de parallelwaarde van de (grote) collectorweerstand Rc en de
+eveneens grote inwendige weerstand van de transistor. Dit alles leidt, net als de ezelsbrug,
+tot antwoord B. Deze ezelsbrug is dus een goede brug.
+Opmerking
+De ingangsimpedantie is niet gelijk aan de emitterweerstand Re. Dat is een fout die nog
+wel eens gemaakt wordt. De weerstand/impedantie op de emitter is heel laag, iets in de
+orde van 10 . Die staat weliswaar parallel aan Re, maar Re is doorgaans ruim hoger, zodat
+de lage impedantie in de transistor grotendeels de (lage) ingangsimpedantie bepaalt.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.19 Uitwerking van Opgave 8-19
+
+Bij een ID = 4 mA en UGS = -3 V behoort een sourceweerstand RS van:
+A. 1 k
+B. 750 
+C. 375 
+D. 3 k
+Uitwerking
+UGS =-3 V betekent in deze schakeling dat over de sourceweerstand RS een spanning van 3
+V staat. In plaats van een negatieve spanning op de gate staat op de source een positieve
+spanning van 3 V. De gate krijgt 0 V via de weerstand van 1 M en zo is de gate 3 V
+negatief ten opzichte van de source.
+Als de sourcespanning 3 V is, staat er 3 V over de sourceweerstand RS. Bij een FET is
+sourcestroom = drainstroom. Die laatste is 4 mA. Diezelfde 4 mA loopt door RS. Over RS
+staat een spanning van 3 V bij een stroom van 4 mA. De wet van Ohm verschaft het
+antwoord: 𝑅 = 𝑈⁄𝐼 en dus is 𝑅𝑆 = 3 V⁄4 mA = 0,75 k = 750 . Antwoord B.
+Opmerking
+Je kunt ook de grafiek met werkpunt gebruiken. Er staat 12 V over de FET zelf (aflezen op
+de horizontale as), 3 V over RS, samen 15 V. Dan is bij een voedingsspanning van 24 V de
+spanning over RD 24 V - 15 V= 9V. Bij 4 mA is RD 2,25 k. Voor RS vinden we natuurlijk
+weer 750 . Voor de beantwoording van de vraag is de grafiek niet nodig. In Hoofdstuk 9
+komt de vraag terug bij de belastingslijnen die in dat hoofdstuk worden behandeld. Daar
+hoort de grafiek wel bij.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.20 Uitwerking van Opgave 8-20
+-12V
+50
+
+100
+
+100
+
+I
+50
+Ic=100mA
+
+0V
+De collectorstroom is 100 mA. De stroom I is:
+A. 25 mA
+B. 12,5 mA
+C. 50 mA
+D. 5 mA
+Uitwerking 1
+De collectorstroom van 100 mA verdeelt zich in drie stromen over het drietal
+weerstanden (50 , 100  en nog eens 100 ) bovenin het schema. De weerstand van 50
+ tussen het drietal en de collector speelt bij de verdeling geen rol. De volle 100 mA
+collectorstroom moet er doorheen.
+Voor elk van de drie weerstanden is de stroom omgekeerd evenredig met de
+weerstandswaarde. De vervangingsweerstand van de twee parallelle weerstanden van 100
+ is 50 . De helft van de stroom, 50 mA, loopt dan door de weerstand van 50  en de
+andere 50 mA verdeelt zich gelijk over de twee van 100 , die per stuk dan 25 mA
+krijgen. Antwoord A.
+Uitwerking 2
+Door de drie weerstanden samen loopt 100 mA. De stromen per weerstand zijn
+omgekeerd evenredig met de weerstandswaarde. We noemen ze I50, I100 en nog eens I100:
+1 1
+1
+:
+:
+= 2: 1: 1
+50 100 100
+De stroom gaat dan in 2 + 1 + 1 = 4 delen van 100 mA⁄4 = 25 mA elk. Twee delen van
+25 mA gaan door de weerstand van 50 Ω, de weerstanden van 100 Ω krijgen elk 1 deel.
+Door de meest rechtse weerstand van 100 Ω loopt dus 1 deel van 25 mA. Ook antwoord A.
+𝐼50 : 𝐼100 : 𝐼100 =
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.21 Uitwerking van Opgave 8-21
+
+Als S wordt gesloten, zal Uuit:
+A. Kleiner worden
+B. Niet veranderen
+C. Nul worden
+D. Groter worden
+Uitwerking
+De gelijkstroominstelling van de NPN-transistor wordt verzorgd door de weerstand van
+basis naar voedingsspanning. De condensator in de basisleiding scheidt de
+basisgelijkspanning van de wisselstroombron.
+De condensator aan de collector scheidt collectorgelijkspanning en
+collectorwisselspanning. Voor de vervolgschakeling is het collectorcircuit dan ook een
+wisselspanningsbron met een inwendige weerstand van (iets minder dan) 1 k en
+klemspanning Uuit. Bij geopende schakelaar S is de belasting 250 , bij gesloten schakelaar
+125 . Bij gesloten schakelaar is de klemspanning dan ook lager dan bij open schakelaar.
+Antwoord A dus.
+Opmerking
+Sommigen onder ons zullen zich afvragen of de grootte van de condensator aan de
+collector er dan niet toe doet. Voor de werking van de schakeling is dat wel degelijk het
+geval. De condensator en de weerstand(en) van 250  zijn samen een hoogdoorlaatfilter.
+Hoe groter de capaciteit, des te lager de frequentie die onverzwakt wordt doorgelaten.
+Maar voor het antwoord op de vraag maakt het niets uit. Als je 125  aan de schakeling
+hangt, krijg je altijd een lagere uitgangsspanning dan met 250 .
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.22 Uitwerking van Opgave 8-22
+De volgende pinaansluiting geeft aan dat de transistor een FET is:
+A. S-G-D
+B. V-C-C
+C. E-B-C
+D. P-I-E
+
+Oplossing
+Een FET ook wel unipolaire transistor genoemd, heeft een Source, Gate en Drain. Geen
+discussie mogelijk, antwoord A.
+Opmerking
+E-B-C kan betrekking hebben op een bipolaire transistor (emitter, basis, collector), maar
+niet op een FET.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.23 Uitwerking van Opgave 8-23
+
+12 V
+De collectorstroom is
+
+1000 ohm
+
+A. 1 mA
+B. 3 mA
+C. 0,1 mA
+D. 10 mA
+
+9V
+
+2V
+
+Uitwerking
+Deze opgave betekent toepassen van de tweede wet van Kirchhoff. De enige bekende
+weerstand is de collectorweerstand. Voor de collectorstroom moeten we de spanning over
+die weerstand kennen. De voedingsspanning is 12 V. Over de transistor staat 9 V, over de
+emitterweerstand 2 V. Dan blijft er voor de collectorweerstand een schamele 12 V – 9 V –
+2 V = 1 V over.
+1 V over 1000 ohm = 1 k betekent 1 mA volgens het bekende regeltje: stop k in de wet
+van Ohm en er komen mA uit (en andersom). Het wordt dus antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.24 Uitwerking van Opgave 8-24
+Het vermogen dat de transistor dissipeert, is ongeveer
+A. 30 mW
+B. 60 mW
+C. 35 mW
+D. 25 mW
+
+12 V
+Ic
+
+1k
+
+5 mA
+
+200 
+Uitwerking
+
+0
+
+Aan de orde is de tweede wet van Kirchhoff, want we hebben de spanning over de
+transistor nodig voor onze berekening. Die volgt uit de voedingsspanning, de spanning
+over de collectorweerstand en de spanning over de emitterweerstand.
+De spanning over de collectorweerstand volgt uit de stroom van 5 mA en de
+collectorweerstand van 1 k: 5 V.
+Omdat over de basisstroom niets is gezegd, mag je aannemen dat die verwaarloosbaar is en
+de emitterstroom praktisch even groot is als de collectorstroom. 5 mA over 200  = 0,2 k
+betekent een spanning van 1 V.
+Er blijft dan 12 V – 5 V – 1 V = 6 V over voor de transistor. 5 mA * 6 V = 30 mW.
+Antwoord A is de winnaar.
+Opmerking
+De maker van de opgave had er naar de mening van uw schrijver eigenlijk bij moeten
+vertellen dat de basisstroom verwaarloosbaar is of dat β heel groot is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.25 Uitwerking van Opgave 8-25
+Voor de schakeling geldt:
+A. U2 is kleiner dan U1 en in fase met U1
+B. U2 is groter dan U1 en in fase met U1
+C. U2 is groter dan U1 en in tegenfase met U1
+D. U2 is kleiner dan U1 en in tegenfase met U1
+
+Uitwerking
+In deze schakeling komt het ingangssignaal U1 binnen op de basis van de transistor en
+wordt het uitgangssignaal afgenomen van de emitter. We hebben dier dus te maken met
+een emittervolger (GCS, gemeenschappelijke collectorschakeling).
+Omdat het ingangssignaal over de basis-emitter diode en de emitterweerstand staat en het
+uitgangssignaal alleen over de emitterweerstand, kan het uitgangssignaal U2 nooit groter
+zijn dan het ingangssignaal U1. In werkelijkheid is U2 altijd een heel klein beetje kleiner
+dan U1. Ze zijn wel in fase. Conclusie: antwoord A is goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.26 Uitwerking van Opgave 8-26
+De transistor staat geschakeld in
+A. Gemeenschappelijke basisschakeling (GBS)
+B. Een combinatie van GBS en GES
+C. Gemeenschappelijke collectorschakeling
+(GCS)
+D. Gemeenschappelijke emitterschakeling (GES)
+
+Oplossing
+De emitter is de aansluiting die geen signaal levert of ontvangt en in dit geval ook nog aan
+massa ligt. Die is dus gemeenschappelijk. Kort en goed: antwoord D.
+Opmerking
+Antwoord B is iets dat niet bestaat. Je kunt geen combinatie maken van twee
+gemeenschappelijke aansluitingen en dan nog twee aansluitingen als signaalin- en uitgang
+overhouden als zo’n ding maar drie pootjes heeft. Maar als je een multiple-choice-vraag
+moet maken met vier antwoorden, moet je soms wat bedenken….
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.27 Uitwerking van Opgave 8-27
+Voor een transistor geldt: Ube = 0,7 V.
+De basisstroom is te verwaarlozen.
+Uce is:
+A. 10,7 V
+B. 0,7 V
+C. 5,0 V
+D. 4,3 V
+
+Uitwerking
+Opnieuw een vraagstuk met een transistor en de tweede wet van Kirchhoff. De spanning
+tussen 0 V en de voedingsspanning valt uiteen in 4 delen:
+1.
+2.
+3.
+4.
+
+De spanning over de collectorweerstand
+De spanning Ucb tussen collector en basis
+De basis-emitterspanning Ube
+De spanning over de emitterweerstand.
+
+Nummer 3 is gegeven: 0,7 V. Gevraagd is Uce, dat is de som van de nummers 2 en 3.
+We beginnen met de spanning over de emitterweerstand. Die volgt uit de spanningsdeler
+over de basis en Ube. De vervangingsweerstand van de serieschakeling is 25 k. Dat komt
+prettig uit, want de voedingsspanning is 25 V. Dus 1 V per k en dat betekent 5 V op de
+basis. Dan hebben we 5 V – 0,7 V = 4,3 V over de emitterweerstand van 430 .
+Dat was nummer 4. Die rekent prettig, want de emitterstroom Ie is 4,3 V⁄ 430  = 10mA.
+De emitterstroom is gelijk aan de collectorstroom, want we mochten de basisstroom
+verwaarlozen. 10 mA door 1000  (1 k) betekent 10 V over de collectorweerstand. Dat
+was nummer 1. Nu hebben we alles bij elkaar gescharreld. Het resultaat:
+𝑈c𝑒 = 25 V − 10 V − 4,3 V = 10,7 V
+Het wordt dus antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.28 Uitwerking van Opgave 8-28
+De collectorstroom is 100 mA. De stroom I is:
+A. 50 mA
+B. 25 mA
+C. 75 mA
+D. 100 mA
+
+Uitwerking
+Deze opgave doet denken aan Opgave 8-20.
+De collectorstroom verdeelt zich over de drie parallel geschakelde weerstanden. De
+weerstand van 100  die met het drietal in serie staat, doet in de berekening niet mee,
+want de collectorstroom moet daar in zijn geheel doorheen. Die weerstand is dus
+hoogstens bedoeld om verwarring te zaaien.
+De collectorstroom splitst zich onder de weerstand van 100  in drie takken die zich bij
+de collectoraansluiting weer samenvoegen. Elke deelstroom is omgekeerd evenredig met
+de bijbehorende weerstand, dus de verhouding wordt ½ : ¼ : ¼. De helft van de 100 mA,
+50 mA dus, loopt door de weerstand van 200 . De andere helft wordt opgedeeld in twee
+gelijke porties van 25 mA, één voor elke weerstand van 400 . De stroom I betreft de
+rechter weerstand van 400 . Die krijgt 25 mA, antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.29 Uitwerking van Opgave 8-29
+De voltmeter wijst 5V aan en heeft een inwendige weerstand van 2 k. Van de transistor
+is β =100.
+
+De ingangsweerstand Ri is ongeveer
+A. 10 k
+B. 2 k
+C. 0,5 k
+D. 200 k
+Uitwerking
+De emitterweerstand van 2 k is vermomd als voltmeter. Dat kan, maar gebruikelijk is
+het niet. De aanwijzing van 5 V is alleen interessant om aan te tonen dat er stroom door
+de meter en dus door de transistor loopt. In het schema staat namelijk geen schakeling die
+de basisspanning op een geschikte waarde brengt. Je mag dus aannemen dat dit een
+deelschema van een groter geheel is.
+Nu de vraag zelf. De schakeling is een GCS (gemeenschappelijke collectorschakeling) of
+emittervolger. Daarvan is de ingangsweerstand 𝑅𝑖 ≈ (𝛽 + 1)𝑅𝑒 , waarin Re de
+emitterweerstand is. Als  gelijk is aan 100, mag je op grond van het teken “” ook zeggen
+dat 𝑅𝑖 ≈ (𝛽 + 1)𝑅𝑒 hetzelfde is als 𝑅𝑖 ≈ 𝛽𝑅𝑒 . Dat leidt tot antwoord D, want 100 * 2 k =
+200 k.
+Opmerking
+Het voltmeter-schemasymbool zou strikt genomen een oneindige inwendige weerstand
+moeten vertegenwoordigen. Dat is hier duidelijk niet het geval.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.30 Uitwerking van Opgave 8-30
+Deze karakteristiek heeft betrekking op
+een:
+
+A. FET
+B. zenerdiode
+C. weerstand
+D. spanningsbron
+
+Uitwerking
+Rechts zien we een met toenemende spanning steil oplopende stroom, links gebeurt er
+een heel eind bijna niets, waarna de grafiek steil de negatieve waarden induikt. Typisch
+het gedrag van een diode: rechts een pietsje drempelspanning, links de doorslagspanning.
+Het keuzemenu biedt van de dioden alleen de zenerdiode aan; de rest past niet bij deze
+grafiek. Antwoord B dus.
+Opmerking
+Normaal gesproken zou je deze opgave bij hoofdstuk 7 verwachten. Hij staat hier, omdat
+in het rijtje antwoorden de FET wordt genoemd.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.31 Uitwerking van Opgave 8-31
+De waarde van de weerstand Rc is:
+A. 0,5 kΩ
+B. 2,5 kΩ
+C. 2 kΩ
+D. 3 kΩ
+
+Uitwerking
+Dit is weer eens een geval voor de tweede wet van Kirchhoff.
+De totale spanning over de schakeling is 30 V. Daarvan staat 5 V (Uce) over de transistor
+en blijft er 30V– 5 V = 25 V over voor de spanning over Rc. Dan is
+𝑅c =
+
+25V
+= 2,5 kΩ
+10 mA
+
+Dat is antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.32 Uitwerking van Opgave 8-32
+Van de transistor is de hFE = 100. Welke bewering is juist?
+
+A. U1 = 0V en U2 = 10V
+B. U1 = 0,1V en U2 = 0,1V en hebben dezelfde fase
+C. De ingangsspanning is te klein om enig effect op U1 en U2 te hebben
+D. U1 = 0,1V en U2 = 0,1V en hebben tegengestelde fase
+Uitwerking
+De (wissel)spanning U1 wordt afgenomen van de emitter. Daardoor is U1 (bijna) gelijk aan
+de op de basis aangeboden wisselspanning, dus praktisch gezien 0,1 V.
+De emitterstroom loopt op 1/101 deel na (dat kleine beetje takt af via de basis) ook door de
+collector en de collectorweerstand. Praktisch gezien zijn emitter- en collectorstroom dan
+ook even groot. Collector- en emitterweerstand zijn ook even groot, wat betekent dat U2
+praktisch gezien ook 0,1 V is.
+Het verschil tussen U1 en U2 is niet de grootte, maar wel de fase, want de spanning op de
+emitter is in fase met die op de basis en de spanning op de collector is daarmee in
+tegenfase. Kortom, D is het goede antwoord.
+Opmerking
+Dit soort schakeling is geschikt om van één signaal twee even grote signalen te maken die
+in tegenfase zijn. In sommige versterkerschakelingen voor groot vermogen kan dit nodig
+zijn. De schakeling staat bekend onder de naam fase-omkeerschakeling.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.33 Uitwerking van Opgave 8-33
+De waarde van Rb is:
+
+A. 600 k
+B. 400 k
+C. 300 k
+D. 500 k
+Uitwerking
+Deze opgave brengt ons naar een toepassing van de wet van Ohm. De voedingsspanning is
+12 V. De basisspanning Ub is 2 V. De 2 V en de 12 V zijn gescheiden door de
+basisweerstand Rb, waar onder invloed van een spanning van 12 V – 2 V = 10 V een
+stroom van 20 A doorheen loopt. Bereken daaruit Rb via:
+𝑅𝑏 =
+
+𝑈
+10V
+=
+= 0,5 M = 500 k
+𝐼𝑏 20𝜇A
+
+Stop A en V samen in de wet van Ohm en er komen M uit. Antwoord D.
+Opmerking
+Deze opgave is weer een voorbeeld van hoe je verwarring schept bij een
+examenkandidaat, door hem/haar te voorzien van overbodige gegevens. Hoe vast sta je in
+je schoenen? Dat is eigenlijk de achterliggende vraag.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.34 Uitwerking van Opgave 8-34
+De voltmeter wijst aan:
+
+A. 5 V
+B. 2 V
+C. 10 V
+D. 0 V
+Analyse en oplossing
+Bij dit soort schema’s is de eerste vraag, hoeveel stroom door de transistor loopt. Dat
+antwoord is in dit geval snel gegeven, want basis en emitter zijn beide verbonden met
+massa. Er staat dus 0 V spanning over de basis-emitterdiode en de stroom is 0 A.
+De stroom die er wel loopt, is die door de spanningsdeler van 100  en 500 . De
+voltmeter zit tussen dit knooppunt en massa en meet dus de spanning over de weerstand
+van 500 . De voedingsspanning is -12 V, want de transistor is een PNP-type. De
+spanning op het knooppunt is 500*(-12 V)/600 = -10 V. Maar… die staat niet in het rijtje
+antwoorden! Tja, dat was de vraag ook niet. Die was, hoeveel de voltmeter aanwijst.
+Analoge voltmeters geven meestal alleen positieve waarden. Om dan een aflezing te
+krijgen van een negatieve spanning, verwissel je simpelweg de aansluitingen. Dus toch
+10V zonder minteken, antwoord C. Maar een beetje flauw is dit wel.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.35 Uitwerking van Opgave 8-35
+De spanning U is:
+A. 0 V
+B. 10 V
+C. 2 V
+D. 8 V
+
+Uitwerking
+Doordat basis en emitter van de transistor uitwendig zijn verbonden, spert de transistor.
+Immers, de basis-collector diode staat bij een transistor in sperrichting. Daar loopt dus
+geen stroom doorheen en de transistor kan daarom evengoed uit het schema worden
+weggelaten. Dan blijft een simpele spanningsdeler met een weerstand van 200 Ω in serie
+met één van 800 Ω over. De spanning U is dan gelijk aan 800/(200+800) is 0,8 maal 10 V is
+8 V. Antwoord D wint.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.36 Uitwerking van Opgave 8-36
+De meter wijst 100 A aan; 𝐼e = 20mA.
+De collectorstroom is
+A. 20 mA
+B. 20,1 mA
+C. 21 mA
+D. 19,9 mA
+
+Uitwerking
+De emitterstroom is 20 mA. In de basis gaat daar 100 A = 0,1 mA aan basisstroom vanaf
+(dat is de stroom die door de meter loopt). Voor de collectorstroom blijft er dan 20 mA –
+0,1 mA = 19,9 mA over. Dat is antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.37 Uitwerking van Opgave 8-37
+Ib is 200 A; Ie is 18 mA. De collectorstroom
+is
+A. 18,2 mA
+B. 17,8 mA
+C. 18 mA
+D. 20 mA
+
+Uitwerking
+Deze opgave lijkt op Opgave 8-36.
+De emitterstroom Ie is de som van collectorstroom Ic en basisstroom Ib:
+𝐼𝑒 = 𝐼𝑏 + 𝐼𝑐
+
+→
+
+𝐼𝑐 = 𝐼𝑒 − 𝐼𝑏
+
+Conclusie: de collectorstroom is 18 mA - 200 A = 18 mA-0,2 mA = 17,8 mA.
+Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.38 Uitwerking van Opgave 8-38
+Deze karakteristiek heeft betrekking op
+een:
+
+A. Resonantiekring
+B. NPN-transistor
+C. Weerstand
+D. Diode
+
+Uitwerking
+Dit gedrag van stroom tegen spanning is dat van een diode. Linksonder zien we het
+verloop naar en voorbij de sperspanning, rechts van de verticale as het in geleiding
+komen. Antwoord D dus.
+Opmerkingen
+Eigenlijk zou je deze opgave bij Hoofdstuk 7 verwachten. Omdat in het rijtje antwoorden
+een NPN-transistor staat, staat hij hier.
+Het verloop rechts van de verticale as had wel iets meer drempelspanning mogen laten
+zien. Maar de verticale schaal is niet van getallen voorzien, dus kan het allemaal wel.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.39 Uitwerking van Opgave 8-39
+Indien de punten X en Y worden
+doorverbonden:
+A. Neemt de collectorstroom af
+B. Neemt de emitterstroom toe
+C. Blijft de collectorstroom gelijk
+D. Neemt de collectorstroom toe
+
+Uitwerking
+Als X en Y worden verbonden (=kortgesloten), dan wordt de basisspanning lager. In dit
+geval zelfs 0 V. Als de basisspanning lager wordt, neemt de spanning over de
+emitterweerstand af. Daardoor neemt de stroom door de transistor af. In dit geval wordt
+deze zelfs 0. Dan is A het enige goede antwoord.
+Opmerking
+Er is ook een “quick and dirty” (“vlug en smerig”) antwoord mogelijk:
+B en D komen tegelijk voor, want als de emitterstroom toeneemt, doet de collectorstroom
+het ook. Bij een multiple-choice-vraag is maar één antwoord goed, dus deze vallen met z’n
+tweeën af. Door de kortsluiting in het basiscircuit is het onwaarschijnlijk dat een stroom
+in de transistor gelijk blijft, dus C valt ook af. Ook dan kom je bij antwoord A uit.
+Toegegeven, netjes is het niet, maar als je op een examen klem komt te zitten met een
+opgave, kun je altijd nog zoiets proberen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.40 Uitwerking van Opgave 8-40
+De stroomversterking is ongeveer:
+A. 200
+B. 50
+C. 10
+D. 100
+
+Uitwerking 1
+We beginnen met het berekenen van de collectorstroom. De voedingsspanning is 40 V, de
+spanning over de transistor 20 V. Dan is de spanning over de collectorweerstand 40 V – 20
+V = 20 V.
+De stroom door de collectorweerstand is dan 20 V/1,2 k = 16,7 mA.
+Over de basisweerstand staat 40 V als we de basis-emitterspanning niet meetellen. Er is
+niet gegeven of dit een Si of een Ge-transistor is, dus gaan we uit van een ideale transistor.
+De basisstroom is dan 40 V/120 k = 0,33 mA.
+Dan is de stroomversterking 16,7 mA/0,33 mA  50. Antwoord B.
+Uitwerking 2
+Het kan met minder rekenwerk. Over de collectorweestand van 1,2 k staat 20 V. Zou er
+over de basisweerstand van 120 k ook 20 V staan, dan zou de basisstroom 1/100 zijn van
+de collectorstroom en zou de stroomversterking hFE = β 100 bedragen. In werkelijkheid
+staat over de basisweerstand geen 20 V maar 40 V. Dan is de basisstroom 2x groter en de
+stroomversterking 2x kleiner, dus 50. Zelfde antwoord, B dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.41 Uitwerking van Opgave 8-41
+In de schakeling met een siliciumtransistor zal de meter de volgende gelijkspanning
+aangeven:
+A. 3,4 V
+B. 2,7 V
+C. 2 V
+D. 5,3 V
+
+Uitwerking
+In feite wordt gevraagd naar de emitterspanning. Daarvoor moeten we de basisspanning
+weten en er voor een Si-NPN-transistor ongeveer 0,5 tot 0,7 V vanaf doen. De
+basisspanning is 2,7 V en dan is het in de antwoorden zoeken naar iets in het bereik van 2
+tot 2,2 V.
+Dat is antwoord C met 2 V.
+Opmerking
+In het schema staan weer de (on)nodige overbodige gegevens, zoals de collectorspanning.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.42 Uitwerking van Opgave 8-42
+De spanning Uce tussen emitter en collector is:
+A. 0,5 V
+B. 9,5 V
+C. 10 V
+D. 19,5 V
+
+Uitwerking
+Het berekenen van Uce komt in dit geval neer op het berekenen van de collectorspanning,
+want de emitter ligt aan 0 V. Dan moeten we uit de “snoepdoos” aan gegevens de juiste
+kiezen. Dat zijn de collectorstroom Ic, de collectorweerstand Rc en de voedingsspanning
+Ub. De spanning over de collectorweerstand is 5 mA*2 k = 10 V. De inmiddels bekende
+truc: gebruik mA en k en je krijgt V. Dan is de collectorspanning 20 V – 10 V = 10 V en
+dat is ook Uce. Antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.43 Uitwerking van Opgave 8-43
+De ingang van een junction-FET gedraagt zich als een diode die in sperrichting is
+aangesloten. De ingangsweerstand van deze junction-FET:
+A. Is zeer laag (enkele ohm)
+B. Is enkele kilo-ohm
+C. Is zeer hoog (enkele mega-ohm)
+D. Is vrijwel een kortsluiting
+Uitwerking 1
+Dit is een weetje, maar wel een belangrijk weetje. Door de gate van een FET loopt bij
+normale schakeling praktisch geen stroom, omdat de ingangsweerstand zeer hoog is (11000 M). Antwoord C.
+Uitwerking 2
+Een in sperrichting aangesloten diode heeft een zeer hoge weerstand. Antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.44 Uitwerking van Opgave 8-44
+De ingangsimpedantie bij 1 kHz van een JFET ligt tussen
+A. 100  en 1 k
+B. 1  en 100 
+C. 1 M en 100 M
+D. 10 k en 100 k
+Uitwerking
+Zie de uitwerking van Opgave 8-43. Antwoord C is goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.45 Uitwerking van Opgave 8-45
+De ingangsimpedantie bij 1 kHz wordt hoofdzakelijk bepaald door de:
+A. Externe weerstand tussen gate en aarde
+B. Externe drain-weerstand
+C. Instelling van de FET
+D. Externe source-weerstand
+
+Uitwerking
+De gateweerstand van 1 M is veel kleiner dan de interne weerstand van de gate zelf.
+Daarom wordt de ingangsimpedante hier vooral bepaald door de externe weerstand van 1
+M tussen gate en aarde. Antwoord A.
+Opmerking
+De gekozen frequentie van 1 kHz is zo laag dat de inwendige capaciteit tussen gate en
+source nog geen merkbare invloed heeft op de ingangsimpedantie. De weerstand van 1
+M maakt dat de gelijkspanning tussen gate en aarde 0 is.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.46 Uitwerking van Opgave 8-46
+Bij een normale instelling is de weerstand tussen de gate en de source van een
+veldeffecttransistor:
+A. Gelijk aan de steilheid S
+B. Gelijk aan de stroomversterking hFE
+C. Zeer groot
+D. Zeer klein
+
+Uitwerking
+Die weerstand is zeer groot, omdat de gate een in sperrichting aangesloten PN-junctie is.
+Antwoord C.
+Opmerkingen
+De steilheid is het omgekeerde van een weerstand.
+De grootheid hFE is stroomversterking van een bipolaire transistor (NPN of PNP) en hoort
+niet bij FET’s.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.47 Uitwerking van Opgave 8-47
+De ingangsfrequentie is 10 kHz. De condensator wordt vervangen door een condensator
+van 1000 pF.
+Hierdoor zal de versterking:
+A. Groter worden
+B. Kleiner worden
+C. Gelijk blijven
+D. Nul worden
+
+Uitwerking
+Bij wisselspanning zal de condensator de source-impedantie verlagen, waardoor de
+versterking toeneemt. Maar als de capaciteit wordt verlaagd, neemt de reactantie van de
+condensator toe. Daardoor zal vooral bij lagere frequenties de versterking afnemen.
+Antwoord B.
+Opmerking
+Je kunt je afvragen of 10 kHz bij die lagere frequenties hoort en of de vermindering van de
+versterking minimaal is of dat die iets voorstelt. Een snelle controle daarop is het bepalen
+van de tijdconstante van de twee combinaties van weerstand en condensator aan de source
+en die te vergelijken met de periodeduur van 10 kHz. De oorspronkelijke combinatie heeft
+103.10-5 s = 10 ms. De nieuwe heeft 103.10-9 s = =0,001 ms. De periodeduur van 10 kHz is
+0,1 ms. Die ligt netjes midden tussen beide RC-waarden. Dan moet er een duidelijke
+vermindering van de versterking zijn.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.48 Uitwerking van Opgave 8-48
+Stelling 1: de drainstroom van een FET is afhankelijk van de gatespanning
+Stelling 2: de drainstroom van een FET is praktisch onafhankelijk van de drainspanning
+Wat is juist:
+A. Geen van beide stellingen
+B. Alleen stelling 1
+C. Alleen stelling 2
+D. Stelling 1 en 2
+Uitwerking
+Via de gatespanning van een FET wordt de drainstroom aangestuurd. De bijbehorende
+grootheid is de steilheid. Stelling 1 klopt dus.
+De drainstroom van een FET is praktisch onafhankelijk van de drainspanning. Het
+verband tussen beide is de grootheid Ri, de inwendige weerstand. Die is bij een FET hoog,
+maar niet oneindig. Daarom staat in de stelling ook niet “onafhankelijk” maar “praktisch
+onafhankelijk”. En dan klopt ook deze stelling.
+Concusie: beide stellingen zijn waar en dat draait uit op antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.49 Uitwerking van Opgave 8-49
+Van de onderstaande schakeling is gegeven:
+Ia = 100 mA
+Ua = 50 V
+Ub = 300 V
+De waarde van de weerstand Ra is:
+A. 0,5 k
+B. 1 k
+C. 2,5 k
+D. 3 k
+Uitwerking
+De voedingsspanning Ub is 300 V. De anodespanning Ua is 50 V. Dan is de spanning over
+de anodeweerstand Ra 300 V – 50 V = 250 V. Door de weerstand loopt de anodestroom Ia.
+Die is 100 mA. Dan is het een kwestie van toepassen van de wet van Ohm om de
+weerstand te vinden:
+250 V = 𝑅. 100 mA → 𝑅 =
+
+250 V
+= 2,5 k
+100 mA
+
+Ook hier weer het trucje: stop mA en V samen in de wet van Ohm en je krijgt de uitkomst
+in k. Antwoord C is goed.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 A
+
+8.5.50 Uitwerking van Opgave 8-50
+In onderstaande figuur is een triode opgenomen in een versterkerschakeling.
+
+Deze triode is geschakeld in
+A. Gemeenschappelijke roosterschakeling
+B. Gemeenschappelijke kathodeschakeling
+C. Gemeenschappelijke anodeschakeling
+D. Gemeenschappelijke kathode-roosterschakeling
+Uitwerking
+De kathode is via C2 verbonden met massa. Voor anode en rooster is zo’n verbinding er
+niet. Dit is dus een gemeenschappelijke kathodeschakeling (GKS). Antwoord B.
+Opmerking
+Een gemeenschappelijke kathode-roosterschakeling klinkt gewichtig, maar hij bestaat
+niet. Je moet wat bedenken om vier antwoorden te maken als er eigenlijk maar drie
+zijn…..
+
+Meer opgaven in deel B
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 8.4 uitgezonderd)
+
+8-114
+
+

@@ -1,0 +1,5563 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Inhoudsopgave
+2
+
+Basiskennis ......................................................................................................................2-8
+2.1
+
+Wat leer je in dit hoofdstuk ....................................................................................2-8
+
+2.2
+
+Rekenmachine, exameninfo....................................................................................2-9
+
+2.3
+
+Navigeren bij de opgaven ........................................................................................2-9
+
+2.4
+
+Getallen, eenheden en grootheden.......................................................................2-10
+Inleiding ..........................................................................................................2-10
+Eenhedenstelsels............................................................................................. 2-10
+Basiseenheden in het SI-stelsel......................................................................2-11
+Voorvoegsels ...................................................................................................2-11
+Afgeleide eenheden ........................................................................................2-14
+Samenvatting ..................................................................................................2-14
+
+2.5
+
+Opgaven .................................................................................................................2-15
+Opgave 2-1 ......................................................................................................2-15
+Opgave 2-2 ......................................................................................................2-15
+Opgave 2-3 ......................................................................................................2-15
+Opgave 2-4 ......................................................................................................2-15
+Opgave 2-5 ......................................................................................................2-15
+
+2.6
+
+Schrijfwijze van getallen, eenheden, grootheden en symbolen .........................2-16
+
+2.7
+
+Optellen en aftrekken ...........................................................................................2-16
+Plussen en minnen .........................................................................................2-16
+Tekens gecombineerd, haakjes ......................................................................2-18
+Teken en richting ...........................................................................................2-18
+Som en verschil .............................................................................................. 2-18
+Grootheden optellen ......................................................................................2-18
+Samenvatting ..................................................................................................2-19
+
+2.8
+
+Opgaven .................................................................................................................2-20
+Opgave 2-6 ......................................................................................................2-20
+Opgave 2-7 ......................................................................................................2-20
+Opgave 2-8 ......................................................................................................2-20
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-1
+
+VRZA-cursus radiozendamateur
+
+2.9
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Vermenigvuldigen .................................................................................................2-21
+Vermenigvuldigen van getallen ....................................................................2-21
+Vermenigvuldigen van gelijksoortige grootheden .......................................2-21
+Vermenigvuldigtekens ...................................................................................2-22
+Vermenigvuldigen van ongelijksoortige grootheden ...................................2-22
+Het teken van een product ............................................................................2-23
+Samenvatting: .................................................................................................2-23
+
+2.10
+
+Opgaven ..............................................................................................................2-25
+Opgave 2-9 ..................................................................................................2-25
+Opgave 2-10 ................................................................................................ 2-25
+Opgave 2-11 ................................................................................................ 2-25
+Opgave 2-12 ................................................................................................ 2-25
+
+2.11
+
+Delen en omgekeerde waarden .........................................................................2-26
+Delen en deeltekens ...................................................................................2-26
+De deling als vermenigvuldiging ............................................................... 2-26
+De volgorde in een deling ..........................................................................2-26
+Het teken van een quotiënt .......................................................................2-27
+Samenvatting: ............................................................................................. 2-27
+
+2.12
+
+Opgaven ..............................................................................................................2-28
+Opgave 2-13 ................................................................................................ 2-28
+Opgave 2-14 ................................................................................................ 2-28
+Opgave 2-15 ................................................................................................ 2-28
+Opgave 2-16 ................................................................................................ 2-28
+
+2.13
+
+Breuken ..............................................................................................................2-29
+Wat is een breuk? .......................................................................................2-29
+Vereenvoudigen van breuken ....................................................................2-29
+Optellen van breuken .................................................................................2-30
+Vermenigvuldigen van breuken ................................................................ 2-31
+Samenvatting: ............................................................................................. 2-31
+
+2.14
+
+Opgaven ..............................................................................................................2-32
+Opgave 2-17 ................................................................................................ 2-32
+Opgave 2-18 ................................................................................................ 2-32
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-2
+
+VRZA-cursus radiozendamateur
+
+2.15
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Tiendelige of decimale breuken ........................................................................2-33
+Opbouw van getallen .................................................................................2-33
+Consequent doorredeneren ........................................................................2-33
+De komma ...................................................................................................2-33
+Meetnauwkeurigheid en afronden ............................................................ 2-34
+Percentages .................................................................................................2-35
+Samenvatting: ............................................................................................. 2-35
+
+2.16
+
+Opgaven ..............................................................................................................2-36
+Opgave 2-19 ................................................................................................ 2-36
+Opgave 2-20 ................................................................................................ 2-36
+Opgave 2-21 ................................................................................................ 2-36
+Opgave 2-22 ................................................................................................ 2-36
+
+2.17
+
+Kwadraten, machten en exponenten ................................................................ 2-37
+Kwadraten ...................................................................................................2-37
+Exponenten: van vermenigvuldiging naar optelling ................................ 2-37
+Negatieve exponenten ................................................................................2-38
+Een exponent van niets ..............................................................................2-39
+Een exponent is nooit een grootheid, altijd een getal .............................. 2-39
+Samenvatting .............................................................................................. 2-39
+
+2.18
+
+Opgave ................................................................................................................2-40
+Opgave 2-23 ................................................................................................ 2-40
+
+2.19
+
+Wortels ...............................................................................................................2-40
+Een wortel is het omgekeerde van een macht en zelden een geheel getal .2-
+
+40
+De wortel als macht ....................................................................................2-40
+Soorten wortels ...........................................................................................2-41
+Nog meer machten .....................................................................................2-42
+Samenvatting .............................................................................................. 2-43
+2.20
+
+Opgave ................................................................................................................2-43
+Opgave 2-24 ................................................................................................ 2-43
+
+2.21
+
+Voorrangsregels en de pensionering van mijnheer van Dale ..........................2-43
+Gemengde berekeningen ...........................................................................2-43
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Rangorde van bewerkingen .......................................................................2-43
+Rekenregels .................................................................................................2-44
+Samenvatting .............................................................................................. 2-46
+2.22
+
+Opgaven ..............................................................................................................2-47
+Opgave 2-25 ................................................................................................ 2-47
+Opgave 2-26 ................................................................................................ 2-47
+Opgave 2-27 ................................................................................................ 2-47
+
+2.23
+
+Machten van 10, logaritmen en de decibel ......................................................2-48
+Machten van 10 ..........................................................................................2-48
+Stoeien met exponenten .............................................................................2-48
+Logaritmen ..................................................................................................2-49
+Andere grondtallen dan 10 ........................................................................2-50
+Logaritmen van getallen tussen 0 en 1 ......................................................2-51
+De decibel....................................................................................................2-51
+Samenvatting .............................................................................................. 2-53
+
+2.24
+
+Opgaven ..............................................................................................................2-54
+Opgave 2-28 ................................................................................................ 2-54
+Opgave 2-29 ................................................................................................ 2-54
+Opgave 2-30 ................................................................................................ 2-54
+Opgave 2-31 ................................................................................................ 2-54
+Opgave 2-32 ................................................................................................ 2-55
+Opgave 2-33 ................................................................................................ 2-55
+
+2.25
+
+Getallenstelsels ...................................................................................................2-56
+Inleiding ......................................................................................................2-56
+Het tientallige stelsel ..................................................................................2-56
+Het tweetallige of binaire stelsel, de bit ....................................................2-57
+Het zestientallige of hexadecimale stelsel. ................................................2-58
+Samenvatting .............................................................................................. 2-59
+
+2.26
+
+Grafieken ............................................................................................................2-60
+Wat zie je aan een grafiek? ........................................................................2-60
+Waarop moet je vooral letten bij een grafiek? ..........................................2-62
+
+2.27
+
+Vergelijkingen ....................................................................................................2-63
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Hoe zit een vergelijking in elkaar? ............................................................ 2-63
+Gelijkheden .................................................................................................2-64
+Ongelijkheden ............................................................................................ 2-66
+2.28
+
+Opgaven ..............................................................................................................2-67
+Opgave 2-34 ................................................................................................ 2-67
+Opgave 2-35 ................................................................................................ 2-67
+Opgave 2-36 ................................................................................................ 2-67
+Opgave 2-37 ................................................................................................ 2-68
+
+2.29
+
+Evenredigheid ....................................................................................................2-68
+
+2.30
+
+De stelling van Pythagoras ................................................................................2-68
+Rechte hoeken ............................................................................................ 2-68
+De stelling zelf ............................................................................................ 2-69
+Toepassen ....................................................................................................2-70
+Samenvatting .............................................................................................. 2-70
+
+2.31
+
+Goniometrische verhoudingen en  (pi) ..........................................................2-71
+Goniometrische verhoudingen ..................................................................2-71
+Sinus en cosinus ..........................................................................................2-71
+Sinus, cosinus en de cirkel .........................................................................2-72
+Periode en fase ............................................................................................ 2-75
+Het getal  (pi) ............................................................................................ 2-75
+Samenvatting .............................................................................................. 2-76
+
+2.32
+
+Periode, frequentie, radialen, hoeksnelheid en cirkelfrequentie ....................2-77
+
+2.33
+
+Functies...............................................................................................................2-79
+
+2.34
+
+Twee grondbeginselen uit de natuurkunde......................................................2-80
+Beginsel 1 ....................................................................................................2-80
+Beginsel 2 ....................................................................................................2-81
+
+2.35
+
+Antwoorden bij de opgaven ..............................................................................2-82
+Uitwerking van Opgave 2-1 .......................................................................2-82
+Uitwerking van Opgave 2-2 .......................................................................2-83
+Uitwerking van Opgave 2-3 .......................................................................2-84
+Uitwerking van Opgave 2-4 .......................................................................2-85
+Uitwerking van Opgave 2-5 .......................................................................2-86
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-6 .......................................................................2-87
+Uitwerking van Opgave 2-7 .......................................................................2-88
+Uitwerking van Opgave 2-8 .......................................................................2-89
+Uitwerking van Opgave 2-9 .......................................................................2-90
+Uitwerking van Opgave 2-10 .....................................................................2-91
+Uitwerking van Opgave 2-11 .....................................................................2-92
+Uitwerking van Opgave 2-12 .....................................................................2-93
+Uitwerking van Opgave 2-13 .....................................................................2-94
+Uitwerking van Opgave 2-14 .....................................................................2-95
+Uitwerking van Opgave 2-15 .....................................................................2-96
+Uitwerking van Opgave 2-16 .....................................................................2-97
+Uitwerking van Opgave 2-17 .....................................................................2-98
+Uitwerking van Opgave 2-18 .....................................................................2-99
+Uitwerking van Opgave 2-19 ...................................................................2-100
+Uitwerking van Opgave 2-20 ...................................................................2-101
+Uitwerking van Opgave 2-21 ...................................................................2-102
+Uitwerking van Opgave 2-22 ...................................................................2-103
+Uitwerking van Opgave 2-23 ...................................................................2-104
+Uitwerking van Opgave 2-24 ...................................................................2-105
+Uitwerking van Opgave 2-25 ...................................................................2-106
+Uitwerking van Opgave 2-26 ...................................................................2-107
+Uitwerking van Opgave 2-27 ...................................................................2-108
+Uitwerking van Opgave 2-28 ...................................................................2-109
+Uitwerking van Opgave 2-29 ...................................................................2-110
+Uitwerking van Opgave 2-30 ...................................................................2-111
+Uitwerking van Opgave 2-31 ...................................................................2-112
+Uitwerking van Opgave 2-32 ...................................................................2-113
+Uitwerking van Opgave 2-33 ...................................................................2-114
+Uitwerking van Opgave 2-34 ...................................................................2-115
+Uitwerking van Opgave 2-35 ...................................................................2-116
+Uitwerking van Opgave 2-36 ...................................................................2-117
+Uitwerking van Opgave 2-37 ...................................................................2-118
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-6
+
+VRZA-cursus radiozendamateur
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2 Basiskennis
+2.1
+
+Wat leer je in dit hoofdstuk
+
+Dit hoofdstuk gaat over kennis die nodig is om de rest van deze cursus te kunnen volgen.
+Sommigen zullen het kunnen overslaan. Anderen zullen het af en toe als naslagwerk
+gebruiken en weer anderen zullen het echt nodig hebben om hun kennis bij te spijkeren.
+Radio is toegepaste natuurkunde. In de natuurkunde draait het om processen. In een
+zender speelt zich het proces af van de omzetting van elektrische energie in radiogolven.
+Als je dat precies bekijkt, gaat het zelfs om een aantal processen op rij.
+Bij natuurkundige processen horen getallen, eenheden en grootheden. Daar beginnen we
+dan ook mee. Je maakt kennis met eenhedenstelsels. Nadruk ligt op het SI-eenhedenstelsel
+dat in de wereld veruit het wijdst verbreide stelsel is. Je leert het verschil tussen getallen,
+eenheden en grootheden. Daar hoort een verschil in schrijfwijze bij. Een beetje wiskunde
+hoort er ook bij. Die houden we eenvoudig. Wiskunde is de taal van de natuurkunde. Het
+prettige eraan zijn de vaste regels. Kom daar eens om bij een taal als Nederlands.
+We beginnen ons wiskundige deel met rekenen. Daarbij gaat het niet alleen over getallen,
+maar ook over grootheden en eenheden. Je zou het natuurkundig rekenen kunnen
+noemen. Alle gebruikelijke bewerkingen komen langs. Je ziet dat optellen en aftrekken in
+wezen hetzelfde kunstje zijn: aftrekken is optellen met een negatief getal. Een optelling
+blijkt niet meer dan een opsomming van getallen met een + of – ervoor. Bij
+vermenigvuldigen en delen is het weinig anders. Een deling is eenvoudig om te zetten in
+een vermenigvuldiging.
+We gaan daarna verder met hele en gebroken getallen en tiendelige breuken. Wortels en
+machten blijken ook niet van elkaar te verschillen, omdat je elke wortel kunt schrijven als
+een macht. We gaan daarbij van hele naar gebroken machten en langs die weg komen we
+uit bij logaritmen en decibels. Onderweg nemen we ook procenten mee, want dat is
+verplichte kennis voor het zendexamen.
+Ook komen verschillende getallenstelsels aan de orde. Het zendexamen vraagt kennis van
+digitale elektronica. Die berust niet op ons tientallige stelsel, maar op het tweetallige. Dat
+is de wereld van nullen en enen. Verwant daarmee is het zestientallige stelsel. Daarover
+zullen we het dus ook hebben.
+Dan komen grafieken aan de beurt, gevolgd door het werken met eenvoudige wiskundige
+vergelijkingen en de stelling van Pythagoras die we bij de wisselstroomtheorie nodig
+zullen hebben. Voor de wisselstroomtheorie is het ook nodig dat we ons verdiepen in een
+stukje van de goniometrie, namelijk de sinus en de cosinus.
+Aan het eind volgt een lichtvoetige behandeling van twee beginselen uit de
+thermodynamica. Die hoef je niet diepgaand te kennen, maar je moet wel snappen waar
+het om draait.
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-8
+
+VRZA-cursus radiozendamateur
+
+2.2
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Rekenmachine, exameninfo
+
+De wiskunde die je nodig hebt voor het zendexamen is niet meer dan wat in dit hoofdstuk
+wordt behandeld. Het rekenwerk dat erbij hoort, kun je misschien zonder rekenmachine
+af. Toch krijg je bij het examen een zakrekenmachine te leen. Het leenapparaat is
+momenteel (mei 2025) een Casio fx-82NL Een eigen rekenmachine is niet toegestaan. Alle
+exameninformatie vind je op de site van het CBR: https://www.cbr.nl/nl/recreatievaartppl-rzam/radiozendamateur/full. Als je een zakrekenmachine niet zo gewend bent en niet
+erg goed bent in hoofdrekenen, train jezelf dan op zo’n ding. Op het examen heb je per
+vraagstuk gemiddeld maar een paar minuten!
+Je zakrekenmachine moet wat meer kunnen dan alleen optellen, aftrekken,
+vermenigvuldigen en delen. Machten, wortels, logaritmen, sinus en cosinus moeten er
+liefst wel op zitten.
+
+2.3
+
+Navigeren bij de opgaven
+
+In deze cursus kom je af en toe opgaven tegen. Daarmee kun je je opgedane kennis
+toetsen. In dit hoofdstuk zijn dat de enige opgaven. Bij volgende hoofdstukken vind je ook
+echte examenopgaven. In elk hoofdstuk zelf zitten opgaven van hetzelfde soort als
+examenopgaven, maar ze zijn daar zelden uit overgenomen. Een of meer aparte bestanden
+bij de hoofdstukken 3 en hoger bevatten opgaven die wel aan examens zijn ontleend. Ze
+bevatten opgaven die betrekking hebben op de leerstof van bijbehorende hoofdstuk. Ze
+worden op de cursussite aangekondigd als “Examentraining”.
+Dat ze er bij dit hoofdstuk niet zijn, is omdat de inhoud bij het examen bekend wordt
+verondersteld. Je wordt dus niet geëxamineerd op de inhoud van dit hoofdstuk, maar je
+hebt de kennis nodig bij het maken van examenopgaven.
+In alle opgavenbestanden gebruiken we dezelfde navigatiesymbolen. Het zijn er drie. De
+eerste is deze:
+
+Je vindt hem onder de opgave. Klik erop als je denkt, het goede antwoord te weten en hij
+stuurt je naar de uitwerking en/of het antwoord.
+Onder de uitwerking/het antwoord vind je in elk geval deze:
+
+Klik erop en je gaat terug naar de opgave. Hij maakt terugscrollen overbodig.
+Als er nog een volgende opgave in het rijtje is, kun je daar met één muisklik naartoe via
+deze:
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De groene pijl zal ontbreken als je het rijtje opgaven hebt gehad. Anders staat hij er met
+de rode pijl. Dit systeem hanteren we door de hele cursus, dus ook in de examentraining.
+Bij een uitwerking herhalen we altijd de opgave, want de oorspronkelijke opgave is dan
+buiten zicht. De uitwerking staat onder het vetgedrukte kopje Uitwerking.
+
+2.4
+
+Getallen, eenheden en grootheden
+Inleiding
+
+Rekenen hoort bij wiskunde. Rekenen gaat over getallen. Getallen zijn ongrijpbaar. Ze
+krijgen pas betekenis als je ze verbindt met iets uit de echte wereld. Bij een getal als 4 kun
+je je pas iets voorstellen als het getal op iets betrekking heeft, bijvoorbeeld ‘vier wielen’.
+Kinderen op de basisschool rekenen in het begin niet voor niets op hun tien vingers. Het
+telraam is ook zo’n vorm van rekenen.
+In de natuurkunde verbinden we getallen met eenheden. Uitdrukkingen als ‘acht meter’
+of ‘twintig seconden’ zeggen ons iets. ‘Acht meter’ drukt een lengte uit, ‘twintig seconden’
+een tijdsduur. De meter en de seconde zijn hier de eenheden. De combinatie van een getal
+en een eenheid heet grootheid. Woorden als ‘lengte’ en ‘tijdsduur’ duiden ook een
+grootheid aan, want je geeft ze aan met een getal en een eenheid. Een zin als ‘dit pad is
+900 lang’ betekent niets; ’dit pad is 900 meter lang’ wel. Een grootheid kun je meten en
+dat doe je in eenheden. Kijk bijvoorbeeld eens op http://www.dr-aart.nl/Meetkundegrootheden-en-eenheden.html.
+Eenhedenstelsels
+De mens heeft alle eenheden georganiseerd in stelsels. In een modern stelsel is alles
+gebaseerd op het getal 10 (0,1; 1; 10; 100; 1000, enz.). Met eenheden als 12 inch in een
+voet, 3 voet in een yard, 220 yard in een furlong en 8 furlong in een mijl is het lastig
+rekenen. Met meters en kilometers gaat dat veel gemakkelijker. We zijn nu eenmaal
+gewend om in het tientallig stelsel te rekenen.
+De bedoeling van een eenhedenstelsel is vooral dat voor de uitkomst van berekeningen zo
+min mogelijk omrekeningsgetallen hoeven te worden gebruikt. Eenheden van een stelsel
+moeten dus zo goed mogelijk op elkaar aansluiten. Sinds 1960 gebruikt men wereldwijd,
+behalve in de Verenigde Staten, Liberia en Myanmar, het SI-eenhedenstelsel. SI is een
+afkorting van de Franse benaming Système international d’unités, ofwel Internationaal
+Eenhedenstelsel. Het is sinds 1978 in Nederland het enige toegelaten stelsel. Wie er meer
+van wil weten kan bijvoorbeeld terecht op Wikipedia (https://nl.wikipedia.org/wiki/SIstelsel) en/of https://nl.wikipedia.org/wiki/Natuurkundige_grootheden_en_eenheden.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Basiseenheden in het SI-stelsel
+Het SI-stelsel is gebaseerd op zeven onafhankelijke basiseenheden. ‘Onafhankelijk’ wil
+zeggen dat ze niet uit elkaar zijn af te leiden.
+Ze staan met de grootheden waarop ze betrekking hebben en hun standaardafkortingen in
+Tabel 2.4-1.
+Tabel 2.4-1. Basiseenheden in het SI-stelsel.
+
+SI-basiseenheid
+Grootheid
+
+Naam
+
+Afkorting
+
+Lengte
+
+meter
+
+m
+
+Massa
+
+kilogram
+
+kg
+
+Tijd
+
+seconde
+
+s
+
+Elektrische stroom
+
+ampère
+
+A
+
+Temperatuur
+
+kelvin
+
+K
+
+Hoeveelheid van een stof
+
+mol
+
+mol
+
+Lichtsterkte
+
+candela
+
+cd
+
+Opmerkingen bij Tabel 2.4-1
+•
+•
+
+•
+
+Met mol en candela krijgen we in deze cursus niet te maken. Daarom zijn ze met grijze
+letters aangegeven.
+Een K is even groot als een graad Celsius (ºC). Het verschil is het nulpunt.
+0 K = -273,14 ºC, het absolute nulpunt. Bij die temperatuur is er geen warmte-energie.
+Kouder kan dus niet, vandaar de naam. Vaak wordt het afgerond op -273 ºC. Als het
+over verschillen in temperatuur gaat, maakt het niet uit welke van de twee je gebruikt.
+In de dagelijkse praktijk zien we de ºC veel vaker dan de K.
+Eenheden die naar een persoon zijn genoemd, worden afgekort met een hoofdletter,
+alle andere met een kleine. Ampère en Kelvin zijn namen van bekende personen uit
+de geschiedenis van de natuurkunde, vandaar de hoofdletter.
+Voorvoegsels
+
+Grootheden kunnen variëren tussen triljoenen eenheden of nog groter en triljoensten van
+een eenheid of nog kleiner. In plaats van getallen met heel veel nullen gebruiken we dan
+liever voorvoegsels zoals nano, micro, mega of giga. Ook die zijn internationaal
+gestandaardiseerd. Ze worden gebruikt bij SI-eenheden, maar ook bij andere. Een
+voorvoegsel praat en leest gemakkelijker dan grote getallen, want je hoeft niet steeds al
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+die nullen te tellen. In Tabel 2.4-2 staan de meeste opgenoemd. Er zijn nog grotere en nog
+kleinere, maar in de radiotechniek gebruiken we die eigenlijk nooit. Geïnteresseerden
+kunnen ze vinden op Wikipedia (https://nl.wikipedia.org/wiki/SI-voorvoegsel).
+Tabel 2.4-2. Voorvoegsels in eenhedenstelsels
+
+Voorvoegsel
+
+Symbool
+
+Getal
+
+In cijfers
+
+10n
+
+exa
+
+E
+
+triljoen
+
+1 000 000 000 000 000
+000
+
+1018
+
+peta
+
+P
+
+biljard
+
+1 000 000 000 000 000
+
+1015
+
+tera
+
+T
+
+biljoen
+
+1 000 000 000 000
+
+1012
+
+giga
+
+G
+
+miljard
+
+1 000 000 000
+
+109
+
+mega
+
+M
+
+miljoen
+
+1 000 000
+
+106
+
+kilo
+
+k
+
+duizend
+
+1 000
+
+103
+
+hecto
+
+h
+
+honderd
+
+100
+
+102
+
+deca
+
+da
+
+tien
+
+10
+
+101
+
+1
+
+100
+
+deci
+
+d
+
+een tiende
+
+0,1
+
+10-1
+
+centi
+
+c
+
+een
+honderdste
+
+0,01
+
+10-2
+
+milli
+
+m
+
+een
+duizendste
+
+0,001
+
+10-3
+
+micro
+
+
+
+een
+miljoenste
+
+0, 000 001
+
+10-6
+
+nano
+
+n
+
+een
+miljardste
+
+0, 000 000 001
+
+10-9
+
+pico
+
+p
+
+een
+biljoenste
+
+0, 000 000 000 001
+
+10-12
+
+femto
+
+f
+
+een biljardste 0, 000 000 000 000 001
+
+10-15
+
+atto
+
+a
+
+een
+triljoenste
+
+10-18
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+0, 000 000 000 000 000
+001
+
+2-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Opmerkingen bij Tabel 2.4-2
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+De meest rechtse kolom met de kop 10n zal niet voor iedereen gesneden koek zijn. Het
+klein gedrukte getalletje rechts boven de 10 is de macht. Een ander woord ervoor is de
+exponent. Later in dit hoofdstuk gaan we in op de diepere betekenis ervan. Voor nu is
+het genoeg om te weten dat de exponent van het getal 10 het aantal nullen rechts van
+de 1 aangeeft. 100 is dus gelijk aan 1, 106 aan 1 000 000, of in letters: een miljoen. Je
+spreekt het naar keuze uit als “tien tot de zesde” of “tien tot de macht zes”. Als voor de
+exponent een minteken staat, betekent dat evenveel nullen links van de 1 met de
+komma tussen de twee meest linkse in. Dus 10-6 = 0,000 001 ofwel één miljoenste,
+uitgesproken als ‘tien tot de macht min zes’ of ‘tien tot de min zesde’. Cijfers ’achter de
+komma’ behandelen we bij de tiendelige breuken.
+Kijk uit met miljard (109), biljard (1015), enz. In Engelstalige teksten kent men het
+achtervoegsel -jard niet, alleen maar -joen. Bij ‘a billiard’ denkt men aan een
+biljarttafel. Een miljard is daar a billion en wat wij een biljoen (1012) noemen wordt a
+trillion, enzovoort. Internationaal standaardiseren is lastig.
+De cijfers in de kolom ‘in cijfers’ zijn verdeeld in blokjes van drie met een spatie (lege
+positie) ertussenin. Dat vergemakkelijkt het tellen. Meer betekenis heeft het niet.
+Soms zet men in plaats van de spatie een punt. Dat kan verwarrend zijn, omdat in
+sommige Engelstalige landen een punt wordt geschreven in plaats van onze komma.
+Ook de meeste zakrekenmachines doen dat (helaas!). Om de verwarring nog wat te
+vergroten, worden komma’s dan vaak gebruikt als scheidingsteken tussen de blokjes
+van drie.
+Alle voorvoegsels hebben kleine letters als ze voluit worden geschreven. De
+voorvoegsels ‘kilo’ en kleiner worden afgekort met een kleine letter, alle grotere met
+een hoofdletter. Een mm en een Mm zijn dus niet hetzelfde. Een mm is een
+millimeter, het duizendste deel van een meter. Een Mm is een megameter, dat is 1
+miljoen meter, ofwel 1000 km.
+Er staat één Griekse letter in de lijst. Dat is de ‘’ (spreek uit: ‘mu’), de afkorting van
+‘micro’. In oudere teksten vind je hem soms terug als ‘u’. De hoofdoorzaak daarvan is
+het ontbreken van Griekse letters op ouderwetse typemachines. De ‘u’ lijkt dan nog
+het meest op de ‘’.
+De vergrotende voorvoegsels ‘mega’ en hoger eindigen op een a, ‘kilo’ en lager op een
+o. ‘milli’, ’centi’, ‘deci’ en ‘deca’ zijn uitzonderingen en een erfenis uit vroeger tijden.
+Het enige tweelettervoorvoegsel ‘da’ (maal 10) wordt tegenwoordig afgeraden. Het is
+in een systeem met stappen van drie nullen voor of achter de komma ook onnodig. Dat
+geldt ook voor de voorvoegsels ‘h’, ‘d’ en ‘c’. Je ziet ze nog wel in sommige eenheden,
+zoals ha (hectare, geen SI-eenheid), dm (decimeter) en cm (centimeter). In de
+radiotechniek kom je ze niet of nauwelijks (meer) tegen.
+De kilogram (kg) is met zijn voorvoegsel ‘k’ eigenlijk een rare basiseenheid. Ook dat is
+een erfenis. Die komt uit de tijd waarin een eenhedenstelsel werd gebruikt met de
+gram (g) als eenheid van massa. 1 000 000 kg is dus niet een Mkg, maar een Gg
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-13
+
+VRZA-cursus radiozendamateur
+
+•
+•
+
+Hoofdstuk 2 volledige tekst_20250503
+
+(gigagram). In het spraakgebruik hebben we het dan vaak over 1000 ton, maar de ton
+(1000 kg) is geen officiële SI-eenheid.
+Je gebruikt de voorvoegsels het liefst zo, dat de bijbehorende getallen kleiner dan 1000
+en groter dan 0,001 zijn. Voorbeeld: ’10 000 m’ mag best, maar schrijf liever ‘10 km’.
+Probeer liever niet om dit alles uit je hoofd te leren. Het went vanzelf als je wat langer
+met de cursus bezig bent.
+
+Met de eenheden voor tijd is men minder consequent geweest. Er zitten nog steeds 60
+seconden in een minuut, 60 minuten in een uur en 24 uren in een dag of etmaal. Daar is
+weinig tientalligs aan. Vooral daarom wordt vooral de eenheid uur nog steeds gebruikt, al
+is de seconde (s) de officiële SI-eenheid. Het uur wordt internationaal afgekort tot h (van
+het Latijnse hora voor uur). Een uur is dus 3600 s of 3,6 ks. Vrijwel niemand gebruikt die
+termen.
+De eenheid minuut gebruiken we in de natuurkunde weinig. De afkorting is meestal
+‘min’, maar ‘minuut’ wordt ook wel eens voluit geschreven.
+Uren, minuten en seconden zijn een erfenis uit de Babylonische beschaving, zo’n 4000
+jaar geleden. Toen gebruikte men in plaats van het tientallig stelsel het zestigtallige, in de
+vorm van een combinatie van vijf- en twaalftallig. De verdeling van de cirkel in 360
+graden (6 maal 60) hoort ook bij die erfenis.
+Afgeleide eenheden
+Afgeleide eenheden zijn altijd een combinatie van basiseenheden. Snelheid bijvoorbeeld is
+lengte per tijd. Die kun je uitdrukken in meter per seconde (m/s) of km/uur (km/h). We
+zullen in de loop van deze cursus verschillende afgeleide eenheden tegenkomen.
+Samenvatting
+•
+•
+•
+
+Getallen hebben in de natuurkunde en dus ook in de radiotechniek pas betekenis
+als ze met een eenheid worden gecombineerd tot een grootheid.
+We gebruiken basiseenheden die tot het SI-stelsel behoren of eenheden die
+daarvan zijn afgeleid, met hun officiële afkortingen.
+Heel grote of heel kleine eenheden schrijven we met voorvoegsels volgens Tabel
+2.4-2.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-14
+
+VRZA-cursus radiozendamateur
+
+2.5
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Opgaven
+Opgave 2-1
+
+In de zin ‘De seconde duurt één seconde’ staan
+a. Twee eenheden
+b. Twee grootheden
+c. Eerst een eenheid en daarna een grootheid
+
+Opgave 2-2
+Waarom kort men de minuut niet af met ‘m’?
+
+Opgave 2-3
+Welke voorvoegsels horen bij een biljoen en bij een biljoenste?
+
+Opgave 2-4
+Een bekende lengte-eenheid (maar geen SI-eenheid) die voor afstanden bij atomen en
+moleculen soms wordt gebruikt, is de ångström (ongeveer uitgesproken als ‘ongstreum’),
+afgekort Å. 1Å is 100 pm. Hoeveel nm is dat? En hoeveel fm?
+
+Opgave 2-5
+De gemiddelde afstand van de aarde tot de zon is ongeveer 150 miljoen km. Hoeveel m is
+dat? En hoeveel Gm?
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-15
+
+VRZA-cursus radiozendamateur
+
+2.6
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Schrijfwijze van getallen, eenheden, grootheden en symbolen
+
+In de natuurkunde schrijven we vaak in symbolen. Dat is kort en alles blijft overzichtelijk.
+Voor wie daar niet aan gewend is, lijkt het in het begin misschien lastig, maar het went.
+Symbolen zijn nuttig als de getalswaarde ervan niet bij voorbaat vaststaat. Als een getal
+bijvoorbeeld met n wordt weergegeven, betekent dit dat het alle denkbare waarden kan
+hebben. Je kunt bijvoorbeeld n munten in de portemonnee hebben. Als je er twee
+uitgeeft, heb je er vanaf dat ogenblik n-2 in zitten. Dat geldt voor alle waarden van n van
+2 of meer, want minder dan 0 munten in de portemonnee kan niet. Als je wisselgeld
+terugkrijgt, wordt het aantal n-2+m. Daarbij stelt m het aantal munten wisselgeld voor. De
+schrijfregels in de natuurkunde zijn:
+•
+•
+•
+•
+•
+•
+
+•
+
+Getallen staan rechtop, zoals het getal 27.
+Eenheden en hun voorvoegsels staan rechtop, zoals m, s of km.
+Namen van eenheden worden afgekort met een kleine letter zoals s voor seconde,
+behalve als ze zijn genoemd naar een persoon, zoals A voor ampère.
+Voluit geschreven eenheden beginnen altijd met een kleine letter.
+Tekens voor bewerkingen staan rechtop, zoals een + (plus).
+Symbolen voor grootheden staan schuin gedrukt. Dat noemen we ook cursief.
+Voorbeeld: I voor stroomsterkte. Symbolen kunnen hoofdletters, kleine letters,
+Griekse letters of zelfs Hebreeuwse letters zijn. Die laatste zullen we niet tegenkomen,
+Griekse letters weinig.
+Symbolen voor getallen staan net als die voor groothedencursief. Voorbeelden: a, n, m,
+x. m is dus iets anders dan m, want de rechtopstaande m staat voor de eenheid meter.
+
+Let op: op het zendexamen houdt men zich niet altijd aan deze internationale standaard!
+
+2.7
+
+Optellen en aftrekken
+Plussen en minnen
+
+Getallen kun je bij elkaar optellen en van elkaar aftrekken. In Figuur 2.7-1 maken we
+zulke bewerkingen zichtbaar.
+Getallen zijn afgebeeld als stukjes rechte lijn met elk een pijlpunt. Ze zijn
+achtereenvolgens 3, 4, 5 en 8 eenheden lang. Omdat het lengten zijn, zijn het eigenlijk
+geen getallen, maar grootheden. Zuivere getallen kun je niet afbeelden.
+De pijlpunt van het stukje lijn met lengte 4 wijst naar links, de andere drie naar rechts.
+Aan de liniaal onderin de plaatjes zien we links de negatieve getallen, dus die met een ‘-‘
+(minteken) en rechts de positieve getallen. Dat is zo gebruikelijk, dat het bijna nooit
+andersom wordt gedaan.
+Positieve getallen schrijven we meestal zonder ‘+’, maar bijvoorbeeld ‘+21’ is niet fout. De
+pijlen naar rechts geven een positief getal aan, de pijl naar links een negatief. We hebben
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+dus te maken met de getallen +3, -4, +5 en +8. De ‘+’ en de ‘-‘ noemen we het teken. De
+tekens ‘+‘ en ‘-‘ zijn elkaars tegengestelde.
+
+Figuur 2.7-1. De optelling 3+5+8-4.
+
+In Figuur 2.7-1b tellen we op. Hier is dat het achter elkaar zetten van de naar rechts
+wijzende pijlen. De achterkant van een pijl komt telkens op de voorkant van een andere.
+In Figuur 2.7-1c zijn ze versmolten tot één pijl met een lengte van 16 eenheden, dus
+3+5+8=16. In welke volgorde de pijlen achter elkaar worden geplaatst, doet er niet toe.
+Het resultaat is altijd een pijl van 16 eenheden lang.
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Nu het negatieve getal. Aftrekken is hetzelfde als optellen met een negatief getal. De pijl
+van -4 komt dus met zijn achterkant op de pijlpunt van +16 (Figuur 2.7-1d). Hij wijst naar
+links en we houden zo een pijl van +12 eenheden lang over (Figuur 2.7-1e). Dus 3+5+84=12.
+Het hele proces is ook weergegeven in een korte animatie.
+Een optelling als 3+5+8-4 is eigenlijk niet meer dan een opsomming van getallen met hun
+tekens. Daarbij doet de volgorde er niet toe, zolang je de zaak getal voor getal afwerkt.
+Doe je dat anders, dan kun je fouten krijgen. Schrijf de optelling maar eens in de volgorde
+3+5-4+8. Als je eerst 4+8 uitrekent en dan pas het minteken toepast, dan krijg je 3+5-12 en
+daaruit komt -4 en geen 12! Je hebt dan 3+5-(4+8) uitgerekend in plaats van 3+5-4+8. De
+haakjes betekenen dat je eerst moet uitrekenen wat ertussen staat. Zonder haakjes (en
+binnen de haakjes) werk je het rijtje af van links naar rechts.
+De uitkomst van een optelling heet de som. Als a + b = c, dan is c de som van a en b.
+Tekens gecombineerd, haakjes
+We hebben gezien dat een aftreksom hetzelfde is als een optelsom met een negatief getal.
+Een aftreksom met een negatief getal wordt een optelsom met een positief getal. - -3 is
+gelijk aan +3. Min min is plus. ‘--3' schrijf je bij voorkeur als ‘-(-3)’. Dat is duidelijker dan
+‘- -3’.
+2-(-3) is dus 2+3=5. –(+3) en +(-3) zijn hetzelfde als -3. Voor alle getallen en grootheden,
+noem ze voor de gelegenheid a, geldt -(+a)=-a en +(-a)=-a.
+Min min (--) is dus samen plus, plus plus (++) ook. Min plus (-+) is min en plus min (+-) is
+ook min. Twee gelijke tekens samen is altijd een plus, twee ongelijke maken een min.
+Teken en richting
+Het verband tussen richting en teken is in Figuur 2.7-1 met opzet gebruikt. In elektrische
+schakelingen is het normaal. Het gaat dan om stroom die die ergens in- of uitloopt. Erin
+noemen we meestal positief, eruit negatief. Andersom mag ook, als je het maar consequent
+doet. In hoofdstuk 3 werken we dat uit als de wetten van Kirchhoff aan de orde komen.
+Som en verschil
+Als a – b = c, dan is c het verschil van a en b. Als b – a = d, dan heet d ook het verschil van
+a en b. In dit voorbeeld geldt daarom c=-d. Het is dan ook oppassen geblazen bij gebruik
+van het woord verschil in verband met getallen of grootheden. Het zegt niets over welk
+van de twee het grootste of het kleinste is.
+Grootheden optellen
+Een laatste punt is de vraag: Kun je ongelijksoortige grootheden bij elkaar optellen? Het
+antwoord is nee. We zeggen wel eens dat je geen appels en peren kunt vergelijken, maar
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+ze optellen lukt ook niet. Vijf appels en vier peren blijven vijf appels en vier peren.
+Ampères optellen bij kilogrammen of meters bij seconden of graden Celsius gaat evenmin.
+Samenvatting
+•
+•
+•
+
+•
+•
+•
+
+Een optelling is een opsomming van getallen of grootheden met hun teken
+Een aftreksom is een optelling met een negatief getal of negatieve grootheid.
+In een optelling zonder haakjes doet de volgorde van de getallen of grootheden er niet
+toe. Staan er wel haakjes in, zoals in a-(b+c), dan reken je eerst uit wat er tussen de
+haakjes staat.
+De uitkomst van een optelling heet de som.
+Min min (--) is plus, plus plus (++) ook. Min plus (-+)en plus min (+-) zijn allebei min.
+Twee gelijke tekens samen leveren dus altijd een plus, twee ongelijke een min.
+Je kunt alleen gelijksoortige grootheden bij elkaar optellen.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-19
+
+VRZA-cursus radiozendamateur
+
+2.8
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Opgaven
+Opgave 2-6
+
+Hieronder is een weg met T-kruising aangegeven. In 10 minuten tijd zijn er links van de
+kruising 15 voertuigen geteld die van west naar oost reden. Rechts van de kruising waren
+het er in diezelfde 10 minuten 12. Er waren geen voertuigen die van oost naar west reden
+en er is geen voertuig op de kruising blijven staan. Hoeveel voertuigen zijn in die 10
+minuten rechtsaf geslagen?
+N
+
+15
+W
+
+12
+
+O
+
+Z
+
+?
+
+Opgave 2-7
+Dezelfde berekening kun je ook doen met waterleidingbuizen, rivieren of stroomdraden.
+Lees de getallen in de figuur bij Opgave 2-6 bijvoorbeeld als liters per seconde. Hoeveel
+liter per seconde loopt er de leiding naar beneden in?
+
+Opgave 2-8
+Het is niet erg waarschijnlijk dat op de west-oost route in Opgave 2-6 alle voertuigen
+dezelfde kant op rijden. Daarom doen we die opgave nog eens met tweerichtingsverkeer.
+N
+
+W
+
+64
+75
+
+25
+42
+
+O
+
+Z
+
+? 10
+Aanwijzing: bereken per tak van de kruising eerst hoeveel verkeer er netto in of uit rijdt.
+Denk niet dat iets vergelijkbaars in elektrische schakelingen niet kan. Het kan, maar je
+meet per tak de netto stroom!
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-20
+
+VRZA-cursus radiozendamateur
+
+2.9
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Vermenigvuldigen
+Vermenigvuldigen van getallen
+
+Je kunt een getal bij zichzelf optellen. Bijvoorbeeld 4 plus 4 is 8. Je kunt die bewerking
+ook 10 of 29 keer doen. Eén keer ‘4’ en 28 keer ‘+4’ opschrijven neemt nogal wat ruimte
+op papier of beeldscherm. Het neemt ook tijd en je moet letterlijk op je tellen passen.
+Daarom schrijven we de optelling als vermenigvuldiging: ‘29x4’, uitgesproken als ’29 maal
+4’ of ’29 keer 4’. Dat is overzichtelijker.
+Wie zich de lessen vermenigvuldigen van school herinnert of een zakrekenmachine bij de
+hand heeft, rekent snel uit dat de uitkomst 116 is. Als het alleen om getallen gaat, is een
+vermenigvuldiging dus niets anders dan het kort opschrijven van een lange optelling van
+steeds hetzelfde getal. In Figuur 2.7-1 telden we lengten op. Aan het eind hadden we nog
+steeds een lengte als uitkomst. Die was afgebeeld als een pijl.
+Vermenigvuldigen van gelijksoortige grootheden
+Het vermenigvuldigen van grootheden gaat
+anders dan van getallen. Dat komt doordat een
+grootheid zelf een vermenigvuldiging is van een
+getal en een eenheid. Voorbeeld: 7 m betekent 7
+maal de eenheid meter. Bij het vermenigvuldigen
+van grootheden vermenigvuldigen we niet alleen
+de getallen, maar ook de eenheden. Voorbeeld: 8
+m maal 11 m. Dat zien we afgebeeld in Figuur
+2.9-1. We zien 8 rijen van 11 vierkantjes (8x11),
+maar ook 11 kolommen van 8 vierkantjes (11x8).
+Figuur 2.9-1. Vermenigvuldiging van 8 en
+Beide benaderingen hebben evenveel vierkantjes
+11 lengte-eenheden.
+als uitkomst. In een vermenigvuldiging doet de
+volgorde er dus niet toe, net als bij optellen. In
+een animatie is dit zichtbaar gemaakt voor 8 en 12 eenheden.
+Laten we ervan uitgaan dat in Figuur 2.9-1 de lengte-eenheid de meter is. We hadden (8
+m) x (11 m). De 8 en de 11 mogen we dus van plaats laten veranderen. Met de meters mag
+dat ook, maar de vierkantjes worden er niet anders van. Meters zijn meters. Dus mogen
+we ook (8 x 11)x(m x m) schrijven. Een lengte maal een lengte is een oppervlakte. De
+oppervlakte van elk vierkantje stelt één vierkante meter voor, die van de rechthoek is dus
+88 vierkante meter. Meestal schrijven we die vierkante meter niet voluit, maar als m2.
+Vermenigvuldigen van eenheden leidt dus tot een nieuwe eenheid. In dit geval worden
+twee lengte-eenheden na vermenigvuldiging een oppervlakte-eenheid. Zoals het
+vermenigvuldigen van twee eenheden leidt tot een nieuwe eenheid, leidt
+vermenigvuldigen van twee grootheden tot een nieuwe grootheid. In ons voorbeeld
+hebben we gelijksoortige grootheden gebruikt, dus met dezelfde eenheid. Voordat we ons
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+met ongelijksoortige grootheden gaan bezighouden, is het goed, iets te zeggen over het
+vermenigvuldigteken.
+Vermenigvuldigtekens
+We hebben tot hiertoe het vermenigvuldigteken geschreven als ‘x’. Dat was vanouds
+gebruikelijk. Met de komst van de computer is dat veranderd. Als we een machine
+onderscheid moeten laten maken tussen de letter ‘x’ en de opdracht ‘x’ om een
+vermenigvuldiging uit te voeren, leidt dat tot problemen. In programmeertalen is daarom
+het teken * gebruikelijk geworden. Later is het ook in gedrukte tekst opgedoken. Dus
+bijvoorbeeld 12*8, om bij Figuur 2.9-1 te blijven.
+In de wiskunde en de natuurkunde speelt het symbool x een andere rol dan die van
+vermenigvuldigteken x. Daarom wordt het daar in die wereld praktisch nooit voor
+gebruikt. Hoe verwarrend het gebruik van het ‘x’-teken is, wordt duidelijk als je de
+uitdrukking axb bekijkt. De x staat rechtop en zal dus als vermenigvuldigteken zijn
+bedoeld. De symbolen a en b staan schuin (cursief) gedrukt en vertegenwoordigen dus een
+getal of grootheid. Maar zie je in één oogopslag het verschil met axb? Daarin is de x cursief
+gedrukt en is het dus een grootheid of variabele, net als a en b. Verwarrend.
+Tussen eenheden die met elkaar worden vermenigvuldigd, schrijven we soms een punt en
+meestal helemaal niets. Voorbeeld: de eenheid van elektrische lading, de Coulomb, is
+hetzelfde als de Ampèreseconde. Dat is Ampère maal seconde, soms geschreven als A.s en
+vaker als As. Bij symbolen voor een getal of grootheid schrijven we haast nooit een
+vermenigvuldigteken. Met 2a bedoelen we 2 maal a. 2.a gebruiken we haast nooit. Met ab
+bedoelen we a maal b. Zelfs a.b kom je weinig tegen. Het vermenigvuldigteken ‘x’ in
+combinatie met symbolen zullen we dan ook in deze cursus nauwelijks meer gebruiken.
+De uitkomst van een vermenigvuldiging heet ook wel het product. Het product van a en b
+is ab.
+Vermenigvuldigen van ongelijksoortige grootheden
+Iedere vermenigvuldiging van twee grootheden kun je afbeelden op de manier van Figuur
+2.9-1. Je zet dan de ene grootheid verticaal en de andere horizontaal. In Figuur 2.9-1
+hadden we twee gelijksoortige grootheden (lengte), maar het kan ook met
+ongelijksoortige. Ook als een grootheid in werkelijkheid geen lengte is, kunnen we hem
+in een figuur of illustratie als lengte weergeven.
+Laten we bijvoorbeeld eens naar de ontlading van een accu kijken (Figuur 2.9-2). De
+capaciteit ervan wordt meestal opgegeven in Ah, de afkorting van Ampèreuur. Oplettende
+lezers zullen nu aan de As uit 2.9.3 denken. Ook stroomsterkte maal tijd! Omdat er 3600
+seconden in een uur gaan, is 1 Ah gelijk aan 3600 As, ofwel 3600 Coulomb = 3,6 kC. Zo
+reken je gelijksoortige eenheden in elkaar om. Een accucapaciteit opgeven in C is
+ongebruikelijk, maar natuurkundig gezien is er niets mis mee.
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Figuur 2.9-2. Ontlading van een ideale accu van 2Ah met 2 A (links) en met 1 A (rechts). Beide gele
+oppervlakten hebben een ongelijke hoogte, maar zijn even groot.
+
+Een volledig opgeladen accu van 2 Ah kan in theorie 1 uur lang een stroom van 2A
+leveren. Daarna is de inhoud op. Dat is weergegeven in de linkerhelft van Figuur 2.9-2. De
+oppervlakte van de gele rechthoek vertegenwoordigt de lading van de accu. De breedte
+vertegenwoordigt de tijd (één uur) en de hoogte de stroom (twee ampère). De oppervlakte
+stelt 2 Ah voor.
+Als we de accu niet met 2, maar met 1 A ontladen, dan wordt de rechthoek half zo hoog.
+Om de oppervlakte van 2 Ah gelijk te houden, moet hij twee keer zo breed worden. Dat
+zien we in de rechterhelft van Figuur 2.9-2. De eerste rechthoek staat er gestippeld in. De
+accu levert bij een ontlaadstroom van 1 ampère twee uur stroom. In werkelijkheid is dat
+verband niet helemaal haarscherp. Dat komt doordat de capaciteit van een accu met
+toenemende ontlaadstroom iets afneemt.
+Het teken van een product
+We hebben het bij vermenigvuldigen nog niet gehad over het teken van het product. Plus
+(+) of min (-) dus. Min maal min is plus, dus (-2).(-2)=4, net als 2.2. En 2.(-2)=-4, net als (2).2. Eén min geeft een negatief product, twee minnen een positief, drie minnen weer een
+negatief product, enzovoort. Algemeen gezegd: de uitkomst van een vermenigvuldiging is
+negatief als er een oneven aantal negatieve getallen of grootheden in staat. Als één van de
+waarden in de vermenigvuldiging 0 is, is de uitkomst ook 0. 0.2=0, 100.0=0, enzovoort.
+Samenvatting:
+•
+•
+
+•
+•
+
+Bij een vermenigvuldiging mag elke volgorde van de te vermenigvuldigen getallen,
+eenheden of grootheden worden aangehouden. De uitkomst blijft dezelfde.
+Gelijksoortige en ongelijksoortige grootheden kunnen met elkaar worden
+vermenigvuldigd. Het resultaat is in alle gevallen een nieuwe grootheid. De nieuwe
+grootheid wordt soms uitgedrukt in de oorspronkelijke eenheden en soms in een
+nieuwe eenheid. 10 A * 5 h wordt dus 50 Ah. Ah kun je ook in de SI-eenheid Coulomb
+schrijven. Dan moet het getal met 3600 worden vermenigvuldigd. Natuurkundig
+gezien is daar niets mis mee, maar gebruikelijk is het niet.
+De uitkomst van een vermenigvuldiging heet het product.
+Als in een vermenigvuldiging een getal 0 voorkomt, is het product ook 0.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-23
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Een product is negatief als er een oneven aantal negatieve getallen of grootheden in de
+vermenigvuldiging staat, anders is het positief.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.10 Opgaven
+Opgave 2-9
+Een veld is 1 km lang en 300 m breed. Hoeveel m2 (vierkante meter) is dat?
+
+Opgave 2-10
+Door een draad loopt een stroom van 1A. Dat is elke seconde 1 C. Hoeveel C is er in een
+minuut doorheen gelopen?
+
+Opgave 2-11
+Een volgeladen accu blijkt 10 uur lang een stroom van 0,5 A te kunnen leveren. Hoe groot
+is de capaciteit van de accu?
+
+Opgave 2-12
+Hoeveel is 0.37? En 2.(-3)? En (-2).(-3)?
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.11 Delen en omgekeerde waarden
+Delen en deeltekens
+Delen is het omgekeerde van vermenigvuldigen, net zoals aftrekken het omgekeerde is
+van optellen. Als vermenigvuldigen van een getal a met een getal b een getal c oplevert,
+dan levert delen van c door b weer het getal a op. Een cijfervoorbeeld: 7*3=21 en 21:3=7.
+Omdat bij een vermenigvuldiging de volgorde van vermenigvuldigen er niet toe doet,
+geldt ook 21:7=3, want 3*7=7*3=21.
+Het deelteken is hier geschreven als ‘:’. Andere deeltekens dan ‘:’ zijn:
+•
+•
+•
+
+Een schuine streep, 21/3
+21
+Een horizontale streep, 3 .
+‘÷’ , dus 21÷3. Deze komt weinig voor.
+
+In de natuurkunde en de wiskunde zijn de schuine en vooral de horizontale streep het
+gebruikelijkst.
+De deling als vermenigvuldiging
+Net als tussen optellen en aftrekken is het verschil tussen vermenigvuldigen en delen
+maar betrekkelijk. Je kunt een deling veranderen in een vermenigvuldiging door te
+vermenigvuldigen met het omgekeerde van het getal of de grootheid waarmee je wilt
+delen. Wat is dat omgekeerde? Geen minteken deze keer. Het omgekeerde van een getal
+of grootheid a is 1/a. Het omgekeerde van 1/a is weer a. We gebruiken hier een letter,
+omdat je daarvoor alle waarden mag invullen. De letter staat cursief omdat hij een
+grootheid of een onbekend getal voorstelt. Dus:
+21
+1
+= 21.
+3
+3
+
+( 2.11-1)
+1
+
+Hiermee zijn we bij de breuken terechtgekomen, want 3 is niet een geheel getal. Voor we
+daarmee aan de slag gaan, kijken we nog naar het op elkaar delen van grootheden.
+Eigenlijk doen de meesten van ons dat regelmatig, maar we zijn het ons niet altijd bewust.
+Snelheid bijvoorbeeld is lengte (afstand) gedeeld door tijd. De maximumsnelheid in de
+bebouwde kom is meestal 30 of 50 km per uur. Dat ‘per’ geeft een deling aan. We
+schrijven ‘km per uur’ meestal als km/h. Daar zit de deelstreep al in. Wie 100 km aflegt in
+4 uur (4 h), heeft gemiddeld een snelheid van 100 km/4 h = 25 km/h gehad, want
+4.25=100.
+De volgorde in een deling
+Bij een deling is de volgorde nu eens wel van belang: 100/4 is het omgekeerde van 4/100!
+De uitkomst van een deling heet het quotiënt (spreek uit: ‘koosjent’). Net als bij de term
+verschil kan het quotiënt van twee getallen of grootheden twee waarden opleveren. Dat
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+hangt af van hun volgorde in de deling. Zonder verdere informatie is quotiënt dus net als
+verschil een onduidelijke term.
+Het teken van een quotiënt
+De uitkomst van een deling is positief als beide getallen of grootheden positief of beide
+negatief zijn. Als één van beide negatief is, is de uitkomst ook negatief. Wordt 0 gedeeld
+door één of ander getal dat niet 0 is, dan is de uitkomst ook 0. Wordt een getal dat niet 0
+is, gedeeld door 0, dan is de uitkomst oneindig. Wordt 0 gedeeld door 0, dan is de
+uitkomst onbepaald.
+Samenvatting:
+•
+•
+
+Bij een deling mag je niet zomaar de volgorde veranderen
+Ongelijksoortige grootheden kunnen op elkaar worden gedeeld. Net als bij
+vermenigvuldigen is het resultaat een nieuwe grootheid.
+
+•
+
+De uitkomst van een deling heet quotiënt. “Het quotiënt van a en b” kan zowel 𝑏 als 𝑎
+
+•
+
+𝑎
+
+𝑏
+
+betekenen. Het is met het gebruik van dit woord dus oppassen geblazen.
+De uitkomst van een deling is positief als beide getallen of grootheden hetzelfde teken
+hebben. Bij verschillend teken is de uitkomst negatief. Is het getal dat gedeeld wordt 0,
+dan is de uitkomst ook 0. Is het getal waardoor gedeeld wordt 0, dan is de uitkomst
+oneindig. Zijn ze beide 0, dan is de uitkomst onbepaald.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.12 Opgaven
+Opgave 2-13
+Op een amateurbeurs worden zakjes met geheimzinnige onderdelen aangeboden voor 2
+euro per stuk. De verkoper begon met een lege kas. Aan het eind van de beurs heeft hij
+157 euro in kas. Uit de kas heeft hij in totaal 5 euro uitgegeven aan koffie en soft ice.
+Hoeveel zakjes onderdelen heeft hij verkocht?
+
+Opgave 2-14
+Hoeveel is: 0/2, 2/0, 15/3, (-15)/3, 15/(-3) en (-15)/(-3)?
+
+Opgave 2-15
+Een accu van 15 Ah wordt gebruikt om een lamp te voeden die 1A gebruikt. Hoe lang
+hoort de accu het vol te houden als die bij het begin volledig is opgeladen? En als de lamp
+3A gebruikt? Ga uit van een accu waarbij de capaciteit niet afhangt van de geleverde
+stroomsterkte (dat is in werkelijkheid niet helemaal zo).
+
+Opgave 2-16
+Is er verschil in uitkomst tussen a.(b/c).d en (a.b).d/c? En tussen a.(b/c).d en a/c.b.d?
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.13 Breuken
+Wat is een breuk?
+We verruilen het domein van de gehele getallen met dat van de gebroken getallen. De
+wiskundige spreekt over de verzameling van de gehele en de verzameling van de
+gebroken getallen. Samen zijn ze het domein of de verzameling van de rationale getallen.
+Letterlijk vertaald: te beredeneren getallen. Ter geruststelling: die woorden zijn geen
+examenstof.
+Als je een taart in 8 even grote punten snijdt, is 1 taartpunt 1/8 (spreek uit: één achtste)
+deel van de taart (Figuur 4).
+
+8
+
+Figuur 2.13-1. Taart in bovenaanzicht. 1 taart = 8 taart.
+2
+
+3
+
+Twee punten is 8 taart, 3 punten 8, enzovoort. Een breuk ziet er dus uit als een deling. Dat
+is het ook. Als we 3 taarten verdelen onder 8 taarteters,
+3
+heeft elk 3 punten is 8 taart (en na het opeten misschien een
+onprettig gevoel in de maagstreek). We delen zo 3 door 8.
+
+Figuur 2.13-2. Teller en
+noemer
+
+Een breuk bestaat uit een waarde boven en onder de
+deelstreep. De waarde erboven heet de teller. Die telt het
+aantal delen. De waarde onder de deelstreep heet de noemer
+(Figuur 5). De noemer benoemt de soort van de delen.
+Bij drie taarten, gelijk te verdelen onder 8 eters, geeft de
+teller het aantal taarten (3), de noemer het aantal eters (8).
+
+Vereenvoudigen van breuken
+Een breuk verandert niet van waarde als we teller en noemer met eenzelfde getal
+vermenigvuldigen. Een voorbeeld: door de teller te vermenigvuldigen met 2
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+vermenigvuldigen we de uitkomst met 2. Door de noemer met 2 te vermenigvuldigen,
+delen we de uitkomst weer door 2. Resultaat: geen verandering. Teller en noemer door
+hetzelfde getal delen mag natuurlijk ook zonder dat de waarde van de breuk verandert.
+3
+3.2
+6
+is gelijk aan
+=
+8
+8.2 16
+
+( 2.13-1)
+
+8⁄
+8
+1
+= 8= =1
+8⁄
+8
+1
+8
+
+( 2.13-2)
+
+En
+
+Deze truc is handig bij ingewikkelde breuken met vermenigvuldigingen of delingen in
+teller en/of noemer. Neem bijvoorbeeld
+25.18.49
+35.15
+
+( 2.13-3)
+
+In teller en noemer van ( 2.13-3) zien we getallen die eindigen op 5. Elk getal dat eindigt
+35
+
+25
+
+op een 5 kun je door 5 delen zonder een rest over te houden. 5 = 7 en 5 = 5. We delen
+daarom teller en noemer door 5. We krijgen op die manier
+25.18.49 5.18.49
+=
+35.15
+7.15
+
+( 2.13-4)
+
+We kunnen nog een keer delen door 5, want in de teller staat 5 en in de noemer 15. Dat
+levert
+5.18.49 1.18.49
+=
+7.15
+7.3
+
+( 2.13-5)
+
+De 7 in de noemer en de 49 in de teller van de uitkomst in ( 2.13-5) zijn deelbaar door 7
+(uitkomsten 1 en 7). De 3 in de noemer en de 18 in de teller zijn deelbaar door 3
+(uitkomsten 1 en 6). Dan houden we over
+1.18.49 6.7 42
+=
+=
+= 42
+7.3
+1.1
+1
+
+( 2.13-6)
+
+Wat we in ( 2.13-3) tot en met ( 2.13-6) hebben gedaan, heet het vereenvoudigen van een
+breuk. Zo mooi als deze komt natuurlijk niet elke ingewikkelde breuk uit. De gebruikte
+truc staat ook bekend als ‘tegen elkaar wegstrepen’. Als de teller, zoals hier, kan worden
+gedeeld door de noemer, is de uitkomst een geheel getal. Anders is het een gebroken getal.
+Optellen van breuken
+Optellen (en aftrekken, maar dat is hetzelfde, weten we sinds 2.7.1) van breuken is een
+lastig klusje als ze niet dezelfde noemer hebben. We kennen de uitdrukking alles onder
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+één noemer brengen. Die handeling is nodig vóórdat breuken met verschillende noemer
+kunnen worden opgeteld. Een voorbeeld is de optelling
+1 1
++
+3 2
+
+( 2.13-7)
+
+We berekenen eerst het product van 2 en 3 om een getal te krijgen dat deelbaar is door
+zowel 2 als 3. 2.3 = 6. We moeten nu zorgen dat er in de noemer van beide getallen 6
+komt te staan. Dat gaat zo:
+1 1 1.2 1.3 2 3 5
++ =
++
+= + =
+3 2 3.2 2.3 6 6 6
+
+( 2.13-8)
+
+Vermenigvuldigen van breuken
+Vermenigvuldigen van breuken is gemakkelijker. Je vermenigvuldigt zowel de tellers als
+de noemers met elkaar. Klaar is Kees! Voorbeeld:
+1 1 1.1 1
+. =
+=
+3 2 3.2 6
+
+( 2.13-9)
+
+Of met een ingebouwde vereenvoudiging (let op de 3 in teller en noemer):
+2 3 2.3 2
+. =
+=
+3 5 3.5 5
+
+( 2.13-10)
+
+In ( 2.13-10) konden we de 3 in de teller en de 3 in de noemer tegen elkaar wegstrepen.
+Delen is vermenigvuldigen met het omgekeerde, zoals we eerder zagen. Een voorbeeld:
+1 1 1 2 2
+: = . =
+3 2 3 1 3
+
+( 2.13-11)
+
+In woorden: delen door een half is vermenigvuldigen met twee. Het werken met breuken
+kan dus omslachtig zijn. Daarvoor heeft de mens een oplossing gevonden. Dat is de
+tiendelige breuk die ook wel decimale breuk heet. Het woord decimaal is afgeleid van het
+Latijnse woord voor tien, decem. Voordat de daarmee aan de slag gaan, eerst een
+samenvatting en een paar opgaven
+Samenvatting:
+•
+•
+•
+•
+•
+
+Een breuk is een deling waarin de teller wordt gedeeld door de noemer.
+De uitkomst van een breuk is een gebroken getal, behalve als de teller deelbaar is door
+de noemer.
+Optellen van breuken kan pas als je ze eerst onder één noemer brengt.
+Vermenigvuldigen van breuken doe je door teller met teller en noemer met noemer te
+vermenigvuldigen.
+Een getal delen door een breuk is hetzelfde als vermenigvuldigen met de omgekeerde
+waarde van die breuk
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.14 Opgaven
+Opgave 2-17
+Bereken:
+1 1
++
+3 4
+3 3
++
+5 10
+1 3
++
+6 8
+5 2
+−
+6 3
+7 1
+−
+10 2
+7 4
+−
+10 5
+
+Opgave 2-18
+Bereken:
+1
+2
+7 12
+.
+6 14
+5 9 26
+. .
+3 13 15
+5 5
+:
+12 3
+5:
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.15 Tiendelige of decimale breuken
+Opbouw van getallen
+We kennen de opbouw van gehele getallen in het tientallige stelsel. Van rechts naar links
+(en dus niet van links naar rechts!) staan eerst de ééntallen (0-9), dan de tientallen, dan de
+honderdtallen, de duizendtallen, enz. Het getal 1307 is dus de som van 7 keer 1, 0 keer 10,
+3 keer 100 en 1 keer 1000. Een geschreven getal is dus eigenlijk een optelling.
+Consequent doorredeneren
+Als we nu weer van links naar rechts kijken, worden de “tallen” steeds 10x zo klein.
+Moeten we stoppen bij ééntallen? Als we binnen de gehele getallen willen blijven, wel.
+Voor gebroken getallen gaan we gewoon door. Daar is rekenkundig gezien geen enkel
+bezwaar tegen. We redeneren dus van links naar rechts verder en gaan door met stapjes
+van
+1
+1
+=
+10 10
+
+( 2.15-1)
+
+1 1
+1
+.
+=
+10 10 100
+
+( 2.15-2)
+
+1 1
+1
+.
+=
+100 10 1000
+
+( 2.15-3)
+
+1.
+gevolgd door
+
+gevolgd door
+
+en zo verder. Tienden, honderdsten en duizendsten dus. Zo kunnen we in theorie
+oneindig lang doorgaan. Met een oneindig lange reeks kun je ieder niet-geheel getal
+weergeven. In de praktijk is dat niet te doen en behelpen we ons met een benadering die
+bestaat uit een eindig aantal cijferposities.
+De komma
+Er zit één lastig puntje in dit verhaal. Bij een geheel getal geeft het meest rechtse cijfer
+altijd het aantal stapjes van 1 aan. Daarmee weten we van alle cijfers in het getal waarvoor
+1
+1
+1
+ze staan. Als we naar believen kleinere stapjes van 10, 100, 1000 en verder mogen
+toevoegen, is die zekerheid weg. Er is dus een baken nodig zodat we kunnen zien wat
+waar staat. Dat baken is de komma. Op je rekenmachine is het misschien de decimale
+punt, want die wordt vooral in veel Engelstalige landen gebruikt in plaats van onze
+1
+komma. In Europa is de komma de norm. Die komt tussen de stappen van 1 en die van 10.
+1
+
+Het getal 2,1 is dus 2 plus 10.
+Vóór de komma (links dus) staat het deel dat hele stappen voorstelt, erachter (rechts) het
+gebroken deel. Het geheel heet een tiendelige of decimale breuk. De prijs van een artikel
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+in een winkel is bijvoorbeeld € 15,48. Met Euro’s gaan we tot twee cijfers achter de
+komma.
+In de natuurkunde en de wiskunde kunnen er (veel) meer cijfers achter de komma staan.
+Deel 1 door 3 op je zakrekenmachine en je krijgt een getal 0,333333333 als je display 10
+cijfers aankan. In werkelijkheid hoort achter de komma een oneindig aantal keren het
+cijfer 3. Die kun je in de werkelijke wereld met een decimale breuk niet exact weergeven.
+Dat geldt voor verreweg de meeste breuken. Maar deel 1 door 4 en je vindt 0,25. Met
+sommige breuken gaat het dus wel.
+Meetnauwkeurigheid en afronden
+In de praktische natuurkunde heeft het zelden zin om voor een getal heel veel cijfers te
+gebruiken. Meestal is een benadering voldoende. Stel bijvoorbeeld dat je een elektrische
+spanning in Volts meet. Je afleesnauwkeurigheid is vaak niet beter dan drie cijfers. Laten
+we zeggen dat je 3,78 V op je instrument afleest. Dan het zinloos om de uitkomst van een
+berekening`, waarin dat meetresultaat verwerkt zit, in 10 cijfers op te schrijven. Daarop
+zijn twee uitzonderingen:
+•
+•
+
+Als het om nullen gaat rechts van de komma tot het eerste cijfer dat niet nul is,
+bijvoorbeeld 0,000756.
+Als het om nullen gaat tussen het meest rechtse cijfer en de positie van de komma,
+bijvoorbeeld 756 000.
+
+Als het om een grootheid gaat, hebben we de voorvoegsels voor eenheden in Tabel 2.4-2
+bij de hand om die nullen allemaal of voor het grootste deel weg te werken.
+Drie voorbeelden:
+•
+
+•
+
+•
+
+De berekeningsuitkomst voor een schakeling met de 3,78 V is 7,38654 Ampère. Dat is
+een schijnnauwkeurigheid, want zo nauwkeurig was onze voltmeting niet. Er waren
+maar drie cijfers. We ronden de uitkomst van de berekening daarom ook af op een
+waarde met 3 cijfers. Dat wordt 7,39 A, het getal van 3 cijfers dat het dichtst bij de
+berekende uitkomst ligt. Dat zul je meestal zelf moeten doen. Zakrekenmachines zijn
+daarvoor bijna altijd te dom.
+De berekeningsuitkomst is 0,00738654 Ampère. Moeten we nu afronden op 0,007 A?
+Het antwoord is nee, want de eerste nullen geven alleen maar aan dat het hier om
+duizendsten gaat. Het resultaat wordt dus 0,00739 Ampère, maar met Tabel 2.4-2 in
+gedachten liever 7,39 mA.
+De berekeningsuitkomst is 7386,64 A. Ook dat probleem is op te lossen met nullen. In
+dit geval maar één: 7390 Ampère, of 7,39 kA. Dat is overigens voor een elektronische
+schakeling heel veel. Bij zo’n uitkomst zou je ook je berekening even moeten
+controleren.
+
+Nog één afrondingsregeltje: stel dat de uitkomst 7,39654 is. Dat rond je af op 7,40. In dit
+geval laat je de 0 achter de 4 staan, omdat je daarmee de nauwkeurigheid van het resultaat
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+aangeeft. Dus niet 7,4! We noemen de afronding op 7,40 ook wel afronding op drie
+significante cijfers, of in behoorlijk Nederlands: op drie betekenisvolle cijfers. Daar moet
+je geen twee van maken. Rekenkundig geldt natuurlijk 7,40=7,4. Maar als het om
+(on)nauwkeurigheid gaat, geven beide uitkomsten niet precies hetzelfde aan. 7,4
+suggereert dat het getal op twee betekenisvolle cijfers nauwkeurig is bepaald, 7,40 op drie.
+Percentages
+Procent of percent, geschreven als %, betekent letterlijk ‘per honderd’. Onder het kopje
+Delen en omgekeerde waarden hebben we gezien dat het woordje ‘per’ een deling
+betekent. 15% betekent dus 15 per 100, 15 honderdsten of gewoon 0,15.
+1
+
+2
+
+Gedeeld door 100 is hetzelfde als ‘maal 100’ of ‘maal 0,01’. 2% betekent dus ‘maal 100’ of
+‘maal 0,02’. 10% korting betekent dat je van een aangegeven prijs van elke euro 10 cent
+niet betaalt en 90 cent wel. Een rendement van 30% bij een zender betekent dat van elke
+30
+3
+aan het apparaat toegevoerde Watt (W) maar 100 W = 10 W naar de antenne gaat. De rest,
+0,7 W, gaat op aan warmte. Over dat laatste zullen we het tegen het eind in dit hoofdstuk
+nog hebben.
+Samenvatting:
+•
+•
+
+•
+•
+
+•
+
+Een tiendelige of decimale breuk is een gebroken getal. We kunnen elk gebroken getal
+schrijven als tiendelige breuk.
+Een tiendelige breuk zit net zo in elkaar als een geheel getal. Van rechts naar links de
+eenheden, tientallen, honderdtallen, enz. Rechts daarvan tienden, honderdsten,
+duizendsten, enzovoort. De komma is de scheiding tussen eenheden en tienden.
+Een tiendelige breuk is meestal een oneindig lange reeks cijfers, maar soms geeft een
+eindig aantal cijfers een exacte waarde.
+Een tiendelige breuk wordt in de praktijk uitgeschreven in het aantal betekenisvolle of
+significante cijfers. Bij metingen gebeurt dat standaard. Meer cijfers gebruiken is dan
+zinloos.
+Een percentage is het aantal honderdsten van iets. 11% van x is hetzelfde als 11/100
+van x.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.16 Opgaven
+Opgave 2-19
+Schrijf als decimale breuk met hoogstens 6 cijfers achter de komma): 17 397/10,
+17 397/100, 17 397/1000, 25/1000, 50/4, 25/11, 25/3, 25/7.
+
+Opgave 2-20
+Een meetuitkomst is 4,23 eenheden. Er wordt een berekening mee gedaan op een
+zakrekenmachine die de uitkomst 6,761347890 geeft. Welke cijfers zijn hier betekenisloos
+en waarop rond je de uitkomst op een zinvolle manier af?
+Doe hetzelfde voor een uitkomst 6,76561399; voor een uitkomst 6,76497865 en voor een
+uitkomst 7,79718223.
+
+Opgave 2-21
+Een radio-ontvanger wordt verkocht voor € 800. Een maand later is hij in de aanbieding
+voor € 720. Hoeveel korting in % van de oorspronkelijke prijs is dat? Een hoe groot is de
+korting als de prijs in de aanbieding € 600 zou zijn?
+
+Opgave 2-22
+Een zender neemt bij zenden 300 Watt op uit het lichtnet. De antenne krijgt 100 Watt
+toegevoerd. Bereken het rendement in % van de opname uit het lichtnet.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.17 Kwadraten, machten en exponenten
+Kwadraten
+In 2.9.1 hebben we gezien dat je een vermenigvuldiging van getallen kunt voorstellen als
+het bij zichzelf optellen van een getal. Dat kan een onbeperkt aantal keren. We kunnen
+dat kunstje herhalen met vermenigvuldigen. Een getal een aantal keren met zichzelf
+vermenigvuldigen dus.
+Een getal maal zichzelf heet een kwadraat. Kwadraat betekent letterlijk ‘vierkant’. Een
+vierkant is een rechthoek waarvan alle zijden dezelfde lengte hebben. Voor het berekenen
+van de oppervlakte van een vierkant maakt het niet uit of je lengte en hoogte
+vermenigvuldigt of dat je lengte*lengte of hoogte*hoogte neemt. Zie Figuur 2.17-1. Daarin
+staat een vierkant van 8 lengte-eenheden hoog en 8 lengte-eenheden breed. Laten we er
+voor het gemak van uitgaan dat het om meters gaat. De figuur is dus verkleind
+weergegeven. De oppervlakte is dan 8m.8m. Dat is hetzelfde als 8.8.m.m.
+8.8 schrijven we ook als 82 . Uitgesproken als ‘acht
+kwadraat’, maar ook ‘acht tot de macht twee’, ‘acht tot de
+tweede macht’’, of korter: ‘acht tot de tweede’. Zo wordt
+m.m natuurlijk m2. Dit verklaart de kleine 2 rechtsboven
+de m, het symbool voor de eenheid m (meter). Het is de
+standaard-schrijfwijze van de SI-oppervlakte-eenheid
+vierkante meter. ‘Meter kwadraat’ zeggen we niet vaak,
+maar er is niets mis mee. In Figuur 2.17-1 staat 64 m2
+1 2 3 4 5 6 7 8
+verkleind afgebeeld als 64 vierkantjes die 1 m2
+voorstellen. In 2.9.2 en 2.9.4 hebben we gezien dat
+Figuur 2.17-1. Vierkant met
+vermenigvuldigen van eenheden een nieuwe eenheid
+zijden van 8 eenheden.
+oplevert. In dit geval levert een lengte-eenheid, met
+zichzelf vermenigvuldigd, een oppervlakte-eenheid. Dat zagen we al in 2.9.2.
+8
+7
+6
+5
+4
+3
+2
+1
+
+Is nu de linkerhelft van Figuur 2.9-2, waarin de accu van 2Ah in 2 uur werd ontladen een
+vierkant in de natuurkundige betekenis? Het antwoord is nee. Op de ene zijde staan
+namelijk ampères, op de andere uren. De ampèreuur (Ah) is een vermenigvuldiging van
+twee verschillende eenheden en dus geen kwadraat. Vierkante meters zijn dat
+bijvoorbeeld wel.
+Exponenten: van vermenigvuldiging naar optelling
+Het woord ‘macht’ is bij de kwadraten al gevallen. Als a2 hetzelfde is als a.a, is er alle reden
+om a.a.a te schrijven als a3, a.a.a.a als a4, enzovoort. In Tabel 2.4-2 hebben we al kennis
+gemaakt met de exponent. Hier komt hij terug als het kleine getalletje rechts boven de a.
+We gaan er nu wat verder op in.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De exponent geeft aan hoe vaak een getal met zichzelf wordt vermenigvuldigd. Bij a4
+spreken we over ‘a tot de macht vier’, ‘a tot de vierde macht’ of kortweg ‘a tot de vierde’.
+Bekijk nu eens de vermenigvuldiging van a2 en a3, dus twee verschillende machten van a.
+𝑎2 . 𝑎3 = (𝑎. 𝑎). (𝑎. 𝑎. 𝑎) = 𝑎5
+
+( 2.17-1)
+
+De haakjes zijn hier gebruikt om de beide onderdelen van de vermenigvuldiging goed te
+laten uitkomen. Omdat de volgorde in een vermenigvuldiging niets uitmaakt, hebben de
+haakjes geen invloed op de uitkomst. We zien dat we de exponenten bij elkaar kunnen
+optellen. Vermenigvuldigen van machten van eenzelfde getal komt neer op exponenten
+optellen.
+Negatieve exponenten
+De vermenigvuldiging
+𝑎. 𝑎4
+
+( 2.17-2)
+
+𝑎. 𝑎. 𝑎. 𝑎. 𝑎 = 𝑎5
+
+( 2.17-3)
+
+levert
+
+Dan is a dus hetzelfde als 𝑎1 , want 1+4=5.
+Als we 𝑎5 weer delen door a, dan moeten we 𝑎4 als uitkomst krijgen. Delen door a is
+1
+vermeningvuldigen met 𝑎. Dan krijgen we dus
+𝑎5 .
+
+1
+= 𝑎4
+𝑎
+
+( 2.17-4)
+
+De exponent die de waarde 5 had, wordt door deze bewerking 4. Er gaat dus 1 vanaf of
+1
+anders gezegd, er komt -1 bij. We mogen dus voor 𝑎 ook a-1 schrijven:
+𝑎5 .
+
+1
+= 𝑎4 = 𝑎5 . 𝑎−1
+𝑎
+
+( 2.17-5)
+
+De omgekeerde waarde van 𝑎2 is
+1
+= 𝑎−2
+𝑎2
+
+( 2.17-6)
+
+We laten dit in getalvorm zien met het getal 3 en de exponenten 4 en -1.
+34 = 3.3.3.3 = 81
+
+( 2.17-7)
+
+81
+= 27
+3
+
+( 2.17-8)
+
+En
+
+En dan
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+81
+= 34 . 3−1 = 33 = 3.3.3 = 27
+3
+
+( 2.17-9)
+
+Twee keer dezelfde uitkomst (zoals het hoort). Probeer het als je wilt ook met het getal 2.
+Een exponent van niets
+Als een exponent zowel positief als negatief kan zijn, zou hij dan ook 0 kunnen zijn? En
+als het antwoord ‘ja’ is, wat moeten we ons er dan bij voorstellen?
+Bekijk voor het antwoord de vermenigvuldiging
+𝑎𝑛 . 𝑎−𝑛 = 𝑎𝑛−𝑛 = 𝑎0
+
+( 2.17-10)
+
+Anders geschreven staat hier: 𝑎𝑛 gedeeld door 𝑎𝑛 . Een waarde die je door zichzelf deelt,
+levert altijd 1 op. Drie taarten voor drie personen is 1 taart per persoon. Dus geldt voor
+ieder getal of grootheid a:
+𝑎0 = 1
+
+( 2.17-11)
+
+Merk op dat met een exponent 0 een grootheid verwordt tot een getal, want een eenheid
+gedeeld door zichzelf levert ook het getal 1.
+Een exponent is nooit een grootheid, altijd een getal
+Kan een exponent ook een grootheid zijn? Een exponent is het aantal keren dat een getal
+met zichzelf wordt vermenigvuldigd. Met exponenten van nul en negatieve exponenten
+vatten we dat ruim op, maar een aantal keren is en blijft een getal. Een exponent is
+daarom altijd een getal en kan nooit een grootheid zijn.
+Wel is de uitkomst van een machtsverheffing van een grootheid weer een grootheid. Als
+de macht 1 is, blijft de grootheid dezelfde. In alle andere gevallen niet. Met een exponent
+van 0 wordt elke grootheid een getal, namelijk 1. Een lengte tot de macht 3 wordt een
+kubus, dus een volume, uitgedrukt in kubieke meters. Kubieke meter schrijf je dan ook als
+m3.
+Samenvatting
+•
+•
+•
+•
+•
+
+•
+
+Exponenten kunnen positief, negatief of 0 zijn
+Een waarde met een negatieve exponent geeft het omgekeerde van diezelfde waarde
+met eenzelfde, maar positieve exponent.
+Een exponent van 0 levert altijd het getal 1 als uitkomst.
+Een exponent is altijd een getal, nooit een grootheid.
+Een macht van een grootheid levert een nieuwe grootheid op. Er zijn twee
+uitzonderingen. Uitzondering 1: is de exponent 1, dan blijft de grootheid onveranderd.
+Uitzondering 2: is de exponent 0, dan is de uitkomst het getal 1.
+Vermenigvuldigen van machten van eenzelfde getal komt neer op het optellen van de
+exponenten.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.18 Opgave
+Opgave 2-23
+Hoeveel is: 𝑥 0 ; 32 ; 33 ; 24 . 2−2 ; 35 . 3−4 ; 2−2
+
+2.19 Wortels
+Een wortel is het omgekeerde van een macht en zelden een geheel getal
+Een wortel is het omgekeerde van een macht. Kijk nog eens naar het vierkant in Figuur
+2.17-1. De oppervlakte ervan bedraagt 82 m2 = 64 m2. De lengte van één zijde van het
+vierkant is 8 m, de wortel uit 64 m2. Aan de eenheden gaan we nu even voorbij en kijken
+alleen naar de getallen. We schrijven dan
+√64 = 8
+uitgesproken als ‘de wortel uit 64 is 8’ of korter ‘wortel 64 is 8’. Het teken √ links van het
+getal 64 noemen we het ‘wortelteken’. Omgekeerd geldt:
+82 = 64
+Lang niet elk geheel getal heeft, zoals 64, een geheel getal als wortel. Een getal met een
+geheel getal als wortel is het kwadraat van laatstgenoemd geheel getal. Voorbeelden: 12 =
+1; 22 = 4; 32 = 9; 42 = 16; 52 = 25; 62 = 36, enzovoort. Getallen met gehele wortels
+zijn dus 1, 4, 9, 16, 25, 36, enz.
+Je zou je kunnen afvragen of wortels van tussenliggende getallen dan wel bestaan. Dat
+doen ze. Het zijn alleen geen gehele getallen. Voorbeeld: √2 is afgerond 1,414214. Probeer
+1,414214 maar op je zakrekenmachine te kwadrateren of met zichzelf te
+vermenigvuldigen, dan kom je op een ietsje meer dan 2 uit. De tiendelige breuk als
+uitkomst van √2 is achter de komma oneindig lang. Voor de praktijk volstaan meestal één
+of enkele cijfers achter de komma. Getallen die je als oneindige decimale breuk, maar niet
+als gewone breuk kunt schrijven, heten in de wiskunde irrationale getallen, letterlijk
+vertaald: niet te beredeneren. Dit laatste is geen examenstof. Meer erover vind je op
+https://nl.wikipedia.org/wiki/Irrationaal_getal. We zullen verderop in dit hoofdstuk nog
+twee beroemde irrationale getallen tegenkomen.
+De wortel als macht
+We konden een aftreksom neerzetten als een optelling met een negatief getal, zagen we in
+2.7.1. In 2.11.2 bleek een deling hetzelfde te zijn als een vermenigvuldiging, maar dan met
+de omgekeerde waarde. Zouden we ook een wortel kunnen schrijven als een macht?
+We gaan het zien met een willekeurig positief getal a. We zoeken een macht van a die a
+oplevert als die macht van a met zichzelf wordt vermenigvuldigd. In 2.17.2 zagen we dat
+vermenigvuldigen van machten van eenzelfde getal optellen van exponenten betekent. De
+som van de exponenten moet nu het getal 1 opleveren, want
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+𝑎 = 𝑎1
+
+( 2.19-1)
+
+De exponenten moeten ook gelijk aan elkaar zijn, want we vermenigvuldigen een getal
+met zichzelf, dus twee gelijke getallen. De exponent met waarde 1 moet dus in twee
+1
+gelijke delen worden verdeeld. Dan zoeken we de helft van 1 en dat is 2 . Dus geldt
+1
+
+√𝑎 = 𝑎 ⁄2
+
+( 2.19-2)
+
+Deze uitkomst vertelt ons niet alleen dat een wortel inderdaad een macht is, maar ook dat
+er niet alleen hele, maar ook gebroken exponenten bestaan. Daarmee gaan we straks
+verder. Eerst iets meer over wortels.
+Soorten wortels
+De term ‘wortel’ is eigenlijk niet compleet. Strikt genomen moeten we ‘vierkantswortel’
+zeggen, want √𝑎 is de waarde waarvan a het kwadraat is en kwadraat betekent vierkant.
+‘Tweedemachtswortel’ mag ook, want een kwadraat is een tweede macht. Die
+toevoegingen zouden overbodig zijn als er geen andere wortels zouden bestaan, maar die
+zijn er wel. Als bijvoorbeeld
+𝑎 = 𝑏3
+
+( 2.19-3)
+
+dan is b de derdemachtswortel van a. Dat laatste schrijven we als
+3
+√𝑎 = 𝑏
+De 3 in ( 2.19-3) is een toevoeging die vertelt om wat voor soort wortel het gaat. Het
+wortelteken zonder toevoeging betekent altijd de tweedemachts- of vierkantswortel.
+Het berekenen van een wortel heet worteltrekken. Het trekken van wortels is dus niet
+alleen een agrarische bezigheid. De bok uit Siddeburen kon er ook wat van. In Siddeburen
+heeft hij zelfs een standbeeld. Zie het gedicht van Kees Stip (Trijntje Fop) op
+http://www.gedichten.nl/nedermap/gedichten/gedicht/194384.html.
+Ook een derdemachtswortel kun je schrijven als macht. Hoe dat moet, is voor de
+oplettende lezer nu niet meer zo moeilijk te bedenken:
+3
+
+1
+
+( 2.19-4)
+
+1
+
+3
+
+( 2.19-5)
+
+√𝑎 = 𝑎 ⁄3
+
+Want
+1
+
+1
+
+𝑎 ⁄3 . 𝑎 ⁄3 . 𝑎 ⁄3 = 𝑎 ⁄3 = 𝑎1 = 𝑎
+De exponent mag ook de vorm van een decimale breuk hebben, dus
+3
+
+√𝑎 = 𝑎0,33333
+
+( 2.19-6)
+
+Eigenlijk klopt dit niet helemaal, omdat er een oneindig aantal cijfers 3 achter de komma
+moet staan. De 0,33333 vertegenwoordigt een zogenoemde repeterende (zich herhalende)
+breuk. Als we alles heel strikt nemen, moeten we
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+3
+
+√𝑎 ≈ 𝑎0,33333
+
+( 2.19-7)
+
+schrijven. Het kronkelige is-gelijk-teken betekent: ‘is ongeveer gelijk aan’. In de praktijk
+hoeven we ons daar bijna nooit iets van aan te trekken. Een exameneis is het ook niet.
+Nog meer machten
+Nu we hebben gezien dat een wortel ook een macht is, kunnen we ons begrip van
+machten nog wat verder uitbreiden.
+Hoe zit het bijvoorbeeld met een macht met een gebroken exponent die je niet als gewone
+breuk kunt schrijven? Zulke getallen bestaan. Ze leveren een uitkomst. Sterker nog, je
+kunt elk positief getal schrijven als een –meestal gebroken- macht van een ander getal.
+Daarover zullen we het verderop bij de logaritmen wat uitvoeriger hebben.
+Met negatieve getallen kan dat meestal niet. Het kwadraat van een negatief getal is een
+positief getal. Daar begint het probleem al. Een voorbeeld voor het getal -2:
+(−2)2 = (−2). (−2) = 4
+
+( 2.19-8)
+
+De haakjes geven aan dat het minteken alleen bij de 2 hoort. Een negatief getal met een
+even exponent geeft altijd een positieve uitkomst. Je zou dus kunnen zeggen dat √4 = 2
+en √4 = −2 allebei goed zijn. In de toegepaste wiskunde, waarmee we als elektronici te
+maken hebben, houden we niet van twee mogelijke uitkomsten tegelijkertijd. We
+schrijven daarom -√4=-2. Dat is een afspraak, geen wiskundige noodzaak.
+Het product van een positief en een negatief getal is negatief. Bekijk
+(−2)3 = (−2). (−2). (−2) = −8
+
+( 2.19-9)
+
+Een negatief getal met een gehele oneven exponent geeft altijd een negatieve uitkomst. Dus
+3
+
+1
+
+√−8 = −8 ⁄3 = −2
+
+( 2.19-10)
+
+Het assortiment aan machten van negatieve getallen is beperkt tot
+•
+•
+
+exponenten met hele getallen
+1 1 2
+exponenten met gebroken getallen die een oneven noemer hebben, zoals 3 , 5 , 7,
+enzovoort.
+
+Maar hoe zit het dan met alle andere gebroken machten van negatieve getallen? Neem
+bijvoorbeeld √(−2). Een kwadraat kan nooit negatief worden, hebben we gezien. Die
+wortel bestaat dus niet in de reële wereld. In de wiskunde hoort de uitkomst bij de
+imaginaire getallen. Imaginair betekent denkbeeldig. Je kunt er ondanks die
+denkbeeldigheid heel veel mee, óók in de elektronica. Maar hier gaan we er niet verder op
+in. Geïnteresseerden kunnen bv. op https://nl.wikipedia.org/wiki/Imaginair_getal of
+https://nl.wikipedia.org/wiki/Complex_getal meer informatie vinden.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Samenvatting
+•
+•
+•
+•
+•
+•
+
+Een wortel is het omgekeerde van een macht.
+Elke wortel kan worden geschreven als een macht met een breuk als exponent.
+1
+𝑛
+Algemeen geschreven: √𝑎 = 𝑎 ⁄𝑛 .
+De omgekeerde waarde van een macht van een getal of grootheid a is a tot diezelfde
+macht, maar met tegengesteld teken. Het omgekeerde van an is dus a-n.
+Elk positief getal is te schrijven als een macht van een ander positief getal
+Machten van negatieve getallen met een gehele exponent bestaan. Even exponenten
+geven een positieve uitkomst, oneven exponenten een negatieve.
+Gebroken machten van negatieve getallen bestaan alleen als de exponent een oneven
+1 1 1
+geheel getal in de noemer heeft, dus 3 , 5 , 7, enzovoort. De uitkomst is dan een
+negatief getal.
+
+2.20 Opgave
+Opgave 2-24
+2
+
+4
+
+Schrijf als macht: √10; √10; √10; ∛𝑎
+
+2.21 Voorrangsregels en de pensionering van mijnheer van Dale
+Gemengde berekeningen
+Het kan gebeuren dat we een gemengde berekening op ons bordje krijgen. Bijvoorbeeld
+één met optellen en vermenigvuldigen of een vermenigvuldiging met een macht erin.
+Soms spreekt de volgorde van werken vanzelf, maar niet altijd. Dan moeten we weten wat
+eerst moet en wat laatst. Anders kunnen we verschillende en vooral onbedoelde
+uitkomsten krijgen. Net als in het verkeer zijn er voorrangsregels.
+Rangorde van bewerkingen
+De oplettende lezer zal hebben gemerkt dat er een rangorde zit in het rijtje optellen,
+vermenigvuldigen en machtsverheffen. Vermenigvuldigen met een getal n is n stuks van
+hetzelfde getal of dezelfde grootheid optellen. Over de iets ingewikkelder vorm van
+vermenigvuldigen met een grootheid hebben we het nu even niet. Machtsverheffen tot
+een macht n is n stuks van hetzelfde getal of dezelfde grootheid vermenigvuldigen. We
+hebben zo optellen aan de basis, machtsverheffen aan de top en vermenigvuldigen er
+tussenin (Tabel 2.21-1).
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Tabel 2.21-1. Rangorde van optellen, vermenigvuldigen en machtsverheffen
+
+Machtsverheffen
+
+Getal met zichzelf vermenigvuldigen
+
+
+
+een geheel of gebroken aantal keren
+
+Vermenigvuldigen
+
+Getal bij zichzelf optellen
+
+
+
+een geheel of gebroken aantal keren
+
+Optellen
+Van die rangorde gaan we uit. Over aftrekken, delen en wortels hebben we het niet, want
+dat is niet nodig. Aftrekken is optellen van een negatief getal. Delen is vermenigvuldigen
+met de omgekeerde waarde. Een n-de machtswortel is een macht met de omgekeerde
+waarde van n als exponent. Maar bedenk dat alles wat tussen haakjes staat, zonder
+uitzondering eerst aan bod komt. Daarmee hebben we de rekenregels vastliggen.
+Rekenregels
+Regel 1. Wat tussen haakjes staat, gaat altijd voor.
+Regel 2. Machtsverheffen gaat vóór vermenigvuldigen en vermenigvuldigen gaat vóór
+optellen. Daar hebben we dus onze rangorde weer in beeld. In 𝑎 + 𝑏𝑐 𝑑 bereken je eerst
+𝑐 𝑑 , dan vermenigvuldig je de uitkomst met b en telt dan pas a erbij op.
+Wat verder aan regels volgt, is uitwerking van regel 1 en regel 2.
+Regel 3. Optellen/aftrekken, zoals a+b+c-d+f mag in willekeurige volgorde, maar gaat het
+zekerst in de volgorde zoals het er staat. Dan is de kans op vergissingen het kleinst.
+Regel 4. In een deling bereken je teller en noemer eerst. Pas daarna voer je de deling uit.
+Voorbeeld: in
+𝑎+𝑏+𝑐
+𝑥𝑦
+
+( 2.21-1)
+
+bereken je eerst a+b+c en xy, daarna deel je pas. Je leest het dus als
+(𝑎 + 𝑏 + 𝑐)
+(𝑥𝑦)
+
+( 2.21-2)
+
+De lange deelstreep heeft voor teller en noemer dezelfde betekenis als haakjes. Wat
+erboven en eronder staat, bereken je eerst. Daarna komt pas de deling. Je mag de lange
+deelstreep dus zien als twee verborgen stellen haakjes, één voor de teller en één voor de
+noemer
+Regel 5. Vermenigvuldigen, zoals a.b.c mag in elke volgorde. Pas op als er een deling in
+zit. Zet die aan het eind, bijvoorbeeld 𝑎. 𝑏. 𝑐/𝑑. Nog beter: schrijf
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+𝑎𝑏𝑐
+𝑑
+
+( 2.21-3)
+
+Dan is er geen misverstand mogelijk. Regel 4, maar dan voor vermenigvuldigen en delen.
+Regel 6. Bereken bij machten eerst de exponent. Voorbeeld: bij
+𝑥 𝑎+𝑏
+
+( 2.21-4)
+
+reken je eerst a+b uit. Eigenlijk moet je het lezen als
+𝑥 (𝑎+𝑏)
+
+( 2.21-5)
+
+Weer die verborgen haakjes. Je ziet het doordat de b in de exponent op dezelfde hoogte
+staat als het plusteken en a.
+𝑥 𝑎+𝑏
+
+( 2.21-6)
+
+𝑥𝑎 + 𝑏
+
+( 2.21-7)
+
+is dus niet hetzelfde als
+
+want dan tel je b op bij 𝑥 𝑎 .
+Regel 7. Bij wortels komt wat ‘onder’ het wortelteken staat, eerst. Voorbeeld: bij
+√𝑎𝑏
+
+( 2.21-8)
+
+eerst ab uitrekenen, dan pas de wortel. Ook hier vervangt de horizontale streep aan het
+wortelteken dus een stel haakjes. Alweer verborgen haakjes!
+√𝑎𝑏
+
+( 2.21-9)
+
+√(𝑎𝑏).
+
+( 2.21-10)
+
+√𝑎. 𝑏
+
+( 2.21-11)
+
+is dus hetzelfde als
+
+Verwar dat niet met
+
+want dan staat b niet meer onder de horizontale streep. Schrijf in zo’n geval liever 𝑏√𝑎 in
+plaats van √𝑎. 𝑏. Je krijgt dan geen misverstanden. In de praktijk schrijf je altijd 𝑏√𝑎.
+Sommige lezers zullen op de basis- of lagere school het ezelsbruggetje Mijnheer Van Dale
+Wacht Op Antwoord hebben geleerd. Dat staat voor de volgorde machtsverheffen,
+vermenigvuldigen, delen, worteltrekken, optellen en aftrekken. Stuur deze mijnheer per
+direct met pensioen en vergeet hem zo snel mogelijk. Houd je vooral aan regel 1 en 2. De
+rest volgt vanzelf.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Samenvatting
+•
+•
+
+•
+
+Wat tussen haakjes staat gaat altijd voor
+Verborgen haakjes zijn in willekeurige volgorde: een lange deelstreep, de horizontale
+streep aan een wortelteken of een exponent met daarin een optelling,
+vermenigvuldiging of wat voor bewerking ook
+Voor het overige geldt de rangorde: (1) macht, (2) vermenigvuldigen, (3) optellen.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.22 Opgaven
+Opgave 2-25
+Bereken 7+5-8*2+4 en 7+5-8*(2+3)
+
+Opgave 2-26
+Bereken 22+3-6 en 22+3-6
+
+Opgave 2-27
+Bereken 5.6/3.5 en 5.6/(3.5)
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.23 Machten van 10, logaritmen en de decibel
+Machten van 10
+Heel grote of heel kleine getallen met maar enkele betekenisvolle cijfers kun je natuurlijk
+met alle bijbehorende nullen uitschrijven. Dat is lastig met schrijven èn met lezen. Je kunt
+ze ook als kort getal met het zinvolle aantal cijfers maal een macht van 10 schrijven.
+Gebruikelijk, maar niet verplicht, is één getal voor de komma, de rest erachter, maal 10
+tot een of andere gehele macht. Een paar voorbeelden ter verduidelijking:
+1 miljoen (1 000 000) is 106
+1 miljard (1 000 000 000) is 109
+0,000 003 24 is 3,24. 10−6 .
+De afstand van de aarde tot de zon is ongeveer 150 000 000 km. Dat kun je schrijven als
+1,5. 108 km.
+De snelheid van radiogolven (en van licht) is afgerond 3,00. 108 m/s. Met een voorvoegsel
+uit Tabel 2.4-2 wordt dat 300 Mm/s. Vreemd genoeg doet bijna niemand dat. Meestal gaat
+deze grootheid in km/s, dus wordt het 3,00. 105 km⁄s of 300 000 km/s.
+In hoofdstuk 3 komt elektrische stroom aan de orde. De eenheid daarvan is de Ampère
+(A). Stroom is verplaatsing van elektronen. Ook daarover lees je in hoofdstuk 3. Bij een
+stroomsterkte van 1 A verplaatsen zich 6,242.1018 elektronen per seconde. Probeer dat
+maar eens netjes zonder exponent uit te schrijven en daarna nauwkeurig te lezen.
+Dit is één manier van werken met machten van 10, maar er kan nog veel meer.
+Stoeien met exponenten
+We hebben in 2.17 gezien dat je ieder positief getal als macht van een ander positief getal
+kunt schrijven. Meestal is dat een gebroken macht.
+We hebben daar ook gezien dat je machten van eenzelfde getal met elkaar kunt
+vermenigvuldigen door de exponenten op te tellen. Een voorbeeld met hele machten:
+32 . 33 = 32+3 = 35 (= 243)
+
+( 2.23-1)
+
+Zo breng je een vermenigvuldiging terug tot een optelling van de exponenten.
+Een machtsverheffing wordt teruggebracht tot een vermenigvuldiging van de exponenten:
+(33 )2 = 33.2 = 36 = 729
+
+( 2.23-2)
+
+Op een andere manier berekend:
+33 = 3.3.3 = 27 en dan: 272 = 729
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-48
+
+( 2.23-3)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De uitkomst is dus dezelfde. Probeer het als je wilt op de zakrekenmachine met nog wat
+andere getallen. Of in een spreadsheet zoals Excel, als je dat hebt en ermee overweg kunt.
+In 2.21 hebben we de rangorde machtsverheffen, vermenigvuldigen en optellen
+gekoppeld aan voorrangsregels in gemengde berekeningen. We zien nu dat je met
+exponenten een bewerking één stap in die rangorde kunt terugbrengen. We gaan daar
+verder op in met het onderwerp logaritmen. Maar eerst een korte inleiding op dit
+onderwerp.
+Nu we weten dat je elk positief getal kunt schrijven als een (meestal) gebroken macht van
+10, kunnen we nog een stapje verder. We geven eerst een paar voorbeelden van gebroken
+machten:
+2 is (exponent afgerond) 100,30103
+3 is (exponent afgerond) 100,47712
+Hoeveel is dan 3 miljoen als macht van 10? Dat werken we uit.
+3 miljoen is 3. 106 en 3 als macht van 10 is 100,47712. 3 miljoen is dan 100,47712 . 106 . Bij
+het vermenigvuldigen van machten van hetzelfde getal moeten we de exponenten
+optellen. Dus krijgen we 3. 106 = 100,47712 . 106 = 106,47712 .
+Drie miljoen tot de macht 3, te schrijven als (3. 106 )3 wordt geen optelling, maar een
+vermenigvuldiging van exponenten: (3. 106 )3 = 33 . 103.6 = 27. 1018 . Maar het mag ook
+zo: (3.106 )3 = 103.0,47712 . 103.6 = 101,43136+18 = 1019,43136 .
+Dan moet 27 = 1019,43136−18 = 101,43136 zijn.
+Hiermee zijn we toe aan de logaritmen.
+Logaritmen
+Een logaritme is een exponent zonder dat het getal waar de exponent bij hoort, wordt
+meegeschreven. Dat werkt alleen als het getal waar de exponent bij hoort, bekend is. Daar
+zijn dan ook regels voor.
+Een logaritme wordt standaard afgekort tot ‘log’. Als je in een wiskundige uitdrukking
+‘log’ tegenkomt, wordt stilzwijgend een macht van 10 bedoeld. Als het anders is, hoort dat
+luid en duidelijk te worden aangegeven. 10 heet het grondtal van de logaritme. Als je het
+heel strikt neemt, maar dat is bijna nooit nodig, schrijf je log 𝑎 als log10 𝑎. De 10 staat dan
+niet hoog geschreven zoals een exponent, maar laag. Bij (bijvoorbeeld) 27 als grondtal zou
+dat log 27 𝑎 zijn. De schrijfwijze 10log a komt ook voor en betekent hetzelfde als log10 𝑎.
+Met de twee gebroken exponenten, waarmee we in 2.23.2 hebben kennisgemaakt, kunnen
+we twee logaritmen schrijven.
+log 2 = 0,30103
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-49
+
+( 2.23-4)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+log 3 = 0,47712
+Een stapje verder:
+log 106 = 6
+log 3. 106 = log 3 + log 106 = 0,47712 + 6 = 6,47712
+
+( 2.23-5)
+
+Dat hadden we hiervoor op een iets ingewikkelder manier ook uitgerekend.
+Andere grondtallen dan 10
+Een ander getal dat in de wiskunde en de natuurkunde vaak grondtal is, is het getal e. Ook
+in de elektronica, een vorm van toegepaste natuurkunde, komt e veel voor. Het
+beschrijven van de bijzondere eigenschappen van dit getal gaat voor een cursus als deze te
+ver. Je kunt er meer over lezen in https://nl.wikipedia.org/wiki/E_%28wiskunde%29. De
+waarde van e bedraagt afgerond 2,71828. Het getal e hoort net als bijvoorbeeld √2 tot de
+irrationale getallen. We krijgen met e te maken in hoofdstuk 4.
+Logaritmen met e als grondtal geven we meestal aan met ’ln’ in plaats van ‘log’. De ‘n’ is de
+afkorting van ‘natuurlijk’, maar ook de eerste letter van de achternaam van de uitvinder
+van de logaritme, de Schotse wiskundige John Napier of Neper. Hij schreef daarover in
+1614, meer dan 400 jaar geleden dus, een verhandeling.
+De redenen voor gebruik van het grondtal 10 in plaats van het ‘natuurlijke’ getal e laten
+zich gemakkelijk raden. Ten eerste is 10 een geheel getal en ten tweede is het de basis van
+ons getallenstelsel.
+Maar ook het getal e is een macht van 10:
+𝑒 = 10log 𝑒 = 100,43429
+
+( 2.23-6)
+
+10 = 𝑒 ln 10 = 𝑒 2,30259
+
+( 2.23-7)
+
+En 10 is een macht van e:
+
+Zo kun je op beide grondtallen gebaseerde logaritmen in elkaar omrekenen:
+log 𝑎 = 0,43429 ln 𝑎 en ln 𝑎 = 2,30259 log 𝑎
+
+(𝑎 > 0)
+
+( 2.23-8)
+
+Het teken > betekent ‘is groter dan’.
+Nog een ander grondtal is 2. Je schrijft dan lb (log binair). Het wordt hoofdzakelijk
+toegepast bij datatransmissie. Het valt niet onder de eisen bij het zendexamen.
+Logaritmen van 0 bestaan niet. Die van negatieve getallen ook niet, omdat gebroken
+machten van negatieve getallen op enkele uitzonderingen na niet bestaan. Die paar
+uitzonderingen zijn we in 2.19.4 tegengekomen. Daarom zetten we de toevoeging a > 0 er
+in ( 2.23-8) één keer bij en verder niet meer.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Logaritmen van getallen tussen 0 en 1
+Een bijzondere logaritme is log 1. Daar komt 0 uit, want elk getal tot de macht 0 is 1. Dat
+geldt dus bij elk grondtal. Dus log 1=0, ln 1=0, lb 1=0 en 83log 1=0.
+De log van een getal kleiner dan 1, maar groter dan 0, is een negatief getal. Een voorbeeld:
+log 0,2= log (0,1*2)=log 0,1+log 2= -1+0,30103=-0,69897.
+Het is voor het zendexamen niet nodig, hier heel diep op in te gaan. Een toepassing
+waarbij we logaritmen gebruiken is het bepalen van versterking of verzwakking door
+verschillende delen van een zend- of ontvangsysteem. Daarover gaat de volgende
+paragraaf, waarin we kennis maken met de decibel, afgekort dB.
+De decibel
+Het woord ‘decibel’ zal veel lezers bekend in de oren klinken. Het wordt vaak in verband
+gebracht met geluidssterkte. Wie Tabel 2.4-2 nog goed in beeld heeft, zal het stukje ‘deci’
+herkennen. Een tiende deel van een bel? Inderdaad, 10−1 bel, afgekort B, dus ook nog
+eens met een hoofdletter. Hij is genoemd naar de telefoonpionier Alexander Graham Bell.
+Klik als je dat wilt hier voor meer informatie over hem. De bel wordt afgekort als B.
+Wat is een bel? Een bel is de logaritme van het quotiënt van twee vermogens. De
+grootheid vermogen wordt behandeld in hoofdstuk 3. Daarom zijn we er hier kort over.
+Vermogen is energie per tijd. De eenheid is de Watt, afgekort W. Die zijn we in dit
+hoofdstuk al eens tegengekomen. 1 W is 1 Js-1. Voluit geschreven: 1 Joule per seconde. 1
+Joule (spreek uit: “Zjoel”) is bij aardse zwaartekracht genoeg om 1 kg 10,2 cm op te tillen.
+Dit is geen examenstof, maar bedoeld om je er een beeld van te geven! Met 1 J kun je ook
+1 gram (1 g) zuiver en vloeibaar water 0,24 K (of ºC) verwarmen. Ook dit is geen
+examenstof, maar alweer bedoeld om je een idee te geven waarover we het hebben.
+Het energieverbruik van een lamp wordt opgegeven in Watt (W). Strikt genomen moeten
+we spreken over het opgenomen vermogen van de lamp. Intensiteit van licht of geluid dat
+je oog of oor binnenkomt, is ook vermogen. Ook radiogolven die worden uitgestraald of
+opgevangen zijn dat.
+De bel is een getal, want een logaritme is een exponent en daarom altijd een getal. De B is
+handig omdat je meteen weet dat het om de verhouding van twee vermogens gaat. Neem
+twee vermogens en noem ze P1 en P2 (van het Engelse Power). Ze verschillen x Bel. De
+waarde van x bereken je met
+𝑃1
+𝑃2
+
+( 2.23-9)
+
+10W
+= log 10 = 1B
+1W
+
+( 2.23-10)
+
+𝑥 = log
+Stel dat 𝑃1 = 10W en 𝑃2 = 1W. Dan geldt
+𝑥 = log
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Net zoals 1 m gelijk is aan 10 dm, is 1B gelijk aan 10 dB. P1 is dus 10 dB groter dan P2. Je
+mag ook zeggen dat P2 -10 dB groter is dan P1, want als we in de vergelijking P1 en P2
+verwisselen, is x=-1. In het spraakgebruik zeggen we meestal dat P1 10 dB groter is dan P2.
+We gebruiken vrijwel altijd de dB en niet de B.
+Als 𝑃1 = 𝑃2 , dan is x=log1=0. P1 en P2 verschillen dan 0 dB. ‘0 dB verschil’ betekent dus
+‘geen verschil’. Dat zal sommigen onder ons begrijpelijker in de oren klinken dan dat de
+verhouding 1 is.
+Als een versterker 1 mW aan signaal krijgt toegevoerd en er komt 1 W uit, dan is de
+vermogensversterking 1000x. log 1000 is 3, dus de versterking bedraagt 30 dB.
+Bij een vermogensversterking van 2 keer spreken we over 3 dB, want log 2  0,3 (het
+verschil met de exacte uitkomst verwaarlozen we bijna altijd. 4 keer wordt dan 3 dB + 3
+dB=6 dB, 8 keer wordt 6dB + 3dB= 9 dB, enzovoort. Een versterking met 5dB ronden we
+vaak af op 3 keer, hoewel log 3 maar 0,47712 is. 4,8 dB zou dus nauwkeuriger zijn, maar
+omdat in de radiotechniek versterking meestal niet heel nauwkeurig is (en ook niet hoeft
+te zijn), kunnen we ons prima behelpen met 5dB voor ‘maal 3’.
+Zetten we twee versterkers achter elkaar, waarbij de een 6 dB en de ander 9 dB versterkt,
+dan is de totale versterking van het tweetal 15 dB ofwel 4.8  32 keer, zoals weergegeven
+in Figuur 2.23-1. De gekantelde driehoeken zijn gebruikelijke versterkersymbolen. De
+ingang zit links, de uitgang rechts (de punt van de driehoek). Wat via een antenne een
+ontvanger binnenkomt, kan bijvoorbeeld 10-12 W zijn. Volgens Tabel 2.4-2 is dat 1 pW
+(picoWatt). Als er dan 1 W naar de luidspreker gaat, berekenen we een netto-versterking
+van 120 dB. In werkelijkheid ligt het iets ingewikkelder, omdat niet het antennesignaal
+uit de luidspreker komt, maar het geluid dat erin ‘verpakt’ zit. Dat heet de modulatie. Die
+komt in Hoofdstuk 12 aan de orde.
+
++15 dB
+
++6 dB
+
++9 dB
+
+Figuur 2.23-1. Versterkingen in dB’s kun je in deze serieschakeling optellen.
+
+Als we één vermogen of intensiteit in dB willen uitdrukken, hebben we altijd een
+vermogen of intensiteit nodig om mee te vergelijken. Bij een quotiënt of verhouding heb
+je nu eenmaal een teller en een noemer nodig. De grootheid waarmee je vergelijkt, heet
+de referentiegrootheid. Die is niet altijd dezelfde en wordt ook nog wel eens niet
+genoemd. Verderop in deze cursus zullen we ermee kennismaken. De dB wordt onder
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+meer gebruikt in de geluidstechniek, zaken die met lichtintensiteit te maken hebben en de
+elektronica. De uitspraak “het geluidsniveau is 80 dB” betekent eigenlijk niets, behalve
+voor degenen die de referentiegrootheid kennen.
+Samenvatting
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Heel grote of heel kleine getallen met veel nullen voor of achter de komma schrijf je
+gemakkelijker als getal met alleen de betekenisvolle cijfers maal een macht van 10.
+Bij vermenigvuldigen van machten van eenzelfde getal bewerk je alleen de
+exponenten. Die bewerking komt een stapje lager in de rangorde van macht vermenigvuldiging – optelling in Tabel 2.21-1 dan in de oorspronkelijke bewerking.
+Vermenigvuldigen wordt optellen van exponenten en machtsverheffen
+vermenigvuldigen van exponenten.
+Een logaritme is een exponent zonder dat het getal waarvan de logaritme een
+exponent is, wordt meegeschreven.
+Het gangbare symbool voor een logaritme met grondtal 10 is ‘log’.
+Het gangbare symbool voor een logaritme met grondtal e is ‘ln’.
+Van elk positief getal bestaat een logaritme.
+Met logaritmen verander je een vermenigvuldiging in een optelling en een macht in
+een vermenigvuldiging.
+De B (bel) is de logaritme van het quotiënt van twee vermogens of intensiteiten. Iets
+anders gezegd: de logaritme van de verhouding van twee vermogens.
+In plaats van de B wordt vrijwel alleen de dB gebruikt. Die is een tiende van de B, dus
+1B=10 dB
+Als we bij achter elkaar geschakelde versterkers de versterking in dB uitdrukken,
+vinden we de totale versterking door optelling van de dB’s.
+Je kunt geen vermogen in dB uitdrukken zonder referentievermogen.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.24 Opgaven
+Opgave 2-28
+De baan van de aarde om de zon is ongeveer 950 miljoen km lang. Schrijf die afstand in
+km met niet meer dan 3 cijfers en een macht van 10.
+
+Opgave 2-29
+De golflengte van rood licht is ongeveer 700 nm. Schrijf deze grootheid in m met een
+macht van 10.
+
+Opgave 2-30
+Als log 30,48 en log 20,30, hoeveel is dan log 24?
+
+Opgave 2-31
+Hoeveel is log 210? En hoeveel is 210?
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Opgave 2-32
+Een zendantenne straalt 100 W uit. Een ontvangstantenne ergens in de wereld ontvangt
+daarvan 10 pW. Bereken eerst de verzwakking tussen zend- en ontvangstantenne als
+macht van 10 (gebruik als je dat wilt Tabel 2.4-2). Bereken vervolgens de verzwakking
+van zender naar ontvanger in dB.
+
+Opgave 2-33
+Een signaal wordt achtereenvolgens versterkt door twee versterkers. De eerste versterkt 9
+dB en de twee doet er nog eens 10 dB bovenop. Bij de overdracht van de eerste naar de
+tweede versterker treedt een verlies van 1 dB op. Hoe groot is de totale versterking in dB?
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.25 Getallenstelsels
+Inleiding
+De opmars van de digitale elektronica laat ook de wereld van de radiozendamateur niet
+ongemoeid. Digitale systemen zijn gebaseerd op het tweetallige stelsel. Dat kent alleen de
+cijfers 0 en 1. We zijn gewend, te rekenen in het tientallige of decimale stelsel. Dat kent
+de cijfers 0 tot en met 9. Afgezien van het aantal cijfers is het tweetallige stelsel net zo
+georganiseerd als ons vertrouwde tientallige systeem. Daarom bekijken we eerst hoe het
+tientallige stelsel precies in elkaar zit. Daarna volgt het tweetallige. We behandelen ook
+het zestientallige stelsel dat vooral in de digitale wereld een belangrijke rol speelt. Je kunt
+over getallenstelsels veel vinden op internet, bijvoorbeeld Binaire, octale en hexadecimale
+getallenstelsels | Wetenschap: Wiskunde (infonu.nl)
+Het tientallige stelsel
+Het tientallige of decimale stelsel is gebaseerd op het getal 10. Een getal is eigenlijk een
+optelling zonder dat er plustekens in staan, zagen we eerder. Alle getallen in de optelling
+zijn een hele macht van 10 maal een geheel getal uit het rijtje 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 of
+korter: 0 t/m 9. De hoogste macht van 10 die 1 of meer keer in het getal zit, staat helemaal
+links. Elke positie naar rechts is een macht van 10 met een exponent die 1 kleiner is dan
+de vorige. Zo is het getal 2753 de optelling
+2. 103 + 7. 102 + 5. 101 + 3. 100 = 2753
+
+7
+
+( 2.25-1)
+
+7
+
+5
+
+5
+
+3
+
+3
+
+2
+
+2
+
+0 , 0
+103
+
+102
+
+101
+
+100
+
+Figuur 2.25-1. Het getal 2753, opgesplitst in
+getallen en hun positiewaarden (onder in in de
+gekleurde vakjes).
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+100
+
+10-1
+
+10-2
+
+10-3
+
+10-4
+
+10-5
+
+Figuur 2.25-2. Het getal 0,02753, opgesplitst in
+getallen, en hun positiewaarden (onder in de
+gekleurde vakjes). De komma staat net boven de
+grens van de gekleurde vakjes100 en 10-1.
+
+2-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Wie op de basisschool leert rekenen, werkt dus zonder dat te beseffen al vrij snel met
+machten van 10. Alleen heten ze dan enen, tienen, honderden, duizenden, of zoiets. Het
+kan ook in een plaatje, zoals in Figuur 2.25-1. De figuur maakt nog wat duidelijker dat in
+ons decimale getallenstelsel niet alleen een cijfer een waarde heeft, maar ook zijn positie
+in het getal. De waarde van elk cijfer in een getal is positiewaarde maal cijferwaarde.
+Voor cijfers achter de komma werkt dit precies zo, alleen krijgen de exponenten van 10
+een minteken. Meer is het niet. We geven weer een voorbeeld. Laten we hetzelfde getal
+nemen, maar dan met eerst een nul achter de komma. Bijvoorbeeld 0,02753. De optelling
+wordt:
+0. 100 + 0. 10−1 + 2. 10−2 + 7. 10−3 + 5. 10−4 + 3. 10−5 = 0,02753
+
+( 2.25-2)
+
+Het bijbehorende plaatje met de komma op de juiste plek staat in Figuur 2.25-2.
+Het tweetallige of binaire stelsel, de bit
+Wat met het grondtal 10 kan, kan ook met het grondtal 2. Het tweetallige of binaire
+stelsel kent maar twee cijfers: 0 en 1. Dat werkt net zo goed als de 0 t/m 9 in het tientallige
+stelsel. Alleen worden de getallen erg lang. Voor het getal 2753 van zojuist hebben we dan
+geen 4, maar 12 cijferposities nodig. Computers rekenen tweetallig.
+Het tweetallige stelsel is door de lengte van de getallen voor een mens niet erg
+overzichtelijk. Een computer heeft er geen moeite mee. Elektronica heeft juist moeite met
+basisschakelingen die geen twee, maar tien verschillende toestanden moeten kunnen
+aannemen. Zo’n schakeling is met enige moeite nog wel te bedenken en te maken, maar
+gaat gemakkelijker in de fout dan één die maar twee toestanden kent en die dan de
+benaming 0 of 1 krijgen.
+Als we het getal 2753 binair uitschrijven op de manier van Figuur 2.25-1 en Figuur 2.25-2,
+krijgen we Figuur 2.25-3. Daarin staan niet alleen de machten van 2, maar ook de
+bijbehorende waarden in decimale getallen.
+1
+1
+1
+1
+1
+
+0
+Macht van 2
+
+11
+
+2
+
+10
+
+2
+
+Tientallig getal 2048 1024
+
+0
+9
+
+8
+
+7
+
+2
+
+2
+
+2
+
+512
+
+256
+
+128
+
+6
+
+2
+
+64
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+4
+
+3
+
+2
+
+21
+
+2
+
+32
+
+2
+
+16
+
+2
+
+2
+8
+
+4
+
+20
+2
+
+1
+
+Figuur 2.25-3. Het getal 2753, uitgeschreven als binair getal met machten van 2 weergegeven als tientallig
+getal.
+
+2753 schrijf je binair dus als 1010 1100 0001, zoals Figuur 2.25-3 aangeeft. Binaire getallen
+komen in de cursus terug bij de digitale schakelingen (hoofdstuk 11). Dan zullen ook de
+decimaal uitgeschreven waarden van machten van 2 met enige regelmaat aan de orde
+komen.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Eén binair cijfer heet een bit. Dat is een samentrekking van binary digit, Engels voor
+binair cijfer. Het woord digit komt van het Latijnse digitus. Dat betekent vinger. We zijn
+allemaal begonnen met rekenen op onze vingers.
+De omzetting van binair naar een decimaal getal is een optelling van nullen en machten
+van 2. Het getal 100 is binair 1100100. Dat zijn 7 bits. De meest linkse 1 staat voor 26. Het
+sommetje wordt dan 1100100 𝑏𝑖𝑛𝑎𝑖𝑟 = 26 + 25 + 0 + 0 + 22 + 0 + 0 = 64 + 32 + 4 =
+100. Een 0 blijft een 0 en een 1 wordt de macht van 2 die met de cijferpositie
+overeenkomt. De macht van 2 voor het meest linkse bit volgt uit het aantal bits. De rest
+volgt daaruit net als bij decimale getallen.
+Het zestientallige of hexadecimale stelsel.
+Zoals we hebben gezien, zijn binaire getallen voor de mens lastig te lezen. Daar heeft die
+mens natuurlijk wat op bedacht. Dat is het hexadecimale stelsel. Dat heeft zestien als
+grondtal. Zestien is een macht van twee. In Figuur 2.25-3 zien we dat het 24 is, 2.2.2.2
+dus. Dat betekent 4 bits in één cijfer. Dat kort die lange reeksen bits prettig in.
+We komen dan wel voor zes cijfers tekens tekort. In het decimale stelsel hebben we 10
+cijfers, 0 t/m 9. In een zestientallig stelsel hebben we er zestien nodig. Dus 0 t/m 15. Maar
+10 t/m 15 mag je dan niet als twee cijfers schrijven, want dan staat de linker 1 voor 161 en
+niet voor 101. Er zijn dus zes nieuwe cijfersymbolen nodig. Een eenvoudige oplossing is,
+daarvoor de eerste zes letters van het alfabet te nemen, A t/m F dus. Het moet dan
+duidelijk zijn dat het om een getal gaat en niet om tekst. Die duidelijkheid is er vrijwel
+altijd. De extra cijfers worden meestal als hoofdletter geschreven, maar als kleine letter
+kom je ze ook wel eens tegen.
+In Tabel 2.25-1 staat een aantal getallen in decimaal, dus zoals we gewend zijn, ze te
+schrijven. Daarnaast staan de binaire en de hexadecimale versies. De binaire getallen zijn
+georganiseerd in blokjes van 4, net zoals we lange decimale getallen graag in blokjes van 3
+schrijven. Daarmee is de omzetting naar hexadecimaal gemakkelijk, omdat 24 = 16. Elk
+blokje van 4 is dus één hexadecimaal cijfer dat binair is uitgeschreven. Probeer het maar
+voor het decimale getal 1000, dat binair 11 1110 1000 is. Voor het eerste blokje met 11
+vinden we in de linker kolom 3. Voor 1110 vinden we E. Voor 1000 vinden we 8. Bij
+elkaar geschreven: 3E8. Omdat 16 een gehele macht van 2 is, is de omzetting betrekkelijk
+gemakkelijk. Deel het binaire getal van rechts naar links op in blokjes van vier. Omzetten
+naar decimaal is lastiger. Vanaf hexadecimaal is de omzetting het gemakkelijkst, want die
+getallen zijn kort. Laten we weer het decimale getal 1000 uit de tabel nemen. Dat zou
+hexadecimaal 3E8 moeten zijn. Dat controleren we. Hexadecimaal schrijven we (let op: 10
+hexadecimaal is 16 decimaal!):
+3E8 = 3. 102 + E. 101 + 8. 100
+Decimaal wordt dat
+3. 162 + 14. 161 + 8. 160 = 3.256 + 14.16 + 8.1 = 768 + 224 + 8 = 1000
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Het klopt dus.
+Tabel 2.25-1. Decimale, binaire en hexadecimale schrijfwijze van een aantal getallen. In de binaire getallen
+zijn de cijfers van rechts naar links opgesplitst in blokjes van 4.
+
+Decimaal
+
+Binair
+
+Hexadecimaal
+
+Decimaal
+
+Binair
+
+Hexadecimaal
+
+0
+
+0
+
+0
+
+20
+
+1 0100
+
+14
+
+1
+
+1
+
+1
+
+31
+
+1 1111
+
+1F
+
+2
+
+10
+
+2
+
+32
+
+10 0000
+
+20
+
+3
+
+11
+
+3
+
+63
+
+11 1111
+
+3F
+
+4
+
+100
+
+4
+
+64
+
+100 0000
+
+40
+
+5
+
+101
+
+5
+
+100
+
+110 0100
+
+64
+
+6
+
+110
+
+6
+
+127
+
+111 1111
+
+7F
+
+7
+
+111
+
+7
+
+128
+
+1000 0000
+
+80
+
+8
+
+1000
+
+8
+
+255
+
+1111 1111
+
+FF
+
+9
+
+1001
+
+9
+
+256
+
+1000 00000
+
+100
+
+10
+
+1010
+
+A
+
+511
+
+1 1111 1111
+
+1FF
+
+11
+
+1011
+
+B
+
+512
+
+10 0000 0000
+
+200
+
+12
+
+1100
+
+C
+
+1000
+
+11 1110 1000
+
+3E8
+
+13
+
+1101
+
+D
+
+1023
+
+11 1111 1111
+
+3FF
+
+14
+
+1110
+
+E
+
+1024
+
+100 0000 0000
+
+400
+
+15
+
+1111
+
+F
+
+2047
+
+111 1111 1111
+
+7FF
+
+16
+
+1 0000
+
+10
+
+2048
+
+1000 0000 0000
+
+800
+
+Omrekenen van decimaal naar binair of hexadecimaal is lastiger. Dat komt vooral doordat
+we niet gewend zijn om in die twee getallenstelsels te denken. Voor een voldoende begrip
+van digitale schakelingen is het ook niet nodig. Aan de linker kolom van Tabel 2.25-1 heb
+je vrijwel altijd genoeg. Het is voor het zendexamen ook niet nodig, dit allemaal uit het
+hoofd te leren. Begrijpen is voldoende.
+Samenvatting
+•
+
+In elk getallenstelsel is een getal een optelling zonder plustekens
+
+•
+
+De waarde van elk cijfer in een getal is het product van het cijfer zelf en de macht
+van het grondtal die is gekoppeld aan de positie van het cijfer.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-59
+
+VRZA-cursus radiozendamateur
+
+•
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De waarde van de cijferpositie bij een grondtal n is vanaf de komma naar links n0,
+
+n1, n2, enzovoort. Vanaf de komma naar rechts geldt n-1, n-2, n-3, enzovoort.
+•
+
+Het aantal benodigde cijfers in een getallenstelsel is gelijk aan het grondtal. Ze
+beginnen bij 0 en lopen op tot en met het grondtal min één. In het 10-tallige stelsel
+gaat het dus om 0 tot en met 9, bij het 2-tallige om 0 en 1, en bij het 16-tallige
+stelsel om 0 tot en met F.
+
+2.26 Grafieken
+Wat zie je aan een grafiek?
+Grafieken zijn bedoeld om verbanden tussen getallen en/of grootheden zichtbaar te
+maken. Eigenlijk hebben we er al kennis mee gemaakt. Figuur 2.9-2 die de ontlading van
+een accu in de tijd weergeeft, is een voorbeeld. Figuur 2.13-1 met de taartpunten ook. Ook
+in de natuur komen beelden voor die je grafieken zou kunnen noemen. Een voorbeeld is
+Foto 2.26-1. Daarop is een bosje in de duinen te zien. De zeewind brengt behalve wind
+ook zout mee en daar houden de bomen niet van. Het vermindert hun groei. De zoute
+wind waait hier van links naar rechts. De meest linkse bomen vangen het eerste zout op.
+Zo kan de volgende boom ietsje hoger groeien en zo verder. De foto toont zo een grafiek
+van groeiomstandigheden voor de bomen. Die worden van links naar rechts beter.
+
+Foto 2.26-1. Een door zoute zeewind beïnvloed bosje in de duinen toont een natuurlijke grafiek van de
+verandering van de groei van bomen met toenemende beschutting tegen zoute wind.
+
+Een lijngrafiek geeft het verband tussen twee grootheden of getallen. De eenvoudigste is
+y=x. Recept: teken een horizontale en een verticale lijn. Zet op de verticale y en op de
+horizontale x uit. In theorie kan het ook andersom, maar het wordt zelden gedaan. We
+noemen die lijnen de assen van de grafiek. Vind nu enkele punten in de grafiek waar de
+horizontale afstand tot de y-as gelijk is aan de verticale afstand tot de x-as. Trek daar een
+rechte lijn doorheen. Een resultaat zie je in Figuur 2.26-1.
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+10
+9
+8
+7
+
+y
+
+6
+5
+4
+3
+2
+1
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10
+
+x
+Figuur 2.26-1. Grafiek van y=x voor x tussen 0 en 10. De drie kruisjes of plustekens staan voor enkele
+gevonden punten in de grafiek.
+
+Voor elke waarde van x vond je nu de bijbehorende waarde van y door vanaf x recht
+omhoog te gaan naar de schuine lijn. Op het snijpunt ga je naar links en leest y af op het
+snijpunt met de y-as. In dit geval levert dat dezelfde waarde op. Zo hoort dat ook in een
+grafiek y=x.
+Andere mogelijkheden voor de grafiek van Figuur 2.26-1 zijn:
+•
+•
+
+•
+
+De kruisjes van de gevonden punten hadden ergens anders op de lijn mogen liggen.
+Het hadden er ook twee, vier of meer mogen zijn.
+Op de assen hadden ook negatieve getallen mogen staan, bijvoorbeeld een rijtje van 10 tot +5 of -100 tot 0. De lijn zou ook dan recht zijn geweest. Een voorbeeld van
+dezelfde grafiek maar met een andere x-as zien we in Figuur 2.26-2.
+De twee assen van de grafiek in Figuur 2.26-1 hoeven niet even lang te zijn of precies
+dezelfde getallen te tonen.
+
+Neem nu een getal op de x-as, bijvoorbeeld 7,5. Ga vanaf dat punt recht omhoog tot je op
+de schuine lijn komt en ga vandaar horizontaal naar links tot je de y-as kruist. Als je het
+goed hebt gedaan, ben je op het punt y=7,5 aangeland.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+10
+9
+8
+7
+
+y
+
+6
+5
+4
+3
+2
+1
+0
+-10 -8 -6 -4 -2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40
+x
+
+Figuur 2.26-2. Grafiek van y=x voor x tussen 0 en 10, net als Figuur 2.26-1. De x-as loopt nu van -10 tot +40
+en de kruisjes zijn weggelaten.
+
+Nu Figuur 2.26-2. De x-as loopt nu van -10 naar +40. Vanwege de ruimte staan alleen de
+even getallen erop. We zeggen ook wel dat de schaal van de x-as en de schaal van de y-as
+ongelijk zijn.
+De lijn in de grafiek loopt steiler omhoog dan in Figuur 2.26-1. Dat komt doordat de
+getallen op de x-as dichter op elkaar staan. De lijn begint ook niet op de kruising van de
+assen, maar waar het getal 0 op de x-as staat. Had de y-as ook van -10 tot +40 gelopen, dan
+had ook de grafiek doorgelopen. Bedenk zelf hoe de grafiek y=2x eruit moet zien. Is die
+steiler of juist minder steil dan y=x?
+Waarop moet je vooral letten bij een grafiek?
+Bij een grafiek moeten we op minstens drie dingen letten
+1. Wat staat op welke as?
+2. De schaal van de assen
+3. Het nulpunt van de assen.
+Grafieken hoeven niet rechtlijnig te zijn. Kromme grafieken komen veel vaker voor dan
+rechte. Een voorbeeld is de afname van de luchtdruk met de hoogte boven het
+aardoppervlak. Een grafiek daarvan ziet er ongeveer uit als Figuur 2.26-3.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+120
+
+Luchtdruk (kPa)
+
+100
+80
+60
+40
+20
+0
+0
+
+4 000
+
+8 000
+
+12 000
+
+16 000
+
+Hoogte (m)
+
+Figuur 2.26-3. Gemiddelde luchtdruk tegen de hoogte boven het aardoppervlak. Voorbeeld van een nietrechtlijnige grafiek.
+
+De luchtdruk staat aangegeven in kPa, voluit kilopascal. De pascal is in het SI-stelsel de
+eenheid van druk. De hoogte staat op de horizontale as. Gevoelsmatig zouden we die
+eerder op de verticale as zetten. Daar is niets op tegen. De grafiek van Figuur 2.26-3 heeft
+alleen maar een horizontale hoogte-as om te laten zien dat het ook anders kan en mag.
+Om een grafiek te snappen, moet je dan ook eerst kijken, wat waar staat.
+We kunnen bijvoorbeeld uit Figuur 2.26-3 aflezen wat ongeveer de luchtdruk op 5000 m
+hoogte is. Het streepje op de hoogte-as rechts van dat van 4000 m is dat van 5000 m. Tel
+zelf even na. Ga daarvandaan recht omhoog tot je de kromme lijn tegenkomt. Dan ga je
+horizontaal naar links naar de luchtdruk-as en je vindt ongeveer 55 kPa. Dat is ruim de
+helft van de druk op 0 m (zeeniveau) die gemiddeld ongeveer 101 kPa is.
+Bij het maken van een grafiek zoals in Figuur 2.26-3 kun je niet volstaan met een paar
+punten en een liniaal, zoals in Figuur 2.26-1. In Figuur 2.26-3 heb je meer punten nodig
+om de kromme lijn goed te tekenen.
+In de loop van deze cursus zul je allerhande soorten grafieken tegenkomen. Kijk altijd
+meteen wat op elke as staat. Dat hoort bij de as te staan, anders is het een onleesbare
+grafiek. Je zult grafieken tegenkomen die heel anders in elkaar zitten. Grafieken zijn er
+om iets in één oogopslag te kunnen zien of in elk geval om iets te verduidelijken. Dat
+neemt niet weg dat ze vooral van de onervaren lezer enig denkwerk kunnen vragen over
+wat nu precies wat is.
+
+2.27 Vergelijkingen
+Hoe zit een vergelijking in elkaar?
+Een wiskundige vergelijking heeft de vorm van
+•
+•
+•
+
+iets is gelijk aan iets anders, geschreven als ‘iets = iets anders’. Voorbeeld: b=a+1.
+Iets is ongelijk aan iets anders, geschreven als ‘iets ≠ iets anders’. Voorbeeld: b≠a+1
+iets is groter dan iets anders, geschreven als ‘iets > iets anders’. Voorbeeld: b>a+1.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-63
+
+VRZA-cursus radiozendamateur
+
+•
+•
+•
+
+Hoofdstuk 2 volledige tekst_20250503
+
+iets is groter dan of gelijk aan iets anders, geschreven als ‘iets ≥ iets anders’. Voorbeeld:
+b≥a+1.
+iets is kleiner dan iets anders, geschreven als ‘iets < iets anders’. Voorbeeld: b<a+1.
+iets is kleiner dan of gelijk aan iets anders, geschreven als ‘iets ≤ iets anders’.
+Voorbeeld: b≤a+1.
+
+Voor ‘vergelijking’ wordt ook wel het woord ‘formule’ gebruikt. Wij gebruiken de
+wiskundig juistere term ‘vergelijking’. Een vergelijking met een ‘=’ betekent een
+gelijkheid. Die met een ‘>’ , een ‘<‘ of ‘≠ ‘ een ongelijkheid. Die met een ‘≥’ of een
+‘≤’kunnen allebei zijn. Aan weerskanten van het vergelijkingsteken moet iets staan. Dat
+zijn de leden van de vergelijking, te onderscheiden in een linker- en een rechterlid. Als
+een lid ontbreekt, is de vergelijking niet af en kun je er niets mee.
+Gelijkheden
+De belangrijkste vergelijkingen die we in de elektronica gebruiken zijn gelijkheden. De
+belangrijkste vraag is hoe je daarmee omgaat om er iets zinnigs uit te krijgen. Als er verder
+niets bij een vergelijking staat, hoort hij algemeen geldig te zijn. We beginnen met
+𝑦 =𝑥+2
+
+( 2.27-1)
+
+Daar kunnen we al wat aan zien. Om te beginnen is y groter dan x. Om precies te zijn: 2.
+Verder moet x een getal zijn, anders kun je 2 en x niet bij elkaar optellen. Dan moet y ook
+een getal zijn, want de leden aan weerskanten van het ´=´ teken moeten gelijk aan elkaar
+zijn.
+De waarden aan weerskanten van het ‘=’ teken blijven aan elkaar gelijk als we in beide
+leden dezelfde bewerking uitvoeren. Voorbeeld: -2 erbij optellen Dus
+𝑦−2=𝑥+2−2
+
+( 2.27-2)
+
+𝑦−2=𝑥
+
+( 2.27-3)
+
+Dus
+
+Het resultaat is dat we de 2 van het rechter- naar het linkerlid hebben verhuisd. Bij die
+verhuizing verandert het teken. We hebben de bewering ‘y is twee groter dan x’
+vervangen door ‘x is 2 kleiner dan y’. Dat betekent hetzelfde. Wiskunde is uiteindelijk
+niet meer dan boerenverstand.
+Met vermenigvuldigen gaat het net zo.
+𝑦 = 2𝑥
+
+( 2.27-4)
+
+Hier is y dus het dubbele van x. y en x kunnen nu getallen of grootheden zijn. Maar de
+een kan niet een grootheid zijn terwijl de ander een getal is. Dan is de gelijkheid zoek.
+Een getal maal een getal blijft een getal, een getal maal een grootheid is nog steeds een
+grootheid. Als we beide leden met hetzelfde getal of dezelfde grootheid
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+vermenigvuldigen, blijft de gelijkheid in stand, net als bij de optelling van zonet.
+Vermenigvuldigen met ½ (is delen door 2) geeft
+𝑦
+=𝑥
+2
+
+( 2.27-5)
+
+De twee is verhuisd van het ene lid naar het andere met omkering van de waarde.
+Andersom mag ook, want het gaat om een gelijkheid:
+𝑥=
+
+𝑦
+2
+
+( 2.27-6)
+
+Hier staat dat x de helft van y is. Dat is een andere manier om te zeggen dat y het dubbele
+van x is. Dus alweer: wiskunde is niet meer dan boerenverstand.
+Met machten is het niet anders:
+𝑦 = 𝑥2
+
+( 2.27-7)
+
+Het trekken van de (vierkants)wortel van beide leden levert
+√𝑦 = √𝑥 2
+
+( 2.27-8)
+
+√𝑦 = 𝑥
+
+( 2.27-9)
+
+𝑥 = √𝑦
+
+( 2.27-10)
+
+En dus
+
+Of
+
+Maar ook:
+1
+
+𝑥 = 𝑦2
+
+( 2.27-11)
+
+In ( 2.27-11) zien we dat de exponent van y het omgekeerde van de exponent van x in (
+2.27-7) is geworden.
+Nu een logaritme.
+log 2 = 0,30103
+
+( 2.27-12)
+
+2 = 100,30103
+
+( 2.27-13)
+
+Dat is hetzelfde als
+
+Een nu een logaritme met lettersymbolen:
+log 𝑦 = 𝑥
+
+( 2.27-14)
+
+𝑦 = 10𝑥
+
+( 2.27-15)
+
+Dat is hetzelfde als
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+x en y moeten hier getallen zijn, want een exponent kan geen grootheid zijn en een
+logaritme dus ook niet.
+Ongelijkheden
+Bij ongelijkheden gelden dezelfde regels als bij gelijkheden. Voor >, <, ≥ en ≤ zijn er twee
+uitzonderingen.
+1. Als we linker- en rechterlid verwisselen, keert het ongelijkheidsteken om. Voorbeeld:
+3>2
+
+( 2.27-16)
+
+Drie is groter dan 2. Dan is 2 kleiner dan 3, dus
+2<3
+
+( 2.27-17)
+
+2. Als we beide leden met een negatief getal vermenigvuldigen, gebeurt hetzelfde
+3>2
+
+( 2.27-18)
+
+−3 < −2
+
+( 2.27-19)
+
+Vermenigvuldigen met -1
+
+Inderdaad is -3 minder dan -2.
+Met ≥ en ≤ gaat het net zo als met > en <.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.28 Opgaven
+Opgave 2-34
+Teken op millimeterpapier (klik op het woord en druk af) de
+grafiek van de tabel met waarden voor x en y.
+
+x
+
+y
+
+-4
+
+16
+
+-3
+
+9
+
+-2
+
+4
+
+-1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+2
+
+4
+
+3
+
+9
+
+4
+
+16
+
+Opgave 2-35
+Vind uit de vergelijking x-2= 10 de waarde van x door bij beide leden 2 op te tellen
+
+Opgave 2-36
+Hoeveel moet je in de vergelijking x+6=15 bij beide leden optellen om de waarde van x te
+vinden?
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Opgave 2-37
+Bereken x uit 7x=14 en uit x/2=1.
+
+2.29 Evenredigheid
+Bekijk de vergelijking
+𝑥=
+
+𝑎𝑏
+𝑐𝑑
+
+( 2.29-1)
+
+Als a of b twee keer zo groot wordt, dan wordt x ook 2x zo groot. De 2 mag je vervangen
+door ieder ander getal. Dat kennen we al van het vermenigvuldigen van beide leden met
+hetzelfde getal, zodat het ‘=’ teken geldig blijft. We zeggen dan dat a en b evenredig zijn
+met x. Of x is evenredig met a en b. Dat betekent hetzelfde. In plaats van evenredig wordt
+ook wel de term recht evenredig gebruikt. Dat gebeurt vooral als er een onderscheid
+wordt gemaakt met omgekeerd evenredig.
+Wat is omgekeerd evenredig? Voor x en c of d geldt het omgekeerde van het verband
+tussen x en a of b. Wordt c of d 2 maal zo groot, dan wordt x 2 maal zo klein. Je mag ook
+zeggen: wordt c of d ½ maal zo groot, dan wordt x 2 maal zo groot. Ook hier mag je 2
+vervangen door ieder ander getal en ½ door het omgekeerde van dat andere getal. Dat
+noemen we omgekeerd evenredig. Die term ligt natuurlijk voor de hand, omdat in het
+rechterlid het omgekeerde gebeurt van wat links plaatsvindt. De waarde van x is in de
+vergelijking dus omgekeerd evenredig met c en d.
+Deze termen zul je verderop in de cursus af en toe tegenkomen. Vanaf nu weet je wat ze
+betekenen.
+
+2.30 De stelling van Pythagoras
+Rechte hoeken
+Een vergelijking die we zullen toepassen (in hoofdstuk 5 en verder), is de stelling van
+Pythagoras. Pythagoras was een Griekse wijsgeer die meer dan 2500 jaar geleden leefde.
+De stelling wordt vaak aan hem toegeschreven, maar is waarschijnlijk al van vóór zijn tijd.
+De stelling wordt gebruikt bij sommige berekeningen aan wisselstroom. Daarover gaat
+hoofdstuk 5.
+De stelling zelf gaat over de lengten van de zijden van een rechthoekige driehoek. Dat is
+een driehoek waarvan één hoek recht is. Een rechte hoek is een hoek van 90 graden.
+Meestal schrijven we dat als 90º. De hoeken van een vierkant of een rechthoek zijn
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+allemaal recht. (Figuur 2.30-1). Hoe dat met wisselstroom in verband te brengen is, leer je
+ook in hoofdstuk 5.
+
+D
+
+C
+
+D
+
+C
+
+A
+
+B
+
+A
+
+B
+
+Figuur 2.30-1. Een vierkant (links) en een rechthoek (rechts) hebben rechte hoeken.
+
+Om verwarring te voorkomen: een rechte lijn heeft geen hoeken en dus ook geen rechte
+hoek.
+De stelling zelf
+In Figuur 2.30-2 staat links een rechthoekige driehoek afgebeeld. De driehoek heeft
+hoekpunten A, B en C. De hoek op C is recht, die op A en B zijn scherp. Zo heet een hoek
+van minder dan 90º. Eentje van meer dan 90º heet stomp. De zijden heten a, b en c en
+hebben lengten a, b en c. De lengten staan cursief, want het zijn grootheden. Een zijde
+zelf is een stukje rechte lijn. Dat is een ding, vandaar dat die letter rechtop staat.
+
+B
+c2
+B
+
+c
+
+c
+
+a
+
+b
+
+A
+
+A
+
+b
+C
+
+a2
+
+a
+
+C
+
+b2
+
+Figuur 2.30-2. Links: rechthoekige driehoek. Rechts: rechthoekige driehoek met gekwadrateerde zijden.
+
+De stelling van Pythagoras zegt dat
+𝑎2 + 𝑏 2 = 𝑐 2
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-69
+
+( 2.30-1)
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De drie kwadraten staan als vierkanten rechts in Figuur 2.30-2. Het kwadraat van een
+lengte is een oppervlakte en zo is het rechts in Figuur 2.30-2 weergegeven. De
+vergelijking zegt dat de gele oppervlakte gelijk is aan de som van de groene en de roze
+oppervlakte. Een aantal wiskundige bewijzen vindt de liefhebber bijvoorbeeld op
+Wikipedia.
+Toepassen
+Nu terug naar de vergelijking. Als twee van de drie zijden bekend zijn, kun je de derde
+uitrekenen. Met onze opgedane kennis van vergelijkingen moet dat lukken.
+𝑐 2 = 𝑎2 + 𝑏 2
+
+( 2.30-2)
+
+De eerste vergelijking is omgedraaid om een uitdrukking voor c in zijn eentje te hebben.
+En dus geldt
+𝑐 = √𝑎 2 + 𝑏 2
+
+( 2.30-3)
+
+Zo kunnen we ook een vergelijking voor a en b maken. Opnieuw:
+𝑎2 + 𝑏 2 = 𝑐 2
+
+( 2.30-4)
+
+Als we een vergelijking voor b willen vinden, dan moet a niet in de weg zitten. We tellen
+dus in beide leden –a2 erbij. Daarmee verhuist a2 als - a2 naar het rechterlid:
+𝑏 2 = 𝑐 2 − 𝑎2
+
+( 2.30-5)
+
+Nu kunnen we de vergelijking voor b uitschrijven:
+𝑏 = √𝑐 2 − 𝑎2
+
+( 2.30-6)
+
+Op dezelfde manier vinden we de vergelijking voor a
+𝑎 = √𝑐 2 − 𝑏 2
+
+( 2.30-7)
+
+Met de stelling van Pythagoras kun je een rechte hoek maken. Dat gaat met lengten van 3,
+4 en 5 gelijke eenheden. Wat voor eenheden, doet er niet toe. Kijk maar.
+32 + 42 = 52
+
+( 2.30-8)
+
+Inderdaad is 9+16=25. Dat lukt alleen met deze drie gehele getallen of gelijke veelvouden
+ervan, zoals 6, 8 en 10. Met genoeg touw, drie spijkers of tentpennen en een liniaal of
+duimstok moet het zo lukken om een rechte hoek te maken.
+Samenvatting
+•
+
+•
+•
+
+Het kwadraat van de lengte c van de schuine zijde van een rechthoekige driehoek is de
+som van de kwadraten van de lengten a en b van de zijden vanuit de rechte hoek. Dus
+𝑎2 + 𝑏 2 = 𝑐 2 . Dat is de stelling van Pythagoras.
+Als je de lengten van twee zijden kent, kun je die van de derde zijde uitrekenen.
+In de elektronica wordt de stelling toegepast in de wisselstroomtheorie (hoofdstuk 5).
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-70
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.31 Goniometrische verhoudingen en  (pi)
+Goniometrische verhoudingen
+Goniometrie is rekenen met en aan hoeken. Met hoeken hebben we kennis gemaakt bij de
+stelling van Pythagoras. Daar is ook al gezegd dat die bij de wisselstroom in hoofdstuk 5
+aan de orde komt. We behandelen nu nog wat meer basiskennis die we daarbij nodig
+hebben. Dat zijn de sinus en de cosinus.
+Sinus en cosinus
+Om met de sinus en de cosinus van een hoek kennis te maken, bekijken we Figuur 2.31-1.
+
+B
+
+b
+sin  = c
+a
+cos  = c
+
+c
+
+a
+
+a
+sin  = c
+A
+
+
+
+b
+cos  = c
+
+C
+
+b
+
+Figuur 2.31-1. Sinussen en cosinussen van twee hoeken.
+
+De getekende driehoek met hoekpunten ABC is dezelfde als die van Figuur 2.30-2 links.
+Toegevoegd zijn de hoekaanduidingen  en  . Dat zijn Griekse letters, uitgesproken als
+alfa en bèta. Voor hoeken worden vaak Griekse letters gebruikt. Hoek  zit bij hoekpunt
+A,  bij hoekpunt B. De sinus van  is de lengte a van de zijde a die er tegenover ligt,
+gedeeld door de lengte c van de schuine zijde c. De standaardafkorting van sinus is ‘sin’.
+Nu kunnen we schrijven:
+sin 𝛼 =
+
+𝑎
+𝑐
+
+( 2.31-1)
+
+Dat staat ook in Figuur 2.31-1. De cosinus van  is de lengte b van de zijde b die met a een
+rechte hoek maakt, gedeeld door c. De cosinus wordt afgekort met cos. Dus:
+cos 𝛼 =
+
+𝑏
+𝑐
+
+( 2.31-2)
+
+Voor de hoek  bovenin geldt hetzelfde, maar daar is b de tegenoverliggende zijde en a de
+zijde die tegen de hoek aan ligt.
+Dus
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+sin 𝛽 =
+
+𝑏
+𝑐
+
+( 2.31-3)
+
+cos 𝛽 =
+
+𝑎
+𝑐
+
+( 2.31-4)
+
+En
+
+Vergelijk dit met de uitkomsten voor hoek  in ( 2.31-1) en ( 2.31-2) Dan zien we dat de
+sinus van de één gelijk is aan de cosinus van de ander. In wiskundige vorm levert dat
+sin 𝛼 = cos 𝛽 en sin 𝛽 = cos 𝛼
+
+( 2.31-5)
+
+Als de hoek  verandert, verandert  ook. Samen zijn ze altijd 90º. Dat komt doordat de
+som van de hoeken van een driehoek altijd 180º is. 90º daarvan zit in de rechte hoek op
+punt C. Dan blijft er 90º over voor de andere twee hoeken samen.
+Sinus, cosinus en de cirkel
+
+B'
+
+B
+
+a'
+
+c
+
+
+b
+
+A
+
+a
+
+C
+
+Start
+
+Figuur 2.31-2. Rechthoekige driehoek en cirkel met horizontale en verticale middellijn. Middelpunt is A op
+de kruising van de middellijnen. B ligt op de cirkelomtrek. Het lijnstuk AB’ met lengte a’ is even lang als het
+verticale lijnstuk CB met lengte a.
+
+De verandering van sinus en cosinus met hun bijbehorende hoek is zichtbaar te maken in
+een grafiek. Daarvoor laten we punt B in Figuur 2.31-1 een cirkel beschrijven met punt A
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+als middelpunt. De hoek bij C blijft steeds recht. De afstand van A tot de cirkelomtrek is
+dan altijd gelijk aan c. Die afstand heet de straal van de cirkel. Figuur 2.31-2 laat het zien.
+Behalve de verkleinde driehoek van Figuur 2.31-1 zien we in Figuur 2.31-2 nog meer:
+•
+•
+•
+•
+•
+
+De cirkel met een gestippelde horizontale en een verticale middellijn.
+De pijl in de cirkelomtrek bij B geeft de bewegingsrichting. Die is tegen de klok in. Dat
+is in de wiskunde een afspraak.
+Het woordje ‘Start’ geeft het begin van de cirkelgang van punt B. De beweging is in de
+figuur dus al een stukje op weg.
+Er loopt een horizontale stippellijn van punt B naar punt B’ op de verticale middellijn.
+B’ spreek je uit als B-accent.
+De lijn van B’ naar A, die a’ is genoemd, is even lang als zijde a van B naar C. Net als a
+heeft hij dus de lengte a. Zijde a verplaatst zich tijdens de cirkelgang; a’ blijft op zijn
+plaats en wordt alleen langer of korter. Dat gold al voor zijde b.
+
+We ‘benoemen’ c tot eenheid van lengte. Dan is a’ in Figuur 2.31-2 de afbeelding van sin
+ en is b die van cos . Daarmee hebben we voor beide een afbeelding waarvan het
+beginpunt vastligt en die alleen langer of korter wordt Daar gaat het om.
+Dan het teken. Ligt b rechts van de verticale middellijn, dan zijn b en dus cos  positief.
+Ligt b daar links van, dan zijn b en cos  negatief. Liggen a en a’ boven de horizontale
+middellijn, dan zijn a en sin  positief, liggen ze eronder, dan zijn a en sin  negatief.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+sin 
+
+0,8
+0,6
+
+o
+
+0
+12
+
+60 o
+
+90o
+
+1,0
+
+ik loop een
+stukje op
+en neer
+mee
+
+15
+0o
+
+o
+
+a'
+
+c
+
+180o
+
+b
+
+0,4
+
+ik loop
+30
+een
+ik loop een
+stukje heen rondje
+en weer mee
+
+0,2
+
+0o
+360o
+
+0,0
+-0,2
+
+o
+
+0
+21
+
+270o
+
+-0,4
+-0,6
+
+o
+
+0
+30
+
+24
+0o
+
+33
+0o
+
+-0,8
+-1,0
+0
+
+graden
+
+90
+
+180
+
+270
+
+360
+
+graden
+
+0
+
+90
+
+180
+
+270
+
+360
+-1,0 -0,8 -0,6 -0,4 -0,2 0,0 0,2 0,4 0,6 0,8 1,0
+cos 
+
+Figuur 2.31-3. Constructie van sinus (groen) en cosinus (rood) uit een cirkelbeweging met stappen van 30 º.
+
+De constructie is in beeld gebracht in Figuur 2.31-3. In de cirkel is van de driehoek alleen
+de ligging van a’, b en c bij = aangegeven. Bij 0º vallen b en c samen. Daar is b=c en a=0.
+Zodra de top van c begint te lopen, krimpt b en groeit a. De cosinus begint dus bij 1 en
+met krimp. De sinus begint bij 0 en met groei. De cosinus zien we in de rode grafiek die
+ten opzichte van de groene op zijn kant ligt. De sinus zien we in de groene. Bij 30º is de
+sinus al 0,5 terwijl de cosinus nog ongeveer 0,87 is.
+Als de cosinus bij een hoek van 60º nog maar 0,5 is, is de sinus gevorderd tot 0,87 en als de
+cosinus 0 is, is de sinus 1. Alle waarden tussen -1 tot +1 komen bij de sinus en bij de
+cosinus twee keer voor in één rondje. De uitersten 1 en -1 komen elk één keer voor. Bij de
+sinus zien we de waarde 0 drie keer, maar dat komt doordat begin en eind 0 zijn. Een
+cirkelgang begint en eindigt nu eenmaal op hetzelfde punt. Bij de cosinus komt door
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+dezelfde oorzaak de waarde +1 twee keer voor. Een bewegende versie van Figuur 2.31-3
+zie je in deze animatie. Daarin wordt ook gesproken over radialen. Daarmee lopen we
+vooruit op paragraaf 2.32 waarin radialen als meer natuurlijke vervanger van graden van
+een hoek worden behandeld. Nog even geduld dus.
+Periode en fase
+Eén rondje van c in Figuur 2.31-3 heet een periode. Bij elke volgende periode zien sinus
+en cosinus er weer precies zo uit, want aan de cirkel verandert niets. In Figuur 2.31-4 is
+dat voor twee opeenvolgende perioden weergegeven. De sinus heeft dezelfde vorm als de
+cosinus, maar loopt er 90º op achter. We zeggen dan dat de fase van de sinus 90º
+achterloopt op de fase van de cosinus. Je kunt natuurlijk ook zeggen dat de fase van de
+sinus 270º voorloopt op die van de cosinus.
+1.0
+0.8
+0.6
+0.4
+0.2
+
+sin 
+
+0.0
+
+cos 
+
+-0.2
+-0.4
+-0.6
+-0.8
+-1.0
+0
+
+90
+
+180
+
+270
+
+360
+
+450
+
+540
+
+630
+
+720
+
+graden
+
+Figuur 2.31-4. Sinus en cosinus van dezelfde hoek met elk twee volle perioden van 360º, dat is 720º.
+
+Wisselstroom wisselt van richting. In veel gevallen –maar niet altijd- ziet een grafiek van
+wisselstroom eruit als een sinus. Daarover vind je (veel) meer in hoofdstuk 5.
+Er zijn meer goniometrische verhoudingen dan sinus en cosinus. Dat zijn tangens,
+cotangens, secans en cosecans. Die vier zijn geen examenstof en we doen er in deze cursus
+niets mee. Je hebt ze ook niet nodig om examenstof te begrijpen. Kom je ze toch ergens
+tegen en je wilt er meer van weten, dan kun je bijvoorbeeld terecht op
+https://nl.wikipedia.org/wiki/Goniometrische_functie.
+Het getal  (pi)
+Wat is de afstand die de punt van c in Figuur 2.31-3 in één periode aflegt? Antwoord: de
+cirkelomtrek. Maar hoe lang is de cirkelomtrek? Over die vraag heeft men zich al in de
+grijze oudheid het hoofd gebroken. Het antwoord is natuurlijk ook gevonden.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De omtrek is gelijk aan 2𝜋𝑐 . Meestal schrijven we dat als 2𝜋𝑟. Daarbij is r de straal van de
+cirkel. De letter komt van het Latijnse radius. De letterlijke betekenis van radius is dan
+ook ‘straal’. Het getal 𝜋 (spreek uit: pi) is in decimale notatie:
+𝜋 = 3,14159. ..
+
+( 2.31-6)
+
+De stippeltjes betekenen ‘enzovoort’. De rij cijfers erachter is oneindig lang. In de praktijk
+22
+volstaat meestal 3,14. De benadering 7 wordt ook wel gebruikt, maar dat is ook geen
+exacte waarde.
+De diameter van een cirkel is 2r. De diameter is de afstand langs een rechte lijn van een
+punt op de cirkelomtrek door het middelpunt naar het punt er recht tegenover.
+Voorbeelden: de horizontale en verticale middellijn van de cirkel in Figuur 2.31-2.
+Meestal schrijven we daar D voor. D=2r. De omtrek van een cirkel is dus ook gelijk aan
+𝜋𝐷.
+Een praktische toepassing van 𝜋 is de relatie tussen de doorsnede en de diameter van een
+ronde draad. We weten dat de diameter 2x de straal is, dus 2r. De doorsnede is de
+cirkelvormige oppervlakte die we zien als we een ronde draad netjes haaks (loodrecht)
+doorsnijden. We weten al dat de omtrek van die cirkel 2𝜋r is. De oppervlakte is 𝜋𝑟 2. Hoe
+bereken je nu de straal en de diameter van een draad met een doorsnede van 2 mm2? We
+weten dat
+𝜋𝑟 2 = 2mm2
+
+( 2.31-7)
+
+2mm2
+𝑟 =
+𝜋
+
+( 2.31-8)
+
+Beide leden delen door 𝜋 geeft
+2
+
+Nu hebben we r2 ‘vrij’ staan. Worteltrekken in beide leden geeft:
+𝑟=√
+
+2mm2
+2
+= √ mm ≈ √0,637 mm ≈ 0,800 mm
+𝜋
+𝜋
+
+( 2.31-9)
+
+De diameter is 2r  1,60 mm.
+Samenvatting
+•
+
+•
+•
+
+De sinus van een hoek is zichtbaar te maken door de hoek op te nemen in een
+rechthoekige driehoek. Dan is de sinus gelijk aan de lengte van de zijde tegenover de
+hoek gedeeld door de schuine zijde (zie Figuur 2.31-1).
+De cosinus van een hoek is de sinus van de andere niet-rechte hoek in dezelfde
+rechthoekige driehoek.
+Je kunt sinus en cosinus ook zien als afbeeldingen op een rechte lijn van een punt dat
+ronddraait op een cirkel, zoals in Figuur 2.31-3.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-76
+
+VRZA-cursus radiozendamateur
+
+•
+
+•
+•
+
+•
+•
+•
+•
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Als je de beweging op de rechte lijn uitzet tegen de veranderende hoek tussen c en b
+in Figuur 2.31-3, dan ontstaan de sinus- en cosinusgrafieken die zijn afgebeeld in
+Figuur 2.31-4.
+De fase van de cosinus loopt 90º voor op de sinus van dezelfde hoek
+Een periode van een sinus of cosinus is de tijd van 1 cirkelgang in Figuur 2.31-3.
+Praktischer is het om Figuur 2.31-4 te gebruiken. Dan is één periode de tijd die ligt
+tussen twee gelijke waarden waarbij de grafiek dezelfde kant op gaat of –
+gemakkelijker- de tijd tussen twee opeenvolgende toppen of twee opeenvolgende
+laagtepunten. Ter geruststelling: alle manieren leveren hetzelfde antwoord.
+ is het aantal keren dat een lengte van 2x de straal van een cirkel op de omtrek ervan
+past. 2 maal de straal heet meestal de diameter.
+Het getal  is afgerond 3,14159. In werkelijkheid is het een oneindig lange decimale
+breuk. In de praktijk volstaat vaak een afronding op 3,14.
+De omtrek van een cirkel is 2𝜋𝑟 waarin r de lengte van de straal is. De diameter D van
+een cirkel is gelijk aan 2r, zodat de omtrek ook gelijk is aan 𝜋𝐷.
+De oppervlakte van een cirkel is 𝜋𝑟 2 .
+
+2.32 Periode, frequentie, radialen, hoeksnelheid en cirkelfrequentie
+De snelheid van een punt die een cirkelbaan beschrijft, zoals punt B in Figuur 2.31-2, kun
+je uitdrukken in afstand per tijd, zoals m s-1. Doen we dat niet in meters maar in rondjes
+ofwel perioden per tijd, dan is die grootheid onafhankelijk van de grootte van de cirkel.
+Eigenlijk hebben we dat in Figuur 2.31-3 en Figuur 2.31-4 al gedaan. We hadden het
+alleen niet over hele perioden of cirkels, wel over graden. 1 periode was 360º.
+Het aantal perioden per tijd noemen we de frequentie, symbool meestal f. De eenheid van
+frequentie is de hertz, afgekort Hz. Ook dit is een eenheid die naar een natuurkundige
+beroemdheid is genoemd, Heinrich Rudolf Hertz. Vandaar de hoofdletter in de afkorting.
+De ‘z’ erachter is voor het onderscheid met de Henry die we in hoofdstuk 4 zullen
+tegenkomen. Meer over Hertz vind je op https://nl.wikipedia.org/wiki/Heinrich_Hertz.
+De duur T van een periode is het omgekeerde van f. Als f = 10 Hz, dan is T=0,1 s, want, er
+gaan 10 perioden in 1 seconde. We kunnen dus schrijven
+𝑓=
+
+1
+𝑇
+
+( 2.32-1)
+
+Let bij T op de hoofdletter. Meestal schrijven we voor tijd t, maar voor de periodeduur
+meestal T. In Hoofdstuk 5 komen perioden verder aan de orde.
+Eén keer de cirkel rond is een bocht van 360º. Nu is de graad (º) een 4000 jaar geleden
+door mensen van bedachte eenheid. Het is niet te verwachten dat die netjes aansluit bij
+ons moderne SI-eenhedenstelsel of bij wiskunde waarin sinus, cosinus of andere
+goniometrische verhoudingen een rol spelen. Dat doet de graad dan ook niet.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+De radiaal (rad) is de echte SI-eenheid voor hoeken. 1 rad is de hoek op het middelpunt
+van een cirkel waarbij het stuk cirkel dat in de ‘bek’ van de hoek past, 1 straal lang is
+(Figuur 2.32-1). In graden is dat een hoek van (afgerond) 57,3º. De cirkel één keer rond is
+360º. Dat is hetzelfde als 2 rad, want de cirkelomtrek is 2 maal de straal r, dus 2r.
+
+r
+
+r
+r
+
+Figuur 2.32-1. Een hoek van 1 radiaal
+
+Een radiaal is dus een hoek, geen lengte, want de grootte van de bijbehorende cirkel doet
+er niet toe. Het quotiënt van de straal en het bijbehorende stuk cirkelomtrek is altijd 1. De
+radiaal is daarmee het getal 1 in de wereld van cirkels en hoeken. De radiaal is daarom de
+natuurlijke eenheid van de hoek. Je kunt hem in vergelijkingen met sin en cos vervangen
+door het getal 1. Voor de liefhebbers: zie
+https://nl.wikipedia.org/wiki/Radiaal_(wiskunde). Een hoek van ½  rad (= 90º) kun je
+daarom schrijven als ½ . De sinus van  radialen schrijf je als sin. Dat is hetzelfde als sin
+180º. In Figuur 2.32-2 staat dezelfde sinus-cosinusgrafiek als in Figuur 2.31-4, maar nu
+ook met radialen op de bovenste horizontale as.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+radialen
+1
+
+2
+
+1.0
+
+
+
+3
+
+2
+
+
+
+5
+
+2
+
+
+
+7
+
+2
+
+
+
+540
+
+630
+
+720
+
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2
+-0.4
+
+sin 
+
+-0.6
+
+cos 
+
+-0.8
+-1.0
+0
+
+90
+
+180
+
+270
+
+360
+
+450
+
+graden
+
+Figuur 2.32-2. Dezelfde grafiek als Figuur 2.31-4, maar nu ook met radialen (horizontale as boven).
+
+De hoeksnelheid is niet het aantal rondjes per tijd, maar het aantal radialen per tijd dat
+punt B in Figuur 2.31-2 aflegt. De SI-eenheid van de hoeksnelheid is s-1, want een radiaal
+is 1. In elektronische schakelingen hebben we het meestal niet over de hoeksnelheid,
+maar de cirkelfrequentie. Ook de term hoekfrequentie kom je tegen. Ze betekenen alle
+drie hetzelfde. Het symbool voor de grootheid cirkelfrequentie is de kleine Griekse letter
+omega:  De frequentie f is hele perioden per seconde. In een periode zitten 2 radialen.
+Dat betekent
+𝜔 = 2𝜋𝑓 =
+
+2𝜋
+𝑇
+
+( 2.32-2)
+
+De cirkelfrequentie is van belang bij het rekenen aan schakelingen met spoelen en
+condensatoren die in hoofdstuk 4 en 5 aan de orde komen.
+
+2.33 Functies
+We hebben het woord steeds vermeden, maar in het voorgaande heb je kennis gemaakt
+met wiskundige functies. De sinus, de cosinus en de logaritme bijvoorbeeld, maar een
+macht, een product, quotiënt of som is het ook. Je stopt er iets in en er komt iets uit. Er is
+voor elke functie een vast verband tussen wat je erin stopt en wat eruit komt. Een functie
+is daarmee te vergelijken met een automaat waarin je bijvoorbeeld een 2-euromunt stopt
+en waar dan iets eet- of drinkbaars uitkomt, al dan niet met wisselgeld. In de natuurkunde
+stop je er getal(len) of één of meer grootheden in en er komt een ander getal of andere
+grootheid uit.
+Die automaat stelt vaak wel eisen aan de invoer. De optelautomaat wil alleen maar
+getallen of gelijksoortige grootheden. De automaat voor vermenigvuldiging lust alles. Het
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+is de alleseter onder de functies, zou je kunnen zeggen. De logaritme lust alleen maar
+getallen, nooit grootheden. Hij spuugt ook alleen maar getallen uit. Neem nu de decibel.
+De decibelautomaat is een bijzondere uitvoering van de logaritme-automaat. De
+decibelautomaat lust het quotiënt van twee vermogens. Een vermogen gedeeld door een
+ander vermogen is een getal. De bel is in wezen niet meer dan een getal, maar wel een
+bijzonder getal. Zo heeft elke functie zijn eigenaardigheden. Wat functies
+gemeenschappelijk hebben, is hun automaatkarakter. Meer niet.
+
+2.34 Twee grondbeginselen uit de natuurkunde
+Beginsel 1
+De helft van het eerste grondbeginsel is in een paar woorden samen te vatten: “Energie
+gaat nooit verloren”. De andere helft houdt in dat energie niet zomaar uit het niets
+ontstaat.
+Kortom: energie verdwijnt niet in het niets en ontstaat niet uit het niets.
+Wel zijn er verschillende vormen van energie. We kennen bijvoorbeeld beweging, licht
+en warmte. Als de zon op een muur schijnt, wordt die warm. Dat is een omzetting van
+lichtenergie in warmte-energie. Verschillende soorten energie kun je in elkaar omzetten.
+Een moderne windmolen zet energie die in windsnelheid zit om in elektrische energie.
+Een ouderwetse molen maalt graan of pompt water uit een polder. Een benzinemotor zet
+chemische energie uit benzine en zuurstof om in bewegingsenergie. Een elektrische
+centrale die is gebaseerd op verbranding, zet chemische energie om in elektrische energie.
+Als je iets optilt, voeg je daaraan energie toe. Als je het vervolgens laat vallen, wordt die
+energie omgezet in valsnelheid (en misschien in het kapotgaan van wat je had opgetild).
+Al die verschillende vormen van energie kun je in elkaar omrekenen. Zo kunnen we bij
+elke vorm van energieomzetting bepalen hoeveel energie waarin gaat zitten. We hebben
+daar een klein voorbeeldje van gezien bij de decibel in 2.23. Daar was een Joule de energie
+die nodig is om een gram water met 0,239 K op te warmen of een gewicht van 1 kg 10,2
+cm op te tillen.
+Wat niet kan is ergens een energiehoeveelheid vergroten zonder die aanvullende energie
+ergens anders vandaan te halen.
+We hebben gezien dat vermogen energie per tijd is. Als we een zender voeden met een
+vermogen van 100 Watt, wordt die energie niet opgehoopt in de zender. Hij verdwijnt
+weer als uitgezonden vermogen en (helaas) ook als warmte. Op lange termijn gezien sluit
+de energiebalans van onze zender op 0.
+Dit beginsel staat bekend onder de naam ‘Eerste hoofdwet van de thermodynamica’.
+Het is niet zo, dat we alle vormen van energie onbekommerd in elkaar kunnen omzetten.
+Dat wordt belemmerd door:
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Beginsel 2
+Kort gezegd komt dit beginsel erop neer dat ordening niet kan toenemen. Je kunt ook
+zeggen dat chaos niet kan afnemen.
+De meest chaotische vorm van energie is warmte. Warmte is bewegingsenergie van
+atomen en moleculen die alle kanten op bewegen. Omzetting van warmte in
+bewegingsenergie van bijvoorbeeld een auto betekent omzetting van een chaotische naar
+een ordelijke vorm van energie. Daarvoor moet compensatie zijn. Die zit in het
+energieverschil tussen het inwendige van de motor en de buitenwereld.
+Temperatuurverschil is een vorm van ordening. Door omzetting in bewegingsenergie
+neemt het temperatuurverschil met de buitenwereld af. Daar zit de compensatie.
+Als een auto remt, wordt de snelheidsenergie omgezet in warmte-energie. Die warmteenergie verdwijnt daarna in de lucht die wordt opgewarmd. Een elektrische of hybride
+auto kan bij remmen via een slim systeem de remenergie voor een groot deel omzetten in
+elektrische energie door een accu er een stukje mee op te laden. 100% omzetting kan niet;
+warmte eist altijd zijn deel op.
+Kortom, bij elke omzetting van energie wordt energie gemorst via het vrijkomen van
+warmte. Dat geldt ook voor geluidstrillingen. Ook een goed gesprek eindigt als warmte.
+Elk elektrisch apparaat warmt op als het aanstaat. Bij een bepaalde temperatuur verliest
+het apparaat evenveel warmte aan zijn omgeving als er zich binnenin warmte ontwikkelt.
+Dan wordt het apparaat niet meer warmer. Als het wordt uitgezet koelt het af tot het de
+temperatuur van zijn omgeving heeft bereikt. Temperatuurverschil is, zoals gezegd,
+ordening. Bij het afkoelingsproces neemt de ordening af.
+Dit betoog komt erop neer dat we van een toegevoerd vermogen nooit 100% rendement
+kunnen halen. Rendement is het deel van toegevoerde vermogen dat voor het doel van
+het apparaat wordt gebruikt. Er gaat altijd energie verloren aan warmte. De enige
+uitzondering is een elektrische kachel, want die is bedoeld om warmte te maken.
+Dit beginsel staat bekent als de ‘Tweede hoofdwet van de thermodynamica’.
+Er is nog een derde hoofdwet, maar kennis daarvan is voor ons doel niet nodig. Wie nog
+eens een relatief eenvoudige beschrijving wil bekijken, klikt hier. Wie wat dieper op de
+zaak wil ingaan, klikt hier.
+Samenvatting
+•
+•
+•
+•
+
+Energie verdwijnt niet in het niets
+Energie ontstaat niet uit het niets
+Je kunt bij omzetting van energie in een andere vorm niet winnen door energie ‘bij te
+maken’
+Je kunt bij omzetting van geordende energie in een andere geordende vorm zelfs niet
+gelijkspelen. Je verliest altijd een deel aan warmte.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+2.35 Antwoorden bij de opgaven
+Uitwerking van Opgave 2-1
+De opgave: In de zin ‘De seconde duurt één seconde’ staan
+a. Twee eenheden
+b. Twee grootheden
+c. Eerst een eenheid en daarna een grootheid
+Uitwerking
+“De seconde” gaat over de eenheid seconde. “Één seconde” is 1 seconde. Dat is een getal
+maal een eenheid en dus een grootheid. Er staat dus een eenheid (“de seconde”), gevolgd
+door een grootheid (“één seconde”).
+
+De volgende uitwerking staat op de volgende bladzijde. Zo voorkom je dat je ongewild al
+het antwoord op de volgende opgave krijgt. Wil je terug naar opgave 2-1, klik op de pijl
+“terug naar de opgave”; voor de volgende opgave klik je op de pijl “Naar de volgende
+opgave”.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-2
+Waarom kort men de minuut niet af met ‘m’?
+Uitwerking
+De afkorting ‘m’ staat voor ‘meter’. Omdat de meter een officiële SI- eenheid is en de
+minuut niet, krijgt de meter hier voorrang. De minuut moet het doen met ‘min’ of voluit
+worden geschreven.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-3
+Welke voorvoegsels horen bij een biljoen en bij een biljoenste?
+Uitwerking
+Het voorvoegsel voor biljoen is ‘tera’, afgekort T. Denk bijvoorbeeld aan een harde schijf
+met een opslagcapaciteit van 1 TB, waarbij ‘B’ voor Byte staat (een kleine ‘b’ staat voor
+‘bit’; het verschil komt pas aan de orde in hoofdstuk 11).
+Het voorvoegsel voor een biljoenste is ‘pico’, afgekort p. Het komt vooral voor bij
+condensatoren (hoofdstuk 4). De eenheid F, farad, is voor dagelijks gebruik in de
+elektronica nogal aan de grote kant. Daarom komen condensatorwaarden in pF veel voor.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-4
+Een bekende lengte-eenheid (maar geen SI-eenheid) die voor afstanden bij atomen en
+moleculen soms wordt gebruikt, is de ångström (ongeveer uitgesproken als ‘ongstreum’),
+afgekort Å. 1Å is 100 pm. Hoeveel nm is dat? En hoeveel fm?
+Uitwerking
+100 pm=0,1 nm=100 000 fm. Tabel 2.4-2 moet hierbij kunnen helpen.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-5
+De gemiddelde afstand van de aarde tot de zon is ongeveer 150 miljoen km. Hoeveel m is
+dat? En hoeveel Gm?
+Uitwerking
+150 miljoen km is in cijfers 150 000 000 km. Om van km m te maken, moeten er drie
+nullen bij: 150 000 000 000 m, dus in meters: 150 met negen nullen aan meters. Dat is 150
+miljard m en dat is weer 150 Gm, want ‘giga’ staat voor 1 miljard.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-6
+Hieronder is een weg met T-kruising aangegeven. In 10 minuten tijd zijn er links van de
+kruising 15 voertuigen geteld die van west naar oost reden. Rechts van de kruising waren
+het er in diezelfde 10 minuten 12. Er waren geen voertuigen die van oost naar west reden
+en er is geen voertuig op de kruising blijven staan. Hoeveel voertuigen zijn in die 10
+minuten rechtsaf geslagen?
+N
+
+15
+W
+
+12
+
+O
+
+Z
+
+?
+Uitwerking
+Als er van west naar oost 15 voertuigen de kruising op rijden en er rijden er 12 vandaan,
+zijn we 15-12=3 voertuigen van de west-oost route kwijtgeraakt. Die moeten dus de tak
+naar het zuiden hebben genomen.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-7
+Dezelfde berekening kun je ook doen met waterleidingbuizen, rivieren of stroomdraden.
+Lees de getallen in de figuur bij Opgave 2-6 bijvoorbeeld als liters per seconde. Hoeveel
+liter per seconde loopt er de leiding naar beneden in? (Hieronder nogmaals het plaatje van
+Opgave 2-6)
+N
+
+15
+W
+
+12
+
+O
+
+Z
+
+?
+Uitwerking
+De vraag komt erop neer dat we aantallen voertuigen per 10 minuten vervangen door
+evenveel liters per seconde. Dan gaan er dus 3 liter per seconde de leiding naar beneden
+in.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-8
+Het is niet erg waarschijnlijk dat op de west-oost route in Opgave 2-6 alle voertuigen
+dezelfde kant op rijden. Daarom doen we die opgave nog eens met tweerichtingsverkeer.
+N
+
+W
+
+64
+75
+
+25
+42
+
+O
+
+Z
+
+? 10
+Aanwijzing: bereken per tak van de kruising eerst hoeveel verkeer er netto in of uit rijdt.
+Denk niet dat iets vergelijkbaars in elektrische schakelingen niet kan. Het kan, maar je
+meet per tak de netto stroom!
+Uitwerking
+Links gaan er in 10 minuten netto 75-64=11 voertuigen richting de kruising. Rechts zijn
+dat 25-42=-17 voertuigen. Vanuit het zuiden rijden er 10 voertuigen naar de kruising.
+Naar de kruising zijn er dan netto 11-17+10=4 voertuigen gereden. Op de plek van het
+vraagteken komt dus 4 te staan. Je kunt het vraagstuk ook in één keer oplossen:
+Op de plek van het vraagteken moet de som van alle voertuigstromen komen te staan. Een
+minteken is hier niet nodig, want de pijl wijst al van de kruising af. In Opgave 2-6 is al
+gegeven dat er geen voertuig op de kruising achterblijft. Voor het vraagteken zetten we
+het symbool a, maar elke andere letter mag ook (leestekens gebruiken we nooit als
+symbool). Dus a =75-64+25-42+10=4 voertuigen in 10 min. Zo kan het met enig
+vertrouwen in onze rekentechniek dus ook.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-9
+Een veld is 1 km lang en 300 m breed. Hoeveel m2 (vierkante meter) is dat?
+Uitwerking
+Zet eerst de km om in m. Dan hebben we 1 km=1000 m. Dan 1000 m vermenigvuldigen
+met 300 m. Dat levert 300 000 m2.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-90
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-10
+Door een draad loopt een stroom van 1A. Dat is elke seconde 1 C. Hoeveel C is er in een
+minuut doorheen gelopen?
+Uitwerking
+1 minuut is 60 s. 60 maal 1 C is 60 C.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-11
+Een volgeladen accu blijkt 10 uur lang een stroom van 0,5 A te kunnen leveren. Hoe groot
+is de capaciteit van de accu?
+Uitwerking
+10 h * 0,5 A* = 5 Ah.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-12
+Hoeveel is 0.37? En 2.(-3)? En (-2).(-3)?
+Uitwerking
+In de vermenigvuldiging 0.37 wordt vermenigvuldigd met 0, dus is de uitkomst 0.
+De vermenigvuldiging 2.(-3) bevat 1 getal met een minteken. De uitkomst is dus negatief,
+want 1 is een oneven getal. Dan mogen we ook schrijven -2.3 en dat is -6.
+De vermenigvuldiging (-2).(-3) bevat twee mintekens, dus de uitkomst is positief. Dan
+hebben we dus hetzelfde als 2.3, uitkomst 6.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-13
+Op een amateurbeurs worden zakjes met geheimzinnige onderdelen aangeboden voor 2
+euro per stuk. De verkoper begon met een lege kas. Aan het eind van de beurs heeft hij
+157 euro in kas. Uit de kas heeft hij in totaal 5 euro uitgegeven aan koffie en soft ice.
+Hoeveel zakjes onderdelen heeft hij verkocht?
+Uitwerking
+Hij moet 157 +5 euro = 162 euro hebben ontvangen. Dat zijn 162/2 = 81 zakjes.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-14
+Hoeveel is: 0/2, 2/0, 15/3, (-15)/3, 15/(-3) en (-15)/(-3)?
+Uitwerking
+0/2=0; 2/0= (oneindig een 8 op zijn kant dus); 15/3=5; (-15)/3=-5, (-15)/(-3) = 5.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-15
+Een accu van 15 Ah wordt gebruikt om een lamp te voeden die 1A gebruikt. Hoe lang
+hoort de accu het vol te houden als die bij het begin volledig is opgeladen? En als de lamp
+3A gebruikt? Ga uit van een accu waarbij de capaciteit niet afhangt van de geleverde
+stroomsterkte (dat is in werkelijkheid niet helemaal zo).
+Uitwerking
+15 uur, want 15/1 is 15. Bij 3 A duurt het maar 5 uur, want 15/3 is 5.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-16
+Is er verschil in uitkomst tussen a.(b/c).d en (a.b).d/c? En tussen a.(b/c).d en a/c.b.d?
+Uitwerking
+Tussen a.(b/c).d en a.b.d/c is er geen verschil in uitkomst. Zie het als een
+vermenigvuldiging van a, b/c en d. Daarbij is de volgorde niet van belang en het maakt
+niet uit of je nu a, b, d of abd door c deelt. Probeer het maar met zelf bedachte getallen.
+Met a.(b/c).d en a/c.b.d is het bij a.(b/c).d duidelijk wat we moeten doen: reken b/c uit en
+vermenigvuldig de uitkomst met a en met d. Bij a/c.b.d maakt het verschil of we eerst cbd
+uitrekenen en delen op a, of a delen door c en de uitkomst vermenigvuldigen met b en
+met d. Als je alles netjes van links naar rechts afwerkt is er geen verschil in uitkomst, maar
+verwarrend is het wel. Probeer ook dit met zelf bedachte getallen.
+Als je a/c schrijft met een horizontale deelstreep, wordt het duidelijker: a/c.b.d wordt dan
+𝑎
+𝑐
+
+𝑏𝑑. Dat mag je ook schrijven als
+
+𝑎𝑏𝑑
+𝑐
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+en dan is het helemaal duidelijk.
+
+2-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-17
+Bereken:
+1 1
++
+3 4
+3 3
++
+5 10
+1 3
++
+6 8
+5 2
+−
+6 3
+7 1
+−
+10 2
+7 4
+−
+10 5
+Uitwerking
+1 1 1.4 1.3
+7
++ =
++
+=
+3 4 3.4 4.3 12
+3 3
+3.10 3.5
+30 + 15 45
+9
++
+=
++
+=
+=
+=
+5 10 5.10 10.5
+50
+50 10
+1 3 1.8 3.6 8 + 18 26 13
++ =
++
+=
+=
+=
+6 8 6.8 8.6
+48
+48 24
+5 2 5 2.2 5 4 1
+− = −
+= − =
+6 3 6 3.2 6 6 6
+7 1
+7
+5
+2
+1
+− =
+−
+=
+=
+10 2 10 10 10 5
+7 4
+7
+8
+1
+− =
+−
+=−
+10 5 10 10
+10
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-18
+Bereken:
+1
+2
+7 12
+.
+6 14
+5 9 26
+. .
+3 13 15
+5 5
+:
+12 3
+5:
+
+Uitwerking
+1
+2
+5: = 5. = 10
+2
+1
+7 12 7 1
+.
+= . =1
+6 14 1 7
+5 9 26 1 9 26 1 26
+. .
+= . .
+= .
+=2
+3 13 15 3 13 3
+1 13
+5 5
+5 3
+1 3
+3
+1
+: =
+. =
+. =
+=
+12 3 12 5 12 1 12 4
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-19
+Schrijf als decimale breuk met hoogstens 6 cijfers achter de komma): 17 397/10,
+17 397/100, 17 397/1000, 25/1000, 50/4, 25/11, 25/3, 25/7.
+Uitwerking
+17 397/10 = 1 739,7
+17 397/100 = 173,97
+17 397/1000 = 17,397
+25/1000 = 0,025
+50/4 = 12,5
+25/11 = 2,272727
+25/3 = 8,333333
+25/7 = 3,571429
+De drie laatste zijn afgerond zoals het hoort!
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-20
+Een meetuitkomst is 4,23 eenheden. Er wordt een berekening mee gedaan op een
+zakrekenmachine die de uitkomst 6,761347890 geeft. Welke cijfers zijn hier betekenisloos
+en waarop rond je de uitkomst op een zinvolle manier af?
+Doe hetzelfde voor een uitkomst 6,76561399; voor een uitkomst 6,76497865 en voor een
+uitkomst 7,79718223.
+Uitwerking
+De meting gaf drie cijfers. In de uitkomst van de berekening moeten dat er ook drie zijn.
+Als we de betekenisvolle cijfers in zwart zetten en de rest in rood, is de uitkomst
+6,761347890. Omdat 6,76 dichter bij de uitkomst ligt dan 6,77, wordt het na afronding
+6,76.
+Bij 6,76561399 ligt de uitkomst het dichtst bij 6,77 en dus wordt afgerond op 6,77. Dat
+geldt niet voor 6,76497856, waar dan ook wordt afgerond op 6,76.
+Voor 7,79718223 wordt afgerond op 7,80 en niet op 7,8.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-21
+Een radio-ontvanger wordt verkocht voor € 800. Een maand later is hij in de aanbieding
+voor € 720. Hoeveel korting in % van de oorspronkelijke prijs is dat? Een hoe groot is de
+korting als de prijs in de aanbieding € 600 zou zijn?
+Uitwerking
+Bij een verkoopprijs van € 720 is de korting € 80. Dat is 80⁄800 = 10⁄100 = 10% van de
+oorspronkelijke € 800.
+Bij een verkoopprijs van € 600 gaat er € 200 van de prijs van € 800 af. Dat is 200⁄800 =
+25⁄
+200⁄
+100 = 25%. Het kan ook zo:
+800 = 0,25 = 25%.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-22
+Een zender neemt bij zenden 300 Watt op uit het lichtnet. De antenne krijgt 100 Watt
+toegevoerd. Bereken het rendement in % van de opname uit het lichtnet.
+Uitwerking
+Van de oorspronkelijke 300 W die het apparaat in is gegaan, blijft 100 W over voor
+datgene waarvoor het apparaat bedoeld was, namelijk zenden. Rendement is wat je ergens
+aan nuttig vemogen uithaalt, gedeeld door wat je erin hebt gestopt. Dat komt neer op 300
+W erin, 100 W aan nuttig vermogen eruit. 100 W⁄300 W = 0,33333 … .. (de rij puntjes
+betekent doorgaan tot oneindig). Dat komt afgerond neer op 33,3% of 33%, al naar gelang
+de nauwkeurigheid van de meting.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-23
+Hoeveel is: 𝑥 0 ; 32 ; 33 ; 24 . 2−2 ; 35 . 3−4 ; 2−2
+Uitwerking
+𝑥0 = 1
+32 = 3.3 = 9
+33 = 3.3.3 = 27
+24 . 2−2 = 24−2 = 22 = 4
+35 . 3−4 = 35−4 = 31 = 3
+2−2 =
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+1
+1
+=
+22 4
+
+2-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-24
+2
+
+4
+
+Schrijf als macht: √10; √10; √10; ∛𝑎
+Uitwerking
+1
+
+√10 = 10 ⁄2
+2
+
+1
+
+4
+
+1
+
+√10 = 10 ⁄2
+√10 = 10 ⁄4
+3
+
+1
+
+√𝑎 = 𝑎 ⁄3
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-25
+Bereken 7+5-8*2+4 en 7+5-8*(2+3)
+Uitwerking
+7 + 5 − 8 ∗ 2 + 4 = 7 + 5 − 16 + 4 = 0
+7 + 5 − 8 ∗ (2 + 3) = 7 + 5 − 8.5 = 12 − 40 = −28
+In de tweede deelopgave zijn (opzettelijk) twee verschillende vermenigvuldigtekens
+gebruikt
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-26
+Bereken 22+3-6 en 22+3-6
+Uitwerking
+22 + 3 − 6 = 2.2 + 3 − 6 = 4 + 3 − 6 = 7 − 6 = 1
+22+3 − 6 = 25 − 6 = 32 − 6 = 26
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-27
+Bereken 5.6/3.5 en 5.6/(3.5)
+Uitwerking
+5.6/3.5 kun je ook schrijven als 5*6/3*5. Uitwerken:
+6
+5 ∗ ∗ 5 = 5 ∗ 2 ∗ 5 = 50
+3
+De tweede deelopgave gaat zo:
+5.6 30
+=
+=2
+3.5 15
+Het is dus opletten met de voorrangsregels!
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-28
+De baan van de aarde om de zon is ongeveer 950 miljoen km lang. Schrijf die afstand in
+km met niet meer dan 3 cijfers en een macht van 10.
+Uitwerking
+950 miljoen km is 950.106 km, 95.107 km of 9,5.108 km (alle drie goed; de laatste heeft de
+voorkeur).
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-29
+De golflengte van rood licht is ongeveer 700 nm. Schrijf deze grootheid in m met een
+macht van 10.
+Uitwerking
+700 nm is 700.10-9 m. Dat is hetzelfde als 70.10-8 m en als 7.10--7 m. Gebruik het liefst de
+laatste, maar de rest is niet fout.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-30
+Als log 30,48 en log 20,30, hoeveel is dan log 24?
+Uitwerking
+De eerste vraag is, een vermenigvuldiging te vinden met alleen 2 en 3 erin die 24
+oplevert. Dat doe je door het zogenoemde ‘ontbinden in factoren’. Dat klinkt
+ingewikkelder dan het is. Hier komt het:
+24 is een even getal, dus dat kun je delen door 2 en dan blijft er 12 over.
+Ook 12 is een even getal. Nog een keer delen door 2 en er blijft 6 over.
+Ook 6 is een even getal; delen door 2 levert 3 op.
+Aan 3 valt niets meer te delen.
+Dan hebben we 2*2*2*3 en dat is inderdaad 24. Korter kan ook: 23.3=24.
+Dan is log(24) = 3 log(2) + log(3) ≈ 0,90 + 0,48 ≈ 1,38
+Opmerking: de haakjes achter de log zijn niet verplicht, maar in een vergelijkingseditor
+zoals hier gebruikt, wordt ‘log’ dan meteen rechtop gezet en niet gezien als een variabele.
+In de oorspronkelijke opgave (boven) staan ook geen haakjes.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-31
+Hoeveel is log 210? En hoeveel is 210?
+Uitwerking
+We gaan uit van het gegeven in de vorige opgave: log 20,30
+log 210= 10log 2 = 3.
+Dan is 210 = 103 1000.
+In werkelijkheid is 210 = 1024. Het verschil komt door de afronding van log 2.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-32
+Een zendantenne straalt 100 W uit. Een ontvangstantenne ergens in de wereld ontvangt
+daarvan 10 pW. Bereken eerst de verzwakking tussen zend- en ontvangstantenne als
+macht van 10 (gebruik als je dat wilt Tabel 2.4-2). Bereken vervolgens de verzwakking
+van zender naar ontvanger in dB.
+Uitwerking
+10 pW = 10.10-12 W=10-11 W.
+Van 100 W= 102 W is dus op de ontvangstantenne 10. 10-2 W is 10-11 W overgebleven. Van
+102 → 10-11 is een versterking van 10-11-2 = 10-13 of, als je dat liever ziet, een verzwakking
+met een factor 1013. Dat is hetzelfde als een verzwakking met 130 dB of een versterking
+met -130 dB, net hoe je voorkeur is.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-33
+Een signaal wordt achtereenvolgens versterkt door twee versterkers. De eerste versterkt 9
+dB en de twee doet er nog eens 10 dB bovenop. Bij de overdracht van de eerste naar de
+tweede versterker treedt een verlies van 1 dB op. Hoe groot is de totale versterking in dB?
+Uitwerking
+De twee versterkers versterken 9 dB en 10 dB, dat is samen 19 dB. Er treedt een verlies op
+van 1 dB, zodat er 19 dB – 1 dB = 18 dB overblijft.
+In aantal malen versterking is dat 101,8  63 maal.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-114
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-34
+Teken op millimeterpapier (klik op het woord en druk af)
+de grafiek van de tabel met waarden voor x en y.
+
+Uitwerking
+
+y
+
+De grafiek is de grafiek van y=x2. Hij moet eruitzien als het
+plaatje hiernaast. Dat is met de computer gemaakt en er is
+een vloeiende curve door de punten getrokken, maar als je
+rechte lijnen tussen opeenvolgende punten hebt gemaakt,
+heb je de bedoeling begrepen en is er dus niets mis mee.
+
+x
+
+y
+
+-4
+
+16
+
+-3
+
+9
+
+-2
+
+4
+
+-1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+2
+
+4
+
+3
+
+9
+
+4
+
+16
+
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-4 -3 -2 -1 0 1 2 3 4
+x
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-115
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-35
+Vind uit de vergelijking x-2= 10 de waarde van x door bij beide leden 2 op te tellen.
+Uitwerking
+Dit doen we in zo klein mogelijke stapjes:
+𝑥 − 2 = 10
+𝑥 − 2 + 2 = 10 + 2
+𝑥 + 0 = 12
+𝑥 = 12
+Dit komt neer op verplaatsen van -2 van het linker- naar het rechterlid met gelijktijdige
+omkering van het teken, dus van – naar +.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-116
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-36
+Hoeveel moet je in de vergelijking 𝑥 + 6 = 15 bij beide leden optellen om de waarde van
+x te vinden?
+Uitwerking
+In zo’n geval wil je eindigen met een vergelijking met de vorm 𝑥 = iets
+Om dat in de vergelijking 𝑥 + 6 = 15 te bereiken, moet van het linker lid het getal 6
+worden afgetrokken. Dan blijft alleen x over. Om het = teken geldig te laten blijven, moet
+die 6 ook daarvan worden afgetrokken:
+𝑥 + 6 − 6 = 15 − 6
+En dan:
+𝑥=9
+Omdat de vraag was hoeveel er bij beide leden moet worden opgeteld, is het antwoord
+daarop niet 6, maar -6.
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-117
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 2 volledige tekst_20250503
+
+Uitwerking van Opgave 2-37
+Bereken x uit 7x=14 en uit x/2=1.
+Uitwerking
+7𝑥 = 14
+Om links x te krijgen, moet worden gedeeld door 7:
+𝑥 = 14⁄7 = 2
+Nu de andere deelopgave.
+𝑥⁄ = 1
+2
+Ook hier willen we links x overhouden. Dat vraagt vermenigvuldigen met 2:
+𝑥 = 1.2 = 2
+
+© 2021, 2023, Vereniging van Radiozendamateurs VRZA
+
+2-118
+
+

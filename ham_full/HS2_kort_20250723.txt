@@ -1,0 +1,702 @@
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+Inhoudsopgave
+2
+
+Basiskennis......................................................................................................................2-2
+2.1
+
+De bedoeling van dit hoofdstuk ............................................................................2-2
+
+2.2
+
+Getallen, eenheden en grootheden .......................................................................2-2
+
+2.3
+
+Optellen en aftrekken ............................................................................................2-2
+
+2.4
+
+Vermenigvuldigen ..................................................................................................2-2
+
+2.5
+
+Delen en omgekeerde waarden .............................................................................2-3
+
+2.6
+
+Breuken ...................................................................................................................2-4
+
+2.7
+
+Tiendelige of decimale breuken, afronden. ..........................................................2-4
+
+2.8
+
+Percentages .............................................................................................................2-5
+
+2.9
+
+Kwadraten, machten en exponenten ....................................................................2-5
+
+2.10
+
+Wortels, gebroken machten en machten van negatieve getallen .......................2-5
+
+2.11
+
+Voorrangsregels in vergelijkingen ........................................................................2-6
+
+2.12
+
+Machten van 10, logaritmen en de decibel. ..........................................................2-6
+
+2.13
+
+Getallenstelsels .......................................................................................................2-7
+
+2.14
+
+Grafieken ................................................................................................................2-7
+
+2.15
+
+Vergelijkingen ........................................................................................................2-8
+
+2.16
+
+Evenredigheid.........................................................................................................2-8
+
+2.17
+
+De stelling van Pythagoras. ...................................................................................2-8
+
+2.18
+
+Goniometrische verhoudingen, het getal  (pi) , de radiaal en fase ....................2-9
+
+2.19
+
+Hoeksnelheid, hoekfrequentie, cirkelfrequentie ...............................................2-12
+
+2.20
+
+Functies .................................................................................................................2-12
+
+2.21
+
+Twee grondbeginselen uit de natuurkunde ........................................................2-12
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-1
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+2 Basiskennis
+2.1 De bedoeling van dit hoofdstuk
+Dit is de verkorte versie van Hoofdstuk 2. Dat hoofdstuk is bedoeld als naslagwerk, maar
+ook om vaardigheden bij te leren die je nodig hebt maar waarover je niet of onvoldoende
+beschikt. Radiotechniek is nu eenmaal toegepaste natuurkunde. Het gereedschap van de
+natuurkunde bestaat uit getallen, eenheden, grootheden en wiskunde. De wiskunde die
+nodig is voor het zendexamen is vooral rekenkunde en een klein beetje ‘echte’ wiskunde.
+
+2.2 Getallen, eenheden en grootheden
+Een getal heeft in de werkelijke wereld geen betekenis. Die is er pas als een getal wordt
+gecombineerd met iets tastbaars. In de natuurkunde is dat een eenheid. Eenheden zijn
+bijvoorbeeld de meter, de seconde of de volt. Getal maal eenheid heet een grootheid.
+Onze eenheden behoren tot het SI-eenhedenstelsel. Daaronder vallen de meter (lengte),
+seconde (tijd), ampère (stroomsterkte), volt (spanning) en de kg (massa). Meer informatie
+vind je bijvoorbeeld op http://www.dr-aart.nl/Meetkunde-grootheden-en-eenheden.html.
+Als een grootheid heel groot of klein is, moet je de eenheid met een onhandig groot of
+klein getal vermenigvuldigen. In plaats daarvan hebben we voorvoegsels zoals kilo- (maal
+1000), mega- (maal 1000 000), milli- (gedeeld door 1000) of micro- (gedeeld door 1 000
+000). Alle voorvoegsels zijn te vinden op (https://nl.wikipedia.org/wiki/SIvoorvoegsel).Voor elk is er een afkorting van één letter. De enige uitzondering met twee
+letters komt in onze cursus niet voor.
+Getallen en afkortingen van eenheden print je rechtop, symbolen voor grootheden
+cursief. Dat geeft onderscheid.
+
+2.3 Optellen en aftrekken
+Een optelling is een opsomming van getallen of grootheden met hun teken: + of -. 5-2 is
+dus hetzelfde als -2+5. Daarmee wordt een aftreksom een optelling. We houden zo alleen
+optellingen over. Daarin hebben de getallen of grootheden een teken, + of -. De volgorde
+doet er niet toe. Heeft het eerste getal geen teken, zoals in 5+3, dan wordt een + bedoeld.
+Je kunt alle getallen bij elkaar optellen. Grootheden kun je bij elkaar optellen als ze
+dezelfde eenheid hebben. Grootheden en getallen bij elkaar optellen kan ook niet.
+Bij een grootheid kunnen we vaak het teken koppelen aan een richting, bijvoorbeeld
+ergens naar toe of ergens vandaan. De uitkomst van een optelling heet de som.
+
+2.4 Vermenigvuldigen
+Vermenigvuldigen met een getal is een getal of grootheid een aantal keren bij zichzelf
+optellen. 3 maal 7 is 7+7+7.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-2
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+3 maal 7 is 7+7+7 is 7+7+7 is 21 Dit zijn eigenlijk twee vermenigvuldigingen in één. Het
+klassieke vermenigvuldigteken is ‘x’. 3 x 7=21. Dat teken is onhandig omdat computers het
+gemakkelijk verwarren met de letter x. We schrijven dan meestal een ster (*) of de punt ‘.’
+En als het om symbolen gaat, niets. Er geldt dus ook dat 3.7=21; 3*7=21 en ab=a.b. Dit
+betekent dat we de punt niet kunnen gebruiken als decimaalteken. Daarvoor is op het
+vasteland van Europa de komma de standaard.
+Alle grootheden kunnen met alle grootheden worden vermenigvuldigd. De uitkomst van
+zo’n vermenigvuldiging levert een andersoortige grootheid op. De eenheid van lengte is
+de m. Een lengte maal een lengte is een oppervlakte. De capaciteit van een accu is de
+stroomsterkte in ampère die in een bepaald aantal uren kan worden geleverd en staat in
+Ah (h staat voor uur), dus ampère maal uren.
+De volgorde in een vermenigvuldiging is niet van belang. Dus is a.b.c hetzelfde als c.b.a.
+De uitkomst van een vermenigvuldiging heet product.
+Het teken van een product wordt bepaald door het teken van zijn bestanddelen:
+(-a)bc=-abc. (-a)(-b)c=abc. (-a)(-b)(-c)=-abc. Regel: als het aantal mintekens in een
+vermenigvuldiging oneven is, heeft de uitkomst een minteken, is het aantal mintekens 0
+of even, dan heeft de uitkomst een plus. De plus wordt meestal niet geschreven, tenzij hij
+middenin een optelling terechtkomt. Vermenigvuldigen met 0 levert altijd de uitkomst 0.
+
+2.5 Delen en omgekeerde waarden
+Delen is het omgekeerde van vermenigvuldigen. 3 maal 7 is 21. Als je 21 in drie gelijke
+getallen verdeelt, ontstaat 3 keer 7 is 21. 21 gedeeld door 7 moet dan 3 zijn, want 7.3=3.7.
+Net als bij vermenigvuldigen hebben we voor delen meer dan één teken. Het klassieke
+teken is de dubbele punt ‘:’. 21 gedeeld door zeven schrijven we dan als 21:7. Maar 21/7 en
+21
+worden vaker gebruikt.
+7
+De omgekeerde waarde van iets is 1 gedeeld door datzelfde iets. De omgekeerde waarde
+van 2 is dus ½, de omgekeerde waarde van 4 is ¼, enzovoort. De omgekeerde waarde van
+½ is weer 2. Twee keer omkeren geeft dezelfde uitkomst als niets doen.
+1
+
+Delen is hetzelfde als vermenigvuldigen met de omgekeerde waarde. Dus 21: 7 = 21. 7.
+Delen door een grootheid kan. We doen het dagelijks zonder het door te hebben. Snelheid
+bijvoorbeeld kun je schrijven als kilometers per uur, kortweg km/uur. Met deelteken dus.
+Het is het aantal afgelegde (of af te leggen) kilometers gedeeld door het aantal uren dat
+daarvoor nodig is. Afstand gedeeld door tijd; een grootheid gedeeld door een andere
+grootheid.
+In een deling mag de volgorde niet worden veranderd. Doen we dat wel, dan krijgen we
+1
+de omgekeerde waarde van de oorspronkelijke uitkomst. Probeer het maar. 1: 4 = 4. Dat is
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-3
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+4
+
+ongelijk aan 1 = 4. Als we er eerst met de omgekeerde waarde een vermenigvuldiging
+van maken, gaat het wel goed.
+De uitkomst van een deling heet quotiënt. De uitkomst is alleen negatief als één van de
+twee betrokken getallen of grootheden een minteken heeft. Anders is de uitkomst positief.
+
+2.6 Breuken
+Een breuk is een deling. Soms komt er uit een breuk een geheel getal, maar meestal niet.
+Dan hebben we het over een gebroken getal, zoals ½ of ¼. Het getal boven de deelstreep
+heet de teller, het getal eronder de noemer. In ¼ is 1 de teller en 4 de noemer.
+Als je teller en noemer van een breuk door hetzelfde getal deelt of met hetzelfde getal
+vermenigvuldigt, blijft de waarde gelijk. Hieronder wordt eerst gedeeld door 6:
+24
+4
+( 2.6-1)
+= = 4
+6
+1
+Teller en noemer kunnen bestaan uit een optelling of vermenigvuldiging (meer vormen
+komen verderop). Een optelling wordt eerst uitgewerkt; dan pas wordt er gedeeld, zoals in
+( 2.6-2). Bij een vermenigvuldiging is het slim om eerst te kijken of er een getal in staat dat
+met een getal aan de andere kant van de deelstreep een vereenvoudiging oplevert:
+2+3
+5
+1
+1
+( 2.6-2)
+=
+=
+=
+10.6
+10.6 2.6 12
+In ( 2.6-2) werden teller en noemer eerst gedeeld door 5; daarna kwam de verdere
+uitwerking.
+Breuken kun je pas optellen als hun noemers gelijk zijn. Anders moeten ze eerst
+gelijkgemaakt worden. Een voorbeeld:
+1 1 1.2 1.3 2 3 5
+( 2.6-3)
++ =
++
+= + =
+3 2 3.2 2.3 6 6 6
+Het vermenigvuldigen van breuken is het vermenigvuldigen van de tellers en de noemers.
+1 3 1∗3
+3
+1
+( 2.6-4)
+(= ) =
+∗ =
+3 4 3∗4
+12
+4
+Voor de verandering hebben we hier het sterretje in plaats van de punt als
+vermenigvuldigteken gebruikt.
+Delen door een breuk is hetzelfde als vermenigvuldigen met de omgekeerde waarde.
+Delen door ½ is vermenigvuldigen met 2, delen door ¾ is vermenigvuldigen met 4/3.
+
+2.7 Tiendelige of decimale breuken, afronden.
+In gehele getallen schrijven we van grote naar kleine getalseenheden van links naar
+rechts, zoals de duizendtallen, de honderdtallen, de tientallen en de enen. Het getal 3208
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-4
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+is de som van 3 duizendtallen, 2 honderdtallen, 0 tientallen en 8 enen. Er is geen reden
+waarom we bij de enen zouden moeten stoppen. Doorgaan met tienden, honderdsten,
+duizendsten, enzovoort is logisch. Er is één probleem. Bij hele getallen weten we dat het
+meest rechtse getal de enen voorstelt. Als we met tienden, honderdsten enzovoort
+doorgaan, weten we alleen dat we met elke positie naar rechts met een tien keer zo klein
+eenheidsgetal werken. We hebben dus een baken nodig. Dat is de komma. Die komt
+meteen rechts van de enen. Niet de punt, zoals in veel landen buiten het Europese
+vasteland. Die gebruiken we al als vermenigvuldigteken. Een voorbeeld: 3208,7314.
+Achter het getal 3208 en de komma komen dan 7/10, 3/100, 1/1000 en 4/10 000.
+Met tiendelige breuken schrijf je een getal soms precies op, maar meestal is het een
+benadering. 1/3 is bijvoorbeeld 0,33333 en nog een oneindig lange rij van cijfers 3
+erachter. Je rondt af op een gewenst of zinvol aantal cijfers. 5 of meer naar boven, minder
+dan 5 naar beneden. Elk gebroken getal is als tiendelige breuk te schrijven.Meer hierover
+vind je op https://nl.wikipedia.org/wiki/Afronden.
+
+2.8 Percentages
+Een procent is een honderdste. Je schrijft het met het procentteken %. 10% is 10/100, dus
+1/10 van iets. Een gloeilamp die 7% van de toegevoerde elektrische energie in zichtbaar
+licht omzet, heeft een rendement van 7%.
+
+2.9 Kwadraten, machten en exponenten
+Een kwadraat is een getal of grootheid maal zichzelf. 3.3=9. 9=32. De hoog geschreven 2 is
+de macht of de exponent. Die zegt hoe vaak het getal met zichzelf wordt
+vermenigvuldigd. Kwadraat betekent vierkant. De oppervlakte van een vierkant is het
+kwadraat van één van de vier zijden. Het kwadraat van een lengte is dus een oppervlakte.
+De SI-eenheid van oppervlakte is de vierkante meter, geschreven als m2. Grootheden kun
+je dus kwadrateren. Er rolt dan een andersoortige grootheid uit.
+Machten groter dan twee bestaan. 23=2.2.2, 24=2.2.2.2, enzovoort. 21=2. De eerste macht
+van een getal of grootheid is het getal of de grootheid zelf. Als je machten van eenzelfde
+getal met elkaar vermenigvuldigt, tel je de exponenten bij elkaar op. 22.22=2.2.2.2=24. En
+ook 21.21=22. Zo verander je een vermenigvuldiging in een optelling.
+Negatieve exponenten bestaan ook. 2-1=½ en 2.2-1=21.2-1=1=20. Ieder getal of grootheid tot
+de macht 0 levert het getal 1. Dus x0 is altijd 1, wat x ook mag zijn.
+Een exponent is altijd een getal en nooit een grootheid.
+
+2.10 Wortels, gebroken machten en machten van negatieve getallen
+Een wortel is een gebroken macht. 3½ is het getal dat je met zichzelf moet
+vermenigvuldigen om 3 te krijgen: 3½.3½=3½+½=31=3. De getalswaarde van 3½ is ongeveer
+1,732, die van 2½ ongeveer 1,414.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-5
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+Een wortel gedraagt zich als alle andere machten. Het wortelteken is √. Dus √2=2½ en
+4
+√3=3½. Worteltekens zijn niet beperkt tot de macht 2. √2 = 2¼ . (2¼ )4 = 2. Je kunt een
+wortel meteen als macht schrijven zonder gebruik van het wortelteken.
+Het kwadraat van -2 is 4, dus (-2)(-2)=+4. Strikt genomen heeft 4½ de uitkomsten, +2 en 2. Voor de duidelijkheid schrijven we –(4½) of -√4 als we de uitkomst -2 bedoelen. Een
+tweede macht is dus nooit negatief.
+De derde macht van een negatief getal is negatief. (-2)(-2)(-2)=-8. Elke oneven gehele
+macht van een negatief getal levert een negatieve uitkomst. Een gebroken macht van een
+negatief getal bestaat als de noemer van de exponent een oneven getal is en de teller een
+geheel getal. Andere gebroken exponenten van negatieve getallen geven geen uitkomst.
+
+2.11 Voorrangsregels in vergelijkingen
+Wat tussen haakjes staat, gaat altijd voor. Er zijn ‘verborgen haakjes’ in de vorm van
+bewerkingen in een exponent of onder een wortelteken. Voorbeelden:
+𝑥 𝑎+𝑏𝑐 en
+
+√𝑎 + 𝑏𝑐
+
+( 2.11-1)
+
+Machten gaan voor vermenigvuldigingen, vermenigvuldigingen gaan voor optellingen.
+Wortels zijn gebroken machten, delingen zijn vermenigvuldigingen met de omgekeerde
+waarde en aftrekken is optellen van een negatief getal.
+
+2.12 Machten van 10, logaritmen en de decibel.
+Getallen met een heleboel nullen schrijf je vaak gemakkelijker als een macht van 10. 10 is
+de basis van ons getalstelsel.
+275 000 000 000 is hetzelfde als 2,75.1011. En 0,000 000 275 is hetzelfde als 2,75.10-7. Als
+we ze met elkaar vermenigvuldigen krijgen we 2,75.2,75.1011.10-7=2,75.2,75.104 of
+7,5625.104=75625. Als we afronden op 3 cijfers: 7,56.104.
+Een logaritme is een exponent zonder het bijbehorende getal. Dat wordt bekend
+verondersteld. Het heet het grondtal van de logaritme. Meestal gaat het om het getal 10.
+Zoals 2=100,30103. Dan is log 2=0,30103.
+In de natuurkunde kan ook het getal e grondtal zijn. Afgerond is e =2,718. We komen het
+tegen bij de zogenoemde tijdconstante (hoofdstuk 4).
+10=101. Dus is log 10=1 en log 20=log(2.10)=log 100,30103+log 10=1,30103. Een logaritme
+verandert dus een vermenigvuldiging in een optelling.
+De logaritme van 1 is 0. log 0 bestaat niet. De logaritme van een getal tussen 0 en 1 is
+negatief: log ½=-0,30103.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-6
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+Daarvan maken we gebruik bij de decibel (dB). De decibel is 0,1 Bel. De Bel is de
+logaritme van het quotiënt (verhouding) van twee vermogens, bijvoorbeeld uitgedrukt in
+Watt. Zijn ze even groot, dan is de verhouding 1. log 1=0, dus verschillen ze 0 B, is 0 dB.
+Is de één 2x zo groot als de ander, dan verschillen ze afgerond 0,3 B= 3 dB. Een
+versterking van 3 dB is een vermogensversterking van 2x, 6dB is 4x, 10 dB is 10x, 20 dB is
+100x, enzovoort. De versterking van opeenvolgende versterkertrappen mag je optellen als
+die in dB is gegeven, want de dB is een logaritmische eenheid. Een negatief aantal dB
+betekent een verzwakking. -6 dB versterking is een viervoudige verzwakking.
+
+2.13 Getallenstelsels
+We zijn het tientallige stelsel gewend. Een getal wordt zo geschreven dat het een
+optelling is van 0, 1, 2 …..9 maal een gehele macht van 10. Van rechts naar links gaat het
+dan om 100, 101, 102, enz. 125 is dus 1. 102 + 2.101 + 5.100. In een zeventallig stelsel –dat
+geen mens gebruikt maar waartegen geen enkel wiskundig bezwaar is- zou dat een
+optelling van 0-6 maal opeenvolgende gehele machten van 7 zijn. In een tweetallig stelsel
+hebben we 0 of 1 maal een opeenvolgende gehele macht van 2.
+Het getal 437 is 4.102+3.101+7.100. Als er getallen achter de komma staan, gaat het verder
+met 10-1, 10-2, en zo verder. De komma geeft de grens tussen 100 en 10-1.
+Computers werken met het eenvoudigste stelsel dat er is, het tweetallige of binaire stelsel.
+Het getal 83 is binair 1010011, dus 1.26+0.25+1.24+ 0.23+0.22+1.21+1.20=64+16+2+1=83.
+
+2.14 Grafieken
+Grafieken worden gebruikt om verbanden tussen getallen en/of grootheden zichtbaar te
+maken. Bij een grafiek moet je op drie dingen letten:
+1. Wat staat op welke as?
+2. De schaal van de assen
+3. Het nulpunt van de assen.
+120
+
+Luchtdruk (kPa)
+
+100
+80
+60
+40
+20
+0
+0
+
+4 000
+
+8 000
+
+12 000
+
+16 000
+
+Hoogte (m)
+
+Figuur 2.14-1. Grafiek van luchtdruk in kPa tegen hoogte in m.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-7
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+Figuur 2.14-1 is een grafiek van luchtdruk in kPa (kiloPascal) tegen de hoogte in m boven
+zeeniveau. De Pascal is de eenheid van druk. Op zeeniveau (0 m) is de luchtdruk ruim 100
+kPa (kiloPascal), op 10 km hoogte ruim 25 kPa.
+
+2.15 Vergelijkingen
+Vergelijkingen worden ook formules genoemd. Elke wiskundige vergelijking zier eruit als
+
+b=a, b≠a, b>a, b≥a, b<a of b≤a.
+De eerste, b=a, in het rijtje is een gelijkheid, de andere zijn ongelijkheden.
+Een gelijkheid blijft een gelijkheid als aan beide kanten van het ‘=’-teken dezelfde
+bewerking wordt uitgevoerd. Als we alles wat links van het ‘=’-teken staat verwisselen
+met alles wat er rechts van staat, blijft de gelijkheid ook in stand.
+Dat laatste geldt niet voor ongelijkheden, behalve ≠ (is ongelijk aan). Bij de andere
+ongelijktekens moeten we het ongelijkteken omdraaien. ‘>’ en ‘≥’ worden resp. ‘<’ en ‘≤’ en
+‘<’ en ‘≤’ worden resp. ‘>’ en ‘≥’. Bij vermenigvuldigen met een negatief getal aan
+weerskanten van het ongelijkteken, behalve bij ≠, gebeurt hetzelfde.
+
+2.16 Evenredigheid
+Als a evenredig is met b, dan is er een vast getal of een grootheid met vaste waarde
+waarmee je a moet vermenigvuldigen om b te krijgen. Dat getal of die grootheid heet de
+evenredigheidsconstante. In de Wet van Ohm (hoofdstuk 3) is in een gegeven schakeling
+de weerstand R de evenredigheidsconstante tussen de stroom I en de spanning U: U=IR.
+Bij omgekeerde evenredigheid is de omgekeerde waarde van a evenredig met b en de
+omgekeerde waarde van b evenredig met a.
+
+2.17 De stelling van Pythagoras.
+De stelling van Pythagoras is onderdeel van de meetkunde, maar wordt ook toegepast in
+de wisselstroomtheorie (hoofdstuk 5).
+In een rechthoekige driehoek, dat is een driehoek met één hoek van 90º, (Figuur 2.17-1)
+geldt voor de lengten van de zijden a, b en c
+𝑎2 + 𝑏 2 = 𝑐 2
+
+( 2.17-1)
+
+Hieruit volgen
+𝑐 = √𝑎 2 + 𝑏 2
+en
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-8
+
+( 2.17-2)
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+( 2.17-3)
+
+𝑏 = √𝑐 2 − 𝑎2
+en
+𝑎 = √𝑐 2 − 𝑏 2
+
+( 2.17-4)
+
+De kwadraten zijn in Figuur 2.17-1 weergegeven als gekleurde vierkanten.
+
+B
+c2
+B
+
+c
+
+a
+
+c
+
+b
+
+A
+
+C
+
+b
+
+A
+
+a2
+
+a
+
+b2
+
+C
+
+Figuur 2.17-1. Links: rechthoekige driehoek. Rechts: rechthoekige driehoek met gekwadrateerde zijden.
+
+Een gemakkelijke manier om een rechthoekige driehoek te maken is, de zijden lengten
+van 3, 4 en 5 te geven (ga dit na).
+
+2.18 Goniometrische verhoudingen, het getal  (pi) , de radiaal en fase
+B
+
+b
+sin  = c
+a
+cos  = c
+
+c
+
+a
+
+a
+sin  = c
+A
+
+
+
+b
+cos  = c
+b
+
+C
+
+Figuur 2.18-1. Sinussen en cosinussen van twee hoeken.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-9
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+In de rechthoekige driehoek van Figuur 2.18-1 zijn van de hoeken  en  de sinus (sin) en
+de cosinus (cos) weergegeven. We zien dat sin  = cos  en cos  = sin 
+We kunnen hoekpunt B een cirkel met hoekpunt A als middelpunt laten beschrijven. Zie
+Figuur 2.18-2.
+
+B'
+
+B
+
+a'
+
+c
+
+
+A
+
+b
+
+a
+
+C
+
+Start
+
+Figuur 2.18-2. Rechthoekige driehoek en cirkel met horizontale en verticale middellijn. Middelpunt is A op
+de kruising van de middellijnen. B ligt op de cirkelomtrek. Het lijnstuk AB’ dat de naam a’ heeft gekregen is
+een 1:1 kopie van CB op de verticale middellijn.
+
+De lengten a en b veranderen. We zullen voor de gelegenheid c als eenheid van lengte
+gebruiken. Dan zijn sin  en cos  gelijk aan de getalswaarde van a en sin  en cos  gelijk
+aan die van b. In Figuur 2.18-2 is c de straal van de cirkel. Vaak wordt de lengte ervan
+aangeduid als r (van radius, Latijn voor straal).
+Punt B legt in één cirkelgang een afstand van 2c af. Dan hebben de sinussen en
+cosinussen van beide hoeken al hun mogelijke waarden doorlopen.
+Een hoek die een stuk cirkel ‘in zijn bek’ houdt dat even lang is als de straal, is een hoek
+van 1 radiaal. Zie Figuur 2.18-3.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-10
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+r
+
+r
+r
+
+Figuur 2.18-3. Een hoek van 1 radiaal
+
+Eén cirkelgang of periode is 360º, maar ook 2 radialen, want 2 maal de straal r is de
+omtrek van een cirkel. De radiaal en niet de graad is de natuurlijke eenheid van hoeken.
+radialen
+1
+
+2
+
+1.0
+
+
+
+3
+
+2
+
+
+
+5
+
+2
+
+
+
+7
+
+2
+
+
+
+540
+
+630
+
+720
+
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2
+-0.4
+
+sin 
+
+-0.6
+
+cos 
+
+-0.8
+-1.0
+0
+
+90
+
+180
+
+270
+
+360
+
+450
+
+graden
+
+Figuur 2.18-4. Verloop van sinus en cosinus van een hoek  die varieert van 0 tot 720º (horizontale as
+onder) of van 0 tot 4, wat hetzelfde is.
+
+In de grafiek van sin  en cos  in Figuur 2.18-4 staan zowel radialen (horizontale as
+boven) als graden (horizontale as onder). De grafiek beslaat twee perioden (4 = 720º). De
+cosinus loopt 𝜋⁄2 vóór op de sinus, want hij bereikt elke waarde 𝜋⁄2 eerder dan de sinus.
+Dat heet een verschil in fase. Je kunt ook zeggen dat de cosinus 3𝜋⁄2 achterloopt op de
+sinus.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-11
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk_2_kort_20250723
+
+2.19 Hoeksnelheid, hoekfrequentie, cirkelfrequentie
+Alle drie de termen in de titel betekenen hetzelfde: radialen per tijd. Dat is 2 maal het
+aantal rondjes per seconde, want in een rondje zitten 2 radialen. De cirkelfrequentie
+komen we tegen bij berekeningen aan spoelen en condensatoren (hoofdstukken 4 en 5).
+
+2.20 Functies
+Een functie is een wiskundige uitdrukking. Je stopt er iets in en er komt iets anders uit. De
+soort functie bepaalt wat er bij een bepaalde invoer uitkomt. Van een functie kun je altijd
+een grafiek tekenen, zoals de sinus – en cosinusgrafiek van Figuur 2.18-4.
+
+2.21 Twee grondbeginselen uit de natuurkunde
+Het eerste beginsel houdt in dat energie niet verloren gaat en ook niet uit het niets
+ontstaat.
+Het tweede beginsel houdt in dat ordening niet kan toenemen. Als ordening op een plek
+toeneemt, gaat dat altijd ten koste van ordening ergens anders.
+Stroming van lucht (wind) of water is een geordende vorm van energie. Warmte is de
+meest chaotische vorm. Warmte kun je niet omzetten in stroming, stroming wel in
+warmte. Warmteverschil is weer een vorm van ordening. Dat kun je inruilen voor een
+geordende vorm van energie. Dat gebeurt bijvoorbeeld in een stoomturbine of een
+verbrandingsmotor.
+Bij alle energieomzettingen ontstaat warmte. Alle elektronische schakelingen zijn
+gebaseerd op energie-omzetting en ze produceren dus allemaal een deel warmte. 100%
+rendement bestaat daarom niet, behalve bij een elektrische kachel.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2-12
+
+

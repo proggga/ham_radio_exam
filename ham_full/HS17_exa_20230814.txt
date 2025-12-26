@@ -1,0 +1,1254 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+Inhoudsopgave
+17
+
+Uitgewerkte examenopgaven bij Hoofdstuk 17 (Opgave 1-20) .................................17-3
+17.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........17-3
+
+17.2
+
+Enkele opmerkingen ..........................................................................................17-4
+
+17.3
+
+Formularium ......................................................................................................17-4
+
+17.3.1 Inleiding ..........................................................................................................17-4
+17.3.2 Eigenschappen van netaansluitingen. ...........................................................17-5
+17.3.3 Aardlekschakelaar ..........................................................................................17-5
+17.3.4 Veiligheid bij hoge spanning .........................................................................17-5
+17.3.5 De functie van veiligheidsaarde ....................................................................17-5
+17.3.6 Golflengte en risico voor het menselijk lichaam ..........................................17-5
+17.3.7 Bliksem............................................................................................................17-6
+17.3.8 Hoge spanning in zendereindtrappen ...........................................................17-6
+17.4
+
+Opgaven ..............................................................................................................17-7
+
+17.4.1 Opgave 17-1 ....................................................................................................17-8
+17.4.2 Opgave 17-2 ....................................................................................................17-9
+17.4.3 Opgave 17-3 ..................................................................................................17-10
+17.4.4 Opgave 17-4 ..................................................................................................17-11
+17.4.5 Opgave 17-5 ..................................................................................................17-12
+17.4.6 Opgave 17-6 ..................................................................................................17-13
+17.4.7 Opgave 17-7 ..................................................................................................17-14
+17.4.8 Opgave 17-8 ..................................................................................................17-15
+17.4.9 Opgave 17-9 ..................................................................................................17-16
+17.4.10
+
+Opgave 17-10 ............................................................................................ 17-17
+
+17.4.11
+
+Opgave 17-11 ............................................................................................ 17-18
+
+17.4.12
+
+Opgave 17-12 ............................................................................................ 17-19
+
+17.4.13
+
+Opgave 17-13 ............................................................................................ 17-20
+
+17.4.14
+
+Opgave 17-14 ............................................................................................ 17-21
+
+17.4.15
+
+Opgave 17-15 ............................................................................................ 17-22
+
+17.4.16
+
+Opgave 17-16 ............................................................................................ 17-23
+
+17.4.17
+
+Opgave 17-17 ............................................................................................ 17-24
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.18
+
+Opgave 17-18 ............................................................................................ 17-25
+
+17.4.19
+
+Opgave 17-19 ............................................................................................ 17-26
+
+17.4.20
+
+Opgave 17-20 ............................................................................................ 17-27
+
+17.5
+
+Uitwerkingen ...................................................................................................17-28
+
+17.5.1 Uitwerking van Opgave 17-1 ......................................................................17-29
+17.5.2 Uitwerking van Opgave 17-2 ......................................................................17-30
+17.5.3 Uitwerking van Opgave 17-3 ......................................................................17-31
+17.5.4 Uitwerking van Opgave 17-4 ......................................................................17-32
+17.5.5 Uitwerking van Opgave 17-5 ......................................................................17-33
+17.5.6 Uitwerking van Opgave 17-6 ......................................................................17-34
+17.5.7 Uitwerking van Opgave 17-7 ......................................................................17-35
+17.5.8 Uitwerking van Opgave 17-8 ......................................................................17-36
+17.5.9 Uitwerking van Opgave 17-9 ......................................................................17-37
+17.5.10
+
+Uitwerking van Opgave 17-10 .................................................................17-38
+
+17.5.11
+
+Uitwerking van Opgave 17-11 .................................................................17-39
+
+17.5.12
+
+Uitwerking van Opgave 17-12 .................................................................17-40
+
+17.5.13
+
+Uitwerking van Opgave 17-13................................................................ 17-41
+
+17.5.14
+
+Uitwerking van Opgave 17-14 .................................................................17-42
+
+17.5.15
+
+Uitwerking van Opgave 17-15 .................................................................17-43
+
+17.5.16
+
+Uitwerking van Opgave 17-16 .................................................................17-44
+
+17.5.17
+
+Uitwerking van Opgave 17-17 .................................................................17-45
+
+17.5.18
+
+Uitwerking van Opgave 17-18 .................................................................17-46
+
+17.5.19
+
+Uitwerking van Opgave 17-19 .................................................................17-47
+
+17.5.20
+
+Uitwerking van Opgave 17-20 .................................................................17-48
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17 Uitgewerkte examenopgaven bij Hoofdstuk 17 (Opgave 1-20)
+17.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 16
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat vanaf begin 2000 tot in 2020ongeveer 1400
+examenvragen zijn gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot.
+Bedenk ook dat examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de
+antwoorden op meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk
+zijn aan hun voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar
+heel veel examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+We moeten hierbij opmerken dat in 2020 de examenopgaven niet langer na afloop van het
+examen door examenkandidaten mogen worden meegenomen, omdat Agentschap
+Telecom zich niet in staat acht, in voldoende mate nieuwe examenopgaven te produceren.
+Verwacht daarom voorlopig geen aanvulling op deze bundel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog eens door om te zien of alles bekend is en begin
+pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking van de opgave waarmee je bezig bent.
+Deze:
+
+De uitwerking begint met de opgave en het goede antwoord vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot een goed
+antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 17.5.
+
+17.2 Enkele opmerkingen
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008 waren er maar twee examens per jaar,
+het voorjaars- en najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en plotseling, bijvoorbeeld 10
+jaar of nog meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”) en begrippen met sterk samengevatte uitleg. We raden aan, dit
+eerst door te nemen.
+
+17.3 Formularium
+17.3.1 Inleiding
+Dit formularium geeft geen vergelijkingen (“formules”), maar alleen een aantal punten in
+beknopte vorm.
+Sinds 2008 zijn de exameneisen aangepast aan voortgeschreden techniek en inzichten. De
+hoofdstuktekst in deze cursus is daaraan zo goed mogelijk aangepast. Met de
+examenopgaven is Agentschap Telecom (AT) echter niet met zijn tijd meegegaan. Wie
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+naar de eerste examendatum bij de opgaven kijkt, zal daar snel achter komen. Daarom
+heeft het weinig zin, het formularium in deze opgavenbundel in overeenstemming te
+brengen met nieuwe eisen. De beschikbare examenopgaven passen daar eenvoudigweg
+niet bij. Wel geven we punten om op te letten en die passen bij de opgavenvoorraad van
+AT. Omdat je niet kunt uitsluiten dat er toch een keer aan de ontwikkelingen aangepaste
+examenvragen komen, geven we wat uitvoeriger informatie dan in formularia van eerdere
+hoofdstukken.
+17.3.2 Eigenschappen van netaansluitingen.
+Netaansluitingen in een woning kennen drie draden: fase, nul en aarde. Ze zijn te
+herkennen aan de kleur: bruin voor fase, blauw voor nul en geel/groen voor aarde. Die
+laatste heet ook veiligheidsaarde. De nulleiding en aarde zijn verbonden bij de
+distributietransformator in de wijk. Door inductief opgewekte pulsen en ohmse weerstand
+kan op de nulleiding toch een spanning staan. Daarom moet de nuldraad worden
+beschouwd als spanningvoerend. Hij mag niet aanraakbaar zijn en onder geen enkele
+voorwaarde verbonden worden met de veiligheidsaarde. De veiligheidsaarde bij een
+huisaansluiting wordt gerealiseerd met een diep in de grond geslagen metalen pin nabij de
+meterkast.
+17.3.3 Aardlekschakelaar
+De aardlekschakelaar beveiligt via een soort stroombalans (eerste wet van Kirchhoff): er
+moet via de faseleiding evenveel stroom lopen als door de nulleiding. Is het verschil groter
+dan 30 mA, dan opent de schakelaar zodat de faseleiding spanningsloos wordt.
+17.3.4 Veiligheid bij hoge spanning
+In apparaten waarin leidingen een hoge spanning voeren, moeten die leidingen worden
+afgeschermd tegen aanraking. De meest gebruikelijke manier is afschermen met een
+geaarde metalen behuizing. Die metalen afschermingen zijn verbonden met de metalen
+kast van het hele apparaat die is verbonden met de veiligheidsaarde. Aardverbindingen
+moeten de volle kortsluitstroom aankunnen zonder zelf beschadigd te raken. Je kunt ook
+dubbele isolatie gebruiken om veiligheid bij hoge spanning te bewerkstelligen. Bij gebruik
+van veiligheidsaarde beschermt de zekering (smeltveiligheid of zekeringsautomaat) de
+gebruiker tegen de netspanning.
+17.3.5 De functie van veiligheidsaarde
+Veiligheidsaarde dient de veiligheid, is nooit bedoeld als HF-aarding voor de antenne en
+functioneert als zodanig ook eigenlijk nooit goed.
+17.3.6 Golflengte en risico voor het menselijk lichaam
+In examens bij dit hoofdstuk zitten enkele vragen over beïnvloeding van delen van het
+menselijk lichaam. Ze komen neer op een verband tussen frequentie en gevoeligheid van
+ogen en hersenen. >400 MHz (<75 cm) voor de hersenen en >1000 MHz (<30 cm) voor
+de ogen. Die waarden zijn door meer recente ontwikkelingen (cursustekst hoofdstuk 17)
+achterhaald, maar komen nog voor in examenvragen. De antwoorden zijn het
+gemakkelijkst te onthouden door het grootste orgaan (hersenen) in verband te brengen
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+met de langste golflengte en het kleinste orgaan (ogen) met de kortste golflengte van de
+twee.
+17.3.7 Bliksem
+Directe blikseminslag (op huis of antenne) leidt tot vernieling van apparatuur. Indirecte
+blikseminslag, dat is blikseminslag op (korte) afstand, kan leiden tot beschadiging van
+radioapparatuur. Door de inslag ontstaan kortdurende zeer sterke bodemstromen die door
+inductie sterke antennestromen of hoge antennespanningen kunnen veroorzaken. Dat
+geldt ook voor het elektriciteitsnet. Daarom bij nabij onweer altijd zowel antenne- als
+netsteker losmaken van zend- en ontvangapparatuur!
+17.3.8 Hoge spanning in zendereindtrappen
+Zendereindtrappen met buizen werken met hoge spanning (enkele honderden tot enkele
+duizenden volt). De koppeling aan de antenne moet dan zo zijn, dat die hoge
+gelijkspanning niet op de antenne komt. Vermijd directe gelijkstroomkoppeling.
+Koppeling via condensatoren is ook af te raden, want een doorgeslagen condensator
+eindigt óf als geleider, óf als isolator. In het laatste geval heb je geluk. Het beste is dan ook
+een inductieve koppeling, dus met inductie tussen twee spoelen en een veilige afstand
+tussen beide wikkelingen; 1 mm/kV als absoluut minimum en liefst een millimetertje/kV
+extra.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4 Opgaven
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.1 Opgave 17-1
+De juiste kleuraanduiding van de draden in een netaansluiting is:
+Fase
+
+Nul
+
+Aarde
+
+A.
+
+Blauw
+
+Bruin
+
+Geel/groen
+
+B.
+
+Blauw
+
+Bruin
+
+Zwart
+
+C.
+
+Bruin
+
+Blauw
+
+Geel/groen
+
+D.
+
+Bruin
+
+Blauw
+
+Zwart
+
+(F-examen voorjaar 2006, januari 2009, april 2009, juni 2009, oktober 2009, november
+2009 (2), november 2010 (1), mei 2013 (1), november 2014 (1 en 2), mei 2017 (1), maart
+2018, mei 2019 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.2 Opgave 17-2
+Een aardlekschakelaar beveiligt tegen:
+A. Een potentiaalverschil tussen de nuldraad van het net en het chassis
+B. Een hoogfrequent stroom naar het net
+C. Een potentiaalverschil tussen de nuldraad van het net en aarde
+D. Een verschil tussen de stroomsterkte in de nuldraad en de fasedraad
+(F-examen najaar 2004, november 2008 (2), februari 2009, maart 2009 (1), april 2009, juni
+2009, augustus 2009, februari 2010 (2), december 2010, maart 2014, januari 2015, mei
+2018, januari 2020)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.3 Opgave 17-3
+Om veiligheidsredenen dienen de metalen afschermingen van hoge spanning voerende
+delen in een zender:
+A. Onderling te worden doorverbonden
+B. Te worden verbonden met een HF-aarde
+C. Te worden verbonden met de geaarde metalen behuizing van de zender
+D. Van aarding te worden vrijgehouden
+(F-examen najaar 2005, oktober 2009, november 2008 (1), februari 2010 (1 en 2), maart
+2011 (1), mei 2013 (2), maart 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.4 Opgave 17-4
+Afscherming van bedrading en onderdelen die een hoge spanning voeren, bevordert:
+A. Het zendrendement
+B. De veiligheid
+C. De ontvangstgevoeligheid
+D. De lineariteit van de eindtrap
+(F-examen november 2008, maart 2009 (2), januari 2011, december 2001, maart 2019, juni
+2020 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.5 Opgave 17-5
+In netvoedingen moet de aarddraad van het netsnoer worden verbonden met het metalen
+chassis. Hierdoor zal in alle gevallen dat er een fout in de voeding optreedt
+A. De aardlekschakelaar aanspreken
+B. De netveiligheid aanspreken
+C. Geen HF-spanning op het net komen
+D. Het chassis geen hoge spanning ten opzichte van aarde krijgen
+(F-examen voorjaar 2002, december 2008, maart 2009 (1 en 2), april 2009)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.6 Opgave 17-6
+Veiligheidsaarde wordt aangebracht met als doel:
+A. Het chassis (massa) van de zendinstallatie op aardpotentiaal te brengen
+B. De antenne-retourstroom mogelijk te maken
+C. De kans op burenstoring te verkleinen
+D. Een mogelijk potentiaalverschil tussen de nul van het net en aarde op te heffen
+(F-examen augustus 2010, mei 2011 (3), september 2012, november 2013 (2), november
+2018, januari 2019, juni 2020 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.7 Opgave 17-7
+Een transceiver wordt met een drie-aderig netsnoer aangesloten op een stopcontact met
+randaarde. Dit wordt gedaan om te bereiken dat:
+A. De aardlekschakelaar juist kan functioneren
+B. De zekeringen in de transceiver correct kunnen functioneren
+C. Een goede HF-aarde voor de antenne wordt verkregen
+D. Op de metalen kast van de transceiver geen spanning kan staan
+(F-examen september 2011, mei 2012 (2), september 2016, November 2017, mei 2018 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.8 Opgave 17-8
+Het lichaamsdeel dat het snelst beschadigd kan worden door de invloed van
+elektromagnetische golven met frequenties boven 1000 MHz is:
+A. De hand
+B. Het hart
+C. De nier
+D. Het oog
+(F-examen december 2008, jul 2010, februari 2011, augustus 2011, november 2013 (1),
+september 2014 (2), november 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.9 Opgave 17-9
+Het lichaamsdeel dat het snelst beschadigd kan worden door de invloed van
+elektromagnetische golven met frequenties boven 400 MHz is:
+A. De nieren
+B. De hand
+C. Het hart
+D. De hersenen
+(F-examen februari 2009, mei 2009 (1), juli 2011, november 2011, november 2016)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.10 Opgave 17-10
+Een voeding wordt beveiligd met één of meer smeltveiligheden in de netleiding. Dit
+wordt in de praktijk gedaan met:
+A. Één trage zekering
+B. Een snelle en een trage zekering in serie
+C. Één snelle zekering
+D. Een snelle en een trage zekering parallel
+(F-examen december 2008, februari 2009, mei 2009 (1), juli 2009, november 2009, april
+2010, mei 2010 (1), maart 2012, september 2013 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.11 Opgave 17-11
+U moet een reparatie uitvoeren aan een 300 volt voeding. Na het uitschakelen van de
+netspanning neemt u de volgende veiligheidsmaatregel:
+A. U sluit de voeding aan de ingang kort
+B. U verwijdert de zekeringen
+C. U wacht nog ongeveer 5 minuten voordat u begint
+D. U ontlaadt alle condensatoren.
+F-examen januari 2009, mei 2009 (2), september 2009 (1+2), januari 2010, november 2020
+(2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.12 Opgave 17-12
+Een dipool wordt gevoed met een open lijn (kippenladder). Het zendvermogen is 100
+watt. Ter beveiliging tegen aanraking van de open lijn kunt u het beste:
+A. Een waarschuwingsbord bij de open lijn plaatsen
+B. Geïsoleerd draad toepassen
+C. Veel spreiders toepassen
+D. Ongeïsoleerd draad toepassen
+(F-examen mei 2011 (2), mei 2012 (1), januari 2013, september 2013 (2), mei 2017 (2),
+januari 2018).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.13 Opgave 17-13
+U bent genoodzaakt, een schakeling af te regelen waarop een gevaarlijk hoge spanning
+staat. Het risico hierop wordt groter door:
+A. Gebruik te maken van een scheidingstransformator in de 220 V-netleiding
+B. Schoenen van isolerend materiaal te dragen
+C. Geïsoleerd gereedschap te gebruiken
+D. Beide handen tegelijkertijd te gebruiken
+(F-examen voorjaar 2000)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.14 Opgave 17-14
+De veiligste plaats om te werken aan apparatuur onder hoge spanning is een:
+A. Betonvloer
+B. Vochtige ruimte
+C. Plavuizen vloer
+D. Droge houten vloer
+(F-examen najaar 2001)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.15 Opgave 17-15
+In een eindtrap met buizen wordt een anodespanning van 1000 volt toegepast. De beste
+maatregel tegen aanrakingsgevaar is:
+A. Een mechanische inrichting die de netspanning onderbreekt bij het openen van de
+kast
+B. Het waarschuwingsteken “Hoge spanning” op de buitenkant van de kast
+C. Waarschuwingstekens “Hoge spanning binnenin de kast op alle plaatsen waar de
+spanning “open” voorkomt
+D. Een overspanningsbeveiliging in de voeding
+(F-examen najaar 2003)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.16 Opgave 17-16
+Tijdens een experimant komt een persoon met z’n handen in contact met een draad onder
+hoge spanning en kan deze niet meer loslaten.
+Welke handeling verricht u om deze persoon te helpen?
+A. De spanning uitschakelen
+B. De persoon lostrekken van de spanningsdraad
+C. De ;persoon aanwijzingen geven wat hij moet doen
+D. De persoon vertellen hoe hij de spanning moet uitschakelen.
+(F-examen voorjaar 2005)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.17 Opgave 17-17
+Een dipool-antenne is door een open voedingslijn (kippenladder) met een ontvanger
+verbonden. De beste wijze om schade ten gevolge van een nabije blikseminslag te
+voorkomen is:
+A. De voedingslijn aarden
+B. De voedingslijn kortsluiten
+C. De voedingslijn losnemen en de netstekker uittrekken
+D. De ontvanger uitschakelen
+(F-examen voorjaar 2001, november 2008 (1 en 2), oktober 2009, oktober 2011 (1),
+november 2012, september 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.18 Opgave 17-18
+De beste methode om een ontvanger te beschermen tegen de effecten van een nabije
+blikseminslag is
+A. De ontvangerkast goed aarden
+B. De ontvanger loskoppelen van antenne en lichtnet
+C. De ontvanger uitschakelen
+D. De aardlekschakelaar uitschakelen
+(F-examen mei 2009 (1), september 2010 (2), maart 2011, mei 2011 (1), september 2014
+(1), september 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.19 Opgave 17-19
+De beste methode om een ontvanger te beschermen tegen de effecten van een nabije
+blikseminslag is
+A. Een condensator van 1 F over de antenne-ingang aansluiten
+B. De ontvangerkast goed aarden
+C. Een smoorspoel over de antenne-ingang plaatsen
+D. De ontvanger loskoppelen van antenne en lichtnet.
+(F-examen juni 2011, mei 2014 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.4.20 Opgave 17-20
+Welke van de schakelingen geeft de meest veilige aankoppeling van de antenne aan de
+eindtrap van de zender?
+
+A. Schakeling 1
+B. Schakeling 3
+C. Schakeling 2
+D. Schakeling 4
+(F-examen najaar 1975, maart 2009 (2), mei 2010 (2), september 2010 (1), april 2011, mei
+2019 (1), maart 2020)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5 Uitwerkingen
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.1 Uitwerking van Opgave 17-1
+De juiste kleuraanduiding van de draden in een netaansluiting is:
+Fase
+
+Nul
+
+Aarde
+
+A.
+
+Blauw
+
+Bruin
+
+Geel/groen
+
+B.
+
+Blauw
+
+Bruin
+
+Zwart
+
+C.
+
+Bruin
+
+Blauw
+
+Geel/groen
+
+D.
+
+Bruin
+
+Blauw
+
+Zwart
+
+Fase
+
+Nul
+
+Aarde
+
+Bruin
+
+Blauw
+
+Geel/groen
+
+Uitwerking
+De juiste volgorde is
+
+C.
+
+Vroeger was dat rood, groen, grijs.
+Monteer een Aarde-draad (geel/groen) langer dan de fase en de nul, omdat die voor de
+veiligheid zo lang mogelijk in stand moet blijven.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.2 Uitwerking van Opgave 17-2
+Een aardlekschakelaar beveiligt tegen:
+A. Een potentiaalverschil tussen de nuldraad van het net en het chassis
+B. Een hoogfrequent stroom naar het net
+C. Een potentiaalverschil tussen de nuldraad van het net en aarde
+D. Een verschil tussen de stroomsterkte in de nuldraad en de fasedraad
+Uitwerking
+Een aardlekschakelaar vergelijkt de stroomsterkte tussen de nuldraad en de fasedraad. Die
+moeten volgens de eerste wet van Kirchhoff gelijk zijn. Zijn ze ongelijk, dan lekt er ergens
+stroom weg naar aarde, mogelijk via een mens. Daarom schakelt de aardlekschakelaar bij
+een stroomverschil >30 mA de netspanning af.
+Het juiste antwoord is dan ook D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.3 Uitwerking van Opgave 17-3
+Om veiligheidsredenen dienen de metalen afschermingen van hoge spanning voerende
+delen in een zender:
+A. Onderling te worden doorverbonden
+B. Te worden verbonden met een HF-aarde
+C. Te worden verbonden met de geaarde metalen behuizing van de zender
+D. Van aarding te worden vrijgehouden
+Uitwerking
+Als de metalen delen in de zender worden verbonden met de geaarde behuizing van de
+zender, is dat één geaard metalen geheel. De aardleiding is dan een kortsluiting tussen de
+metalen delen van het zenderblok en aarde, waardoor een aardstroom via een persoon
+verwaarloosbaar klein is. Antwoord C.
+Opmerking
+Eigenlijk gebeurt hier hetzelfde als bij een micro-ampèremeter die wordt gebruikt voor
+het meten van grote stromen. De shunt geleidt het overgrote deel van de te meten stroom
+om de meter heen. De aardleiding is hier de shunt en de persoon de meter. De stroom
+door de persoon is (in dit geval) verwaarloosbaar klein.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.4 Uitwerking van Opgave 17-4
+Afscherming van bedrading en onderdelen die een hoge spanning voeren, bevordert:
+A. Het zendrendement
+B. De veiligheid
+C. De ontvangstgevoeligheid
+D. De lineariteit van de eindtrap
+Uitwerking
+Afscherming van hoogspanningvoerende delen gebeurt omwille van de veiligheid. Met
+zendrendement, ontvangstgevoeligheid of instelling van een eindtrap heeft het niets te
+maken. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.5 Uitwerking van Opgave 17-5
+In netvoedingen moet de aarddraad van het netsnoer worden verbonden met het metalen
+chassis. Hierdoor zal in alle gevallen dat er een fout in de voeding optreedt
+A. De aardlekschakelaar aanspreken
+B. De netveiligheid aanspreken
+C. Geen HF-spanning op het net komen
+D. Het chassis geen hoge spanning ten opzichte van aarde krijgen
+Uitwerking
+In netvoedingen moet de aarddraad van het netsnoer worden verbonden met het metalen
+chassis. Daarmee is het chassis altijd als de voeding op het net is aangesloten, verbonden
+zijn met aarde en zal de spanning ten opzichte van aarde praktisch nul zijn. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.6 Uitwerking van Opgave 17-6
+Veiligheidsaarde wordt aangebracht met als doel:
+A. Het chassis (massa) van de zendinstallatie op aardpotentiaal te brengen
+B. De antenne-retourstroom mogelijk te maken
+C. De kans op burenstoring te verkleinen
+D. Een mogelijk potentiaalverschil tussen de nul van het net en aarde op te heffen
+Uitwerking
+Terwille van de veiligheid mag op de metalen kast (chassis) geen of verwaarloosbare
+spanning ten opzichte van aarde staan. Komt er door een defect toch spanning op de kast,
+dan zal de aardlekschakelaar aanspreken. Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.7 Uitwerking van Opgave 17-7
+Een transceiver wordt met een drie-aderig netsnoer aangesloten op een stopcontact met
+randaarde. Dit wordt gedaan om te bereiken dat:
+A. De aardlekschakelaar juist kan functioneren
+B. De zekeringen in de transceiver correct kunnen functioneren
+C. Een goede HF-aarde voor de antenne wordt verkregen
+D. Op de metalen kast van de transceiver geen spanning kan staan
+Uitwerking
+Op de metalen kast van de transceiver mag uit veiligheidsoverwegingen geen spanning
+ten opzichte van aarde komen te staan. De randaarde is veiligheidsaarde. Antwoord D.
+Opmerking
+Voor wat betreft het juiste antwoord is er eigenlijk geen verschil met Opgave 17-6.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.8 Uitwerking van Opgave 17-8
+Het lichaamsdeel dat het snelst beschadigd kan worden door de invloed van
+elektromagnetische golven met frequenties boven 1000 MHz is:
+A. De hand
+B. Het hart
+C. De nier
+D. Het oog
+Uitwerking
+De schade is net als die van geluidsgolven op het gehoor, afhankelijk van de intensiteit en
+de duur van de schade toebrengende EM-golven. De schade is in het algemeen groter
+naarmate de frequentie hoger is. Bij 400 MHz en meer geldt dat vooral de hersenen, bij
+1000 MHz en hoger de ogen. Antwoord D.
+Opmerking
+Hier geldt een algemene natuurwet die betrekking heeft op alle golfverschijnselen: hoe
+korter de golf, des te kleiner het voorwerp dat door de golf kan worden beïnvloed en de
+golf beïnvloedt. De beïnvloeding is altijd wederzijds. Het voorwerp absorbeert energie van
+de golf en de golf raakt daardoor energie kwijt aan het voorwerp.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.9 Uitwerking van Opgave 17-9
+Het lichaamsdeel dat het snelst beschadigd kan worden door de invloed van
+elektromagnetische golven met frequenties boven 400 MHz is:
+A. De nieren
+B. De hand
+C. Het hart
+D. De hersenen
+Uitwerking
+Deze opgave lijkt sterk op Opgave 17-8, met dit verschil dat de frequentie 400 MHz is en
+de ogen zijn vervangen door de hersenen. Bij de uitwerking van Opgave 17-8 is al gezegd
+dat boven 400 MHz de hersenen kwetsbaar worden voor EM-golven. Dat betekent
+antwoord D.
+Opmerking
+Zie de opmerking bij Opgave 17-8. Hersenen zijn groter dan het oog en worden daardoor
+al bij een lagere frequentie (= grotere golflengte) beïnvloed.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.10 Uitwerking van Opgave 17-10
+Een voeding wordt beveiligd met één of meer smeltveiligheden in de netleiding. Dit
+wordt in de praktijk gedaan met:
+A. Één trage zekering
+B. Een snelle en een trage zekering in serie
+C. Één snelle zekering
+D. Een snelle en een trage zekering parallel
+Uitwerking
+Een voeding wordt aan de netkant bijna altijd beveiligd met een trage zekering. De reden
+daarvoor is dat voedingen doorgaans bij het inschakelen heel even extra veel stroom
+opnemen. Dat komt, doordat de elco of elco’s in de afvlakschakeling bij inschakelen leeg
+(horen te) zijn. Die “vreten” daardoor heel kort een flinke stroom. Is de elco (of zijn de
+elco’s) na die korte tijd op spanning, dan is het stroomverbruik teruggevallen tot zijn
+normale grootte. Gedurende die korte periode moet de zekering niet uitvallen, maar moet
+daarna wel de “normale” stroom kunnen doorstaan en bij een hogere stroom stukgaan.
+Vandaar de eis van een trage zekering. Antwoord A.
+Opmerking
+Verderop in de schakeling wordt vaak gezekerd met een snelle zekering.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.11 Uitwerking van Opgave 17-11
+U moet een reparatie uitvoeren aan een 300 volt voeding. Na het uitschakelen van de
+netspanning neemt u de volgende veiligheidsmaatregel:
+A. U sluit de voeding aan de ingang kort
+B. U verwijdert de zekeringen
+C. U wacht nog ongeveer 5 minuten voordat u begint
+D. U ontlaadt alle condensatoren
+Uitwerking
+Condensatoren in een voeding zijn vrijwel altijd elco’s. Ze moeten door de lage frequentie
+van het net een hoge capaciteit hebben. De spanning is, als de voeding in bedrijf is, meer
+dan 300 V. Als de behuizing open moet, bijvoorbeeld voor een reparatie, is het maar de
+vraag of de condensatoren zich tevoren hebben kunnen ontladen. De veiligste aanname is:
+niet. Bij de gegeven spanning en de gebruikelijke capaciteiten kan een opgeladen
+condensator een flinke elektrische schok veroorzaken bij degene die hem aanraakt. Die
+schok kan door de opgeslagen energiehoeveelheid dodelijk zijn. Dat is de reden dat de
+condensatoren ontladen worden voordat er aan de schakeling gewerkt wordt. Antwoord
+D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.12 Uitwerking van Opgave 17-12
+Een dipool wordt gevoed met een open lijn (kippenladder). Het zendvermogen is 100
+watt. Ter beveiliging tegen aanraking van de open lijn kunt u het beste:
+A. Een waarschuwingsbord bij de open lijn plaatsen
+B. Geïsoleerd draad toepassen
+C. Veel spreiders toepassen
+D. Ongeïsoleerd draad toepassen
+Uitwerking
+Bij 100 W en een antenne-impedantie van 50 ohm is de minimale spanning te berekenen
+volgens
+𝑃=
+
+𝑈2
+→ 𝑈 = √𝑃𝑍 = √100 ∗ 50 V ≈ 71 V
+𝑍
+
+In werkelijkheid zal de impedantie bij toepassing van open lijn meestal hoger zijn,
+bijvoorbeeld 300 ohm. Dat betekent dat de spanning √300⁄50 ≈ 2,5 maal zo groot wordt,
+dat is ongeveer 175 V. Bij een niet-ohmse belasting en buiten resonantie kan de spanning
+nog wel hoger worden. Kortom: niet iets om met blote handen aan te pakken. Pas
+geïsoleerd draad toe. Antwoord B.
+Opmerkingen
+Spreiders in een antenneleiding zijn bepalend voor vooral de mechanische eigenschappen
+van de open lijn.
+Eventueel kan een wimpel, bord of iets dergelijks de aandacht vestigen op gevaar, maar
+isoleren is de belangrijkste maatregel.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.13 Uitwerking van Opgave 17-13
+U bent genoodzaakt, een schakeling af te regelen waarop een gevaarlijk hoge spanning
+staat. Het risico hierop wordt groter door:
+A. Gebruik te maken van een scheidingstransformator in de 220 V-netleiding
+B. Schoenen van isolerend materiaal te dragen
+C. Geïsoleerd gereedschap te gebruiken
+D. Beide handen tegelijkertijd te gebruiken
+Uitwerking
+Hier zit een adder onder het gras. In tegenstelling tot wat gebruikelijk is bij zendexamens
+wordt hier niet gevraagd naar een maatregel die gevaar verkleint, maar naar één die het
+gevaar vergroot. Goed lezen dus!
+Het enige antwoord dat leidt tot een vergroting van het gevaar is het gebruiken van beide
+handen tegelijk. Het risico daarvan is, dat een stroom via de ene hand het lichaam ingaat
+en het via de andere hand weer verlaat. Daardoor zal de stroom de hartstreek passeren
+met ernstig risico op hartproblemen of erger. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.14 Uitwerking van Opgave 17-14
+De veiligste plaats om te werken aan apparatuur onder hoge spanning is een:
+A. Betonvloer
+B. Vochtige ruimte
+C. Plavuizen vloer
+D. Droge houten vloer
+Uitwerking
+In dit soort situaties is het een kwestie van hoe minder kans op nattigheid, hoe beter,
+want hoewel volledig zuiver water een slechte geleider is, leiden opgeloste stoffen altijd
+tot meer geleidingsvermogen. In grondwater zitten altijd stoffen opgelost. Vandaar dat
+bijvoorbeeld netstroom weliswaar via een fasedraad binnenkomt, maar dat in Nederland
+en veel andere landen de retourleiding (nulleiding), om op koper te besparen, de bodem
+is. De belangrijkste geleider daarbij is grondwater en in veel mindere mate de vaste stof
+van de bodem zelf.
+Het “droogste” antwoord in het rijtje is de droge houten vloer. Plavuizen en beton zijn
+niet te vertrouwen. In het cement of beton onder plavuizen zal meestal enig water zitten
+zonder dat dit ergens aan te zien is. Voor beton geldt hetzelfde. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.15 Uitwerking van Opgave 17-15
+In een eindtrap met buizen wordt een anodespanning van 1000 volt toegepast. De beste
+maatregel tegen aanrakingsgevaar is:
+A. Een mechanische inrichting die de netspanning onderbreekt bij het openen van de
+kast
+B. Het waarschuwingsteken “Hoge spanning” op de buitenkant van de kast
+C. Waarschuwingstekens “Hoge spanning binnenin de kast op alle plaatsen waar de
+spanning “open” voorkomt
+D. Een overspanningsbeveiliging in de voeding
+Uitwerking
+De beste maatregel in het rijtje is een mechanische inrichting die de netspanning
+onderbreekt bij openen van de kast. Antwoord A.
+Opmerking
+Waarschuwingstekens kunnen worden genegeerd of niet opgemerkt.
+Een hoge spanning kan het best worden afgeschermd met een geaarde metalen behuizing.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.16 Uitwerking van Opgave 17-16
+Tijdens een experimant komt een persoon met z’n handen in contact met een draad onder
+hoge spanning en kan deze niet meer loslaten.
+Welke handeling verricht u om deze persoon te helpen?
+A. De spanning uitschakelen
+B. De persoon lostrekken van de spanningsdraad
+C. De persoon aanwijzingen geven wat hij moet doen
+D. De persoon vertellen hoe hij de spanning moet uitschakelen.
+Uitwerking
+De beste manier is, de spanning uit te schakelen of kort te sluiten. Antwoord A.
+Opmerkingen
+De persoon lostrekken betekent dat je jezelf onder spanning zet. Daarmee help je de
+persoon niet en je brengt jezelf in gevaar.
+Een persoon in deze omstandigheden aanwijzingen geven, wat te doen is zinloos als hij
+zijn hand niet los kan krijgen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.17 Uitwerking van Opgave 17-17
+Een dipool-antenne is door een open voedingslijn (kippenladder) met een ontvanger
+verbonden. De beste wijze om schade ten gevolge van een nabije blikseminslag te
+voorkomen is:
+A. De voedingslijn aarden
+B. De voedingslijn kortsluiten
+C. De voedingslijn losnemen en de netstekker uittrekken
+D. De ontvanger uitschakelen
+Uitwerking
+De beste manier om bliksemschade te voorkomen is de voedingslijn naar de antenne los te
+nemen en de netstekken uit het stopcontact te trekken. Antwoord C.
+Opmerkingen
+Het aarden van de voedingslijn betekent een kortsluiting naar aarde die de kans op een
+directe inslag alleen maar groter maakt.
+Een blikseminslag in de buurt kan op het net inductiestromen en daarmee
+samenhangende spanningspieken veroorzaken. Daarom kan men bij nabij onweer maar
+beter de netstekker uit het stopcontact halen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.18 Uitwerking van Opgave 17-18
+De beste methode om een ontvanger te beschermen tegen de effecten van een nabije
+blikseminslag is
+A. De ontvangerkast goed aarden
+B. De ontvanger loskoppelen van antenne en lichtnet
+C. De ontvanger uitschakelen
+D. De aardlekschakelaar uitschakelen
+Uitwerking
+Omdat via inductie ook spanningspieken via het lichtnet de ontvanger kunnen bereiken,
+kan men het beste de ontvanger niet alleen van de antenne, maar ook van het lichtnet kan
+afkoppelen. Antwoord B.
+Opmerking
+Zie ook Opgave 17-17.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.19 Uitwerking van Opgave 17-19
+De beste methode om een ontvanger te beschermen tegen de effecten van een nabije
+blikseminslag is
+A. Een condensator van 1 F over de antenne-ingang aansluiten
+B. De ontvangerkast goed aarden
+C. Een smoorspoel over de antenne-ingang plaatsen
+D. De ontvanger loskoppelen van antenne en lichtnet
+Uitwerking
+Net als bij Opgave 17-17 en Opgave 17-18 is het loskoppelen van antenne en lichtnet de
+beste -en eigenlijk de enig juiste- maatregel bij nabij onweer. Antwoord D.
+Opmerkingen
+Condensatoren ter grootte van 1 F (of zoiets) over de antenne-ingang bederven de
+gevoeligheid van de ontvanger, want ze sluiten de ingang voor HF in feite kort. Bij een
+transceiver verpesten ze ook nog eens de impedantie-aanpassing voor zenden. Ook een
+smoorspoel op die positie is -zacht gezegd- geen zinvolle maatregel.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 17. Examenopgaven_20230814
+
+17.5.20 Uitwerking van Opgave 17-20
+Welke van de schakelingen geeft de meest veilige aankoppeling van de antenne aan de
+eindtrap van de zender?
+
+A. Schakeling 1
+B. Schakeling 3
+C. Schakeling 2
+D. Schakeling 4
+Uitwerking
+De meest onveilige aankoppeling is een galvanische koppeling waarbij de anodespanning
+direct op de antenne komt. Dat is schakeling 2, die daarmee als fout antwoord meteen de
+prullenbak in kan. We kunnen dan kiezen tussen een capacitieve en een inductieve
+koppeling. Een condensator kan doorslaan en daarna geleiden; een inductieve koppeling
+kan zo gemaakt worden dat hij praktisch helemaal veilig is. De enige schakeling die
+daaraan voldoet, is nummer 4. Antwoord D.
+
+Dit waren de beschikbare examenopgaven bij Hoofdstuk 17
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 17.4 uitgezonderd)
+
+17-48
+
+

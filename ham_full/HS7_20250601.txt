@@ -1,0 +1,1221 @@
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Inhoudsopgave
+7
+
+Halfgeleiding, halfgeleiderdioden en enkele toepassingen ............................................. 3
+7.1
+
+Wat leer je in dit hoofdstuk ...................................................................................... 3
+
+7.2
+
+Halfgeleidermateriaal ................................................................................................ 3
+
+7.2.1
+
+Inleiding ............................................................................................................. 3
+
+7.2.2
+
+Kristalstructuur ................................................................................................. 4
+
+7.2.3
+
+Verplaatsing van lading in de kristalstructuur ................................................ 5
+
+7.2.4
+
+P- en N-materiaal; PN-overgang ...................................................................... 6
+
+7.2.5
+
+De halfgeleiderdiode ......................................................................................... 9
+
+7.3
+
+Enkele eigenschappen en toepassingen van dioden. ............................................... 9
+
+7.3.1
+
+Inleiding ............................................................................................................. 9
+
+7.3.2
+
+Lekstroom en werktemperatuur ..................................................................... 10
+
+7.3.3
+
+Gelijkrichting en dissipatie ............................................................................. 10
+
+7.3.4
+
+Diodecapaciteit ................................................................................................ 11
+
+7.3.5
+
+Zenerdioden .................................................................................................... 11
+
+7.3.6
+
+Licht emitterende dioden (LED’s) .................................................................. 11
+
+7.3.7
+
+Schemasymbolen ............................................................................................. 12
+
+7.4
+
+Gelijkrichting met dioden....................................................................................... 13
+
+7.4.1
+
+Van wisselstroom/-spanning naar gelijkstroom/-spanning .......................... 13
+
+7.4.2
+
+Enkelzijdige gelijkrichting .............................................................................. 14
+
+7.4.3
+
+Tweezijdige (dubbelzijdige, dubbelfasige) gelijkrichting ............................. 16
+
+7.4.4
+
+Afvlakfilters ..................................................................................................... 18
+
+7.5
+
+Capaciteitsdioden .................................................................................................... 19
+
+7.6
+
+Zenerdioden ............................................................................................................ 21
+
+7.7
+
+Verschillende soorten dioden op een plaatje ......................................................... 25
+
+7.8
+
+Opgaven ................................................................................................................... 27
+
+7.8.1
+
+Opgave 7-1 ....................................................................................................... 27
+
+7.8.2
+
+Opgave 7-2 ....................................................................................................... 28
+
+7.8.3
+
+Opgave 7-3 ....................................................................................................... 29
+
+7.8.4
+
+Opgave 7-4 ....................................................................................................... 30
+
+7.8.5
+
+Opgave 7-5 ....................................................................................................... 31
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+1
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.6
+
+Opgave 7-6 ....................................................................................................... 32
+
+7.8.7
+
+Opgave 7-7 ....................................................................................................... 33
+
+7.9
+
+Uitwerkingen van de opgaven ................................................................................ 34
+
+7.9.1
+
+Uitwerking van Opgave 7-1 ........................................................................... 34
+
+7.9.2
+
+Uitwerking van Opgave 7-2 ........................................................................... 35
+
+7.9.3
+
+Uitwerking van Opgave 7-3 ........................................................................... 36
+
+7.9.4
+
+Uitwerking van Opgave 7-4 ........................................................................... 37
+
+7.9.5
+
+Uitwerking van Opgave 7-5 ........................................................................... 38
+
+7.9.6
+
+Uitwerking van Opgave 7-6 ........................................................................... 39
+
+7.9.7
+
+Uitwerking van Opgave 7-7 ........................................................................... 40
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+2
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7 Halfgeleiding, halfgeleiderdioden en enkele toepassingen
+7.1 Wat leer je in dit hoofdstuk
+We gaan terug naar de bouw van atomen, waarmee we in Hoofdstuk 3 al kennis hebben
+gemaakt. Het gaat nu vooral om elementen die vier elektronen in hun buitenste schil
+hebben. Kristallen van zulke atomen geleiden niet, maar als je ze iets verontreinigt met
+bepaalde elementen, blijken ze bijzondere geleidingseigenschappen te krijgen. Die kun je
+samenvatten onder de term halfgeleiding. Daarvan wordt in de elektronica op listige wijze
+gebruik gemaakt bij dioden en transistoren.
+In dit hoofdstuk beperken we ons tot dioden. Daarmee hebben we in Hoofdstuk 4 al
+oppervlakkig kennis gemaakt. Daar zagen we dat ze stroom maar in één richting geleiden.
+We zullen in dit hoofdstuk zien dat dit grotendeels, maar niet altijd waar is. Dioden die in
+sperrichting toch geleiden en daarbij bijzondere eigenschappen hebben, behoren tot de
+vaste trukendoos van de elektronicus en de zelf bouwende zendamateur. Bij die
+trukendoos horen ook lichtgevende dioden en dioden die zich als variabele condensator
+kunnen gedragen. We beginnen aan de meer kleurrijke kanten van de elektronica.
+
+7.2 Halfgeleidermateriaal
+7.2.1 Inleiding
+In hoofdstuk 3 hebben we kennis gemaakt met geleiders en isolatoren. Geleiders hebben
+weinig elektronen in hun buitenste elektronenschil. Die elektronen kunnen van atoom
+naar atoom naar atoom springen. Dat is geleiding, zagen we in Hoofdstuk 3. De buitenste
+elektronenschil is bij geleiders dus eigenlijk een los-vast geval. Elementen met meer
+elektronen in de buitenste schil en moleculaire stoffen waarin de samenstellende
+elementen samen een stabiele gemeenschappelijke buitenste elektronenschil maken, zijn
+isolatoren.
+Enkele elementen hebben met vier elektronen in hun buitenste schil een tussenpositie. Ze
+vormen kristallen waarin de atomen verbonden zijn doordat ze de elektronen van hun
+buitenste schil delen en zo een gezamenlijke stabiele buitenste schil van 8 elektronen
+vormen. Het gaat in volgorde van toenemende atoomgrootte om koolstof, symbool C,
+silicium met symbool Si en germanium met symbool Ge.
+Koolstof bestaat in twee vormen: grafiet en diamant. Grafiet wordt onder meer gebruikt in
+potloodstiften en koolborstels in elektromotoren. Het is een zacht mineraal en een vrij
+goede geleider. Diamant is het hardste mineraal dat we kennen en een isolator. Ook
+zuiver silicium is een isolator. Zuiver germanium ook, al isoleert het minder goed dan
+silicium.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+3
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.2.2 Kristalstructuur
+Figuur 7.2-1 toont een Si-atoom in twee dimensies. Een Si-kristal bestaat uit Si-atomen
+die met hun buren een gezamenlijke buitenste elektronenschil maken, waarin in totaal 8
+elektronen zitten (Figuur 7.2-2). Diamant en Ge hebben eenzelfde opbouw. Grafiet, dat
+wel geleidt, zit net iets anders in elkaar.
+
+Figuur 7.2-1. Tweedimensionale afbeelding van een atoom van silicium (Si)
+
+Figuur 7.2-2. Kristalrooster van silicium, tweedimensionaal afgebeeld. Gedeelde elektronenparen van twee
+atomen zijn groen omrand. Het middelste atoom heeft met de buren een complete elektronenschil van 8.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+4
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Voor de liefhebbers, géén examenstof!
+In een siliciumkristal zijn de atomen in werkelijkheid gerangschikt in tetraëders. Een
+tetraëder is een driedimensionale figuur, opgebouwd uit vier driehoekige zijvlakken.
+De goed-Nederlandse term is dan ook viervlak. Een regelmatig viervlak is opgebouwd
+uit vier gelijkzijdige driehoeken (Figuur 7.2-3 links).
+
+Figuur 7.2-3. Regelmatig viervlak (links) en de manier waarop siliciumatomen in een viervlakstructuur
+zijn gerangschikt (rechts).
+
+Eén atoom dat we hier het centrale atoom noemen (geen officiële term), zit in het
+zwaartepunt van het viervlak, de andere vier op de hoekpunten. De verbindingslijnen
+tussen het centrale atoom en de andere vier hebben onderlinge hoeken van 109,5º.
+Elk atoom op een hoekpunt is op zijn beurt het centrale atoom in een ander viervlak.
+En zo gaat dat in een 100% zuiver kristal door tot in alle uithoeken.
+Door hun vier buitenste elektronen te delen, bootsen siliciumatomen in een kristalrooster
+als het ware een stabiele buitenste schil van 8 elektronen na. Hoewel een derde schil
+eigenlijk 18 elektronen zou moeten tellen, is 8 stuks een stabiele situatie. Een
+siliciumkristal kun je daarom als een heel groot molecuul beschouwen. Er is daarin voor
+elektronen eigenlijk geen aanleiding om van het ene naar het andere atoom te springen.
+7.2.3 Verplaatsing van lading in de kristalstructuur
+Hoe krijg je verplaatsing van lading, ofwel geleiding in een kristalstructuur die uit zichzelf
+niet geleidt? Onder invloed van een voldoende sterk elektrisch veld kunnen elektronen
+losraken en van atoom naar atoom springen. Dat noemt men halfgeleiding. In
+tegenstelling tot de weerstand in metalen die bij hogere temperaturen toeneemt (PTC, zie
+hoofdstuk 3), neemt de weerstand van halfgeleiders bij hogere temperatuur juist af (NTC,
+zie hoofdstuk 3).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+5
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Die halfgeleiding kunnen we bevorderen door het kristalrooster een beetje te verstoren.
+Dat kan door een stof met 5 of 3 elektronen in de buitenste schil op te nemen in het
+kristalrooster. Maak je van die doelbewust aangebrachte verontreiniging geen al te grote
+voorstelling. Denk aan een orde van grootte van 1 op 100 miljoen atomen. Dat verklaart
+meteen de witte allesomhullende pakken van mensen in een halfgeleiderfabriek:
+ongecontroleerde verontreiniging is absoluut uit den boze!
+Bij opname van een element met vijf elektronen in de buitenste schil is er per
+verontreinigend atoom 1 elektron dat niet in het systeem past. Zo’n ‘verweesd’ elektron
+blijkt zich vrij gemakkelijk door het kristalrooster te kunnen verplaatsen.
+Een tegengestelde verstoring bestaat uit het toevoegen van atomen met 3 elektronen in de
+buitenste schil. Dan heeft het rooster op een aantal plaatsen een elektron te weinig. Dat
+noemen we meestal een gat. Gaten blijken zich net zo gemakkelijk te kunnen verplaatsen
+als ‘verweesde’ elektronen.
+Voorbeelden van verontreinigende stoffen zijn borium (symbool B) met een buitenste
+schil van 3 elektronen) en fosfor (symbool P) met een buitenste schil van 5 elektronen
+(Figuur 7.2-4).
+
+Figuur 7.2-4. Boriumatoom (links) en fosforatoom (rechts) in 2-D.
+
+Omdat de verontreinigingen elektrisch neutraal zijn, blijft het halfgeleiderkristal na hun
+toevoeging ook elektrisch neutraal.
+7.2.4 P- en N-materiaal; PN-overgang
+Halfgeleidermateriaal met een dotering (een wat deftiger woord voor kunstmatige
+verontreiniging) van een element met 3 elektronen in de buitenste schil zoals B, dus met
+gaten, heet P-materiaal. Als het om Si gaat, wordt het meestal P-silicium genoemd.
+Materiaal met een dotering van een element met 5 elektronen in de buitenste schil heet
+N-materiaal en in het geval van Si, N-silicium.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+6
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Daar hebben we pas iets aan als een deel van een Si-kristal P-silicium is en een
+aangrenzend deel N-silicium. De grens is een zogenoemde PN-overgang of PN-junctie.
+Langs de junctie ontstaat een zone zonder ladingdragers, de uitputtingszone. De oorzaak is
+dat elektronen en gaten elkaar aantrekken. Op de PN-junctie komen ze elkaar tegen.
+Elektron en gat neutraliseren elkaar. Dat heet recombinatie. Als het N-materiaal zo
+elektronen kwijtraakt, wordt het positief geladen. Tegelijkertijd krijgt het P-materiaal op
+dezelfde manier elektronen extra en daarmee een negatieve lading. Daardoor stoot het Nmateriaal gaten af en het P-materiaal elektronen. Langs de junctie ontstaat zo een zone
+zonder vrije ladingsdragers, de uitputtingszone (Figuur 7.2-5).
+
+Figuur 7.2-5. Neutrale PN-overgang met uitputtingszone.
+
+De uitputtingszone blokkeert de stroomdoorgang, omdat daar geen ladingsdragers -de
+verzamelnaam voor gaten en elektronen- zijn. Sluiten we over de PN-overgang een
+spanningsbron aan met de + aan het N-deel en de – aan het P-deel, dan komen de
+ladingsdragers nog verder van de junctie te liggen (Figuur 7.2-6).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+7
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Figuur 7.2-6. PN-overgang met de N-kant aan de + en de P-kant aan de – van de spanningsbron. De
+uitputtingszone is daardoor breder dan in Figuur 7.2-5.
+
+Sluiten we de bron van Figuur 7.2-6 omgekeerd aan, dan trekken we de ladingsdragers
+naar de PN-overgang en er ontstaat een stroom (Figuur 7.2-7).
+
+Figuur 7.2-7. PN-overgang met de N-kant aan de – en de P-kant aan de +. Er ontstaat geleiding over de
+junctie. Gaten en elektronen recombineren op de overgang en vanuit de bron worden nieuwe elektronen
+aangevoerd naar het N-materiaal en afgevoerd uit het P-materiaal. Elektronen afvoeren is hetzelfde als
+gaten aanvoeren. Daarom staan de rode en de blauwe pijlen in tegengestelde richting.
+
+De bron stuurt elektronen het N-materiaal in. Die recombineren op de overgang met
+gaten van het P-materiaal. Uit het P-materiaal worden elektronen afgevoerd. Dat is
+hetzelfde als aanvoer van gaten. Er loopt op die manier een stroom elektronen door de
+PN-overgang. Die lopen van – naar +. De technische stroomrichting is ook in dit geval van
++ naar -.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+8
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.2.5 De halfgeleiderdiode
+Figuur 7.2-5 tot en met Figuur 7.2-7 tonen een ding met een PN-junctie dat stroom maar
+in één richting geleidt: de diode. Die richting heet meestal de voorwaartse richting. Het
+tegengestelde van de voorwaartse richting noemen we de sperrichting.
+Toen in Hoofdstuk 4 de diode in deze cursus zijn intrede deed als vonkblusdiode, zijn we
+niet op de werking ingegaan. Nu doen we dat wel. Diode betekent ‘tweeweg’ naar de twee
+delen waaruit hij bestaat en de bijbehorende twee aansluitingen. De P-aansluiting heet
+anode (dat betekent ‘weg omhoog’). De N-aansluiting heet kathode (‘weg omlaag’). De
+doorlaatrichting (technische stroomrichting) is van anode naar kathode. Daarvoor hebben
+we het ezelsbruggetje KNAP: Kathode Negatief, Anode Positief.
+Voordat een halfgeleiderdiode geleidt, moet er eerst een kleine spanning in de
+geleidingsrichting overheen staan. Die is nodig om de uitputtingszone teniet te doen. Bij
+siliciumdioden is dat ongeveer 0,6 tot 0,7 V; bij germanium (symbool Ge) ongeveer 0,2 V.
+Die spanning wordt drempelspanning genoemd. Spanning in de doorlaatrichting wordt
+ook wel voorwaartse spanning genoemd. De bijbehorende stroom heet voorwaartse
+stroom. Figuur 7.2-8 toont een doorlaatgrafiek voor een Ge- en een Si-diode.
+
+Figuur 7.2-8. Voorwaartse stroom tegen voorwaartse spanning voor de germaniumdiode AAZ13 en de
+siliciumdiode BAX13 (gegevens: Philips databoek).
+
+7.3 Enkele eigenschappen en toepassingen van dioden.
+7.3.1 Inleiding
+In deze paragraaf komt een aantal eigenschappen van dioden aan de orde. De
+eigenschappen die voor het examen van belang zijn, bespreken we hier kort. In volgende
+paragrafen gaan we er uitvoeriger op in. Enkele soorten dioden die voor het examen niet
+hoeven te worden gekend, noemen we in het kadertje aan het eind van deze paragraaf.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+9
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.3.2 Lekstroom en werktemperatuur
+We zagen dat een halfgeleiderdiode normaal gesproken maar in één richting stroom
+doorlaat. Een diode is daarmee vergelijkbaar met een ventiel. De geleiding in
+doorlaatrichting begint echter pas als de drempelspanning van ruwweg 0,2 V bij een Gediode en 0,6 V bij een Si-diode wordt overschreden. Als we de vergelijking met het
+ventiel doortrekken, dan is de drempelspanning te vergelijken met de extra druk die nodig
+is om een ventiel met ventielslangetje te openen als de band wordt opgepompt.
+Bij aansluiting in sperrichting blijft een klein lekstroompje vloeien. De grootte ervan
+hangt sterk af van de uitvoering van de diode, de aangelegde spanning en vooral van de
+temperatuur. Voor dioden die bedoeld zijn voor kleine stromen is de lekstroom in het
+algemeen kleiner dan bij dioden voor grote stromen. Voor Si-dioden is de lekstroom
+ruwweg 100x zo klein als voor vergelijkbare Ge-dioden. De lekstroom neemt sterk toe bij
+verhoging van de temperatuur.
+Als voorbeeld nemen we de Si-diode 1N4148 die voor kleine stromen is bedoeld. Bij een
+spanning van 20 V in sperrichting wordt door de fabrikant een lekstroom van 25 nA bij
+een diodetemperatuur van 25ºC opgegeven. Die loopt op tot 3 mA bij 100º en tot 50 mA
+bij 150 ºC. Die laatste temperatuur is ongeveer de temperatuur waarbij de bruikbaarheid
+van siliciumhalfgeleiders ophoudt. Voor Ge is dat al het geval bij ongeveer 80º.
+7.3.3 Gelijkrichting en dissipatie
+Afgezien van de lekstroom en bijzondere geleiding in sperrichting die later aan de orde
+komt, geleidt een diode maar in één richting. Een diode is daardoor in staat, van
+wisselstroom een vorm van gelijkstroom te maken. Dat noemen we gelijkrichting. Die
+komt in 7.4 aan de orde.
+Bij stroom in voorwaartse richting leidt de drempelspanning tot een klein
+spanningsverlies. Bovendien zit er altijd een beetje weerstand in een diode. In dioden voor
+kleine stromen, zoals de dioden waarvan de stroom-spanningskarakteristieken zijn
+weergegeven in Figuur 7.2-8, is het weerstanddeel groter dan bijvoorbeeld in
+gelijkrichtdioden voor grote stromen. Als we de spanning over de diode UD noemen en de
+voorwaartse stroom IF (F van Forward), dan geldt voor de dissipatie P in alle gevallen
+𝑃 = 𝐼𝐹 𝑈D
+
+( 7.3-1)
+
+Als we de weerstand verwaarlozen, dan is UD is bij benadering de drempelspanning. Dan
+geldt voor een Si-diode
+𝑃 ≈ 𝐼𝐹 . 0,6V
+
+( 7.3-2)
+
+𝑃 ≈ 𝐼𝐹 . 0,2V
+
+( 7.3-3)
+
+En voor een Ge-diode
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+10
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.3.4 Diodecapaciteit
+De uitputtingszone van een PN-overgang geleidt niet. Dat wisten we al. Ze kan daardoor
+een diëlektricum zijn. Een diode die in sperrichting is aangesloten, kun je dus zien als een
+(kleine) condensator. In hoofdstuk 4 zagen we dat de capaciteit van een gewone
+condensator onder meer afhangt van de plaatafstand. In een gesperde diode is de
+‘plaatafstand’ de dikte van de uitputtingszone. Die wordt bepaald door de spanning tussen
+anode en kathode, zoals we in 7.2 zagen. De diode is daarmee een condensator geworden,
+waarvan we de capaciteit met een spanning kunnen sturen. Dergelijke dioden staan
+bekend onder de naam capaciteitsdiode of varicap, een samentrekking van de woorden
+variabel en capaciteit. Over de toepassing hebben we het verderop in dit hoofdstuk.
+7.3.5 Zenerdioden
+Als de spanning over een diode in sperrichting groot genoeg wordt, zal er toch een stroom
+gaan lopen. De oorzaak is het sterker geworden elektrisch veld in de uitputtingslaag.
+Verschillende processen kunnen ertoe leiden dat dan elektronen losraken van hun atoom
+en ‘op stap’ gaan. Zonder maatregelen betekent dat het einde van de diode. Als we zorgen
+dat de stroom niet te groot wordt, blijft de diode heel en blijft de spanning waarbij de
+stroom op gang kwam, over de diode staan. Daarvoor geschikte dioden heten meestal
+Zenerdioden. Ze worden gebruikt om vaste spanningen te maken. We wijden er verderop
+in dit hoofdstuk een afzonderlijke paragraaf aan. Figuur 7.3-1 toont een licht
+geschematiseerde grafiek van het gedrag van een zenerdiode.
+
+Figuur 7.3-1. Doorlaatkarakteristiek van een zenerdiode met diodespanning UD en diodestroom ID,
+drempelspanning Udrempel en zenerspanning UZ. Op de horizontale as is UD in doorlaatrichting rechts van het
+snijpunt met de verticale as, links daarvan in sperrichting
+
+7.3.6 Licht emitterende dioden (LED’s)
+LED’s zijn alom bekend. Het zijn bijzondere dioden. Ze bestaan niet uit germanium of
+silicium, maar meestal uit kristallen met gallium, arseen en andere elementen. Bij hun
+PN-overgang ontstaat bij recombinatie van een elektron en een gat een foton
+(lichtdeeltje). Afhankelijk van de lichtkleur is de drempelspanning ongeveer 1,7 V (rood)
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+11
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+tot 2,8 à 4,6 V (verschillende soorten LED’s die blauw licht uitstralen). Wanneer ze als
+signaallampje worden gebruikt, moet er vrijwel altijd een weerstand mee in serie worden
+geschakeld om de stroom binnen de perken te houden. LED’s worden ook veel gebruikt in
+displays. Meer informatie vind je bijvoorbeeld op https://nl.wikipedia.org/wiki/Led.
+Voor de liefhebbers. Géén examenstof!
+Behalve gelijkrichtdioden, varicaps en zenerdioden en LED’s kennen we onder meer
+-
+
+-
+
+-
+
+Tunneldioden; een type diode waarbij over een bepaald traject de stroom bij
+toenemende spanning afneemt; toepassing bij zeer hoge frequenties; zelden door
+amateurs. Zie bijvoorbeeld https://nl.wikipedia.org/wiki/Tunneldiode.
+Gunn-dioden, net als de tunneldiode bekend uit microgolftoepassingen maar
+anders van opbouw. Zie bijvoorbeeld https://nl.wikipedia.org/wiki/Gunn-diode.
+PIN-dioden; kunnen dienen als schakelaar tussen zenden en ontvangen, maar ook
+als sterkteregelaar van HF-signalen (vergelijkbaar met een potmeter in LFsignalen). Zie bijvoorbeeld https://en.wikipedia.org/wiki/PIN_diode.
+Fotodioden; reageren op licht dat op de PN-junctie valt. Zie bijvoorbeeld
+https://nl.wikipedia.org/wiki/Fotodiode.
+
+7.3.7 Schemasymbolen
+Figuur 7.3-2 toont genormaliseerde (gestandaardiseerde) schemasymbolen plus een aantal
+niet genormaliseerde maar wel vrij algemeen gebruikte symbolen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+12
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Gelijkrichtdiode
+
+Capaciteitsdiode
+(varicap)
+
+Zenerdiode
+
+LED
+
+Figuur 7.3-2. Genormaliseerde en andere schemasymbolen voor verschillende dioden. Genormaliseerde
+symbolen staan links, binnen de rode streeplijn. De andere op dezelfde rij zijn veel gebruikte symbolen voor
+dezelfde soort diode. De doorlaatrichting is steeds van onder naar boven: anode onder, kathode boven.
+
+7.4 Gelijkrichting met dioden
+7.4.1 Van wisselstroom/-spanning naar gelijkstroom/-spanning
+Doordat een diode maar in één richting stroom doorlaat, kunnen dioden worden gebruikt
+om van wisselstroom gelijkstroom te maken. Dat proces heet gelijkrichting. Ons lichtnet
+levert wisselspanning (230 V, 50 Hz). Vrijwel alle elektronische apparatuur, inclusief
+zenders en ontvangers werkt op gelijkstroom. Als we het lichtnet als energiebron willen
+gebruiken, is gelijkrichting onmisbaar. Daarvan moet een zendamateur dan ook iets
+weten. We gaan voor het gemak uit van ideale dioden met een drempelspanning van 0V
+en 0  weerstand in voorwaartse richting. In werkelijkheid bestaan die niet, maar om te
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+13
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+begrijpen wat er gebeurt, zijn drempelspanning en weerstand niet nodig. We beginnen
+met een sinusvormige wisselspanning (Figuur 7.4-1).
+
+Figuur 7.4-1. Sinusvormige wisselspanning; positieve halve perioden rood, negatieve halve perioden blauw.
+
+7.4.2 Enkelzijdige gelijkrichting
+De wisselspanning kan van een transformator worden afgenomen, waarna een diode
+steeds één halve periode doorlaat en de andere tegenhoudt. Dat is de simpelste
+gelijkrichtschakeling (Figuur 7.4-2).
+
+Figuur 7.4-2. Enkelzijdige gelijkrichting met één enkele diode. De weerstand staat symbool voor de
+schakeling die door de gelijkgerichte spanning wordt gevoed.
+
+Deze vorm van gelijkrichting noemen we enkelzijdig of enkelfasig, omdat steeds maar één
+helft van een periode wordt doorgelaten. Het resultaat van dit soort gelijkrichting zien we
+in Figuur 7.4-3.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+14
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Figuur 7.4-3. Spanning over de weerstand na enkelzijdige gelijkrichting. Links de schakeling van Figuur
+7.4-2, rechts het resultaat. Ook hier staat de weerstand symbool voor de schakeling die door de
+gelijkgerichte spanning wordt gevoed.
+
+Als de diode in de schakeling van Figuur 7.4-2 wordt omgekeerd, dan worden de
+negatieve halve perioden doorgelaten en krijgen we het beeld van Figuur 7.4-3 op zijn kop
+en 180º= opgeschoven (Figuur 7.4-4).
+
+Figuur 7.4-4. Spanning over de weerstand na enkelzijdige gelijkrichting met de diode omgekeerd ten
+opzichte van Figuur 7.4-3.
+
+We zien in Figuur 7.4-3 en Figuur 7.4-4 een onzuivere wisselspanning met een
+gelijkspanningsdeel dat precies groot genoeg is om de spanning in Figuur 7.4-3 niet
+negatief en in Figuur 7.4-4 niet positief te laten worden. In beginsel maakt het niet uit,
+welke van de twee wordt gebruikt. In de praktijk is het bijna altijd de positieve halve
+periode.
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+15
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Zouden we de spanning in deze vorm gebruiken om een zender of ontvanger van
+gelijkstroom te voorzien, dan zou de 50 Hz van het lichtnet bij de ontvanger als een zware
+bromtoon uit de luidspreker komen. Bij een zender zou die bromtoon mee worden
+uitgezonden. Dat is natuurlijk niet de bedoeling. Toevoeging van een condensator (Figuur
+7.4-5) geeft verbetering, maar is bijna nooit afdoende. Het verloop van de spanning doet al
+wat meer aan een gelijkspanning denken. Dat komt doordat de condensator in de tijd
+tussen de gelijkgerichte halve perioden als ladingreservoir fungeert.
+
+Figuur 7.4-5. Spanning over de weerstand na enkelzijdige gelijkrichting en afvlakking door een condensator.
+Links de schakeling, rechts het resultaat. Getrokken lijn: het spanningsverloop in deze schakeling.
+Gestippeld: het spanningsverloop zonder condensator, zoals afgebeeld in Figuur 7.4-3.
+
+Hoe groter de condensator, des te vlakker wordt het verloop van de gelijkspanning. Hoe
+groter het stroomverbruik van de aangesloten schakeling, des te minder effectief wordt de
+afvlakking. Hier gebeurt hetzelfde als bij de ontlading van een condensator via een
+weerstand. Dat proces kennen we van hoofdstuk 4. Heel effectief is deze oplossing niet,
+tenzij we te maken hebben met heel kleine stromen (of een erg grote condensator). In de
+volgende twee sub-paragrafen en behandelen we effectievere manieren om zo goed
+mogelijk van de rimpel in de gelijkgerichte spanning af te komen.
+7.4.3 Tweezijdige (dubbelzijdige, dubbelfasige) gelijkrichting
+De schakeling van Figuur 7.4-5 zal zelden voldoen doordat er een flinke rimpel van 50 Hz
+op de gelijkspanning blijft staan. Een eerste stap in de goede richting is het betrekken van
+de tweede periodehelft bij de gelijkrichting. Dat kan onder meer met een zogenoemde
+bruggelijkrichter. Die bevat vier dioden in plaats van één (Figuur 7.4-6).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+16
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Figuur 7.4-6. Tweezijdige gelijkrichting vanuit een enkele secundaire wikkeling door middel van een
+bruggelijkrichter die bestaat uit de dioden D1 tot en met D4. De pijlen geven de technische stroomrichting;
+de rode voor de ene periodehelft, de groene voor de andere.
+
+In de positieve halve periode volgt de stroom de rode pijlen. De stroom passeert D2 naar de
+te voeden schakeling en komt terug via D3. D1 en D4 sperren.
+In de negatieve halve periode volgt de stroom de groene pijlen. De stroom passeert nu D4
+en komt terug via D1. Nu sperren D2 en D3. Het resultaat zien we in Figuur 7.4-7
+
+Figuur 7.4-7. Tweezijdig gelijkgerichte sinusvormige wisselspanning met afvlakking door middel van een
+condensator (getrokken curve). De gestippelde curve geeft de vorm van de gelijkgerichte spanning zonder
+afvlakking. Het rode deel komt van de positieve halve perioden, het blauwe deel van de negatieve. De
+grafiek start met de allereerste periode. Daarom begint de getrokken lijn bij U/U max=0.
+
+Een tweede manier van tweezijdige gelijkrichting met maar twee in plaats van vier dioden
+en een trafo met een secundaire die een middenaftakking heeft, zien we in Figuur 7.4-8.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+17
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Figuur 7.4-8 Tweezijdige gelijkrichting met twee dioden. De secundaire van de trafo heeft een
+middenaftakking die aan de 0 V ligt. De uiteinden zijn om beurten positief (en negatief).
+
+Als de bovenste aansluiting van de secundaire positief is ten opzichte van de
+middenaftakking, is de onderste aansluiting negatief. Is de bovenste aansluiting negatief,
+dan is de onderste positief. Zo voert òf D1 òf D2 stroom en spert de andere diode. Aan hun
+kathodekant zijn ze verbonden, zodat in deze schakeling (met condensator) dezelfde
+spanningsvorm ontstaat als de schakeling van Figuur 7.4-6 levert, dus ook die van Figuur
+7.4-7.
+7.4.4 Afvlakfilters
+We hebben in Figuur 7.4-5 en Figuur 7.4-7 gezien dat een enkele condensator
+onvoldoende is om van een gelijkgerichte spanning een nette vlakke gelijkspanning te
+maken als er tegelijkertijd een stroom aan de gelijkrichtschakeling wordt onttrokken.
+Zolang de condensator tussen twee halve perioden niet vanuit het gelijkrichtsysteem
+wordt bijgeladen, daalt de spanning als gevolg van het stroomverbruik van de gevoede
+schakeling. Dat leidt tot een ‘hobbelige’ gelijkspanning, zoals in beide figuren is
+weergegeven.
+Afvlakfilters bestaan meestal uit twee condensatoren en smoorspoel, zoals in Figuur 7.4-9.
+Voor gelijkgerichte netspanning met de lage frequentie van 50 Hz worden elektrolytische
+condensatoren (elco’s) gebruikt. Daarmee kan een hoge capaciteit worden gerealiseerd,
+maar door hun traagheid zijn ze ongeschikt voor HF-toepassingen. De smoorspoel heeft
+een ijzerkern voor een hoge zelfinductie. Voor dit soort kernen geldt hetzelfde als voor
+elco’s: alleen geschikt voor laagfrequente toepassingen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+18
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Figuur 7.4-9. Afvlakfilter van twee elektrolytische condensatoren (elco’s) en een smoorspoel.
+
+De linker condensator in Figuur 7.4-9 doet hetzelfde als de condensatoren die in Figuur
+7.4-5, Figuur 7.4-7 en Figuur 7.4-6 zijn getekend.
+De smoorspoel werkt veranderingen in de stroom tegen. De rechter condensator in Figuur
+7.4-9 krijgt dan een min of meer constante aanvoer van stroom en werkt de laatste
+spanningsrimpels grotendeels weg.
+Dit is de klassieke afvlakschakeling zoals die vooral in veel oudere elektronica te vinden
+is. Tegenwoordig hebben we daar in de vorm van elektronische spanningsstabilisatoren
+ook andere en nog betere middelen voor. Een voorproefje daarvan krijgen we bij de
+zenerdioden in paragraaf 7.6.
+
+7.5 Capaciteitsdioden
+Zoals we inmiddels weten, heten capaciteitsdioden ook wel varicaps. Ze worden meestal
+gebruikt voor het veranderen van de resonantiefrequentie (verstemmen) van LC-kringen
+(zie Hoofdstuk 5). Ze worden in sperrichting aangesloten, anders is er geen diëlektricum
+en dus ook geen capaciteit van betekenis. Figuur 7.5-1 toont een parallelle LC-kring met
+capaciteitsdiode en een spanningsregelaar in de vorm van een potentiometer.
+
+Figuur 7.5-1. LC-parallelkring met potentiometer en capaciteitsdiode.
+
+De regelspanning voor de diode (D1) komt vanuit het systeem R1 tot en met R3. R2 is de
+potentiometer waarmee de spanning kan worden veranderd. R3 zorgt ervoor dat de
+regelspanning niet 0 kan worden en R1 voorkomt een directe verbinding met de positieve
+spanning U. Dit laatste is belangrijk, omdat een directe verbinding met U laagohmig is en
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+19
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+daardoor de Q van de kring bederft. R1 zal daarom een vrij hoge waarde hebben,
+bijvoorbeeld 100 k. De condensator C voorkomt dat de regelspanning via de spoel L
+wegvloeit. De capaciteit C is meestal flink hoger dan de hoogste capaciteit van diode D1,
+zodat het regelbereik zo hoog mogelijk is. Als een beperkt regelbereik van D1 juist de
+bedoeling is, kan dat ofwel door C klein te nemen, ofwel door R2 veel kleiner dan R3 te
+kiezen ofwel door tussen potentiometer R2 en de spanning U nog een weerstand op te
+nemen.
+Let op! In het stukje tekst hierboven zijn symbolen voor onderdelen rechtop geschreven
+en het symbool voor de waarde cursief. Een onderdeel is een ding (rechtop), de waarde
+een grootheid (cursief).
+Verwacht van capaciteitsdioden geen heel grote capaciteiten. Vaak zitten ze met hun
+maximum ergens in de buurt van 50 pF; sommige typen komen wat hoger, andere lager.
+Figuur 7.5-2 geeft een voorbeeld van het verband tussen diodecapaciteit en de spanning in
+sperrichting over de diode voor de diode BB106.
+
+Figuur 7.5-2. Spannings-capaciteitskarakteristieken van de capaciteitsdiode BB106 voor een frequentie f van
+500 kHz bij een junctietemperatuur Tj van 25ºC. De drie curven geven de variatie in waarde weer: er is voor
+elke spanning een maximale, minimale en “typische”, zeg maar gemiddelde waarde. De ‘R’ in UR is van
+‘reverse’ (tegengesteld): spanning tegen de doorlaatrichting in ofwel in sperrichting. Data: Philips handboek.
+
+Figuur 7.5-2 laat zien dat er een flinke marge ligt tussen de uiterste waarden van deze
+capaciteitsdiode. Bij andere typen is dat ook zo. Vervanging van een afstemdiode kan dus
+opnieuw afregelen van een schakeling betekenen, maar meestal ligt de waarde van een
+vervangende diode ruim binnen de aangegeven grenswaarden.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+20
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.6 Zenerdioden
+Zenerdioden worden in sperrichting aangesloten. Niet om te sperren, maar juist om op
+een gecontroleerde manier stroom door te laten. De spanning die nodig is om de diode in
+sperrichting in geleiding te brengen, blijft daarbij over de diode staan. De gecontroleerde
+stroom kan heel simpel bestaan uit een weerstand in serie met de diode. Het kan ook -iets
+ingewikkelder- met een stroombron in plaats van een weerstand. Stroombronnen zijn met
+transistoren redelijk goed te benaderen. Transistoren en hun werking komen in het
+volgende hoofdstuk aan de orde. Figuur 7.6-1 toont van beide schakelingen een voorbeeld.
+
+Figuur 7.6-1. Schakelingen om een Zenerspanning te krijgen zonder de Zenerdiode aan een te grote stroom
+bloot te stellen. In schakeling a wordt daarvoor een spanningsbron met serieweerstand gebruikt, in
+schakeling b een stroombron in plaats van een spanningsbron
+
+Hoe zit het nu met de spanningen en de stromen in Figuur 7.6-1? Voor beide schakelingen
+geldt de tweede wet van Kirchhoff: de som van de spanningen is 0. Als we in schakeling a
+de spanning van de bron Ubron noemen, dan geldt dus:
+𝑈bron + 𝑈R + 𝑈Z = 0
+
+( 7.6-1)
+
+𝑈bron = −(𝑈R + 𝑈Z )
+
+( 7.6-2)
+
+En dus ook
+
+Meestal maken we ons niet druk over het minteken, omdat het betrekking heeft op de
+richting van de spanningen. De stroom I door de schakeling is dan te berekenen volgens
+𝐼=
+
+𝑈R 𝑈bron − 𝑈Z
+=
+𝑅
+𝑅
+
+( 7.6-3)
+
+Stel, de bronspanning is 10 V en de zenerspanning 6,8 V, dan blijft er voor UR 3,2 V over.
+Als bijvoorbeeld R=1 k, dan is I=3,2 mA.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+21
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+We kunnen dan ook het in de diode gedissipeerde vermogen Pdiode berekenen als UZ.I=
+6,8V.3,2 mA20 mW. Bedenk dat V.mA een waarde in mW en niet in W oplevert! Dat
+vermogen kan praktisch elke zenerdiode onder normale omstandigheden aan.
+We hebben het nog niet gehad over schakeling b. Die is eenvoudiger als het op berekenen
+aankomt. De spanning over de stroombron past zich aan de schakeling aan en is gelijk aan
+UZ. De stroom mag niet zo groot zijn dat de zenerdiode sneuvelt. Die informatie vind je in
+databoeken of op Internet. Gewoon het type googelen (zie ook paragraaf 7.7).
+Zenerdioden worden gebruikt als leverancier van referentiespanningen, bijvoorbeeld in
+gestabiliseerde voedingen. Ze kunnen ook worden gebruikt om een spanning met de de
+Zenerspanning te verlagen. Ze worden dan in serie met de voedingsleiding opgenomen. Er
+gebeurt hetzelfde als in Figuur 7.6-1, schakeling a. Of de zenerdiode vóór of na de
+weerstand wordt opgenomen, maakt voor de spanning over de weerstand niets uit (2e wet
+van Kirchhoff!). De spanning over de weerstand is steeds de bronspanning min UZ.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+22
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Voor de liefhebbers. Géén examenstof!
+Zener- en lawine-effect
+Wat gebeurt er nu precies in een zenerdiode? We zagen hiervoor dat bij een
+halfgeleiderdiode de dikte van de uitputtingszone met toenemende spanning in de
+sperrichting groter wordt. Er gebeurt nog iets: in de uitputtingszone wordt het
+elektrisch veld sterker naarmate de spanning toeneemt.
+In relatief sterk verontreinigd halfgeleidermateriaal zal de sterkte van het elektrisch
+veld bij een zekere spanning voldoende zijn om elektronen los te trekken uit hun
+atoomverband Dit effect heet het Zener-effect naar de Amerikaanse natuurkundige
+Clarence Zener die het in 1934 voor het eerst beschreef. Het Zener-effect speelt vooral
+een rol bij lage zenerspanningen.
+In minder sterk verontreinigd materiaal gebeurt er wat anders. De weinige elektronen
+die de grenslaag passeren -en die zijn er altijd wel- zullen er dan bij toenemende
+spanning met steeds hogere snelheid doorheen schieten. Bij een bepaalde spanning
+wordt die snelheid zo groot dat een elektron bij botsing met atomen in het
+kristalrooster elektronen uit hun buitenste schil losstoot. Dan zijn er twee elektronen
+die weer nieuwe elektronen losmaken, en zo verder. Zo ontstaat een lawine-effect,
+vergelijkbaar met een sneeuwlawine op een berghelling. In het Engels heet dit
+verschijnsel avalanche breakdown. Avalanche betekent lawine; het woord breakdown
+spreekt voor zich. Als gevolg van dit lawine- of avalanche-effect wordt de diode
+plotseling geleidend.
+In zenerdioden voor lage spanningen overheerst het eigenlijke Zener-effect. In dioden
+voor hogere spanningen die we ook Zenerdioden noemen, overheerst het lawineeffect. De overgang van Zener- naar lawine-effect ligt rond 5 V. Gemakshalve spreken
+we bij alle spanningen over Zenerdioden. De hoofdletter Z (immers: genoemd naar
+een persoon) wordt niet consequent gebruikt; je komt in elektronica-teksten zowel
+Zenerdioden met hoofdletter als zenerdioden met kleine letter tegen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+23
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Voor de liefhebbers. Géén examenstof! (vervolg)
+Het temperatuureffect bij zener- en avalanche-dioden is tegengesteld. Zolang het zenereffect overheerst, is de temperatuurcoëfficiënt negatief, dat wil zeggen dat de
+zenerspanning bij toenemende junctietemperatuur afneemt. Bij het avalanche -effect is
+de temperatuurcoëfficiënt positief: hoe warmer de diode, des te hoger de breakdownspanning (Figuur 7.6-2).
+
+Figuur 7.6-2. Temperatuureffect bij zenerdioden van het type BZY88. De temperatuurcoëfficiënt SZ staat
+in mV per graad C op de verticale as. Op de horizontale as de stroom IZ. Aanduidingen als C9V1 rechts
+van de curven geven de zenerspanning aan. C9V1 betekent bv. 9,1V. (Grafiek: databoek Philips).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+24
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Voor de liefhebbers. Géén examenstof! (vervolg)
+De overgang van sperren naar geleiden is bij het avalanche-effect abrupt, bij het zenereffect meer geleidelijk. Dat zien we in Figuur 7.2-3.
+
+Figuur 7.6-3. Doorlaatcurven van zenerdioden van de reeks BZY88. Bij zenerdioden voor de lagere
+spanningen is de overgang vloeiend (zenereffect), bij de hogere waarden meer abrupt (avalanche-effect).
+De grafieken worden aan de onderkant begrensd door de maximaal toegestane dissipatie van 400 mW,
+(Grafiek: databoek Philips).
+
+7.7 Verschillende soorten dioden op een plaatje
+Foto 7.7-1 toont een aantal verschillende dioden en brugschakelingen. Wat vooral opvalt,
+is dat bij de meeste dioden niet zomaar uit de vorm is op te maken met wat voor diode je
+te maken hebt. Veel types, zeker die voor kleine spanningen en stromen zijn zo klein, dat
+je óf heel scherpe ogen óf een loep nodig hebt om het typenummer te lezen. Een
+uitzondering is de oude OA7, nummer 1 linksboven in het plaatje, maar die dateert nog
+uit de jaren ’50 van de vorige eeuw, toen miniaturisering nog geen grote rol speelde. De
+twee brugschakelingen op het plaatje kenmerken zich natuurlijk door vier in plaats van
+twee aansluitingen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+25
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+Foto 7.7-1. Verschillende soorten dioden. 1. Germaniumdiode OA7 uit de jaren 1950-60. 2.
+Germaniumdiode 1N60 voor vrij hoge frequenties. 3. Germaniumdiode AA119. 4. Si-dioden 1N4148 van
+twee verschillende fabrikanten, De kleur zegt duidelijk niet alles. 5. Capaciteitsdiode BB106. 6. Zenerdiode
+BZV58. 7. LEDs van verschillende kleur en grootte. Het langste pootje is de anode. 8. Si-gelijkrichtdiode
+BY527. 9. Si-gelijkrichtdiode 1N5402. 10. Brugschakeling voor maximaal 40 V en 1,5 A; geen typeaanduiding. De wisselstroomaansluitingen zitten links en rechts en zijn aangegeven met een golfje. 11.
+Brugschakeling PD10 voor wat groter vermogen. Wisselstroomaaansluitingen: de middelste twee, aangeduid
+met AC (alternating current).
+De lucifer is opgenomen om een idee te krijgen van de afmetingen.
+
+Wie meer wil weten over de dioden op de foto, vindt ze gemakkelijk op Internet. Bij de
+brugschakeling PD10 (nr. 11 in de figuur) is het handig om aan de zoekterm het woord
+rectifier (gelijkrichter) toe te voegen. Er zijn op Internet nogal veel dingen die PD10
+heten. De typenummers die met 1N beginnen, zijn Amerikaans. Europese typen beginnen
+vrijwel altijd met een letter (meestal A voor Ge en B voor Si).
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+26
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8 Opgaven
+7.8.1 Opgave 7-1
+
+De dissipatie in de weerstand bedraagt
+A. 1W
+B. 2 W
+C. 3 W
+D. 4 W
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+27
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.2 Opgave 7-2
+
+De belastingsstroom Ib varieert van 100 tot 300 mA
+De stroom door de zenerdiode varieert tussen
+A. 200 en 400 mA
+B. 500 en 700 mA
+C. 100 en 300 mA
+D. Is steeds 800 mA
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+28
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.3 Opgave 7-3
+
+De belastingsstroom Ib varieert van 100 tot 300 mA. Het hoogst gedissipeerde vermogen in
+de zenerdiode bedraagt
+A. 1 W
+B. 3 W
+C. 4 W
+D. 8 W
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+29
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.4 Opgave 7-4
+
+De spanning Uuit bedraagt bij onbelaste schakeling ongeveer
+A. 200 V
+B. 390 V
+C. 280 V
+D. 600 V
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+30
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.5 Opgave 7-5
+
+De minimaal benodigde sperspanning van de diode in de schakeling bedraagt
+A. 200 V
+B. 300 V
+C. 400 V
+D. 600 V
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+31
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.6 Opgave 7-6
+
+A
+
+B
+
+C
+
+D
+
+Welke schakeling is te gebruiken voor tweezijdige gelijkrichting?
+A. Schakeling A
+B. Schakeling B
+C. Schakeling C
+D. Schakeling D
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+32
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.8.7 Opgave 7-7
+Een werkende capaciteitsdiode (varicap)
+A. Staat geschakeld in sperrichting en de capaciteit wordt kleiner met toenemende
+spanning
+B. Staat geschakeld in sperrichting en de capaciteit wordt groter met toenemende
+spanning
+C. Staat geschakeld in doorlaatrichting en de capaciteit wordt kleiner met
+toenemende spanning
+D. Staat geschakeld in doorlaatrichting en de capaciteit wordt groter met toenemende
+spanning
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+33
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9 Uitwerkingen van de opgaven
+7.9.1 Uitwerking van Opgave 7-1
+
+De dissipatie in de weerstand bedraagt
+A. 1W
+B. 2 W
+C. 3 W
+D. 4 W
+Uitwerking
+Voor de dissipatie in de weerstand van 25 ohm moeten we de spanning over de weerstand
+kennen. Die volgt uit de bronspanning en de zenerspanning. De bron geeft 10 V; over de
+zenerdiode staat 5 V. Dan blijft er 10 V – 5 V = 5 V over voor de spanning U over de
+weerstand R van 25 ohm. De dissipatie in de weerstand is gelijk aan het opgenomen
+2
+2
+vermogen P. Voor P geldt: 𝑃 = 𝑈 ⁄𝑅 = 5 ⁄25 W = 1W.
+Antwoord A dus.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+34
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9.2 Uitwerking van Opgave 7-2
+
+De belastingsstroom Ib varieert van 100 tot 300 mA
+De stroom door de zenerdiode varieert tussen
+A. 200 en 400 mA
+B. 500 en 700 mA
+C. 100 en 300 mA
+D. Is steeds 800 mA
+Uitwerking
+We beginnen met de stroom door de weerstand. Daarvoor hebben we de spanning over de
+weerstand nodig. Die is gelijk aan de bronspanning van 20 V min 10 V over de zener, is 10
+V. De stroom door de weerstand 𝐼 = 𝑈⁄𝑅 = 10⁄25 A = 400 mA. Als de belastingsstroom
+varieert van 100 tot 300 mA, blijft er bij 100 mA een stroom van 300 mA voor de
+zenerdiode over en bij een belastingsstroom van 300 mA resteert 100 mA voor de zener.
+Dat komt neer op antwoord C. Een geval van eerlijk delen.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+35
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9.3 Uitwerking van Opgave 7-3
+
+De belastingsstroom Ib varieert van 100 tot 300 mA. Het hoogst gedissipeerde vermogen in
+de zenerdiode bedraagt
+A. 1 W
+B. 3 W
+C. 4 W
+D. 8 W
+Uitwerking
+Het gedissipeerde vermogen in de zenerdiode bedraagt de stroom door de diode maal de
+zenerspanning. In Opgave 2 vonden we voor de grootste zenerstroom 300 mA. 300 mA
+maal 10 V is 3 W. Dat betekent antwoord B.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+36
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9.4 Uitwerking van Opgave 7-4
+
+De spanning Uuit bedraagt bij onbelaste schakeling ongeveer
+A. 200 V
+B. 390 V
+C. 280 V
+D. 600 V
+Uitwerking
+Als de schakeling onbelast is, is Uuit = Umax = Ueff * √21,4*Ueff. De transformatieverhouding
+is 1:1, zodat de gelijkspanning op der uitgang ongeveer 200*1,4=280 V bedraagt. Dat is
+antwoord C.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+37
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9.5 Uitwerking van Opgave 7-5
+
+De minimaal benodigde sperspanning van de diode in de schakeling bedraagt
+A. 200 V
+B. 300 V
+C. 400 V
+D. 600 V
+Uitwerking
+De minimale sperspanning van de diode bedraagt 3*200V=600V, want de diode moet 2x
+Umax kunnen weerstaan. In theorie is dat 2,8x de effectieve secundaire spanning en om
+veiligheidsredenen wordt 3x of nog iets meer aangehouden. Dat betekent dat antwoord D
+goed is.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+38
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9.6 Uitwerking van Opgave 7-6
+Welke schakeling is te gebruiken voor tweezijdige gelijkrichting?
+
+A
+
+B
+
+C
+
+D
+
+Welke schakeling is te gebruiken voor tweezijdige gelijkrichting?
+A. Schakeling A
+B. Schakeling B
+C. Schakeling C
+D. Schakeling D
+Uitwerking
+We lopen ze alle vier langs.
+Schakeling A vormt een kortsluiting over de secundaire voor de positieve halve periode.
+Afgekeurd.
+Schakeling B lijkt in orde, maar kijk eens goed naar de doorlaatrichting van de dioden. Ze
+maken twee pluspolen. Dat helpt dus niet. Ook afgekeurd.
+Schakeling C lijkt op een ordentelijke tweezijdige gelijkrichter. Die houden we erin.
+Schakeling D is een rare. Die richt enkelzijdig gelijk vanaf de bovenste en de middelste
+transformatoraansluiting. Een wat vreemde enkelzijdige gelijkrichter, maar zeker geen
+tweezijdige. Afgekeurd dus.
+Resteert antwoord C.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+39
+
+VRZA-cursus radiozendamateur F
+
+Hoofdstuk 7 volledig 20250601
+
+7.9.7 Uitwerking van Opgave 7-7
+Een werkende capaciteitsdiode (varicap)
+A. Staat geschakeld in sperrichting en de capaciteit wordt kleiner met toenemende
+spanning
+B. Staat geschakeld in sperrichting en de capaciteit wordt groter met toenemende
+spanning
+C. Staat geschakeld in doorlaatrichting en de capaciteit wordt kleiner met
+toenemende spanning
+D. Staat geschakeld in doorlaatrichting en de capaciteit wordt groter met toenemende
+spanning
+Uitwerking
+Een capaciteitsdiode staat in elk geval in sperrichting, anders is er geen diëlektricum.
+Daarmee vervallen de antwoorden C en D.
+Met toenemende spanning wordt de uitputtingszone dikker en daarmee ook de afstand
+tussen de nog geleidende delen van de P- en de N-zone. Dan neemt de capaciteit af met
+toenemende spanning. Antwoord A.
+
+© 2021-2025, Vereniging van Radiozendamateurs VRZA
+
+40
+
+

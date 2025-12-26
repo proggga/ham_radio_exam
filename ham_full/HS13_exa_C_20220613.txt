@@ -1,0 +1,3207 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+Inhoudsopgave
+13
+
+Uitgewerkte examenopgaven bij Hoofdstuk 13, deel C (101-150) ............................ 13-6
+13.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........13-6
+
+13.2
+
+Enkele opmerkingen ..........................................................................................13-7
+
+13.3
+
+Formularium ......................................................................................................13-8
+
+13.3.1 Mengschakelingen..........................................................................................13-8
+13.3.2 De mengtrap ...................................................................................................13-8
+13.3.3 Boven- en ondermenging ..............................................................................13-8
+13.3.4 Spiegelfrequentie ............................................................................................ 13-8
+13.3.5 Blokschema van een super; veraf- en nabij-selectiviteit.............................. 13-9
+13.3.6 Ruis..................................................................................................................13-9
+13.3.7 Detectie van AM, EZB en CW ....................................................................13-10
+13.3.8 USB en LSB ...................................................................................................13-10
+13.3.9 AGC ...............................................................................................................13-10
+13.3.10
+
+Ontvanger voor directe conversie (DC) ..................................................13-11
+
+13.3.11
+
+Detectie van FM .......................................................................................13-11
+
+13.3.12
+
+Bandbreedte voor ontvangst van verschillende modulatievormen .......13-12
+
+13.3.13
+
+Squelch ......................................................................................................13-13
+
+13.3.14
+
+De dubbelsuper .........................................................................................13-13
+
+13.3.15
+
+Koppeling in bandfilters ...........................................................................13-14
+
+13.3.16
+
+Fasevergrendelde lus (Phase Locked Loop, afgekort PLL) .....................13-15
+
+13.3.17
+
+Digitale signaalverwerking ......................................................................13-15
+
+13.4
+
+Opgaven ............................................................................................................13-17
+
+13.4.101
+
+Opgave 13-101 ......................................................................................13-18
+
+13.4.102
+
+Opgave 13-102 ......................................................................................13-19
+
+13.4.103
+
+Opgave 13-103 ......................................................................................13-20
+
+13.4.104
+
+Opgave 13-104 ......................................................................................13-21
+
+13.4.105
+
+Opgave 13-105 ......................................................................................13-22
+
+13.4.106
+
+Opgave 13-106 ......................................................................................13-23
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.107
+
+Opgave 13-107 ......................................................................................13-24
+
+13.4.108
+
+Opgave 13-108 ......................................................................................13-25
+
+13.4.109
+
+Opgave 13-109 ......................................................................................13-26
+
+13.4.110
+
+Opgave 13-110 ......................................................................................13-27
+
+13.4.111
+
+Opgave 13-111 ......................................................................................13-28
+
+13.4.112
+
+Opgave 13-112 ......................................................................................13-29
+
+13.4.113
+
+Opgave 13-113 ......................................................................................13-30
+
+13.4.114
+
+Opgave 13-114 ......................................................................................13-31
+
+13.4.115
+
+Opgave 13-115 ......................................................................................13-32
+
+13.4.116
+
+Opgave 13-116 ......................................................................................13-33
+
+13.4.117
+
+Opgave 13-117 ......................................................................................13-34
+
+13.4.118
+
+Opgave 13-118 ......................................................................................13-35
+
+13.4.119
+
+Opgave 13-119 ......................................................................................13-36
+
+13.4.120
+
+Opgave 13-120 ......................................................................................13-37
+
+13.4.121
+
+Opgave 13-121 ......................................................................................13-38
+
+13.4.122
+
+Opgave 13-122 ......................................................................................13-39
+
+13.4.123
+
+Opgave 13-123 ......................................................................................13-40
+
+13.4.124
+
+Opgave 13-124 ......................................................................................13-41
+
+13.4.125
+
+Opgave 13-125 ......................................................................................13-42
+
+13.4.126
+
+Opgave 13-126 ......................................................................................13-43
+
+13.4.127
+
+Opgave 13-127 ......................................................................................13-44
+
+13.4.128
+
+Opgave 13-128 ......................................................................................13-45
+
+13.4.129
+
+Opgave 13-129 ......................................................................................13-46
+
+13.4.130
+
+Opgave 13-130 ......................................................................................13-47
+
+13.4.131
+
+Opgave 13-131 ......................................................................................13-48
+
+13.4.132
+
+Opgave 13-132 ......................................................................................13-49
+
+13.4.133
+
+Opgave 13-133 ......................................................................................13-50
+
+13.4.134
+
+Opgave 13-134 ......................................................................................13-51
+
+13.4.135
+
+Opgave 13-135 ......................................................................................13-52
+
+13.4.136
+
+Opgave 13-136 ......................................................................................13-53
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.137
+
+Opgave 13-137 ......................................................................................13-54
+
+13.4.138
+
+Opgave 13-138 ......................................................................................13-55
+
+13.4.139
+
+Opgave 13-139 ......................................................................................13-56
+
+13.4.140
+
+Opgave 13-140 ......................................................................................13-57
+
+13.4.141
+
+Opgave 13-141 ......................................................................................13-58
+
+13.4.142
+
+Opgave 13-142 ......................................................................................13-59
+
+13.4.143
+
+Opgave 13-143 ......................................................................................13-60
+
+13.4.144
+
+Opgave 13-144 ......................................................................................13-61
+
+13.4.145
+
+Opgave 13-145 ......................................................................................13-62
+
+13.4.146
+
+Opgave 13-146 ......................................................................................13-63
+
+13.4.147
+
+Opgave 13-147 ......................................................................................13-64
+
+13.4.148
+
+Opgave 13-148 ......................................................................................13-65
+
+13.4.149
+
+Opgave 13-149 ......................................................................................13-66
+
+13.4.150
+
+Opgave 13-150 ......................................................................................13-67
+
+13.5
+
+Uitwerkingen ...................................................................................................13-68
+
+13.5.101
+
+Uitwerking van Opgave 13-101 ........................................................... 13-69
+
+13.5.102
+
+Uitwerking van Opgave 13-102 ........................................................... 13-70
+
+13.5.103
+
+Uitwerking van Opgave 13-103 ........................................................... 13-71
+
+13.5.104
+
+Uitwerking van Opgave 13-104 ........................................................... 13-72
+
+13.5.105
+
+Uitwerking van Opgave 13-105 ........................................................... 13-73
+
+13.5.106
+
+Uitwerking van Opgave 13-106 ........................................................... 13-74
+
+13.5.107
+
+Uitwerking van Opgave 13-107 ........................................................... 13-75
+
+13.5.108
+
+Uitwerking van Opgave 13-108 ........................................................... 13-76
+
+13.5.109
+
+Uitwerking van Opgave 13-109 ........................................................... 13-77
+
+13.5.110
+
+Uitwerking van Opgave 13-110 ........................................................... 13-78
+
+13.5.111
+
+Uitwerking van Opgave 13-111 ........................................................... 13-79
+
+13.5.112
+
+Uitwerking van Opgave 13-112 ........................................................... 13-80
+
+13.5.113
+
+Uitwerking van Opgave 13-113 ........................................................... 13-81
+
+13.5.114
+
+Uitwerking van Opgave 13-114 ........................................................... 13-82
+
+13.5.115
+
+Uitwerking van Opgave 13-115 ........................................................... 13-83
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.116
+
+Uitwerking van Opgave 13-116 ........................................................... 13-84
+
+13.5.117
+
+Uitwerking van Opgave 13-117 ........................................................... 13-85
+
+13.5.118
+
+Uitwerking van Opgave 13-118 ........................................................... 13-86
+
+13.5.119
+
+Uitwerking van Opgave 13-119 ........................................................... 13-87
+
+13.5.120
+
+Uitwerking van Opgave 13-120 ........................................................... 13-88
+
+13.5.121
+
+Uitwerking van Opgave 13-121 ........................................................... 13-89
+
+13.5.122
+
+Uitwerking van Opgave 13-122 ........................................................... 13-90
+
+13.5.123
+
+Uitwerking van Opgave 13-123 ........................................................... 13-91
+
+13.5.124
+
+Uitwerking van Opgave 13-124 ........................................................... 13-92
+
+13.5.125
+
+Uitwerking van Opgave 13-125 ........................................................... 13-93
+
+13.5.126
+
+Uitwerking van Opgave 13-126 ........................................................... 13-94
+
+13.5.127
+
+Uitwerking van Opgave 13-127 ........................................................... 13-95
+
+13.5.128
+
+Uitwerking van Opgave 13-128 ........................................................... 13-96
+
+13.5.129
+
+Uitwerking van Opgave 13-129 ........................................................... 13-97
+
+13.5.130
+
+Uitwerking van Opgave 13-130 ........................................................... 13-98
+
+13.5.131
+
+Uitwerking van Opgave 13-131 ........................................................... 13-99
+
+13.5.132
+
+Uitwerking van Opgave 13-132 ......................................................... 13-100
+
+13.5.133
+
+Uitwerking van Opgave 13-133 ......................................................... 13-101
+
+13.5.134
+
+Uitwerking van Opgave 13-134 ......................................................... 13-102
+
+13.5.135
+
+Uitwerking van Opgave 13-135 ......................................................... 13-103
+
+13.5.136
+
+Uitwerking van Opgave 13-136 ......................................................... 13-104
+
+13.5.137
+
+Uitwerking van Opgave 13-137 ......................................................... 13-105
+
+13.5.138
+
+Uitwerking van Opgave 13-138 ......................................................... 13-106
+
+13.5.139
+
+Uitwerking van Opgave 13-139 ......................................................... 13-107
+
+13.5.140
+
+Uitwerking van Opgave 13-140 ......................................................... 13-108
+
+13.5.141
+
+Uitwerking van Opgave 13-141 ......................................................... 13-109
+
+13.5.142
+
+Uitwerking van Opgave 13-142 ......................................................... 13-110
+
+13.5.143
+
+Uitwerking van Opgave 13-143 ......................................................... 13-111
+
+13.5.144
+
+Uitwerking van Opgave 13-144 ......................................................... 13-112
+
+13.5.145
+
+Uitwerking van Opgave 13-145 ......................................................... 13-113
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.146
+
+Uitwerking van Opgave 13-146 ......................................................... 13-114
+
+13.5.147
+
+Uitwerking van Opgave 13-147 ......................................................... 13-115
+
+13.5.148
+
+Uitwerking van Opgave 13-148 ......................................................... 13-116
+
+13.5.149
+
+Uitwerking van Opgave 13-149 ......................................................... 13-117
+
+13.5.150
+
+Uitwerking van Opgave 13-150 ......................................................... 13-118
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13 Uitgewerkte examenopgaven bij Hoofdstuk 13, deel C (101-150)
+13.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 13
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave en met het goede antwoord vetgedrukt. Daarna volgt
+de eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking
+hoeft niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot
+een goed antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+Dat is deze:
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er dan met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 13.5.
+
+13.2 Enkele opmerkingen
+Wegens het grote aantal beschikbare examenopgaven is de bundel van hoofdstuk 13
+gesplitst in deel A, B. C en D. Dit is deel C met 50 opgaven. De delen A en B bevatten er
+ook 50; deel D 43.
+Bij elke opgave is vermeld, in welke examens de opgave is voorgekomen. Voorbeeld: Fexamen mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei
+2011. Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een
+maand maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008, waren er maar twee examens per jaar,
+het voorjaars- en najaarsexamen. Sinds het voorjaar van 2020 krijgen examenkandidaten
+de opgaven niet meer mee naar huis, zodat de laatste examens in de bundels bij deze
+cursus uit begin 2020 stammen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en plotseling, bijvoorbeeld 10
+jaar of nog meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Normaal is dat een overzicht van
+vergelijkingen (“formules”) met soms wat handigheidjes. In dit geval overheersen de
+beschrijvende teksten. We raden aan, het formularium eerst door te nemen.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.3 Formularium
+13.3.1 Mengschakelingen
+Een mengschakeling (mixer) mengt twee frequenties. Laten we ze fA en fB noemen.
+Eigenlijk is mengen van frequenties een vorm van vermenigvuldigen. Dat kennen we al
+uit hoofdstuk 12. De output van een mengschakeling is in elk geval de som- en de
+verschilfrequentie van fA en fB, dus
+𝑓𝐴 + 𝑓𝐵
+
+en
+
+𝑓𝐴 − 𝑓𝐵
+
+Daarbij is de hoogste frequentie 𝑓𝐴 en de laagste 𝑓𝐵 . Zijn ze gelijk, dan is 𝑓𝐴 − 𝑓𝐵 = 0 en
+maakt de volgorde niets uit. Er ontstaat dan in plaats van de verschilfrequentie een
+gelijkspanning, waarvan de hoogte afhangt van het faseverschil.
+Afhankelijk van het soort mixer kunnen ook 𝑓𝐴 en/of 𝑓𝐵 op de uitgang verschijnen
+(Hoofdstuk 12).
+13.3.2 De mengtrap
+Een superheterodyne-ontvanger of kortweg super bevat minstens 1 mengschakeling.
+Daarin wordt de variabele HF-ontvangstfrequentie met behulp van een variabele
+frequentie uit een hulposcillator gemengd naar een vaste middenfrequentie (MF). De
+hulposcillator heet ook wel VFO, Variable Frequency Oscillator.
+De vaste middenfrequentie is 𝑓𝐴 + 𝑓𝐵 of 𝑓𝐴 − 𝑓𝐵 . Eén van de twee mengproducten dus.
+13.3.3 Boven- en ondermenging
+Als de oscillatorfrequentie boven de signaalfrequentie ligt, spreken we van
+bovenmenging. Ligt de oscillatorfrequentie onder de signaalfrequentie, dan spreken we
+van ondermenging.
+13.3.4 Spiegelfrequentie
+Omdat bij menging twee frequenties ontstaan, is er bij menging behalve de
+signaalfrequentie altijd een tweede frequentie die dezelfde middenfrequentie oplevert,
+Dat is de spiegelfrequentie. We laten het zien in een cijfervoorbeeld. Stel, een ontvanger
+heeft een MF van 1,5 MHz. Een signaal van 2 MHz moet worden gemengd met 0,5 MHz
+(=500 kHz) om die 1,5 MHz te krijgen. Maar als we 1 MHz mengen met 500 kHz, krijgen
+we 0,5 MHz en 1,5 MHz. Die laatste past dus ook op de MF van 1,5 MHz. In deze situatie
+is 1 MHz de spiegelfrequentie van 2 MHz bij een oscillatorfrequentie van 0,5 MHz.
+Bij bovenmenging ligt de spiegelfrequentie 2x de middenfrequentie boven de
+afstemfrequentie, bij ondermenging 2x de MF eronder. Ze zijn elkaars spiegelbeeld met de
+afstemfrequentie als spiegel. Vandaar de naam.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+Zouden spiegelfrequenties ongehinderd worden doorgelaten, dan horen we met een super
+2x zoveel frequenties als er in werkelijkheid zijn. Spiegelfrequenties moeten daarom in
+ontvangers zo goed mogelijk worden onderdrukt.
+13.3.5 Blokschema van een super; veraf- en nabij-selectiviteit
+AGC
+
+Preselectie
+& HF-verst.
+
+MFversterker
+
+Detector
+
+Oscillator
+
+LFversterker
+
+BFO
+
+De figuur toont een eenvoudige super in blokschema, Het signaal komt de ontvanger
+vanaf de antenne binnen via de HF-versterker (preselectie en HF-versterker).
+Spiegelfrequenties moeten zoveel mogelijk zijn onderdrukt, voor ze de mengtrap
+bereiken. Dat kan alleen in de preselectietrap en met een daar aanwezig afstembaar
+bandfilter. Omdat het hier gaat om frequenties die relatief ver van de afstemfrequentie af
+liggen, heet de selectiviteit die daarmee wordt bereikt, de veraf-selectiviteit.
+Dat veraf is met een eenvoudig voorbeeld duidelijk te maken. Stel dat de ontvanger is
+afgestemd op de 7 MHz-band (40 m). De Q van de ingangskring is 50. De bandbreedte
+(tussen de -3 dB)-punten is dan 7 MHz⁄50 = 140 kHz. Daarin passen een kleine 50 EZBstations. En dan praten we nog maar over een mini-verzwakking tussen 0 en 3 dB. De
+veraf-selectiviteit is van belang bij de onderdrukking van spiegelfrequenties. Die liggen
+relatief ver van de afgestemde frequentie, vandaar de naam.
+Na de mengtrap belandt de getransformeerde frequentie in de MF-versterker met
+scherpere filters, waardoor alleen een smalle frequentieband wordt doorgelaten. Deze
+selectiviteit wordt nabij-selectiviteit genoemd. Die is bedoeld om stations vlak naast de
+frequentie van het gewenste station te onderdrukken.
+13.3.6 Ruis
+Elk ontvangen signaal gaat gepaard met ruis en elke schakeling produceert ruis. In een
+ontvanger wordt de ruis van de vorige versterkertrap net zoveel versterkt als het signaal.
+De ruis die vanaf de antenne de HF-voorversterkertrap binnenkomt, passeert alle trappen
+in de ontvanger en wordt dus het meest versterkt; die van de LF-versterker het minst.
+Ruis hangt ook samen met bandbreedte. 2x zo grote bandbreedte betekent 2x zoveel ruis.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+Versterkende elementen met hun werkpunt in het kromme deel van hun karakteristiek
+produceren (veel) meer ruis dan elementen met werkpunt in het rechte deel. Een
+mengtrap produceert daardoor in het algemeen meer ruis dan een lineaire versterker.
+13.3.7 Detectie van AM, EZB en CW
+Detectie van AM, EZB en CW is een mengproces zoals we dat kennen van de mengtrap.
+Bij AM worden in feite de zijbanden in een diodemixer gemengd met de draaggolf.
+Bij EZB en CW ontbreekt de draaggolf. Die moet in de ontvanger weer worden
+toegevoegd. De BFO levert hem. Vandaar de gestippelde BFO in de figuur. Bij EZB en CW
+is hij nodig, bij AM niet. Zo’n detector heet ook wel productdetector, want wiskundig
+gezien worden in een mengschakeling (mixer) de twee signalen met elkaar
+vermenigvuldigd.
+Na de detector is het signaal een LF- signaal en hoorbaar voor onze oren. Het passeert op
+weg naar de luidspreker (of de koptelefoon) de LF-versterker.
+13.3.8 USB en LSB
+EZB kan bovenste of onderste zijband zijn. Bij USB ligt de BFO-frequentie onder de
+signaalfrequentie, bij LSB erboven.
+13.3.9 AGC
+We herhalen hieronder het blokschema van sub-paragraaf 13.3.5.
+AGC
+
+Preselectie
+& HF-verst.
+
+MFversterker
+Oscillator
+
+Detector
+
+LFversterker
+
+BFO
+
+AGC staat voor Automatic Gain Control, ofwel automatische versterkingsregeling (AVC).
+Dat is een spanningsgestuurde versterkingsregeling. De stuurspanning (gelijkspanning)
+wordt in de detectorschakeling afgeleid uit de MF-wisselspanning. Een sterk signaal stuurt
+de versterkende elementen in HF- en M-trap(pen) in een vlakker deel van de
+karakteristiek, waardoor de versterking afneemt. Zo ontstaat een variabele versterking die
+ertoe leidt dat stations, ongeacht de sterkte van hun signaal op de antenne, ongeveer even
+sterk uit de luidspreker komen.
+De S-meter is doorgaans gekoppeld aan de AVC-spanning.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.3.10Ontvanger voor directe conversie (DC)
+Een DC-ontvanger (DC staat voor Direct conversion) is net als een super gebaseerd op
+frequentietransformatie. Het verschil is dat een DC-ontvanger direct transformeert naar
+audio. Vergeleken met de super ontbreekt het HF-deel. Het blokschema ziet er zo uit:
+
+HF-versterker
+
+Mixer
+
+Laagfrequent
+(LF) versterker
+
+Local Oscillator (LO)
+De afstemming van de HF-versterker loopt gelijk op met die van de oscillator (Local
+Oscillator). De benaming wordt ook gebruikt voor de oscillator in een super, die ook VFO
+(Variable Frequency Oscillator) wordt genoemd.
+Het laagdoorlaatfilter in het schema onderdrukt hogere frequenties dan het te beluisteren
+LF-spectrum. In feite bepaalt dat de bandbreedte. De DC-ontvanger ontvangt DZB, USB,
+LSB en zelfs AM, maar dan moet de LO precies op de draaggolffrequentie staan, anders
+ontstaat een pieptoon.
+13.3.11Detectie van FM
+Een FM-detector wordt vaak discriminator genoemd. Demodulator mag ook. Deze term
+heeft betrekking op alle vormen van detectie.
+Het proces van FM-demodulatie begint vrijwel altijd met een begrenzer. Die snijdt alle
+pieken (positief en negatief) af op een vaste waarde,
+zodat alles wat maar enigszins op amplitudemodulatie
+lijkt, uit het signaal verdwijnt. De schakeling is
+in
+uit
+eenvoudig: twee parallelle dioden in tegengestelde
+doorlaatrichting in serie met een weerstand (zie figuur).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+De oudste detector is de flankdetector, eigenlijk een AM-detector. Stuur het signaal door
+de flank van een bandfilter.
+Er ontstaat een signaal met
+frequentie-afhankelijke
+C1
+C3
+R1
+L1
+amplitude dat als AM wordt
+MF-output
+gedetecteerd in een vorm
+LF uit
+in
+van een diodedetector. De
+figuur hiernaast toont een
+L2
+C2
+C4
+R2
+verbeterde flankdetector.
+Hij lijkt op een dubbelfasige
+gelijkrichter, maat het
+signaal wordt tussen de twee kathoden afgenomen in plaats van dat beide leidingen
+samenkomen.
+Echte FM-detectie is mogelijk met een kwadratuurdetector. Het schema staat hieronder;
+de werking is in de cursustekst uitvoerig behandeld.
+
+L
+MF-in
+
+C
+
+LF-uit
+
+13.3.12Bandbreedte voor ontvangst van verschillende modulatievormen
+Voor de ontvangst van verstaanbare spraak is een hoogste frequentie van 3000 Hz
+voldoende. 2700 Hz wordt daarvoor ook wel aangehouden. Als we uitgaan van AM is de
+maximale bandbreedte 6000 Hz. Voor EZB is die minder dan de helft, omdat de laagste
+300 Hz niet veel bijdraagt aan de verstaanbaarheid. De bandbreedte is dan hoogste min
+laagste frequentie: 3000 Hz – 300 Hz = 2700 Hz of, als we uitgaan van een hoogste
+frequentie van 2700 Hz, wordt de bsndbreedte 2700 Hz – 3000 Hz = 2400 Hz. Beide
+uitkomsten komen in examenopgaven voor; als het goed is, niet gelijktijdig (!).
+Bij kristalfilters voor CW wordt meestal 500 Hz aangehouden. Een CW-signaal is in het
+algemeen smalbandiger.
+Voor FM en PM is het verhaal gecompliceerder. De bandbreedte hangt af van de
+frequentiezwaai f die het verschil is tussen de draaggolffrequentie fd en de hoogste
+momentele frequentie fmax in het gemoduleerde signaal
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+∆𝑓 = 𝑓𝑚𝑎𝑥 − 𝑓𝑑
+Als fmax en de laagste momentele frequentie fmin even ver van fd liggen, is de modulatie
+symmetrisch. Dan geldt ook
+∆𝑓 = 𝑓𝑑 − 𝑓𝑚𝑖𝑛
+Dan hebben we ook nog de modulerende frequentie fi met de i van informatie. Samen met
+∆𝑓levert die de modulatie-index m, niet te verwarren met de modulatiediepte M bij AM:
+𝑚=
+
+∆𝑓
+𝑓𝑖
+
+Het spectrum van een FM-signaal wordt breder, naarmate m groter is. In feite is het
+oneindig. In de praktijk gaat men uit van de breedte waarbinnen 99% van het
+signaalvermogen ligt. Een benadering daarvoor is
+𝐵 ≈ 2𝑓𝑖 (1 + 𝑚)
+Bij de op amateurbanden vrij gebruikelijke modulatie-index van 0,5 en een hoogste
+spraakfrequentie van 3000 Hz leidt dat tot een bandbreedte B van ongeveer 9 kHz. Voor
+m=1 wordt dat ongeveer 12 kHz.
+13.3.13Squelch
+Squelch is ruisonderdrukking bij afwezigheid van signaal, het meest toegepast bij FMontvangst. Als er een (zwak) signaal is, neemt de demodulator de zaak over en wordt de
+ruis onderdrukt. Zonder signaal wordt bij een FM-ontvanger de ruis hinderlijk sterk. Dan
+stuurt de ruis via een gelijkrichter een transistorschakeling aan die het LF van de ruis in
+de LF-versterker blokkeert. Soms zie je ontvangers met een squelch-schakeling die ook bij
+EZB-ontvangst werkt.
+13.3.14De dubbelsuper
+Een dubbelsuper heeft twee frequentie-omzettingen, twee middenfrequenties en twee
+MF-versterkertrappen. Een belangrijke reden daarvoor is de verhouding van afstem- en
+middenfrequentie. Voor een goede veraf-selectiviteit is een hoge middenfrequentie nodig.
+Maar een hoge middenfrequentie kan een slechtere nabij-selectiviteit opleveren. De
+oplossing voor deze elektronische spagaat is de dubbelsuper.
+Een dubbelsuper kan op twee manieren tot stand komen. De eerste MF heeft al een
+constante frequentie, dus kan de tweede omzetting tot stand komen via een vaste
+frequentie uit een kristaloscillator (zie figuur hieronder).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+HF-trap
+(preselectie)
+
+MF1
+
+Osc-1
+VFO
+
+MF2
+
+Osc-2
+Xtal
+
+Andersom kan ook: eerste oscillator vast (kristal), de tweede variabel. Lang geleden was
+dat de standaardoplossing omdat een variabele oscillator op een hoge frequentie lastig
+stabiel te houden is. Tegenwoordig is dat met de digitale trukendoos niet meer zo. Het
+blokschema hieronder toont de “antieke” vorm.
+
+HF-trap
+(preselectie)
+
+MF1
+
+MF2
+
+Osc-1
+Xtal
+
+Osc-2
+VFO
+
+13.3.15Koppeling in bandfilters
+Bandfilters kunnen onderkritisch, kritisch of overkritisch gekoppeld zijn. Dat is te zien
+aan de doorlaat (figuur hieronder).
+dB
+
+dB
+
+in
+
+dB
+
+uit
+
+- kHz
+
++ kHz
+
+- kHz
+
+onderkritisch
+
++ kHz
+kritisch
+
+- kHz
+
++ kHz
+
+overkritisch
+
+Het onderkritisch gekoppelde filter heeft een doorlaat die sterk lijkt op die van een
+enkelvoudig filter.
+Het kritisch gekoppelde filter heeft een vlakkere top.
+Het overkritisch gekoppelde filter heeft een deuk in het midden met aan weerskanten een
+“oortje”.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.3.16Fasevergrendelde lus (Phase Locked Loop, afgekort PLL)
+Een PLL is een vorm van een door fase
+BufferDBMtegengekoppelde lus. Het basisschema staat
+fasevergelijker
+versterker
+hiernaast.
+fin
+Links komt een frequentie fin binnen. In de
+DBM-fasevergelijker wordt deze frequentie
+LDF
+gemengd met een frequentie uit de VCO. Het
+mengproduct passeert een laagdoorlaatfilter
+VCO
+(LDF). Daarin wordt de somfrequentie
+onderdrukt. Zijn de ingangsfrequentie en de VCO ongelijk, dan zal de verschilfrequentie
+een onzuivere wisselspanning zijn die de VCO aanstuurt en leidt tot een wisselende
+frequentie. Op enig moment zal deze stuurspanning zodanig zijn dat de VCO-frequentie
+gelijk is aan de ingangsfrequentie. Uit de cursustekst over de kwadratuurdetector weten
+we dat dan de DBM een gelijkspanning produceert. Die verschuift uiteindelijk naar een
+spanning waarbij de VCO dezelfde frequentie produceert bij een faseverschil dat de DBM
+een gelijkspanning laat masken die bij de VCO leidt tot dezelfde frequentie als fin.
+Voor digitale toepassingen kan voor de DBM een EXOF-poort worden gebruikt waarbij de
+pulsbreedte het faseverschil weergeeft, de effectieve spanning ervan de VCO aanstuurt,
+enzovoort.
+Als de frequentie fin een FM-signaal is, is de stuurspanning op de VCO het
+gedemoduleerde FM-signaal. (zie figuur hieronder, bufferversterker niet getekend)
+
+FM-signaal
+
+Fasevergelijker
+
+VCO
+
+LDF
+
+LF
+
+Een frequentiedeler tussen VCO en fasevergelijker leidt tot een
+frequentievermenigvuldiger die instelbaar gemaakt kan worden. Met een PLL kan ook of
+een FM-zender worden gemaakt door de VCO aan te sturen met de som van de output
+van het LDF en een microfoonsignaal. Deze toepassingen staan in de cursustekst.
+13.3.17Digitale signaalverwerking
+Voor digitale verwerking moet een analoog signaal worden gedigitaliseerd. Daarbij wordt
+een signaal dat er in analoge vorm uitziet als een vloeiende kromme, zoals bijvoorbeeld
+een sinus. In gedigitaliseerde vorm wordt het een kromme van traptreetjes.
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+Daarbij geldt de stelling van Nyquist of Nyquist/Shannon. Die schrijft voor dat een signaal
+moet worden bemonsterd met een frequentie die tenminste twee keer zo hoog is als de
+hoogste frequentie die in dat signaal voorkomt. Houdt men zich daar niet aan, dan
+ontstaan frequenties die niet in het oorspronkelijke signaal zaten, zogenoemde aliases.
+Daarom zit er vóór de bemonsteringsschakeling een laagdoorlaatfilter dat die te hoge
+frequenties onderdrukt. Het heet toepasselijk: anti-alias filter.
+Na de digitale bewerking moet een trapjeskromme terug worden omgezet naar een
+vloeiende kromme. Ook dat gebeurt met een laagdoorlaatfilter dat de trapjeskromme
+ontdoet van zijn “scherpe kantjes”. Het wordt herstelfilter of reconstructiefilter genoemd.
+In blokschema ziet dat er ongeveer zo uit:
+Analoog Antisignaal alias
+
+Bemonstering
+
+ADC
+
+Digitale
+bewerking
+
+DAC
+
+Herstelfilter
+
+Bewerkt
+analoog
+signaal
+
+ADC betekent Analoog naar Digitaal Conversie. DAC Digitaal naar Analoog Conversie.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4 Opgaven
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.101 Opgave 13-101
+Een ontvanger heeft een MF-bandbreedte van 6 kHz. De hoogste frequentie die na
+detectie van een AM-signaal onvervormd wordt weergegeven, bedraagt:
+A. 12000 Hz
+B. 6000 Hz
+C. 1000 Hz
+D. 3000 Hz
+(F-examen mei 2011 (3), september 2012)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.102 Opgave 13-102
+In een superheterodyne-ontvanger is de frequentie-afstand tussen de afgestemde
+frequentie en de spiegelfrequentie:
+A. De middenfrequentie
+B. De frequentie van het signaal min de middeenfrequentie
+C. De frequentie van het signaal plus de middenfrequentie
+D. Tweemaal de middenfrequentie
+(F-examen april 2008, november 2010 (2), mei 2011 (3), september 2012, november 2016)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.103 Opgave 13-103
+Een enkele superheterodyne-ontvanger heeft een middenfrequentie van 455 kHz. Voor
+ontvangst op 7,055 MHz is de oscillator afgestemd op:
+A. 7,965 kHz
+B. 7,055 kHz
+C. 6,145 kHz
+D. 7,510 kHz
+(F-examen augustus 2013, januari 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.104 Opgave 13-104
+Met een superheterodyne-ontvanger wordt een signaal ontvangen van 14 MHz. De
+oscillatorfrequentie is 5 MHz. De spiegelfrequentie is:
+A. 23 MHz
+B. 4 MHz
+C. 5 MHz
+D. 1 MHz
+(F-examen september 2014 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.105 Opgave 13-105
+Met een superheterodyne-ontvanger wordt een signaal van 8 MHz ontvangen. De
+oscillatorfrequentie is 6,5 MHz. De spiegelfrequentie is:
+A. 9,5 MHz
+B. 5 MHz
+C. 1,5 MHz
+D. 14,5 MHz
+(F-examen april 2010, mei 2011 (3), September 2012)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.106 Opgave 13-106
+Een ontvanger is afgestemd op de frequentie 145,700 MHz. De oscillatorfrequentie
+bedraagt 135,000 MHz. De spiegelfrequentie is:
+A. 167,100 MHz
+B. 135,000 MHz
+C. 156,400 MHz
+D. 124,300 MHz
+(F-examen najaar 2007, mei 2009 (2), maart 2010, augustus 2010, augustus 2011)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.107 Opgave 13-107
+Een ontvanger voor 145,500 MHz heeft een middenfrequentie van 10,700 MHz. De
+spiegelfrequentie is:
+A. 156,200 MHz
+B. 134,800 MHz
+C. 10,700 MHz
+D. 124,100 MHz
+(F-examen januari 2020, februari 2010 (2), mei 2018 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.108 Opgave 13-108
+De spiegelonderdrukking van een superheterodyne-ontvanger wordt verbeterd door:
+A. De stabiliteit van de oscillator te vergroten
+B. De selectiviteit van de MF-versterker te vergroten
+C. De bandbreedte van de LF-versterker te verkleinen
+D. De selectiviteit van de HF-versterker te vergroten
+(F-examen voorjaar 2003, september 2011 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.109 Opgave 13-109
+Een FM-ontvanger met een middenfrequentie van 10,7 MHz is afgestemd op een zender,
+werkend op 90 MHz. De oscillatorfrequentie is hoger dan de signaalfrequentie. Een
+andere zender op de spiegelfrequentie veroorzaakt storing in de ontvangst. Deze zender
+werkt op een frequentie van
+A. 21,4 MHz
+B. 79,3 MHz
+C. 100,7 MHz
+D. 111,4 MHz
+(F-examen najaar 2003, november 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.110 Opgave 13-110
+Een superheterodyne-ontvanger is afgestemd op 800 kHz. De oscillatorfrequentie is 1255
+kHz. De spiegelfrequentie is:
+A. 455 kHz
+B. 2055 kHz
+C. 345 kHz
+D. 1710 kHz
+(F-examen mei 2018 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.111 Opgave 13-111
+In principe is een omroepontvanger voor de FM-omroepband (88-18 MHz) te verstemmen
+naar de 2 meter-band. Toch zal zo’n ontvanger in de praktijk erg tegenvallen, omdat:
+A. De begrenzer ontbreekt
+B. De MF-bandbreedte veel te klein is
+C. De MF-bandbreedte veel te groot is
+D. Deze ontvanger geen geschikte kanaalindeling heeft
+(F-examen mei 2015 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.112 Opgave 13-112
+In een FM-ontvanger wordt een begrenzer toegepast om:
+A. Ongewenste uitstraling te verminderen
+B. Vervorming van de mengtrap te verminderen
+C. Selectiviteit te verbeteren
+D. De detector van een signaal met constante amplitude te voorzien
+(F-examen maart 2009 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.113 Opgave 13-113
+De begrenzer in een FM-ontvanger begrenst:
+A. De frequentiezwaai
+B. De amplitude van het te detecteren signaal
+C. Het frequentieverloop van de oscillator
+D. De bandbreedte van het laagfrequentsignaal
+(F-examen najaar 2005, september 2013 (23), maart 2014, maart 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.114 Opgave 13-114
+Een squelch-schakeling dient om:
+A. Vonkstoringen te onderdrukken
+B. Ruis te onderdrukken als geen signaal wordt ontvangen
+C. De gevoeligheid van de ontvanger te vergroten
+D. Spiegelfrequentie(s) te onderdrukken
+(F-examen najaar 2006, november 2008 (1), mei 2011 (2), mei 2012 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.115 Opgave 13-115
+De squelch-schakeling van een FM-ontvanger onderdrukt het signaal in de:
+A. Laagfrequent versterker
+B. Middenfrequent versterker
+C. Mengtrap
+D. Hoogfrequent versterker
+(F-examen mei 2019 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.116 Opgave 13-116
+In een superheterodyne-ontvanger met een middenfrequentie van 1 MHz is de
+oscillatorfrequentie hoger dan de te ontvangen frequentie. De ontvanger is afstembaar van
+2-5 MHz. De capaciteit in de oscillatorkring dient dan gevarieerd te kunnen worden met
+een factor:
+A. 2,5
+B. 6,25
+C. 2
+D. 4
+(F-examen voorjaar 2002, februari 2010 (1), september 2013 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.117 Opgave 13-117
+Een HF-ontvanger heeft een MF-versterker op 500 kHz (centrale frequentie) met een
+bandbreedte van 3000 Hz. Om een J3E bovenzijbandsignaal in de 14 MHz amateurband te
+ontvangen, is de 1e oscillator ingesteld op 14,7 MHz. Voor optimale verstaanbaarheid
+wordt de hulposcillator (BFO) ingesteld op:
+A. 497 kHz
+B. 498,5 kHz
+C. 500 kHz
+D. 501,5 kHz
+(F-examen najaar 2001, mei 2017 (2), mei 2019 (1))
+
+Let op: De code J3E komt neer op EZB. Meer over deze codes (“klassen van uitzending”)
+volgt in Hoofdstuk 18.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.118 Opgave 13-118
+Een superheterodyne-ontvanger is zodanig afgesteld dat een antennesignaal van 12 MHz
+kan worden ontvangen. De middenfrequentie is 1,5 MHz. De oscillatorfrequentie van
+deze ontvanger is
+A. 15 MHz
+B. 10,5 MHz
+C. 9 MHz
+D. 3 MHz
+(F-examen voorjaar 2007)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.119 Opgave 13-119
+Een ontvanger met een eerste middenfrequentie van 9 MHz en een tweede
+middenfrequentie van 455 kHz wordt gebruikt om EZB-modulatie te ontvangen. De
+oscillatorfrequentie voor de productdetector is in dat geval ongeveer:
+A. 455 kHz
+B. 910 kHz
+C. 9 MHz
+D. 9003 kHz
+(F-examen voorjaar 2007)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.120 Opgave 13-120
+Het circuit voor de automatische versterkingsregeling van een EZB-ontvanger heeft bij
+voorkeur een afvaltijd van
+A. 1 minuut
+B. 1 seconde
+C. 1 microseconde
+D. 1 milliseconde
+(F-examen voorjaar 2003, voorjaar 2007, oktober 2009)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.121 Opgave 13-121
+Bij demodulatie van enkelzijbandsignalen en CW wordt doorgaans gebruik gemaakt van
+een
+A. Anodedetector
+B. Ratiodetector
+C. Productdetector
+D. Discriminator
+(F-examen voorjaar 2005)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.122 Opgave 13-122
+
+Deze schakeling is een
+A. Vermogensbegrenzer
+B. Dubbelfasige gelijkrichter
+C. FM-detectot
+D. Productdetector
+(F-examen september 2014 (1), mei 2019 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.123 Opgave 13-123
+De zwevingsoscillator van een superheterodyne-ontvanger is nodig bij de ontvangst van
+A. Televisie (A3F)
+B. FM (F3E)
+C. AM (A3E)
+D. CW (A1A)
+(F-examen voorjaar 2003, december 2008, mei 2009 (1), december 2011, september 2014
+(2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.124 Opgave 13-124
+Als de detectieschakeling met BFO wordt meegeteld, dan heeft een enkelvoudige
+superheterodyne-ontvanger:
+A. 4 mengtrappen
+B. 3 mengtrappen
+C. 1 mengtrap
+D. 2 mengtrappen
+(F-examen juli 2010)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.125 Opgave 13-125
+De zwevingsoscillator van een superheterodyne-ontvanger werkt meestal op één
+frequentie dichtbij de frequentie van de:
+A. Eerste oscillator
+B. Audioversterker
+C. Middenfrequentie
+D. Hoogfrequentversterker
+(F-examen mei 2011 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.126 Opgave 13-126
+Van een telegrafie-ontvanger is de middenfrequentie 756 kHz. Om een A1A-signaal
+(onderbroken draaggolf) hoorbaar te maken, heeft de BFO een frequentie van:
+A. 757 kHz
+B. 1 kHz
+C. 776 kHz
+D. 756 kHz
+(F-examen mei 2011 (1), september 2016, januari 2017, maart 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.127 Opgave 13-127
+Dit is een regeneratieve ontvanger. Het schema hoort bij deze opgave en de 9 volgende.
+
+Voor een goede werking dient R1 een waarde te hebben van:
+A. 100 
+B. 1000 
+C. 500 
+D. 100 k
+(F-examen februari 2010 (1), februari 2011, december 2011, mei 2016 (1), maart 2018, mei
+2018 (1), september 2018, september 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.128 Opgave 13-128
+
+D3-D6 is een
+A. Afvlakschakeling
+B. Bruggelijkrichter
+C. Balansmodulator
+D. Enkelzijdige gelijkrichter
+(F-examen juli 2010, november 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.129 Opgave 13-129
+
+Halfgeleider Q1 is een
+A. P-kanaal veldeffecttransistor
+B. PNP-transistor
+C. NPN-transistor
+D. N-kanaal veldeffecttransistor
+(F-examen september 2010 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.130 Opgave 13-130
+
+De schakeling rondom Q2 is bedoeld:
+A. Voor het regelen van het laagfrequent vermogen van de hoofdtelefoon
+B. Als detectorschakeling voor signalen van Q1
+C. Voor het opwekken van het oscillatorsignaal
+D. Voor het precies instellen van de drain-source spanning van Q1.
+(F-examen maart 2013, januari 2020)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.131 Opgave 13-131
+
+Halfgeleider Q3 is een:
+A. P-kanaal veldeffecttransistor
+B. NPN-transistor
+C. N-kanaal veldeffecttransistor
+D. PNP-transistor
+(F-examen maart 2011 (1), mei 2011 (3), september 2012, mei 2017 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.132 Opgave 13-132
+
+Voor laagfrequent volumeregeling dient de volgende variabele weerstand of
+potentiometer:
+A. R8
+B. R4
+C. R3
+D. R15
+(F-examen maart 2013)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.133 Opgave 13-133
+
+Q2, Q4, Q5 en Q6 zijn:
+A. NPN-transistoren
+B. P-kanaal veldeffecttransistoren
+C. N-kanaal veldeffecttransistoren
+D. PNP-transistoren
+(F-examen juli 2011, augustus 2011, November 2012)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-50
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.134 Opgave 13-134
+
+Op de loper van R15 is een sinusvormig signaal aanwezig. De potentiometer staat in de
+middenstand. Het aan de hoofdtelefoon aangeboden signaal:
+A. Is in tegenfase met het signaal op de loper van R15
+B. Is in fase met het signaal op de loper van R15
+C. IJlt 360 graden na ten opzichte van het signaal op de loper van R15
+D. IJlt 270 graden na ten opzichte van het signaal op de loper van R15
+(F-examen september 2011 (2), mei 2012 (2), November 2014 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-51
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.135 Opgave 13-135
+
+R11 en R12
+A. Dienen voor de tegenkoppeling van Q3
+B. Mogen geen draadgewonden weerstanden zijn
+C. Zorgen voor het juiste werkpunt van Q3
+D. Vormen met C9 een laagdoorlaatfilter
+(F-examen van mei 2014 (2), mei 2015 (1), september 2019, november 2019)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-52
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.136 Opgave 13-136
+
+Het circuit met Q3, Q4, Q5 en Q6 is een:
+A. Hoogfrequentversterker
+B. Laagfrequentversterker
+C. Middenfrequentversterker
+D. Gelijkstroomversterker
+(F-examen november 2015, mei 2017 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-53
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.137 Opgave 13-137
+Dit is een superheterodyne-ontvanger voor AM. Het schema hoort bij deze opgave en de
+31 volgende.
+
+De gebruikelijke waarde voor C21 is ongeveer:
+A. 10 pF
+B. 10 nF
+C. 100 F
+D. 500 pF
+(F-examen november 2008 (2), maart 2010)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-54
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.138 Opgave 13-138
+
+Transformator T2 dient voor het
+A. Verkrijgen van de juiste voedingsspanning
+B. Aanpassen van de antenne
+C. Aanpassen van de luidspreker
+D. Opwekken van de BFO-spanning
+(F-examen maart 2010, mei 2013 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-55
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.139 Opgave 13-139
+
+Transformator T1 dient voor het:
+A. Verkrijgen van de gewenste voedingsspanning
+B. Aanpassen van de antenne
+C. Aanpassen van de luidspreker
+D. Opwekken van de BFO-spanning
+(F-examen september 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-56
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.140 Opgave 13-140
+
+De condensator C21 dient om:
+A. De voedingsspanning voor de oscillator constant te houden
+B. Spanningsvariaties door stroomveranderingen in de eindtrap af te vlakken
+C. De versterking van hoge tonen in de LF-versterker te verminderen
+D. Hoge frequenties uit de voedingsspanning van het ontvanggedeelte te weren
+(F-examen mei 2016 (1), november 2017)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-57
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.141 Opgave 13-141
+
+Deze ontvanger is bedoeld voor de modulatiewijze:
+A. EZB
+B. FM
+C. AM
+D. CW
+(F-examen januari 2013)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-58
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.142 Opgave 13-142
+
+Weerstand R1 maakt deel uit van het circuit van de:
+A. Automatische versterkingsregeling
+B. Detector
+C. Oscillator
+D. Laagfrequentversterker
+(F-examen november 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-59
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.143 Opgave 13-143
+
+De condensator C5 dient om:
+A. Het verlopen van de instelling van de transistor te voorkomen
+B. Het circuit van de resonantiekring L6-C-6 compleet te maken
+C. De meekoppeling van de transistor te verzorgen
+D. L6 op de spiegelfrequentie af te stemmen
+(F-examen mei 2010 (2), maart 2013)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-60
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.144 Opgave 13-144
+
+De condensator C7 dient als:
+A. Ontkoppeling van het oscillatorsignaal
+B. Hoogfrequent-aarding
+C. Filter voor de spiegelfrequentie
+D. Laagfrequent-aarding van Q1
+(F-examen juni 2010, november 2018)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-61
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.145 Opgave 13-145
+
+De condensator C24 dient om:
+A. De versterking van hoge tonen in de eindtrap te verkleinen
+B. De LF-tegenkoppeling in de eindtrap te verminderen
+C. De stroom door de transistor constant te houden
+D. De transistor in het juiste werkpunt in te stellen
+(F-examen augustus 2013, mei 2016 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-62
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.146 Opgave 13-146
+
+Detectie van het laagfrequent signaal gebeurt door:
+A. Alleen D2
+B. Alleen D1
+C. Q4
+D. D1 en D2
+(F-examen juli 2010, januari 2011, november 2011 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-63
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.147 Opgave 13-147
+
+De gelijkrichting van de voedingsspanning wordt verzorgd door:
+A. Alleen D3
+B. Alleen D4
+C. D3 en D4
+D. Alleen D1
+(F-examen november 2010 (2), november 2012, november 2015)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-64
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.148 Opgave 13-148
+
+De automatische versterkingsregeling wordt verkregen met:
+A. D1 en D2
+B. Alleen D2
+C. D3 en D4
+D. Alleen D1
+(F-examen maart 2011 (2))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-65
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.149 Opgave 13-149
+
+De kring L1-C1 heeft tot doel:
+A. Het doorlaten van het te ontvangen station
+B. De ontvanger tegen hoge spanningen op de antenne te beschermen
+C. Het onderdrukken van signalen op de middenfrequentie
+D. De bandbreedte van de ontvanger te verkleinen
+(F-examen mei 2011 (2), mei 2012 (1), september 2017, mei 2018 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-66
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.4.150 Opgave 13-150
+
+De kring L1-C1 staat afgestemd op de:
+A. Oscillatorfrequentie
+B. Spiegelfrequentie
+C. Ontvangfrequentie
+D. Middenfrequentie
+(F-examen september 2017, mei 2018 (1))
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-67
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5 Uitwerkingen
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-68
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.101 Uitwerking van Opgave 13-101
+Een ontvanger heeft een MF-bandbreedte van 6 kHz. De hoogste frequentie die na
+detectie van een AM-signaal onvervormd wordt weergegeven, bedraagt:
+A. 12000 Hz
+B. 6000 Hz
+C. 1000 Hz
+D. 3000 Hz
+Uitwerking
+Bij AM is de signaalbandbreedte 2x de bandbreedte van de gemoduleerde frequentie. Een
+AM-demodulator levert daarom de helft van de bandbreedte van het gemoduleerde
+signaal. Dat is in dit geval de helft van 6kHz = 3 kHz = 3000 Hz. Dat is daarmee ook de
+hoogste onvervormd te ontvangen frequentie. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-69
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.102 Uitwerking van Opgave 13-102
+In een superheterodyne-ontvanger is de frequentie-afstand tussen de afgestemde
+frequentie en de spiegelfrequentie:
+A. De middenfrequentie
+B. De frequentie van het signaal min de middenfrequentie
+C. De frequentie van het signaal plus de middenfrequentie
+D. Tweemaal de middenfrequentie
+Uitwerking
+De middenfrequentie fm is het vaste verschil tussen afgestemde frequentie fa en de
+oscillatorfrequentie fo. Dat verband wordt vanouds tot stand gebracht met een vaste
+asverbinding tussen de variabele afstemcondensatoren voor de antennekring en voor de
+oscillator. De middenfrequentie kan op twee manieren tot stand komen:
+𝑓𝑚 = 𝑓𝑜 − 𝑓𝑎
+
+(𝑓𝑜 > 𝑓𝑎 )
+
+𝑓𝑚 = 𝑓𝑎 − 𝑓𝑜
+
+(𝑓𝑜 < 𝑓𝑎 )
+
+De eerste heet bovenmenging, de tweede ondermenging. Er is geen omschakelknopje van
+boven- naar ondermenging. Ze komen tegelijk voor. De consequentie is dat er bij menging
+voor elke afstemfrequentie fa een tweede frequentie is die dezelfde waarde voor fm
+oplevert. Die frequentie noemen we de spiegelfrequentie fs. Nu de vergelijkingen
+𝑓𝑚 + 𝑓𝑎 = 𝑓𝑜
+
+𝑒𝑛
+
+𝑓𝑜 = 𝑓𝑠 − 𝑓𝑚
+
+𝑓𝑚 + 𝑓𝑎 = 𝑓𝑠 − 𝑓𝑚
+
+→
+
+𝑒𝑛 𝑛𝑢:
+
+𝑓𝑠 − 𝑓𝑎 = 2𝑓𝑚
+
+Dat betekent dat antwoord D goed is. De grafiek hieronder laat het nog eens zien.
+Ondermenging
+afstemfreq.
+osc. freq.
+
+f
+
+spiegelfreq.
+middenfreq.
+
+Bovenmenging
+
+fa
+
+fm
+
+fo
+
+fm
+
+fs
+
+afstemfreq.
+osc. freq.
+
+f
+
+fm
+
+spiegelfreq.
+
+Afstemming
+
+fm
+
+fo
+
+fm
+
+fa
+fm
+
+middenfreq.
+
+fm
+
+fm
+Afstemming
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-70
+
+fs
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.103 Uitwerking van Opgave 13-103
+Een enkele superheterodyne-ontvanger heeft een middenfrequentie van 455 kHz. Voor
+ontvangst op 7,055 MHz is de oscillator afgestemd op:
+A. 7,965 kHz
+B. 7,055 kHz
+C. 6,145 kHz
+D. 7,510 kHz
+Uitwerking
+Zie het plaatje. Om van de ontvangstfrequentie van
+7,055 kHz naar de middenfrequentie van 455 kHz =
+0,455 MHz te komen, zijn er twee mogelijke
+oscillatorfrequenties:
+1. 7,055 MHz + 0,455 MHz = 7,510 MHz
+(bovenmenging)
+2. 7,055 MHz – 0,455 MHz = 6,600 MHz
+(ondermenging)
+
+HF
+
+Mixer
+
+7,055 MHz
+
+MF
+
+0,455 MHz
+
+Osc
+
+Van deze twee staat er één in het rijtje antwoorden, namelijk antwoord D. Alle andere
+antwoorden in het rijtje zijn daarom onjuist.
+Opmerking
+De twee berekende antwoorden verschillen 910 kHz en dat is 2x de middenfrequentie van
+455 kHz (Opgave 13-102).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-71
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.104 Uitwerking van Opgave 13-104
+Met een superheterodyne-ontvanger wordt een signaal ontvangen van 14 MHz. De
+oscillatorfrequentie is 5 MHz. De spiegelfrequentie is:
+A. 23 MHz
+B. 4 MHz
+C. 5 MHz
+D. 1 MHz
+Uitwerking
+Bij deze combinatie van frequenties is de middenfrequentie 14 MHz + 5 MHz = 19 MHz of
+14 MHz – 5 MHz = 9 MHz. Bij 19 MHz moet de spiegelfrequentie 19 MHz + 5 MHz = 24
+MHz zijn en die staat niet in het rijtje.
+Dan moet de middenfrequentie 9 MHz zijn. 5 MHz oscillatorfrequentie eraf en we
+houden 4 MHz over voor de spiegelfrequentie. Die staat wel in het rijtje, dus dat is hem.
+Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-72
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.105 Uitwerking van Opgave 13-105
+Met een superheterodyne-ontvanger wordt een signaal van 8 MHz ontvangen. De
+oscillatorfrequentie is 6,5 MHz. De spiegelfrequentie is:
+A. 9,5 MHz
+B. 5 MHz
+C. 1,5 MHz
+D. 14,5 MHz
+Uitwerking
+De middenfrequentie is 8 MHz + 6,5 MHz = 14,5 MHz of 8 MHz – 6,5 MHz = 1,5 MHz.
+Bij een middenfrequentie van 14,5 MHz is de spiegelfrequentie 14,5 MHz + 6,5 MHz = 21
+MHz en die staat niet in het rijtje.
+Dus naar de middenfrequentie van 1,5 MHz. 8 MHz − 2 ∗ 1,5 MHz = 5MHz. Die staat er
+wel in. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-73
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.106 Uitwerking van Opgave 13-106
+Een ontvanger is afgestemd op de frequentie 145,700 MHz. De oscillatorfrequentie
+bedraagt 135,000 MHz. De spiegelfrequentie is:
+A. 167,100 MHz
+B. 135,000 MHz
+C. 156,400 MHz
+D. 124,300 MHz
+Uitwerking
+De middenfrequentie is 145,700 MHz – 135,000 MHz = 10,700 MHz. Dan is de
+spiegelfrequentie 145,700 MHz − 2 ∗ 10,7000 MHz = 124,3 MHz. Antwoord D.
+Opmerking
+Theoretisch zou de middenfrequentie ook 145,7 MHz + 135,000 MHz = 280,7 MHz
+kunnen zijn. Dat is ten opzichte van 145,7 MHz zo hoog dat zo’n frequentie in de praktijk
+meer problemen veroorzaakt dan oplost. Die route is daarom niet realistisch.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-74
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.107 Uitwerking van Opgave 13-107
+Een ontvanger voor 145,500 MHz heeft een middenfrequentie van 10,700 MHz. De
+spiegelfrequentie is:
+A. 156,200 MHz
+B. 134,800 MHz
+C. 10,700 MHz
+D. 124,100 MHz
+Uitwerking
+De spiegelfrequentie kan zijn 145,500 MHz + 2 ∗ 10,700 MHz = 145,500 MHz +
+21,4 MHz = 166,9 MHz bij bovenmenging of 145,500 MHz − 21,4 MHz = 124,100 MHz
+bij ondermenging. De uitkomst voor bovenmenging staat niet in het rijtje antwoorden,
+maar die voor ondermenging wel. Dat is antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-75
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.108 Uitwerking van Opgave 13-108
+De spiegelonderdrukking van een superheterodyne-ontvanger wordt verbeterd door:
+A. De stabiliteit van de oscillator te vergroten
+B. De selectiviteit van de MF-versterker te vergroten
+C. De bandbreedte van de LF-versterker te verkleinen
+D. De selectiviteit van de HF-versterker te vergroten
+Uitwerking
+De stabiliteit van de oscillator heeft hier niets mee te maken. De onderdrukking van de
+spiegelfrequentie (de veraf-selectiviteit) zit in de hoogfrequenttrap. Wat daarna over is
+van een eventueel signaal op de spiegelfrequentie komt via de mengtrap in het systeem
+terecht.
+Bij alles wat na de mengtrap komt, is het kwaad dus al geschied. Dat houdt in dat
+antwoorden B en C afvallen en dat antwoord D juist is. Immers, de HF-versterker komt
+vóór de mengtrap. Dus: hoe groter de selectiviteit van de mengtrap, des te beter de
+spiegelonderdrukking.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-76
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.109 Uitwerking van Opgave 13-109
+Een FM-ontvanger met een middenfrequentie van 10,7 MHz is afgestemd op een zender,
+werkend op 90 MHz. De oscillatorfrequentie is hoger dan de signaalfrequentie. Een
+andere zender op de spiegelfrequentie veroorzaakt storing in de ontvangst. Deze zender
+werkt op een frequentie van
+A. 21,4 MHz
+B. 79,3 MHz
+C. 100,7 MHz
+D. 111,4 MHz
+Uitwerking
+Eigenlijk is de vraag samen te vatten tot: wat is de spiegelfrequentie? Gegeven is dat de
+oscillatorfrequentie boven de signaalfrequentie ligt. Bovenmenging dus. Dan moet de
+oscillatorfrequentie 90 MHz + 10,7 MHz = 100,7 MHz zijn. De spiegelfrequentie ligt dan
+nog eens 10,7 MHz hoger. Dat wordt dan 100,7 MHz + 10,7 MHz = 111,4 MHz.
+Antwoord D.
+Opmerking
+We hebben hier met opzet de spiegelfrequentie niet uitgerekend als afstemfrequentie plus
+2 keer MF om in herinnering te brengen dat het ook op de hier gebruikte manier kan. Let
+wel: de spiegelfrequentie komt binnen via ondermenging, terwijl de afstemfrequentie
+binnenkomt via bovenmenging. Die tegenstelling is standaard. Zou de afstemfrequentie
+binnenkomen via ondermenging, dan komt de spiegelfrequentie binnen via
+bovenmenging.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-77
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.110 Uitwerking van Opgave 13-110
+Een superheterodyne-ontvanger is afgestemd op 800 kHz. De oscillatorfrequentie is 1255
+kHz. De spiegelfrequentie is:
+A. 455 kHz
+B. 2055 kHz
+C. 345 kHz
+D. 1710 kHz
+Uitwerking
+De middenfrequentie is 1255 kHz – 800 kHz = 455 kHz. Dit is dus een geval van
+bovenmenging. De spiegelfrequentie komt dan binnen via ondermenging en is dan
+oscillatorfrequentie plus middenfrequentie: 1255 kHz + 455 kHz = 1710 kHz. Zie de
+opmerking bij de uitwerking van Opgave 13-109. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-78
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.111 Uitwerking van Opgave 13-111
+In principe is een omroepontvanger voor de FM-omroepband (88-18 MHz) te verstemmen
+naar de 2 meter-band. Toch zal zo’n ontvanger in de praktijk erg tegenvallen, omdat:
+A. De begrenzer ontbreekt
+B. De MF-bandbreedte veel te klein is
+C. De MF-bandbreedte veel te groot is
+D. Deze ontvanger geen geschikte kanaalindeling heeft
+Uitwerking
+De bandbreedte van een audiosignaal is voor omroep-FM 15 kHz, omdat omroep-FM ook
+een hoge kwaliteit muziek in stereo moet overbrengen. Voor de amateurband is dat 3
+kHz, omdat de eis niet hoger ligt dan verstaanbare spraak. Op de amateurband ligt de
+modulatie-index m onder de 1, waarbij de bandbreedte niet groter is dan 12 kHz. Bij
+omroep-FM is dat voor stereo ongeveer 150 kHz. Dat zijn ruim 12 amateur-kanalen!
+Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-79
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.112 Uitwerking van Opgave 13-112
+In een FM-ontvanger wordt een begrenzer toegepast om:
+A. Ongewenste uitstraling te verminderen
+B. Vervorming van de mengtrap te verminderen
+C. Selectiviteit te verbeteren
+D. De detector van een signaal met constante amplitude te voorzien
+Uitwerking
+Een FM-signaal wordt uitgezonden met constante amplitude, want de informatie
+(modulatie) zit niet in de amplitude, maar in de frequentie. Tussen zender en ontvanger
+kan een signaal allerlei storingen opdoen. Storingen hebben meestal een AM-karakter.
+Detectie van FM in een ontvanger is meestal een tweetraps-systeem. Daarbij wordt FM
+eerst omgezet in een soort AM waarna het gedetecteerd wordt, als was het een AMsignaal. In zo’n situatie moet een binnenkomend FM-signaal AM-vrij zijn, omdat het
+detectiesysteem geen onderscheid maakt tussen storing en signaal. Daarom passeert het
+signaal eerst een begrenzer. Die verwijdert alles wat op AM lijkt door de amplitude
+constant de maken. Pas daarna komt de detector (“discriminator”) eraan te pas. Antwoord
+D.
+De tekening hieronder geeft de positie van een begrenzer (rood) in een FM-ontvanger
+aan.
+
+MF
+
+Begrenzer
+
+Discrimin./
+Detector
+
+LF
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-80
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.113 Uitwerking van Opgave 13-113
+De begrenzer in een FM-ontvanger begrenst:
+A. De frequentiezwaai
+B. De amplitude van het te detecteren signaal
+C. Het frequentieverloop van de oscillator
+D. De bandbreedte van het laagfrequentsignaal
+Uitwerking
+De begrenzer in een FM-ontvanger begrenst der amplitude van het signaal vóórdat het
+wordt gedetecteerd. Daarmee blijft de frequentie in stand, amplitudevariaties niet. De
+frequentie bevat de informatie in het signaal; de amplitude doet dat alleen bij AM en
+daarvan afgeleide modulatievormen. Door de begrenzing wordt het signaal geheel AMvrij gemaakt, waardoor het gedetecteerde signaal in principe storingvrij wordt, want
+storingen hebben doorgaans een AM-karakter.
+Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-81
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.114 Uitwerking van Opgave 13-114
+Een squelch-schakeling dient om:
+A. Vonkstoringen te onderdrukken
+B. Ruis te onderdrukken als geen signaal wordt ontvangen
+C. De gevoeligheid van de ontvanger te vergroten
+D. Spiegelfrequentie(s) te onderdrukken
+Uitwerking
+Een squelch-schakeling zit in het LF-deel van de ontvanger en onderdrukt ruis bij
+afwezigheid van signaal, vooral omdat de AVR de ontvanger bij afwezigheid van signaal
+ook nog eens maximaal laat versterken. Antwoord B.
+Opmerkingen
+Vonkstoringen zijn altijd van het AM-type en worden effectief onderdrukt door de
+begrenzer.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-82
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.115 Uitwerking van Opgave 13-115
+De squelch-schakeling van een FM-ontvanger onderdrukt het signaal in de:
+A. Laagfrequent versterker
+B. Middenfrequent versterker
+C. Mengtrap
+D. Hoogfrequent versterker
+Uitwerking
+Een squelch-schakeling zit altijd in de LF-versterker. Antwoord A.
+Opmerking
+Als er geen modulatie wordt ontvangen, zet de AVR- of AGC-regeling de versterking in
+de MF-versterker maximaal “open”. Daarmee wordt de ruis die bij FM vooral afkomstig is
+uit de mixer met zijn niet-lineaire instelling, maximaal versterkt. Die ruis is voor de
+luisteraar onaangenaam hard. De remedie is de squelch-schakeling, die de LF-versterker
+bij een instelbaar (laag) signaalniveau dichtzet.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-83
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.116 Uitwerking van Opgave 13-116
+In een superheterodyne-ontvanger met een middenfrequentie van 1 MHz is de
+oscillatorfrequentie hoger dan de te ontvangen frequentie. De ontvanger is afstembaar van
+2-5 MHz. De capaciteit in de oscillatorkring dient dan gevarieerd te kunnen worden met
+een factor:
+A. 2,5
+B. 6,25
+C. 2
+D. 4
+Uitwerking
+We beginnen mat het vinden van de oscillatorfrequentie. Omdat de middenfrequentie 1
+MHz is en de oscillatorfrequentie boven de te ontvangen frequentie ligt, moet de
+oscillatorfrequentie liggen tussen 2+1 MHz = 3 MHz en 5+1 MHz = 6 MHz. Dat is een
+factor 2 tussen hoogste en laagste frequentie.
+De frequentie f is volgens de vergelijking van Thompson 𝑓 = 1⁄
+omgekeerd
+2𝜋√𝐿𝐶
+evenredig met de wortel uit de kringcapaciteit. Dan is de kringcapaciteit omgekeerd
+evenredig met het kwadraat van de frequentie. De frequentie varieert met een factor 2;
+dan moet de capaciteit met een factor 22 = 4 kunnen variëren. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-84
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.117 Uitwerking van Opgave 13-117
+Een HF-ontvanger heeft een MF-versterker op 500 kHz (centrale frequentie) met een
+bandbreedte van 3000 Hz. Om een J3E bovenzijbandsignaal in de 14 MHz amateurband te
+ontvangen, is de 1e oscillator ingesteld op 14,7 MHz. Voor optimale verstaanbaarheid
+wordt de hulposcillator (BFO) ingesteld op:
+A. 497 kHz
+B. 498,5 kHz
+C. 500 kHz
+D. 501,5 kHz
+
+J3E is EZB.
+Uitwerking
+Laten we eerst de situatie duidelijk krijgen. De 14 MHz-band loopt van 14,000 tot 14,350
+MHz. Een oscillatorfrequentie van 14,7 MHz betekent daarom bovenmenging. Zoals we
+in de hoofdstuktekst zagen, betekent bovenmenging een omkering van de zijband. Het
+MF-signaal is daardoor van bovenzijbandsignaal onderzijbandsignaal geworden.
+Het MF-signaal is 3000 Hz breed. De MF heeft 500 kHz als “centrale frequentie”. Dan
+moet het 3000 Hz = 3 kHz brede signaal met het midden op 500 kHz liggen en ligt de
+hoogste frequentie met de helft van de bandbreedte (dat is 1,5 kHz) boven 500 kHz en
+met de andere helft, eveneens 1,5 kHz, eronder. Het signaalbandje van 3 kHz breed ligt
+dus tussen 500 kHz + 1,5 Hz = 501,5 kHz en 500 kHz – 1,5 kHz = 498,5 kHz.
+Omdat het gaat om een onderzijbandsignaal, moet de BFO-frequentie, de vervangende
+draaggolf, op de bovenkant van het signaalbandje liggen. Dat is 501,5 kHz, antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-85
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.118 Uitwerking van Opgave 13-118
+Een superheterodyne-ontvanger is zodanig afgesteld dat een antennesignaal van 12 MHz
+kan worden ontvangen. De middenfrequentie is 1,5 MHz. De oscillatorfrequentie van
+deze ontvanger is
+A. 15 MHz
+B. 10,5 MHz
+C. 9 MHz
+D. 3 MHz
+Uitwerking
+De middenfrequentie kan via bovenmenging of via ondermenging tot stand komen. Er
+zijn dan twee mogelijkheden voor de middenfrequentie:
+12 MHz + 1,5 MHz =13,5 MHz (bovenmenging)
+12 MHz – 1,5 MHz = 10,5 MHz (ondermenging)
+Alleen de frequentie voor ondermenging staat in het rijtje: 10,5 MHz; antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-86
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.119 Uitwerking van Opgave 13-119
+Een ontvanger met een eerste middenfrequentie van 9 MHz en een tweede
+middenfrequentie van 455 kHz wordt gebruikt om EZB-modulatie te ontvangen. De
+oscillatorfrequentie voor de productdetector is in dat geval ongeveer:
+A. 455 kHz
+B. 910 kHz
+C. 9 MHz
+D. 9003 kHz
+Uitwerking
+De oscillatorfrequentie voor de productdetector zal ergens tussen 1,3 en 1,5 kH naast de
+MF van 455 kHz zitten; dat is dus ongeveer (let op dat woordje in de vraagstelling) 455
+kHz zijn. Dat is antwoord A.
+Opmerking
+Die eerste middenfrequentie doet helemaal niet mee en schept hoogstens verwarring. Wie
+niet stevig genoeg in zijn/haar schoenen staat, loopt zo het risico, bij antwoord C of D uit
+te komen en een fout antwoord te scoren.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-87
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.120 Uitwerking van Opgave 13-120
+Het circuit voor de automatische versterkingsregeling van een EZB-ontvanger heeft bij
+voorkeur een afvaltijd van
+A. 1 minuut
+B. 1 seconde
+C. 1 microseconde
+D. 1 milliseconde
+Uitwerking
+De automatische versterkingsregeling (AVR of AGC) dient om grote verschillen in
+geluidsniveau tussen stations in een ontvanger te voorkomen. Dit gebeurt voornamelijk in
+HF- en MF-versterker(s). Van een storings- of signaalpiek moet zo weinig mogelijk het
+oor bereiken. De AVR moet daarom snel inkomen als zoiets zich voordoet. Maar de
+afvaltijd is langer, om te voorkomen dat een “hikkerig” soort ontvangst ontstaat. 1 minuut
+is daarvoor natuurlijk overdreven lang, maar 1 seconde is vrij normaal. Milliseconden zijn
+goed om het signaal te laten inkomen. Antwoord B.
+Opmerking
+Dit gedrag van snel inkomen en langzaam afvallen heet wel op zijn Engels: fast attack,
+slow decay (snel aanvallen, langzaam afvallen)
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-88
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.121 Uitwerking van Opgave 13-121
+Bij demodulatie van enkelzijbandsignalen en CW wordt doorgaans gebruik gemaakt van
+een
+A. Anodedetector
+B. Ratiodetector
+C. Productdetector
+D. Discriminator
+Uitwerking
+De productdetector, een detector met BFO of zwevingsoscillator, is hier het enige zinnige
+en juiste antwoord. Antwoord C.
+Opmerkingen
+Een anodedetector is een AM-detector uit het grijze buizenverleden en allang geen
+examenstof meer. Ratiodetector en discriminator horen bij demodulatie van FM.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-89
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.122 Uitwerking van Opgave 13-122
+
+Deze schakeling is een
+A. Vermogensbegrenzer
+B. Dubbelfasige gelijkrichter
+C. FM-detectot
+D. Productdetector
+Uitwerking
+Deze schakeling is een ringmodulator, ofwel een gebalanceerde mengschakeling. Die kan
+dienstdoen als productdetector, want een productdetector is een mengschakeling.
+Antwoord D.
+Opmerking
+De mogelijke verwarring is met de bruggelijkrichter
+(dubbelfasige gelijkrichter). Die heeft ook vier dioden, maar
+die zijn anders geschakeld (zie afbeelding hiernaast). De
+wisselstroomaansluitingen zijn aangegeven met een sinusje,
+de plus en min met een +, resp. een -.
+
+-
+
+Bij de gebalanceerde mengschakeling kun je in de
+doorlaatrichting van de dioden blijven rondgaan, bij de gelijkrichter (brugschakeling)
+rechts lukt dat niet. Probeer maar.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-90
+
++
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.123 Uitwerking van Opgave 13-123
+De zwevingsoscillator van een superheterodyne-ontvanger is nodig bij de ontvangst van
+A. Televisie (A3F)
+B. FM (F3E)
+C. AM (A3E)
+D. CW (A1A)
+Uitwerking
+Een zwevingsoscillator is nodig bij een productdetector. Een productdetector is nodig bij
+de demodulatie van CW en SSB (single sideband = EZB). Dat komt bij dit lijstje
+antwoorden neer op CW. Antwoord D.
+Opmerking
+De vier codes bij de antwoorden zijn samen met andere soortgelijke codes examenstof en
+komen aan de orde bij de regelgeving in hoofdstuk 18. Bij deze opgave heb je ze niet
+nodig. Beschouw ze maar als versiering.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-91
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.124 Uitwerking van Opgave 13-124
+Als de detectieschakeling met BFO wordt meegeteld, dan heeft een enkelvoudige
+superheterodyne-ontvanger:
+A. 4 mengtrappen
+B. 3 mengtrappen
+C. 1 mengtrap
+D. 2 mengtrappen
+Uitwerking
+In een enkelvoudige super zit één mengtrap met VCO en één met BFO
+(zwevingsoscillator, CIO). Samen zijn dat twee mengschakelingen. Antwoord D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-92
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.125 Uitwerking van Opgave 13-125
+De zwevingsoscillator van een superheterodyne-ontvanger werkt meestal op één
+frequentie dichtbij de frequentie van de:
+A. Eerste oscillator
+B. Audioversterker
+C. Middenfrequentie
+D. Hoogfrequentversterker
+Uitwerking
+De zwevingsoscillator maakt deel uit van de detectieschakeling (demodulator). De
+detectieschakeling haalt via een mengschakeling de modulatiefrequentie (de LF) uit de
+middenfrequentie. De LF ligt tussen 300 en 3000 Hz; de middenfrequentie is vele malen
+hoger en bedraagt minstens enkele honderden kHz. De frequentie van de
+zwevingsoscillator verschilt ruwweg 1x de LF van de middenfrequentie. Daarmee is de
+zwevingsfrequentie bijna gelijk aan de middenfrequentie. Antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-93
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.126 Uitwerking van Opgave 13-126
+Van een telegrafie-ontvanger is de middenfrequentie 756 kHz. Om een A1A-signaal
+(onderbroken draaggolf) hoorbaar te maken, heeft de BFO een frequentie van:
+A. 757 kHz
+B. 1 kHz
+C. 776 kHz
+D. 756 kHz
+Uitwerking
+A1A is CW (meer hierover in hoofdstuk 18). De onderbroken draaggolf ontstaat doordat
+hij in de zender aan/uit geschakeld wordt (“gesleuteld”).
+Een CW-signaal wordt meestal hoorbaar gemaakt op een frequentie van ongeveer 1000
+Hz. Daarvoor moet de BFO-frequentie 1000 Hz (1 kHz) verschillen met de
+middenfrequentie van (in dit geval) 756 kHz. Dat is 757 of 755 kHz. De enige frequentie
+in het rijtje die daaraan voldoet is 757 kHz, antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-94
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.127 Uitwerking van Opgave 13-127
+Dit is een regeneratieve ontvanger. Het schema hoort bij deze opgave en de 9 volgende.
+
+Voor een goede werking dient R1 een waarde te hebben van:
+A. 100 
+B. 1000 
+C. 500 
+D. 100 k
+Uitwerking
+De varicap D1, die de capaciteit van de afstemkring is, krijgt zijn spanning via R1, R2 en
+potmeter R3. Om de kwaliteitsfactor Q van de kring zo hoog mogelijk te houden, moet de
+waarde van R1 zo groot mogelijk zijn. Neem daarom de hoogste waarde in het rijtje
+antwoorden: antwoord D.
+Opmerking bij deze uitwerking en alle volgende t/m die van Opgave 13-136
+Dit is een regeneratieve ontvanger. Je kunt je afvragen of die bij de huidige voorschriften
+mag worden gebruikt, want hij kan oscilleren. Dat hoort hij nèt niet te doen. Soms wordt
+dat per ongeluk nèt wel. De oscillator in een super oscilleert ook, maar hangt niet
+rechtstreeks aan de antenne. Hier is dat via de binding L1 – L2 wel het geval. Dan kan de
+ontvanger een zender worden die niet hoort te zenden. De regeneratieve ontvanger staat
+niet in de exameneisen. Voor de zekerheid bevat de cursustekst er toch een stukje over.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-95
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.128 Uitwerking van Opgave 13-128
+
+D3-D6 is een
+A. Afvlakschakeling
+B. Bruggelijkrichter
+C. Balansmodulator
+D. Enkelzijdige gelijkrichter
+Uitwerking
+De vier dioden D3-D6 zitten in het deel rechtsonder in de schakeling. Ze zien eruit als
+een bruggelijkrichter en dat zijn ze met hun vieren ook. Ze vormen het hart van de 12 V
+voedingsschakeling. De 230 V wordt daarvoor omlaag getransformeerd, gelijkgericht en
+daarna afgevlakt door de electrolytische condensator C22. Het schema laat geen leiding
+zien van de voeding naar de ontvangerschakeling, maar de aansluitingen met “+12 V”
+rechtsboven op de voeding en op het ontvangerschema zeggen dat ze onderdeel zijn van
+dezelfde leiding en dat is voldoende. Deze manier van aangeven kom je in schema’s
+regelmatig tegen.
+Alles bij elkaar is dit voldoende voor antwoord B.
+Opmerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Wie de diodeschakeling heeft aangezien voor een balansmodulator, kijkt nog eens naar de
+uitwerking van Opgave 13-122.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-96
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.129 Uitwerking van Opgave 13-129
+
+Halfgeleider Q1 is een
+A. P-kanaal veldeffecttransistor
+B. PNP-transistor
+C. NPN-transistor
+D. N-kanaal veldeffecttransistor
+Uitwerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Q1 is een N-kanaal FET. Zie afbeelding hieronder, die de schemasymbolen van alle vier
+antwoorden laat zien.
+
+NPN
+
+PNP
+
+N-kanaal FET
+
+P-kanaal FET
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-97
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.130 Uitwerking van Opgave 13-130
+
+De schakeling rondom Q2 is bedoeld:
+A. Voor het regelen van het laagfrequent vermogen van de hoofdtelefoon
+B. Als detectorschakeling voor signalen van Q1
+C. Voor het opwekken van het oscillatorsignaal
+D. Voor het precies instellen van de drain-source spanning van Q1.
+Uitwerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Dit is een regeneratieve ontvanger. De terugkoppeling van de afstemkring met L1 loopt via
+L2 De emitter van Q2 is via de terugkoppelspoel L2 verbonden met de source van Q1. R6 is
+hun gemeenschappelijke source/emitterweerstand. Q2 staat in GBS. De basisgelijkspanning
+van Q2 wordt ingesteld met het weerstandsnetwerk R7, R8, R9 en R10. R7 en R8 regelen het
+punt waarop bij de laagste stand van potmeter R10 de transistor Q2 net dicht gaat. Daarmee
+wordt de terugkoppeling via L2 geregeld. Als Q2 niet geleidt, is er alleen geleiding via R6
+en nauwelijks terugkoppeling naar de source van Q1. Draai met R10 de transistor open en
+aan het eind van de spoel komt de lage ingangsweerstand van de GES te staan. Dan is de
+wisselstroom door L2 maximaal en daarmee ook de terugkoppeling. De ontvanger wordt
+op het randje van oscilleren gebracht door nauwkeurig instellen van R10. De schakeling
+rond Q2 regelt vooral de terugkoppeling. Dat staat niet bij de antwoorden. Wel bij de
+antwoorden staat het instellen van de drain-sourcespanning van Q1 (D). Die heeft alleen
+weinig invloed op de gang van zaken. Maar bij gebrek aan beter toch maar antwoord D.
+Dat is ook het “officiële” antwoord.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-98
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.131 Uitwerking van Opgave 13-131
+
+Halfgeleider Q3 is een:
+A. P-kanaal veldeffecttransistor
+B. NPN-transistor
+C. N-kanaal veldeffecttransistor
+D. PNP-transistor
+Uitwerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Als je het niet meteen ziet, ga dan terug naar de uitwerking van Opgave 13-129 met de
+afbeelding van alle vier de schemasymbolen voor transistoren en FET’s. Het juiste
+antwoord is D.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-99
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.132 Uitwerking van Opgave 13-132
+
+Voor laagfrequent volumeregeling dient de volgende variabele weerstand of
+potentiometer:
+A. R8
+B. R4
+C. R3
+D. R15
+Uitwerking
+R8 is deel van de gelijkstroominstelling van Q2. R4 maakt deel uit van de
+gelijkspanningsinstelling van D1 en dus van de afstemming. Dat geldt ook voor R3.
+R15 regelt het LF-volume via Q4 – Q6. Antwoord D.
+Opmerking(zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Een LF-versterkertrap met transistoren is meestal herkenbaar aan de elektrolytische
+koppel- en ontkoppelcondensatoren. Hier ook.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-100
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.133 Uitwerking van Opgave 13-133
+
+Q2, Q4, Q5 en Q6 zijn:
+A. NPN-transistoren
+B. P-kanaal veldeffecttransistoren
+C. N-kanaal veldeffecttransistoren
+D. PNP-transistoren
+Uitwerking
+Dit zijn NPN-transistoren (pijl naar buiten). Zie ook de afbeelding bij de uitwerking van
+Opgave 13-129. Antwoord A.
+Opmerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+De “ontbrekende” transistor Q3 is een PNP-type. Vandaar dat hij niet in het rijtje staat.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-101
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.134 Uitwerking van Opgave 13-134
+
+Op de loper van R15 is een sinusvormig signaal aanwezig. De potentiometer staat in de
+middenstand. Het aan de hoofdtelefoon aangeboden signaal:
+A. Is in tegenfase met het signaal op de loper van R15
+B. Is in fase met het signaal op de loper van R15
+C. IJlt 360 graden na ten opzichte van het signaal op de loper van R15
+D. IJlt 270 graden na ten opzichte van het signaal op de loper van R15
+Uitwerking
+De eerstvolgende transistor in de LF-versterkertrap na R15 is Q4. Die staat in
+gemeenschappelijke emitterschakeling (GES). Het versterkte signaal wordt op de collector
+afgenomen en is ten opzichte van de basis (de signaalingang) 180 graden in fase gedraaid.
+De twee volgende transistoren, Q5 en Q6, staan beide geschakeld als emittervolger (zo’n
+tweetal heet ook wel een Darlington-schakeling) en veranderen daardoor niets aan de
+fase. Daardoor krijgt de koptelefoon ten opzichte van de loper van R15 een 180 graden in
+fase gedraaid signaal aangeboden, wat hetzelfde is als tegenfase. Antwoord A.
+Opmerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Een oneven aantal transistoren in GES leidt tot een signaal in tegenfase met dat op het
+beginpunt van een LF-versterker; een even aantal in GES tot een signaal in fase.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-102
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.135 Uitwerking van Opgave 13-135
+
+R11 en R12
+A. Dienen voor de tegenkoppeling van Q3
+B. Mogen geen draadgewonden weerstanden zijn
+C. Zorgen voor het juiste werkpunt van Q3
+D. Vormen met C9 een laagdoorlaatfilter
+Uitwerking
+R11 en R12 bepalen (met R13) het werkpunt van Q3. Antwoord C.
+Opmerkingen (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Condensator C9 is de koppelcondensator tussen Q1 en Q3. Merk op dat Q3 een PNPtransistor in GES is.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-103
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.136 Uitwerking van Opgave 13-136
+
+Het circuit met Q3, Q4, Q5 en Q6 is een:
+A. Hoogfrequentversterker
+B. Laagfrequentversterker
+C. Middenfrequentversterker
+D. Gelijkstroomversterker
+Uitwerking
+De schakeling met deze vier transistoren is de laagfrequentversterker met R15 als
+volumeregelaar. Antwoord B.
+Opmerking (zie ook de opmerking bij de Uitwerking van Opgave 13-127)
+Een regeneratieve ontvanger heeft geen middenfrequent-versterker.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-104
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.137 Uitwerking van Opgave 13-137
+
+De gebruikelijke waarde voor C21 is ongeveer:
+A. 10 pF
+B. 10 nF
+C. 100 F
+D. 500 pF
+Uitwerking
+De condensator vind je rechts bovenin het schema. Het is een electrolytische condensator.
+Die vind je in het F-bereik. Dan kan het alleen maar antwoord C zijn. De condensator
+wordt hier gebruikt om de ongestabiliseerde voedingsspanning tussen R19 en R13 af te
+vlakken voor de eerste transistor van het LF-deel (Q4).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-105
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.138 Uitwerking van Opgave 13-138
+
+Transformator T2 dient voor het
+A. Verkrijgen van de juiste voedingsspanning
+B. Aanpassen van de antenne
+C. Aanpassen van de luidspreker
+D. Opwekken van de BFO-spanning
+Uitwerking
+Transformator T2 (rechts in het schema, boven Q5) is de aanpassingstrafo tussen de
+hoogohmige uitgang van transistor Q5 en de laagohmige luidspreker. Antwoord C.
+Opmerkingen
+De antenne-ingang zit links en daar verwacht je eerder een afgestemde kring dan een
+trafo. En zo zit het schema ook in elkaar. De voeding is rechtsonder los van het schema
+getekend. Bij een AM-super hoort geen BFO.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-106
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.139 Uitwerking van Opgave 13-139
+
+Transformator T1 dient voor het:
+A. Verkrijgen van de gewenste voedingsspanning
+B. Aanpassen van de antenne
+C. Aanpassen van de luidspreker
+D. Opwekken van de BFO-spanning
+Uitwerking
+Transformator T1 heeft aan zijn secundaire twee dioden die samen een dubbelfasige
+gelijkrichter zijn met een afvlak-elco (C29) naar spanningV ++en een zener-stabilisator voor
+de spanningV +.
+Dit moet dus wel een voedingsschakeling zijn. Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-107
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.140 Uitwerking van Opgave 13-140
+
+De condensator C21 dient om:
+A. De voedingsspanning voor de oscillator constant te houden
+B. Spanningsvariaties door stroomveranderingen in de eindtrap af te vlakken
+C. De versterking van hoge tonen in de LF-versterker te verminderen
+D. Hoge frequenties uit de voedingsspanning van het ontvanggedeelte te weren
+Uitwerking
+De stroom naar de LF-eindtrap en de luidspreker wisselt met de signaalfrequentie en amplitude en is (veel) groter dan de stroom naar andere delen van de ontvanger. In het
+voedingssysteem voor de eindtrap treden dan ook de grootste stroom- en
+spanningsvariaties op. C21 is bedoeld om die spanningsvariaties af te vlakken en zo goed
+mogelijk buiten de LF-voorversterker (schakeling met Q4) te houden. Wat daar niet
+inkomt, komt ook niet in de eindtrap. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-108
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.141 Uitwerking van Opgave 13-141
+
+Deze ontvanger is bedoeld voor de modulatiewijze:
+A. EZB
+B. FM
+C. AM
+D. CW
+Uitwerking
+Voor het antwoord op deze vraag kun je het beste naar de detector zoeken. Deze
+schakeling bestaat uit diode D1, condensator C19 en weerstand/potentiometer R14. Dus een
+diodedetector met volumeregelaar erachter. Dat kan alleen maar AM zijn. Antwoord C.
+Opmerkingen
+Antwoord A en antwoord D gaan niet zonder BFO en die is er niet. Antwoord B heeft een
+begrenzer nodig die er niet is en een ingewikkelder detectieschakeling (discriminator) dan
+die in het schema.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-109
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.142 Uitwerking van Opgave 13-142
+
+Weerstand R1 maakt deel uit van het curcuit van de:
+A. Automatische versterkingsregeling
+B. Detector
+C. Oscillator
+D. Laagfrequentversterker
+Uitwerking
+De leiding met R1 komt vanaf L15 via diode D2. L15 is onderdeel van het laatste MF-filter
+vóór de detector en is aan de andere kant verbonden met de basis van Q1. Dat kan niet
+anders dan automatische versterkingsregeling zijn. De doorlaatrichting van D2 klopt daar
+ook mee: hoe sterker het signaal, des te lager de basisspanning van Q1 en des te sterker
+staat Q1 afgeknepen. Antwoord A.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-110
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.143 Uitwerking van Opgave 13-143
+
+De condensator C5 dient om:
+A. Het verlopen van de instelling van de transistor te voorkomen
+B. Het circuit van de resonantiekring L6-C-6 compleet te maken
+C. De meekoppeling van de transistor te verzorgen
+D. L6 op de spiegelfrequentie af te stemmen
+Uitwerking
+C5 wordt gebruikt om de resonantiekring L6-C6 aan te vullen. C5 legt de bovenkant van L6C6 voor HF-wisselstroom aan aarde. Antwoord B.
+Opmerkingen
+Antwoord A is niet goed, want dat gebeurt door R2, R3 en R4
+Antwoord C is niet goed omdat alleen Q6 als deel van de oscillator meekoppeling heeft
+Antwoord D is niet goed omdat er niet op spiegelfrequenties wordt afgestemd.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-111
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.144 Uitwerking van Opgave 13-144
+
+De condensator C7 dient als:
+A. Ontkoppeling van het oscillatorsignaal
+B. Hoogfrequent-aarding
+C. Filter voor de spiegelfrequentie
+D. Laagfrequent-aarding van Q1
+Uitwerking
+C7 dient als HF-ontkoppelcondensator voor de emitter van Q1. Die ligt daardoor voor HF
+praktisch aan aarde, zodat de tegenkoppeling via R4 praktisch tenietgedaan wordt. Dat
+vergroot de versterking van de transistor en heeft niets van doen met LF-aarding.
+Antwoord B.
+Opmerkingen
+Antwoord A is onjuist omdat dit door C26 gebeurt.
+Antwoord C is onjuist omdat dit gebeurt door de afstemkringen L3-C.3 en L6-C6.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-112
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.145 Uitwerking van Opgave 13-145
+
+De condensator C24 dient om:
+A. De versterking van hoge tonen in de eindtrap te verkleinen
+B. De LF-tegenkoppeling in de eindtrap te verminderen
+C. De stroom door de transistor constant te houden
+D. De transistor in het juiste werkpunt in te stellen
+Uitwerking
+C24 is de LF-ontkoppelcondensator in de emitterleiding van Q5. Daardoor wordt de
+versterking van Q5 vergroot. Antwoord B.
+Opmerkingen
+Antwoord A is onjuist, want bij een hogere frequentie wordt de tegenkoppeling kleiner.
+Antwoord C is onjuist, want met een condensator houd je geen gelijkstroom constant.
+Antwoord D is onjuist, want het werkpunt wordt bepaald door R20, R21 en R22.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-113
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.146 Uitwerking van Opgave 13-146
+
+Detectie van het laagfrequent signaal gebeurt door:
+A. Alleen D2
+B. Alleen D1
+C. Q4
+D. D1 en D2
+Uitwerking
+Alleen D1. Antwoord B.
+Opmerkingen
+D2 richt het signaal voor de AVR gelijk en Q4 zit voorbij de LF-volumeregelaar R14, waar
+de detectie al voltooid moet zijn (en ook is).
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-114
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.147 Uitwerking van Opgave 13-147
+
+De gelijkrichting van de voedingsspanning wordt verzorgd door:
+A. Alleen D3
+B. Alleen D4
+C. D3 en D4
+D. Alleen D1
+Uitwerking
+De secundaire van de voedingstrafo (afzonderlijk schema rechtsonder) heeft een
+aardverbinding aan de middenaftakking en op de uiteinden van beide wikkelhelften de
+gelijkrichtdioden D3 en D4. Daarvan komen de anodes op de plusleiding samen.
+Onmiskenbaar een dubbelfasige gelijkrichtschakeling. C29 verzorgt de afvlakking.
+Antwoord C.
+Opmerking
+D1 heeft er niets mee te maken. Dat is de detectordiode.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-115
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.148 Uitwerking van Opgave 13-148
+
+De automatische versterkingsregeling wordt verkregen met:
+A. D1 en D2
+B. Alleen D2
+C. D3 en D4
+D. Alleen D1
+Uitwerking
+De transistoren die met de AVR worden geregeld, zijn die voor de MF en meestal die voor
+HF. De regeling verloopt bij transistoren via de basisspanning. Bij NPN-transistoren zoals
+hier moet die lager worden bij toenemende MF-amplitude. Alleen D2 is aan de anodekant
+verbonden met de laatste MF-kring, dus met de hoogste MF-amplitude. De kathodekant
+(negatieve kant dus) is verbonden met Q1, Q2 en Q3, resp. de HF-, 1e MF en 2e MFversterker. Dat gaat via de leiding door R12 en R1. Dat moet de AVR-leiding zijn. Hoe
+sterker het ontvangen signaal, hoe meer de versterking wordt afgeknepen. Antwoord B.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-116
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.149 Uitwerking van Opgave 13-149
+
+De kring L1-C1 heeft tot doel:
+A. Het doorlaten van het te ontvangen station
+B. De ontvanger tegen hoge spanningen op de antenne te beschermen
+C. Het onderdrukken van signalen op de middenfrequentie
+D. De bandbreedte van de ontvanger te verkleinen
+Uitwerking
+De kring is een seriekring (sperkring), niet afstembaar en is nergens mee gekoppeld. De
+kring moet daarom bedoeld zijn om een constante frequentie buiten de ontvanger te
+houden. De enige constante frequentie in een ontvanger is de middenfrequentie. Dat
+signalen op de middenfrequentie die van buiten de ontvanger komen, ongewenst zijn,
+mag duidelijk zijn. Daarmee komen we uit bij antwoord C.
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-117
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk_13_Examenopgaven_20220613_C.
+
+13.5.150 Uitwerking van Opgave 13-150
+
+De kring L1-C1 staat afgestemd op de:
+A. Oscillatorfrequentie
+B. Spiegelfrequentie
+C. Ontvangfrequentie
+D. Middenfrequentie
+Uitwerking
+Deze opgave doet sterk denken aan Opgave 13-149. Het gaat over dezelfde kring die op 1
+vaste frequentie staat en een sperkring is. Daarom ook bijna hetzelfde antwoord: de
+middenfrequentie; bij deze opgave is dat D,
+
+© 2022, Vereniging van Radiozendamateurs VRZA (opgaven in par. 13.4 uitgezonderd)
+
+13-118
+
+

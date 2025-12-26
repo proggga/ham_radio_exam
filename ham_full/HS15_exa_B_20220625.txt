@@ -1,0 +1,1364 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Inhoudsopgave
+15
+
+Uitgewerkte examenopgaven bij Hoofdstuk 15, nummers 51-70 ............................. 15-4
+15.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ........15-4
+
+15.2
+
+Enkele opmerkingen ..........................................................................................15-5
+
+15.3
+
+Formularium ......................................................................................................15-5
+Stroommeting .................................................................................................15-5
+Spanningsmeting ............................................................................................ 15-6
+Weerstandsmeting .........................................................................................15-6
+Universeelmeter of multimeter .....................................................................15-6
+Varianten ........................................................................................................15-6
+Oscilloscoop ....................................................................................................15-7
+Dipper .............................................................................................................15-7
+Frequentiemeting ...........................................................................................15-7
+Signaalgenerator ............................................................................................. 15-7
+Staandegolfmeter ........................................................................................15-7
+Kunstantenne (dummy load) .....................................................................15-8
+
+15.4
+
+Opgaven..............................................................................................................15-9
+Opgave 15-51 ............................................................................................ 15-10
+Opgave 15-52 ............................................................................................ 15-11
+Opgave 15-53 ............................................................................................ 15-12
+Opgave 15-54 ............................................................................................ 15-13
+Opgave 15-55 ............................................................................................ 15-14
+Opgave 15-56 ............................................................................................ 15-15
+Opgave 15-57 ............................................................................................ 15-16
+Opgave 15-58 ............................................................................................ 15-17
+Opgave 15-59 ............................................................................................ 15-18
+Opgave 15-60 ............................................................................................ 15-19
+Opgave 15-61 ............................................................................................ 15-20
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-62 ............................................................................................ 15-21
+Opgave 15-63 ............................................................................................ 15-22
+Opgave 15-64 ............................................................................................ 15-23
+Opgave 15-65 ............................................................................................ 15-24
+Opgave 15-66 ............................................................................................ 15-25
+Opgave 15-67 ............................................................................................ 15-26
+Opgave 15-68 ............................................................................................ 15-27
+Opgave 15-69 ............................................................................................ 15-28
+Opgave 15-70 ............................................................................................ 15-29
+15.5
+
+Uitwerkingen ...................................................................................................15-30
+Uitwerking van Opgave 15-51 .................................................................15-31
+Uitwerking van Opgave 15-52 .................................................................15-32
+Uitwerking van Opgave 15-53 .................................................................15-33
+Uitwerking van Opgave 15-54 .................................................................15-34
+Uitwerking van Opgave 15-55 .................................................................15-35
+Uitwerking van Opgave 15-56 .................................................................15-36
+Uitwerking van Opgave 15-57 .................................................................15-37
+Uitwerking van Opgave 15-58 .................................................................15-38
+Uitwerking van Opgave 15-59 .................................................................15-39
+Uitwerking van Opgave 15-60 ................................................................ 15-40
+Uitwerking van Opgave 15-61 ................................................................ 15-41
+Uitwerking van Opgave 15-62 ................................................................ 15-42
+Uitwerking van Opgave 15-63 ................................................................ 15-43
+Uitwerking van Opgave 15-64 .............................................................. 15-44
+Uitwerking van Opgave 15-65 ................................................................ 15-45
+Uitwerking van Opgave 15-66 ................................................................ 15-46
+Uitwerking van Opgave 15-67 ................................................................ 15-47
+Uitwerking van Opgave 15-68 ................................................................ 15-48
+Uitwerking van Opgave 15-69 .................................................................15-49
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-70 .................................................................15-50
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+15 Uitgewerkte examenopgaven bij Hoofdstuk 15, nummers 51-70
+15.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 15
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is dan ook examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 verschillende
+examenvragen zijn gesteld. Die weg is daarom tijdrovend en de slagingskans klein. Bedenk
+ook dat examenvragen die op elkaar lijken, vaak niet precies aan elkaar gelijk zijn, dat de
+antwoorden op meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk
+zijn aan hun voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar
+heel veel examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de volledige tekst van het leerhoofdstuk
+staan. In de verkorte versies staan geen opgaven! Loop daarna de verkorte versie nog een
+keer door om te zien of alles bekend is. Begin pas dan aan de examenvragen in deze
+bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave. Het goede antwoord is vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De gegeven
+uitwerking hoeft niet de enig juiste te zijn. Het is niet ongewoon dat een andere weg ook
+tot een goed antwoord leidt.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave. Dat is deze:
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie om wat voor reden ook alleen geïnteresseerd is in de
+uitwerkingen: je kunt alle uitwerkingen ook achter elkaar doorlezen in paragraaf 15.5
+
+15.2 Enkele opmerkingen
+De 70 examenopgaven in de bundel bij hoofdstuk 15 zijn gesplitst in deel A en B. Dit is
+deel B met 20 opgaven. Deel A bevat er 50.
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Een enkele keer staat er
+(3). Dat was dan een extra volle examenmaand. Als er in een maand maar één examen is
+geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats daarvan een volledige
+datum. Vóór het jaar 2008, waren er maar twee examens per jaar, het voorjaars- en
+najaarsexamen.
+Het kan voorkomen dat een opgave jarenlang niet meer is gebruikt en bijvoorbeeld 10 jaar
+of nog meer later, plotseling weer opduikt. Denk dus niet dat een opgave die 15 jaar
+geleden voor het laatst in een examen zat, nooit meer zal voorkomen. Maar een opgave
+die vaak voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar
+één of twee keer is voorgekomen. Het verstandigste is, nergens op te rekenen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”), schema’s en andere zaken. We raden aan, dit eerst door te
+nemen, maar wie zich zeker genoeg voelt, kan natuurlijk ook meteen naar de opgaven
+gaan. Een cursist is eigen baas.
+
+15.3 Formularium
+Stroommeting
+De stroommeter heeft een zo laag mogelijke inwendige weerstand. De meter komt bij de
+meting in de plaats van de leiding waarvan de stroom moet worden gemeten.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-5
+
+VRZA-cursus radiozendamateur
+
+= Verbinding verwijderen
+vóór meting
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+R
+
+A
+
++U
+
+Spanningsmeting
+Een spanningmeter heeft een zo hoog mogelijke inwendige weerstand. Hij komt parallel
+aan het deel van de schakeling waarover de spanning moet worden gemeten.
+
+V
+
+R
+
++U
+
+Weerstandsmeting
+De weerstandsmeting via een universeelmeter is gebaseerd op de stroom die bij een
+bepaalde spanning door de weerstand loopt.
+
+
+R1
+
+Rs
+
+UB
+
+Rx
+
+R2 beschermt de meter, R1 dient om volle schaal in te stellen bij kortgesloten
+aansluitklemmen of -pennen.
+Universeelmeter of multimeter
+Beide termen betekenen hetzelfde. Ze omvatten in elk geval de metingen van 15.3.1 tot
+en met 15.3.3, voor spanning ook wisselspanning (AC). De metingen zijn onderling
+omschakelbaar.
+Gevoeligheid is uitgedrukt in k/V. De spanning is niet de werkelijke aanwijzing, maar
+het ingestelde meetbereik voor spanning. Voorbeeld: een meter van 50 k/V heeft bij een
+meetbereik van 100 V een inwendige weerstand van 100 V ∗ 50 k = 5 M.
+Varianten
+Om bij voltmeters de ingangsweerstand te verhogen, zijn buizen, bipolaire transistoren en
+FET’s toegepast. Tegenwoordig is de digitale universeelmeter/multimeter min of meer
+standaard en die is altijd flink hoogohmig (1 M of meer)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Oscilloscoop
+Horizontale aflezing: tijd in s, ms, s of ns per schaaldeel. Soms ook een tweede spanning,
+maar dat komt niet voor in de behandelde examenopgaven.
+Verticale aflezing: spanning in V of mV per schaaldeel.
+Ingangsweerstand: minimaal 1 M.
+Dipper
+Meet de resonantiefrequentie van afgestemde kringen. Niet heel nauwkeurig. Kan ook
+worden gebruikt om zelfinducties te meten. Schakel spoel en bekende condensator
+parallel, bepaal de resonantiefrequentie f en bereken met de vergelijking van Thomson:
+𝑓=
+
+1
+2𝜋√𝐿𝐶
+
+→ √𝐿 =
+
+1
+2𝜋𝑓√𝐶
+
+→𝐿=
+
+1
+4𝜋 2 𝑓 2 𝐶
+
+Tot nu toe (augustus 2021) niet aangetroffen in examenopgaven.
+Frequentiemeting
+Antiek analoog: absorptiefrequentiemeter. Geen exameneis meer, maar kan voorkomen in
+een (fout) multiple choice-antwoord.
+Tegenwoordig: frequentieteller. De meetfout wordt bepaald door (on)nauwkeurigheid van
+de tijdbasis. Het telwerk doet zijn werk foutloos, zolang de conversie van sinusvormige
+ingangsspanning naar pulsvormige spanning goed verloopt. Voorbeeld: een tijdbasis heeft
+een afwijking van 1:106, dat is één op één miljoen. Dan heeft de frequentiemeting ook een
+afwijking van 1:106. De meetfout bij meting van een frequentie van 100 MHz is dan:
+100 MHz
+= 100 Hz
+106
+Signaalgenerator
+Een signaalgenerator dient voor metingen aan ontvangers. Daarom moet zo’n generator
+vooral signaal kunnen leveren van dezelfde sterkte als uit een antenne komt. Voornaamste
+eigenschap daarbij is een nauwkeurig instelbare verzwakker. Met natuurlijk dezelfde
+uitgangsimpedantie als die van een ontvangeringang. Dat komt in de praktijk neer op 50
+ohm.
+Staandegolfmeter
+Wordt geschakeld tussen zender en antenne in serie met de antenneleiding. Bruikbare
+SWR-waarden: <2 (soms heet dat 1:2, maar daarmee wordt hetzelfde bedoeld). Ideale
+waarde: SWR=1. Mijd SWR3 als de pest.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Kunstantenne (dummy load)
+Dient voor metingen aan de zenderuitgang en vervangt de echte antenne. SWR hoort
+(vrijwel) 1 te zijn. Geschikt voor minder nauwkeurige vermogensmetingen via de
+oscilloscoop en voor nauwkeurige met gelijkrichting en een goede voltmeter in een
+schakeling met voldoend hoge tijdconstante om de piekspanning lang genoeg vast te
+houden voor een goede aflezing. Om de gedachten te bepalen: tijdconstante van 3 s of
+meer.
+
+a
+
+Meting Umax
+
+PEP=
+
+Umax2
+2ZG
+
+b
+
+Zendereindtrap
+Kunstantenne
+
+Oscilloscoopbeeld
+
+Zendereindtrap
+V
+
+R=ZG
+
+Umax
+
+Kunstantenne
+
+Voor AM-varianten:
+𝑃𝐸𝑃 =
+
+2
+𝑈𝑚𝑎𝑥
+2𝑍𝐺
+
+Voor CW, FM/PM en ongemoduleerde draaggolf:
+𝑃=
+
+2
+2
+𝑈𝑒𝑓𝑓
+𝑈𝑚𝑎𝑥
+=
+2𝑍𝐺
+𝑍𝐺
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+15.4 Opgaven
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-51
+
+Het signaal uit een signaalgenerator heeft een constante amplitude en doorloopt de
+frequentieband
+van 100 Hz tot
+100 kHz. De
+aanwijzing van de
+buisvoltmeter
+verloopt daarbij
+ongeveer zoals in:
+A. Grafiek 2
+B. Grafiek 4
+C. Grafiek 3
+D. Grafiek 1
+(F-examen
+voorjaar 2007,
+november 2010 (2), mei 2013 (1), maart 2014, november 2014, november 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-52
+Om het opgenomen vermogen van de zender te meten gebruikt men een voltmeter en een
+ampèremeter.
+
+Het opgenomen vermogen bedraagt
+A. 99,95 W
+B. 95 W
+C. 90 W
+D. 100 W
+(F-examen mei 2016 (1), september 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-53
+De gevoeligheid van een ontvanger wordt het best bepaald met een:
+A. Oscilloscoop
+B. Frequentieteller
+C. Signaalgenerator
+D. Spectrum analyser
+(F-examen maart 2010, juni 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-54
+Een LF-scoop heeft een ingangsweerstand van 1 M parallel met 20 pF. Men meet met
+een afgeschermde kabel van 100 pF per meter met een lengte van 80 cm.
+Het meetpunt wordt belast met:
+A. 1 M en 16 pF
+B. 1 M en 100 pF
+C. 1 M en 20 pF
+D. 1 M en 120 pF
+(F-examen najaar 2002, december 2010, november 2011, september 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-55
+Met een oscilloscoop en een twee-toon testsignaal kan van een EZB-zender worden
+bepaald:
+A. De modulatiediepte
+B. De lineariteit
+C. De verschuiving van de draaggolf
+D. De frequentiedeviatie
+(F-examen januari 2010, januari 2015, maart 2016, januari 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-56
+Een apparaat dat versterkers bevat voor horizontale en verticale afbuiging is een
+A. Oscilloscoop
+B. Ohm-meter
+C. Ampèremeter
+D. Signaalgenerator
+(F-examen mei 2009 (2), oktober 2009, november 2015, november 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-57
+Op een oscilloscoop, aangesloten op de uitgang van de zender, zien we het geschetste
+beeld.
+De verticale gevoeligheid is 50
+volt/div. De belasting is 50 ohm.
+Het afgegeven vermogen is dan
+ongeveer:
+A. 100 W
+B. 200 W
+C. 25 W
+D. 50 W
+(F-examen juni 2009, juli 2009,
+januari 2019, maart 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-58
+De gevoeligheid van de oscilloscoop is zo ingesteld dat 1 schaaldeel (divisie) overeenkomt
+met 100 volt. De effectieve waarde van de
+wisselspanning is ongeveer gelijk aan:
+A. 565 V
+B. 70,7 V
+C. 141,4 V
+D. 282,8 V
+(F-examen juli 2010, november 2010 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-59
+Instelling oscilloscoop: horizontaal 1µs/div.;
+verticaal 25 V/div.
+De amplitude van deze wisselspanning is:
+A. 25 V
+B. 50 V
+C. 100 V
+D. 60 V
+
+(F-examen voorjaar 2001, januari 2009, november 2010 (2), februari 2011, november 2012,
+september 2013 (1), november 2013 (2), mei 2016, januari 2017)P
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-60
+Instelling oscilloscoop: horizontaal 4 µs/div.;
+verticaal 25 V/div.
+De effectieve waarde van de wisselspanning
+is:
+A. 25 V
+B. 35,5 V
+C. 71 V
+D. 50 V
+
+(F-examen najaar 2006, december 2010, mei 2017, november 2017, november 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-61
+Een wisselspanning is aangesloten op een
+oscilloscoop met een verticale gevoeligheid
+van 10 volt per schaaldeel. De effectieve
+waarde van de wisselspanning is ongeveer
+gelijk aan:
+A. 14 V
+B. 40 V
+C. 10 V
+D. 20 V
+
+(F-examen voorjaar 2005, maart 2011 (2), augustus 2011, maart 2012, maart 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-62
+De tijdbasis van een scoop is ingesteld dat 1
+schaaldeel overeenkomt met 5 msec. De
+frequentie van de aangelegde spanning is
+A. 25 Hz
+B. 40 kHz
+C. 50 Hz
+D. 1,6 kHz
+
+(F-examen najaar 2004, december 2008, mei 2011 (3), september 2012, maart 2013,
+september 2013 (1), maart 2014, maart 2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-63
+Instelling oscilloscoop: Horizontaal 4
+sec/schaaldeel. Verticaal: 25 V/schaaldeel.
+Uit dat beeld leidt u de volgende waarden
+af:
+A. 62,5 kHz; 71 V
+B. 160 kHz; 71 V
+C. 62,5 kHz; 35,5 V
+D. 160 kHz; 35,5 V
+
+(F-examen voorjaar 2004, april 2008, september 2009 (1), november 2009, december 2011,
+September 2014 (2), januari 2015, november 2016)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-64
+Instelling oscilloscoop: Horizontaal: 2
+sec/schaaldeel, Verticaal: 25 V/schaaldeel.
+Uit dit beeld leidt u de volgende waarde af:
+A. Amplitude 50 V, periodeduur 8 sec
+B. Amplitude 100 V, periodeduur 4 sec
+C. Amplitude 100 V, periodeduur 8 sec
+D. Amplitude 50 V, periodeduur 4 sec
+
+(F-examen februari 2010 (2), april 2010, mei 2011 (3))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-65
+Instelling oscilloscoop: Horizontaal 1
+sec/schaaldeel. Verticaal: 10 V/schaaldeel.
+Uit dit beeld leidt u de volgende waarden af:
+A. Amplitude 40 V, periodeduur 2 sec
+B. Amplitude 20 V, periodeduur 2 sec
+C. Amplitude 40 V, periodeduur 4 sec
+D. Amplitude 20 V, periodeduur 4 sec
+
+(F-examen maart 2010, november 2010 (1),
+mei 2011 (3))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-66
+De tijdbasis van een oscilloscoop is
+ingesteld op 1 microseconde per
+schaaldeel. De frequentie van het signaal
+is:
+A. 50 Hz
+B. 500 kHz
+C. 25 Hz
+D. 250 kHz
+
+(F-examen voorjaar 2001, maart 2010, november 2012, mei 2016 (2), september 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-67
+Het beoordelen van de onderdrukking van harmonischen van een zender gaat het beste
+met een
+A. Staandegolfmeter
+B. Oscilloscoop
+C. Spectrum analyser
+D. Frequentieteller
+(F-examen najaar 2007, februari 2010 (1), november 2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-68
+De spanning die een gelijkstroomvoeding levert, wordt met een universeelmeter gemeten.
+De meter gedraagt zich als een:
+A. Ideale geleider
+B. Isolator
+C. Een weerstand met hoge waarde
+D. Een weerstand met lage waarde
+(F-examen mei 2018 (2), september 2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-69
+Een kunstantenne (dummyload) wordt gebruikt om:
+A. Een zender te belasten zonder signalen uit te stralen
+B. Nauwkeurige frequentiemetingen uit te voeren
+C. De kans op televisiestoringen (TVI) te verminderen
+D. Lange-afstandverbindingen te maken
+(F-examen augustus 2011 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Opgave 15-70
+Het bepalen van het afgegeven hoogfrequentvermogen van een zender geschiedt door
+A. Een dipmeter op de zenderuitgang aan te sluiten
+B. De zender af te sluiten met een juiste afsluitweerstand en de spanning met een
+draaispoelvoltmeter te meten
+C. De zender af te sluiten met een juiste afsluitweerstand en daarover met een
+geschikte oscilloscoop de spanning te bepalen
+D. De stroom die door een juiste afsluitweerstand loopt te meten met een draaispoelampèremeter
+(F-examen najaar 2005)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+15.5 Uitwerkingen
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-51
+
+Het signaal uit een signaalgenerator heeft een constante amplitude en doorloopt de
+frequentieband
+van 100 Hz tot
+100 kHz. De
+aanwijzing van de
+buisvoltmeter
+verloopt daarbij
+ongeveer zoals in:
+A. Grafiek 2
+B. Grafiek 4
+C. Grafiek 3
+D. Grafiek 1
+Uitwerking
+Hier wordt een RC-laagdoorlaatfilter (LDF) doorgemeten. De horizontale schaal
+(frequentie) van de grafieken is logaritmisch. Bij gebrek aan beter gaan we uit van een
+lineaire verticale schaal met nulpunt op de assenkruising, maar echte informatie is er niet.
+Nu de grafieken. In Grafiek 1 zou de spanning ergens de nullijn moeten kruisen en van
+polariteit veranderen. In deze schakeling uitgesloten. Grafiek 2 lijkt op die van een LDF.
+Grafiek 3 is de frequentiekarakteristiek van een weerstand. Grafiek 4 is die van een
+hoogdoorlaatfilter. Het lijkt Grafiek 2 (antwoord A) te worden.
+Dat controleren we. Op het kantelpunt van een RC-filter is 𝑅 = 𝑋𝐶 , dus:
+𝑅=
+
+1
+1
+=
+𝜔𝐶 2𝜋𝑓𝑘 𝐶
+
+→
+
+𝑓𝑘 =
+
+1
+2𝜋𝑅𝐶
+
+R is 1 M parallel aan 100 k  91 k. Dan is de kantelfrequentie fk 1750 Hz. Dat is
+ongeveer waar grafiek 2 hem laat zien. Naar rechts gaat de grafiek als een soort glijbaan
+naar beneden: dat hoort bij een LDF. Het wordt dan inderdaad grafiek 2; antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-52
+Om het opgenomen vermogen van de zender te meten gebruikt men een voltmeter en een
+ampèremeter.
+
+Het opgenomen vermogen bedraagt
+A. 99,95 W
+B. 95 W
+C. 90 W
+D. 100 W
+Uitwerking
+Let op: hier wordt het opgenomen vermogen van de zender gevraagd (dus wat erin gaat)
+en niet het afgegeven vermogen.
+Dan is de rekensom eenvoudig: ingangsspanning maal ingangsstroom:
+10 V ∗ 10 A = 100 W
+Antwoord D.
+Opmerking
+Feitelijk is het opgenomen vermogen van de hele schakeling ietsje hoger, want de meters
+gebruiken ook een (mini-)beetje vermogen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-53
+De gevoeligheid van een ontvanger wordt het best bepaald met een:
+A. Oscilloscoop
+B. Frequentieteller
+C. Signaalgenerator
+D. Spectrum analyser
+Uitwerking
+De ingangsgevoeligheid van een ontvanger wordt het best gemeten met een
+signaalgenerator (meetzender) die een nauwkeurig instelbare verzwakker heeft.
+De andere drie apparaten kun je voor dit doel vergeten.
+Antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-54
+Een LF-scoop heeft een ingangsweerstand van 1 M parallel met 20 pF. Men meet met
+een afgeschermde kabel van 100 pF per meter met een lengte van 80 cm.
+Het meetpunt wordt belast met:
+A. 1 M en 16 pF
+B. 1 M en 100 pF
+C. 1 M en 20 pF
+D. 1 M en 120 pF
+Uitwerking
+De 20 pF van de scoopingang verandert niet met de kabellengte. De capaciteit van de
+kabel zelf is evenredig met de kabellengte. Daarom staat parallel aan die 20 pF een
+capaciteit van 80/100 van de 100 pF/m van de meetkabel, is 80 pF. Samen wordt dat 20 pF
++ 80 pF = 100 pF. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-55
+E Met een oscilloscoop en een twee-toon testsignaal kan van een EZB-zender worden
+bepaald:
+A. De modulatiediepte
+B. De lineariteit
+C. De verschuiving van de draaggolf
+D. De frequentiedeviatie
+Uitwerking
+Zonder modulatie zie je bij EZB niets. Een EZB-signaal van een enkele toon is één enkele
+frequentie. Dat ziet eruit als het plaatje hieronder.
+
+Met een tweede toon die in frequentie bijvoorbeeld 1
+kHz verschilt van de eerste, ontstaat een voortdurende veranderend faseverschil tussen
+beide tonen (hoofdstuk 12). Dan ontstaat dit beeld dat een optelling is van beide signalen:
+
+Het digitale oscilloscoopplaatje hieronder (uit hoofdstuk 12) laat het wat mooier zien:
+
+Twee verschillende frequenties boven en onder en de opgetelde frequentie er tussenin. De
+optelling is 0 op de knooppunten en 2x de amplitude van de afzonderlijke frequenties op
+de maxima. Zie je dit, dan is de modulatie netjes lineair. Eigenlijk maak je zo een DSBsignaal. Antwoord B.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-56
+Een apparaat dat versterkers bevat voor horizontale en verticale afbuiging is een
+A. Oscilloscoop
+B. Ohm-meter
+C. Ampèremeter
+D. Signaalgenerator
+Uitwerking
+Van deze vier apparaten doet er maar één aan horizontale en verticale afbuiging. Dat is de
+oscilloscoop. De horizontale afbuiging is doorgaans voor de tijd, de verticale voor de te
+meten spanning. Het goede antwoord is vanzelfsprekend A.
+Hieronder staat het vereenvoudigde schema uit hoofdstuk 11 (volledige tekst).
+
+Elektronenoptiek
+
+Verticale
+afbuiging
+Y-ingang
+Horizontale
+afbuiging
+
+Y-versterker
+Tijdbasis
+
+X-versterker
+
+Naversnelling
+
+Schak.
+X-ingang
+Opmerking
+Een tweede apparaat waarin horizontale en verticale afbuiging plaatsvindt, is de spectrum
+analyser, maar die staat niet in het rijtje. Daar is de horizontale afbuiging voor frequentie
+en de verticale voor amplitude.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-57
+Op een oscilloscoop, aangesloten op de uitgang van de zender, zien we het geschetste
+beeld.
+De verticale gevoeligheid is 50 volt/div. De
+belasting is 50 ohm.
+Het afgegeven vermogen is dan ongeveer:
+A. 100 W
+B. 200 W
+C. 25 W
+D. 50 W
+
+Uitwerking
+De term volt/div. betekent volt/schaaldeel. “Div.” staat voor het Engelse division, wat
+onder meer schaaldeel betekent.
+De amplitude A is twee schaaldelen, is 100 V.
+Voor de effectieve spanning Ueff geldt
+𝑈𝑒𝑓𝑓 = 𝐴⁄ ≈ 0,707𝐴
+√2
+Voor het vermogen P geldt:
+2
+𝑈𝑒𝑓𝑓
+0,7072 . 1002
+0,5.100.100
+𝑃=
+=
+W=
+W = 100W
+𝑅
+50
+50
+Antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-58
+De gevoeligheid van de oscilloscoop is zo ingesteld dat 1 schaaldeel (divisie) overeenkomt
+met 100 volt. De effectieve waarde van de
+wisselspanning is ongeveer gelijk aan:
+A. 565 V
+B. 70,7 V
+C. 141,4 V
+D. 282,8 V
+
+Uitwerking
+De amplitude A is twee schaaldelen, dat is 200 V. Dan is de effectieve spanning Ueff gelijk
+aan 𝐴⁄ ≈ 𝐴 ∗ 0,707 = 200 ∗ 0,707 V = 141,4 V. In plaats van de amplitude A mag ook
+√2
+de maximale spanning Umax worden gebruikt. Die twee zijn hier gelijk.
+Antwoord C.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-59
+Instelling oscilloscoop: horizontaal 1µs/div.;
+verticaal 25 V/div.
+De amplitude van deze wisselspanning is:
+A. 25 V
+B. 50 V
+C. 100 V
+D. 60 V
+
+Uitwerking
+De amplitude (gelijk aan Umax) is twee schaaldelen. Dat is 2 keer 25 V is 50 V. Antwoord
+B.
+Opmerking
+De horizontale instelling is wel gegeven, maar komt in de vraag niet aan de orde. Voor
+wie de frequentie wil berekenen: op 8 schaaldelen (8 µs) zien we twee volle perioden. Dat
+is 4 µs per periode, dus de periodetijd T is 4.10-6 s. Voor de frequentie f geldt
+𝑓=
+
+1
+1
+10+6
+=
+Hz
+=
+Hz = 250 KHz
+𝑇 4. 10−6
+4
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-60
+Instelling oscilloscoop: horizontaal 4 µs/div.;
+verticaal 25 V/div.
+De effectieve waarde van de wisselspanning
+is:
+A. 25 V
+B. 35,5 V
+C. 71 V
+D. 50 V
+
+Uitwerking
+De effectieve waarde Ueff van een sinusvormige wisselspanning is de maximale waarde
+(amplitude) gedeeld door √2, wat hetzelfde is als vermenigvuldigen met ongeveer 0,707,
+soms afgerond op 0,71 of 0,7.
+De maximale waarde is twee schaaldelen maal 25 V/schaaldeel, dat is 50 V. (“div.” is
+hetzelfde als schaaldeel). 50 V ∗ 0,71 = 35,5 V. (met 0,707 kom je op 35,35 V en met 0,7
+op 35 V). Dat wijst allemaal naar antwoord B.
+Opmerking
+Voor de beantwoording van de vraag is de horizontale instelling overbodig, maar wie toch
+de frequentie wil uitrekenen doet dat als volgt.
+Op het beeld staan 2 volle perioden, samen 8 schaaldelen. 1 periode is 4 schaaldelen, is 16
+µs en dat is de periodetijd T. Voor de frequentie f geldt
+𝑓=
+
+1
+1
+10+6
+=
+Hz
+=
+Hz = 62,5 KHz
+𝑇 16. 10−6
+16
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-40
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-61
+Een wisselspanning is aangesloten op een
+oscilloscoop met een verticale gevoeligheid
+van 10 volt per schaaldeel. De effectieve
+waarde van de wisselspanning is ongeveer
+gelijk aan:
+A. 14 V
+B. 40 V
+C. 10 V
+D. 20 V
+Uitwerking
+De amplitude van de spanning is 2 schaaldelen. Bij 10 V per schaaldeel is dat 20 V. De
+effectieve waarde Ueff bedraagt dan ongeveer 0,7 ∗ 20 V is 14 V.
+Opmerking
+Delen door √2, nodig om uit de amplitude de effectieve waarde te berekenen, komt op
+hetzelfde neer als vermenigvuldigen met 0,7; 0,71 of 0,707, al naar gelang de gewenste
+afronding van de uitkomst
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-41
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-62
+De tijdbasis van een scoop is zo ingesteld dat
+1 schaaldeel overeenkomt met 5 msec. De
+frequentie van de aangelegde spanning is
+A. 25 Hz
+B. 40 kHz
+C. 50 Hz
+D. 1,6 kHz
+
+Uitwerking
+Bepaal eerst de periodetijd T. Op het scherm staat ruim één volle periode. Omdat het een
+rond scherm betreft, is dat een beetje lastig te zien. Begin te tellen, waar de opgaande lijn
+van de sinus de nullijn (middenlijn) voor het eerst snijdt. Dat is twee schaaldelen van
+links. Tel om T te bepalen de schaaldelen tot waar de opgaande lijn de middenlijn
+opnieuw snijdt. Dat zijn 8 schaaldelen. 1 schaaldeel is 5 ms, 8 schaaldelen zijn 40 ms.
+3
+
+T is dus 40 ms = 40 ∗ 10−3 s. De frequentie f is dan 1⁄𝑇 = 1⁄40. 10−3 Hz = 10 ⁄40 Hz =
+1000⁄ Hz = 25 Hz. Antwoord A.
+40
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-42
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-63
+Instelling oscilloscoop: Horizontaal 4
+sec/schaaldeel. Verticaal: 25 V/schaaldeel.
+Uit dit beeld leidt u de volgende waarden
+af:
+A. 62,5 kHz; 71 V
+B. 160 kHz; 71 V
+C. 62,5 kHz; 35,5 V
+D. 160 kHz; 35,5 V
+
+Uitwerking
+De periode is 4 schaaldelen. Daarmee is de periodetijd 𝑇 = 4 ∗ 4 𝜇s = 16 𝜇s = 16. 10−6 s.
+Voor de frequentie f geldt zoals altijd 𝑓 = 1⁄𝑇, zodat
+𝑓=
+
+1
+106
+Hz
+=
+Hz = 62500 Hz = 62,5 kHz
+16. 10−6
+16
+
+Daarmee vallen de antwoorden B en D af. Nu naar de spanning voor het echte goede
+antwoord:
+De amplitude is 2 schaaldelen, zodat die 2 ∗ 25 V = 50 V bedraagt. Die zien we niet in het
+rijtje antwoorden terug. Wel 50 ∗ 7,07 V = 35,5 V. Blijkbaar wordt hier de effectieve
+spanning bedoeld, want die vind je op deze manier. Dat wordt dan ook antwoord C.
+Opmerking
+Er had wel eens wat duidelijker naar de effectieve spanning mogen worden gevraagd.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-43
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-64
+Instelling oscilloscoop: Horizontaal: 2
+sec/schaaldeel, Verticaal: 25 V/schaaldeel.
+Uit dit beeld leidt u de volgende waarde af:
+A. Amplitude 50 V, periodeduur 8 sec
+B. Amplitude 100 V, periodeduur 4 sec
+C. Amplitude 100 V, periodeduur 8 sec
+D. Amplitude 50 V, periodeduur 4 sec
+
+Uitwerking
+De uitwerking van deze opgave is voornamelijk een kwestie van tellen.
+De amplitude is 2 schaaldelen van 25 V/schaaldeel, is 50 V.
+De periodeduur is 4 schaaldelen (neem bijvoorbeeld de afstand tussen de toppen van de
+sinus). Dat wordt 4 maal 2 sec is 8 sec.
+Antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-44
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-65
+Instelling oscilloscoop: Horizontaal 1
+sec/schaaldeel. Verticaal: 10 V/schaaldeel.
+Uit dit beeld leidt u de volgende waarden af:
+A. Amplitude 40 V, periodeduur 2 sec
+B. Amplitude 20 V, periodeduur 2 sec
+C. Amplitude 40 V, periodeduur 4 sec
+D. Amplitude 20 V, periodeduur 4 sec
+
+Uitwerking
+De amplitude is 2 schaaldelen van 10 V; dat wordt 20 V.
+De periodeduur is 4 schaaldelen is 4 sec.
+Dat brengt ons bij antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-45
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-66
+De tijdbasis van een oscilloscoop is
+ingesteld op 1 microseconde per
+schaaldeel. De frequentie van het signaal
+is:
+A. 50 Hz
+B. 500 kHz
+C. 25 Hz
+D. 250 kHz
+
+Uitwerking
+Eén periode beslaat 4 schaaldelen. De periodeduur T bedraagt daarom 4*1 microseconde
+(s) is 4 s = 4. 10−6 s . Voor de frequentie f geldt als altijd 𝑓 = 1⁄𝑇, zodat
+𝑓=
+
+1
+106
+Hz
+=
+Hz = 250 000 Hz = 250 kHz
+4. 10−6
+4
+
+Dat betekent antwoord D.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-46
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-67
+Het beoordelen van de onderdrukking van harmonischen van een zender gaat het beste
+met een
+A. Staandegolfmeter
+B. Oscilloscoop
+C. Spectrum analyser
+D. Frequentieteller
+Uitwerking
+Voor het bepalen van onderdrukking van harmonischen moet je ze afzonderlijk kunnen
+onderscheiden en hun amplitude kunnen vaststellen. Dat lukt alleen goed met een
+spectrum analyser.
+Zo’n apparaat lijkt wat op een oscilloscoop, maar geeft op de horizontale as niet de tijd
+maar de frequentie en op de verticale as de amplitude.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-47
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-68
+De spanning die een gelijkstroomvoeding levert, wordt met een universeelmeter gemeten.
+De meter gedraagt zich als een:
+A. Ideale geleider
+B. Isolator
+C. Een weerstand met hoge waarde
+D. Een weerstand met lage waarde
+Uitwerking
+Een universeelmeter gedraagt zich nooit als een ideale geleider of een (volkomen) isolator,
+dus de antwoorden A en B vallen op voorhand af.
+Het gaat hier om een spanningsmeting met een als voltmeter geschakeld meetapparaat.
+Een voltmeter staat parallel aan de aansluitingen van het te bemeten object en heeft een
+hoge weerstand. Hoe hoger de weerstand van de meter in verhouding tot inwendige
+weerstand van het object, des te nauwkeuriger is de meetuitkomst. Dat betekent antwoord
+C.
+Opmerkingen
+Bij een stroommeting is het andersom. Een ampèremeter staat in (serie met) de
+stroomvoerende leiding en moet daarom een zo laag mogelijke weerstand hebben om de
+gang van zaken in het object zo min mogelijk te beïnvloeden.
+Oudere typen analoge multimeters hebben voor spanningsmeting een gevoeligheid van
+meestal 20 k/V. Moderne digitale meters hebben in hun voltmeterbereiken minstens 1
+M.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-48
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-69
+Een kunstantenne (dummyload) wordt gebruikt om:
+A. Een zender te belasten zonder signalen uit te stralen
+B. Nauwkeurige frequentiemetingen uit te voeren
+C. De kans op televisiestoringen (TVI) te verminderen
+D. Lange-afstandverbindingen te maken
+Uitwerking
+Het “officiële” antwoord is A. Daar valt veel voor te zeggen, want inderdaad dient een
+dummyload voor het doen van metingen aan een zender terwijl die in bedrijf is, maar
+zonder dat er een signaal “in de lucht wordt gezet”, zoals dat ook wel heet.
+Maar kijk nu naar antwoord B. Eén van de metingen kan een nauwkeurige meting van de
+zenderfrequentie zijn. Dan is antwoord B eigenlijk ook goed of in elk geval niet fout.
+En C: de kans op televisiestoringen verminderen…? Wel degelijk, want de dummyload
+wordt niet zomaar gebruikt. Als je bijvoorbeeld nog niet weet hoe een pas gebouwde
+zender zich gedraagt, kun je niet voorzichtig genoeg zijn en gebruik je voor de eerste
+metingen een dummyload. Ook niet echt fout, dus.
+Het enige echt foute antwoord is D. Lange-afstandverbindingen maken met een zender
+die niet straalt, is natuurlijk grote onzin.
+Misschien is dat de reden waarom deze opgave maar één keer is gebruikt?
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-49
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 15. Examenopgaven_B_20220625
+
+Uitwerking van Opgave 15-70
+Het bepalen van het afgegeven hoogfrequentvermogen van een zender geschiedt door
+A. Een dipmeter op de zenderuitgang aan te sluiten
+B. De zender af te sluiten met een juiste afsluitweerstand en de spanning met een
+draaispoelvoltmeter te meten
+C. De zender af te sluiten met een juiste afsluitweerstand en daarover met een
+geschikte oscilloscoop de spanning te bepalen
+D. De stroom die door een juiste afsluitweerstand loopt te meten met een draaispoelampèremeter
+Uitwerking
+De enige zinvolle manier van meten is die met een geschikte scoop over de
+afsluitweerstand (dummy load). Antwoord C is goed.
+Opmerkingen
+Met een dipmeter meet je de resonantiefrequentie van een kring en dan ook nog op een
+kleine afstand, dat wil zeggen zonder het apparaat op de kring aan te sluiten.
+Hoogfrequentvermogen P bepaal je op basis van de effectieve HF-spanning Ueff over de
+𝑈2
+afsluitweerstand R via de vergelijking 𝑃 = 𝑒𝑓𝑓⁄𝑅
+Die spanning is een wisselspanning en die meet je niet met een gelijkstroominstrument als
+een draaispoelmeter, zoals in antwoord B. Hetzelfde geldt voor de stroom (antwoord D).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 15.4 uitgezonderd)
+
+15-50
+
+

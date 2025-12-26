@@ -1,0 +1,1371 @@
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+Inhoudsopgave
+8
+
+Uitgewerkte examenopgaven bij Hoofdstuk 8, deel B (51-64) ....................................8-3
+8.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? ..............8-3
+
+8.2
+
+Enkele opmerkingen ............................................................................................... 8-4
+
+8.3
+
+Formularium ............................................................................................................8-4
+
+8.3.1
+
+Soorten versterkende elementen .....................................................................8-4
+
+8.3.2
+
+Overeenkomsten .............................................................................................. 8-5
+
+8.3.3
+
+Verschillen ........................................................................................................8-5
+
+8.3.4
+
+De drie basisschakelingen in schemavorm .....................................................8-6
+
+8.3.5
+
+De drie basisschakelingen samengevat in tabelvorm en per element. ..........8-8
+
+8.3.6
+
+Spanningsverdeling over een versterkend element. ......................................8-9
+
+8.4
+
+Opgaven .................................................................................................................8-11
+
+8.4.51
+
+Opgave 8-51 ................................................................................................ 8-12
+
+8.4.52
+
+Opgave 8-52 ................................................................................................ 8-13
+
+8.4.53
+
+Opgave 8-53 ................................................................................................ 8-14
+
+8.4.54
+
+Opgave 8-54 ................................................................................................ 8-15
+
+8.4.55
+
+Opgave 8-55 ................................................................................................ 8-16
+
+8.4.56
+
+Opgave 8-56 ................................................................................................ 8-17
+
+8.4.57
+
+Opgave 8-57 ................................................................................................ 8-18
+
+8.4.58
+
+Opgave 8-58 ................................................................................................ 8-19
+
+8.4.59
+
+Opgave 8-59 ................................................................................................ 8-20
+
+8.4.60
+
+Opgave 8-60 ................................................................................................ 8-21
+
+8.4.61
+
+Opgave 8-61 ................................................................................................ 8-22
+
+8.4.62
+
+Opgave 8-62 ................................................................................................ 8-23
+
+8.4.63
+
+Opgave 8-63 ................................................................................................ 8-24
+
+8.4.64
+
+Opgave 8-64 ................................................................................................ 8-25
+
+8.5
+
+Uitwerkingen .........................................................................................................8-26
+
+8.5.51
+
+Uitwerking van Opgave 8-51 .....................................................................8-27
+
+8.5.52
+
+Uitwerking van Opgave 8-52 .....................................................................8-28
+
+8.5.53
+
+Uitwerking van Opgave 8-53 .....................................................................8-29
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-1
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.54
+
+Uitwerking van Opgave 8-54 .....................................................................8-30
+
+8.5.55
+
+Uitwerking van Opgave 8-55 .....................................................................8-31
+
+8.5.56
+
+Uitwerking van Opgave 8-56 .....................................................................8-32
+
+8.5.57
+
+Uitwerking van Opgave 8-57 .....................................................................8-33
+
+8.5.58
+
+Uitwerking van Opgave 8-58 .....................................................................8-34
+
+8.5.59
+
+Uitwerking van Opgave 8-59 .....................................................................8-35
+
+8.5.60
+
+Uitwerking van Opgave 8-60 .....................................................................8-36
+
+8.5.61
+
+Uitwerking van Opgave 8-61 .....................................................................8-37
+
+8.5.62
+
+Uitwerking van Opgave 8-62 .....................................................................8-38
+
+8.5.63
+
+Uitwerking van Opgave 8-63....................................................................8-39
+
+8.5.64
+
+Uitwerking van Opgave 8-64 .....................................................................8-40
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-2
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8 Uitgewerkte examenopgaven bij Hoofdstuk 8, deel B (51-64)
+8.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 8
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald, maar veel zijn het er niet. Bedenk dat tussen 2000 en 2020
+ongeveer 1400 examenvragen zijn gesteld. Die weg is daarom tijdrovend en de
+slagingskans niet groot. Bedenk ook dat examenvragen die op elkaar lijken, vaak niet
+precies gelijk zijn en dat de antwoorden op meerkeuzevragen niet altijd in dezelfde
+volgorde staan of precies gelijk zijn aan hun voorgangers. Of snappen sommigen de stof
+geleidelijk aan toch als ze maar heel veel examenvragen maken? Wie het weet, mag het
+zeggen.
+De schrijvers verwachten dat de opgedane kennis door het bestuderen en maken van de
+vragen scherper in je hoofd wordt geprent dan zonder examentraining.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild toch het antwoord te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave. Dat voorkomt uitvoerig terugscrollen. Het goede
+antwoord is vetgedrukt. Daarna volgt de eigenlijke uitwerking, soms gevolgd door een of
+meer opmerkingen. De uitwerking hoeft niet de enig juiste te zijn. Het is niet ongewoon
+dat je via een andere weg ook tot een goed antwoord komt. Leg dan beide antwoorden
+naast elkaar en vergelijk. Soms geven we zelf meer dan één uitwerking.
+Bij sommige opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste
+vraag die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit
+dit precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-3
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave aan het begin kun je er
+met één muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je
+kunt alle uitwerkingen ook achter elkaar doorlezen in paragraaf 8.5.
+
+8.2 Enkele opmerkingen
+Omdat het aantal examenvragen bij Hoofdstuk 8 ruim meer dan 50 is, is deze bundel
+gesplitst in twee delen. Dit is deel B met 14 examenvragen. Deel A bevat de overige 50.
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008, waren er maar twee examens per jaar,
+het voorjaars- en het najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en bijvoorbeeld 10 jaar of nog
+meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden voor het laatst
+in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak voorkomt, zal
+een grotere kans hebben om weer op te duiken dan één die maar één of twee keer is
+voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een sterk ingedikt
+overzicht van de leerstof met vergelijkingen, schema’s, tabellen en andere zaken met soms
+wat handigheidjes. We raden aan, dit eerst door te nemen, maar wie zich zeker genoeg
+voelt, kan natuurlijk ook meteen naar de opgaven gaan.
+
+8.3 Formularium
+8.3.1 Soorten versterkende elementen
+Het zijn
+•
+•
+•
+
+(bipolaire) transistor: NPN en PNP
+Veldeffect-transistor (FET): N-kanaal en P-kanaal
+Elektronenbuis (buis): triode en penthode
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-4
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+De staan allemaal in beeld met schemasymbolen in Figuur 8.3-1.
+
+Figuur 8.3-1. De versterkende elementen
+
+8.3.2 Overeenkomsten
+Alle behandelde elementen hebben drie elektroden: een laagohmige en een hoogohmige
+waartussen de stroomdoorgang plaatsvindt en een stuurelektrode die de stroomdoorgang
+beïnvloedt. Tabel 8.3-1 geeft een overzicht van de namen.
+Tabel 8.3-1. De drie versterkende elementen en hun elektroden. De nummers tussen haakjes verwijzen naar
+Figuur 8.3-1.
+
+FET
+
+Buis
+
+Transistor
+
+Laagohmig
+
+Source (1)
+
+Kathode (1)
+
+Emitter (1)
+
+Stuurelektrode
+
+Gate (2)
+
+(Stuur)rooster (2)
+
+Basis (2)
+
+Hoogohmig
+
+Drain (3)
+
+Anode (3)
+
+Collector (3)
+
+8.3.3 Verschillen
+Buis en FET hebben een een stuurelektrode met heel hoge weerstand. Het zijn
+spanninggestuurde elementen.
+De basis van een transistor wordt met een stroom aangestuurd. Een transistyor is dan ook
+een stroomversterker, maar kan zo worden geschakeld dat de totale schakeling enigszins
+lijkt op een spanninggestuurd element.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-5
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+Schakelingen met FET’s en transistoren werken op relatief lage spanning (grofweg 40 V of
+minder, maar er zijn uitzonderingen)
+Schakelingen met buizen werken op hoge spanning, meestal 250 V of meer.
+De ladingdragers in FET’s en bipolaire transistoren kunnen elektronen of “gaten” zijn; in
+buizen zijn het altijd elektronen (Tabel 8.3-2)
+Tabel 8.3-2. Ladingdragers en soort versterkend element
+
+FET
+
+Buis
+
+Transistor
+
+Elektronen
+
+N-kanaals FET
+
+Buis
+
+NPN
+
+Gaten
+
+P-kanaals FET
+
+-
+
+PNP
+
+8.3.4 De drie basisschakelingen in schemavorm
+We laten de schakelingen per soort schakeling zien; in de volgende sub-paragraaf vatten
+we de eigenschappen samen per soort element.
+Om te beginnen de gemeenschappelijke source-, kathode- en emitterschakeling, afgekort
+resp. GDS, GKS en GES (Figuur 8.3-2).
+
+Figuur 8.3-2. (1) Gemeenschappelijke drainschakeling (GDS), (2) gemeenschappelijke kathodeschakeling
+(GKS) en (3) gemeenschappelijke emitterschakeling (GES). Signaalin- en uitgang aangegeven met “in” en
+“uit”.
+
+Vaak zit in de source-. kathode- of emitterleidingen een weerstand. Bij FET en buis maakt
+die source of kathode positief ten opzichte van gate of rooster. Gate of rooster zijn dan
+negatief ten opzichte van source of kathode. De weerstand vervangt zo de negatieve
+spanningsbron (UGS, respectievelijk Ug). Bij de transistor wordt dan meestal een weerstand
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-6
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+in de emitterleiding met spanningsdeler op de basis toegepast of enkel een weerstand van
+basis naar de plus- of de minleiding (NPN, resp. PNP).
+Nu de gemeenschappelijke gate-, rooster- en basisschakeling, afgekort resp. GGS, GRS en
+GBS (Figuur 8.3-3).
+
+Figuur 8.3-3. (1) Gemeenschappelijke gateschakeling (GGS), (2) gemeenschappelijke roosterschakeling
+(GRS) en (3) gemeenschappelijke basisschakeling (GBS). Signaalin- en uitgang aangegeven met “in” en “uit”.
+
+Hier geldt hetzelfde voor weerstanden in respectievelijk de source- kathode- en
+emitterleidingen als bij Figuur 8.3-2. Gate, respectievelijk rooster en basis kunnen ook via
+een weerstand zijn verbonden met de nulleiding (de onderste in de figuren) en
+ontkoppeld via een condensator, parallel aan die weerstand.
+Tenslotte in de gemeenschappelijke drain-, anode- en collectorschakelingen, afgekort
+GDS, GAS en GCS. Dit drietal staat ook bekend onder de respectieve namen sourcevolger,
+kathodevolger en emittervolger. De volger heeft betrekking op het feit dat het signaal op
+de uitgang dat op de ingang bijna 1:1 volgt.
+
+Figuur 8.3-4. (1) Gemeenschappelijke drainschakeling (GDS), (2) gemeenschappelijke anodeschakeling
+(GAS) en (3) gemeenschappelijke collectorschakeling (GCS). Signaalin- en uitgang aangegeven met “in” en
+“uit”.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-7
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+In de plusleiding kan soms een weerstand zijn opgenomen. Dat doet niets af aan de
+werking en de benaming van een schakeling.
+8.3.5 De drie basisschakelingen samengevat in tabelvorm en per element.
+De drie basisschakelingen voor de FET zijn samengevat in Tabel 8.3-3; die voor een buis
+(triode) in Tabel 8.3-4 en die voor een transistor in Tabel 8.3-5.
+Tabel 8.3-3. Samenvatting van de eigenschappen van de drie basisschakelingen voor de FET. RD is
+drainweerstand, RS is sourceweerstand.
+
+Soort Signaal
+in en uit
+
+Weerstand
+ingang →
+uitgang
+
+Spanningsversterking
+
+Stroomversterking
+
+Vermogensversterking
+
+Faseverschil in
+en uit
+
+GSS
+
+In: Gate
+Uit: Drain
+
+In: zeer hoog
+Uit: hoog
+
+Iets minder
+dan RD/RS
+
+Zeer groot
+
+Zeer groot
+
+Tegenfase
+
+GGS
+
+In: Source
+Uit: Drain
+
+In: laag
+Uit: hoog
+
+Iets minder
+dan RD/RS
+
+1
+
+Iets minder
+dan RD/RS
+
+In fase
+
+GDS
+
+In: Gate
+Uit: Source
+
+In: zeer hoog
+Uit: laag
+
+Iets minder
+dan 1
+
+Zeer groot
+
+Groot
+
+In fase
+
+GDS heet ook sourcevolger.
+Een vergelijkbare tabel voor buizen verschilt afgezien van de benamingen nauwelijks van
+die voor de FET. Volledigheidshalve geven we hem hieronder.
+Tabel 8.3-4. Samenvatting van de eigenschappen van de drie basisschakelingen voor de buis (triode). Ra is
+anodeweerstand, Rk is kathodeweerstand.
+
+Soort Signaal
+in en uit
+
+Weerstand
+ingang →
+uitgang
+
+Spanningsversterking
+
+Stroomversterking
+
+Vermogensversterking
+
+Faseverschil in
+en uit
+
+GKS
+
+In: Rooster
+Uit: Anode
+
+In: zeer hoog
+Uit: hoog
+
+Iets minder
+dan Ra/Rk
+
+Zeer groot
+
+Zeer groot
+
+Tegenfase
+
+GRS
+
+In: Kathode
+Uit: Anode
+
+In: laag
+Uit: hoog
+
+Iets minder
+dan Ra/Rk
+
+1
+
+Iets minder
+dan Ra/Rk
+
+In fase
+
+GAS
+
+In: Rooster
+In: zeer hoog
+Uit: Kathode Uit: laag
+
+Iets minder
+dan 1
+
+Zeer groot
+
+Groot
+
+In fase
+
+GAS heet ook kathodevolger. Lees voor een penthode stuurrooster in plaats van rooster.
+Voor de rest geen verschillen.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-8
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+De verschillen tussen de vorige twee tabellen en die voor de transistor (Tabel 8.3-5) zijn
+niet groot, maar iets minder klein dan die voor FET en buis. Dat komt doordat de triode in
+beginsel een stroomversterker is en de eerdere twee spanningsversterkers.
+Tabel 8.3-5. Samenvatting van de eigenschappen van de drie basisschakelingen voor de transistor. Rc is
+collectorweerstand, Re is emitterweerstand.
+
+Soort Signaal
+in en uit
+
+Weerstand
+ingang →
+uitgang
+
+Spanningsversterking
+
+Stroomversterking
+
+Vermogensversterking
+
+Fase in en
+uit
+Tegenfase
+
+GES
+
+In: basis
+Uit: collector
+
+In: matig
+Uit: hoog
+
+Vrijwel
+Rc/Re
+
+Zeer groot
+
+Zeer groot
+
+GBS
+
+In: emitter
+Uit: collector
+
+In: laag
+Uit: hoog
+
+Vrijwel
+Rc/Re
+
+1
+
+Vrijwel Rc/Re In fase
+
+GCS
+
+In: basis
+
+In: matig
+Uit: laag
+
+Vrijwel 1
+
+Zeer groot
+
+Groot
+
+Uit: emitter
+
+In fase
+
+8.3.6 Spanningsverdeling over een versterkend element.
+In een versterkerschakeling staan over verschillende delen van de schakeling
+verschillende spanningen. Ze voldoen altijd aan de tweede wet van Kirchoff: de som van
+die (deel)spanningen is gelijk aan de spanning over de totale schakeling.
+
+Figuur 8.3-5. NPN-transistor in GES met diverse weerstanden (links) en de basis-emitterspanning van 0,6 V.
+Rechts het volledig uitgewerkte schema met waarden voor spanning en weerstand. Bruin: emittercircuit,
+paars basiscircuit en groen: collectorcircuit. Kijk zelf of alles klopt.
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-9
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+In examens zitten nogal wat vragen van dit soort. Voor buis en FET zijn er ook zulke
+opgaven. Het principe is steeds hetzelfde, alleen ontbreekt de basis-emitterspanning (!).
+Tenslotte nog een belangrijk punt bij de transistor. De weerstand (impedantie) op de
+basisaansluiting is bij benadering gelijk aan de emitterweerstand vermenigvuldigd met de
+stroomversterking β of hFE. Tussen die twee grootheden is geen verschil.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-10
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4 Opgaven
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-11
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.51 Opgave 8-51
+
+Rk wordt berekend uit de waarden
+A. Ug en Ia
+B. Ug en Ig
+C. Ua en Ia
+D. Ub en Ia
+(F-examen mei 2009 (2), 24-05-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-12
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.52 Opgave 8-52
+Stelling 1: De anodestroom van een triode is afhankelijk van de roosterspanning.
+Stelling 2: De anodestroom van een triode is afhankelijk van de anodespanning
+Wat is juist
+A. Alleen stelling 2
+B. Alleen stelling 1
+C. Geen van beide stellingen
+D. Stelling 1 en 2.
+
+(F-examen september 2009 (1), februari 2010 (2), mei 2011 (1), maart 2012, november
+2012, 10-01-2018, 09-01-2019)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-13
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.53 Opgave 8-53
+De grafiek geeft enkele karakteristieken van een triode weer.
+
+De steilheid van deze buis is ongeveer:
+A. 4 mA/V
+B. 2 mA/V
+C. 3 mA/V
+D. 1 mA/V
+
+(F-examen voorjaar 1978, voorjaar 2000, oktober 2008 (1), januari 2010, 29-05-2018)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-14
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.54 Opgave 8-54
+Als van een elektronenbuis een gegeven wordt uitgedrukt in een aantal mA/V, dan heeft
+dat betrekking op de
+A. Ingangsweerstand
+B. Versterkingsfactor
+C. Steilheid
+D. Inwendige weerstand
+
+(F-examen januari 2009, maart 2010, september 2013 (1), mei 2015 (1), 15-05-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-15
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.55 Opgave 8-55
+De steilheid van een buis wordt uitgedrukt in
+A. graden
+B. hellingspercentage
+C. mA/V
+D. k/V
+(F-examen november 2009, januari 2010, september 2015, 2-11-2016, maart 2017, 24-052017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-16
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.56 Opgave 8-56
+Wanneer van een triode de roosterspanning meer negatief wordt gemaakt ten opzichte
+van de kathode, zal de
+A. Anodespanning afnemen
+B. Anodestroom afnemen
+C. Roosterstroom toenemen
+D. Anodestroom toenemen
+
+(F-examen najaar 2006, januari 2009, oktober 2010, mei 2011 (1), mei 2013 (2), september
+2014 (2))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-17
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.57 Opgave 8-57
+De steilheid van een triode wordt uitgedrukt in mA/V.
+Deze mA en V hebben betrekking op variaties in de:
+A. Anodestroom en roosterspanning
+B. Roosterstroom en roosterspanning
+C. Roosterstroom en anodespanning
+D. Anodestroom en anodespanning
+(F-examen augustus 2010, 07-09-2016, 01-03-2017, 01-11-2017)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-18
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.58 Opgave 8-58
+Stelling 1:
+De anode-roostercapaciteit van een triode is veel kleiner dan van een penthode
+Stelling 2:
+De elektronenstroom in een triode loopt van het rooster naar de anode.
+Wat is juist:
+A. Geen van beide stellingen
+B. Alleen stelling 2
+C. Alleen stelling 1
+D. Stelling 1 en 2
+
+(F-examen december 2008, februari 2009, april 2009, maart 2011 (2), mei 2011 (3),
+september 2009, mei 2016 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-19
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.59 Opgave 8-59
+De Ia – Ua karakteristiek van een triode geeft het verband aan tussen
+A. Anodestroom en anodespanning
+B. Roosterstroom en anodespanning
+C. Roosterstroom en roosterspanning
+D. Anodestroom en roosterspanning
+(F-examen voorjaar 2006)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-20
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.60 Opgave 8-60
+De versterkingsfactor van een buis wordt bepaald door:
+A. De grootte van de anodespanning bij een constante anodestroom
+B. De verhouding tussen anodespanningsvariatie en roosterspanningsvariatie bij
+constante anodestroom
+C. De verhouding tussen de negatieve roosterspanning en de anodespanningsvariatie
+bij een bepaalde anodestroom
+D. De verhouding van de anodestroom en de negatieve roosterspanning
+
+(F (C)-examen voorjaar 1975)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-21
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.61 Opgave 8-61
+De weerstand Rk zorgt voor de:
+A. Wisselstroomontkoppeling
+B. Wisselstroomtegenkoppeling
+C. Impedantieaanpassing
+D. Gelijkstroominstelling
+
+(F-examen april 2008, januari 2011, maart 2011 (1))
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-22
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.62 Opgave 8-62
+De gelijkspanning tussen rooster en kathode van de triode wordt bepaald door de:
+A. Ontkoppelcondensator Ck
+B. Roosterlekweerstand Rg
+C. Anodestroom en
+kathodeweerstand Rk
+D. Rooster-kathodecapaciteit
+
+(F-examen januari 2011)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-23
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.63 Opgave 8-63
+Als in de getekende schakeling de condensator C wordt vervangen door een exemplaar
+met een veel kleinere capaciteitswaarde, is het effect:
+
+A. Een grotere versterking uitsluitend voor de laagste frequenties
+B. Een kleinere versterking voor alle frequenties
+C. Een kleinere versterking uitsluitend voor de laagste frequenties
+D. Een kleinere versterking uitsluitend voor de hoogste frequenties
+(F-examen najaar 1978)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-24
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.4.64 Opgave 8-64
+In de figuur is de Ia – Ug karakteristiek van een triode weergegeven.
+
+De steilheid bij Ug = -1,5 V is:
+A. 50 mA/V
+B. 10 mA/V
+C. 5 mA/V
+D. 1 mA/V
+(F-examen najaar 1977)
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-25
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5 Uitwerkingen
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-26
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.51 Uitwerking van Opgave 8-51
+Rk wordt berekend uit de waarden
+A. Ug en Ia
+B. Ug en Ig
+C. Ua en Ia
+D. Ub en Ia
+Uitwerking
+Eerst wat symbolen repeteren. Ze
+vallen onder de exameneisen. In
+alfabetische volgorde:
+Ia
+Ig
+Ua
+Ub
+Ug
+
+anodestroom
+roosterstroom
+anodespanning
+voedingsspanning
+roosterspanning (eigenlijk de spanning tussen rooster en kathode)
+
+De kathodeweerstand Rk dient om het rooster negatief te maken ten opzichte van de
+kathode. Eigenlijk wordt de kathode positief gemaakt ten opzichte van het rooster. Dat
+komt op hetzelfde neer. Rk bereken je uit de vereiste negatieve roosterspanning Ug en de
+stroom door Rk. Die stroom is gelijk aan de anodestroom Ia. Antwoord A wordt het dus.
+Opmerkingen
+
+Ug zou hier eigenlijk Ugk genoemd moeten worden, omdat het hier gaat om de spanning
+tussen rooster en kathode die de elektronenstroom stuurt. Tenslotte spreken we bij een JFET doorgaans ook over UGS als we de gatespanning bedoelen.
+Antwoord B: Het rooster van een triodeversterker moet negatief zijn ten opzichte van de
+kathode. Dan loopt er geen roosterstroom en valt daaruit niets te berekenen.
+Antwoord C: De anodespanning is niet van invloed op de kathodeweerstand.
+Antwoord D: De voedingsspanning is niet van invloed op de kathodeweerstand.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-27
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.52 Uitwerking van Opgave 8-52
+Stelling 1: De anodestroom van een triode is afhankelijk van de roosterspanning.
+Stelling 2: De anodestroom van een triode is afhankelijk van de anodespanning
+Wat is juist
+A. Alleen stelling 2
+B. Alleen stelling 1
+C. Geen van beide stellingen
+D. Stelling 1 en 2.
+
+Analyse en oplossing
+Stelling 1 is ontegenzeggelijk waar, want de roosterspanning regelt de grootte van de
+stroom door de buis via de steilheid S. Daarmee vervallen de antwoorden A en C.
+En stelling 2? De anodespanning is ook van invloed op de anodestroom, maar die invloed
+is veel kleiner dan die van de roosterspanning. Zou de invloed van de anodespanning op
+de anodestroom nul zijn, dan hebben we de eerste buis ter wereld met een oneindige
+inwendige weerstand te pakken en die moet nog steeds worden uitgevonden. Dus geldt
+stelling 2 wel degelijk ook.
+Dan blijft antwoord D als enige over.
+Opmerking
+Ooit werd bij dit vraagstuk antwoord B als goed beschouwd. Dat is later terecht
+gecorrigeerd. Ook een examinator kan wel eens verstrikt raken in zijn eigen vragen…
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-28
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.53 Uitwerking van Opgave 8-53
+De grafiek geeft enkele karakteristieken van een triode weer. De steilheid van deze buis is
+ongeveer:
+
+A. 4 mA/V
+B. 2 mA/V
+C. 3 mA/V
+D. 1 mA/V
+Uitwerking
+De grafieken zijn recht en evenwijdig. Het maakt daarom niet uit welke je afleest of welk
+deel van de grafiek je gebruikt. De gemakkelijkste is dan die van Ua=300V. We nemen voor
+het gemak de hele grafiek. Maar elke andere is ook goed. We zien dat bij Ua=300 V een
+roosterspanning Ug=0 V leidt tot een anodestroom Ia=15 mA en dat dan voor Ug=-5 V de
+anodestroom 0 is. Dat betekent 15 mA⁄5 V = 3 mA⁄V. Antwoord C dus.
+Opmerking
+In werkelijkheid is dit soort karakteristieken nooit helemaal recht. Dan hoort bij elke
+waarde van Ug een andere steilheid. Die lees je af door aan weerskanten van het
+afleespunt een klein stukje grafiek te nemen, de bijbehorende verandering van Ug en die
+van Ia af te lezen en daaruit de steilheid te berekenen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-29
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.54 Uitwerking van Opgave 8-54
+Als van een elektronenbuis een gegeven wordt uitgedrukt in een aantal mA/V, dan heeft
+dat betrekking op de
+A. Ingangsweerstand
+B. Versterkingsfactor
+C. Steilheid
+D. Inwendige weerstand
+
+Uitwerking
+Bij een elektronenbuis kan de anodestroom Ia worden gevarieerd door de spanning Ug1
+tussen kathode en stuurrooster te laten variëren. De mate waarin de stroom varieert onder
+invloed van de roosterspanning, heet de steilheid. Deze grootheid wordt aangegeven in
+mA/V. Antwoord C is dus het juiste.
+Opmerking
+De andere veelgebruikte buisgrootheid in het rijtje is de inwendige weerstand Ri. Die gaat
+meestal in k en beschrijft de verandering van de anodestroom Ia onder invloed van de
+anodespanning Ua. k is hetzelfde als V/mA, dus het omgekeerde van steilheid.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-30
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.55 Uitwerking van Opgave 8-55
+De steilheid van een buis wordt uitgedrukt in
+A. graden
+B. hellingspercentage
+C. mA/V
+D. k/V
+Uitwerking
+De steilheid S van een buis is de verhouding van een verandering van de roosterspanning
+Ug en de bijbehorende verandering van de anodestroom Ia. In de wiskunde gebruik je voor
+verandering van een grootheid het symbool , de Griekse hoofdletter D. Spreek uit: delta.
+Dan ziet wat we net in woorden hebben weergegeven er als vergelijking zo uit:
+𝑆=
+
+∆𝐼a
+∆𝑈g
+
+In de figuur hiernaast met twee geïdealiseerde
+steilheidsgrafieken is dat weergegeven in de onderste
+grafiek.
+Hie krommer de steilheidsgrafiek, des te kleiner moet je
+de ’s nemen voor een goede benadering. De wiskunde
+heeft daar (natuurlijk) iets voor, maar voor een
+zendcursus gaat dat veel te ver.
+
+Ia
+
+Ug
+
+Ia
+
+Ug
+
+Met de vergelijking van antwoord C erbij voel je hem natuurlijk al aankomen: I gaat in
+mA en U in V. Antwoord C dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-31
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.56 Uitwerking van Opgave 8-56
+Wanneer van een triode de roosterspanning meer negatief wordt gemaakt ten opzichte
+van de kathode, zal de
+A. Anodespanning afnemen
+B. Anodestroom afnemen
+C. Roosterstroom toenemen
+D. Anodestroom toenemen
+Uitwerking
+De stroom door een radiobuis bestaat uit elektronen die zich van kathode naar anode
+verplaatsen. Elektronen zijn negatief geladen. Een negatieve spanning op een rooster
+tussen kathode en anode remt de elektronenstroom af. Dat effect is sterker, naarmate de
+roosterspanning meer negatief is ten opzichte van de kathode. De anodestroom neemt dus
+af, naarmate de roosterspanning ten opzichte van de kathode meer negatief is. Antwoord
+B. Elke steilheidskarakteristiek van een triode (Ia / Ug -grafiek, zie cursustekst) laat dit
+zien.
+Opmerkingen
+Als bij een bus de anodestroom daalt, daalt ook de kathodestroom. Bij antwoord B had
+daarom ook “kathodestroom” in plaats van “anodestroom” mogen staan.
+De anodespanning zal in de gegeven situatie niet veranderen, tenzij er een
+anodeweerstand is. Dat laatste moet dan wel in de gegevens staan.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-32
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.57 Uitwerking van Opgave 8-57
+De steilheid van een triode wordt uitgedrukt in mA/V.
+Deze mA en V hebben betrekking op variaties in de:
+A. Anodestroom en roosterspanning
+B. Roosterstroom en roosterspanning
+C. Roosterstroom en anodespanning
+D. Anodestroom en anodespanning
+
+Oplossing
+In een buis varieert de stroom door de buis onder invloed van de spanning tussen rooster
+en kathode. De grafiek hieronder geeft dat verband in geïdealiseerde vorm aan.
+Ia
+
+Ug
+
+Dezelfde grafiek vind je in de uitwerking van Opgave 8-55. Het verband verschilt per
+buistype. Vandaar dat de grafiek twee schuine lijnen bevat. De een is steiler dan de
+andere. Het weergegeven verband heet dan ook niet voor niets de steilheid. De
+roosterspanning Ug staat op de horizontale as, de anodestroom Ia op de verticale as.
+Daarmee is het antwoord eigenlijk al gegeven. De mA staan voor de anodestroom en de V
+voor de roosterspanning (strikt genomen: de spanning tussen rooster en kathode).
+Antwoord A dus.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-33
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.58 Uitwerking van Opgave 8-58
+Stelling 1:
+De anode-roostercapaciteit van een triode is veel kleiner dan van een penthode
+Stelling 2:
+De elektronenstroom in een triode loopt van het rooster naar de anode.
+Wat is juist:
+A. Geen van beide stellingen
+B. Alleen stelling 2
+C. Alleen stelling 1
+D. Stelling 1 en 2
+Uitwerking
+Voor stelling 1: De anode-roostercapaciteit is bij een triode veel groter dan bij een
+penthode. Bij een penthode zit tussen anode en stuurrooster het schermrooster dat is
+ontkoppeld voor het frequentiegebied waarin de buis moet werken. Daardoor vormt het
+een capacitieve afscherming, waardoor de effectieve capaciteit tussen stuurrooster sterk
+wordt beperkt in vergelijking met de triode. Stelling 1 is dus onjuist.
+Voor stelling 2: De elektronenstroom loopt in een triode van de negatieve kathode naar de
+positieve anode. Het rooster is licht negatief en remt de elektronenstroom af en is zelf
+geen elektronenbron. Stelling 2 deugt dus ook niet. Maar kijk ook even bij de opmerking.
+Conclusie: antwoord A is het juiste antwoord.
+Opmerking
+De elektronenstroom is van kathode naar anode. Die stroom passeert het rooster en in die
+zin is er een stroom van rooster naar anode. Hij komt alleen niet uit het rooster. Dat is in
+deze vraag een ongewenste onduidelijkheid. Maar….. er kunnen zich wel degelijk
+elektronen uit een rooster losmaken en zich naar de anode verplaatsen Dat zijn er heel
+weinig, maar ze bestaan. Alleen gaat de onderliggende natuurkunde voor een zendexamen
+(veel) te ver. Bovendien is er nog een proces. De kathode van een buis is bedekt met
+materiaal dat de emissie van elektronen vergemakkelijkt. Naarmate een buis ouder wordt,
+kan wat van dat materiaal op het rooster terechtkomen, waardoor elektronen
+gemakkelijker het rooster verlaten en richting anode gaan. Zo kan stelling 2 dus wel waar
+zijn. Deze vraag had daarom eigenlijk niet of niet in deze vorm gesteld mogen worden.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-34
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.59 Uitwerking van Opgave 8-59
+De Ia – Ua karakteristiek van een triode geeft het verband aan tussen
+A. Anodestroom en anodespanning
+B. Roosterstroom en anodespanning
+C. Roosterstroom en roosterspanning
+D. Anodestroom en roosterspanning
+
+Uitwerking
+Bij beide grootheden Ia en Ua staat de “a” van anode aan de voet van het symbool voor de
+grootheden I en U. Dat alleen is voldoende om vast te stellen dat het om anodestroom en
+anodespanning gaat. Dat leidt tot antwoord A.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-35
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.60 Uitwerking van Opgave 8-60
+De versterkingsfactor van een buis wordt bepaald door:
+A. De grootte van de anodespanning bij een constante anodestroom
+B. De verhouding tussen anodespanningsvariatie en roosterspanningsvariatie bij
+constante anodestroom
+C. De verhouding tussen de negatieve roosterspanning en de anodespanningsvariatie
+bij een bepaalde anodestroom
+D. De verhouding van de anodestroom en de negatieve roosterspanning
+
+Uitwerking
+De versterkingsfactor  of A van een buis is de verhouding tussen de
+wisselspanningscomponent over de anodeweerstand en die op het stuurrooster. In
+vergelijkingvorm:
+𝐴=
+
+𝑖a 𝑅𝑎
+𝑢𝑔
+
+𝑖
+De kleine letters staan voor de wisselspanning en -stroom. De verhouding 𝑎⁄𝑢𝑔 is de
+steilheid S bij de anodestroom van dat moment. Dan komen we uit op antwoord C. B lijkt
+ook in de richting te komen, maar de “constante anodestroom” past niet bij versterking,
+want daarbij is de anodestroom een onzuivere wisselstroom.
+Opmerking
+Naar de (on)bescheiden mening van de schrijver is dit één van de minder heldere
+examenopgaven die gelukkig maar één keer is gebruikt (maar voor de toekomst weet je
+het maar nooit).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-36
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.61 Uitwerking van Opgave 8-61
+De weerstand Rk zorgt voor de:
+A. Wisselstroomontkoppeling
+B. Wisselstroomtegenkoppeling
+C. Impedantieaanpassing
+D. Gelijkstroominstelling
+
+Uitwerking
+Meestal gaan opgaven met dit soort schema’s over de ontkoppelcondensator die parallel
+staat aan Rk. Nu is de weerstand zelf aan de beurt. Die heeft maar één doel: de
+roosterspanning negatief maken ten opzichte van de kathode. Dat gebeurt door de
+kathodespanning positief te maken ten opzichte van die van het rooster, wat op hetzelfde
+neerkomt. Dat betekent dat de weerstand de gelijkstroominstelling van de buis bepaalt.
+Antwoord D.
+Opmerking
+De condensator is bedoeld om de versterkingsvermindering die het gevolg is van de
+aanwezigheid van Rk, voor wisselspanning vrijwel teniet ten doen.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-37
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.62 Uitwerking van Opgave 8-62
+De gelijkspanning tussen rooster en kathode van de triode wordt bepaald door de:
+A. Ontkoppelcondensator Ck
+B. Roosterlekweerstand Rg
+C. Anodestroom en
+kathodeweerstand Rk
+D. Rooster-kathodecapaciteit
+
+Uitwerking
+Door de buis loopt een elektronenstroom van kathode naar anode. Via de kathode komen
+de elektronen de buis binnen en verlaten deze weer via de anode. Anode- en
+kathodestroom zijn daarom gelijk.
+De spanning over Rk is daarom gelijk aan de roosterspanning, want door Rg loopt normaal
+gesproken geen stroom. Deze weerstand moet alleen het rooster aan massa (0 V) leggen.
+Kathode-/anodestroom en Rk bepalen daardoor de gelijkspanning tussen rooster en
+kathode. Antwoord C is dus goed.
+Opmerkingen
+Strikt genomen verschillen anode- en kathodestroom van teken. De één is de buis in, de
+ander de buis uit.
+Omdat de elektronen zich van kathode naar anode bewegen, is de technische
+stroomrichting van anode naar kathode (van plus naar min).
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-38
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.63 Uitwerking van Opgave 8-63
+Als in de getekende schakeling de condensator C wordt vervangen door een exemplaar
+met een veel kleinere capaciteitswaarde, is het effect:
+
+A. Een grotere versterking uitsluitend voor de laagste frequenties
+B. Een kleinere versterking voor alle frequenties
+C. Een kleinere versterking uitsluitend voor de laagste frequenties
+D. Een kleinere versterking uitsluitend voor de hoogste frequenties
+Uitwerking
+Een kathodeweerstand vermindert effectief de steilheid van een buis en daarmee de
+versterking. Dat geldt in beginsel voor alle frequenties.
+Een ontkoppelcondensator doet dat effect sterker teniet, naarmate zijn reactantie lager is,
+dus de capaciteit hoger. Is de reactantie aanzienlijk lager dan Rk, dan is de condensator
+vrijwel volledig bepalend voor de versterking.
+
+C en Rk fungeren samen als een hoogdoorlaatfilter: een lagere impedantie naarmate de
+frequentie hoger is. Hoe hoger de frequentie, des te hoger is de versterking. Daaraan zit
+een beperking en dat is de steilheid van de buis zelf. Als de impedantie van C en Rk ten
+opzichte van de steilheid weinig meer voorstelt, wordt de impedantieverandering met
+verder toenemende frequentie verwaarloosbaar.
+Bij verminderde C wordt een groter gebied van lage frequenties minder versterkt doordat
+de impedantie van C en Rk voor dat frequentiegebied hoger is. Antwoord C.
+Opmerking
+Heel strikt genomen geldt de kleinere versterking bij lagere capaciteit van C voor alle
+frequenties, alleen voor de hoogste stelt die nauwelijks iets voor.
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-39
+
+VRZA-cursus radiozendamateur
+
+Hoofdstuk 8. Examenopgaven 20240417 B
+
+8.5.64 Uitwerking van Opgave 8-64
+In de figuur is de Ia – Ug karakteristiek van een triode weergegeven.
+
+De steilheid bij Ug = -1,5 V is:
+A. 50 mA/V
+B. 10 mA/V
+C. 5 mA/V
+D. 1 mA/V
+Uitwerking
+In de grafiek is Ug = -1,5 V aangegeven, midden tussen -2 V en -1 V. Dat is een
+tussenruimte van 1 V, zodat we alleen de bijbehorende waarden op de verticale as hoeven
+af te lezen. Dat is een kwestie van stippellijnen volgen. Die komen uit op de punten voor
+10 mA en 15 mA, Verschil: 5 mA. De steilheid is dan 5 mA/V, antwoord C.
+
+Dit is het eind van de opgaven bij Hoofdstuk 8
+
+© 2021, Vereniging van Radiozendamateurs VRZA (opgaven in par.8.4 uitgezonderd)
+
+8-40
+
+

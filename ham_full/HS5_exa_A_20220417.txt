@@ -1,0 +1,3840 @@
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Inhoudsopgave
+5
+
+Uitgewerkte examenopgaven bij Hoofdstuk 5, deel A ................................................. 5-5
+5.1
+
+Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het? .............. 5-5
+
+5.2
+
+Enkele opmerkingen ............................................................................................... 5-6
+
+5.3
+
+Formularium ............................................................................................................ 5-6
+
+5.3.1
+
+Golfvormen, periode en frequentie ................................................................. 5-6
+
+5.3.2
+
+Optellen van sinusvormige spanningen en stromen ...................................... 5-8
+
+5.3.3
+
+Reactantie en faseverschil tussen stroom en spanning bij condensatoren.... 5-8
+
+5.3.4
+
+Reactantie en faseverschil tussen stroom en spanning bij spoelen ............... 5-9
+
+5.3.5
+
+Reactantie en impedantie ................................................................................ 5-9
+
+5.3.6
+
+Schakelingen met condensatoren en spoelen: resonantie............................ 5-11
+
+5.3.7
+
+Eenvoudige hoog- en laagdoorlaatfilters ...................................................... 5-12
+
+5.3.8
+
+Bandfilters en de kwaliteitsfactor Q.............................................................. 5-13
+
+5.3.9
+
+Niet-sinusvormige signalen, harmonischen ................................................. 5-15
+
+5.4
+
+Opgaven ................................................................................................................. 5-16
+
+5.4.1
+
+Opgave 5-1 ...................................................................................................... 5-17
+
+5.4.2
+
+Opgave 5-2 ...................................................................................................... 5-18
+
+5.4.3
+
+Opgave 5-3 ...................................................................................................... 5-19
+
+5.4.4
+
+Opgave 5-4 ...................................................................................................... 5-20
+
+5.4.5
+
+Opgave 5-5 ...................................................................................................... 5-21
+
+5.4.6
+
+Opgave 5-6 ...................................................................................................... 5-22
+
+5.4.7
+
+Opgave 5-7 ...................................................................................................... 5-23
+
+5.4.8
+
+Opgave 5-8 ...................................................................................................... 5-24
+
+5.4.9
+
+Opgave 5-9 ...................................................................................................... 5-25
+
+5.4.10
+
+Opgave 5-10 .................................................................................................... 5-26
+
+5.4.11
+
+Opgave 5-11 .................................................................................................... 5-27
+
+5.4.12
+
+Opgave 5-12 .................................................................................................... 5-28
+
+5.4.13
+
+Opgave 5-13 .................................................................................................... 5-29
+
+5.4.14
+
+Opgave 5-14 .................................................................................................... 5-30
+
+5.4.15
+
+Opgave 5-15 .................................................................................................... 5-31
+
+5.4.16
+
+Opgave 5-16 .................................................................................................... 5-32
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-1
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.17
+
+Opgave 5-17 .................................................................................................... 5-33
+
+5.4.18
+
+Opgave 5-18 .................................................................................................... 5-34
+
+5.4.19
+
+Opgave 5-19 .................................................................................................... 5-35
+
+5.4.20
+
+Opgave 5-20 .................................................................................................... 5-36
+
+5.4.21
+
+Opgave 5-21 .................................................................................................... 5-37
+
+5.4.22
+
+Opgave 5-22 .................................................................................................... 5-38
+
+5.4.23
+
+Opgave 5-23 .................................................................................................... 5-39
+
+5.4.24
+
+Opgave 5-24 .................................................................................................... 5-40
+
+5.4.25
+
+Opgave 5-25 .................................................................................................... 5-41
+
+5.4.26
+
+Opgave 5-26 .................................................................................................... 5-42
+
+5.4.27
+
+Opgave 5-27 .................................................................................................... 5-43
+
+5.4.28
+
+Opgave 5-28 .................................................................................................... 5-44
+
+5.4.29
+
+Opgave 5-29 .................................................................................................... 5-45
+
+5.4.30
+
+Opgave 5-30 .................................................................................................... 5-46
+
+5.4.31
+
+Opgave 5-31 .................................................................................................... 5-47
+
+5.4.32
+
+Opgave 5-32 .................................................................................................... 5-48
+
+5.4.33
+
+Opgave 5-33 .................................................................................................... 5-49
+
+5.4.34
+
+Opgave 5-34 .................................................................................................... 5-50
+
+5.4.35
+
+Opgave 5-35 .................................................................................................... 5-51
+
+5.4.36
+
+Opgave 5-36 .................................................................................................... 5-52
+
+5.4.37
+
+Opgave 5-37 .................................................................................................... 5-53
+
+5.4.38
+
+Opgave 5-38 .................................................................................................... 5-54
+
+5.4.39
+
+Opgave 5-39 .................................................................................................... 5-55
+
+5.4.40
+
+Opgave 5-40 .................................................................................................... 5-56
+
+5.4.41
+
+Opgave 5-41 .................................................................................................... 5-57
+
+5.4.42
+
+Opgave 5-42 .................................................................................................... 5-58
+
+5.4.43
+
+Opgave 5-43 .................................................................................................... 5-59
+
+5.4.44
+
+Opgave 5-44 .................................................................................................... 5-60
+
+5.4.45
+
+Opgave 5-45 .................................................................................................... 5-61
+
+5.4.46
+
+Opgave 5-46 .................................................................................................... 5-62
+
+5.4.47
+
+Opgave 5-47 .................................................................................................... 5-63
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-2
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.48
+
+Opgave 5-48 .................................................................................................... 5-64
+
+5.4.49
+
+Opgave 5-49 .................................................................................................... 5-65
+
+5.4.50
+
+Opgave 5-50 .................................................................................................... 5-66
+
+5.5
+
+Uitwerkingen ......................................................................................................... 5-67
+
+5.5.1
+
+Uitwerking van Opgave 5-1 .......................................................................... 5-68
+
+5.5.2
+
+Uitwerking van Opgave 5-2 .......................................................................... 5-69
+
+5.5.3
+
+Uitwerking van Opgave 5-3 .......................................................................... 5-70
+
+5.5.4
+
+Uitwerking van Opgave 5-4 .......................................................................... 5-71
+
+5.5.5
+
+Uitwerking van Opgave 5-5 .......................................................................... 5-72
+
+5.5.6
+
+Uitwerking van Opgave 5-6 .......................................................................... 5-73
+
+5.5.7
+
+Uitwerking van Opgave 5-7 .......................................................................... 5-74
+
+5.5.8
+
+Uitwerking van Opgave 5-8 .......................................................................... 5-75
+
+5.5.9
+
+Uitwerking van Opgave 5-9 .......................................................................... 5-76
+
+5.5.10
+
+Uitwerking van Opgave 5-10 ........................................................................ 5-77
+
+5.5.11
+
+Uitwerking van Opgave 5-11 ........................................................................ 5-78
+
+5.5.12
+
+Uitwerking van Opgave 5-12 ....................................................................... 5-79
+
+5.5.13
+
+Uitwerking van Opgave 5-13 ........................................................................ 5-80
+
+5.5.14
+
+Uitwerking van Opgave 5-14 ........................................................................ 5-81
+
+5.5.15
+
+Uitwerking van Opgave 5-15 ........................................................................ 5-82
+
+5.5.16
+
+Uitwerking van Opgave 5-16 ........................................................................ 5-83
+
+5.5.17
+
+Uitwerking van Opgave 5-17 ........................................................................ 5-84
+
+5.5.18
+
+Uitwerking van Opgave 5-18 ........................................................................ 5-85
+
+5.5.19
+
+Uitwerking van Opgave 5-19 ........................................................................ 5-86
+
+5.5.20
+
+Uitwerking van Opgave 5-20 ........................................................................ 5-87
+
+5.5.21
+
+Uitwerking van Opgave 5-21 ........................................................................ 5-88
+
+5.5.22
+
+Uitwerking van Opgave 5-22 ........................................................................ 5-89
+
+5.5.23
+
+Uitwerking van Opgave 5-23 ........................................................................ 5-90
+
+5.5.24
+
+Uitwerking van Opgave 5-24 ........................................................................ 5-92
+
+5.5.25
+
+Uitwerking van Opgave 5-25 ........................................................................ 5-95
+
+5.5.26
+
+Uitwerking van Opgave 5-26 ........................................................................ 5-96
+
+5.5.27
+
+Uitwerking van Opgave 5-27 ........................................................................ 5-97
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-3
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.28
+
+Uitwerking van Opgave 5-28 ........................................................................ 5-99
+
+5.5.29
+
+Uitwerking van Opgave 5-29 ...................................................................... 5-100
+
+5.5.30
+
+Uitwerking van Opgave 5-30 ...................................................................... 5-101
+
+5.5.31
+
+Uitwerking van Opgave 5-31 ...................................................................... 5-102
+
+5.5.32
+
+Uitwerking van Opgave 5-32 ...................................................................... 5-103
+
+5.5.33
+
+Uitwerking van Opgave 5-33 ...................................................................... 5-104
+
+5.5.34
+
+Uitwerking van Opgave 5-34 ...................................................................... 5-105
+
+5.5.35
+
+Uitwerking van Opgave 5-35 ...................................................................... 5-106
+
+5.5.36
+
+Uitwerking van Opgave 5-36 ...................................................................... 5-107
+
+5.5.37
+
+Uitwerking van Opgave 5-37 ...................................................................... 5-108
+
+5.5.38
+
+Uitwerking van Opgave 5-38 ...................................................................... 5-109
+
+5.5.39
+
+Uitwerking van Opgave 5-39 ...................................................................... 5-110
+
+5.5.40
+
+Uitwerking van Opgave 5-40 ...................................................................... 5-111
+
+5.5.41
+
+Uitwerking van Opgave 5-41 ...................................................................... 5-112
+
+5.5.42
+
+Uitwerking van Opgave 5-42 ...................................................................... 5-113
+
+5.5.43
+
+Uitwerking van Opgave 5-43 ...................................................................... 5-114
+
+5.5.44
+
+Uitwerking van Opgave 5-44 ...................................................................... 5-116
+
+5.5.45
+
+Uitwerking van Opgave 5-45 ...................................................................... 5-117
+
+5.5.46
+
+Uitwerking van Opgave 5-46 ...................................................................... 5-118
+
+5.5.47
+
+Uitwerking van Opgave 5-47 ...................................................................... 5-119
+
+5.5.48
+
+Uitwerking van Opgave 5-48 ...................................................................... 5-120
+
+5.5.49
+
+Uitwerking van Opgave 5-49 ...................................................................... 5-121
+
+5.5.50
+
+Uitwerking van Opgave 5-50 ...................................................................... 5-122
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-4
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5 Uitgewerkte examenopgaven bij Hoofdstuk 5, deel A
+5.1 Waartoe dient dit hoofdstuk met uitwerkingen en hoe gebruik je het?
+De voornaamste functie van deze bundel is dat je de kennis die je in cursushoofdstuk 5
+hebt opgedaan, kunt toetsen aan echte examenvragen. Het is daarom een vorm van
+examentraining.
+Het is niet de bedoeling, maar ook niet verboden, om te proberen het examen te halen
+door je enkel te trainen met examenvragen. Er bestaan mensen die op die manier het
+examen hebben gehaald. Bedenk dat sinds begin 2000 ongeveer 1400 examenvragen zijn
+gesteld. Die weg is daarom tijdrovend en de slagingskans niet groot. Bedenk ook dat
+examenvragen die op elkaar lijken, vaak niet precies gelijk zijn en dat de antwoorden op
+meerkeuzevragen niet altijd in dezelfde volgorde staan of precies gelijk zijn aan hun
+voorgangers. Of snappen sommigen de stof geleidelijk aan toch als ze maar heel veel
+examenvragen maken? Wie het weet, mag het zeggen.
+Wel verwachten de schrijvers dat de opgedane kennis door het bestuderen en maken van
+de vragen scherper in je hoofd wordt geprent dan zonder examentraining. Want training
+is het natuurlijk wel.
+Advies: maak in elk geval eerst de opgaven die in de tekst van het eigenlijke leerhoofdstuk
+staan, loop daarna de verkorte versie nog een keer door om te zien of alles bekend is en
+begin pas daarna aan de examenvragen in deze bundel.
+De opgaven zitten in twee paragrafen. De eerste geeft alleen de opgaven. Zo kun je die
+maken zonder ongewild het antwoord toch te zien. Een gele pijl in een blauw veld aan het
+eind van elke opgave brengt je naar de uitwerking. Deze:
+
+De uitwerking begint met de opgave en het goede antwoord vetgedrukt. Daarna volgt de
+eigenlijke uitwerking, soms gevolgd door een of meer opmerkingen. De uitwerking hoeft
+niet de enig juiste te zijn. Het is niet ongewoon dat je via een andere weg ook tot een goed
+antwoord komt. Leg dan beide antwoorden naast elkaar en vergelijk.
+Bij veel opgaven begint de uitwerking met een korte analyse. Tenslotte is de eerste vraag
+die een examenkandidaat zich bij elke examenvraag moet stellen er één van “hoe zit dit
+precies in elkaar?”. Kort gezegd: begrijp wat je doet.
+Aan het eind van een uitwerking kun je via een rode pijl in een blauw veld terug naar de
+opgave.
+Dat is deze:
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-5
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Via eenzelfde pijl, maar dan groen, kom je vanaf de uitwerking bij de volgende opgave.
+Dat is deze:
+
+De cursusredactie beveelt elke cursist aan, de opgaven te maken langs de route van de
+pijlen. Dan weet je zeker dat je niets overslaat. Noteer het nummer van de laatst bekeken
+opgave als je stopt om wat anders te doen. Via de inhoudsopgave kun je er met één
+muisklik weer naartoe. Voor wie alleen geïnteresseerd is in de uitwerkingen: je kunt alle
+uitwerkingen ook achter elkaar doorlezen in paragraaf 5.5.
+
+5.2 Enkele opmerkingen
+Wegens het grote aantal beschikbare examenopgaven is de bundel bij hoofdstuk 5 gesplitst
+in deel A, B. C en D. Dit is deel A met 50 opgaven. Deel B bevat er ook 50, deel C 40 en
+deel D 24.
+Bij elke opgave is vermeld, in welk examen de opgave voorkomt. Voorbeeld: F-examen
+mei 2011 (1). De opgave is dan onderdeel geweest van het eerste examen in mei 2011.
+Gaat het om het tweede examen, dan staat er (2) in plaats van (1). Als er in een maand
+maar één examen is geweest, is er geen aanduiding (1) of (2). Soms staat er in plaats
+daarvan een volledige datum. Vóór het jaar 2008, waren er maar twee examens per jaar,
+het voorjaars- en najaarsexamen.
+Het kan zijn dat een opgave jarenlang niet meer is gebruikt en plotseling, bijvoorbeeld 10
+jaar of nog meer later, weer opduikt. Denk dus niet dat een opgave die 15 jaar geleden
+voor het laatst in een examen zat, nu niet meer zal voorkomen. Maar een opgave die vaak
+voorkomt, zal een grotere kans hebben om weer op te duiken dan één die maar één of
+twee keer is voorgekomen.
+Voorafgaand aan de opgaven volgt nu een formularium. Dat is een overzicht van
+vergelijkingen (“formules”) met soms wat handigheidjes. We raden aan, dit eerst door te
+nemen.
+
+5.3 Formularium
+5.3.1 Golfvormen, periode en frequentie
+Omdat de sinusvormige wisselstroom en -spanning bij radio verreweg het meest
+voorkomen, wordt daarvan de meeste kennis gevraagd. Die werken we dan ook vooral uit.
+De symmetrische blokgolf is een goede tweede.
+We kennen bij beide amplitude en periode (Figuur 5.3-1).
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-6
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Figuur 5.3-1. Periode en amplitude bij ee4n sinusvormige wisselspanning.
+
+De periode is de tijd tussen twee opeenvolgende gelijke punten op de sinus, bijvoorbeeld
+twee opeenvolgende hoogste punten. Periode T wordt uitgedrukt in tijd. Frequentie f is
+het aantal perioden per tijd. f wordt uitgedrukt in hertz (Hz). Het verband tussen beide is
+𝑓=
+
+1
+𝑇
+
+en dus 𝑇 =
+
+1
+𝑓
+
+( 5.3-1)
+
+De amplitude is de maximale waarde. Symbool: Umax voor spanning en Imax voor stroom.
+Daarvoor kan ook de minimale waarde worden gebruikt. Laat dan het minteken weg.
+De gemiddelde waarde van een zuivere wisselstroom of spanning is 0, want de blokken
+boven en onder de nullijn zijn precies even groot. Maar let op: de gemiddelde waarde Ugem
+van een enkele positieve of negatieve halve periode is niet 0. Daarvoor geldt voor een
+positieve periodehelft
+2𝑈𝑚𝑎𝑥
+( 5.3-2)
+𝑈𝑔𝑒𝑚 =
+𝜋
+Voor een negatieve periodehelft komt er een minteken voor de uitkomst. Voor een
+stroom vervang je in ( 5.3-2) U door I.
+De effectieve waarde voor een sinusvormige stroom of spanning is kleiner dan de
+maximale waarde. Voor een spanning geldt
+𝑈𝑚𝑎𝑥
+( 5.3-3)
+𝑈𝑒𝑓𝑓 =
+of iets minder precies: 𝑈𝑒𝑓𝑓 ≈ 0,71𝑈𝑚𝑎𝑥
+√2
+En voor Umax geldt
+𝑈𝑚𝑎𝑥 = 𝑈𝑒𝑓𝑓 √2 of iets minder precies: 𝑈𝑚𝑎𝑥 ≈ 1,41𝑈𝑒𝑓𝑓
+
+( 5.3-4)
+
+Voor een stroom vul je I in plaats van U in.
+Voor een symmetrische blokspanning (Figuur 5.3-2) geldt
+𝑈𝑒𝑓𝑓 = 𝑈𝑚𝑎𝑥
+
+( 5.3-5)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-7
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Figuur 5.3-2. Symmetrische blokspanning.
+
+Fase is het deel van de periode die sinds het begin ervan is gerealiseerd.
+De momentele waarde is de waarde van de spanning of de stroom op een zeker moment.
+Een onzuivere wisselspanning of -stroom is een wisselspanning of -stroom, waarbij een
+gelijkspanning of -stroom is opgeteld.
+5.3.2 Optellen van sinusvormige spanningen en stromen
+Uit een optelling van twee sinussen komt altijd een sinus. Een sinus is voor te stellen als
+een ronddraaiende vector. De gebruikelijke manier is tegen de klok in. De vector zelf
+wordt voorgesteld als een pijl. Die heeft een lengte en een richting. De lengte geeft de
+amplitude aan, de richting de fase.
+
++
+
+=
+
+=
+
++
+
+=
+
+=
+
+Figuur 5.3-3 Twee voorbeelden van een vectoroptellingen (rood + blauw =paars).
+
+5.3.3 Reactantie en faseverschil tussen stroom en spanning bij condensatoren
+Bij gelijkspanning is de weerstand van een ideale condensator oneindig. Bij
+wisselspanning loopt er wel degelijk een stroom. Er is sprake van een schijnbare
+weerstand voor wisselspanning, Die heet reactantie. Een reactantie wordt aangegeven met
+X. Omdat een spoel ook een reactantie heeft (komt nog), wordt de reactantie van een
+condensator meestal aangegeven met XC. Het verband tussen frequentie f en XC luidt
+𝑋𝐶 =
+
+1
+2𝜋𝑓𝐶
+
+( 5.3-6)
+
+2𝜋𝑓 wordt ook aangeduid met de Griekse letter ω (spreek uit: ómega), dat is de
+hoekfrequentie, hoeksnelheid of cirkelfrequentie. Die drie termen betekenen hetzelfde. ω
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-8
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+gaat in radialen per seconde, frequentie in perioden per seconde. In 1 periode zitten 2
+radialen, vandaar de 2 in ( 5.3-6).
+Voor reactanties geldt net als bij weerstanden de wet van Ohm:
+𝑈𝑒𝑓𝑓 = 𝐼𝑒𝑓𝑓 𝑋C
+
+( 5.3-7)
+
+I ligt bij een condensator 90ºin fase vóór op U. Ondanks ( 5.3-7) is XC dus geen gewone
+weerstand.
+5.3.4 Reactantie en faseverschil tussen stroom en spanning bij spoelen
+Bij gelijkstroom is de weerstand van een ideale spoel nul. Bij wisselstroom ondervindt de
+stroom wel weerstand. Ook hier een schijnbare weerstand, een reactantie XL. De L staat
+voor zelfinductie.
+𝑋𝐿 = 2𝜋𝑓𝐿
+
+( 5.3-8)
+
+Voor 2𝜋𝑓 wordt ook ω geschreven. Ook hier geldt de wet van Ohm:
+𝑈𝑒𝑓𝑓 = 𝐼𝑒𝑓𝑓 𝑋𝐿
+
+( 5.3-9)
+
+I ligt bij een spoel 90ºin fase achter op U. Ezelsbruggetje: LUI. Bij L komt I achter U . Bij
+een condensator is het precies andersom: bij C komt I vóór U.
+5.3.5 Reactantie en impedantie
+Impedantie Z is de schijnbare weerstand van combinaties van een reactantie X en een
+weerstand R. Dat zijn:
+•
+•
+•
+•
+
+Spoel en weerstand parallel
+Condensator en weerstand parallel
+Spoel en weerstand in serie
+Condensator en weerstand in serie
+
+We bespreken eerst de parallelschakelingen, dan de serieschakelingen. Uitgangspunt is
+steeds de vraag: hebben beide elementen de stroom of de spanning gemeenschappelijk?
+Parallelschakelingen
+Bij parallelschakelingen is de spanning het uitgangspunt, want die hebben parallel
+geschakelde elementen gemeenschappelijk.
+Bij een weerstand is de stroom in fase met de spanning. De grootte van de stroom volgt uit
+spanning en weerstand (wet van Ohm)
+In de condensator is de stroom 90ºvoor op de spanning. In de spoel is de stroom 90º achter
+op de spanning. In beide gevallen volgt de stroom uit de wet van Ohm met de reactantie
+in de rol van weerstand volgens vergelijkingen ( 5.3-7) en ( 5.3-9).
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-9
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Door het verschil in fase wordt de stroom de uitkomst van een vectoroptelling (Figuur
+5.3-4) van de stromen IR door de weerstand en IL door de spoel of IC door de condensator.
+De bewerking is een toepassing van de stelling van Pythagoras:
+( 5.3-10)
+
+𝐼 = √𝐼𝐿2 + 𝐼𝑅2 voor de spoel en √𝐼𝐶2 + 𝐼𝑅2 voor de condensator
+
+IR
+
+2
+
+U
+
+I
+
+IC
+
+C
+
+I=
+
+2 +
+
+IL
+
+U
+
+R 2
+
+IR
+
+IL
+
+L
+
+I
+
+IC
+
+I=
+
+IR
+
+R
+
+IR
+
+U
+
+IC 2
++I
+
+R
+
+I
+IL
+
+I
+
+U
+
+IR
+
+Figuur 5.3-4. Bepaling van grootte en fase van de stroom bij parallelschakeling van een weerstand met spoel
+(links) of met condensator (rechts). Draairichting is linksom (tegen de klok).
+
+Weerstand en reactantie zijn omgekeerd evenredig met de stroom. Daarom geldt voor de
+impedantie Z:
+( 5.3-11)
+
+1
+1
+1
+=√ 2+ 2
+𝑍
+𝑋
+𝑅
+
+XL wordt gevonden via vergelijking ( 5.3-8), XC via vergelijking ( 5.3-6).
+Serieschakelingen
+Bij serieschakelingen is de stroom in de seriegeschakelde elementen dezelfde. Dus is daar
+stroom uitgangspunt. Bij de weerstand zijn stroom en spanning in fase. De spanning over
+de weerstand volgt uit weerstand en stroom via de wet van Ohm.
+Datzelfde geldt voor de spanning over spoel en condensator. Die volgt uit reactanties XL
+en XC en de stroom volgens vergelijkingen ( 5.3-9) en ( 5.3-7). Nu is de spanning de
+uitkomst van een vectoroptelling (Figuur 5.3-5).
+
+R
+R 2
+
+U 2
+L +
+U
+=
+
+UC
+
+U
+I
+
+C
+
+2
+R
+
+U
+
+2 +U
+
+L
+
+UR
+
+UC
+
+UL
+U
+
+I
+
+UR
+
+=
+
+UR
+
+I
+
+U
+
+I
+
+R
+
+U
+
+UL
+
+I
+I
+
+UC
+
+UR
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-10
+
+U
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Figuur 5.3-5. Bepaling van grootte en fase van de stroom bij serieschakeling van een weerstand met spoel
+(links) of met condensator (rechts). Draairichting is linksom (tegen de klok).
+
+Ook hier gaat de vectoroptelling via de stelling van Pythagoras:
+( 5.3-12)
+
+𝑈 = √𝑈𝐿2 + 𝑈𝑅2 bij de spoel en 𝑈 = √𝑈𝐶2 + 𝑈𝑅2 bij de condensator
+Weerstand en reactantie zijn evenredig met de spanning. Daarom geldt voor de
+impedantie Z van de serieschakeling
+
+( 5.3-13)
+
+𝑍 = √𝑋 2 + 𝑅 2
+
+X kan XL (spoel) of XC (condensator) zijn. XL wordt gevonden via vergelijking ( 5.3-8) en
+XC via ( 5.3-6).
+5.3.6 Schakelingen met condensatoren en spoelen: resonantie
+Bij condensatoren loopt de stroom 90ºvoor en bij spoelen 90º achter op de spanning. Dat
+houdt in dat in een schakeling met spoelen en condensatoren er een faseverschil van 180
+is. In Figuur 5.3-4 en Figuur 5.3-5 was te zien dat de vectoren van de capaciteit en die van
+de zelfinductie in tegengestelde richting stonden. Condensator en spoel kunnen parallel of
+in serie staan (Figuur 5.3-6).
+
+LC-parallelschakeling
+
+LC-serieschakeling
+IC
+
+UL
+UL
+
+U
+
+IL
+
+IC
+
+U
+
+I
+
+I
+UC
+
+IL
+
+UC
+
+Figuur 5.3-6. Parallelschakeling van L en C met vectordiagram (links) en serieschakeling van L en C met
+vectordiagram (rechts).
+
+Voor de parallelschakeling geldt:
+𝐼𝐿 = 𝐼𝐶 : de schakeling is in resonantie. IL en IC heffen elkaar op. De reactantie is oneindig.
+𝐼𝐿 > 𝐼𝐶 : de schakeling reageert als een zelfinductie (spoel). De frequentie ligt dan onder de
+resonantiefrequentie.
+𝐼𝐶 > 𝐼𝐿 : de schakeling reageert als een capaciteit (condensator) De frequentie ligt dan
+boven de resonantiefrequentie.
+Voor de serieschakeling geldt:
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-11
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+𝑈𝐿 = 𝑈𝐶 : de schakeling is in resonantie. UL en UC heffen elkaar op. De reactantie is nul.
+𝑈𝐿 > 𝑈𝐶 : de schakeling reageert als zelfinductie (spoel). De frequentie ligt boven de
+resonantiefrequentie
+𝑈𝐶 > 𝑈𝐿 : reageert als een capaciteit (condensator). De frequentie ligt onder de
+resonantiefrequentie
+Bij parallel- en serieschakeling geldt voor de resonantiefrequentie fres:
+𝑓𝑟𝑒𝑠 =
+
+1
+2𝜋√𝐿𝐶
+
+. Dat is hetzelfde als 𝜔𝑟𝑒𝑠 =
+
+1
+
+( 5.3-14)
+
+√𝐿𝐶
+
+5.3.7 Eenvoudige hoog- en laagdoorlaatfilters
+We kennen RC-filters en RL-filters. Of een filter een hoog- dan wel een laagdoorlaatfilter
+is, hangt af van de plaatsing van R en C, resp. R en L in het schema. De hoog- en
+laagdoorlaatfilters die je voor het examen moet kennen, hebben de vorm van een
+spanningsdeler. Figuur 5.3-7 geeft een overzicht.
+RC-filter
+
+RL-filter
+
+R
+Laagdoorlaat
+
+Uin
+
+L
+Uuit
+
+C
+
+Uin
+
+C
+
+Hoogdoorlaat
+
+Uin
+
+Uuit
+
+R
+
+R
+Uuit
+
+R
+
+Uin
+
+L
+
+Uuit
+
+Figuur 5.3-7. Laagdoorlaatfilters en hoogdoorlaatfilters in RC- en RL-vorm.
+
+Een belangrijke grootheid is in alle gevallen de kantelfrequentie, dat is de frequentie fk,,
+waarvoor geldt:
+𝑋=𝑅
+
+( 5.3-15)
+
+De kantelfrequentie fk van een RC-filter bereken je volgens
+𝑓𝑘 =
+
+1
+2𝜋𝑅𝐶
+
+Voor een RL-filter gaat dat volgens
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-12
+
+( 5.3-16)
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+𝑓𝑘 =
+
+𝑅
+2𝜋𝐿
+
+( 5.3-17)
+
+Op het kantelpunt geldt:
+𝑈𝑢𝑖𝑡 =
+
+𝑈𝑖𝑛
+√2
+
+≈ 0,7𝑈𝑖𝑛
+
+( 5.3-18)
+
+Je kunt ook zeggen dat zo’n filter op het kantelpunt 3 dB verzwakt. Dat is hetzelfde als
+een versterking van -3dB (als de spanning √2 maal zo klein wordt, wordt het vermogen 2x
+maal zo klein!).
+Hoe herken je een hoog- of laagdoorlaatfilter in een schakeling of examenopgave?
+Begrijp:
+1. De reactantie van een condensator wordt lager naarmate de frequentie hoger
+wordt
+2. De reactantie van een spoel wordt hoger naarmate de frequentie hoger wordt.
+Bedenk:
+Een signaal volgt grotendeels het pad van de minste weerstand (’t is net een mens!).
+Een filter als in Figuur 5.3-7 heeft een signaalpad en een zijpad. Het signaalpad is het
+aantrekkelijkst voor het bedoelde signaal. Het zijpad is het aantrekkelijkst voor het
+ongewenste signaal.
+In een hoogdoorlaatfilter met R en C zit daarom C daarom in het signaalpad en R in het
+zijpad. Met R en L zit R in het signaalpad en L in het zijpad.
+In een laagdoorlaatfilter met R en C zit R in het signaalpad en C in het zijpad. Met L en R
+zit L in het signaalpad en R in het zijpad.
+Bekijk als je wilt Figuur 5.3-7 nu nog eens.
+5.3.8 Bandfilters en de kwaliteitsfactor Q
+We gaan verder met LC-kringen en resonantie. Bij een parallelkring in resonantie is de
+reactantie oneindig en bij een seriekring nul. Dat is de theorie. De werkelijkheid is minder
+extreem. Er zijn altijd verliezen door omzetting van elektrische energie in warmte. De
+maat voor die verliezen is weer te geven als een verliesweerstand; laten we hem Rverlies
+noemen. Bij een parallelkring wordt Rverlies weergegeven als parallelweerstand, bij een
+seriekring als serieweerstand.
+Daaruit volgt dat Rverlies oneindig is bij een ideale parallelkring en 0 bij een ideale
+seriekring.
+De grootheid Q is de verhouding van XL bij resonantie en Rverlies. Q heet ook wel de
+kwaliteitsfactor. Voor een parallelkring geldt:
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-13
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+𝑄=
+
+𝑅verlies 𝑅verlies
+=
+𝑋Lres
+2𝜋𝑓res 𝐿
+
+( 5.3-19)
+
+Voor een seriekring gaat de zaak op de kop:
+𝑄=
+
+𝑋Lres
+2𝜋𝑓res 𝐿
+=
+𝑅verlies 𝑅verlies
+
+( 5.3-20)
+
+Q bepaalt in combinatie met de reactanties bij resonantie de mate waarin het gedrag van
+de LC-kring afwijkt van de theoretische verliesvrije kring.
+Een LC-kring is een bandfilter. Dat wil zeggen dat de kring een frequentiegebied doorlaat
+of uit het signaal verwijdert. Daarom heeft het anders dan laag- en hoogdoorlaatfilters met
+één -3dB-punt, twee van die punten. Je kunt ook zeggen dat er bij een LC-filter twee
+kantelfrequenties zijn. De bandbreedte B is de grootte van het frequentiegebied tussen de
+-3 dB-punten. Het wordt bepaald uit Q en de frequentie f volgens:
+𝐵=
+
+𝑓𝑟𝑒𝑠
+𝑄
+
+( 5.3-21)
+
+Je kunt Q daarom bepalen uit de bandbreedte:
+𝑄=
+
+𝑓𝑟𝑒𝑠
+𝐵
+
+( 5.3-22)
+
+De -3 dB-punten liggen ½B onder en boven fres.
+Een LC-parallelkring is een banddoorlaatfilter. Een ideaal banddoorlaatfilter voert alles
+buiten het door te laten frequentiegebied af In werkelijkheid zijn er de door Q en
+frequentie bepaalde -3 dB-punten.
+
+Figuur 5.3-8. LC-parallelkring met verliesweerstand Rverlies en wisselstroombron.
+
+Een LC-seriekring is een bandsperfilter. Een ideaal bandsperfilter voert alles binnen het te
+sperren frequentiegebied af. In werkelijkheid zijn er de door Q en frequentie bepaalde 3
+dB-punten.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-14
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Figuur 5.3-9. LC-seriekring met verliesweerstand Rverlies en wisselstroombron.
+
+5.3.9 Niet-sinusvormige signalen, harmonischen
+Een niet-sinusvormige golfvorm is volgens Fourier te ontbinden in sinusvormige
+golfvormen waarvan de frequentie een geheel veelvoud is van die van de oorspronkelijke
+golfvorm. Die veelvouden heten harmonischen. Een sinus met dezelfde frequentie als de
+oorspronkelijke golf is de eerste harmonische, met de dubbele frequentie is de tweede
+harmonische en zo vervolgens.
+Een bijzonder geval is een symmetrische blokgolf (Figuur 5.3-2). Die heeft alleen oneven
+harmonischen. Een symmetrische blokgolf van 1000 Hz bevat dus sinussen van 1000 Hz,
+3000 Hz, 5000 Hz, enz. Examenvragen hierover komen met enige regelmaat voor.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-15
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4 Opgaven
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-16
+
+VRZA-cursus radiozendamateur
+
+5.4.1
+
+HS5_exa_A_20220417
+
+Opgave 5-1
+
+De gemiddelde waarde van de stroom over het tijdsinterval van 0 tot /2 seconde is
+
+A. 0 A
+B. 2/ A
+C.  A
+D. 1/ A
+(F-examen mei 2013 (2), 7-09-2016)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-17
+
+VRZA-cursus radiozendamateur
+
+5.4.2
+
+HS5_exa_A_20220417
+
+Opgave 5-2
+
+U
+
+U
+I
+
+I
+
+t→
+
+t→
+Afbeelding 1
+
+Afbeelding 2
+U
+
+U
+I
+
+I
+t→
+
+Afbeelding 3
+
+t→
+
+Afbeelding 4
+
+De spanning is in fase met de stroom in
+A. Afbeelding 1
+B. Afbeelding 3
+C. Afbeelding 4
+D. Afbeelding 2
+(F-examen najaar 2006, april 2008, november 2008 (2), mei 2010 (2), november 2011,
+maart 2014, november 2014, november 2015, 7-09-2016, mei 2017 (1), september 2017,
+januari 2020)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-18
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.3 Opgave 5-3
+Indien van een parallelkring de capaciteit 4 maal zo groot wordt, zal de resonantiefrequentie
+A. 4 maal zo hoog worden
+B. 2 maal zo hoog worden
+C. Gereduceerd worden tot een kwart
+D. Gehalveerd worden
+
+(F-examen najaar 2006, september 2009 (2), augustus 2011, maart 2013, 7-09-2016)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-19
+
+VRZA-cursus radiozendamateur
+
+5.4.4
+
+HS5_exa_A_20220417
+
+Opgave 5-4
+
+t
+
+t1
+t2
+t3
+De duur van een periode is
+A.
+B.
+C.
+D.
+
+t1
+t2
+t3
+t3-t1
+
+(F-examen mei 2010 (2), november 2016)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-20
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.5 Opgave 5-5
+Een belasting wordt aangesloten op een sinusvormige wisselspanning. Het verloop van de
+stroom i en de spanning u is in de grafiek aangegeven.
+
+De belasting bestaat uit een
+A. Weerstand
+B. Spoel plus condensator
+C. Condensator plus weerstand
+D. Spoel plus weerstand
+
+(F-examen voorjaar 2005, april 2011, september 2015)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-21
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.6 Opgave 5-6
+Een seriekring met hoge Q gedraagt zich op zijn resonantiefrequentie als een
+A. Hoge weerstand
+B. Kortsluiting
+C. Lage weerstand
+D. Oneindig hoge weerstand
+(F-examen 2-11-2016)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-22
+
+VRZA-cursus radiozendamateur
+
+5.4.7
+
+HS5_exa_A_20220417
+
+Opgave 5-7
+
+De spanning over de spoel is
+A. 200 V
+B. 100 V
+C. 400 V
+D. 300 V
+
+(F-examen voorjaar 2004, februari 2009, april 2009, 11-01-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-23
+
+VRZA-cursus radiozendamateur
+
+5.4.8
+
+HS5_exa_A_20220417
+
+Opgave 5-8
+
+Het door de schakeling opgenomen vermogen is
+A. 2 W
+B. 1,6 W
+C. 2,8 W
+D. 10 W
+
+(F-examen voorjaar 2002, juni 2010, 11-01-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-24
+
+VRZA-cursus radiozendamateur
+
+5.4.9
+
+HS5_exa_A_20220417
+
+Opgave 5-9
+
+De impedantie van de schakeling is
+A. 700 
+B. 500 
+C. 400 
+D. 300 
+(F-examen februari 2009, september 2011 (1), 11-01-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-25
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.10 Opgave 5-10
+Het aanbrengen van een geaarde aluminium bus om een spoel waardoor een HF
+wisselstroom loopt heeft tot gevolg, dat buiten de bus:
+A. Het elektrisch veld wordt verkleind en het magnetisch veld wordt versterkt
+B. Alleen het elektrisch veld wordt versterkt
+C. Zowel het elektrisch als het magnetisch veld wordt verkleind
+D. Alleen het magnetisch veld wordt verkleind
+(F-examen mei 2009 (2), 01-03-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-26
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.11 Opgave 5-11
+Bij een condensator is het faseverschil tussen stroom en spanning
+A. 0º
+B. 90º
+C. 180º
+D. Afhankelijk van de frequentie
+(F-examen najaar 2005, oktober 2009, september 2010 (2), maart 2015, 01-03-2017, mei
+2018 (2), 06-03-2019, mei 2019 (1))
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-27
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.12 Opgave 5-12
+Variabele condensatoren worden gevormd door twee geleiders met daartussen een
+diëlektricum. Ze worden veelal toegepast voor
+A. Het regelen van de diëlektrische constante
+B. Het regelen van de zelfinductie
+C. Het laten naijlen van de stroom op de spanning
+D. Afstemming en afregeling
+(F-examen maart 2009 (1), augustus 2013, november 2014 (2), januari 2015, 1-03-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-28
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.13 Opgave 5-13
+Een spoel met een zelfinductie van 0,25 henry wordt aangesloten op een wisselspanning
+met een frequentie van 400 Hz. De schijnbare weerstand van de spoel is ongeveer
+A. 1600
+B. 100
+C. 31,4
+D. 628
+(F-examen maart 2016, 1-03-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-29
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.14 Opgave 5-14
+Indien van een seriekring de zelfinductie wordt verdubbeld, zal de resonantiefrequentie
+A. Gehalveerd worden
+B. √2 maal zo laag worden
+C. Verdubbeld worden
+D. √2 maal zo hoog worden
+(F-examen juni 2011, augustus 2011, maart 2015, 1-03-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-30
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.15 Opgave 5-15
+De kantelfrequentie van dit filter bedraagt ongeveer:
+A. 160 kHz
+B. 628 kHz
+C. 1 kHz
+D. 100 kHz
+(F-examen mei 2010 (1), september 2010 (1), november 2010 (2), december 2010, mei
+2013, september 2014 (2), 01-03-2017, 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-31
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.16 Opgave 5-16
+De amplitude van een sinusvormige wisselspanning is gedefinieerd als de
+A. Topwaarde
+B. Topwaarde gedeeld door √2
+C. Top-top waarde
+D. Topwaarde vermenigvuldigd met √2
+(F-examen najaar 2001, 17-05-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-32
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.17 Opgave 5-17
+In een ideale condensator, aangesloten op een wisselspanningsbron, is het faseverschil
+tussen stroom en spanning
+A. Afhankelijk van de stroom
+B. Afhankelijk van de frequentie
+C. Afhankelijk van de spanning
+D. Altijd 90º
+(F-examen 17-05-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-33
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.18 Opgave 5-18
+De impedantie Z is:
+
+1:2
+
+A. 100
+B. 50
+C. 400
+D. 800
+
+Z
+
+(F-examen 17-05-2017, januari 2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-34
+
+200
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.19 Opgave 5-19
+De effectieve waarde van een sinusvormige wisselspanning met een maximale waarde van
+10 volt is
+A. 7,07 V
+B. 10 V
+C. 6,67 V
+D. 5 V
+
+(F-examen voorjaar 2006, november 2014 (1), 24-05-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-35
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.20 Opgave 5-20
+Een symmetrisch blokvormig signaal, met een grondfrequentie van 1 kHz, bevat onder
+meer de volgende harmonischen:
+A. 2kHz, 4 kHz en 6 kHz
+B. 3 kHz, 5 kHz en 7 kHz
+C. 2 kHz, 3 kHz en 4 kHz
+D. 3 kHz, 4 kHz en 5 kHz
+
+(F-examen november 2011, november 2014 (1), 24-05-2017, 01-11-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-36
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.21 Opgave 5-21
+
+De impedantie Z is bij resonantie:
+A. 100 
+B. 1100 
+C. Oneindig hoog
+D. 1000 
+(F-examen april 2008, november 2008 (2), februari 2010 (1) , maart 2011 (1), 24-05-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-37
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.22 Opgave 5-22
+Indien van een parallelkring de capaciteit wordt gehalveerd, zal de resonantiefrequentie
+A. √2 maal zo laag worden
+B. 2 maal zo hoog worden
+C. Gehalveerd worden
+D. √2 maal zo hoog worden
+
+(F-examen mei 2015 (2), 24-05-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-38
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.23 Opgave 5-23
+De spanning loopt 90° in fase achter op de stroom in:
+
+A. Afbeelding 2
+B. Afbeelding 4
+C. Afbeelding 1
+D. Afbeelding 3
+(F-examen najaar 2006, april 2008, november 2008 (2), mei 2010 (2), november 2011,
+maart 2014, november 2014, november 2015, 7-09-2016, mei 2017 (1), 06-09-2017, januari
+2020)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-39
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.24 Opgave 5-24
+
+In de kring wordt de waarde van R gehalveerd. De bandbreedte wordt hierdoor:
+A. 4x zo groot
+B. 2x zo klein
+C. Niet gewijzigd
+D. 2x zo groot
+(F-examen december 2008, oktober 2009, april 2011, 06-09-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-40
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.25 Opgave 5-25
+
+I
+60 V
+
+R
+
+C
+
+I = 12,5 mA
+R = 6 k
+
+De stroom door de condensator is
+A. 10 mA
+B. 12,5 mA
+C. 7,5 mA
+D. 2,5 mA
+(F-examen juni 2009, mei 2010 (2), november 2010 (1), maart 2012, november 2014 (2),
+01-11-2017, 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-41
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.26 Opgave 5-26
+Een spoel heeft een gelijkstroomweerstand van 24 . Bij een bepaalde frequentie is de
+reactantie 32 . De impedantie is dan:
+A. 24 
+B. 32 
+C. 40 
+D. 56 
+(F-examen najaar 2002, januari 2010, januari 2013, november 2015, 01-11-2017, 05-092018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-42
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.27 Opgave 5-27
+De spanning over de weerstand is
+
+R=300 
+
+U=350 V
+
+XL=400 
+A. 280 V
+B. 150 V
+C. 200 V
+D. 210 V
+(F-examen september 2009 (2), oktober 2009, 01-11-2017)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-43
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.28 Opgave 5-28
+De effectieve waarde van de spanning is
+ongeveer
+A. 0 V
+B. 81 V
+C. 163 V
+D. 128 V
+
+(F-examen januari 2015, 10-01-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-44
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.29 Opgave 5-29
+Het opgenomen vermogen is
+A. 10 W
+B. 1,6 W
+C. 2,8 W
+D. 2 W
+
+(F-examen februari 2010, mei 2016 (2), januari
+2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-45
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.30 Opgave 5-30
+De gemiddelde waarde van de stroom
+over het tijdsinterval 0 tot t1 seconde is
+A. 1/ A
+B. 0 A
+C.  A
+D. 2/ A
+
+(F-examen najaar 2005, september 2010 (2), januari en februari 2011, september 2013 (2),
+07-03-2018, 16-05-2018, september 2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-46
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.31 Opgave 5-31
+De stroom door de spoel is ongeveer
+A. 6 mA
+B. 2,4 A
+C. 60 A
+D. 0,24 mA
+
+(F-examen maart 2009 (1), augustus 2009, mei 2011 (2), mei 2012 (1), maart 2016, 07-032018, 07-11-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-47
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.32 Opgave 5-32
+Een sinusvormige wisselspanning heeft een effectieve waarde van 100 volt. De momentele
+waarden van deze wisselspanning liggen tussen:
+A. -70,7 V en +70,7 V
+B. -141,4 V en +141,4 V
+C. 0 V en +1,414 V
+D. -100 V en +100 V
+(F-examen najaar 2002, mei 2008 (1), november 2008 (2), 16-05-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-48
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.33 Opgave 5-33
+Door een ideale spoel loopt een sinusvormige stroom. De spanning over de spoel is:
+A. In tegenfase met de stroom
+B. 90º naijlend op de stroom
+C. 90º voorijlend op de stroom
+D. In fase met de stroom
+(F-examen juli 2010, juni 2011, augustus 2011, september 2011 (2), mei 2012 (2),
+november 2012, 16-05-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-49
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.34 Opgave 5-34
+Aan een milli-ampèremeter met een eigen weerstand van 50 ohm en een meetbereik van
+0,5 mA wordt een weerstand van 5 ohm parallel geschakeld.
+Bij volle uitslag is het bereik van de meter is de totale stroom door deze meetschakeling
+A. 0,55 mA
+B. 5,5 mA
+C. 5 mA
+D. 4,5 mA
+(F-examen voorjaar 2006, augustus 2013, 03-09-2014, november 2015, 7-03-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-50
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.35 Opgave 5-35
+
+De kring is in resonantie. Na het sluiten van de schakelaar wordt
+A. De spanning U2 groter en de bandbreedte van de kring groter
+B. De spanning U2 kleiner en de bandbreedte van de kring groter
+C. De spanning U2 kleiner en de bandbreedte van de kring kleiner
+D. De spanning U2 groter en de bandbreedte van de kring kleiner
+(F-examen voorjaar 2004, november 2009 (1), september 2013 (1), november 2014 (2), 1605-2018, september 2019, januari 2020)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-51
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.36 Opgave 5-36
+Een verliesvrije condensator is aangesloten op een sinusvormige spanning. Welke
+bewering is juist?
+A. De condensator neemt het dubbele vermogen op bij verdubbeling van de capaciteit
+B. De condensator neemt het dubbele vermogen op bij verdubbeling van de spanning
+C. De condensator neemt geen vermogen op
+D. De condensator neemt bij een bepaalde frequentie maximaal vermogen op
+(F-examen juni 2009, juni 2010, november 2015, maart 2016, 29-05-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-52
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.37 Opgave 5-37
+Bij een condensator is het faseverschil tussen stroom en spanning
+A. 180º
+B. 0º
+C. Afhankelijk van de frequentie
+D. 90º
+(F-examen najaar 2005, oktober 2009, september 2010 (2), maart 2015, maart 2017, 29-052018, maart 2019, mei 2019 (1))
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-53
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.38 Opgave 5-38
+Als de frequentie wordt verdubbeld, dan wordt de ingangsimpedantie
+
+A. 2200 
+B. 1708 
+C. 1000 
+D. 1100 
+(F-examen voorjaar 2000, augustus 2010, februari 2011, maart 2011, augustus 2013,
+september 2005, 29-05-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-54
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.39 Opgave 5-39
+Een sinusvormig signaal is opgeteld bij een gelijkspanning.
+
+De gelijkspanning bedraagt:
+A. 10 V
+B. 6,37 V
+C. 7,07 V
+D. 5 V
+(F-examen najaar 2004, 07-11-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-55
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.40 Opgave 5-40
+Dit is het schema van een:
+
+A. Bandfilter
+B. Hoogdoorlaatfilter
+C. Laagdoorlaatfilter
+D. Frequentie-afhankelijke verzwakker
+(F-examen maart 2011 (1), 07-11-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-56
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.41 Opgave 5-41
+Door een spoel met een zelfinductie van 0,2 henry loopt een sinusvormige wisselstroom
+van 2 ampère. De frequentie van de wisselstroom is 70/(2) Hz. De spanning over de spoel
+is
+A. 20 V
+B. 28 V
+C. 56 V
+D. 40 V
+(F-examen van voorjaar 2007, november 2009, november 2015, 07-11-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-57
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.42 Opgave 5-42
+De kantelfrequentie van dit filter bedraagt ongeveer
+
+A. 200 Hz
+B. 50 Hz
+C. 2000 Hz
+D. 500 Hz
+(F-examenjuli 2009, 07-11-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-58
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.43 Opgave 5-43
+De gelijkspanningscomponent van dit signaal is
+
+A. 2 V
+B. 4 V
+C. 3 V
+D. 6 V
+(F-examen maart 2013, 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-59
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.44 Opgave 5-44
+De spanning U heeft een frequentie van 1 MHz
+Om spoel Y af te schermen van het magnetisch veld van spoel X, dient men:
+
+A. een ijzerkern aan te brengen in spoel X
+B. een ijzerkern aan te brengen in beide spoelen
+C. spoel X in een koperen bus te plaatsen
+D. een koperkern aan te brengen in spoel Y
+(F-examen voorjaar 2002, juni 2013, 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-60
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.45 Opgave 5-45
+Het in de schakeling gedissipeerde vermogen is:
+
+A. 2,5 W
+B. 1,6 W
+C. 1,2 W
+D. 1,4 W
+(F-examen februari 2010 (1), mei 2016 (2), 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-61
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.46 Opgave 5-46
+Deze wisselspanning wordt aangesloten op een weerstand van 10 ohm.
+Het opgenomen vermogen is:
+
+A. 10 W
+B. 5 W
+C. 7,07 W
+D. 100 W
+
+(F-examen najaar 2002, juni 2013, 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-62
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.47 Opgave 5-47
+Een sinusvormige spanning van 100 Veff heeft op t=0 een nuldoorgang van negatief naar
+positief. Een halve periode later is de momentele waarde:
+A. 0 V
+B. +50 V
+C. -141,4 V
+D. +141,4 V
+
+(F-examen voorjaar 2007, 09-01-2019).
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-63
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.48 Opgave 5-48
+De impedantie tussen de aansluitpunten van de schakeling is:
+
+A. 5 k
+B. 1,71 k
+C. 1 k
+D. 7 k
+(F-examen voorjaar 2007, 09-01-2019)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-64
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.49 Opgave 5-49
+Door een lange spoel loopt een HF-wisselstroom. Een aluminium huls is in de
+lengterichting van een smalle luchtspleet voorzien en om de spoel geschoven en geaard.
+Dit wordt gedaan om:
+A. Het elektrisch en magnetisch veld af te schermen
+B. De magnetische veldlijnen te concentreren bij de luchtspleet
+C. Alleen het elektrisch veld af te schermen
+D. De zelfinductie te vergroten
+(F-examen juni 2009, september 2010 (1), maart 2014, 05-09-2018, januari 2020)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-65
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.4.50 Opgave 5-50
+De amplitude van de wisselspanning is
+
+U1
+U2
+
+T
+A. U1
+B. U2
+C. T
+D. T/ 2
+(F-examen voorjaar 2005, maart 2009 (2), september 2010 (1), 05-09-2018)
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-66
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5 Uitwerkingen
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-67
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.1 Uitwerking van Opgave 5-1
+De gemiddelde waarde van de stroom over het tijdsinterval van 0 tot /2 seconde is
+
+A. 0 A
+B. 2/ A
+C.  A
+D. 1/ A
+Het gaat om de kwart periode van t = 0 tot t = /2 s. De oppervlakte van een halve
+sinusgolf met een duur van  radialen en een maximale waarde van 1 A is 2As
+(ampère.seconde). Voor de gemiddelde waarde moet die worden gedeeld door de duur van
+ s. Daar komt 2/ A uit. De halve periode kun je opdelen in twee gelijke kwart
+perioden, gescheiden door de verticale stippellijn bij t = /2. De helften zijn elkaars
+spiegelbeeld, maar zijn exact even groot. De gemiddelde waarde van elke helft moet
+daarom ook 2/ A zijn. Antwoord B dus.
+Een andere redenering met dezelfde uitkomst: de oppervlakte van een kwart sinusgolf
+tussen t = 0 s en t = /2 s is 1 As. Dat gedeeld door /2 s is 2/ A.
+Opmerkingen
+Antwoord A zou goed zijn als het over de hele periode, dus van 0 tot 2 zou gaan
+Antwoord C is gewoon fout
+Antwoord D is de valkuil als je over het hoofd ziet dat de gemiddelde waarde van één
+helft van een halve sinusperiode (een kwart dus) gelijk is aan die van twee helften aan
+dezelfde kant van de nullijn.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-68
+
+VRZA-cursus radiozendamateur
+
+5.5.2
+
+HS5_exa_A_20220417
+
+Uitwerking van Opgave 5-2
+U
+
+U
+I
+
+I
+
+t→
+
+t→
+Afbeelding 1
+
+Afbeelding 2
+U
+
+U
+I
+
+I
+t→
+
+Afbeelding 3
+
+t→
+
+Afbeelding 4
+
+De spanning is in fase met de stroom in
+A. Afbeelding 1
+B. Afbeelding 3
+C. Afbeelding 4
+D. Afbeelding 2
+Uitwerking
+Als spanning en stroom in fase zijn, lopen ze gelijk op, dat wil zeggen dat stroom stijgt als
+spanning stijgt en stroom daalt als spanning daalt. De maxima vallen tegelijk, de minima
+ook. De enige grafiek die daaraan voldoet, is Afbeelding 4. Antwoord C dus
+Alternatieve redenering
+Je kunt ook zoeken naar afbeeldingen met grafieken die op hetzelfde punt de nullijn
+kruisen. Daarmee vallen nummer 2 en 3 af. Dan resteren nummer 1 en 4. Bij de één zijn
+stroom en spanning in tegenfase, bij de ander in fase. Als ze in tegenfase zijn, gaat op elk
+snijpunt met de nullijn de ene grafiek omhoog en de ander omlaag. Zijn ze in fase, dan
+gaan beide grafieken op een snijpunt met de nullijn tegelijk omhoog of omlaag. Aan dit
+laatste voldoet alleen Afbeelding 4. Ook dit leidt tot antwoord C.
+Opmerkingen
+In afbeelding 1 zijn spanning en stroom in tegenfase. In afbeelding 2 loopt de stroom 90º
+achter op de spanning. In afbeelding 3 loopt de spanning 90º achter op de stroom
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-69
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.3 Uitwerking van Opgave 5-3
+Indien van een parallelkring de capaciteit 4x zo groot wordt, zal de resonantiefrequentie
+A. 4 maal zo hoog worden
+B. 2 maal zo hoog worden
+C. Gereduceerd worden tot een kwart
+D. Gehalveerd worden
+Antwoord:
+Voor het verband tussen L, C en resonantiefrequentie f hebben we de vergelijking
+𝑓=
+
+1
+2𝜋√𝐿𝐶
+
+Als C 4 keer zo groot wordt, wordt de noemer in de breuk √4 is 2 keer zo groot, omdat C
+onder het wortelteken staat. Noemer 2 keer zo groot betekent uitkomst 2x zo klein, ofwel
+een halvering. Uitkomst D is dus goed.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-70
+
+VRZA-cursus radiozendamateur
+
+5.5.4
+
+HS5_exa_A_20220417
+
+Uitwerking van Opgave 5-4
+
+t
+
+t1
+t2
+t3
+De duur van een periode is
+A.
+B.
+C.
+D.
+
+t1
+t2
+t3
+t3-t1
+
+Uitwerking
+De periodeduur van een wisselspanning of -stroom is de tijdsduur tussen twee
+overeenkomstige punten op de grafiek, ofwel 360º of ½. In dit geval is dat t3. Die loopt
+van een top naar de eerstvolgende top op de curve. Antwoord C dus.
+Opmerking. Antwoord A is een halve periode, antwoord B driekwart periode en D weer
+een halve periode (een hele periode min een halve).
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-71
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.5 Uitwerking van Opgave 5-5
+Een belasting wordt aangesloten op een sinusvormige wisselspanning. Het verloop van de
+stroom i en de spanning u is in de grafiek aangegeven.
+
+De belasting bestaat uit een
+A. Weerstand
+B. Spoel plus condensator
+C. Condensator plus weerstand
+D. Spoel plus weerstand
+Uitwerking
+Stroom en spanning zijn niet in fase. De belasting bevat dus een reactantie. Met die
+vaststelling kunnen we antwoord A meteen afschrijven.
+Met alleen reactanties zonder weerstand zou het faseverschil van i en u precies 90º
+moeten zijn (welke van de twee voorloopt, ligt aan het verschil tussen de reactanties en of
+het om een serie- dan wel parallelschakeling gaat). De ene curve moet dan zijn top
+bereiken als de andere de nullijn snijdt. Dat is niet zo. De top van u komt duidelijk eerder
+dan het punt waarop i door de nullijn gaat. Dan moeten er een weerstand en een
+reactantie in het spel zijn. Antwoord B mag dus samen met antwoord A de prullenbak in.
+Zo houden we C en D over. Zit er nu met de weerstand een spoel of een condensator in de
+belasting? Bij een spoel loopt de stroom achter op de spanning, bij een condensator loopt
+de stroom juist vóór. In het plaatje zien we dat i voorloopt op u. Dan wordt het de
+condensator. Antwoord C.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-72
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.6 Uitwerking van Opgave 5-6
+Een seriekring met hoge Q gedraagt zich op zijn resonantiefrequentie als een
+A. Hoge weerstand
+B. Kortsluiting
+C. Lage weerstand
+D. Oneindig hoge weerstand
+Uitwerking
+In een ideale seriekring (tekening hieronder) is bij resonantie de reactantie 0 omdat de
+reactanties spoel en condensator elkaar opheffen.
+Dat komt doordat
+• De stroom door spoel en condensator dezelfde is
+• De reactanties van spoel en condensator even groot zijn
+• Daardoor de wisselspanningen over spoel en condensator ook even groot zijn
+• Bij de spoel de spanning 90º voorloopt op de stroom en bij de condensator de
+spanning er 90º op achterloopt. Het verschil is 180º, beide spanningen zijn in
+tegenfase en heffen elkaar precies op.
+De reactantie van de kring is dan 0. In de praktijk zit er altijd wel ergens een
+weerstand(je) in, want zelfs de weerstand van een stuk koper- of zilverdraad is groter dan
+0. De kring gedraagt zich dan dus als een heel kleine weerstand.
+Bij een seriekring is Q = XL/R, dus voor R = 0 is Q =  (oneindig). Maar als de weerstand
+niet 0 kan zijn, bestaat een oneindige Q ook niet. Wel is Q hoog als R klein is ten opzichte
+van de reactanties. Je zou zeggen dat dan antwoord C goed is.
+Maar……
+Wat is in de praktijk het verschil tussen een “lage weerstand” en een kortsluiting als
+weerstanden van 0  niet bestaan? Hoe laag is “laag”? Antwoord B is dan ook goed en is
+het “officiële” goede antwoord naar de mening van AT, de instantie die
+eindverantwoordelijk is voor de examens. Het is maar dat je het weet, want deze of een
+vergelijkbare vraag kun je op een examen tegenkomen. Eigenlijk zou een vraag als deze
+met dit setje antwoorden op een examen niet mogen worden gesteld, vindt uw schrijver.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-73
+
+VRZA-cursus radiozendamateur
+
+5.5.7
+
+HS5_exa_A_20220417
+
+Uitwerking van Opgave 5-7
+
+De spanning over de spoel is
+A. 200 V
+B. 100 V
+C. 400 V
+D. 300 V
+
+Uitwerking
+We hebben hier te maken met een serieschakeling van een spoel en een condensator.
+Omdat er verder niets bij staat, mogen we beide ideaal veronderstellen.
+Omdat het een serieschakeling is, is de wisselstroom door condensator en spoel dezelfde:
+even groot, zelfde fase. Dat geldt niet voor de spanningen.
+UL
+De wisselspanning over een condensator loopt 90º achter op de
+stroom, de wisselspanning over een spoel doet het omgekeerde: 90º
+voor op de stroom (denk aan het ezelsbruggetje LUI). We zien het
+weergegeven in het vectordiagram hiernaast. De spanningen over
+spoel en condensator zijn in tegenfase. Dat is meteen het addertje
+onder het gras van deze opgave.
+I
+Zou het om weerstanden gaan, dan is de gevraagde spanning 200 V,
+gewoon de tweede wet van Kirchhoff. Dan zou antwoord A goed
+UC
+zijn. Maar omdat UC en UL in tegenfase zijn, moet, om aan het eind
+300 V over te houden, UL 400 V zijn, want die 100 V over de condensator gaat daarvan af.
+Het wordt dus antwoord C.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-74
+
+VRZA-cursus radiozendamateur
+
+5.5.8
+
+HS5_exa_A_20220417
+
+Uitwerking van Opgave 5-8
+
+Het door de schakeling opgenomen vermogen is
+A. 2 W
+B. 1,6 W
+C. 2,8 W
+D. 10 W
+
+Uitwerking
+Als gevolg van een niet nader omschreven oorzaak loopt door weerstand en condensator
+een stroom van 0,2 A effectief. Ze staan in serie, dus de stroom is voor alle twee gelijk in
+sterkte en in fase. Condensatoren nemen geen vermogen op (= dissiperen geen vermogen),
+weerstanden wel. De reactantie XC is dan ook een overbodig gegeven.
+Voor vermogen P in een weerstand geldt:
+𝑃 = 𝐼2𝑅
+
+P is dan gelijk aan 0,2 ∗ 0,2 ∗ 40 W = 1,6 W. Antwoord B is goed.
+
+Opmerking
+Ook hier zijn niet alle gegevens nodig. Het toepassen en van bruikbare gegevens en het
+links laten liggen van onbruikbare gegevens is even goed een test op begrip als iets
+kunnen uitrekenen.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-75
+
+VRZA-cursus radiozendamateur
+
+5.5.9
+
+HS5_exa_A_20220417
+
+Uitwerking van Opgave 5-9
+
+De impedantie van de schakeling is
+A. 700 
+B. 500 
+C. 400 
+D. 300 
+Uitwerking
+De impedantie van een in serie geschakelde weerstand R en reactantie X wordt berekend
+volgens
+𝑍 = √𝑅 2 + 𝑋 2
+De waarde van R is gegeven; X moeten we uitrekenen op basis van frequentie f en
+capaciteit C. Voor de reactantie XC van een condensator geldt
+𝑋𝐶 =
+
+1
+1
+=
+𝜔𝐶 2𝜋𝑓𝐶
+
+Nu is het een kwestie van invullen:
+𝑋𝐶 =
+
+1
+106
+=
+ = 400
+500
+2500
+2𝜋.
+. 5. 10−6
+2𝜋
+
+De weerstand R is 300. Voor de impedantie Z kunnen we nu de eerste vergelijking op
+deze bladzijde toepassen: Z = 500 en antwoord B is het juiste.
+Opmerking
+De combinatie 3, 4, 5 is een in examens vaak voorkomende combinatie als de stelling van
+Pythagoras moet worden toegepast, zoals hier. 32 + 42 = 52, want 9 + 16 = 25. De getallen 3,
+4 en 5 zijn de enige drie opeenvolgende gehele getallen, waarbij het kwadraat van het
+grootste getal gelijk is aan de som van de kwadraten van de twee kleinere. Het is daarom
+de moeite waard, het getallensetje 3, 4, 5 te onthouden. We zullen het verderop vaak het
+“rijtje van Pythagoras” noemen, hoewel dat geen officiële benaming is.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-76
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.10 Uitwerking van Opgave 5-10
+Het aanbrengen van een geaarde aluminium bus om een spoel waardoor een HF
+wisselstroom loopt heeft tot gevolg, dat buiten de bus:
+A. Het elektrisch veld wordt verkleind en het magnetisch veld wordt versterkt
+B. Alleen het elektrisch veld wordt versterkt
+C. Zowel het elektrisch als het magnetisch veld wordt verkleind
+D. Alleen het magnetisch veld wordt verkleind
+Uitwerking
+Een spoel waardoorheen een wisselstroom loopt, maakt zowel een magnetisch als een
+elektrisch veld. Het magnetische veld wordt veroorzaakt door de stroom, het elektrische
+veld door de spanning tussen de uiteinden van de spoel. Samen zijn die twee een
+elektromagnetisch veld.
+Dit veld veroorzaakt een HF-spanning en -stroom in de bus die tegengesteld zijn aan die
+in de spoel. Het gevolg is dat zowel het elektrische als het magnetische veld van de spoel
+worden verkleind.
+Opmerkingen
+Dit soort constructies dient om de spoel elektromagnetisch af te schermen van zijn
+omgeving. De bus heet daarom niet voor niets afschermbus.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-77
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.11 Uitwerking van Opgave 5-11
+Bij een condensator is het faseverschil tussen stroom en spanning
+A. 0º
+B. 90º
+C. 180º
+D. Afhankelijk van de frequentie
+Uitwerking
+Bij een ideale condensator loopt de stroom 90ºvoor op de spanning en de spanning dus 90º
+achter op de stroom. In deze opgave wordt niet meer gevraagd dan het faseverschil. Bij
+zowel spoel als condensator is dat 90º. Antwoord B is dan ook goed, maar zie Opmerking
+2.
+Opmerking 1
+Het antwoord verandert niet als we in de vraag het woord “condensator” vervangen door
+“spoel”. Maar er is wel een verschil. Dat staat in hoofdstuk 5, samen met enkele
+ezelsbruggetjes en in het kort in het formularium, 5.3.3 en 5.3.4.
+Opmerking 2
+In de vraagstelling wordt niet gesproken over een ideale condensator. Is de condensator
+niet ideaal, dan zit er wat weerstand in (en wat zelfinductie). Dan is die 90º strikt
+genomen niet meer aan de orde. Hoe hoger de frequentie, des te belangrijker wordt die
+weerstand. Dan zou antwoord D aan de orde moeten zijn, maar het “officiële” antwoord is
+desondanks B. Tegenwoordig is er ook een versie van deze vraag met een “ideale”
+condensator. Die vinden we in Opgave 5-17.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-78
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.12 Uitwerking van Opgave 5-12
+Variabele condensatoren worden gevormd door twee geleiders met daartussen een
+diëlektricum. Ze worden veelal toegepast voor
+A. Het regelen van de diëlektrische constante
+B. Het regelen van de zelfinductie
+C. Het laten naijlen van de stroom op de spanning
+D. Afstemming en afregeling
+
+Uitwerking
+Variabele condensatoren zijn niet voor niets variabel. Ze worden meest in LC-kringen
+toegepast om de resonantiefrequentie te kunnen instellen. Als dat instellen éénmalig is,
+heet het afregeling; als het veelvuldig moet gebeuren heet het afstemming. Antwoord D is
+dan ook het juiste.
+Opmerkingen
+De diëlektrische constante is een materiaaleigenschap en daaraan valt niets te regelen.
+Daarmee valt antwoord A af.
+Een ideale condensator heeft geen zelfinductie en een echte vrijwel niet. Ze hebben soms
+wel een variabele capaciteit, meestal iets tussen een paar pF en ongeveer 800 pF.
+Antwoord B kunnen we dus ook doorstrepen.
+Het laten naijlen van de stroom op de spanning moet je aan zelfinducties (spoelen)
+overlaten. Bij een condensator ijlt de stroom vóór op de spanning. Antwoord C deugt
+daarom net zo min als A en B..
+Ook door foute antwoorden weg te strepen is de opgave op te lossen, ook al is dat zelden
+onze aanbevolen werkwijze.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-79
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.13 Uitwerking van Opgave 5-13
+Een spoel met een zelfinductie van 0,25 Henry wordt aangesloten op een wisselspanning
+met een frequentie van 400 Hz. De schijnbare weerstand van de spoel is ongeveer
+A. 1600
+B. 100
+C. 31,4
+D. 628
+Uitwerking
+“Schijnbare weerstand” is hier hetzelfde als “reactantie”, geschreven als XL. Die is bij een
+spoel gelijk aan 2fL. Dan is het verder een kwestie van invullen: 2 ∗ 3,14 ∗ 400 ∗ 0,25 =
+628, dus dat wordt 628 . Antwoord D dus. Rechttoe-rechtaan deze keer.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-80
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.14 Uitwerking van Opgave 5-14
+Indien van een seriekring de zelfinductie wordt verdubbeld, zal de resonantiefrequentie
+A. Gehalveerd worden
+B. √2 maal zo laag worden
+C. Verdubbeld worden
+D. √2 maal zo hoog worden
+
+Uitwerking
+We hebben bij afgestemde kringen te maken met de vergelijking van Thomson:
+𝑓=
+
+1
+2𝜋√𝐿𝐶
+
+Die geldt voor zowel parallel- als seriekringen, dus de term “LC-kring” zou hier voldoende
+zijn geweest.
+Zowel L als C staan broederlijk (zusterlijk) naast elkaar onder het wortelteken in de
+noemer. Als één van de twee wordt verdubbeld, wordt de noemer √2 maal zo groot. De
+uitkomst f wordt daardoor √2 maal zo klein. Dat zegt antwoord B ook, dus dat is het juiste
+antwoord.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-81
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.15 Uitwerking van Opgave 5-15
+De kantelfrequentie van dit filter bedraagt ongeveer:
+A. 160 kHz
+B. 628 kHz
+C. 1 kHz
+D. 100 kHz
+
+Uitwerking
+Bij een kantelfrequentie geldt dat weerstand en reactantie gelijk zijn
+Daaruit volgt
+𝑅=
+
+1
+2𝜋𝑓𝐶
+
+Frequentie en weerstand mogen van plek wisselen (aan weerskanten van het = teken
+delen door R en vermenigvuldigen met f). Dan krijgen we
+𝑓=
+
+1
+2𝜋𝑅𝐶
+
+En dan is het een kwestie van invullen:
+1
+106
+𝑓=
+Hz =
+Hz ≈ 160 kHz
+2𝜋103 10−9
+6,28
+Het wordt dus antwoord A.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-82
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.16 Uitwerking van Opgave 5-16
+De amplitude van een sinusvormige wisselspanning is gedefinieerd als de
+A. Topwaarde
+B. Topwaarde gedeeld door √2
+C. Top-top waarde
+D. Topwaarde vermenigvuldigd met √2
+Uitwerking
+De amplitude is gedefinieerd als de topwaarde.: een verplicht weetje. Antwoord A. Zie de
+figuur hieronder.
+
+Spanning (eenheid = topwaarde)
+
+top-top waarde
+
+amplitude = topwaarde
+
+1.0
+
+0.0
+0
+
+Tijd
+
+-1.0
+
+Opmerking
+Antwoord B is de effectieve waarde. Antwoord C, de top-top waarde is 2x de amplitude
+(zie figuur). Antwoord D is voor degenen die wel eens van die √2 hebben gehoord, maar
+niet precies (meer) weten hoe het zit.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-83
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.17 Uitwerking van Opgave 5-17
+In een ideale condensator, aangesloten op een wisselspanningsbron, is het faseverschil
+tussen stroom en spanning
+A. Afhankelijk van de stroom
+B. Afhankelijk van de frequentie
+C. Afhankelijk van de spanning
+D. Altijd 90º
+
+Uitwerking
+Bij een ideale condensator loopt de stroom 90ºvoor op de spanning en de spanning dus 90º
+achter op de stroom. Hier wordt alleen het verschil gevraagd Met stroom, frequentie of
+spanning heeft die 90º niets te maken. Antwoord D is dan ook goed.
+Opmerking
+Deze vraag is sterk verwant aan Opgave 5-11.
+Het antwoord verandert niet als we in de vraag het woord “condensator” vervangen door
+“spoel”. Maar er is wel een verschil tussen beide. Dat staat in hoofdstuk 5, samen met
+enkele ezelsbruggetjes. Het staat ook kort in het formularium en wel in 5.3.3 en 5.3.4
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-84
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.18 Uitwerking van Opgave 5-18
+De impedantie Z is:
+
+1:2
+
+A. 100
+B. 50
+C. 400
+D. 800
+
+Z
+
+200
+
+Uitwerking
+Let op dat bij transformatie van impedanties de onbekende impedantie gelijk is aan de
+bekende, vermenigvuldigd met het kwadraat van de wikkelverhouding. Het aantal
+windingen aan de kant van de 200 is het dubbele van het aantal aan de kant van Z. Z is
+dan niet de helft (½) , maar een kwart (¼) van 200 , is 50 . Antwoord B is dus goed
+Opmerkingen
+Als je de transformatieverhouding van spanningen in plaats van impedanties neemt, kom
+je op het foute antwoord A. Als je de wikkelverhouding verkeerd om neemt, krijg je het
+eveneens foute antwoord D. Als je beide fouten combineert, kom je op het dubbel foute
+antwoord C.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-85
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.19 Uitwerking van Opgave 5-19
+De effectieve waarde van een sinusvormige wisselspanning met een maximale waarde van
+10 volt is
+A. 7,07 V
+B. 10 V
+C. 6,67 V
+D. 5 V
+
+Uitwerking
+Dit is een belangrijk weetje. De effectieve waarde van een sinusvormige wisselspanning is
+de maximale waarde gedeeld door √2. √2 = 1,4142 met nog een oneindige reeks decimalen
+erachter. Delen door √2 is hetzelfde als vermenigvuldigen met 0,707 met nog een rij
+decimalen erachter. 0,707*10 = 7,07. Antwoord A is dus goed.
+Opmerking
+Let op: het moet wel gaan om een sinusvormige wisselspanning. Bij een zuivere blokgolf
+bijvoorbeeld is de effectieve waarde gelijk aan de maximale waarde.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-86
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.20 Uitwerking van Opgave 5-20
+Een symmetrisch blokvormig signaal, met een grondfrequentie van 1 kHz, bevat onder
+meer de volgende harmonischen:
+A. 2kHz, 4 kHz en 6 kHz
+B. 3 kHz, 5 kHz en 7 kHz
+C. 2 kHz, 3 kHz en 4 kHz
+D. 3 kHz, 4 kHz en 5 kHz
+Uitwerking
+Een blokgolf bevat alleen oneven harmonischen. (zie ook het filmpje in hoofdstuk 5 van
+de cursustekst). Het enige antwoord dat alleen oneven harmonischen laat zien, is B. Dat is
+dan ook het goede antwoord.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-87
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.21 Uitwerking van Opgave 5-21
+
+De impedantie Z is bij resonantie:
+A. 100 
+B. 1100 
+C. Oneindig hoog
+D. 1000 
+Uitwerking
+We zien een parallelkring parallel aan een weerstand van 1000  en dit alles in serie met
+een weerstand van 100 . Op de resonantiefrequentie is de reactantie van de parallelkring
+in theorie oneindig hoog, in werkelijkheid is de impedantie zeer hoog. Die zeer hoge
+impedantie staat parallel aan 1000 . In de praktijk zal de vervangende impedantie bijna
+1000  zijn (1000  parallel aan een zeer hoge impedantie). Die bijna 1000  staat in serie
+met een weerstand van 100 , samen bijna 1100, antwoord B.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-88
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.22 Uitwerking van Opgave 5-22
+Indien van een parallelkring de capaciteit wordt gehalveerd, zal de resonantiefrequentie
+A. √2 maal zo laag worden
+B. 2 maal zo hoog worden
+C. Gehalveerd worden
+D. √2 maal zo hoog worden
+
+Uitwerking
+Of het nu om een serie- of een parallelkring gaat, in beide gevallen bereken je de
+resonantiefrequentie fres met de vergelijking van Thomson:
+𝑓res =
+
+1
+2𝜋√𝐿𝐶
+
+Als C wordt gehalveerd, wordt de noemer in de breuk √2 maal zo klein, omdat C onder
+het wortelteken staat. De uitkomst, fres, wordt dan √2 maal zo groot. Dat wordt dus
+antwoord D.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-89
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.23 Uitwerking van Opgave 5-23
+De spanning loopt 90° in fase achter op de stroom in:
+
+A. Afbeelding 2
+B. Afbeelding 4
+C. Afbeelding 1
+D. Afbeelding 3
+Uitwerking
+Let om te beginnen op de tijd. Die loopt van links naar rechts. Wat meer naar rechts zit,
+komt later en loopt daarom achter. 90º is ¼ (een kwart) periode. We moeten dus een
+plaatje vinden waarin de spanning een kwart periode achterloopt op de stroom. De
+spanning is de getrokken sinus, de stroom is de gestippelde. Kortom: vind het plaatje,
+waarin de getrokken lijn ¼ periode achter de gestippelde lijn aanloopt. We lopen ze langs.
+Afbeelding 1. Er zit een halve periode verschil tussen beide sinussen in plaats van een
+kwart, dus daar hoeven we niet verder naar te kijken.
+Afbeelding 2. Die toont wel een kwart periode verschil. Maar…. De spanning bereikt zijn
+maximum op het begin van de grafiek, de stroom een kwart periode later. En zo gaat het
+ook met de punten waarop de grafieken onder de nullijn duiken, enz. De spanning loopt
+dus voor op de stroom, niet achter. Ook deze kan dus worden afgekeurd.
+Afbeelding 3. Hier gaat de stroom aan het begin van de grafiek omhoog van de nullijn en
+de spanning doet dat een kwart periode later. Dat geldt natuurlijk ook voor de punten
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-90
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+waarop stroom en spanning weer onder de nullijn duiken en voor de maxima. Dit zou
+hem moeten zijn. Voor de zekerheid bekijken we toch nog
+Afbeelding 4. Hier lopen stroom en spanning gelijk op, zoals bij een weerstand.
+Faseverschil 0 dus.
+De winnaar is…. afbeelding 3 en dat is antwoord D.
+Opmerking
+We zijn gewend, gebeurtenissen in schrijfrichting, dus van links naar rechts, voor te
+stellen. Als twee wandelaars van links naar rechts achter elkaar aanlopen, komt de rechter
+wandelaar het eerst langs, gevolgd door de linker. De rechter wandelaar loopt dus voorop.
+Bij grafieken zoals in deze opgave is het net andersom. De grafiek lees je ook van links
+naar rechts, maar wat links is, is geweest als rechts nog moet komen. Links komt dus
+eerder dan rechts. Dat is in tegenstelling met de twee wandelaars. Bij grafieken met tijd op
+de horizontale as kan het een gemene valkuil zijn als je twee van die grafieken moet
+vergelijken en aangeven wat in de tijd eerst komt. Opletten dus!
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-91
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.24 Uitwerking van Opgave 5-24
+
+In de kring wordt de waarde van R gehalveerd. De bandbreedte wordt hierdoor:
+A. 4x zo groot
+B. 2x zo klein
+C. Niet gewijzigd
+D. 2x zo groot
+Uitwerking
+Hier moeten we een eindje graven in de theorie.
+De kring in de figuur is een parallelkring, want L en C staan parallel geschakeld, samen
+met de verliesweerstand R. De bandbreedte B is de frequentie-afstand tussen de -3dBpunten. Dat zijn de punten aan weerskanten van de resonantiefrequentie fres, waarbij de
+impedantie van de kring √2 keer zo klein wordt als op het resonantiepunt. Die afstand
+wordt bepaald door de kwaliteitsfactor Q. Q is de verhouding van de reactantie van C of L
+(bij resonantie zijn beide gelijk) en de weerstand R volgens de vergelijking in hoofdstuk 5:
+𝑅verlies 𝑅verlies
+𝑄=
+=
+𝑋Lres
+2𝜋𝑓res 𝐿
+We gaan uit van de reactantie van de spoel. Die van de condensator mag ook, maar die
+rekent wat lastiger. Voor de bandbreedte B kennen we de vergelijking
+𝑓𝑟𝑒𝑠
+𝐵=
+𝑄
+In de eerste vergelijking zien we dat Q evenredig is met R. R 2x zo klein, Q 2x zo klein,
+enz. En uit de tweede vergelijking volgt dat B omgekeerd evenredig is met Q en dus ook
+met R. Conclusie: R 2x zo klein, bandbreedte 2x zo groot, antwoord D. Bij een seriekring
+gaat het andersom: R 2x zo klein, bandbreedte 2x zo klein. Kijk het eventueel nog eens na
+in hoofdstuk 5.
+Opmerking 1 (Opmerking 2 zit voorbij de twee figuren)
+Om te onthouden voor dit soort opgaven
+Parallelkring: parallelweerstand R evenredig met Q, Q omgekeerd evenredig met B.
+Resultaat: R omgekeerd evenredig met B.
+Ezelsbrug: BeROEP, Bandbreedte en R Omgekeerd Evenredig bij Parallelkring.
+Seriekring: serieweerstand omgekeerd evenredig met bandbreedte, Q omgekeerd
+evenredig met B. Resultaat: R evenredig met B.
+Ezelsbrug: BRES, Bandbreedte en R Evenredig bij Seriekring.
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-92
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Om het nog een keer in beeld te brengen, geven we hieronder de bijbehorende figuren uit
+hoofdstuk 5. Eerst de parallelkring, dan de seriekring.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-93
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+Opmerking 2
+Er is een “maar”. Want het officiële antwoord geldt alleen als er links van de
+aansluitpunten van de schakeling iets zit met een oneindig hoge weerstand. Dat zou een
+ideale stroombron kunnen zijn. Nu bestaan die dingen niet in het echt, maar een redelijke
+benadering is wel mogelijk (werken we hier niet uit).
+Dus moet de stroom/spanning op de aansluitpunten uit een bron komen met een
+inwendige weerstand. Die weerstand staat parallel aan R. Als die weerstand samen met R
+ook wordt gehalveerd, klopt het officiële antwoord, maar dat lijkt uw schrijver geen
+oplossing uit de praktijk. Anders wordt de bandbreedte meer dan 1x (= onveranderd) en
+minder dan 2x zo groot, afhankelijk van de verhouding van R en de weerstand buiten de
+aansluitpunten.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-94
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.25 Uitwerking van Opgave 5-25
+De stroom door de condensator is
+
+I
+60 V
+
+R
+
+C
+
+I = 12,5 mA
+R = 6 k
+
+A. 10 mA
+B. 12,5 mA
+C. 7,5 mA
+D. 2,5 mA
+Uitwerking
+Deze schakeling vraagt om een vectoroplossing, omdat de stromen door weerstand en
+condensator onderling niet in fase zijn. We kunnen in elk geval vaststellen dat het om een
+parallelschakeling gaat, zodat over weerstand en condensator dezelfde wisselspanning van
+60 V staat. De stroom door R is natuurlijk in fase met U, de stroom door C loopt 90º voor
+op U.
+De stroom IR door de weerstand is snel uitgerekend: 60 V over 6 k betekent 10 mA. We
+hebben nu I = 12,5 mA en IR = 10 mA. IC loopt 90º voor op IR. Daarmee is IC uit te rekenen
+met de stelling van Pythagoras, maar een vectordiagram verduidelijkt het beeld. Hier
+komt het:
+
+IC=?
+
+I = 12,5 mA
+
+IR = 10 mA
+Nu schiet Pythagoras te hulp:
+𝐼𝐶 = √𝐼 2 − 𝐼𝑅2 = √12,52 − 102 mA = √56,25 mA = 7,5 mA
+Dat komt neer op antwoord C.
+Opmerking
+We zien hier het bekende Pythagoras-rijtje 3, 4, 5 ( 32 + 42 = 52) in vermomming.
+Vermenigvuldig 3, 4 en 5 maar eens met 2,5 en bovenstaand vraagstuk rolt eruit.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-95
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.26 Uitwerking van Opgave 5-26
+Een spoel heeft een gelijkstroomweerstand van 24 . Bij een bepaalde frequentie is de
+reactantie 32 . De impedantie is dan:
+A. 24 
+B. 32 
+C. 40 
+D. 56 
+Uitwerking
+Om te beginnen moet je hier het verschil tussen reactantie en impedantie weten. Verder
+vraagt deze opgave om een vectordiagram. Bij een spoel (zelfinductie) loopt de stroom 90º
+achter op de spanning, oftewel de spanning loopt 90º voor op de stroom.
+Een spoel met een gelijkstroomweerstand is te vervangen door een ideale spoel in serie
+met een eveneens ideale weerstand. Door beide loopt dezelfde stroom. De impedantie is
+de vectorsom van de spanningen over weerstand en condensator, gedeeld door de stroom.
+Om bij deze gegevens de impedantie te berekenen, kun je ook de vectorsom bepalen van
+de weerstand en de reactantie, want de stroom is voor beide componenten dezelfde. Wel
+zo gemakkelijk. Hier komt het plaatje:
+
+XL=32 
+
+I
+
+Z=?
+
+L
+U
+
+R
+
+R=24 
+
+En hier schiet Pythagoras te hulp: 𝑍 = √𝑋𝐿2 + 𝑅2 = √(32)2 + (24)2 = 40.
+Antwoord C.
+Opmerking
+In deze rekensom zit het bijzondere rijtje 3, 4, 5 verstopt. 3*8, 4*8 en 5*8 om precies te
+zijn. 3 en 4 zijn de enige opeenvolgende gehele getallen waarvan de som van hun
+kwadraten het kwadraat van het volgende gehele getal, 5 is. Als je dat kunt onthouden en
+in voorkomende gevallen herkennen, scheelt dat rekenwerk.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-96
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.27 Uitwerking van Opgave 5-27
+De spanning over de weerstand is
+
+R=300 
+
+U=350 V
+
+XL=400 
+A. 280 V
+B. 150 V
+C. 200 V
+D. 210 V
+Uitwerking
+Een schakeling met een weerstand en een spoel vraagt om een vectordiagram. Daarvoor
+moeten we eerst bedenken hoe het precies zit. Het gaat om een serieschakeling, dus met
+dezelfde stroom I door beide componenten, zodat IR = IL. De spanning van 350 V is de
+vectorsom van de spanningen over weerstand en condensator. Dat zien we in het plaatje
+hieronder.
+U= 350 V
+
+UL=I.400 
+R=300 
+
+U=350 V
+UR= I.300 
+
+XL=400 
+
+IR=IL
+
+We zien hier weer een 3 en een 4 opduiken bij een rechthoekig vectordiagram. Misschien
+weer het unieke Pythagoras-rijtje 3, 4, 5 waarvoor geldt 32 + 42 = 52 ? Het vectordiagram
+wijst erop met die 400 en 300 . Die 350 V moet dan stroom I maal impedantie Z|, dus IZ
+zijn. Volgens het Pythagoras-rijtje is Z=500 . Dan is 𝐼𝑍 = 𝐼 ∗ 500  = 350 V, de 350 V
+uit het schema. Daaruit volgt 𝐼 = 350 V/500  = 0,7 A. De spanning over de weerstand is
+dan 0,7A ∗ 300  = 210 V. Antwoord D.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-97
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-98
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.28 Uitwerking van Opgave 5-28
+De effectieve waarde van de spanning is
+ongeveer
+A. 0 V
+B. 81 V
+C. 163 V
+D. 128 V
+Uitwerking
+Let op dat de gegeven spanning niet Umax is, maar Upp. (pp staat voor piek-piek). 𝑈𝑚𝑎𝑥 =
+1
+𝑈
+𝑈 . De effectieve waarde 𝑈𝑒𝑓𝑓 = 𝑚𝑎𝑥⁄ = 0,707𝑈𝑚𝑎𝑥
+2 pp
+√2
+Nu de getallen: 𝑈𝑚𝑎𝑥 = 230 V⁄2 = 115 V. 𝑈𝑒𝑓𝑓 = 0,707 ∗ 115 V ≈ 81 V. Antwoord B.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-99
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.29 Uitwerking van Opgave 5-29
+Het opgenomen vermogen is
+A. 10 W
+B. 1,6 W
+C. 2,8 W
+D. 2 W
+Uitwerking
+Een vectordiagram is hier niet nodig. Een (ideale)
+spoel neemt geen vermogen op (= dissipeert geen vermogen). Deze spoel zaait hoogstens
+verwarring bij de examenkandidaat. Het gaat om de weerstand. Die is 40 . De stroom is
+0,2 A. Het opgenomen vermogen P is dan gelijk aan 𝐼 2 𝑅 = 0,22 ∗ 40 W = 0,04 ∗ 40 W =
+1,6 W. Antwoord B dus.
+Opmerking 1
+Je kunt hier nog meer aan uitrekenen. Bij wijze van oefening doen we dat. De impedantie
+van het geheel is via het Pythagoras-rijtje van 3, 4, 5 (32 + 42 = 52) uit te rekenen: 50 .
+Dan is de spanning op de aansluitingen 0,2 ∗ 50 V = 10 V.
+Opmerking 2
+Deze opgave lijkt sterk op Opgave 5-8, alleen staat daar een condensator in plaats van een
+spoel in het schema.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-100
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.30 Uitwerking van Opgave 5-30
+De gemiddelde waarde van de stroom
+over het tijdsinterval 0 tot t1 seconde is
+A. 1/ A
+B. 0 A
+C.  A
+D. 2/ A
+
+Uitwerking
+Deze opgave lijkt nogal op Opgave 5-1. Het enige verschil is dat nu de gemiddelde waarde
+over de positieve halve periode wordt gevraagd en in Opgave 5-1 over een kwart periode.
+Voor t1 mogen we ook  schrijven, want op dat tijdstip is er een halve periode voorbij en
+een hele periode is 2 radialen. Het gaat dus om de halve periode van t = 0 tot t = . De
+oppervlakte van een halve sinusgolf met een duur van  seconden en een maximale
+waarde van 1 A is 2As (Ampère maal seconde). Voor de gemiddelde waarde moet die
+worden gedeeld door  seconden. Daar komt 2/ A uit. Antwoord D dus.
+Opmerking
+In de grafiek staat niet dat t in seconden is. We zijn er bij de oplossing stilzwijgend wel
+van uitgegaan. Maar als er uren of jaren hadden gestaan, was de uitkomst niet anders
+geweest, omdat je eerst stilzwijgend de gemiddelde waarde met de tijdsduur
+vermenigvuldigt en er vervolgens weer door deelt. Eigenlijk maakt de eenheid dus niets
+uit. Je mag de horizontale aslengte ook in radialen uitdrukken. Dat is wiskundig correcter,
+maar voor ons van weinig belang.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-101
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.31 Uitwerking van Opgave 5-31
+De stroom door de spoel is ongeveer
+A. 6 mA
+B. 2,4 A
+C. 60 A
+D. 0,24 mA
+
+Uitwerking
+We hebben hier te maken met de wet van Ohm, maar dan voor reactanties. Over
+faseverschillen wordt niets gevraagd, dus die blijven buiten beschouwing. Spanning en
+frequentie zijn gegeven. Ook de zelfinductie staat in het schema: 0,2 H.
+Dat wordt dus berekenen van 1) de reactantie XL van de spoel en 2) de stroom door de
+spoel bij de gegeven spanning.
+Eerst de reactantie: 𝑋𝐿 = 𝜔𝐿 = 2𝜋𝑓𝐿 = 2𝜋. 1600 ∗ 0,2 = 2011 ≈ 2000
+Dan de wet van Ohm: 𝐼 = 𝑈⁄𝑋 en dus: 𝐼 = 6V⁄2 k = 6 mA. Ook hier geldt weer:
+𝐿
+
+gebruik k en je krijgt mA van ome Ohm. Het goede antwoord is A.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-102
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.32 Uitwerking van Opgave 5-32
+Een sinusvormige wisselspanning heeft een effectieve waarde van 100 volt. De momentele
+waarde van de wisselspanning ligt tussen:
+A. -70,7 V en +70,7 V
+B. -141,4 V en +141,4 V
+C. 0 V en +1,414 V
+D. -100 V en +100 V
+Uitwerking
+We beginnen met een plaatje.
+
+Ueff
+U
+
+t (s)
+
+Daarin is een sinusvormige spanning getekend met zijn effectieve waarde Ueff (horizontale
+stippellijn). We zien dat de momentele waarden (alle punten op de sinuskromme) zowel
+boven als onder de effectieve waarde liggen. Voor de maximale waarde Umax geldt
+𝑈𝑚𝑎𝑥 = 𝑈𝑒𝑓𝑓 √2 ≈ 1,414𝑈𝑒𝑓𝑓
+De minimale waarde 𝑈𝑚𝑖𝑛 = −𝑈𝑚𝑎𝑥 . Daaruit rolt meteen het goede antwoord en dat is B.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-103
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.33 Uitwerking van Opgave 5-33
+Door een ideale spoel loopt een sinusvormige stroom. De spanning over de spoel is:
+A. In tegenfase met de stroom
+B. 90º naijlend op de stroom
+C. 90º voorijlend op de stroom
+D. In fase met de stroom
+Uitwerking
+Een spoel heeft een schijnbare weerstand die we meestal reactantie noemen. Bij een echte
+weerstand zijn spanning en stroom in fase, bij een spoel niet. Daarmee valt antwoord D af.
+Spanning en stroom zijn bij een enkel reactief element (condensator of spoel) ook niet in
+tegenfase. Daarmee valt antwoord A af. Het is dus B of C.
+Sommigen hebben moeite om te onthouden, hoe het zit met vóór- en naijlen. Ook uw
+schrijver moet meestal even nadenken hoe het ook alweer zit. Het is een kwestie van
+bedenken, wat wat veroorzaakt, want de oorzaak komt eerst en het gevolg daarna.
+Daarom heet het gevolg ook zo. Bij een spoel veroorzaakt een spanning een oplopende
+stroom; bij een condensator veroorzaakt een stroom een oplopende spanning (hoofdstuk
+4). De spanning loopt (of ijlt) bij een spoel daarom vóór op de stroom, of als je wilt: de
+stroom ijlt na op de spanning. Dat wordt dus antwoord C.
+Opmerking
+Wie een luie ezelsbrug wil, wordt op zijn wenken bediend met het woord LUI: bij L komt
+U vóór I.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-104
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.34 Uitwerking van Opgave 5-34
+Aan een milli-ampèremeter met een eigen weerstand van 50 ohm en een meetbereik van
+0,5 mA wordt een weerstand van 5 ohm parallel geschakeld.
+Bij volle uitslag is het bereik van de meter is de totale stroom door deze meetschakeling
+A. 0,55 mA
+B. 5,5 mA
+C. 5 mA
+D. 4,5 mA
+Uitwerking (zie plaatje)
+
+De weerstand van de meter is 50 ohm, die van de parallelweerstand Rp 5 ohm. Dan lopen
+van elke stroom door de hele schakeling 10 delen door Rp en 1 deel door de meter. Als de
+meter 0,5 mA aanwijst, loopt er 0,5 mA door de meter en 10x zoveel, 5 mA dus, door de
+weerstand. Samen is dat voor de hele schakeling 5,5 mA: antwoord B.
+Opmerkingen
+Wie antwoord A heeft, heeft zich waarschijnlijk een factor 10 vergist.
+Wie antwoord C heeft, heeft vermoedelijk alleen de stroom door de parallelweerstand
+meegeteld
+Bij antwoord D is waarschijnlijk de meterstroom afgetrokken van de stroom door de
+weerstand in plaats van erbij opgeteld.
+Het schemasymbool geldt eigenlijk voor een ideale stroommeter zonder inwendige
+weerstand. Gelukkig staat erbij wat hier bedoeld wordt.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-105
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.35 Uitwerking van Opgave 5-35
+
+De kring is in resonantie. Na het sluiten van de schakelaar wordt
+A. De spanning U2 groter en de bandbreedte van de kring groter
+B. De spanning U2 kleiner en de bandbreedte van de kring groter
+C. De spanning U2 kleiner en de bandbreedte van de kring kleiner
+D. De spanning U2 groter en de bandbreedte van de kring kleiner
+Uitwerking
+De kring is een parallelkring. Bij resonantie is de impedantie maximaal, doordat de
+reactanties van spoel en condensator even groot en hun stromen even groot en
+tegengesteld zijn. (Strikt genomen is er dan geen impedantie maar een weerstand, doordat
+de reactanties samen een isolator vormen). In werkelijkheid heeft elke parallelkring wel
+ergens een weerstand die is voor te stellen als parallelweerstand Rp. De kwaliteitsfactor Q
+hangt van Rp af volgens de vergelijking
+𝑄=
+
+𝑅𝑝 𝑅𝑝
+=
+𝑋𝐿 𝑋𝐶
+
+Door de schakelaar te sluiten wordt R als parallelweerstand aan Rp toegevoegd. De
+vervangingsweerstand van beide is de nieuwe Rp. Die is lager dan de oorspronkelijke Rp.
+Zo vermindert Q. De spanning over de kring wordt daardoor lager en de bandbreedte
+groter. Het verband tussen Q, resonantiefrequentie fres en bandbreedte B is
+𝐵=
+
+𝑓𝑟𝑒𝑠
+𝑄
+
+In het schema wordt door het sluiten van de schakelaar dus Q kleiner, U2 kleiner en de
+bandbreedte groter, antwoord B. Twee ezelsbruggetjes voor de bandbreedte vind je bij de
+uitwerking van Opgave 5-24.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-106
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.36 Uitwerking van Opgave 5-36
+Een verliesvrije condensator is aangesloten op een sinusvormige spanning. Welke
+bewering is juist?
+A. De condensator neemt het dubbele vermogen op bij verdubbeling van de capaciteit
+B. De condensator neemt het dubbele vermogen op bij verdubbeling van de spanning
+C. De condensator neemt geen vermogen op
+D. De condensator neemt bij een bepaalde frequentie maximaal vermogen op
+
+Uitwerking
+Doordat bij een condensator spanning en stroom 90º in fase verschillen, neemt een
+condensator geen vermogen op. De energie die in een ideale condensator wordt
+opgeslagen, geeft hij bij wisselspanning of -stroom ook weer af. Antwoord C.
+Opmerking
+Voor een ideale spoel geldt hetzelfde verhaal, alleen wordt de energie opgeslagen in een
+magnetisch in plaats van in een elektrisch veld.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-107
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.37 Uitwerking van Opgave 5-37
+Bij een condensator is het faseverschil tussen stroom en spanning
+A. 180º
+B. 0º
+C. Afhankelijk van de frequentie
+D. 90º
+Uitwerking
+Bij een condensator loopt de spanning 90º achter op de stroom, want de stroom moet de
+lading en dus ook de spanning opbouwen. Oorzaak komt vóór gevolg. Ezelsbrug: bij een
+spoel komt U vóór I (LUI), bij een condensator is het andersom; I vóór U. Al met al:
+antwoord D.
+Opmerking
+Die 90 graden geldt voor een ideale condensator. Voor een echte en dus niet-ideale
+condensator zou eigenlijk antwoord C moeten gelden: afhankelijk van de frequentie. De
+meeste typen condensator hebben echter een redelijk groot frequentiebereik waarover ze
+zich als (vrijwel) ideaal gedragen. Vandaar waarschijnlijk (het officiële) antwoord D.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-108
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.38 Uitwerking van Opgave 5-38
+Als de frequentie wordt verdubbeld, dan wordt de ingangsimpedantie
+
+A. 2200 
+B. 1708 
+C. 1000 
+D. 1100 
+Uitwerking
+De reactantie van de spoel is bij de oorspronkelijke frequentie 300 . Bij verdubbeling van
+de frequentie verdubbelt ook de reactantie, want 𝑋𝐿 = 2𝜋𝑓𝐿. Die wordt daardoor 600 
+in plaats van 300. Met de weerstand gebeurt niets. Die blijft zoals hij is: 800 . De nieuwe
+impedantie Z wordt dan berekend volgens 𝑍 = √𝑅2 + 𝑋𝐿2 = 1000 . Antwoord C dus.
+Gaat dit te snel? Herinner je het Pythagoras-rijtje 3, 4, 5, bijvoorbeeld in de Uitwerking
+van Opgave 5-9.
+32 + 42 = 52 . In 600, 800 zit het ook: 3*200, 4*200 en dus wordt de uitkomst 5*200=1000.
+De moeite waard om te onthouden, vindt althans de schrijver van deze tekst.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-109
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.39 Uitwerking van Opgave 5-39
+Een sinusvormig signaal is opgeteld bij een gelijkspanning.
+
+De gelijkspanning bedraagt:
+A. 10 V
+B. 6,37 V
+C. 7,07 V
+D. 5 V
+Uitwerking
+Bij een zuivere wisselspanning is de gemiddelde waarde over een of meer volledige
+perioden 0. Bij de sinus in de tekening zit de gemiddelde waarde op 5 V. Er moet dus een
+gelijkspanning van 5 V bij zijn opgeteld. Antwoord D dus.
+Opmerking
+Als je ergens leest dat een wisselspanning is gesuperponeerd op een gelijkspanning,
+betekent dat precies hetzelfde als wat hier gebeurt.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-110
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.40 Uitwerking van Opgave 5-40
+Dit is het schema van een:
+
+A. Bandfilter
+B. Hoogdoorlaatfilter
+C. Laagdoorlaatfilter
+D. Frequentie-afhankelijke verzwakker
+
+Uitwerking
+Dit filter bestaat uit twee spanningsdelers achter elkaar, beide met een weerstand en een
+spoel (zelfinductie). In hoofdstuk 5 hebben we gezien dat zulke spanningsdelers een
+hoogdoorlaatfilter zijn. Twee hoogdoorlaatfilters in serie zijn ook een hoogdoorlaatfilter,
+alleen worden de lage frequenties sterker verzwakt dan bij één filter. Hoe zat het met zo’n
+filter ook alweer?
+De weerstanden zijn frequentie-onafhankelijk. De reactanties van de spoelen worden
+kleiner, naarmate de frequentie lager is. Dat betekent een grotere verzwakking bij
+afnemende frequentie en hogere frequenties worden zo beter doorgelaten dan lage.
+Antwoord B is dan ook het juiste.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-111
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.41 Uitwerking van Opgave 5-41
+Door een spoel met een zelfinductie van 0,2 henry loopt een sinusvormige wisselstroom
+van 2 ampère. De frequentie van de wisselstroom is 70/(2) Hz. De spanning over de spoel
+is
+A. 20 V
+B. 28 V
+C. 56 V
+D. 40 V
+Uitwerking
+We beginnen met de reactantie XL van de spoel. Die is gelijk aan 2fL Voor XL geldt dan
+𝑋𝐿 = 2𝜋. 70⁄2𝜋 . 0,2 = 14 .
+De spanning is dan I.XL = 2A.14 = 28 V. Antwoord B.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-112
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.42 Uitwerking van Opgave 5-42
+De kantelfrequentie van dit filter bedraagt ongeveer
+
+A. 200 Hz
+B. 50 Hz
+C. 2000 Hz
+D. 500 Hz
+Uitwerking
+Voor de kantelfrequentie fk van een RC-filter geldt 𝑓𝑘 = 1⁄2𝜋𝑅𝐶 (zie ook de uitwerking
+van Opgave 5-15). Dan is het een kwestie van invullen en uitrekenen:
+1
+1 Hz
+1 Hz
+105 Hz
+𝑓𝑘 =
+=
+=
+=
+≈ 531Hz
+2𝜋𝑅𝐶 2𝜋. 3. 104 . 10−9 6𝜋. 10−5
+6𝜋
+531 Hz is, als we toleranties van onderdelen in aanmerking nemen, ongeveer gelijk aan
+500 Hz. Het wordt dus antwoord D.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-113
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.43 Uitwerking van Opgave 5-43
+De gelijkspanningscomponent van dit signaal is
+
+A. 2 V
+B. 4 V
+C. 3 V
+D. 6 V
+Uitwerking
+Een andere manier om dezelfde vraag te stellen is “Hoeveel volt wijkt dit signaal af van
+een zuivere wisselspanning?” Zoals we weten is de gemiddelde waarde van een zuivere
+wisselspanning over één of meer volle perioden gelijk aan 0. Als we de gemiddelde waarde
+van het signaal in de figuur berekenen, hebben we het verschil te pakken.
+Een volle periode duurt 30 ms. Daarvan is de spanning gedurende 20 ms gelijk aan 6 V en
+gedurende 10 ms gelijk aan 0 V. De vraag is, wat dan de gemiddelde spanning is. Dat is
+20 ∗ 6 V + 10 ∗ 0V 120 V
+=
+=4V
+20 + 10
+30
+Dat is antwoord B.
+Opmerking
+Op het eerste gezicht zullen velen onder ons antwoord C kiezen, omdat deze waarde
+halverwege de maximale en de minimale waarde ligt. Dat is alleen goed bij een
+symmetrische wisselspanning. Daarbij is de ene halve periode het spiegelbeeld van de
+andere. Dat is hier zichtbaar niet het geval.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-114
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-115
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.44 Uitwerking van Opgave 5-44
+De spanning U heeft een frequentie van 1 MHz
+Om spoel Y af te schermen van het magnetisch veld van spoel X, dient men:
+
+A. een ijzerkern aan te brengen in spoel X
+B. een ijzerkern aan te brengen in beide spoelen
+C. spoel X in een koperen bus te plaatsen
+D. een koperkern aan te brengen in spoel Y
+Uitwerking
+Om een hoogfrequent magnetisch veld af te schermen, gebruikt men een afschermbus (let
+op de naam!) van geleidend materiaal als koper of aluminium. Het magnetisch veld
+veroorzaakt daarin wisselstroom die een tegengesteld magnetisch veld vormt en zo het
+oorspronkelijke veld tenietdoet. Daarmee is de onderlinge magnetische koppeling van de
+spoelen ook tenietgedaan. Antwoord C.
+Opmerking
+Bij een onveranderlijk magnetisch veld werkt dit middel niet (dan moet je mu-metaal
+gebruiken), maar zolang de spoelen ten opzichte van elkaar stilstaan, is er geen onderlinge
+beïnvloeding.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-116
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.45 Uitwerking van Opgave 5-45
+Het in de schakeling gedissipeerde vermogen is:
+
+A. 2,5 W
+B. 1,6 W
+C. 1,2 W
+D. 1,4 W
+Uitwerking
+Dit is een serieschakeling van een spoel en een weerstand. Een ideale spoel dissipeert
+niets, een echte meestal een verwaarloosbaar klein beetje. Van dit laatste gaan we uit, bij
+gebrek aan meer informatie. De weerstand daarentegen dissipeert wel degelijk energie. De
+vraag komt dus neer op het vinden van de dissipatie door de weerstand.
+De stroom loopt door beide elementen. Die hebben we nodig om de dissipatie te
+berekenen. De spanning en de impedantie Z bepalen de stroomsterkte. De spanning is 10
+V bij 50 Hz, de impedantie rekenen we uit.
+𝑍 = √𝑋𝐿2 + 𝑅2 = 50
+Inderdaad, het Pythagoras-rijtje 3, 4, 5. Dat gaat lekker snel. Dan is de stroom gelijk aan
+10 V / 50  is 0,2 A. Het gedissipeerde vermogen P vind je met 𝑃 = 𝐼 2 𝑅 is 0,22 maal 40 W.
+Dat is 0,04*40 W is 1,6 W. Antwoord B wint deze keer.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-117
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.46 Uitwerking van Opgave 5-46
+Deze wisselspanning wordt aangesloten op een weerstand van 10 ohm.
+Het opgenomen vermogen is:
+
+A. 10 W
+B. 5 W
+C. 7,07 W
+D. 100 W
+Uitwerking
+De eerste te beantwoorden vraag is, hoe groot de effectieve spanning is, want het gaat om
+vermogen. Die spanning is 10 V/√2. Dat laten we even zo staan. Voor het vermogen P
+geldt P=U2/R. Dan vinden we
+𝑃=
+
+102
+2
+
+(√2) 10
+
+W=
+
+100
+W=5W
+20
+
+En dat is dan antwoord B.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-118
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.47 Uitwerking van Opgave 5-47
+Een sinusvormige spanning van 100 Veff heeft op t=0 een nuldoorgang van negatief naar
+positief. Een halve periode later is de momentele waarde:
+A. 0 V
+B. +50 V
+C. -141,4 V
+D. +141,4 V
+Uitwerking
+Als het over vormen van een wisselspanning en details daarvan gaat, is het altijd
+verstandig om er een tekening van te maken. Die zien we hieronder.
+
+0 perioden
+
+1
+4
+
+1
+2
+
+3
+4
+
+1 periode
+
+U
+
+t
+
+De tekening toont een volle sinusperiode met kwarten en halven. Die zijn gemarkeerd
+met een verticale stippellijn. We zien drie nuldoorgangen, de eerste bij t=0. Daar gaat de
+waarde van negatief (buiten beeld) naar positief (in beeld). Een halve periode later zien
+we weer een nuldoorgang, nu van positief naar negatief. De momentele waarde is daar dus
+weer 0 en dat betekent antwoord A.
+Opmerking
+Als je waar dan ook in een sinus een halve periode opschuift, vind je de waarde van je
+beginpunt weer terug, maar met tegengesteld teken. +0,1 wordt dus -0,1 en -0,5 wordt
++0,5. Voor 0 maak dat niets uit, want -0 = +0.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-119
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.48 Uitwerking van Opgave 5-48
+De impedantie tussen de aansluitpunten van de schakeling is:
+
+A. 5 k
+B. 1,71 k
+C. 1 k
+D. 7 k
+Uitwerking
+Ook deze RC-combinatie los je het gemakkelijkst op met een vectordiagram. De stroom is
+gemeenschappelijk, want beide elementen staan in serie. De pijl voor R wijst naar rechts,
+die voor XC naar beneden en de impedantie is natuurlijk de vectoroptelling van de
+serieschakeling. Toepassing van Pythagoras dus.
+3 en 4? Begin van het rijtje van Pythagoras? Wel degelijk! Zonder te rekenen vinden we 5
+k voor de impedantie. Klaar, antwoord A. Voor wie het niet gelooft, is hieronder de
+tekening.
+UR=I.R
+
+IR=IC=I
+
+R
+
+Alles delen door I
+
+UC=I.XC
+
+UZ=I.Z
+
+XC
+
+Z
+
+Het rechter diagram toont dat 𝑍 = √𝑅2 + 𝑋𝐶2 = 5k, want 32 + 42 = 52 . Het Pythagorasrijtje komt weer eens langs. Antwoord A.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-120
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.49 Uitwerking van Opgave 5-49
+Door een lange spoel loopt een HF-wisselstroom. Een aluminium huls is in de
+lengterichting van een smalle luchtspleet voorzien en om de spoel geschoven en geaard.
+Dit wordt gedaan om:
+A. Het elektrisch en magnetisch veld af te schermen
+B. De magnetische veldlijnen te concentreren bij de luchtspleet
+C. Alleen het elektrisch veld af te schermen
+D. De zelfinductie te vergroten
+Uitwerking
+Van een spoel waaromheen een gesloten en geaarde bus van geleidend materiaal wordt
+geschoven, zijn zowel elektrisch als magnetisch veld van de buitenwereld afgeschermd.
+Het elektrisch veld is afgeschermd, doordat de bus door de aarding een constante spanning
+heeft.
+Het magnetisch veld is bij een geheel gesloten bus afgeschermd, doordat in de
+afschermbus een stroom loopt die tegengesteld is aan die in de spoel. Door de
+aanwezigheid van een luchtspleet wordt die stroom onderbroken. Dan is de magnetische
+afscherming niet meer werkzaam. De afscherming van het elektrisch veld verandert door
+de luchtspleet vrijwel niet, doordat de constante spanning van de afschermbus blijft.
+Conclusie: antwoord C.
+Opmerking 1
+De breedte van de luchtspleet moet voor de elektrische afscherming veel kleiner zijn dan
+de diameter van de bus.
+Opmerking 2
+De magnetische afscherming werkt alleen als er een wisselstroom door de spoel loopt. Bij
+een gelijkstroom moet mu-metaal worden gebruikt, maar in de praktijk van de
+zendamateur komt dat praktisch niet voor.
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-121
+
+VRZA-cursus radiozendamateur
+
+HS5_exa_A_20220417
+
+5.5.50 Uitwerking van Opgave 5-50
+De amplitude van de wisselspanning is
+
+U1
+U2
+
+T
+A. U1
+B. U2
+C. T
+D. T/ 2
+Uitwerking
+De amplitude is per definitie gelijk aan U1. Het juiste antwoord is daarom A. Andere
+benamingen zijn Utop (Engels: Upeak) of Umax
+Opmerking
+Ook de andere getoonde grootheden hebben een naam. U2 gaat meestal door het leven als
+Utop-top of in het Engels Upeak-peak of Up-p. T is de periodeduur en T/ 2 is vanzelfsprekend de
+halve periodeduur of de duur van een halve periode. De frequentie f is zoals bekend gelijk
+aan 1/T.
+Meer opgaven in deel B
+
+©2021, Vereniging van Radiozendamateurs VRZA (opgaven in par. 5.4 uitgezonderd)
+
+5-122
+
+
