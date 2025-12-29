@@ -1,0 +1,25 @@
+# Eindterm 8: Measurements (Metingen)
+
+- **Multimeter:**
+  - **Analogue (Moving Coil / Draaispoel):**
+    - Current: Shunt resistor.
+    - Voltage: Series resistor. Sensitivity (kOhm/V) affects circuit loading.
+    - Resistance: Internal battery required. Zero adjustment needed.
+  - **Digital (DMM):** High input impedance (typically 10-11 MOhm).
+  - **Usage:** Volts (Parallel), Amps (Series), Ohms (Circuit Power OFF!).
+- **SWR Meter:** Between TX and Antenna. Measures Forward vs Reflected power.
+  - **Calibration:** Switch to FWD, Key TX, Adjust to Full Scale (SET). Switch to REF to read SWR.
+    - **Operation:** Directional couplers sample forward and reflected waves.
+  - **RF Power Meter:** Measures true power.
+  - **Noise Figure Meter:** Measures receiver noise performance.
+- **Oscilloscope:** Visualises **Time Domain** (Voltage vs Time).
+  - Measure: Amplitude (V_peak, V_pp), Period (T), Waveform shape.
+  - Calculate: Frequency (f = 1/T), V_rms.
+- **Spectrum Analyser:** Visualises **Frequency Domain** (Amplitude vs Frequency).
+  - Measure: Harmonics, Spurious emissions, Sidebands, Bandwidth.
+- **Frequency Counter:** Measures precise frequency using a digital counter and accurate timebase.
+  - **Gating:** Counts cycles during a fixed time window (e.g., 1 sec).
+  - **Accuracy:** Dependent on Timebase (Crystal/OCXO).
+- **Dip Meter (Dipper / Grid Dipper):** Variable oscillator with exposed coil.
+  - **Usage:** Finds resonant frequency of unpowered LC circuits. Meter dips when energy is absorbed by the external circuit.
+  - **Dummy Load (Kunstantenne):** Non-radiating 50 Ohm resistor (Carbon/Non-inductive). Must handle expected power (Thermal rating).

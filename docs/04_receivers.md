@@ -1,0 +1,27 @@
+# Eindterm 4: Receivers (Ontvangers)
+
+- **Types:**
+  - **Crystal Receiver:** Diode detector, no gain, poor selectivity.
+  - **TRF (Rechtuit):** RF Amp + Detector + Audio Amp. Improved sensitivity but poor selectivity at high freq.
+  - **Regenerative (Mexicaanse Hond):** Positive feedback to increase Q and gain. Risk of radiation.
+  - **Direct Conversion (DC / Homodyne):** Mixes RF directly to Audio (Local Oscillator = RF frequency). Simple, sensitive, but prone to hum and microphonics.
+  - **Superheterodyne:** Mixes RF to fixed IF.
+    - **IF Trade-offs:** Higher IF = Better Image Rejection; Lower IF = Better Selectivity.
+    - **Double Conversion (Dubbelsuper):** Uses two IFs.
+      - **1st IF (High):** Good Image Rejection (Veraf-selectiviteit).
+        - **Image Rejection Ratio (dB):** Measure of front-end quality.
+      - **2nd IF (Low):** Good Adjacent Channel Selectivity (Nabij-selectiviteit).
+- **Key Concepts:**
+  - **Sensitivity:** Signal input for specific S/N ratio. Limited by Noise Figure (F).
+  - **Selectivity:** Bandwidth/Shape factor. Determined by IF filters (Crystal, Mechanical, LC).
+  - **Dynamic Range:** Ability to handle strong signals without distortion (Blocking, Intermodulation).
+  - **AGC (Automatic Gain Control):** Feedback from detector to IF/RF amps to stabilize volume.
+  - **Squelch:** Mutes audio when no signal present (noise gate).
+  - **Clarifier / RIT:** Receiver Incremental Tuning. Fine-tunes RX freq independent of TX.
+  - **S-Meter:** Indicates signal strength (S9 = 50uV < 30MHz; 5uV > 30MHz).
+    - Above S9: dB scale (S9+10dB, S9+20dB).
+  - **Noise Figure (Ruisgetal, F):** F = (S_in/N_in) / (S_out/N_out). Ideal F=1 (0dB).
+- **Detectors:**
+  - **AM:** Envelope detector (Diode + RC low pass).
+  - **SSB/CW:** Product Detector (mixes signal with BFO - Beat Frequency Oscillator).
+  - **FM:** Discriminator (Ratio detector) or PLL. Requires Limiter (Begrenzer) to remove AM noise.
