@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b336b5872bb33292",
+    "type": "split",
+    "children": [
+      {
+        "id": "23fd20025f2686a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8a5184daec54e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a03469f7a1b6ef0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e616abdcf59b7811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92d2ef18b6789a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "122215535007c0ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ac-sign",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3dd9de84cbb1ca43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55b2f1d6f98cd52b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7195e77fabd5ab0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a22569b733a604",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "56adab55b5bbf1a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f976c8e1c20d7170",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e209929d64a6ba7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5d8dc259d32cbc4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1c8a5184daec54e0",
+  "lastOpenFiles": [
+    "Dummy Load.md",
+    "Master Index (Zettelkasten).md",
+    "Kirchhoff's Laws.md",
+    "README.md",
+    "Voltage Dividers.md",
+    "Transmission Line Loss.md",
+    "Impedance Transformation.md",
+    "Velocity Factor.md",
+    "Transmission Line Types.md",
+    "Electrical Energy.md",
+    "Electrical Dissipation.md",
+    "Electrical Power.md",
+    "Exotic Propagation Modes.md",
+    "Tropospheric Propagation.md",
+    "Line of Sight Propagation (LOS).md",
+    "Sky Wave Propagation.md",
+    "Ground Wave Propagation.md",
+    "Digital Processing Techniques.md",
+    "Quantisation.md",
+    "Sampling Theory.md",
+    "Electromagnetic Waves.md",
+    "Magnetic Field.md",
+    "Electric Field.md",
+    "Parallel Circuits.md",
+    "Series Circuits.md",
+    "Map Filters & Resonance.md",
+    "Untitled.canvas"
+  ]
+}
