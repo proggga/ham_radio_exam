@@ -4,7 +4,7 @@
 Antenna gain is a comparison of power in the strongest direction against a reference antenna.
 *   **Isotropic Radiator:** A theoretical point source radiating equally in all directions (sphere).
     *   Unit: **dBi**.
-*   **Dipole:** A real $\lambda/2$ antenna.
+*   **Dipole:** A real $\lambda/2$ antenna. See [Types](01_types.md).
     *   Unit: **dBd**.
 *   **Conversion:** $0 \text{ dBd} = 2.15 \text{ dBi}$.
     *   $Gain (dBi) = Gain (dBd) + 2.15$.
@@ -17,7 +17,7 @@ Antenna gain is a comparison of power in the strongest direction against a refer
 
 ## 3. Radiation Resistance ($R_{rad}$)
 A virtual resistance that accounts for the power radiated as EM waves.
-*   Total Impedance $Z = R_{rad} + R_{loss} + jX$.
+*   Total Impedance $Z = R_{rad} + R_{loss} + jX$. See [Impedance](../03_circuits/07_reactance_impedance.md).
 *   **Efficiency ($\eta$):**
     $$\eta = \frac{R_{rad}}{R_{rad} + R_{loss}}$$
 *   **Short Antennas:** Have very low $R_{rad}$. Efficiency is poor unless $R_{loss}$ is extremely low.
@@ -29,6 +29,10 @@ A virtual resistance that accounts for the power radiated as EM waves.
 *   **Front-to-Back Ratio:** The difference in signal strength (dB) between the front and back of a directional antenna.
 
 ## 5. Fields
+See [Fields](../01_electricity/09_fields.md).
 *   **Near Field:** Close to the antenna. E and H fields are not yet orthogonal. Reactive energy is stored here.
     *   *Limit:* $d \approx \lambda$ (or $2D^2/\lambda$ for large antennas).
 *   **Far Field:** The radiating zone. E and H fields are perpendicular. Wave propagates as a plane wave.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

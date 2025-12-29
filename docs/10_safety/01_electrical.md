@@ -1,12 +1,13 @@
 # Electrical Safety
 
 ## 1. The Human Body
-*   **Resistance:** Varies with skin condition.
+*   **Resistance:** Varies with skin condition. See [Ohm's Law](../01_electricity/02_ohm_law.md).
     *   Dry skin: High resistance (~100 k$\Omega$).
     *   Wet/Broken skin: Low resistance (~1 k$\Omega$ internal).
 *   **Risk:** Current (Amperes) kills, voltage drives the current.
 
 ### Physiological Effects of Current (AC 50Hz)
+See [AC Signals](../01_electricity/10_ac_signals.md).
 | Current | Effect |
 | :--- | :--- |
 | **0.5 mA** | Threshold of perception (Tingling). |
@@ -35,3 +36,6 @@
     *   Detects imbalance between Live and Neutral (current leaking to Earth).
     *   Trips at **30 mA**. Protects **people** from lethal shock.
 *   **Safety Earth:** Low resistance path (< 0.1 $\Omega$) to trip the fuse/RCD if a live wire touches the chassis.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

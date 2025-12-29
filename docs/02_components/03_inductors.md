@@ -1,7 +1,7 @@
 # Inductors (Spoelen)
 
 ## 1. Structure and Function
-An inductor (coil) stores electrical energy in a **magnetic field**.
+An inductor (coil) stores electrical energy in a **magnetic field** (See [Fields](../01_electricity/09_fields.md)).
 *   **Construction:** A coil of conductive wire, often wound around a core.
 *   **Symbol:** A series of loops (like a spring).
 
@@ -30,4 +30,7 @@ Key factors:
 ## 4. Applications
 *   **Electromagnets:** Coil with iron core.
 *   **Transformers:** Two magnetically coupled coils.
-*   **Filters:** Blocking high frequencies (choke).
+*   **Filters:** Blocking high frequencies (choke). See [Filters](../03_circuits/03_filters.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

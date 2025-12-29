@@ -15,6 +15,9 @@ The fundamental waveform of Alternating Current (AC) and Radio Frequency (RF). A
 ### Voltage Values
 *   **Instantaneous Value ($u(t)$):** The value at a specific moment in time.
     *   $u(t) = U_{max} \sin(\omega t + \varphi)$.
+*   **Wavelength ($\lambda$):** The distance a wave travels in one period.
+    *   $\lambda = \frac{v}{f}$ (where $v$ is velocity).
+    *   For radio waves, $v = c$ (speed of light, approx $300,000 \text{ km/s}$). See [EM Fields](09_fields.md).
 *   **Average Value ($U_{gem}$):**
     *   Over a full period, the average of a pure sine wave is **0**.
     *   Over a half period (rectified), $U_{gem} \approx 0.637 \times U_{max}$ ($\frac{2}{\pi}$).
@@ -54,3 +57,6 @@ Complex periodic waves can be constructed from a sum of sine waves (Fundamental 
 *   **External Noise:**
     *   **QRN:** Natural/Atmospheric (Static, Lightning).
     *   **QRM:** Man-made (Machinery, Electronics, Interference).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

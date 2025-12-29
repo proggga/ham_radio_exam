@@ -12,7 +12,7 @@ Circuits that generate an AC signal from DC.
 *   **Clapp:** A Colpitts with an extra series capacitor for better stability.
 
 ### Crystal Oscillators (Fixed Frequency)
-Uses a Quartz crystal (Piezoelectric effect) for high $Q$ and stability.
+Uses a [Quartz crystal](../02_components/07_digital_components.md) (Piezoelectric effect) for high $Q$ and stability.
 *   **Pierce:** Crystal connects between Base and Collector (or Grid/Anode). Acts as an inductor.
 *   **Colpitts Crystal:** Crystal replaces the inductor in a standard Colpitts.
 *   **Overtone:** The crystal vibrates at an odd harmonic (3rd, 5th, 7th) of its fundamental frequency. Used for VHF ($> 20 MHz$).
@@ -21,7 +21,7 @@ Uses a Quartz crystal (Piezoelectric effect) for high $Q$ and stability.
 ### Stability
 *   **TCXO:** Temperature Compensated Crystal Oscillator.
 *   **OCXO:** Oven Controlled Crystal Oscillator (Heated to constant temp).
-*   **VCO (Voltage Controlled Oscillator):** Uses a **Varicap** diode to tune frequency via a DC control voltage. Used in PLLs.
+*   **VCO (Voltage Controlled Oscillator):** Uses a [Varicap](../02_components/05_semiconductors.md) diode to tune frequency via a DC control voltage. Used in PLLs.
 
 ### Phase Noise
 Short-term frequency instability (jitter) in the time domain appears as noise sidebands in the frequency domain.
@@ -40,7 +40,7 @@ Recovering information from the modulated carrier.
 ## 3. Mixers (Mengtrappen)
 Non-linear circuits that combine two frequencies ($f_1$ and $f_2$).
 *   **Outputs:** Sum ($f_1 + f_2$) and Difference ($f_1 - f_2$), plus originals and harmonics.
-*   **Use:** Superheterodyne receivers (RF + LO -> IF).
+*   **Use:** [Superheterodyne receivers](../04_receivers/02_superheterodyne.md) (RF + LO -> IF).
 
 ### Image Frequency (Spiegelfrequentie)
 In a mixer, an unwanted signal can produce the same Intermediate Frequency (IF) as the desired signal.
@@ -56,3 +56,6 @@ A control system that locks an oscillator to a reference frequency.
     4.  **Loop Filter:** Smooths error voltage.
     5.  **Divider:** Allows frequency synthesis (step size).
 *   **Use:** Frequency synthesizers (VFOs), FM demodulation.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

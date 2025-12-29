@@ -1,10 +1,10 @@
 # Modulation and Digital Signals
 
 ## 1. Analogue Modulation
-Modifying a carrier wave to convey information.
+Modifying a [Carrier wave](10_ac_signals.md) to convey information.
 
 ### CW (Continuous Wave)
-*   On/Off keying of the carrier (Morse Code).
+*   On/Off keying of the carrier (Morse Code). See [Procedures](../11_procedures.md).
 *   Narrowest bandwidth (~50-150 Hz).
 
 ### AM (Amplitude Modulation)
@@ -22,7 +22,7 @@ Modifying a carrier wave to convey information.
 
 ### FM (Frequency Modulation)
 *   Varying carrier frequency with audio.
-*   **Deviation ($\Delta f$):** Max frequency shift from center.
+*   **Deviation ($\Delta f$):** Max frequency shift from center. See [Bandwidth](10_ac_signals.md).
 *   **Modulation Index:** $m = \Delta f / f_{mod}$.
 *   **Bandwidth (Carson's Rule):** $B \approx 2(\Delta f + f_{max\_audio})$.
 *   **Capture Effect:** Receiver locks onto the strongest signal, suppressing weaker ones. Good noise immunity.
@@ -38,8 +38,12 @@ Modifying a carrier wave to convey information.
 *   **FSK:** Frequency Shift Keying (Used in RTTY).
 *   **PSK:** Phase Shift Keying (BPSK, QPSK).
 *   **QAM:** Quadrature Amplitude Modulation (Amplitude + Phase).
+See [Digital Components](../02_components/07_digital_components.md) for binary basics.
 
 ### Coding
 *   **Baudot (CCITT-1):** 5-bit code (32 chars). No error correction.
 *   **ASCII (CCITT-5):** 7 or 8-bit code.
 *   **Parity:** Simple error check bit.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

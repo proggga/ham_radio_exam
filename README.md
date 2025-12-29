@@ -6,6 +6,8 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 **Language:** English, with key Dutch terms in parentheses `(...)`.
 **Content:** Enriched with detailed explanations, formulas, and concepts from the UK Full Licence syllabus to provide a deep study guide.
 
+**[📂 Open Master Index (Zettelkasten)](docs/INDEX.md)** - A comprehensive list of all topics.
+
 
 ## [Eindterm 0: Candidate Basic Skills (Basisvaardigheden van de kandidaat)](docs/00_basic_skills.md)
 

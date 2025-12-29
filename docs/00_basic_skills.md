@@ -14,10 +14,10 @@ The most relevant base units for amateur radio are:
 *   **Length:** meter (m)
 *   **Mass:** kilogram (kg)
 *   **Time:** second (s)
-*   **Electric Current:** ampere (A)
+*   **Electric Current:** ampere (A). See [Ohm's Law](01_electricity/02_ohm_law.md).
 *   **Temperature:** kelvin (K). Note: $0 \text{ K} = -273.15^\circ\text{C}$ (Absolute Zero). A difference of 1 K is equal to a difference of 1°C.
 
-From these base units, we derive others like the Volt ($V$), Watt ($W$), and Hertz ($Hz$).
+From these base units, we derive others like the [Volt ($V$)](01_electricity/02_ohm_law.md), [Watt ($W$)](01_electricity/04_power_energy.md), and [Hertz ($Hz$)](01_electricity/10_ac_signals.md).
 
 ### Prefixes (Voorvoegsels)
 Radio electronics deals with numbers ranging from the massive (Gigahertz frequencies) to the tiny (microvolts). Instead of writing endless zeros, we use standard prefixes:
@@ -44,7 +44,7 @@ Numbers are often written as a value between 1 and 10 multiplied by a power of 1
 *   $0.000000275 = 2.75 \times 10^{-7}$
 
 ### Rearranging Formulas (Vergelijkingen)
-You must be comfortable manipulating equations. If $U = I \times R$:
+You must be comfortable manipulating equations. If $U = I \times R$ (See [Ohm's Law](01_electricity/02_ohm_law.md)):
 *   To find $I$: divide both sides by $R \rightarrow I = U / R$
 *   To find $R$: divide both sides by $I \rightarrow R = U / I$
 
@@ -84,12 +84,12 @@ Radio exams often require interpreting graphs to understand circuit behavior or 
 ## Geometry and Trigonometry
 
 ### Pythagoras' Theorem
-Essential for calculating Impedance ($Z$) in AC circuits, where Resistance ($R$) and Reactance ($X$) form a right-angled triangle.
+Essential for calculating [Impedance ($Z$)](03_circuits/07_reactance_impedance.md) in AC circuits, where Resistance ($R$) and Reactance ($X$) form a right-angled triangle.
 *   **Formula:** $a^2 + b^2 = c^2$
 *   **Application:** $Z = \sqrt{R^2 + X^2}$
 
 ### Sine, Cosine, and Phase
-AC signals are sinusoidal waves.
+AC signals are sinusoidal waves. See [AC Signals](01_electricity/10_ac_signals.md).
 *   **Sine & Cosine:** Ratios of sides in a right-angled triangle relative to an angle.
 *   **Phase:** The time relationship between two waves.
 *   **Radians:** The natural unit for angles in physics. A full circle ($360^\circ$) is $2\pi$ radians.
@@ -99,3 +99,6 @@ AC signals are sinusoidal waves.
 Two key thermodynamic principles apply to electronics:
 1.  **Conservation of Energy:** Energy cannot be created or destroyed, only transformed (e.g., electrical energy becomes radio waves and heat).
 2.  **Entropy:** Order naturally tends toward disorder (heat). No system is 100% efficient; some energy is always lost as heat.
+
+---
+[Back to Index](INDEX.md) | [Back to Dashboard](../README.md)

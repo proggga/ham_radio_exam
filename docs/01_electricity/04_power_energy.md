@@ -1,17 +1,15 @@
 # Power and Energy
 
 ## 1. Electric Power (Vermogen)
-Power is the rate at which energy is used or converted (e.g., into heat or light).
+Power is the rate at which energy is used or dissipated.
 *   **Symbol:** $P$
-*   **Unit:** Watt ($W$) or Joule per second ($J/s$).
+*   **Unit:** Watt ($W$) = Joule per second ($J/s$).
 
 ### Formulas
-The basic power formula is:
-$$P = U \times I$$
-
-Substituting Ohm's Law ($U=IR$ or $I=U/R$):
-1.  $P = (I \cdot R) \cdot I \rightarrow \mathbf{P = I^2 \cdot R}$
-2.  $P = U \cdot (U / R) \rightarrow \mathbf{P = \frac{U^2}{R}}$
+Derived from [Ohm's Law](02_ohm_law.md):
+1.  **Basic:** $P = U \times I$
+2.  **Substitution ($U=I \times R$):** $P = I^2 \times R$ (Heat loss in a resistor)
+3.  **Substitution ($I=U/R$):** $P = U \cdot (U / R) \rightarrow \mathbf{P = \frac{U^2}{R}}$
 
 ## 2. Dissipation
 When current flows through a resistor, electrical power is converted into heat. This is called **dissipation**.
@@ -28,3 +26,6 @@ Energy is total power used over a period of time.
 ### Formula
 $$W = P \times t$$
 (Energy = Power $\times$ Time)
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

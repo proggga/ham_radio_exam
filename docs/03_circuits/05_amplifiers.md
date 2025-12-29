@@ -1,7 +1,7 @@
 # Amplifiers (Versterkers)
 
 ## 1. Operating Principle
-An amplifier increases the amplitude of a signal (Voltage, Current, or Power) without changing its shape (ideally). It uses an active device (Transistor, FET, Tube) to control a power source.
+An amplifier increases the amplitude of a signal (Voltage, Current, or Power) without changing its shape (ideally). It uses an active device ([Transistor](../02_components/05_semiconductors.md), [Tube](../02_components/06_active_components.md)) to control a power source.
 
 ### Biasing (Instelling)
 To work correctly, the active device must be set to a specific "Operating Point" (Werkpunt or Instelpunt) using DC voltages and currents.
@@ -33,13 +33,13 @@ Classes describe the conduction angle (bias point) of the amplifying device.
 ## 3. Coupling Methods
 How stages are connected.
 *   **RC Coupling:** Capacitor blocks DC, passes AC. Resistors set bias.
-    *   *Calculation:* The capacitor forms a High Pass Filter with the input impedance of the next stage. $X_c$ must be low at the lowest frequency ($f_{min}$).
-*   **Transformer:** Matches impedance ($Z_p/Z_s = (N_p/N_s)^2$).
+    *   *Calculation:* The capacitor forms a [High Pass Filter](03_filters.md) with the input impedance of the next stage. $X_c$ must be low at the lowest frequency ($f_{min}$).
+*   **Transformer:** Matches impedance ($Z_p/Z_s = (N_p/N_s)^2$). See [Transformers](../02_components/04_transformers.md).
     *   *Pros:* Efficient, Tuned (IF strips).
     *   *Cons:* Heavy, Bandwidth limited.
 *   **LC/Choke Coupling:** Uses an inductor as the collector load.
     *   *Pros:* High efficiency for RF (DC voltage at collector $\approx V_{supply}$).
-*   **Direct:** DC coupled (no capacitor). Used in Op-amps.
+*   **Direct:** DC coupled (no capacitor). Used in [Op-amps](../02_components/06_active_components.md).
 
 ## 4. Feedback (Terugkoppeling)
 *   **Negative Feedback:** Part of output subtracted from input.
@@ -55,4 +55,7 @@ How stages are connected.
 *   **Dissipation:** Power lost as heat in the active device ($P = U_{ce} \times I_c$).
     *   Must stay within the **Dissipation Hyperbola** (Safe Operating Area).
 *   **Harmonic Distortion:** Creates multiples of the fundamental frequency ($2f, 3f$).
-*   **Intermodulation Distortion (IMD):** Mixing of two signals ($f_1, f_2$) creating sum/difference products ($2f_1 - f_2$, etc.). Causes "splatter" in SSB.
+*   **Intermodulation Distortion (IMD):** Mixing of two signals ($f_1, f_2$) creating sum/difference products ($2f_1 - f_2$, etc.). Causes "splatter" in SSB. See [Interference](../09_interference/01_types.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

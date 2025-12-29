@@ -41,13 +41,14 @@ Vacuum tubes operate on the principle of **Thermionic Emission** (Edison Effect)
 *   **Characteristics:** High gain, high internal resistance.
 
 ## 3. Comparison with Semiconductors
-*   **Heater:** Tubes need warmup time and consume heater power. Transistors don't.
+*   **Heater:** Tubes need warmup time and consume heater power. [Transistors](05_semiconductors.md) don't.
 *   **Voltage:** Tubes work at high voltages (100V - kV). Transistors work at low voltages.
 *   **Impedance:** Tubes are high impedance devices.
 *   **Hardness:** Tubes are more robust against temporary overloads and EMP compared to semiconductors.
 
 ## 4. Operational Amplifiers (Op-Amps)
 (Integrated Circuits, typically semiconductor-based)
+*   See [Amplifiers](../03_circuits/05_amplifiers.md).
 *   **Characteristics:** Very high gain, differential input.
 *   **Feedback (Tegenkoppeling):** Essential for linear operation.
 *   **Configurations:** Inverting, Non-inverting, Buffer, Comparator.
@@ -63,3 +64,6 @@ Op-amps are almost always used with negative feedback to control gain and stabil
 3.  **Voltage Follower (Buffer):** Output connected directly to (-) input.
     *   $Gain = 1$. Used to match high Z source to low Z load.
 4.  **Comparator:** No feedback. Compares inputs and outputs high/low.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

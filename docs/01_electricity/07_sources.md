@@ -9,10 +9,11 @@ Every real battery or power supply has an internal resistance $R_i$ in series wi
 
 ### Terminology
 *   **EMF (Bronspanning, $E$):** The voltage of the source with **no load** (open circuit).
-*   **Terminal Voltage (Klemspanning, $U_k$):** The voltage available at the terminals when current $I$ flows.
-    $$U_k = E - (I \times R_i)$$
-*   **Short Circuit Current ($I_{short}$):** Maximum current when terminals are shorted ($R_{load} = 0$).
-    $$I_{short} = \frac{E}{R_i}$$
+*   **Terminal Voltage ($U_{klem}$):** The voltage measured at the terminals under load.
+    *   $U_{klem} = E - (I_{load} \times R_i)$
+    *   Ideally $R_i = 0$, so $U_{klem} = E$.
+*   **Short Circuit Current ($I_{short}$):** Maximum current if terminals are shorted ($R_{load} = 0$).
+    *   $I_{short} = \frac{E}{R_i}$ (from [Ohm's Law](02_ohm_law.md))
 
 ### Power Transfer
 Maximum power is transferred to the load when the Load Resistance equals the Internal Resistance ($R_{load} = R_i$).
@@ -33,3 +34,6 @@ Maximum power is transferred to the load when the Load Resistance equals the Int
     *   Voltage stays the same (Must connect identical voltage cells!).
     *   Capacity (Ah) adds up.
     *   Internal resistance decreases ($R_{tot} = R_i / n$).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

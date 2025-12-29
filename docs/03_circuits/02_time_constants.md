@@ -3,7 +3,7 @@
 When a resistor is combined with a capacitor or inductor, voltage and current do not change instantly. The speed of change is determined by the **Time Constant** (Tau, $\tau$).
 
 ## 1. RC Circuit (Resistor + Capacitor)
-Charging or discharging a capacitor through a resistor.
+Charging or discharging a [Capacitor](../02_components/02_capacitors.md) through a [Resistor](../02_components/01_resistors.md).
 *   **Formula:**
     $$\tau = R \times C$$
 *   **Units:** Seconds ($s$) = Ohms ($\Omega$) $\times$ Farads ($F$).
@@ -18,7 +18,7 @@ Charging or discharging a capacitor through a resistor.
     *   After **$5 \tau$**: Capacitor is considered empty.
 
 ## 2. RL Circuit (Resistor + Inductor)
-Building up or collapsing current through an inductor.
+Building up or collapsing current through an [Inductor](../02_components/03_inductors.md).
 *   **Formula:**
     $$\tau = \frac{L}{R}$$
 *   **Units:** Seconds ($s$) = Henrys ($H$) / Ohms ($\Omega$).
@@ -31,3 +31,6 @@ Building up or collapsing current through an inductor.
 *   **Current Decay:**
     *   Opening a switch creates a high voltage spike (inductive kickback) as the field collapses to try and maintain current.
     *   Current decays to **37%** after $1 \tau$.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

@@ -15,7 +15,7 @@ The ionosphere is a region of the upper atmosphere ionized by solar radiation (U
     *   **Night:** Merges into a single **F** layer.
 
 ## 2. Solar Cycle
-*   **Sunspots (Zonnevlekken):** Indicators of solar activity. Cycle is approx **11 years**.
+*   **Sunspots (Zonnevlekken):** Indicators of solar activity. Cycle is approx **11 years**. See [Band Characteristics](04_band_characteristics.md).
 *   **Solar Flux (SFI):** Measure of ionizing radiation.
     *   **High Flux (Max):** High ionization. F-layers become dense. High frequencies (10m, 12m, 15m) reflect well.
     *   **Low Flux (Min):** Low ionization. High frequencies pass through into space. DX limited to lower bands (20m, 40m).
@@ -32,3 +32,6 @@ The ionosphere is a region of the upper atmosphere ionized by solar radiation (U
 Variation in signal strength.
 *   **Multipath:** Signal arrives via two paths (e.g., 1 hop vs 2 hops) that go in and out of phase.
 *   **Polarization:** Ionosphere twists the polarization (Faraday rotation). Linear antennas may cross-polarize.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

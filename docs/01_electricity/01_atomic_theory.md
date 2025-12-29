@@ -16,6 +16,11 @@ All matter consists of **atoms**. An atom is the smallest particle of an element
 *   **Unit:** The unit of charge is the **Coulomb (C)**.
     *   $1 \text{ C} \approx 6.24 \times 10^{18}$ electrons.
     *   Charge of 1 electron $e \approx -1.6 \times 10^{-19} \text{ C}$.
+*   **[Current (I, Ampere)](02_ohm_law.md):** Flow of charge (Q) per time (t).
+*   **Direction:** [Technical vs Electron Flow](02_ohm_law.md#direction-of-current).
+*   **[Voltage (U, Volt)](02_ohm_law.md):** Potential difference.
+*   **[Resistance (R, Ohm)](02_ohm_law.md):** Opposition to current flow.
+*   **Specific Resistance:** See [Resistivity](03_resistivity.md).
 
 ## 3. Conductors vs Insulators
 The behavior of electrons in the outermost shell determines conductivity.
@@ -24,3 +29,6 @@ The behavior of electrons in the outermost shell determines conductivity.
 *   **Semiconductors (Halfgeleiders):** Conductivity is between conductor and insulator (e.g., Silicon, Germanium). Covered later.
 
 > **Note:** There is no perfect conductor (except superconductors at low temps) and no perfect insulator (everything conducts if voltage is high enough -> Breakdown).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

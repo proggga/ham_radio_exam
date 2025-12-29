@@ -1,7 +1,7 @@
 # Reactance and Impedance
 
 ## 1. Phase Relationships (Faseverschil)
-In resistors, Voltage ($U$) and Current ($I$) are in phase. In reactive components (Capacitors and Inductors), they are shifted by $90^\circ$ ($\pi/2$ radians).
+In [Resistors](../02_components/01_resistors.md), Voltage ($U$) and Current ($I$) are in phase. In reactive components ([Capacitors](../02_components/02_capacitors.md) and [Inductors](../02_components/03_inductors.md)), they are shifted by $90^\circ$ ($\pi/2$ radians).
 
 *   **Inductor ($L$):** Voltage leads Current by $90^\circ$.
     *   *Mnemonic:* **LUI** (L: U before I) or **ELI** (E leads I in L).
@@ -41,6 +41,9 @@ $$\frac{1}{Z} = \sqrt{(\frac{1}{R})^2 + (\frac{1}{X})^2}$$
 
 ## 4. Vector Diagrams
 AC quantities with different phases cannot be added arithmetically (e.g., $3V + 4V \neq 7V$). They must be added as vectors.
-*   **Pythagoras:** If vectors are at $90^\circ$, the resultant is the hypotenuse.
+*   **Pythagoras:** If vectors are at $90^\circ$, the resultant is the hypotenuse. See [Basic Skills](../00_basic_skills.md).
     *   $Result = \sqrt{A^2 + B^2}$
     *   Example: $3V$ across $R$ and $4V$ across $L$ in series gives $5V$ total supply voltage.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

@@ -10,7 +10,7 @@ Filters allow specific frequencies to pass while rejecting others.
 *   **Band Stop (Notch):** Blocks a specific frequency.
 
 ## 2. Resonance (Resonantie)
-Occurs in an LC circuit when Inductive Reactance equals Capacitive Reactance ($X_L = X_C$).
+Occurs in an LC circuit when Inductive [Reactance](07_reactance_impedance.md) equals Capacitive Reactance ($X_L = X_C$).
 
 ### Resonant Frequency ($f_{res}$)
 Calculated using the **Thomson Formula**:
@@ -44,7 +44,10 @@ $$B = \frac{f_{res}}{Q}$$
 *   **Shape Factor:** Ratio of bandwidth at -60dB to -6dB. Ideal is 1 (rectangular filter).
 
 ## 5. High-Performance Filters
-Used in the Intermediate Frequency (IF) stages of receivers for selectivity.
-*   **Crystal Filter:** Very high $Q$, sharp edges.
+Used in the Intermediate Frequency (IF) stages of [Receivers](../04_receivers/02_superheterodyne.md) for selectivity.
+*   **Crystal Filter:** Very high $Q$, sharp edges. See [Crystals](../02_components/07_digital_components.md).
 *   **Mechanical Filter:** Resonates mechanically. High $Q$, flat top.
 *   **Ceramic Filter:** Cheap, medium performance.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

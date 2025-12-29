@@ -6,11 +6,14 @@
 **"The sum of currents flowing into a node equals the sum of currents flowing out."**
 *   $\Sigma I_{in} = \Sigma I_{out}$
 *   Based on conservation of charge.
+*   *Application:* Used in [Parallel Circuits](#3-parallel-circuits).
 
 ### Second Law: Voltage Law (KVL)
 **"The sum of all voltage rises and drops in a closed loop is zero."**
 *   $\Sigma U = 0$
 *   Applied: Source Voltage = Sum of Voltage Drops across components.
+*   *Note:* Voltage drops are determined by [Ohm's Law](02_ohm_law.md) ($U = I \times R$).
+*   *Application:* Used in [Series Circuits](#2-series-circuits).
 
 ## 2. Series Circuits
 Components arranged in a chain.
@@ -41,3 +44,6 @@ Two resistors $R_1$ and $R_2$ in series connected to source $U_{in}$. Output vol
 $$U_{out} = U_{in} \times \frac{R_2}{R_1 + R_2}$$
 
 *   **Potentiometer:** A variable voltage divider.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

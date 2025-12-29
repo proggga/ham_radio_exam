@@ -4,12 +4,12 @@
 The fundamental antenna.
 *   **Length:** Approximately half a wavelength ($\lambda/2$).
 *   **Feedpoint:** In the center (Voltage Low, Current High).
-*   **Impedance:** $\approx 73 \Omega$ in free space. Lower if close to ground.
+*   **Impedance:** $\approx 73 \Omega$ in free space. Lower if close to ground. See [Impedance](../03_circuits/07_reactance_impedance.md).
 *   **Radiation Pattern:** Figure-8 (broadside to the wire). Nulls off the ends.
 *   **Variants:**
     *   **Inverted V:** Center high, ends low. Omni-directional, lower impedance (~$50 \Omega$).
     *   **Folded Dipole:** High impedance (~$300 \Omega$). Wider bandwidth.
-    *   **Trap Dipole:** Uses LC circuits (traps) to electrically shorten the antenna for multiple bands.
+    *   **Trap Dipole:** Uses LC circuits (traps) to electrically shorten the antenna for multiple bands. See [Filters](../03_circuits/03_filters.md).
 
 ## 2. Vertical Antennas
 *   **Ground Plane (GP):** Quarter-wave ($\lambda/4$) vertical element.
@@ -32,4 +32,7 @@ The fundamental antenna.
 *   **Loop:**
     *   *Small Loop ($<\lambda/10$):* Magnetic loop. High Q, very narrow bandwidth. Good for noise rejection.
     *   *Large Loop ($\approx \lambda$):* Quad loop.
-*   **Dummy Load (Kunstantenne):** A $50 \Omega$ non-inductive resistor used for testing transmitters without radiating.
+*   **Dummy Load (Kunstantenne):** A $50 \Omega$ non-inductive [Resistor](../02_components/01_resistors.md) used for testing transmitters without radiating. See [Measurements](../08_measurements/03_rf_measurements.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

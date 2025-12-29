@@ -17,5 +17,8 @@ Visualizes signals in the **Frequency Domain** (Amplitude vs Frequency).
 *   **Measurements:**
     *   **Harmonics:** Check for suppression of $2f, 3f$, etc.
     *   **Spurious Emissions:** Detect unwanted parasitic oscillations.
-    *   **Bandwidth:** Measure occupied bandwidth of a modulated signal.
-    *   **Intermodulation:** Visualise IP3 products.
+    *   **Bandwidth:** Measure occupied bandwidth of a modulated signal. See [Modulation](../01_electricity/11_modulation.md).
+    *   **Intermodulation:** Visualise IP3 products. See [Interference](../09_interference/01_types.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

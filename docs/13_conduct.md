@@ -3,7 +3,7 @@
 ## Social Responsibility
 Amateur radio operators are privileged to use a wide range of frequencies and high power levels. With this freedom comes the responsibility to prevent chaos on the airwaves. Operators must:
 *   **Self-Regulate:** Strictly adhere to international and local regulations.
-*   **Prevent Interference:** Ensure equipment is technically sound and operated correctly to avoid disrupting other services (military, aviation, emergency) or fellow amateurs.
+*   **Prevent Interference:** Ensure equipment is technically sound and operated correctly to avoid disrupting other services (military, aviation, emergency) or fellow amateurs. See [Interference](09_interference/01_types.md).
 *   **Be Polite:** The "Ham Spirit" emphasizes helpfulness, tolerance, and politeness. Rudeness or selfish behavior has no place on the bands.
 
 ## Good Operator Practice
@@ -15,3 +15,6 @@ In times of disaster, amateur radio often serves as a resilient backup when comm
 *   **Emergency Signals:**
     *   **MAYDAY:** Used only when there is an immediate threat to life or vessel.
     *   **PAN PAN:** Indicates an urgent situation that is not yet life-threatening.
+
+---
+[Back to Index](INDEX.md) | [Back to Dashboard](../README.md)

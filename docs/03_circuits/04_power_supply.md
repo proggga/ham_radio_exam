@@ -4,7 +4,7 @@
 The process of converting Alternating Current (AC) into pulsating Direct Current (DC).
 
 ### Half-Wave Rectification (Enkelzijdige gelijkrichting)
-*   **Components:** 1 Diode.
+*   **Components:** 1 [Diode](../02_components/05_semiconductors.md).
 *   **Operation:** Passes only the positive (or negative) half-cycles.
 *   **Efficiency:** Low. Half the power is discarded.
 *   **Ripple Frequency:** Equal to input frequency ($50 Hz$).
@@ -25,7 +25,7 @@ The process of converting Alternating Current (AC) into pulsating Direct Current
 Converting pulsating DC into steady DC using filters.
 
 ### Reservoir Capacitor
-A large electrolytic capacitor connected in parallel with the output.
+A large electrolytic [Capacitor](../02_components/02_capacitors.md) connected in parallel with the output.
 *   **Function:** Charges to the peak voltage ($U_{peak}$) during pulses and discharges into the load between pulses.
 *   **Ripple (Rimpel):** The residual AC variation on the DC output.
     *   Larger Load Current -> **More** Ripple.
@@ -36,21 +36,21 @@ A large electrolytic capacitor connected in parallel with the output.
 ### LC Filters
 For better smoothing, an Inductor (Choke/Smoorspoel) and a second Capacitor are added.
 *   **Configuration:** C-L-C (Pi-filter).
-*   **Choke ($L$):** Opposes changes in current, smoothing the flow.
+*   **Choke ($L$):** Opposes changes in current, smoothing the flow. See [Inductors](../02_components/03_inductors.md).
 *   **Second Capacitor ($C$):** Further reduces voltage ripple.
 
 ## 3. Regulation (Stabilisatie)
 Keeping the output voltage constant despite changes in Load Current or Mains Voltage.
 
 ### Zener Diode Regulator
-*   **Configuration:** Zener diode in reverse bias (parallel to load) + Series Resistor.
+*   **Configuration:** [Zener diode](../02_components/05_semiconductors.md) in reverse bias (parallel to load) + Series Resistor.
 *   **Operation:** The Zener maintains a constant breakdown voltage.
 *   **Resistor Calculation:**
     $$R_{series} = \frac{U_{in} - U_{zener}}{I_{zener} + I_{load}}$$
 *   **Limitations:** Inefficient. Suitable only for low power / reference voltages.
 
 ### Linear Regulator
-*   **Series Regulator:** A transistor (Emitter Follower) controls the output voltage, referenced to a Zener.
+*   **Series Regulator:** A [Transistor](../02_components/05_semiconductors.md) (Emitter Follower) controls the output voltage, referenced to a Zener.
 *   **Integrated Circuits (ICs):** e.g., 78xx (Positive), 79xx (Negative).
     *   *7812:* +12V output.
     *   *7805:* +5V output.
@@ -60,4 +60,7 @@ Keeping the output voltage constant despite changes in Load Current or Mains Vol
 *   **Operation:** Rectifies mains directly, then switches it at high frequency (kHz to MHz), transforms it, and rectifies again.
 *   **Control:** **PWM** (Pulse Width Modulation) adjusts the duty cycle to regulate voltage.
 *   **Pros:** High efficiency (> 80%), small, light (no heavy 50Hz transformer).
-*   **Cons:** Generates **RF Noise (QRM)**. Requires good EMI filtering.
+*   **Cons:** Generates **RF Noise (QRM)**. Requires good EMI filtering. See [Interference](../09_interference/01_types.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

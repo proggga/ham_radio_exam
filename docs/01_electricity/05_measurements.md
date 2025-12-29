@@ -22,3 +22,6 @@
 | **Voltage** | Parallel | Very High ($\infty$) |
 | **Current** | Series | Very Low ($0$) |
 | **Resistance**| Component Isolated | N/A |
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

@@ -19,7 +19,7 @@ Defined in ITU Radio Regulations (Article 1.56):
     3.  Can claim protection from other Secondary stations (first come, first served).
 
 ## 4. Classes of Emission
-ITU codes used to describe signals (e.g., J3E, A1A).
+ITU codes used to describe signals (e.g., J3E, A1A). See [Modulation](../01_electricity/11_modulation.md).
 *   **1st Symbol:** Type of Modulation.
     *   **A:** Amplitude (Double Sideband).
     *   **J:** SSB (Suppressed Carrier).
@@ -44,3 +44,6 @@ ITU codes used to describe signals (e.g., J3E, A1A).
 | **F3E** | FM | Frequency Modulation Telephony. |
 | **F1B** | RTTY/FSK | Digital Telegraphy (Frequency Shift Keying). |
 | **F2D** | Packet | Data transmission via FM subcarrier. |
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

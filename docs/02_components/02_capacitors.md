@@ -1,7 +1,7 @@
 # Capacitors (Condensatoren)
 
 ## 1. Structure and Function
-A capacitor stores electrical energy in an **electric field**.
+A capacitor stores electrical energy in an **electric field** (See [Fields](../01_electricity/09_fields.md)).
 *   **Construction:** Two conductive plates (electrodes) separated by an insulating material called the **dielectric** (diëlektricum).
 *   **Symbol:** Two parallel lines. (Curved line for the negative plate in some electrolytic symbols).
 
@@ -29,6 +29,7 @@ Key factors:
 *   **Charge:** $Q = I \times t$ (Current $\times$ Time).
 *   **Charge on Capacitor:** $Q = C \times U$.
     *   $U$ is the voltage across the capacitor.
+    *   See [Time Constants](../03_circuits/02_time_constants.md) for charging behavior.
 
 ## 4. Types
 *   **Fixed Capacitors:** Ceramic, Plastic film, Mica.
@@ -39,3 +40,6 @@ Key factors:
 
 ## 5. Breakdown Voltage (Doorslagspanning)
 The maximum voltage the dielectric can withstand before arcing occurs. Exceeding this destroys the component.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

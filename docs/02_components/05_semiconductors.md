@@ -4,7 +4,7 @@
 *   **Material:**
     *   **Silicon (Si):** Most common. Isolator in pure form. Crystalline structure (tetrahedral).
     *   **Germanium (Ge):** Older material. Higher leakage current, lower melting point.
-*   **Atomic Structure:** Semiconductor atoms have **4** valence electrons. They share electrons with neighbors to form a stable crystal lattice (8 shared electrons).
+*   **Atomic Structure:** Semiconductor atoms have **4** valence electrons. See [Atomic Theory](../01_electricity/01_atomic_theory.md). They share electrons with neighbors to form a stable crystal lattice (8 shared electrons).
 *   **Doping (Dotering):** Adding impurities to modify conductivity (~1 atom per 100 million).
     *   **N-type:** Doped with an element having **5** valence electrons (e.g., Phosphorus/Fosfor, Arsenic). Creates free **Electrons**.
     *   **P-type:** Doped with an element having **3** valence electrons (e.g., Boron/Borium, Indium). Creates **Holes** (Gaten) - vacancies where an electron is missing.
@@ -30,7 +30,7 @@ A two-terminal device containing one PN junction.
     *   Current is blocked (except for a tiny, temperature-dependent leakage current).
 
 ### Types & Characteristics
-*   **Rectifier Diode:** Converts AC to DC.
+*   **Rectifier Diode:** Converts AC to DC. See [Power Supply](../03_circuits/04_power_supply.md).
 *   **Zener Diode:**
     *   Designed to conduct in reverse breakdown (Avalanche/Zener effect) without damage.
     *   Used for voltage stabilization (acts as a constant voltage source).
@@ -72,3 +72,6 @@ Voltage-controlled device.
 | **Common Emitter/Source** | Base/Gate | Collector/Drain | Voltage & Current Gain. Phase Inverted ($180^\circ$). Most common. |
 | **Common Collector/Drain** (Follower) | Base/Gate | Emitter/Source | Voltage Gain $\approx 1$, High $Z_{in}$, Low $Z_{out}$. Buffer. |
 | **Common Base/Gate** | Emitter/Source | Collector/Drain | Voltage Gain, No Current Gain. Low $Z_{in}$. HF Amplifiers. |
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

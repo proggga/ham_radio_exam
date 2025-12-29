@@ -4,12 +4,12 @@
 The "Superhet" converts any incoming RF signal to a fixed **Intermediate Frequency (IF)** (Middenfrequent) before amplification and detection.
 
 ### Block Diagram
-1.  **RF Amplifier / Preselector:** Filters and amplifies the antenna signal. Improves Signal-to-Noise ratio and Image Rejection.
-2.  **Mixer (Mengtrap):** Combines RF with Local Oscillator.
-3.  **Local Oscillator (VFO/PLL):** Generates $f_{LO}$. Tuned so that $|f_{RF} \pm f_{LO}| = f_{IF}$.
-4.  **IF Filter:** Determines the main selectivity (Bandwidth) of the receiver.
-5.  **IF Amplifier:** Provides most of the receiver's gain at a fixed frequency.
-6.  **Detector:** Demodulates the signal.
+1.  **RF Amplifier / Preselector:** [Filters](../03_circuits/03_filters.md) and amplifies the antenna signal. Improves Signal-to-Noise ratio and Image Rejection.
+2.  **Mixer (Mengtrap):** Combines RF with Local Oscillator. See [Mixers](../03_circuits/06_detectors_oscillators.md).
+3.  **Local Oscillator (VFO/PLL):** Generates $f_{LO}$. Tuned so that $|f_{RF} \pm f_{LO}| = f_{IF}$. See [Oscillators](../03_circuits/06_detectors_oscillators.md).
+4.  **IF Filter:** Determines the main selectivity (Bandwidth) of the receiver. See [Filters](../03_circuits/03_filters.md).
+5.  **IF Amplifier:** Provides most of the receiver's gain at a fixed frequency. See [Amplifiers](../03_circuits/05_amplifiers.md).
+6.  **Detector:** Demodulates the signal. See [Detectors](03_detectors.md).
 7.  **Audio Amplifier:** Drives the speaker.
 
 ## 2. Image Frequency (Spiegelfrequentie)
@@ -27,3 +27,6 @@ If $f_{LO} = f_{RF} + f_{IF}$, then an unwanted signal at $f_{Image} = f_{LO} + 
 ## 3. Automatic Gain Control (AGC / AVR)
 Keeps the audio volume constant despite fading or differences in signal strength.
 *   **Operation:** A DC voltage derived from the detector (proportional to signal strength) is fed back to reduce the gain of RF and IF amplifiers.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

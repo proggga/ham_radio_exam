@@ -1,12 +1,12 @@
 # Resistors: Types and Codes
 
 ## 1. Types of Resistors
-*   **Fixed Resistors:** Value is constant.
+*   **Fixed Resistors:** Value is constant. See [Ohm's Law](../01_electricity/02_ohm_law.md).
     *   *Carbon Film:* Common, general purpose.
     *   *Metal Film:* Higher precision, lower noise.
     *   *Wirewound:* High power handling.
 *   **Variable Resistors:** Value can be adjusted.
-    *   *Potentiometer:* Three terminals (voltage divider). Used for volume control, etc.
+    *   **Potentiometer:** Three terminals (voltage divider). Used for volume control, etc. See [Voltage Divider](../03_circuits/01_reactive_combinations.md).
     *   *Rheostat:* Two terminals (variable resistance). Limits current.
 *   **Thermistors:** Temperature-dependent resistors.
     *   **NTC (Negative Temperature Coefficient):** Resistance **decreases** as temperature rises. (Used in sensing, inrush limiting).
@@ -51,3 +51,6 @@ Most axial resistors use a system of colored bands to indicate their resistance 
 Resistors are not made in every possible value. They follow logarithmic series (Renard series).
 *   **E12 Series (10%):** 10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82.
 *   **E24 Series (5%):** Higher resolution steps.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

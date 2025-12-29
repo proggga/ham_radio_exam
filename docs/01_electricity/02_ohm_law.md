@@ -4,7 +4,7 @@
 Current is the flow of electric charge.
 *   **Symbol:** $I$
 *   **Unit:** Ampere ($A$)
-*   **Definition:** $1 \text{ A} = 1 \text{ Coulomb per second} (C/s)$.
+*   **Definition:** $1 \text{ A} = 1 \text{ Coulomb per second} (C/s)$. See [Atomic Theory](01_atomic_theory.md) for Charge.
 *   **Formula:** $I = \frac{Q}{t}$ (Current = Charge / Time).
 
 ### Direction of Current
@@ -37,3 +37,6 @@ If you plot Current ($I$) on the Y-axis against Voltage ($U$) on the X-axis:
 *   For a fixed resistor, the result is a straight line through the origin.
 *   **Steep line:** Low resistance (Large current increase for small voltage increase).
 *   **Flat line:** High resistance (Small current increase for large voltage increase).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

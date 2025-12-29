@@ -17,7 +17,7 @@ A unique identifier for the station.
     *   **PI:** Special use (Repeaters, Beacons, Clubs, Events).
         *   *Example:* PI4... (Clubs), PI2.../PI3... (Repeaters).
 *   **Suffix:** 1 to 3 letters.
-    *   Prohibited: SOS, Q-codes (e.g., QRA-QUZ).
+    *   Prohibited: SOS, Q-codes (e.g., QRA-QUZ). See [Procedures](../11_procedures.md).
 
 ## 3. Operation
 *   **Identification:** Must transmit call sign at the start, end, and every 10 minutes during a transmission.
@@ -27,3 +27,6 @@ A unique identifier for the station.
     *   Novice visitors use **PD/**.
 *   **Operating Abroad:**
     *   With a Dutch registration (CEPT T/R 61-01), you can operate in many countries using their prefix before your call (e.g., DL/PA0ABC in Germany).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

@@ -6,11 +6,11 @@ The ability to receive weak signals.
 *   **Noise Figure (Ruisgetal, F):** Measure of how much noise the receiver adds.
     $$F = \frac{(S/N)_{in}}{(S/N)_{out}}$$
     *   Ideal receiver: $F = 1$ (0 dB).
-    *   **LNA (Low Noise Amplifier):** The first stage (RF Amp) is critical for system noise figure (Friis formula).
+    *   **LNA (Low Noise Amplifier):** The first stage (RF Amp) is critical for system noise figure (Friis formula). See [Amplifiers](../03_circuits/05_amplifiers.md).
 
 ## 2. Selectivity (Selectiviteit)
 The ability to separate the wanted signal from others.
-*   **Bandwidth:** Determined by IF filters (Crystal, Mechanical, Ceramic).
+*   **Bandwidth:** Determined by IF filters (Crystal, Mechanical, Ceramic). See [Filters](../03_circuits/03_filters.md).
 *   **Shape Factor:** Ratio of bandwidth at -60dB to -6dB. Ideal is 1:1.
     *   *Adjacent Channel Selectivity:* Ability to reject signals close to the receive frequency.
     *   *Image Rejection:* Ability to reject the image frequency (determined by RF front-end).
@@ -18,12 +18,15 @@ The ability to separate the wanted signal from others.
 ## 3. Dynamic Range
 The range between the noise floor and the signal level that causes distortion.
 *   **Blocking:** A very strong nearby signal desensitizes the receiver (gain compression).
-*   **Intermodulation (IMD):** Two strong signals ($f_1, f_2$) mix to create phantom signals ($2f_1 - f_2$, etc.).
+*   **Intermodulation (IMD):** Two strong signals ($f_1, f_2$) mix to create phantom signals ($2f_1 - f_2$, etc.). See [Interference](../09_interference/01_types.md).
     *   *IP3 (Third Order Intercept Point):* A theoretical figure of merit for IMD performance. Higher is better.
 
 ## 4. The S-Meter
 Indicates received signal strength.
 *   **Standard (HF):** **S9** corresponds to **50 $\mu V$** at the antenna input ($50 \Omega$).
-*   **Steps:** One S-unit = **6 dB** (Voltage ratio of 2).
+*   **Steps:** One S-unit = **6 dB** (Voltage ratio of 2). See [Decibels](../00_basic_skills.md).
     *   S8 = 25 $\mu V$.
     *   S9+20dB = 500 $\mu V$.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

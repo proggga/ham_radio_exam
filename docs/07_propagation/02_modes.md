@@ -7,7 +7,7 @@ The wave follows the curvature of the earth.
 *   **Range:** Depends on conductivity of the ground (Saltwater is best).
 
 ## 2. Sky Wave (Ruimtegolf)
-The wave refracts off the ionosphere and returns to earth.
+The wave refracts off the [Ionosphere](03_ionosphere.md) and returns to earth.
 *   **Frequency:** HF (3-30 MHz).
 *   **Mechanism:** Ionized layers in the upper atmosphere bend the wave.
 *   **Skip Distance:** The distance from the transmitter to where the first hop lands.
@@ -29,3 +29,6 @@ Direct wave between antennas.
 *   **Aurora:** Reflection off ionized sheets at the magnetic poles. Signals sound fluttery or "hisss-like". CW is best.
 *   **Meteor Scatter:** Reflection off ionized trails from meteors. Short bursts (pings).
 *   **EME:** Earth-Moon-Earth. Bouncing signals off the moon. High path loss (~250 dB).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

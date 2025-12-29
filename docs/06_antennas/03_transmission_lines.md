@@ -3,7 +3,7 @@
 ## 1. Types
 *   **Coaxial Cable (Asymmetric):**
     *   Structure: Inner conductor, Dielectric, Shield/Braid, Jacket.
-    *   Impedance ($Z_0$): Typically $50 \Omega$ (RG58, RG213) or $75 \Omega$ (TV coax).
+    *   Impedance ($Z_0$): Typically $50 \Omega$ (RG58, RG213) or $75 \Omega$ (TV coax). See [Impedance](../03_circuits/07_reactance_impedance.md).
     *   Shielding: Keeps RF inside, interference out.
 *   **Open Wire / Twin Lead (Symmetric):**
     *   Structure: Two parallel wires separated by spacers ("Ladder line" or "Kippenladder").
@@ -33,4 +33,7 @@ A transmission line can act as an impedance transformer depending on its length.
 Loss of signal strength as it travels through the line.
 *   Increases with **Frequency**.
 *   Increases with **Length**.
-*   Increases with **SWR** (Standing waves cause additional heat loss).
+*   Increases with **SWR** (Standing waves cause additional heat loss). See [Matching](04_matching.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

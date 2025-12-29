@@ -13,7 +13,7 @@ A measure of how well the load (antenna) is matched to the transmission line.
 
 ## 2. Baluns
 **Bal**anced to **Un**balanced transformer.
-*   **Purpose:** To connect a symmetric antenna (Dipole) to an asymmetric line (Coax).
+*   **Purpose:** To connect a symmetric antenna ([Dipole](01_types.md)) to an asymmetric line ([Coax](03_transmission_lines.md)).
 *   **Choke Balun (Mantelstroomfilter):**
     *   Coils of coax or Ferrite beads.
     *   **Function:** Stops current flowing on the *outside* of the coax shield (Common Mode Current).
@@ -30,4 +30,7 @@ Also called a Transmatch or Matchbox.
 A graphical tool used to plot impedance, SWR, and design matching networks.
 *   Center = $Z_0$ (Perfect match).
 *   Circles = Constant Resistance.
-*   Arcs = Constant Reactance.
+*   Arcs = Constant Reactance. See [Reactance](../03_circuits/07_reactance_impedance.md).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

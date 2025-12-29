@@ -41,15 +41,15 @@ Three-letter codes starting with Q. A question mark makes it a question.
 *   **QRG:** Frequency.
 *   **QRK:** Readability (1-5).
 *   **QRL:** Is the frequency busy?
-*   **QRM:** Man-made interference.
-*   **QRN:** Natural interference (Static).
+*   **QRM:** Man-made interference. See [Interference](09_interference/01_types.md).
+*   **QRN:** Natural interference (Static). See [Noise](01_electricity/10_ac_signals.md).
 *   **QRO:** High power.
 *   **QRP:** Low power.
 *   **QRT:** Closing down / Stop sending.
 *   **QRV:** Ready.
 *   **QRX:** Wait / Call back at...
 *   **QRZ:** Who is calling me?
-*   **QSB:** Fading.
+*   **QSB:** Fading. See [Propagation](07_propagation/03_ionosphere.md).
 *   **QSL:** Confirm receipt / Can you confirm.
 *   **QSO:** Radio contact.
 *   **QSY:** Change frequency.
@@ -58,7 +58,7 @@ Three-letter codes starting with Q. A question mark makes it a question.
 ## Abbreviations (CW/Digital)
 *   **BK:** Break (Back to you).
 *   **CQ:** General call (Seek You).
-*   **CW:** Continuous Wave (Morse).
+*   **CW:** Continuous Wave (Morse). See [Modulation](01_electricity/11_modulation.md).
 *   **DE:** From.
 *   **K:** Over (Invitation to transmit).
 *   **PSE:** Please.
@@ -95,3 +95,6 @@ Three-letter codes starting with Q. A question mark makes it a question.
   - **Suffix:** 1-3 letters.
   - **Foreign:** PA/Callsign (Visitor).
 - **DX Code of Conduct:** Split operation, listen first, don't call on DX freq.
+
+---
+[Back to Index](INDEX.md) | [Back to Dashboard](../README.md)

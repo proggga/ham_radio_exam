@@ -28,3 +28,6 @@ If you stretch a wire to **2x** its length:
 2.  Area $A$ halves ($0.5A$) (assuming volume stays constant).
 3.  New Resistance $R_{new} \propto \frac{2L}{0.5A} = 4 \times \frac{L}{A}$.
     *   **Result:** Resistance becomes **4x** higher.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

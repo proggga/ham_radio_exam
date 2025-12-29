@@ -1,12 +1,12 @@
 # Detectors (Demodulators)
 
 ## 1. AM Detection
-*   **Envelope Detector:** A simple Diode followed by an RC low-pass filter.
+*   **Envelope Detector:** A simple [Diode](../02_components/05_semiconductors.md) followed by an RC [low-pass filter](../03_circuits/03_filters.md).
 *   **Operation:** The diode rectifies the RF; the capacitor smooths the RF ripples, leaving the Audio envelope.
 
 ## 2. SSB and CW Detection
 Requires re-inserting the missing carrier.
-*   **Product Detector:** A mixer circuit.
+*   **Product Detector:** A [mixer](../03_circuits/06_detectors_oscillators.md) circuit.
 *   **BFO (Beat Frequency Oscillator):** Generates a local carrier at the IF frequency.
 *   **Mixing:** $f_{IF} \pm f_{BFO} = f_{Audio}$.
     *   *CW:* BFO is offset by ~800Hz to produce an audible tone.
@@ -16,5 +16,8 @@ Requires re-inserting the missing carrier.
 Converts frequency variations into voltage variations.
 *   **Discriminator (Foster-Seeley):** Sensitive to amplitude variations (needs a Limiter).
 *   **Ratio Detector:** Less sensitive to amplitude noise.
-*   **PLL Detector:** A Phase Locked Loop tracks the input frequency. The error voltage driving the VCO is the demodulated audio.
+*   **PLL Detector:** A [Phase Locked Loop](../03_circuits/06_detectors_oscillators.md) tracks the input frequency. The error voltage driving the VCO is the demodulated audio.
 *   **Limiter (Begrenzer):** An amplifier driven into saturation (clipping) placed before the FM detector. Removes AM noise (static/impulse noise).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

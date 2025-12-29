@@ -30,3 +30,6 @@ Radio waves are electromagnetic waves consisting of oscillating Electric ($E$) a
     *   *Horizontal:* E-field is horizontal.
     *   *Vertical:* E-field is vertical.
     *   *Circular:* E-field rotates.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

@@ -2,6 +2,7 @@
 
 ## 1. Function
 A transformer transfers electrical energy between two or more circuits through electromagnetic induction. It is used to transform Voltage, Current, and Impedance.
+*   Based on [Inductors](03_inductors.md) and mutual inductance.
 *   **Ideal Transformer:** $P_{in} = P_{out}$ (No losses).
 *   **Operating Principle:** A changing current in the primary winding creates a changing magnetic field, which induces a voltage in the secondary winding.
     *   *Note:* Transformers do **not** work with DC (Direct Current). A steady DC current creates a static magnetic field, which induces no voltage.
@@ -48,3 +49,6 @@ Real transformers are not 100% efficient.
     *   *Hysteresis:* Energy lost flipping the magnetic domains in the core material 50 times (or more) per second. Reduced by using soft iron or ferrite.
 3.  **Flux Leakage:** Magnetic field lines that escape the core and do not link the primary to the secondary.
 4.  **No-load Current (Nullaststroom):** Current that flows in the primary even with no load, due to the finite inductance of the primary coil (it acts as a choke).
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

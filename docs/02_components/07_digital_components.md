@@ -6,7 +6,7 @@ Components made of quartz that vibrate at a precise frequency (Piezoelectric eff
 *   **Types:**
     *   **AT-cut:** Standard cut for temperature stability.
     *   **TCXO:** Temperature Compensated Crystal Oscillator.
-    *   **OCXO:** Oven Controlled (Heated) Crystal Oscillator. Highest stability.
+    *   **OCXO:** Oven Controlled (Heated) Crystal Oscillator. Highest stability. See [Oscillators](../03_circuits/06_detectors_oscillators.md).
 
 ## 2. Digital Logic
 Circuits that process binary data (0s and 1s).
@@ -50,6 +50,7 @@ Circuits with memory (state); output depends on inputs and previous state.
     *   *Shift Register:* Bits move sideways on each clock pulse (Serial-to-Parallel conversion).
 *   **Counter:** A chain of flip-flops that counts clock pulses.
     *   Used for frequency division ($f_{out} = f_{in} / 2^n$) and timers.
+    *   Essential for [PLL](../03_circuits/06_detectors_oscillators.md#37-pll-phase-locked-loop) and [DSP](../01_electricity/12_dsp.md).
 
 ## 3. Number Systems
 *   **Binary (Tweetallig):** Base 2. Digits 0, 1.
@@ -59,3 +60,6 @@ Circuits with memory (state); output depends on inputs and previous state.
     *   $A = 10, F = 15$.
     *   $1F_{16} = 1\times16 + 15\times1 = 31_{10}$.
 
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)

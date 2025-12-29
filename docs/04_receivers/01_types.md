@@ -2,11 +2,11 @@
 
 ## 1. Crystal Receiver (Kristalontvanger)
 The simplest radio receiver.
-*   **Components:** Antenna, Tuning Circuit ($L+C$), Detector (Diode), Headphones.
+*   **Components:** [Antenna](../06_antennas/01_types.md), Tuning Circuit ($L+C$), [Detector](03_detectors.md) (Diode), Headphones.
 *   **Characteristics:** No amplification (passive), poor selectivity, powered solely by the RF signal.
 
 ## 2. Tuned Radio Frequency (TRF / Rechtuit)
-*   **Structure:** RF Amplifier -> Detector -> Audio Amplifier.
+*   **Structure:** [RF Amplifier](../03_circuits/05_amplifiers.md) -> [Detector](03_detectors.md) -> [Audio Amplifier](../03_circuits/05_amplifiers.md).
 *   **Pros:** Simple, sensitive.
 *   **Cons:** Poor selectivity at high frequencies. Instability (oscillations) if gain is too high on one frequency.
 
@@ -18,7 +18,10 @@ A TRF receiver with **Positive Feedback** (Meekoppeling).
 
 ## 4. Direct Conversion (DC / Homodyne)
 Mixes the incoming RF directly to Audio frequencies.
-*   **Local Oscillator (LO):** Tuned to the same frequency as the RF (or very close).
+*   **Local Oscillator (LO):** Tuned to the same frequency as the RF (or very close). See [Oscillators](../03_circuits/06_detectors_oscillators.md).
 *   **Mixing:** $f_{RF} - f_{LO} = f_{Audio}$.
 *   **Pros:** Simple architecture for SSB/CW. No Image Frequency problem (Images are at 0Hz or fold over into audio).
 *   **Cons:** Susceptible to hum, microphonics, and LO radiation.
+
+---
+[Back to Index](../INDEX.md) | [Back to Dashboard](../../README.md)
