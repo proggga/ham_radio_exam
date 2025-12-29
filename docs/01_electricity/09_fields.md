@@ -11,9 +11,11 @@ An electric field exists between two points with a potential difference (voltage
 *   **Shielding (Afscherming):** A conductive enclosure (**Faraday Cage**) blocks static electric fields.
 
 ## 2. Magnetic Field (Magnetisch Veld)
-A magnetic field is created by moving electric charges (current).
+A magnetic field is created by moving electric charges (current) or permanent magnets.
 *   **Source:** Current flowing through a wire or coil.
 *   **Direction:** Determined by the **Right-Hand Grip Rule** (Thumb = Current, Fingers = Field lines).
+*   **Permeability ($\mu$):** The ability of a material to conduct magnetic lines of force.
+    *   **Ferromagnetic materials** (Iron, Nickel, Cobalt) have high $\mu$.
 *   **Shielding:**
     *   Conductive materials (Copper/Aluminum) do **NOT** shield against static magnetic fields.
     *   High-permeability materials (e.g., **Mu-metal**, Soft Iron) are required to divert magnetic flux.

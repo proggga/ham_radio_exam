@@ -12,7 +12,10 @@ Amateur radio is a versatile hobby with many different aspects:
 A standard contact typically follows a structured format:
 1.  **Calling CQ:** A general call inviting anyone to reply (e.g., "CQ CQ CQ de PA0ABC").
 2.  **The Exchange:** Once contact is established, operators exchange:
-    *   **Signal Report (RST):** Readability (1-5), Strength (1-9), and Tone (1-9, CW only).
+    *   **Signal Report (RST):**
+        *   **R (Readability):** 1-5 (1=Unreadable, 5=Perfect).
+        *   **S (Strength):** 1-9 (Signal strength, S9 is strong).
+        *   **T (Tone):** 1-9 (CW only, 9=Perfect sine wave).
     *   **Name & QTH:** The operator's name and location (often including the **Maidenhead Grid Locator**).
 3.  **Closing:** The contact ends with "73" (Best Regards).
 
@@ -24,21 +27,48 @@ A **QSL card** is a written confirmation of a radio contact.
 ## Listening (WebSDR)
 You don't need a transmitter to learn procedures. **WebSDR** sites (like the University of Twente's receiver) allow anyone to listen to amateur bands via a web browser, which is an excellent way to become familiar with QSO formats and band activity.
 
-- **Phonetic Alphabet:** Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.
-- **Q-Codes:**
-  - **QRG:** Frequency.
-  - **QRK:** Readability (1-5).
-  - **QRM:** Man-made interference.
-  - **QRN:** Natural interference (Static).
-  - **QRO:** High power.
-  - **QRP:** Low power.
-  - **QRT:** Closing down.
-  - **QRV:** Ready.
-  - **QRX:** Wait / Call back at...
-  - **QRZ:** Who is calling me?
-  - **QSB:** Fading.
-  - **QSL:** Confirm receipt / Can you confirm.
-  - **QSO:** Radio contact.
+## Phonetic Alphabet
+Used to spell out call signs and names clearly.
+*   **A-E:** Alfa, Bravo, Charlie, Delta, Echo.
+*   **F-J:** Foxtrot, Golf, Hotel, India, Juliett.
+*   **K-O:** Kilo, Lima, Mike, November, Oscar.
+*   **P-T:** Papa, Quebec, Romeo, Sierra, Tango.
+*   **U-Z:** Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.
+
+## Q-Codes
+Three-letter codes starting with Q. A question mark makes it a question.
+*   **QRA:** Name of station.
+*   **QRG:** Frequency.
+*   **QRK:** Readability (1-5).
+*   **QRL:** Is the frequency busy?
+*   **QRM:** Man-made interference.
+*   **QRN:** Natural interference (Static).
+*   **QRO:** High power.
+*   **QRP:** Low power.
+*   **QRT:** Closing down / Stop sending.
+*   **QRV:** Ready.
+*   **QRX:** Wait / Call back at...
+*   **QRZ:** Who is calling me?
+*   **QSB:** Fading.
+*   **QSL:** Confirm receipt / Can you confirm.
+*   **QSO:** Radio contact.
+*   **QSY:** Change frequency.
+*   **QTH:** Location.
+
+## Abbreviations (CW/Digital)
+*   **BK:** Break (Back to you).
+*   **CQ:** General call (Seek You).
+*   **CW:** Continuous Wave (Morse).
+*   **DE:** From.
+*   **K:** Over (Invitation to transmit).
+*   **PSE:** Please.
+*   **R:** Received / Roger.
+*   **RX / TX:** Receiver / Transmitter.
+*   **UR:** Your.
+*   **73:** Best regards.
+*   **88:** Love and kisses.
+*   **AR:** End of transmission (prosign).
+*   **SK:** End of contact / Silent Key (deceased) (prosign).
   - **QSY:** Change frequency.
   - **QTH:** Location.
 - **Abbreviations:**

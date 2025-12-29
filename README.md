@@ -164,182 +164,47 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Filters:** Anti-alias filter (before ADC) and Reconstruction filter (after DAC).
 
 
-## [Eindterm 2: Components (Componenten)](docs/02_components.md)
+## [Eindterm 2: Components (Componenten)](docs/02_components/)
 
-### 2.1 Resistor (Weerstand)
+### [2.1 Resistor (Weerstand)](docs/02_components/01_resistors.md)
 - [ ] **Function:** Limits current, dissipates heat.
 - [ ] **Unit:** Ohm.
-- [ ] **Types:**
-  - [ ] **Fixed:** Carbon film, Metal film, Wirewound (Draadgewonden).
-  - [ ] **Variable:** Potentiometer (Voltage divider), Rheostat (Variable resistor).
-  - [ ] **Thermistors:** NTC (Negative Temp Coeff - R drops as T rises), PTC (Positive Temp Coeff).
-- [ ] **Color Code (Kleurcode):** Rings indicating value and tolerance (e.g., Black=0, Brown=1, Red=2... Gold/Silver=Tolerance).
-- [ ] **Tolerance:** Accuracy.
-- [ ] **Dissipation:** Max power rating (P = I^2 * R).
+- [ ] **Types:** Fixed, Variable, Thermistors (NTC/PTC).
+- [ ] **Color Code:** 4-band code for value and tolerance.
+- [ ] **E-Series:** Standard values (E12, E24).
 
-### 2.2 Capacitor (Condensator)
-- [ ] **Function:** Stores charge in electric field. Blocks steady-state DC, but passes DC during charging/discharging (transient). Passes AC.
-- [ ] **Unit:** Farad (F). 1 F = 1 Coulomb / Volt.
-- [ ] **Factors:** Area of plates (A), distance (d), Dielectric constant.
-  - [ ] **epsilon_r (Relative Permittivity):** Dielectric constant (Vacuum=1, Air≈1, others >1).
-- [ ] **Reactance (Xc):** Opposition to AC decreases as frequency rises.
-- [ ] **Phase:** Current **leads** Voltage by 90 degrees (ICE).
-- [ ] **Breakdown Voltage:** Max voltage before dielectric fails.
-- [ ] **Energy Stored:** W = 1/2 * C * U^2.
-- [ ] **Types:**
-  - [ ] **Ceramic:** General purpose, RF.
-  - [ ] **Electrolytic:** High capacity, Polarized (!).
-  - [ ] **Tantalum:** High capacity, Polarized.
-  - [ ] **Film:** Stable.
-  - [ ] **Mica:** High stability.
+### [2.2 Capacitor (Condensator)](docs/02_components/02_capacitors.md)
+- [ ] **Function:** Stores charge in electric field.
+- [ ] **Formula:** C depends on Area, Distance, Dielectric.
+- [ ] **Reactance (Xc):** 1 / (2pi f C).
+- [ ] **Types:** Ceramic, Electrolytic (Polarized), Variable.
 
-### 2.3 Inductor / Coil (Spoel)
-- [ ] **Function:** Stores energy in magnetic field. Blocks changes in current (not AC per se). Passes DC (Short circuit at steady state).
-- [ ] **Unit:** Henry (H).
-- [ ] **Factors:** Turns (N^2), Core material (permeability mu), dimensions.
-- [ ] **Self-Induction (Zelfinductie):** Changing current creates changing magnetic field, inducing Back EMF.
-- [ ] **Lenz's Law:** Induced voltage opposes the change in current.
-- [ ] **Reactance (Xl):** Opposition to AC increases as frequency rises.
-- [ ] **Phase:** Voltage **leads** Current by 90 degrees (ELI).
-- [ ] **Q-Factor:** Quality of a resonant circuit.
-  - [ ] **Series LC:** Q = Xl / R_series (Voltage magnification).
-  - [ ] **Parallel LC:** Q = R_parallel / Xl (Current magnification).
-  - [ ] **Bandwidth:** B = f_res / Q.
-- [ ] **Skin Effect (Huideffect):** HF current flows on the surface of the conductor. Increases resistance.
-  - [ ] Mitigation: Silver plating, Litz wire (Litzedraad).
-- [ ] **Energy Stored:** W = 1/2 * L * I^2.
-- [ ] **Mutual Inductance (M):** Coupling between two coils. M = k * sqrt(L1 * L2), where k = coupling coefficient (0 to 1).
+### [2.3 Inductor / Coil (Spoel)](docs/02_components/03_inductors.md)
+- [ ] **Function:** Stores energy in magnetic field.
+- [ ] **Self-Induction:** Back EMF opposes current change (Lenz).
+- [ ] **Reactance (Xl):** 2pi f L.
+- [ ] **Factors:** Turns squared (N^2), Core material (mu).
 
-### 2.4 Transformers (Transformatoren)
-- [ ] **Function:** Transform Voltage/Current/Impedance using magnetic coupling.
-- [ ] **Ideal Transformer:** Power In = Power Out (P_prim = P_sec).
-- [ ] **Formulas:**
-  - [ ] Voltage: U_sec / U_prim = N_sec / N_prim (Directly proportional to turns).
-  - [ ] Current: I_sec / I_prim = N_prim / N_sec (Inversely proportional to turns).
-  - [ ] Impedance: Z_prim = Z_sec * (N_prim / N_sec)^2 (Square of turns ratio).
-- [ ] **Construction:**
-  - [ ] **Core Material:**
-    - [ ] **Laminated Iron (Weekijzer):** Low frequency (Mains, Audio). Reduces Eddy currents.
-    - [ ] **Ferrite / Powdered Iron:** High frequency (RF). Low losses at HF.
-    - [ ] **Toroid (Ringkern):** Closed magnetic loop, self-shielding (low leakage flux).
-- [ ] **Autotransformer (Autotransformator):** Single winding with a tap. Lighter/smaller but **NO** galvanic isolation (unsafe for mains).
-- [ ] **Losses (Verliezen):**
-  - [ ] **Copper Loss:** Resistance of the wire (I^2 * R). Mitigated by thicker wire.
-  - [ ] **Iron Loss:**
-    - [ ] **Eddy Currents (Wervelstromen):** Circulating currents in core -> Heat. Mitigated by laminated core (lamellen).
-    - [ ] **Hysteresis:** Energy lost reversing magnetic domains. Mitigated by soft iron/ferrite.
-  - [ ] **Flux Leakage (Spreidingsverliezen):** Magnetic lines not linking both coils.
-  - [ ] **No-load Current (Nullaststroom):** Current flowing in primary when secondary is open (due to finite inductance and losses).
-- [ ] **High Frequency (HF) Transformers:**
-  - [ ] **Skin Effect:** Current flows on outer surface. Mitigated by Silver plating or Litz wire (multistrand insulated wire).
-  - [ ] **Core:** Ferrite or Powdered Iron (Poederijzer). No solid iron.
+### [2.4 Transformers (Transformatoren)](docs/02_components/04_transformers.md)
+- [ ] **Ratio:** Voltage proportional to turns; Impedance proportional to turns squared.
+- [ ] **Cores:** Laminated iron (LF), Ferrite/Toroid (HF).
+- [ ] **Losses:** Eddy currents, Hysteresis, Copper loss.
 
-### 2.5 Diode (Diode)
-- [ ] **Semiconductor Theory:**
-  - [ ] **Doping:** N-type (excess electrons), P-type (excess holes).
-  - [ ] **PN Junction:** Boundary between P and N. Forms Depletion Zone (Uitputtingszone).
-- [ ] **Operation:**
-  - [ ] **Forward Bias (Doorlaat):** Anode +, Cathode -. Conducts if U > Threshold (Drempel).
-    - [ ] Silicon: ~0.6 - 0.7 V.
-    - [ ] Germanium: ~0.2 - 0.3 V.
-  - [ ] **Reverse Bias (Sper):** Anode -, Cathode +. Blocks current (small leakage).
-- [ ] **Types & Uses:**
-  - [ ] **Rectifier (Gelijkrichter):** Converts AC to DC.
-    - [ ] **Half-wave (Enkelzijdig):** Uses 1 diode.
-    - [ ] **Full-wave (Dubbelzijdig):** Uses 4 diodes (Bridge) or 2 diodes (Center-tapped transformer).
-  - [ ] **Zener:** Used in reverse breakdown. Voltage stabilisation and reference circuits.
-    - [ ] **Zener Effect:** < 5V. Quantum tunneling. Negative Temp Coeff (Voltage drops as Temp rises).
-    - [ ] **Avalanche Effect:** > 5V. Impact ionization. Positive Temp Coeff (Voltage rises as Temp rises).
-  - [ ] **Varicap (Capaciteitsdiode):** Reverse biased. Depletion zone acts as dielectric.
-    - [ ] Higher Voltage -> Wider Depletion Zone -> Lower Capacitance.
-  - [ ] **LED:** Light Emitting Diode. Forward biased.
-    - [ ] Material: Gallium-Arsenide (GaAs) etc.
-    - [ ] Color depends on band gap energy.
-  - [ ] **Schottky:** Low forward voltage drop (~0.2V), fast switching. Metal-semiconductor junction.
-  - [ ] **PIN Diode:** Intrinsic layer between P and N. Used as RF switch or variable resistor.
-- [ ] **Dissipation:** P = U_diode * I_forward.
+### [2.5 Semiconductors (Halfgeleiders)](docs/02_components/05_semiconductors.md)
+- [ ] **Diodes:** Rectifier, Zener, Varicap, LED.
+- [ ] **Transistors:**
+  - [ ] **BJT:** NPN/PNP. Current controlled.
+  - [ ] **FET:** JFET/MOSFET. Voltage controlled. High Input Z.
+- [ ] **Configurations:** Common Emitter/Source (Gain), Follower (Buffer).
 
-### 2.6 Transistor (Transistor)
-- [ ] **Bipolar (BJT - NPN/PNP):** Current amplifier (Ic = Beta * Ib).
-  - [ ] **Beta (hFE):** Current gain factor (Ic / Ib).
-- [ ] **FET (Field Effect Transistor):** Voltage amplifier (Gate voltage controls Drain current). High input impedance.
-  - [ ] **JFET:** Junction FET (N-channel/P-channel). Reverse biased PN junction.
-    - [ ] **Steepness (Steilheid, S):** Change in Id / Change in Ugs (mA/V).
-    - [ ] **Pinch-off:** Voltage where current stops.
-  - [ ] **MOSFET:** Metal Oxide Semiconductor. Insulated gate (very high Z).
-    - [ ] **Dual-gate:** Used for mixing or gain control (like a Tetrode/Pentode).
-- [ ] **Configurations:**
-  - [ ] **Common Emitter (BJT) / Source (FET):** Voltage and Current gain. Phase inversion (180 deg).
-  - [ ] **Common Collector / Drain (Follower):** High Input Z, Low Output Z. No voltage gain. Buffer.
-  - [ ] **Common Base / Gate:** Low Input Z, High Output Z. HF amps.
+### [2.6 Active Components (Actieve Componenten)](docs/02_components/06_active_components.md)
+- [ ] **Vacuum Tubes:** Triode, Tetrode, Pentode.
+- [ ] **Op-Amps:** High gain, differential input. Inverting/Non-inverting modes.
 
-### 2.7 Other Components (Overige componenten)
-- [ ] **Vacuum Tubes (Buizen):**
-  - [ ] **Triode:** Anode, Cathode, Control Grid (Stuurrooster). Voltage amplifier.
-  - [ ] **Tetrode:** Adds Screen Grid (Schermrooster) to reduce Anode-Grid capacitance.
-  - [ ] **Pentode:** Adds Suppressor Grid (Vangrooster/Remrooster) to prevent secondary emission. High gain.
-- [ ] **Operational Amplifiers (Op-amps):**
-  - [ ] **Characteristics:** Very high gain (open loop), high input Z, low output Z. Differential input (+ and -).
-  - [ ] **Feedback (Tegenkoppeling):** Essential for linear operation.
-  - [ ] **Configurations:**
-    - [ ] **Inverting:** Signal to (-) input. Phase shift 180 deg.
-      - [ ] Gain A = -R_feedback / R_input.
-    - [ ] **Non-inverting:** Signal to (+) input. Phase shift 0 deg.
-      - [ ] Gain A = 1 + (R_feedback / R_ground).
-    - [ ] **Voltage Follower (Buffer):** Output connected to (-) input. Gain = 1. High Zin, Low Zout.
-    - [ ] **Comparator:** No feedback. Output swings to rail.
-- [ ] **Digital Logic (Digitale techniek):**
-  - [ ] **Number Systems:**
-    - [ ] **Binary (Tweetallig):** 0 and 1 (Bits). 8 bits = 1 Byte.
-    - [ ] **Hexadecimal (Zestientallig):** 0-9, A-F. (A=10, ... F=15).
-  - [ ] **Logic Gates (Poorten):**
-    - [ ] **AND (EN):** Output 1 if ALL inputs 1.
-    - [ ] **OR (OF):** Output 1 if AT LEAST one input 1.
-    - [ ] **NOT (NIET):** Inverter. 1 becomes 0, 0 becomes 1.
-    - [ ] **NAND (NEN):** NOT-AND. Output 0 only if ALL inputs 1.
-    - [ ] **NOR (NOF):** NOT-OR. Output 1 only if ALL inputs 0.
-    - [ ] **XOR (EXOF):** Exclusive OR. Output 1 if inputs are DIFFERENT.
-    - [ ] **XNOR (EXNOF):** Output 1 if inputs are SAME.
-  - [ ] **Boolean Algebra (Schakelalgebra):**
-    - [ ] **De Morgan:** NAND = OR with inverted inputs; NOR = AND with inverted inputs.
-  - [ ] **Sequential Logic:**
-    - [ ] **Flip-flops:**
-      - [ ] **RS:** Set/Reset. Undefined if R=1 and S=1.
-      - [ ] **D (Data):** Transmits input to output on clock edge (Flankgestuurd).
-      - [ ] **JK:** Like RS but J=1 K=1 toggles output.
-    - [ ] **Registers:** Series of flip-flops to store bytes.
-    - [ ] **Counters:** Divide clock frequency.
-  - [ ] **Combinational Logic:**
-    - [ ] **Adders:** Half Adder (2 bits), Full Adder (3 bits including carry).
-    - [ ] **Parity:** Error detection bit (Even/Odd).
-- [ ] **Crystals (Kristallen):**
-  - [ ] **Stability Types:**
-    - [ ] **AT-cut:** Most common.
-    - [ ] **TCXO:** Temperature Compensated Crystal Oscillator.
-    - [ ] **OCXO:** Oven Controlled Crystal Oscillator.
-
-
-## [Eindterm 3: Circuits (Schakelingen)](docs/03_circuits.md)
-
-### 3.1 Combinations (Combinatie van componenten)
-- [ ] **Resistors:**
-  - [ ] **Series:** R_total = R1 + R2. (Voltage divides, Current same).
-  - [ ] **Parallel:** 1/R_total = 1/R1 + 1/R2. (Current divides, Voltage same).
-    - [ ] Formula (2 resistors): R_total = (R1 * R2) / (R1 + R2).
-    - [ ] **Equal Resistors:** R_total = R / n.
-  - [ ] **Voltage Divider:** U_out = U_in * R2 / (R1 + R2).
-  - [ ] **Wheatstone Bridge:** Measuring unknown resistance.
-    - [ ] Balance condition: R1 / R2 = Rx / R3.
-- [ ] **Capacitors:**
-- [ ] **Inductors:**
-- [ ] **Time Constants (tau):**
-  - [ ] RC Circuit: tau = R * C (Time to charge to 63%).
-  - [ ] RL Circuit: tau = L / R.
-  - [ ] **Full Charge/Discharge:** 5 * tau (~99%).
-- [ ] **Impedance (Z):** Vector sum of Resistance (R) and Reactance (X).
-  - [ ] Series RC/RL: Z = sqrt(R^2 + X^2)
-  - [ ] Parallel RC/RL: 1/Z = sqrt((1/R)^2 + (1/X)^2)
-
+### [2.7 Digital & Crystals](docs/02_components/07_digital_components.md)
+- [ ] **Logic Gates:** AND, OR, NOT, NAND, NOR, XOR.
+- [ ] **Flip-flops:** Memory elements.
+- [ ] **Crystals:** Piezoelectric effect. High stability (TCXO, OCXO).
 
 ### 3.2 Analogue Filters (Analoge filters)
 - [ ] **Resonant Circuits (LC):**
@@ -443,244 +308,180 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **IIR (Infinite Impulse Response):** Feedback used, potential instability, acts like analog filter.
 
 
-## [Eindterm 4: Receivers (Ontvangers)](docs/04_receivers.md)
-- [ ] **Types:**
-  - [ ] **Crystal Receiver:** Diode detector, no gain, poor selectivity.
-  - [ ] **TRF (Rechtuit):** RF Amp + Detector + Audio Amp. Improved sensitivity but poor selectivity at high freq.
-  - [ ] **Regenerative (Mexicaanse Hond):** Positive feedback to increase Q and gain. Risk of radiation.
-  - [ ] **Direct Conversion (DC / Homodyne):** Mixes RF directly to Audio (Local Oscillator = RF frequency). Simple, sensitive, but prone to hum and microphonics.
-  - [ ] **Superheterodyne:** Mixes RF to fixed IF.
-    - [ ] **IF Trade-offs:** Higher IF = Better Image Rejection; Lower IF = Better Selectivity.
-    - [ ] **Double Conversion (Dubbelsuper):** Uses two IFs.
-      - [ ] **1st IF (High):** Good Image Rejection (Veraf-selectiviteit).
-        - [ ] **Image Rejection Ratio (dB):** Measure of front-end quality.
-      - [ ] **2nd IF (Low):** Good Adjacent Channel Selectivity (Nabij-selectiviteit).
-- [ ] **Key Concepts:**
-  - [ ] **Sensitivity:** Signal input for specific S/N ratio. Limited by Noise Figure (F).
-  - [ ] **Selectivity:** Bandwidth/Shape factor. Determined by IF filters (Crystal, Mechanical, LC).
-  - [ ] **Dynamic Range:** Ability to handle strong signals without distortion (Blocking, Intermodulation).
-  - [ ] **AGC (Automatic Gain Control):** Feedback from detector to IF/RF amps to stabilize volume.
-  - [ ] **Squelch:** Mutes audio when no signal present (noise gate).
-  - [ ] **Clarifier / RIT:** Receiver Incremental Tuning. Fine-tunes RX freq independent of TX.
-  - [ ] **S-Meter:** Indicates signal strength (S9 = 50uV < 30MHz; 5uV > 30MHz).
-    - [ ] Above S9: dB scale (S9+10dB, S9+20dB).
-  - [ ] **Noise Figure (Ruisgetal, F):** F = (S_in/N_in) / (S_out/N_out). Ideal F=1 (0dB).
-- [ ] **Detectors:**
-  - [ ] **AM:** Envelope detector (Diode + RC low pass).
-  - [ ] **SSB/CW:** Product Detector (mixes signal with BFO - Beat Frequency Oscillator).
-  - [ ] **FM:** Discriminator (Ratio detector) or PLL. Requires Limiter (Begrenzer) to remove AM noise.
+## [Eindterm 3: Circuits (Schakelingen)](docs/03_circuits/)
+
+- [ ] **Series/Parallel:** Formulas for R, C, and L.
+- [ ] **Voltage Divider:** Potentiometer principles.
+
+### [3.2 Time Constants (Tijdconstanten)](docs/03_circuits/02_time_constants.md)
+- [ ] **RC and RL:** Tau = RC or L/R.
+- [ ] **Charge/Discharge:** 63% at 1 Tau.
+
+### [3.3 Filters](docs/03_circuits/03_filters.md)
+- [ ] **Types:** LPF, HPF, BPF, Notch.
+- [ ] **LC Circuits:** Series (Acceptor) vs Parallel (Rejector).
+- [ ] **Selectivity:** Q-factor, Crystal/Mechanical filters.
+
+### [3.4 Power Supply (Voeding)](docs/03_circuits/04_power_supply.md)
+- [ ] **Rectification:** Half-wave, Full-wave, Bridge.
+- [ ] **Smoothing:** Reservoir capacitor.
+- [ ] **Stabilisation:** Zener, Linear regulator, SMPS (Switch mode).
+
+### [3.5 Amplifiers (Versterkers)](docs/03_circuits/05_amplifiers.md)
+- [ ] **Classes:** A, B, AB, C. Efficiency vs Linearity.
+- [ ] **Feedback:** Negative (Stability) vs Positive (Oscillation).
+- [ ] **Distortion:** Harmonic, Intermodulation.
+
+### [3.6 Detectors & Oscillators](docs/03_circuits/06_detectors_oscillators.md)
+- [ ] **Oscillators:** Hartley, Colpitts, Crystal, VCO.
+- [ ] **Detectors:** Envelope (AM), Product (SSB/CW), Discriminator (FM).
+- [ ] **Mixers:** Sum and Difference frequencies. Image frequency.
+- [ ] **PLL:** Phase Locked Loop for synthesis.
 
 
-## [Eindterm 5: Transmitters (Zenders)](docs/05_transmitters.md)
-- [ ] **Architecture:**
-  - [ ] **CW:** Keying the carrier buffer.
-  - [ ] **SSB:** Audio -> Balanced Modulator (creates DSB) -> Sideband Filter (selects USB/LSB) -> Mixer (to RF) -> PA.
-  - [ ] **FM:** Audio -> Reactance Modulator (VCO) -> Multipliers -> PA.
-  - [ ] **VOX:** Voice Operated Switch. Automatic TX/RX switching.
-  - [ ] **Speech Processor:** Increases average power without increasing PEP.
-  - [ ] **ALC:** Automatic Level Control. Prevents overdriving PA.
-- [ ] **Power Amplifier (PA):**
-  - [ ] **Linearity:** Crucial for SSB/AM to avoid splattering (Intermodulation Distortion).
-  - [ ] **Low Pass Filter:** At output to suppress Harmonics.
-- [ ] **Interference:**
-  - [ ] **Chirp:** Unstable oscillator during keying.
-  - [ ] **Key Clicks:** Rise/fall time too fast.
-  - [ ] **Overmodulation:** Causes splatter (bandwidth spread).
+## [Eindterm 4: Receivers (Ontvangers)](docs/04_receivers/)
+
+### [4.1 Receiver Types (Ontvangertypen)](docs/04_receivers/01_types.md)
+- [ ] **TRF (Rechtuit):** Simple, poor selectivity.
+- [ ] **Regenerative:** High gain/selectivity, unstable.
+- [ ] **Direct Conversion:** Simple for SSB/CW, audio issues.
+
+### [4.2 Superheterodyne](docs/04_receivers/02_superheterodyne.md)
+- [ ] **Mixing:** RF + LO = IF.
+- [ ] **Image Frequency:** Major disadvantage.
+- [ ] **Double Conversion:** High 1st IF (Image), Low 2nd IF (Selectivity).
+- [ ] **AGC:** Automatic Gain Control.
+
+### [4.3 Detectors (Detectoren)](docs/04_receivers/03_detectors.md)
+- [ ] **AM:** Envelope detector.
+- [ ] **SSB/CW:** Product detector (needs BFO).
+- [ ] **FM:** Discriminator, Ratio Detector, PLL.
+
+### [4.4 Performance (Prestaties)](docs/04_receivers/04_performance.md)
+- [ ] **Sensitivity:** SINAD, Noise Figure.
+- [ ] **Selectivity:** Bandwidth, Shape Factor.
+- [ ] **Dynamic Range:** Blocking, Intermodulation (IP3).
+- [ ] **S-Meter:** S9 = 50 uV.
 
 
-## [Eindterm 6: Antennas and Transmission Lines (Antennes en transmissielijnen)](docs/06_antennas.md)
+## [Eindterm 5: Transmitters (Zenders)](docs/05_transmitters/)
 
-### 6.1 Antenna Types (Antennetypen)
-- [ ] **Isotropic Radiator (Isotrope straler):** Theoretical point source radiating equally in all directions (Sphere). 0 dBi.
-- [ ] **Dipole:** Total length approx half-wavelength (1/2 lambda). Impedance approx 73 Ohm (free space).
-  - [ ] **Voltage/Current:** Low Voltage / High Current at center (Low Z). High Voltage / Low Current at ends (High Z).
-  - [ ] **Velocity Factor:** Actual length slightly shorter (x 0.95 or 0.98).
-  - [ ] **Inverted V:** Center elevated, ends drooping. Lower radiation angle, less space.
-  - [ ] **Trap Dipole:** Uses LC traps for multiband operation.
-  - [ ] **Folded Dipole:** Impedance approx 300 Ohm. Bandwidth wider than simple dipole.
-- [ ] **Ground Plane (GP):** Quarter-wave vertical element + radials. Impedance approx 36 Ohm (horiz. radials) to 50 Ohm (drooping radials). Omni-directional. Vertically polarised.
-- [ ] **Vertical Monopole:** Quarter-wave with ground plane acting as mirror (creates image).
-- [ ] **Loop Antenna:** Small loop (< lambda/10, low R_rad), Large loop (~1 lambda, efficient).
-- [ ] **Yagi-Uda:** Beam antenna. Driven element + Reflector (approx 5% longer) + Directors (approx 5% shorter). High Gain, high Front-to-Back ratio.
-- [ ] **End-fed (Zepp):** Voltage fed (High Z). Requires tuner or transformer (1:49 or 1:64 typical).
-- [ ] **Dummy Load (Kunstantenne):** Non-radiating 50 Ohm resistor (Carbon, not wirewound) for testing.
+### [5.1 Architecture (Opbouw)](docs/05_transmitters/01_architecture.md)
+- [ ] **CW:** Oscillator -> Buffer -> PA.
+- [ ] **FM:** VCO (Direct) or Phase Mod (Indirect). Multipliers.
+- [ ] **SSB:** Audio -> Bal Mod -> Filter -> Mixer -> PA.
+- [ ] **Controls:** VOX, ALC, Speech Processing.
 
-### 6.2 Properties (Antenne-eigenschappen)
-- [ ] **Velocity Factor (Antennas):** Physical length = lambda * VF.
-  - [ ] Relevant for: End-fed, Coax-loaded antennas, Traps.
-- [ ] **Reciprocity:** Antenna characteristics are identical for TX and RX.
-- [ ] **Gain:**
-  - [ ] **dBi:** Gain vs Isotropic radiator.
-  - [ ] **dBd:** Gain vs Dipole. (dBd = dBi - 2.15).
-  - [ ] **ERP (Effective Radiated Power):** Power relative to a Dipole. P_out - Losses + Gain(dBd).
-  - [ ] **EIRP:** Power relative to Isotropic. P_out - Losses + Gain(dBi).
-  - [ ] **Radiation Resistance (R_rad):** Equivalent resistance representing radiated power.
-    - [ ] Low R_rad -> Poor efficiency (Short antennas).
-  - [ ] **Efficiency:** eta = R_rad / (R_rad + R_loss).
-- [ ] **Front-to-Back Ratio (Voor-achter verhouding):** Ratio of signal strength front vs back (in dB).
-- [ ] **Beamwidth:** Angle between -3dB (half power) points on main lobe.
-- [ ] **Near Field vs Far Field:**
-  - [ ] **Near Field:** Reactive zone close to antenna. E and H fields not orthogonal.
-  - [ ] **Far Field:** Radiating zone. Starts at approx 2 * D^2 / lambda (where D is antenna dimension).
-
-### 6.3 Transmission Lines (Transmissielijnen)
-- [ ] **Coaxial Cable:** Asymmetric (Unbalanced). Core + Shield. (RG58, RG213). Z0 = 50 Ohm or 75 Ohm.
-  - [ ] **Velocity Factor (Verkortingsfactor, VF):** Speed of signal in cable / c.
-    - [ ] Solid PE (Polyethylene): VF approx 0.66.
-    - [ ] Foam PE: VF approx 0.80 - 0.82.
-  - [ ] **Air/PTFE:** VF higher (>0.9).
-  - [ ] **Skin Depth:** delta = sqrt(2 * rho / (omega * mu)). Depth where current falls to 37%.
-  - [ ] **Attenuation:** Increases with frequency and SWR.
-- [ ] **Open Wire (Kippenladder):** Symmetric (Balanced). Low loss. Z0 approx 300-600 Ohm. High VF (~0.95).
-- [ ] **Impedance Transformation:**
-  - [ ] **1/4 wave line:** Inverts impedance (Short -> Open, Open -> Short). Transformer: Z_in * Z_out = Z0^2.
-  - [ ] **1/2 wave line:** Repeats impedance. Inverts phase.
-- [ ] **Balun:** **Bal**anced to **Un**balanced.
-  - [ ] **Choke Balun:** Mantelstroomfilter (Ferrite beads/coils).
-    - [ ] Stops **Common-mode current** on outside of coax shield.
-    - [ ] Causes: RF in shack, Pattern distortion, EMC issues.
-  - [ ] **Transformer Balun:** 1:1 (Isolation), 1:4 (Impedance up/down).
-- [ ] **SWR (Standing Wave Ratio):** Ratio of V_max / V_min on the line.
-  - [ ] **SWR = 1:** Perfect match (Z_load = Z0). No reflection.
-  - [ ] **Formula:** SWR = (1 + |Gamma|) / (1 - |Gamma|), where Gamma = (Z_L - Z0) / (Z_L + Z0).
-  - [ ] **Power Loss:** Depends on both SWR and Line Loss.
-  - [ ] **Return Loss:** Power reflected (dB). High return loss = Good match.
-  - [ ] **Antenna Tuner (ATU):** Matches Transmitter to Feeder. **Does NOT fix SWR on the feeder line.** Only makes the TX happy.
-- [ ] **Smith Chart:** Graphical impedance matching tool.
-  - [ ] **Uses:** SWR visualization, Stub matching, Complex impedance transformation.
+### [5.2 Power Amplifiers (Eindtrappen)](docs/05_transmitters/02_power_amplifiers.md)
+- [ ] **Linearity:** Required for SSB/AM (Class A/AB).
+- [ ] **Efficiency:** Class C for FM/CW.
+- [ ] **Filtering:** LPF to suppress harmonics.
+- [ ] **Matching:** ATU.
 
 
-## [Eindterm 7: Propagation (Propagatie)](docs/07_propagation.md)
-- [ ] **Basics:**
-  - [ ] **Velocity:** c = 300,000 km/s.
-  - [ ] **Wavelength:** lambda = c / f.
-  - [ ] **Polarisation:** Defined by E-field vector (Horizontal/Vertical).
+## [Eindterm 6: Antennas and Transmission Lines (Antennes en transmissielijnen)](docs/06_antennas/)
 
-### 7.1 HF (High Frequency 3-30 MHz)
-- [ ] **Ground Wave (Grondgolf/Bodemgolf):** Follows earth curvature. Best at low freq. Vertical polarisation preferred.
-- [ ] **Sky Wave (Ruimtegolf):** Refracted by Ionosphere.
-  - [ ] **Layers:**
-    - [ ] **D Layer (60-90 km):** Absorbs low HF (160/80m) during day. Exists only in sunlight.
-    - [ ] **E Layer (100-120 km):** Reflects lower HF. Sporadic E (Es) reflects VHF in summer.
-    - [ ] **F Layers (150-400+ km):** F1 (lower/day), F2 (higher/day & night). Main DX layer.
-  - [ ] **Solar Cycle:** 11 years. Sunspots (Zonnevlekken) indicate activity. More flux = Higher ionization = Higher MUF.
-  - [ ] **Critical Frequency:** Highest freq reflected when sent straight up (Vertical incidence).
-  - [ ] **MUF (Maximum Usable Frequency):** Highest freq for a specific path. Depends on angle of incidence.
-  - [ ] **LUF (Lowest Usable Frequency):** Lowest freq not absorbed by D-layer.
-  - [ ] **Skip Distance (Sprongafstand):** Distance to where the signal returns to earth.
-  - [ ] **Dead Zone (Dode zone):** Area between end of Ground Wave and first Skip return.
-  - [ ] **Fading (QSB):** Signal fluctuation due to multipath interference (e.g., ground + sky wave, or O-wave + X-wave).
-  - [ ] **Gray Line:** Best propagation at sunrise/sunset.
-  - [ ] **Path:** Long Path vs Short Path. Polar Path (via poles).
-  - [ ] **Solar Activity:** SFI (Solar Flux Index) at 10.7cm. Higher = Better.
-  - [ ] **Indices:** K-index and A-index (Geomagnetic). Lower = Better.
+### [6.1 Antenna Types (Antennetypen)](docs/06_antennas/01_types.md)
+- [ ] **Dipole:** Half-wave, center-fed.
+- [ ] **Vertical:** Ground plane, radials.
+- [ ] **Directional:** Yagi-Uda (Beam), Quad.
+- [ ] **Other:** End-fed, Loop, Dummy Load.
 
-### 7.2 VHF/UHF (> 30 MHz)
-- [ ] **Troposphere:** Weather layer (0-10km).
-  - [ ] **Line of Sight (Zichtverbinding):** Direct wave.
-  - [ ] **Radio Horizon:** 4/3 * Optical Horizon. d(km) approx 4.12 * sqrt(h(m)) for each antenna (Total = d1 + d2).
-  - [ ] **Ducting:** Temperature Inversion (Warm air over Cold) traps signal. Long distance.
-  - [ ] **Knife-Edge Diffraction:** Bending around sharp obstacles.
-  - [ ] **Troposcatter:** Scatter from turbulence (200-800 km).
-  - [ ] **Rain Scatter:** VHF/UHF scatter from rain.
-- [ ] **Exotic Modes:**
-  - [ ] **Aurora:** Reflection off ionized zones at magnetic poles. Distorted audio (Whisper/Hiss).
-  - [ ] **Meteor Scatter:** Reflections off ionized trails of meteors. Short bursts.
-  - [ ] **EME (Moonbounce):** Moon as passive reflector. High path loss (~250-270 dB).
-  - [ ] **Satellite:** Active transponders. Doppler shift compensation needed.
+### [6.2 Characteristics (Eigenschappen)](docs/06_antennas/02_characteristics.md)
+- [ ] **Gain:** dBi vs dBd.
+- [ ] **Power:** ERP vs EIRP.
+- [ ] **Radiation Resistance:** Efficiency factor.
+- [ ] **Pattern:** Front-to-Back ratio, Beamwidth.
+
+### [6.3 Transmission Lines (Transmissielijnen)](docs/06_antennas/03_transmission_lines.md)
+- [ ] **Types:** Coax (Asymmetric) vs Open Wire (Symmetric).
+- [ ] **Velocity Factor:** Signal speed in cable.
+- [ ] **Transformation:** Quarter-wave lines invert impedance.
+
+### [6.4 Matching (Aanpassing)](docs/06_antennas/04_matching.md)
+- [ ] **SWR:** Standing Wave Ratio.
+- [ ] **Balun:** Balanced to Unbalanced (Choke vs Transformer).
+- [ ] **ATU:** Antenna Tuning Unit (matches TX to line).
 
 
-## [Eindterm 8: Measurements (Metingen)](docs/08_measurements.md)
-- [ ] **Multimeter:**
-  - [ ] **Analogue (Moving Coil / Draaispoel):**
-    - [ ] Current: Shunt resistor.
-    - [ ] Voltage: Series resistor. Sensitivity (kOhm/V) affects circuit loading.
-    - [ ] Resistance: Internal battery required. Zero adjustment needed.
-  - [ ] **Digital (DMM):** High input impedance (typically 10-11 MOhm).
-  - [ ] **Usage:** Volts (Parallel), Amps (Series), Ohms (Circuit Power OFF!).
-- [ ] **SWR Meter:** Between TX and Antenna. Measures Forward vs Reflected power.
-  - [ ] **Calibration:** Switch to FWD, Key TX, Adjust to Full Scale (SET). Switch to REF to read SWR.
-    - [ ] **Operation:** Directional couplers sample forward and reflected waves.
-  - [ ] **RF Power Meter:** Measures true power.
-  - [ ] **Noise Figure Meter:** Measures receiver noise performance.
-- [ ] **Oscilloscope:** Visualises **Time Domain** (Voltage vs Time).
-  - [ ] Measure: Amplitude (V_peak, V_pp), Period (T), Waveform shape.
-  - [ ] Calculate: Frequency (f = 1/T), V_rms.
-- [ ] **Spectrum Analyser:** Visualises **Frequency Domain** (Amplitude vs Frequency).
-  - [ ] Measure: Harmonics, Spurious emissions, Sidebands, Bandwidth.
-- [ ] **Frequency Counter:** Measures precise frequency using a digital counter and accurate timebase.
-  - [ ] **Gating:** Counts cycles during a fixed time window (e.g., 1 sec).
-  - [ ] **Accuracy:** Dependent on Timebase (Crystal/OCXO).
-- [ ] **Dip Meter (Dipper / Grid Dipper):** Variable oscillator with exposed coil.
-  - [ ] **Usage:** Finds resonant frequency of unpowered LC circuits. Meter dips when energy is absorbed by the external circuit.
-  - [ ] **Dummy Load (Kunstantenne):** Non-radiating 50 Ohm resistor (Carbon/Non-inductive). Must handle expected power (Thermal rating).
+## [Eindterm 7: Propagation (Propagatie)](docs/07_propagation/)
+
+### [7.1 Basics](docs/07_propagation/01_basics.md)
+- [ ] **EM Waves:** E and H fields.
+- [ ] **Polarization:** Horizontal/Vertical.
+- [ ] **Inverse Square Law:** Power loss with distance.
+
+### [7.2 Modes](docs/07_propagation/02_modes.md)
+- [ ] **Ground Wave:** LF/MF, follows earth.
+- [ ] **Sky Wave:** HF, ionospheric refraction.
+- [ ] **Line of Sight:** VHF/UHF. Radio Horizon.
+- [ ] **Tropospheric:** Ducting, Scatter.
+
+### [7.3 Ionosphere](docs/07_propagation/03_ionosphere.md)
+- [ ] **Layers:** D (Absorbs), E, F1/F2 (Reflect).
+- [ ] **Solar Cycle:** Sunspots, SFI.
+- [ ] **Frequencies:** MUF, LUF, Critical Frequency.
+- [ ] **Fading:** QSB causes.
+
+### [7.4 Band Characteristics](docs/07_propagation/04_band_characteristics.md)
+- [ ] **HF Bands:** 160m to 10m properties.
+- [ ] **VHF/UHF:** 6m, 2m, 70cm usage.
+- [ ] **Propagation:** Day vs Night, Solar Max vs Min.
 
 
-## [Eindterm 9: Interference and Immunity (Storing en immuniteit)](docs/09_interference.md)
-- [ ] **EMC (Electromagnetic Compatibility):**
-  - [ ] **Emission:** Equipment should not generate excessive noise.
-  - [ ] **Immunity:** Equipment should function correctly in the presence of noise.
-- [ ] **Types of Interference:**
-  - [ ] **Harmonics:** Integer multiples of fundamental.
-  - [ ] **Spurious Emissions:** Non-harmonic unwanted emissions.
-  - [ ] **BCI:** Broadcast Interference.
-  - [ ] **TVI:** Television Interference.
-  - [ ] **Blocking:** Strong signal overloads front-end.
-  - [ ] **Desensitisation:** Noise floor rises, weak signals disappear.
-  - [ ] **Cross-modulation:** Modulation of a strong unwanted signal is transferred to the wanted carrier.
-  - [ ] **Intermodulation:** Two or more signals mix in a non-linear stage (TX PA or RX Front-end) producing sum/difference products (e.g., 2f1 - f2).
-  - [ ] **LFD (Audio Rectification):** RF picked up by audio cables/circuits and rectified by PN junctions (transistors/diodes) in the amplifier. Heard as distorted speech (AM/SSB) or clicks (CW).
-  - [ ] **Key Clicks:** Broadband interference caused by fast rise/fall times in CW keying.
-  - [ ] **Chirp:** Frequency instability of oscillator during keying.
-  - [ ] **Tjoep:** Chirp-like sound at start of transmission (warm-up).
-- [ ] **Mitigation / Filters:**
-  - [ ] **Mains Filter:** L-C filter to stop conducted interference.
-  - [ ] **Mains Choke (Ferrietklem):** Ferrite ring on mains cable (Common Mode Choke).
-    - [ ] Material: Type 43 or 31 for HF/VHF.
-  - [ ] **High Pass Filter (HPF):** On TV/Receiver antenna input to block HF amateur bands.
-  - [ ] **Low Pass Filter (LPF):** On Transmitter output to block Harmonics. (e.g. Pi-filter / T-filter).
-  - [ ] **Band Stop (Notch):** Blocks specific frequency.
-  - [ ] **Decoupling:** Capacitors (1-10nF) across audio inputs/speaker terminals to bypass RF.
-  - [ ] **Shielding:** Faraday cage (grounded metal enclosure).
-- [ ] **Routes of Entry:**
-  - [ ] **Mains:** Conducted.
-  - [ ] **Radiated:** Direct pickup by PCB/internal wiring.
-  - [ ] **Cables:** Speaker wires, interconnects acting as antennas.
+## [Eindterm 8: Measurements (Metingen)](docs/08_measurements/)
+
+### [8.1 Multimeters](docs/08_measurements/01_multimeter.md)
+- [ ] **Analogue:** Moving coil, Sensitivity (kOhm/V), Loading effect.
+- [ ] **Digital:** High input impedance, ADC.
+- [ ] **Technique:** Voltage (Parallel), Current (Series), Resistance (Isolated).
+
+### [8.2 Visualization](docs/08_measurements/02_visualization.md)
+- [ ] **Oscilloscope:** Time domain (Voltage vs Time). Amplitude, Period.
+- [ ] **Spectrum Analyzer:** Frequency domain (Amplitude vs Frequency). Harmonics, Bandwidth.
+
+### [8.3 RF Measurements](docs/08_measurements/03_rf_measurements.md)
+- [ ] **SWR Meter:** Forward/Reflected power. Calibration.
+- [ ] **Frequency Counter:** Gate time, Accuracy.
+- [ ] **Dip Meter:** Measuring resonant frequency of unpowered circuits.
+- [ ] **Dummy Load:** Non-inductive 50 Ohm load for testing.
 
 
-## [Eindterm 10: Safety (Veiligheid)](docs/10_safety.md)
-- [ ] **Standards:** IEC 62368-1 (Audio/Video/IT equipment).
-- [ ] **Equipment Classes:**
-  - [ ] **Class I:** Safety Earth connection required.
-  - [ ] **Class II:** Double Insulation (Symbol: Square in square). No earth needed.
-  - [ ] **Class III:** SELV (Safety Extra Low Voltage). < 60V DC / 30V AC.
-- [ ] **Electricity Risks:**
-  - [ ] **Body Effects:**
-    - [ ] 0.5 mA: Perception threshold.
-    - [ ] 10 mA: Muscle freeze (Can't let go).
-    - [ ] 30 mA: Respiratory paralysis.
-    - [ ] 75 mA: Heart fibrillation.
-    - [ ] > 1 A: Heart arrest / Burns.
-  - [ ] **Body Resistance:** Lowers when wet/skin broken (approx 1k Ohm internal).
-- [ ] **Mains Wiring (Netherlands/EU):**
-  - [ ] **Brown:** Phase/Live (L).
-  - [ ] **Blue:** Neutral (N).
-  - [ ] **Yellow/Green:** Earth/Ground (PE).
-- [ ] **Protection:**
-  - [ ] **Fuse:** Protects equipment/wiring from overcurrent (fire risk). Fast (F) vs Slow (T).
-  - [ ] **RCD (Aardlekschakelaar):** Detects leakage to earth (shock risk). Trips at 30mA usually.
-  - [ ] **Bleeder Resistor:** Discharges capacitors after power off (must be safe < 1s).
-  - [ ] **Earthing:** Resistance of safety earth connections must be very low (< 0.1 - 0.5 Ohm typically).
-- [ ] **RF Safety:**
-  - [ ] **Heating:** RF cooks tissue (eyes, testes vulnerable). SAR limits (0.08 W/kg public, 0.4 W/kg occupational).
-    - [ ] **Critical Frequencies:** 30-300 MHz (Whole-body resonance).
-    - [ ] **Duty Cycle:** Factor in exposure (SSB ~20%, FM ~100%).
-    - [ ] **Height/Distance:** Requirements for safe exposure.
-  - [ ] **Burns:** RF burn from touching antenna (High voltage at ends).
-  - [ ] **Exposure Limits:** ICNIRP guidelines.
-    - [ ] **Far Field:** Distance > 2 * lambda.
-    - [ ] **Near Field:** Distance < lambda. Calculations complex.
-- [ ] **Hazardous Substances:**
+## [Eindterm 9: Interference and Immunity (Storing en immuniteit)](docs/09_interference/)
+
+### [9.1 Types of Interference](docs/09_interference/01_types.md)
+- [ ] **Receiver Overload:** Blocking (Desensitization).
+- [ ] **Mixing Products:** Intermodulation ($2f_1 - f_2$), Cross-modulation.
+- [ ] **Audio:** LFD (Audio Rectification). "Donald Duck" SSB, Clicks.
+- [ ] **Transmitter:** Chirp, Key Clicks, Splatter.
+
+### [9.2 Causes](docs/09_interference/02_causes.md)
+- [ ] **Emissions:** Harmonics, Spurious, Phase Noise.
+- [ ] **Immunity:** Poor shielding, Pin 1 problem.
+- [ ] **Paths:** Radiated vs Conducted (Mains, Coax shield).
+
+### [9.3 Mitigation](docs/09_interference/03_mitigation.md)
+- [ ] **Filtering:** LPF (TX), HPF (TV/Radio), Mains Filter.
+- [ ] **Ferrites:** Common Mode Chokes (clamp-on/ring).
+- [ ] **Decoupling:** Capacitors on audio lines.
+
+
+## [Eindterm 10: Safety (Veiligheid)](docs/10_safety/)
+
+### [10.1 Electrical Safety](docs/10_safety/01_electrical.md)
+- [ ] **Body Effects:** 10mA (Let-go), 30mA (Respiratory), 75mA (Fibrillation).
+- [ ] **Mains:** Live (Brown), Neutral (Blue), Earth (Green/Yellow).
+- [ ] **Protection:** Fuse (Fire), RCD (Shock, 30mA).
+
+### [10.2 RF Safety](docs/10_safety/02_rf_safety.md)
+- [ ] **Risks:** Heating (Eyes/Testes), RF Burns.
+- [ ] **SAR:** 0.08 W/kg (Public), 0.4 W/kg (Occupational).
+- [ ] **Distance:** Calculation based on EIRP.
+
+### [10.3 Equipment & Other](docs/10_safety/03_protection.md)
+- [ ] **Classes:** Class I (Earthed), Class II (Double Insulated), Class III (SELV).
+- [ ] **Lightning:** Disconnect antennas.
+- [ ] **Chemical:** Lithium batteries, Beryllium Oxide (Toxic dust).
   - [ ] **Beryllium Oxide (BeO):** White ceramic in power transistors. Toxic dust if broken.
   - [ ] **Lead:** In solder. Wash hands.
   - [ ] **Etchants (Etsmiddelen):** Ferric Chloride etc. Corrosive.
@@ -688,117 +489,38 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 
 ## [Eindterm 11: Rules & Procedures (Gebruiksregels)](docs/11_procedures.md)
-- [ ] **Phonetic Alphabet:** Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.
-- [ ] **Q-Codes:**
-  - [ ] **QRG:** Frequency.
-  - [ ] **QRK:** Readability (1-5).
-  - [ ] **QRM:** Man-made interference.
-  - [ ] **QRN:** Natural interference (Static).
-  - [ ] **QRO:** High power.
-  - [ ] **QRP:** Low power.
-  - [ ] **QRT:** Closing down.
-  - [ ] **QRV:** Ready.
-  - [ ] **QRX:** Wait / Call back at...
-  - [ ] **QRZ:** Who is calling me?
-  - [ ] **QSB:** Fading.
-  - [ ] **QSL:** Confirm receipt / Can you confirm.
-  - [ ] **QSO:** Radio contact.
-  - [ ] **QSY:** Change frequency.
-  - [ ] **QTH:** Location.
-- [ ] **Abbreviations:**
-  - [ ] **BK:** Break.
-  - [ ] **CQ:** General call (Seek You).
-  - [ ] **CW:** Continuous Wave (Morse).
-  - [ ] **DE:** From.
-  - [ ] **K:** Over (Invitation to transmit).
-  - [ ] **PSE:** Please.
-  - [ ] **R:** Received.
-  - [ ] **RST:** Readability, Strength, Tone report.
-    - [ ] **R (Readability):** 1-5 (1=unreadable, 5=perfect).
-    - [ ] **S (Strength):** 1-9 (S9 = strong signal).
-    - [ ] **T (Tone):** 1-9 (CW only, 9=perfect sine wave).
-  - [ ] **RX / TX:** Receiver / Transmitter.
-  - [ ] **AR:** End of transmission.
-  - [ ] **SK:** End of contact.
-  - [ ] **73:** Best regards.
-- [ ] **Emergency Signals:**
-  - [ ] **Telegraphy (CW):** SOS (... --- ...).
-  - [ ] **Telephony (Voice):** MAYDAY.
-- [ ] **Call Signs (NL):**
-  - [ ] **Prefix:** PA-PH (Full), PD (Novice), PI (Institutions/Groups).
-  - [ ] **Suffix:** 1-3 letters.
-  - [ ] **Foreign:** PA/Callsign (Visitor).
-- [ ] **DX Code of Conduct:** Split operation, listen first, don't call on DX freq.
+- [ ] **Phonetic Alphabet:** Spelling callsigns (Alfa, Bravo...).
+- [ ] **Q-Codes:** QTH (Location), QSL (Confirm), QRM (Interference), etc.
+- [ ] **Abbreviations:** CQ, 73, DX, DE.
+- [ ] **RST System:** Readability, Strength, Tone.
+- [ ] **Emergency:** SOS (CW), MAYDAY (Voice). Do not obstruct genuine emergency traffic.
 
 
-## [Eindterm 12: Regulations (Regelgeving)](docs/12_regulations.md)
-- [ ] **Organisations:**
-  - [ ] **ITU (International Telecommunication Union):** Allocates frequencies globally.
-    - [ ] **Region 1:** Europe, Africa, Middle East, Northern Asia. (NL is here).
-    - [ ] **Region 2:** Americas.
-    - [ ] **Region 3:** Asia-Pacific.
-  - [ ] **IARU:** International Amateur Radio Union (Lobby group).
-  - [ ] **CEPT:** European Conference of Postal and Telecommunications Administrations.
-  - [ ] **RDI (Rijksinspectie Digitale Infrastructuur):** Dutch regulator (formerly Agentschap Telecom).
-- [ ] **Documents:**
-  - [ ] **Radio Regulations (RR):** ITU treaty status.
-    - [ ] **Article 25 (Amateur Service):**
-      - [ ] **25.1:** International comms allowed.
-      - [ ] **25.2:** Technical/Personal messages only.
-      - [ ] **25.2A:** No encryption.
-      - [ ] **25.3:** Emergency comms for 3rd parties (if permitted).
-      - [ ] **25.5:** Morse requirement optional.
-      - [ ] **25.6:** Competence verification required.
-      - [ ] **25.9:** Call sign identification.
-        - [ ] Requirement: Start, End, every 10 mins.
-      - [ ] **25.9B:** Guest licensing.
-  - [ ] **Guest Operation:** CEPT license (home call + /country).
-  - [ ] **T/R 61-01:** CEPT License (Temporary operation abroad).
-  - [ ] **T/R 61-02:** HAREC (Exam standard for Full license recognition).
-- [ ] **Amateur Bands (NL Full License - Key Bands):**
-  - [ ] **160m:** 1.810 - 1.880 MHz
-  - [ ] **80m:** 3.500 - 3.800 MHz
-  - [ ] **40m:** 7.000 - 7.200 MHz
-  - [ ] **20m:** 14.000 - 14.350 MHz
-  - [ ] **15m:** 21.000 - 21.450 MHz
-  - [ ] **10m:** 28.000 - 29.700 MHz
-  - [ ] **6m:** 50.000 - 52.000 MHz
-  - [ ] **2m:** 144.000 - 146.000 MHz
-  - [ ] **70cm:** 430.000 - 440.000 MHz
-- [ ] **Service Status:**
-  - [ ] **Primary:** Protected. Can claim protection from Secondary.
-  - [ ] **Secondary:** No protection from Primary. Must not cause interference to Primary.
-- [ ] **Emission Classes (Uitzendklassen):** Format: `B B B` (Bandwidth, Signal, Info).
-  - [ ] **1st Symbol (Modulation):**
-    - [ ] A = AM (Double sideband).
-    - [ ] J = SSB (Suppressed carrier).
-    - [ ] F = FM.
-    - [ ] G = PM.
-  - [ ] **2nd Symbol (Signal Nature):**
-    - [ ] 1 = Single channel, digital, no subcarrier (CW).
-    - [ ] 2 = Single channel, digital, with subcarrier.
-    - [ ] 3 = Analogue.
-  - [ ] **3rd Symbol (Information):**
-    - [ ] A = Aural telegraphy.
-    - [ ] B = Electronic telegraphy.
-    - [ ] E = Telephony (Voice).
-    - [ ] F = Television (Video).
-  - [ ] **Common Examples:**
-    - [ ] **A1A:** CW (Morse).
-    - [ ] **J3E:** SSB Voice.
-    - [ ] **A3E:** AM Voice.
-    - [ ] **F3E:** FM Voice.
-  - [ ] **Bandwidth Designators:** H (Hz), K (kHz), M (MHz), G (GHz).
+## [Eindterm 12: Regulations (Regelgeving)](docs/12_regulations/)
+
+### [12.1 Organisations (Organisaties)](docs/12_regulations/01_organisations.md)
+- [ ] **ITU:** Radio Regulations, Regions (NL = Region 1).
+- [ ] **CEPT:** Harmonisation (T/R 61-01 Guest op).
+- [ ] **IARU:** Amateur interests, Band plans.
+- [ ] **HAREC:** Exam standard.
+
+### [12.2 Licensing (Machtiging)](docs/12_regulations/02_licensing.md)
+- [ ] **Registration:** RDI. Classes N and F.
+- [ ] **Call Signs:** Prefix (PA-PH, PI, PD) + Suffix.
+- [ ] **Identification:** Every 10 mins.
+
+### [12.3 Rules (Voorschriften)](docs/12_regulations/03_rules.md)
+- [ ] **Definition:** Non-commercial, self-training.
+- [ ] **Status:** Primary vs Secondary (must not cause interference).
+- [ ] **Emission Classes:** A1A (CW), J3E (SSB), F3E (FM).
+- [ ] **Laws:** Telecommunicatiewet.
 
 
 ## [Eindterm 13: Conduct (Gedragsregels)](docs/13_conduct.md)
-- [ ] **Good Operator Practice:**
-  - [ ] Listen before transmitting.
-  - [ ] Use minimum power required.
-  - [ ] Be polite and helpful.
-- [ ] **Emergency:**
-  - [ ] MAYDAY (Life threat) > PAN PAN (Urgency).
-  - [ ] Amateur radio is a backup resource during disasters (DARES in NL).
+- [ ] **Social:** Be polite, helpful, tolerant.
+- [ ] **Operating:** Listen before transmitting. Use minimum power.
+- [ ] **Emergency:** DARES. Know when to help and when to stay clear.
+
 
 
 ## Acknowledgements (Dankwoord)
