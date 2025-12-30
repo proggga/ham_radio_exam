@@ -46,12 +46,28 @@ Every real battery or power supply has an internal resistance $R_i$ in series wi
     *   1 A for 50 hours.
     *   50 A for 1 hour.
 
-## 4. Combining Sources
+## 4. Battery Chemistries
+*   **Primary Cells (Non-Rechargeable):**
+    *   **Zinc-Carbon / Alkaline**: Standard disposable batteries (1.5V).
+*   **Secondary Cells (Rechargeable):**
+    *   **Lead-Acid**: 12V (nominal 13.8V). Heavy. Used in cars and base stations. *Risk:* Hydrogen gas (explosive) when charging.
+    *   **NiCd (Nickel-Cadmium)**: 1.2V. Robust but suffers from "memory effect".
+    *   **NiMH (Nickel-Metal Hydride)**: 1.2V. Higher capacity than NiCd, less memory effect.
+    *   **Li-Ion / LiPo (Lithium-Ion)**: 3.7V per cell. High energy density. *Risk:* Fire/Explosion if overcharged or punctured. Requires specialized chargers.
+
+## 5. Combining Sources
 *   **Series:**
     *   Voltage adds up ($U_{tot} = U_1 + U_2$).
     *   Internal resistance adds up.
     *   Capacity (Ah) stays the same (limited by weakest cell).
+    *   **Opposing Polarity:** If one battery is connected in reverse, subtract its voltage from the total.
 *   **Parallel:**
     *   Voltage stays the same (Must connect identical voltage cells!).
     *   Capacity (Ah) adds up.
     *   Internal resistance decreases ($R_{tot} = R_i / n$).
+    *   **Unequal Voltages:** Connecting batteries with different EMFs in parallel is dangerous. The higher voltage source will discharge into the lower one (charging it), causing high circulating currents limited only by the internal resistances. The resulting terminal voltage is indeterminate without knowing the exact internal resistances.
+
+## 5. Active Components as Sources
+*   **Transistor Current Source:** A bipolar transistor with a fixed base voltage and emitter resistor acts as a **Constant Current Source**.
+    *   The collector current $I_c$ is determined by the base voltage and emitter resistor, independent of the collector load (as long as not saturated).
+    *   *Caveat:* If the collector load resistance ($R_c$) changes, the current stays the same. If $R_c$ is reduced by 3x, the power dissipated in it ($P = I^2 R$) also drops by 3x.

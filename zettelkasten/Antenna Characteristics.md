@@ -11,6 +11,7 @@ modified: 2025-12-29
 
 ## 1. Gain
 Antenna gain is a comparison of power in the strongest direction against a reference antenna.
+*   **Polarization:** Determined by the direction of the **Electric Field (E-field)**. For a dipole, this is parallel to the element.
 *   **Isotropic Radiator:** A theoretical point source radiating equally in all directions (sphere).
     *   Unit: **dBi**.
 *   **Dipole:** A real $\lambda/2$ antenna. See [[Antenna Types|Types]].
@@ -46,8 +47,15 @@ A virtual resistance that accounts for the power radiated as EM waves.
 *   **Beamwidth:** The angle between the -3dB (half-power) points on the main lobe.
 *   **Front-to-Back Ratio:** The difference in signal strength (dB) between the front and back of a directional antenna.
 
-## 5. Fields
-See [[Electric, Magnetic, and Electromagnetic Fields|Fields]].
-*   **Near Field:** Close to the antenna. E and H fields are not yet orthogonal. Reactive energy is stored here.
-    *   *Limit:* $d \approx \lambda$ (or $2D^2/\lambda$ for large antennas).
-*   **Far Field:** The radiating zone. E and H fields are perpendicular. Wave propagates as a plane wave.
+## 6. Effective Aperture
+*   **Concept**: The effective area of the wavefront that the antenna captures.
+*   **Formula**: $A_{eff} = \frac{\lambda^2}{4\pi} \times G$
+*   **Implication**: For the same gain, a lower frequency antenna (larger $\lambda$) captures more energy than a higher frequency antenna. This is why path loss increases with frequency (assuming constant antenna gain).
+
+## 7. Mobile Considerations (Vehicle Shielding)
+*   **Faraday Cage Effect**: Operating a handheld transceiver (HT) inside a vehicle significantly reduces signal strength because the metal body shields RF.
+*   **Solution**: Use an external magnet-mount or fixed antenna on the roof.
+    *   *Gain:* External antennas (e.g., 5/8 wave) often have gain over the standard "rubber duck".
+    *   *Safety:* Moves the RF field away from the passengers.
+
+## Related

@@ -3,29 +3,44 @@
 ## 1. Analogue Multimeter (Moving Coil)
 Uses a moving coil mechanism (Draaispoelmeter) which deflects a needle proportional to current.
 *   **Mechanism:** A coil in a magnetic field rotates when current flows (Lorentz force). Spring provides counter-force.
-*   **Measurement Types:**
-    *   **Current (DC):** Direct measurement. Shunt Resistors used to extend range.
-        *   **Shunt Formula:** $R_{shunt} = R_{meter} \cdot \frac{I_{meter}}{I_{total} - I_{meter}}$
-    *   **Voltage (DC):** Measured as current through a known series resistor.
-        *   **Multiplier Formula:** $R_{series} = \frac{U_{range}}{I_{fsd}} - R_{meter}$ (where $I_{fsd}$ is full scale deflection current).
-        *   **Sensitivity:** Expressed in $k\Omega/V$ (e.g., $20 k\Omega/V$). See Ohm's Law.
-        *   *Input Resistance:* $R_{in} = Sensitivity \times Range$.
-        *   *Loading Effect:* Low input resistance can load the circuit (parallel resistance), causing the measured voltage to be **lower** than the actual voltage.
-            *   *Example:* Measuring a high-impedance divider with a low-impedance meter changes the divider ratio.
-    *   **Voltage (AC):** Uses a rectifier (Diode). Scale is calibrated for Sine waves (Average -> RMS).
-    *   **Resistance:** Uses an internal battery. Zero-adjustment required (short probes, set to 0 $\Omega$). Scale is non-linear (logarithmic-like).
+*   **Damping:** To prevent needle overshoot/oscillation.
+*   **Protection:** Often has anti-parallel diodes across the meter movement to limit voltage/current during overload.
+
+### Voltage Measurement (DC)
+Measured as current through a known series resistor.
+*   **Multiplier Formula:** $R_{series} = \frac{U_{range}}{I_{fsd}} - R_{meter}$ (where $I_{fsd}$ is full scale deflection current).
+*   **Sensitivity ($S$):** Expressed in $k\Omega/V$ (e.g., $20 k\Omega/V$). $S = 1 / I_{fsd}$.
+    *   *Example:* $50 \mu A$ movement $\rightarrow 20 k\Omega/V$.
+*   **Input Resistance:** $R_{in} = S \times Range$.
+    *   *Example:* On 10V range with $20 k\Omega/V$ sensitivity, $R_{in} = 200 k\Omega$.
+*   **Loading Effect (Belastingseffect):**
+    *   Ideally, a voltmeter has infinite impedance. Real meters draw current.
+    *   If $R_{in}$ is not $\gg$ Circuit Impedance, the meter loads the circuit, reading **lower** than the actual voltage.
+    *   *Exam Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
+
+### Current Measurement (DC)
+Measured directly or with a shunt.
+*   **Ideal:** Zero impedance.
+*   **Shunt Formula:** $R_{shunt} = R_{meter} \cdot \frac{I_{meter}}{I_{total} - I_{meter}}$
+    *   Most current flows through the shunt (low resistance), small fraction through the meter.
+
+### AC Measurement
+Uses a rectifier (Diode).
+*   **Average vs RMS:** Moving coil meters respond to the **Average** value of the rectified current.
+*   **Calibration:** The scale is calibrated to show **RMS** (Effectieve waarde) assuming a **pure Sine wave**.
+    *   $U_{rms} \approx 1.11 \times U_{avg}$.
+*   **Sensitivity:** AC sensitivity is typically lower than DC sensitivity (e.g., DC $20 k\Omega/V$, AC $9 k\Omega/V$) due to rectifier characteristics.
+
+### Resistance Measurement
+Uses an internal battery.
+*   **Zero-adjustment:** Short probes, adjust knob for $0 \Omega$ (Full Scale Current).
+*   **Scale:** Non-linear (logarithmic-like). $0 \Omega$ is at full scale (right), $\infty$ is at rest (left).
 
 ## 2. Digital Multimeter (DMM)
 Uses an Analog-to-Digital Converter (ADC).
-*   **Input Impedance:** Very high (typically $10-11 M\Omega$). Does not load the circuit.
+*   **Input Impedance:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
+*   **Power:** Requires a battery for all measurements (unlike analogue which only needs it for Ohms).
 *   **Features:** Auto-ranging, Diode test, Transistor $h_{FE}$, Capacitance.
-*   **Accuracy vs Resolution:** High number of digits (resolution) does not guarantee high accuracy.
-
-## 3. Measurement Techniques
-*   **Voltage:** Connect **Parallel** to the component.
-*   **Current:** Connect **Series** (break the circuit).
-    *   *Warning:* Connecting an ammeter in parallel will cause a short circuit!
-*   **Resistance:** Connect to component **Isolated** from the circuit (Power OFF).
 
 ---
 [< Back to Section Index](README.md)

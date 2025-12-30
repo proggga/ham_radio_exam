@@ -57,20 +57,24 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Superheterodyne Receiver|Superheterodyne]] (Block Diagram, Image Freq)
 *   [[Detectors (Demodulators)|Detectors]] (AM, FM, Product)
 *   [[Receiver Performance|Performance]] (Sensitivity, Selectivity)
+*   [[Station Accessories]] (Preamps, Transverters)
 
 ## 5. Transmitters
 *   [[Transmitter Architecture|Architecture]] (Block Diagrams, Modulators)
 *   [[Power Amplifiers and Matching|Power Amplifiers]] (PA, Matching, Cooling)
+*   [[Station Accessories]] (Linear Amplifiers)
 
 ## 6. Antennas
 *   [[Antenna Types|Types]] (Dipole, Yagi, Vertical)
 *   [[Antenna Characteristics|Characteristics]] (Gain, Pattern, ERP)
 *   [[Transmission Lines]] (Coax, Velocity Factor)
 *   [[Matching and SWR|Matching]] (SWR, Baluns)
+*   [[Field Expedient Antennas]] (Emergency/Military types)
 
 ## 7. Propagation
 *   [[Propagation Basics|Basics]] (Polarization, Inverse Square)
 *   [[Propagation Modes|Modes]] (Ground, Sky, Line of Sight)
+*   [[Near Vertical Incidence Skywave (NVIS)|NVIS]] (Short range skywave)
 *   [[The Ionosphere|Ionosphere]] (Layers, MUF, Solar Cycle)
 *   **Amateur Radio Bands**
     *   [[160m Band (Top Band)|160m Band]]
@@ -86,24 +90,34 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Multimeters (Universeelmeters)|Multimeters]] (V, I, R)
 *   [[Signal Visualization|Visualization]] (Scope, Spectrum)
 *   [[RF Measurements]] (SWR, Freq Counter, Dummy Load)
+*   [[Radio Direction Finding (RDF)]] (Fox Hunting, Triangulation)
 
 ## 9. Interference (EMC)
 *   [[Types of Interference|Types]] (Blocking, Intermod, Splatter)
 *   [[Causes of Interference|Causes]] (Harmonics, Pin 1)
 *   [[Mitigation (Ontstoring)|Mitigation]] (Filters, Ferrites, Grounding)
+*   [[Electronic Warfare (Jamming)]] (Jamming types, Protection)
 
 ## 10. Safety
 *   [[Electrical Safety|Electrical]] (Mains, Fuse, RCD)
 *   [[RF Safety]] (Fields, SAR)
+*   [[Antenna & Tower Safety]] (Climbing, Power Lines, Lightning)
 *   [[Equipment Safety Classes|Protection]] (Lightning, Chemical)
 
 ## 11. Procedures
 *   [[Rules & Procedures|Operating Procedures]] (Q-Codes, Phonetics, RST)
+*   [[Common Transceiver Controls]] (Mic Gain, Squelch, RIT)
+*   [[Station Setup Guidelines]] (Cabling, Grounding)
+*   [[Satellite Operation]] (LEO, Doppler)
+*   [[Modern Digital Modes]] (DMR, FT8, D-STAR)
+*   [[Emergency Operations]] (Nets, Traffic Handling)
+*   [[Radio Operations in Harsh Environments]] (Desert, Jungle, Cold)
 
 ## 12. Regulations
 *   [[International Organisations|Organisations]] (ITU, CEPT, IARU)
 *   [[Licensing in the Netherlands|Licensing]] (Callsigns, Registration)
 *   [[Rules & Regulations|Rules]] (Status, Emission Classes)
+*   [[Operating Rules (Netherlands)]] (Power limits, Restrictions)
 
 ## 13. Conduct
 *   [[Eindterm 13 Conduct (Gedragsregels)|Ethics]] (Social, Operating)

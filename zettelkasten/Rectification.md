@@ -31,6 +31,13 @@ Rectification is the process of converting Alternating Current (AC) into pulsati
 *   **Ripple Frequency**: Double the input frequency ($100 Hz$).
 *   **Efficiency**: High. Both half-cycles are utilized.
 
+## Peak Inverse Voltage (PIV)
+The maximum voltage across the non-conducting diode(s).
+*   **Half-Wave (with Capacitor)**: The diode sees $2 \times U_{peak}$ (Input peak + Capacitor voltage).
+*   **Full-Wave Center-Tap**: Each diode sees $2 \times U_{peak}$.
+*   **Bridge Rectifier**: Each diode sees $1 \times U_{peak}$.
+*   *Safety:* Always choose diodes with a PIV rating significantly higher than the theoretical maximum (e.g., $3 \times U_{eff}$).
+
 ## Related
 *   [[Semiconductors]]
 *   [[Power Supply Smoothing]]

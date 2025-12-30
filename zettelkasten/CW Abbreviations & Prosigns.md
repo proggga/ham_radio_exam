@@ -11,16 +11,21 @@ modified: 2025-12-29
 
 In Continuous Wave (CW/Morse) operation, standard abbreviations and procedural signals (prosigns) are used to speed up communication.
 
-## Common Abbreviations
+## Common Abbreviations (Exam Topic)
 
-*   **BK**: Break (Back to you / Interruption).
-*   **CQ**: General call (Seek You).
-*   **CW**: Continuous Wave. See [[Modulation & Digital Signals]].
+*   **AR**: End of transmission (Au revoir).
+*   **BK**: Break (Interrupting / Back to you).
+*   **CQ**: General call to all stations (Seek You).
+*   **CW**: Continuous Wave (A1A).
 *   **DE**: From (French "de").
-*   **K**: Over (Invitation to transmit).
+*   **K**: Go ahead / Over (Kom maar).
+*   **MSG**: Message.
 *   **PSE**: Please.
 *   **R**: Received / Roger.
 *   **RX**: Receiver.
+*   **RST**: Readability, Strength, Tone (Report).
+*   **SK**: End of contact (Silent Key / Sluiten).
+*   **TRX**: Transceiver.
 *   **TX**: Transmitter.
 *   **UR**: Your.
 *   **73**: Best regards.
@@ -28,8 +33,9 @@ In Continuous Wave (CW/Morse) operation, standard abbreviations and procedural s
 
 ## Prosigns
 Prosigns are sent as a single continuous character (letters run together).
+*   **$\overline{\text{AR}}$**: End of transmission.
+*   **$\overline{\text{SK}}$**: End of work.
+*   **$\overline{\text{KN}}$**: Over, only specific station.
+*   **$\overline{\text{BT}}$**: Break / Pause (Separator).
 
-*   **AR**: End of transmission (often used before calling another station).
-*   **SK**: End of contact / Silent Key (deceased). Used to terminate the QSO.
-*   **KN**: Over, only the specific station called should respond.
-*   **BT**: Separator / Pause (like a period or new paragraph).
+## Related

@@ -12,9 +12,9 @@ modified: 2025-12-29
 The ionosphere is created by solar radiation (UV and X-rays). Its density follows the sun's activity.
 
 ## The Solar Cycle
-*   **Duration**: Approximately **11 years**.
-*   **Sunspots (Zonnevlekken)**: Dark spots on the sun indicating magnetic activity. More sunspots = More ionizing radiation.
-*   **Solar Flux Index (SFI)**: A measurement of solar radio noise (10.7cm), correlating with ionization.
+*   **11-Year Cycle**: The main sunspot cycle (Maximum to Minimum to Maximum).
+*   **27-Day Cycle**: The rotation period of the sun on its axis.
+    *   *Effect:* Good propagation conditions often recur every 27 days as active sunspot groups rotate back into view.
 
 ## Impact on Bands
 *   **Solar Maximum (High Flux)**:
@@ -24,6 +24,16 @@ The ionosphere is created by solar radiation (UV and X-rays). Its density follow
     *   Low ionization.
     *   High frequencies pass through the ionosphere into space.
     *   DX is limited to **Lower Bands (20m, 40m, 80m)**.
+
+## Solar Disturbances (Irregular Variations)
+*   **SID (Sudden Ionospheric Disturbance)**:
+    *   *Cause:* Solar Flares (X-Rays).
+    *   *Effect:* Sudden, drastic increase in **D-layer ionization** on the sunlit side of Earth.
+    *   *Result:* Total radio blackout on HF (absorption) lasting minutes to hours. Lower frequencies affected most.
+*   **Geomagnetic Storms (Ionospheric Storms)**:
+    *   *Cause:* Coronal Mass Ejections (CME) / Solar Wind hitting Earth's magnetic field.
+    *   *Effect:* Disruption of F-layers, Auroras.
+    *   *Result:* Lower MUF, high noise, signal flutter. Can last days.
 
 ## Related
 *   [[Ionospheric Layers]]

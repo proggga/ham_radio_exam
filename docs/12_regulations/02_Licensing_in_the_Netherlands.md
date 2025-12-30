@@ -21,6 +21,9 @@ A unique identifier for the station.
 
 ## 3. Operation
 *   **Identification:** Must transmit call sign at the start, end, and every 10 minutes during a transmission.
+*   **Supervision:** An N-licensee may operate an F-licensee's station (with higher power/other bands) ONLY if the F-licensee is physically present and supervising.
+    *   The N-licensee must use the F-licensee's call sign (or their own /PA if agreed, but usually F-call under supervision).
+*   **Unattended Operation:** Only allowed for specific automatic stations (beacons, digipeaters). A standard station cannot be left unattended if it can be triggered remotely or by family members unless specific safeguards are in place.
 *   **Guest Operation (Visiting NL):**
     *   **Full License (CEPT T/R 61-01):** Visitors use prefix **PA/** followed by their home call (e.g., *PA/G4ABC*).
     *   **Novice License:** Visitors use prefix **PD/** followed by their home call (e.g., *PD/DO1ABC*).

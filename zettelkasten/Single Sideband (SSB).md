@@ -11,17 +11,31 @@ modified: 2025-12-29
 
 SSB is a form of Amplitude Modulation where the Carrier and one Sideband are suppressed.
 
-## Advantages
-*   **Efficiency**: All transmitted power is useful information.
-*   **Bandwidth**: Half that of AM (~2.4 - 2.7 kHz for voice).
-    *   Allows more stations to fit in the band.
+## Evolution (AM $\to$ DSB $\to$ SSB)
+1.  **AM**: Carrier + 2 Sidebands. Least efficient.
+2.  **DSB (Double Sideband)**: Carrier suppressed, 2 Sidebands remain.
+    *   **Power**: At 100% AM mod equivalence, PEP is 1/4 of AM PEP (since amplitude is halved without carrier base).
+    *   **Bandwidth**: Same as AM ($2 \times f_{audio}$).
+3.  **SSB (Single Sideband)**: One sideband removed.
+    *   **Efficiency**: All transmitted power is useful information.
+    *   **Bandwidth**: Half that of AM/DSB (~2.4 - 2.7 kHz).
+    *   **Signal-to-Noise**: 3 dB improvement over DSB (half bandwidth = half noise) + 3 dB power saving (no wasted sideband) $\rightarrow$ significant system gain over AM.
 
-## Variants
-*   **USB (Upper Sideband)**: Standard for frequencies > 10 MHz.
-*   **LSB (Lower Sideband)**: Standard for frequencies < 10 MHz (40m, 80m).
+## Generation
+1.  **Balanced Modulator**: Mixes Audio and Carrier. Output is **DSB** (Carrier suppressed).
+2.  **Filter Method**: A sharp Crystal Filter or Mechanical Filter removes the unwanted sideband.
+    *   *USB:* Filter passes upper frequencies.
+    *   *LSB:* Filter passes lower frequencies.
 
 ## Reception
-Requires a receiver with a **BFO** (Beat Frequency Oscillator) to re-insert the missing carrier for demodulation.
+Requires a receiver with a **Product Detector** (Mixer) and a **BFO** (Beat Frequency Oscillator) to re-insert the missing carrier frequency locally.
+
+## Power Measurement (PEP)
+*   **Definition**: Peak Envelope Power. Average power of one RF cycle at the crest of the modulation envelope.
+*   **Double Tone Test**: When testing with two equal tones (e.g., 1100 Hz and 1900 Hz):
+    *   The Peak Voltage ($U_{peak}$) is the **sum** of the peak voltages of the two tones.
+    *   If a meter shows peak voltage (e.g., 71V), calculate PEP as $P = U^2 / R$.
+    *   *Example:* $U_{peak} = 71 \text{ V}$. $PEP = 71^2 / 50 \approx 100 \text{ W}$.
 
 ## Related
 *   [[Analogue Modulation & AM]]

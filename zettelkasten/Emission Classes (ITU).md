@@ -9,37 +9,47 @@ modified: 2025-12-29
 
 # Emission Classes (ITU)
 
-ITU codes describe the characteristics of a radio signal.
+ITU codes describe the characteristics of a radio signal. Format: **[Modulation] [Signal Nature] [Information]**.
 
-## Code Structure
-Three symbols: **[Modulation] [Signal Nature] [Information]**
+## 1. First Symbol: Modulation Type
+*   **N**: Unmodulated carrier.
+*   **A**: Amplitude Modulation (Double Sideband).
+*   **H**: Single Sideband, **Full** Carrier (AME).
+*   **J**: Single Sideband, **Suppressed** Carrier (SSB).
+*   **R**: Single Sideband, **Reduced** Carrier.
+*   **C**: Vestigial Sideband (TV).
+*   **F**: Frequency Modulation (FM).
+*   **G**: Phase Modulation (PM).
 
-### 1. Modulation Type
-*   **A**: Amplitude (Double Sideband).
-*   **J**: SSB (Single Sideband, Suppressed Carrier).
-*   **F**: Frequency Modulation.
-*   **G**: Phase Modulation.
+## 2. Second Symbol: Signal Nature
+*   **0**: No modulating signal.
+*   **1**: Digital, Single channel, **No subcarrier** (Direct keying/switching).
+*   **2**: Digital, Single channel, **With subcarrier** (e.g., AFSK).
+*   **3**: Analogue, Single channel (e.g., Voice).
 
-### 2. Signal Nature
-*   **1**: Single channel, digital (no subcarrier) - e.g., CW keying carrier.
-*   **2**: Single channel, digital (modulated subcarrier) - e.g., AFSK.
-*   **3**: Single channel, analogue - e.g., Voice.
-
-### 3. Information Type
-*   **A**: Aural Telegraphy (Morse decode by ear).
-*   **B**: Electronic Telegraphy (Machine decoded, e.g., RTTY).
+## 3. Third Symbol: Information Type
+*   **N**: None.
+*   **A**: Telegraphy for **Aural** reception (Morse).
+*   **B**: Telegraphy for **Automatic** reception (RTTY, PSK).
+*   **C**: Facsimile (Fax).
+*   **D**: Data transmission, Telemetry, Packet.
 *   **E**: Telephony (Voice).
-*   **F**: Video (TV).
+*   **F**: Television (Video).
 
-## Common Examples
-| Code | Common Name | Description |
+## Common Examples (Exam Topic)
+| Code | Description | Mode |
 | :--- | :--- | :--- |
-| **A1A** | CW | Morse code (Amplitude keyed, no audio). |
-| **A3E** | AM | Amplitude Modulation Voice. |
-| **J3E** | SSB | Single Sideband Voice. |
-| **F3E** | FM | Frequency Modulation Voice. |
-| **F1B** | RTTY/FSK | Frequency Shift Keying (Digital). |
-| **F2D** | Packet | Data via FM subcarrier. |
+| **A1A** | AM, On/Off keying, Aural Morse | **CW** |
+| **A3E** | AM, Analogue, Voice | **AM** |
+| **J3E** | SSB, Suppressed Carrier, Analogue Voice | **SSB** |
+| **F3E** | FM, Analogue, Voice | **FM** |
+| **F1A** | FM, Direct Keying, Aural Morse | **FM CW** |
+| **F2A** | FM, Subcarrier (Tone), Aural Morse | **FM CW (Tone)** |
+| **F1B** | FM, Direct FSK, Automatic | **RTTY (FSK)** |
+| **F2B** | FM, Subcarrier AFSK, Automatic | **RTTY (AFSK)** |
+| **F1D** | FM, Direct Data | **Packet/Data** |
+| **J2B** | SSB, Subcarrier AFSK, Automatic | **RTTY/PSK (SSB)** |
+| **G3E** | PM, Analogue, Voice | **PM** |
 
 ## Related
 *   [[Modulation & Digital Signals]]

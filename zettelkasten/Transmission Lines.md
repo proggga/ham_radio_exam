@@ -19,8 +19,8 @@ This map covers the connection between the transmitter and the antenna.
 *   [[Transmission Line Loss]] - Attenuation factors.
 
 ## Physics & Math
-*   [[Velocity Factor]] - Speed of light in a cable.
-*   [[Impedance Transformation]] - Using lines as transformers ($\lambda/4$).
+*   **[[Velocity Factor]]** - Speed of light in a cable.
+*   **[[Impedance Transformation]]** - Using lines as transformers ($\lambda/4$) or Stubs.
 
 ## Related
 *   [[Matching and SWR]] - Measuring line performance.

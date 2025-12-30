@@ -29,6 +29,12 @@ Current **leads** Voltage by $90^\circ$.
     *   **CIU**: **C**, **I** (Current) comes before **U** (Voltage).
     *   **ICE**: **I** leads **E** (Voltage) in **C**.
 
+### Graph Reading Tip
+When looking at a Time-Domain graph (Voltage/Current vs Time):
+*   **Left** is Earlier. **Right** is Later.
+*   If Wave A crosses zero (going up) *before* (to the left of) Wave B, then **Wave A Leads Wave B**.
+*   *Mnemonic:* "Left Leads".
+
 ## Related
 *   [[Geometry & Trigonometry]]
 *   [[Reactance (Reactantie)]]

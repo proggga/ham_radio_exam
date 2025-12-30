@@ -28,6 +28,9 @@ For better smoothing, an Inductor (Choke) and a second Capacitor are added.
 *   **Pi-Filter (C-L-C)**: Common configuration.
 *   **Choke ($L$)**: Opposes changes in current, smoothing the flow.
 *   **Capacitor ($C$)**: Further reduces voltage ripple.
+*   **Comparison (C-filter vs LC-filter)**:
+    *   **C-filter (Elco only)**: High ripple, very high peak currents through diodes (charging happens in short bursts).
+    *   **LC-filter (Choke input or Pi)**: Lower ripple, lower peak currents (choke spreads out the charging time), slightly lower output voltage (due to DC resistance of choke).
 
 ## Related
 *   [[Capacitors]]

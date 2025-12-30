@@ -30,3 +30,7 @@ This map covers the instruments used to test and maintain radio equipment.
 
 ## Related
 *   **[[Multimeters (Universeelmeters)]]** - DC/AC Voltage and Resistance.
+    *   *Voltmeter:* Should have **High** impedance to avoid loading the circuit.
+    *   *Ammeter:* Should have **Low** impedance.
+    *   *AC Measurement:* Standard moving-coil meters measure **Average** value. For sine waves, the scale is calibrated to RMS ($U_{rms} \approx 1.11 \times U_{avg}$). If rectifying a sine wave without a smoothing capacitor, the meter reads average ($2 U_{peak} / \pi$). With a capacitor, it reads peak.
+*   **PEP Measurement:** To measure Peak Envelope Power with a simple meter, a capacitor is needed to hold the peak voltage (time constant ~seconds).

@@ -30,6 +30,15 @@ A **Potentiometer** is a variable resistor with three terminals functioning as a
 *   The wiper moves along the resistive track, changing the ratio of $R_1$ to $R_2$.
 *   Used for volume controls, tuning, and calibration.
 
+## Node Potentials (Potentials relative to Ground)
+In circuit analysis, voltages are often defined at a specific point (Node) relative to a common reference (Ground, 0V).
+*   **Example:** A voltage divider between +4V and -2V.
+    *   Total Voltage across resistors = $4V - (-2V) = 6V$.
+    *   Calculate current $I = 6V / R_{tot}$.
+    *   Calculate voltage drop across the first resistor ($U_1 = I \times R_1$).
+    *   Potential at the midpoint = $+4V - U_1$ (or $-2V + U_2$).
+*   If resistors are equal, the midpoint potential is the **average** of the two end potentials: $\frac{U_{top} + U_{bottom}}{2}$.
+
 ## Loading Effect
 Ideally, a voltage divider drives a high-impedance load. If the load has low resistance (draws current), it acts as a parallel resistor to $R_2$, dropping the output voltage further.
 

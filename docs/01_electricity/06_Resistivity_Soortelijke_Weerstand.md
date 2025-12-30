@@ -20,7 +20,9 @@ $$R = \rho \cdot \frac{L}{A}$$
 *   $A$ = Cross-sectional area in square meters ($m^2$)
 
 > **Note on Area:** For a round wire, Area $A = \pi \cdot r^2$ or $A = \frac{\pi \cdot d^2}{4}$. 
-> Do not confuse Diameter ($d$) with Area ($A$). If diameter doubles, Area quadruples ($2^2=4$), so Resistance becomes $1/4$.
+> Do not confuse Diameter ($d$) with Area ($A$). 
+> *   **Diameter $\times 2$** $\rightarrow$ Area $\times 4$ $\rightarrow$ Resistance $\div 4$ (Resistance becomes 4x smaller).
+> *   **Diameter $\div 2$** $\rightarrow$ Area $\div 4$ $\rightarrow$ Resistance $\times 4$ (Resistance becomes 4x larger).
 
 ### Stretching a Wire
 If you stretch a wire to **2x** its length:

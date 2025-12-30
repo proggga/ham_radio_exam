@@ -34,13 +34,17 @@ Vacuum tubes (valves) operate on the principle of **Thermionic Emission** (Ediso
 
 ### The Tetrode (4 Electrodes)
 *   **Added Part**: **Screen Grid (Schermrooster, $g_2$)**.
-*   **Function**: Shields Anode from Control Grid, reducing $C_{ag}$ for better HF performance.
-*   **Drawback**: **Secondary Emission** (electrons bouncing off anode attracted to screen grid).
+*   **Function**:
+    *   Shields Anode from Control Grid, reducing Grid-Anode capacitance ($C_{ag}$). This improves HF stability and gain.
+    *   Makes Anode current ($I_a$) less dependent on Anode Voltage ($U_a$), increasing internal resistance ($R_i$) and Gain factor ($\mu$).
+*   **Drawback**: **Secondary Emission**. High speed electrons hitting the Anode knock other electrons loose. If $U_a < U_{g2}$, these electrons are attracted to the screen grid, causing a "dip" in the characteristic curve (negative resistance region). This causes instability.
 
 ### The Pentode (5 Electrodes)
 *   **Added Part**: **Suppressor Grid (Remrooster, $g_3$)**.
-*   **Function**: Prevents secondary emission electrons from reaching the screen grid.
-*   **Characteristics**: High gain, high internal resistance.
+*   **Position**: Between Screen Grid and Anode.
+*   **Connection**: Usually connected to the **Cathode** (0V relative to Anode), making it negative relative to the Anode.
+*   **Function**: Repels secondary emission electrons back to the Anode, eliminating the Tetrode's dip.
+*   **Characteristics**: High gain, very high internal resistance. Standard for RF power amplifiers.
 
 ## Tube Configurations (Basisschakelingen)
 Analogous to Transistor/FET circuits.

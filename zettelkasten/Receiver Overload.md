@@ -13,8 +13,15 @@ Receiver overload occurs when a very strong signal (even if off-frequency) enter
 
 ## Blocking (Blokkering)
 *   **Effect**: The receiver goes "deaf" (desensitized) or the gain fluctuates wildly.
-*   **Mechanism**: The input transistor/FET is driven into saturation or cutoff by the high voltage of the strong signal.
-*   **Mitigation**: Use an attenuator or a better preselector filter.
+*   **Mechanism**:
+    *   A strong RF signal drives the input transistor/FET/Tube into non-linearity.
+    *   The input junction acts as a **rectifier** (diode), creating a DC voltage from the RF signal.
+    *   This DC voltage shifts the **Operating Point** (Instelpunt/Bias) of the amplifier.
+    *   *Result:* The amplifier gain drops or cuts off completely (Class C operation).
+*   **Mitigation**:
+    *   **Attenuator (Verzwakker)**: Reducing the input signal moves the stage back into its linear range.
+    *   **Preselector**: Better filtering before the first amplifier.
+    *   **Antenna Orientation**: Rotating a directional antenna (Yagi) to null the interference.
 
 ## Related
 *   [[Superheterodyne Principle]]

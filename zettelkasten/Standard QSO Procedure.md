@@ -36,6 +36,16 @@ The RST system is used to describe signal quality:
     *   1 = Very rough, broad AC note
     *   9 = Perfect sine wave
 
+## Voice Prowords (Procedure Words)
+Standard words used to clarify communication:
+*   **"Over"**: I have finished speaking, expecting a reply.
+*   **"Out"**: I have finished speaking, no reply expected. (Never say "Over and Out").
+*   **"Roger"**: I have received and understood your last transmission.
+*   **"Wilco"**: I will comply (Will Do).
+*   **"Say Again"**: Please repeat.
+*   **"Break"**: I am interrupting (often for emergency or urgent traffic).
+*   **"Standby"**: Wait a moment.
+
 ## QSL Cards
 A **QSL card** is a written confirmation of a radio contact.
 *   **Physical Cards**: Often sent via a **QSL Bureau** or direct mail.

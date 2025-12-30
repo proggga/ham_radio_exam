@@ -18,7 +18,13 @@ modified: 2025-12-29
 *   **Characteristics**: High capacitance per volume.
 *   **Polarized**: Has Positive (+) and Negative (-) terminals.
     *   **Warning**: Connecting in reverse causes explosion/failure.
-*   **Use**: Power supply smoothing, audio coupling.
+    *   **Use**: Power supply smoothing, audio coupling.
+
+## Frequency Characteristics
+*   **HF/VHF Applications:**
+    *   **Ceramic:** Preferred for VHF (e.g., 145 MHz) due to low inductance.
+    *   **Air/Vacuum:** Lowest losses (best dielectric) for HF applications.
+    *   **Value:** Typical tuning capacitor for Shortwave (HF) is ~100 pF (compared to ~500 pF for Medium Wave).
 
 ## Variable Capacitors
 *   **Air Variable**: Rotatable metal plates meshing together. Used for VFO tuning and Antenna Matching.

@@ -10,17 +10,47 @@ type: index
 modified: 2025-12-29
 ---
 
-# Map: Digital Signal Processing (DSP)
+# Digital Signal Processing (DSP)
 
-This map covers the conversion and manipulation of signals in the digital domain.
+DSP involves processing signals in the digital domain (as numbers) rather than using analog components (R, L, C).
 
-## Fundamentals
-*   [[Sampling Theory]] - Nyquist limit and Aliasing.
-*   [[Quantisation]] - ADC/DAC, Bit depth, and Noise.
+## Sampling (Bemonstering)
+*   **ADC (Analog-to-Digital Converter)**: Measures the analog voltage at regular intervals.
+*   **Sampling Rate ($f_s$)**: How many samples per second.
+*   **Nyquist-Shannon Theorem**: To accurately reconstruct a signal, the sampling rate must be **at least twice** the highest frequency in the signal.
+    *   $f_s \ge 2 \times f_{max}$.
+*   **Aliasing**: If $f_{signal} > f_s / 2$, the signal is "folded back" and appears as a lower, false frequency (alias).
+    *   *Prevention:* Use an **Anti-Aliasing Filter** (Low Pass) before the ADC to block frequencies $> f_s / 2$.
 
-## Applications
-*   [[Digital Processing Techniques]] - DDS, FFT, and Digital Filters.
+## Quantization
+*   **Resolution (Bit Depth)**: The number of bits used to represent each sample value.
+*   **Quantization Noise**: The error between the real analog value and the nearest digital step.
+    *   More bits = Less noise, higher Dynamic Range. (~6 dB per bit).
+
+## Digital Filters
+*   **FIR (Finite Impulse Response)**:
+    *   No feedback. Inherently stable.
+    *   Linear phase response (good for data).
+*   **IIR (Infinite Impulse Response)**:
+    *   Uses feedback. Can be unstable like analog filters.
+    *   More efficient (fewer calculations) for steep slopes.
+
+## FFT (Fast Fourier Transform)
+*   Converts a signal from **Time Domain** (Oscilloscope view) to **Frequency Domain** (Spectrum Analyzer view).
+*   Used for filtering, spectral display, and modulation/demodulation.
+
+## DDS (Direct Digital Synthesis)
+*   Generating waveforms directly from a digital look-up table (Sine table) and a DAC.
+*   Very fast frequency switching and high resolution.
 
 ## Related
-*   [[Digital Transmission]] - Sending digital data over radio.
-*   [[Digital Components & Crystals]] - Logic gates and numbers.
+*   **Nyquist-Shannon Theorem**: To accurately reconstruct a signal, the sampling rate must be **at least twice** the highest frequency in the signal.
+    *   $f_s \ge 2 \times f_{max}$.
+*   **Aliasing**: If $f_{signal} > f_s / 2$, the signal is "folded back" and appears as a lower, false frequency (alias).
+    *   *Prevention:* Use an **Anti-Aliasing Filter** (Low Pass) before the ADC to block frequencies $> f_s / 2$.
+*   **FIR (Finite Impulse Response)**:
+    *   No feedback. Inherently stable.
+    *   Linear phase response (good for data).
+*   **IIR (Infinite Impulse Response)**:
+    *   Uses feedback. Can be unstable like analog filters.
+    *   More efficient (fewer calculations) for steep slopes.

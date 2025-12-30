@@ -10,26 +10,35 @@ modified: 2025-12-29
 # Mitigation (Ontstoring)
 
 ## 1. At the Transmitter (Source)
-*   **Low Pass Filter (LPF):** Place between Transmitter and Antenna. Attenuates Harmonics (frequencies *above* the cutoff). See [[Filters & Resonance|Filters]].
-*   **Power Level:** Use the minimum power necessary for the contact (QRP).
-*   **Clean Signal:** Avoid overmodulation (ALC) and ensure stable keying (Chirp-free).
+*   **Low Pass Filter (LPF):** Place between Transmitter and Antenna. Attenuates Harmonics (frequencies *above* the cutoff).
+    *   *Circuit:* Pi-filter or T-filter (Capacitor to ground).
+*   **Power Level:** Use the minimum power necessary.
+*   **Shielding (Afscherming)**: Enclose oscillator/RF stages in metal cans ("Inblikken").
+    *   **Feedthrough Capacitors (Doorvoercondensatoren)**: Used to pass DC power/signals through the shield while shorting RF to the case (ground).
 
 ## 2. At the Victim (Immunity)
-*   **High Pass Filter (HPF):** Place on TV/Radio antenna inputs to block HF amateur signals (frequencies *below* the cutoff).
-*   **Band Stop Filter (Notch):** Blocks a specific interfering frequency.
+*   **High Pass Filter (HPF):** Place on TV/Radio antenna inputs to block HF amateur signals.
+*   **Band Stop Filter (Notch/Sperkring):** Blocks a specific interfering frequency. Series LC to ground or Parallel LC in series.
+*   **Input Attenuator**: Reduces the signal level to prevent Intermodulation/Blocking.
 
-## 3. Cable Filtering
+## 3. Cable Filtering & Routing
 *   **Ferrites (Ferrietkernen):**
-    *   **Clamp-on (Ferrietklem):** Easy to add to existing cables.
-    *   **Ring (Toroid):** Wind the cable through the ring multiple times for higher [[Inductors (Spoelen)|Inductance]].
-    *   **Function:** Acts as a **Common Mode Choke**. It presents a high impedance to RF currents flowing on the outside of the cable (shield) without affecting the signal inside (differential mode).
-    *   *Placement:* Place as close to the equipment (TX or Victim) as possible.
+    *   **Function:** Acts as a **Common Mode Choke**. Increases the inductance of the cable shield, blocking RF currents flowing on the outside.
+    *   *Placement:* As close to the equipment (TX or Victim) as possible.
+    *   *Effectiveness:* Multiple turns through a ring increase inductance ($L \propto n^2$).
+*   **Routing (Siting):**
+    *   **Separation**: Keep antenna cables, power lines, and telephone lines separated.
+    *   **Crossing**: If cables must cross, they should cross at **90 degree angles** to minimize inductive coupling.
+    *   **Length**: Keep ground leads and interconnects as short as possible to avoid resonance.
 
 ## 4. Decoupling (Ontkoppelen)
 Using capacitors to short RF to ground.
-*   **Capacitors:** Small values (1nF - 10nF) ceramic [[Capacitors|Capacitors]].
+*   **Capacitors:** Ceramic disc capacitors (low inductance). Values typically **1 nF - 10 nF**.
 *   **Placement:** Across speaker terminals, audio inputs, or mains pins.
-*   **Function:** Low impedance path for RF to bypass the sensitive circuitry.
+*   **Formula**: $X_C = \frac{1}{2\pi f C}$. Goal is $X_C \ll Z_{circuit}$.
 
 ## 5. Mains Filtering
-*   **Mains Filter:** A combination of Inductors and Capacitors (L-C) built into a module (often the IEC power socket). Blocks RF from entering/leaving via the power line.
+*   **Mains Filter:** A combination of Series Inductors and Parallel Capacitors (L-C) built into a module.
+*   **Ferrite Ring**: Wrapping the mains cord through a ferrite ring blocks common-mode RF from entering via the mains.
+
+## Related

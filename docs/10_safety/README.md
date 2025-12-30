@@ -4,4 +4,5 @@
 
 - [Electrical Safety](01_Electrical_Safety.md)
 - [RF Safety](02_RF_Safety.md)
-- [Equipment Safety Classes](03_Equipment_Safety_Classes.md)
+- [Antenna & Tower Safety](03_Antenna_&_Tower_Safety.md)
+- [Equipment Safety Classes](04_Equipment_Safety_Classes.md)

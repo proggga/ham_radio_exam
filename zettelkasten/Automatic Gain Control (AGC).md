@@ -9,15 +9,24 @@ modified: 2025-12-29
 
 # Automatic Gain Control (AGC)
 
-AGC (Dutch: AVR - Automatische Volume Regeling) keeps the audio volume constant despite fading (QSB) or large differences in signal strength between stations.
+AGC (also known as AVC - Automatic Volume Control) keeps the receiver's audio output volume constant despite large variations in incoming RF signal strength.
 
 ## Operation
-1.  A DC voltage is derived from the detector output.
-2.  This voltage is proportional to the incoming signal strength.
-3.  It is fed back to the **RF** and **IF** amplifiers.
-4.  **Strong Signal** $\rightarrow$ High AGC voltage $\rightarrow$ Reduces Gain.
-5.  **Weak Signal** $\rightarrow$ Low AGC voltage $\rightarrow$ Maximum Gain.
+1.  **Detection**: A sample of the IF signal is rectified (detected) to produce a DC voltage proportional to signal strength.
+2.  **Filtering**: The DC is filtered (RC time constant) to remove audio modulation but track fading (QSB).
+    *   *Fast AGC:* For CW/Data (reacts quickly).
+    *   *Slow AGC:* For SSB (holds gain during pauses in speech).
+3.  **Derivation from IF signal**: The IF signal is derived from the mixer stage, where the RF signal is mixed with the local oscillator signal to produce the IF signal.
+4.  **Control Loop**: The DC voltage is applied to the grids/gates/bases of the RF and IF amplifiers, creating a control loop that adjusts the gain of the amplifiers based on the signal strength.
+    *   Strong Signal $\rightarrow$ High negative DC $\rightarrow$ Reduced Gain.
+    *   Weak Signal $\rightarrow$ Low/Zero DC $\rightarrow$ Maximum Gain.
+
+## Functions
+*   Prevents overloading of IF/Audio stages.
+*   Compensates for fading (QSB).
+*   Drives the **S-Meter** (Signal Strength Meter).
 
 ## Related
-*   [[Superheterodyne Principle]]
+*   [[Superheterodyne Receiver]]
+*   [[Measurements]] (S-Meter)
 *   [[Amplifiers]]

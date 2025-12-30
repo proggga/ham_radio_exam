@@ -9,22 +9,29 @@ modified: 2025-12-29
 
 # Audio Rectification (LFD)
 
-**Low Frequency Detection (LFD)**, or Audio Rectification, is a common interference problem in consumer electronics.
+**Low Frequency Detection (LFD)** (Laagfrequentdetectie), also known as Audio Rectification or "Inpraten", is a common interference problem where radio signals are heard in non-radio audio equipment.
 
 ## Mechanism
-1.  RF energy is picked up by cables (speaker wires, microphone leads) acting as antennas.
-2.  The RF enters an audio amplifier.
-3.  A PN junction (Transistor or Diode) in the input stage acts as a **detector** (rectifier), extracting the audio modulation from the RF carrier.
+1.  **Pickup**: Speaker wires, mains leads, or interconnects act as antennas, picking up RF energy.
+2.  **Ingress**: RF enters the audio amplifier's feedback loop or input stage.
+3.  **Rectification**: A PN junction (Base-Emitter of a transistor) in the input stage acts as a **diode detector**.
+4.  **Amplification**: The detected audio (envelope) is amplified and heard through the speakers.
 
-## Symptoms
-*   **AM**: Voice is heard clearly.
-*   **SSB**: Muffled, distorted, unintelligible "Donald Duck" sounds.
-*   **CW**: Clicking or thumping sounds.
-*   **FM**: Often just a change in background hum or volume; FM is not easily detected by simple rectification.
+## Symptoms by Mode
+*   **AM**: Clear, intelligible speech.
+*   **SSB**: Muffled, distorted, unintelligible rhythm (like "Donald Duck").
+*   **CW**: Thumping or clicking sounds (Key Clicks/Plops) in time with the keying.
+*   **FM**: Usually silent (FM has no amplitude variations). Strong FM signals may cause "Blocking" (reduction in volume) or hum.
 
-## Mitigation
-*   **Ferrite cores**: Clamped on cables to block common-mode RF.
-*   **Bypass Capacitors**: Short RF to ground at the input.
+## Mitigation (Ontstoring)
+*   **Speaker Wires**:
+    *   **Capacitors**: Connect a small ceramic capacitor (**1 nF - 10 nF**) across the speaker terminals *at the amplifier*.
+        *   *Criterion:* $X_C$ should be low ($\approx 1 \Omega$) at RF, but high at Audio frequencies.
+    *   **Ferrites**: Wrap the wire through a toroid core near the amplifier.
+*   **Inputs**:
+    *   **RC Filter**: Series resistor + Shunt capacitor (Low-pass) at the input pin.
+    *   **Ferrite Bead**: Series bead on the input wire.
+*   **Mains**: Mains filter (L-C) or ferrite ring on the power cord.
 
 ## Related
 *   [[Detectors (Demodulators) 202512292039]]

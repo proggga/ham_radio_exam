@@ -38,9 +38,10 @@ Transformers can match source and load impedances.
 
 ## Construction
 *   **Core**: Directs magnetic flux.
-    *   **Laminated Iron**: For Mains/Audio (Low freq). Laminations reduce Eddy Currents.
-    *   **Ferrite / Powdered Iron**: For RF (High freq).
+    *   **Laminated Iron**: For Mains/Audio (Low freq). Laminations reduce Eddy Currents (Kernverliezen).
+    *   **Ferrite / Powdered Iron**: For RF (High freq). Powdered iron (insulated particles) increases Inductance ($L$) and Quality Factor ($Q$) compared to air, unlike solid iron which would cause high losses.
     *   **Toroid (Ringkern)**: Ring-shaped core with low flux leakage (self-shielding).
+*   **Shielding**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and Quality Factor ($Q$) due to induced eddy currents.
 
 ## Related
 *   [[Inductors (Spoelen)]]

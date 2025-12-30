@@ -9,25 +9,36 @@ modified: 2025-12-29
 
 # Measurements
 
-## 1. Voltage Measurement
-*   **Instrument:** Voltmeter.
-*   **Connection:** **Parallel** to the component being measured.
-*   **Ideal Property:** Infinite internal resistance ($R_i = \infty$).
-    *   *Why?* To draw zero current and not affect the circuit voltage.
+Accurate measurement is essential for testing equipment, verifying compliance, and troubleshooting.
 
-## 2. Current Measurement
-*   **Instrument:** Ammeter (Ampèremeter).
-*   **Connection:** **In Series** with the circuit (the circuit must be broken to insert the meter).
-*   **Ideal Property:** Zero internal resistance ($R_i = 0$).
-    *   *Why?* To cause zero voltage drop and not reduce the circuit current.
+## 1. Basic Parameters (Voltage, Current, Resistance)
+*   **Instrument:** [[Multimeters (Universeelmeters)]].
+*   **Key Concepts:**
+    *   **Loading Effect:** A voltmeter with low impedance loads the circuit, giving a reading *lower* than the actual voltage.
+    *   **AC Measurements:** Standard meters measure **Average** value but are calibrated for **RMS** (Sine wave).
+        *   *Exam Trap:* For non-sine waves (square, triangle), the reading is incorrect.
+        *   *Rectified Sine:* Meter reads Average ($\approx 0.637 \times Peak$).
 
-## 3. Resistance Measurement
-*   **Instrument:** Ohmmeter.
-*   **Connection:** Component must be **removed** or isolated from the circuit (Voltage off).
-*   **Method:** The meter injects a small known current and measures the resulting voltage drop to calculate R.
+## 2. Signal Visualization
+*   **Time Domain:** [[Oscilloscope]]. Shows Voltage vs Time.
+    *   Used for: Waveform shape, Amplitude ($U_{pp}$), Period ($T$).
+*   **Frequency Domain:** [[Spectrum Analyzer]]. Shows Amplitude vs Frequency.
+    *   Used for: Harmonics, Bandwidth, Spurious emissions.
 
-| Measurement | Connection | Ideal Resistance |
-| :--- | :--- | :--- |
-| **Voltage** | Parallel | Very High ($\infty$) |
-| **Current** | Series | Very Low ($0$) |
-| **Resistance**| Component Isolated | N/A |
+## 3. Radio Frequency (RF) Measurements
+*   **Frequency:** [[Frequency Counter]]. Measures precise frequency.
+    *   *Accuracy:* Depends on the internal timebase (Crystal/OCXO).
+*   **Resonance:** [[Dip Meter]]. Finds resonant frequency of unpowered LC circuits.
+*   **Signal Injection:** [[Signal Generator]]. Produces stable RF signals for receiver testing.
+    *   *Critical Feature:* Calibrated Attenuator for sensitivity measurements.
+
+## 4. Transmission & Antenna
+*   **Impedance Matching:** [[SWR Meter]]. Measures Standing Wave Ratio.
+*   **Transmitter Load:** [[Dummy Load]]. Non-radiating $50 \Omega$ load.
+*   **Power:** Measured with an RF Power Meter or derived from Voltage ($P = U^2/R$) on a scope/dummy load.
+    *   **PEP Measurement:** Requires a Peak-Reading meter (capacitor hold) or Oscilloscope.
+
+## Related
+*   [[RF Measurements]]
+*   [[Decibels & Logarithms]]
+*   [[Safety]]

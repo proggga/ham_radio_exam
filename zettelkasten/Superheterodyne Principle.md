@@ -15,7 +15,8 @@ The **Superheterodyne** receiver converts any incoming RF signal to a fixed **In
 1.  **RF Amplifier / Preselector**: Filters and amplifies the antenna signal.
     *   *Purpose*: Improves Signal-to-Noise ratio and rejects Image Frequencies.
 2.  **Mixer (Mengtrap)**: Combines RF with Local Oscillator signal.
-    *   *Output*: Sum and Difference frequencies.
+    *   *Output*: Sum and Difference frequencies ($f_{RF} \pm f_{LO}$).
+    *   *Caveat:* **Frequency Deviation** ($\Delta f$) of an FM signal is **preserved** during mixing. It remains the same at the IF.
 3.  **Local Oscillator (LO)**: Generates a tunable frequency ($f_{LO}$).
     *   Tuning maintains: $|f_{RF} - f_{LO}| = f_{IF}$.
 4.  **IF Filter**: Determines the main selectivity (Bandwidth) of the receiver.

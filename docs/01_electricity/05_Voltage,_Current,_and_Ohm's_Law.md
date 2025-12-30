@@ -37,6 +37,11 @@ If you plot Current ($I$) on the Y-axis against Voltage ($U$) on the X-axis:
 *   For a fixed resistor, the result is a straight line through the origin.
 *   **Steep line:** Low resistance (Large current increase for small voltage increase).
 *   **Flat line:** High resistance (Small current increase for large voltage increase).
+*   **Parallel:**
+    *   Voltage stays the same (Must connect identical voltage cells!).
+    *   *Caveat:* Connecting sources with **unequal** voltages in parallel is dangerous. The higher voltage source will discharge into the lower one with high current (limited only by internal resistances), potentially causing overheating or explosion. Ideally, the terminal voltage settles somewhere between the two EMFs.
+    *   Capacity (Ah) adds up.
+    *   Internal resistance decreases ($R_{tot} = R_i / n$).
 
 ---
 [< Back to Section Index](README.md)

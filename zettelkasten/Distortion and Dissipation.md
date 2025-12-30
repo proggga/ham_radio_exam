@@ -11,8 +11,10 @@ modified: 2025-12-29
 
 ## Dissipation
 Power lost as heat in the active device.
-*   **Formula**: $P = U_{ce} \times I_c$
-*   The device must operate within its **Safe Operating Area (SOA)** defined by the Dissipation Hyperbola on the datasheet. Exceeding this destroys the component.
+*   **Formula**: $P_{diss} = U_{DS} \times I_D$ (or $U_{CE} \times I_C$).
+*   **Exam Topic: Dissipation Hyperbola**: A curve plotted on the $I_D - U_{DS}$ graph representing constant power ($P = C$).
+    *   The Operating Point and the entire Load Line must ideally stay **below** this curve to avoid destroying the component.
+    *   Check: Calculate $P$ at the operating point and compare to $P_{max}$.
 
 ## Harmonic Distortion
 Non-linearity in an amplifier creates multiples of the fundamental frequency.

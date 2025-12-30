@@ -19,12 +19,26 @@ To work correctly, the active device (like a transistor) must be set to a specif
     *   **Emitter/Source/Cathode Resistor**: Provides self-bias and thermal stability (negative feedback for DC).
 
 ## Load Line (Belastingslijn)
-A graphical tool to visualize amplifier operation.
-*   Plots **Collector Current ($I_c$)** vs **Collector-Emitter Voltage ($U_{ce}$)**.
-*   **Line**: Connects the saturation point ($I_{max} = U_{supply}/R_{load}$) and cutoff point ($U_{max} = U_{supply}$).
-*   **Operating Point ($P$)**: The DC bias point on this line.
-    *   For **Class A**, $P$ is in the middle (allows max swing up and down).
-    *   For **Class B**, $P$ is at cutoff ($I_c = 0$).
+A graphical tool to visualize amplifier operation and select the Operating Point.
+*   **Graph:** Plots Output Current ($I_D$ or $I_C$) vs Output Voltage ($U_{DS}$ or $U_{CE}$).
+*   **Construction:** Drawn as a straight line connecting two extreme points:
+    1.  **Cutoff Point (Sper):** Current = 0. Voltage = Supply Voltage ($U_b$).
+    2.  **Saturation Point (Verzadiging):** Voltage = 0. Current = $U_b / (R_{load} + R_{source/emitter})$.
+*   **Operating Point (Werkpunt, P):** The intersection of the Load Line and the device's characteristic curve for the chosen bias voltage ($U_{GS}$ or $I_B$).
+    *   **Class A:** P is in the middle of the line (maximum swing).
+    *   **Class B:** P is at Cutoff ($I=0$).
+
+### Calculations
+*   **Source/Emitter Resistor ($R_S$ or $R_E$):** Used to set the bias point.
+    *   $R_S = \frac{U_{GS}}{I_D}$ (Note: $U_{GS}$ is the required bias voltage).
+*   **Bypass Capacitor:**
+    *   A capacitor parallel to $R_S$ or $R_E$ increases AC gain by bypassing the resistor for signals (AC Load Line is steeper than DC Load Line).
+    *   Without bypass: Gain $\approx R_L / R_E$.
+    *   With bypass: Gain is much higher (limited by internal resistance).
+
+## Dissipation
+*   **Formula:** $P_{diss} = U_{DS} \times I_D$ (or $U_{CE} \times I_C$).
+*   **Hyperbola:** The limit of safe operation plotted on the graph ($P_{max} = constant$). The Load Line must lie below this curve to prevent overheating.
 
 ## Related
 *   [[Semiconductors]]
