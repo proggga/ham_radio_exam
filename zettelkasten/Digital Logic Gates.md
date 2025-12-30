@@ -18,6 +18,7 @@ Digital circuits process binary data (0s and 1s).
 | Gate | Symbol (IEC) | Function | Output = 1 when... | Formula |
 | :--- | :--- | :--- | :--- | :--- |
 | **NOT** | `1` | Inverter | Input is 0 | $Q = \bar{A}$ |
+| **BUFFER** | `1` | Driver | Input is 1 | $Q = A$ |
 | **AND** | `&` | Series | All inputs are 1 | $Q = A \cdot B$ |
 | **OR** | `>=1` | Parallel | At least one input is 1 | $Q = A + B$ |
 | **NAND** | `&` + `o` | Not AND | Not all inputs are 1 | $Q = \overline{A \cdot B}$ |

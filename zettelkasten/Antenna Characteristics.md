@@ -24,6 +24,15 @@ Antenna gain is a comparison of power in the strongest direction against a refer
 *   **EIRP (Effective Isotropic Radiated Power):** Power relative to an isotropic radiator.
     *   $EIRP = P_{transmitter} - Losses + Gain (dBi)$.
 
+### Calculation Example
+**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 dB. Antenna is a Yagi with 13 dBd gain. What is the ERP?
+1.  **Convert Power to dBW:** $10 \text{ W} = 10 \text{ dBW}$.
+2.  **Calculate Power at Antenna:** $10 \text{ dBW} - 3 \text{ dB} = 7 \text{ dBW}$ (5 Watts).
+3.  **Add Antenna Gain:** $7 \text{ dBW} + 13 \text{ dBd} = 20 \text{ dBW}$.
+4.  **Convert back to Watts:** $20 \text{ dBW} = 100 \text{ W}$.
+*   *Alternative (Factor method):* 3 dB loss = 1/2 power. 13 dB gain $\approx$ 20x power.
+    *   $10 \text{ W} \times 0.5 \times 20 = 100 \text{ W}$.
+
 ## 3. Radiation Resistance ($R_{rad}$)
 A virtual resistance that accounts for the power radiated as EM waves.
 *   Total Impedance $Z = R_{rad} + R_{loss} + jX$. See [[Reactance & Impedance|Impedance]].

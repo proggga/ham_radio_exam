@@ -21,11 +21,12 @@ Limits are defined by **SAR** (Specific Absorption Rate) in W/kg.
 *   **Occupational (Workers):** 0.4 W/kg.
 *   **General Public:** 0.08 W/kg (Strict limit for neighbors/family).
 
-### Field Strength Limits
-(Approximate values for Public exposure, exact table in HS17)
-*   **HF (3-30 MHz):** ~28 V/m.
-*   **VHF (144 MHz):** ~28 V/m.
-*   **UHF (430 MHz):** ~29 V/m.
+### Field Strength Limits (V/m)
+Maximum electric field strength for General Public (Reference levels):
+*   **HF (10-30 MHz):** ~28 V/m.
+*   **VHF (144 MHz):** ~28 V/m (specifically 27.7 V/m in some tables).
+*   **UHF (430 MHz):** ~29 - 30 V/m.
+*   *Note:* Limits are frequency dependent. Lower frequencies allow higher fields (e.g. 87 V/m at 1 MHz).
 
 ## 3. Safe Distance Calculation
 To ensure field strength $E$ stays below the limit $E_{limit}$:

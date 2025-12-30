@@ -42,6 +42,21 @@ Vacuum tubes (valves) operate on the principle of **Thermionic Emission** (Ediso
 *   **Function**: Prevents secondary emission electrons from reaching the screen grid.
 *   **Characteristics**: High gain, high internal resistance.
 
+## Tube Configurations (Basisschakelingen)
+Analogous to Transistor/FET circuits.
+*   **Common Cathode (GKS)**:
+    *   Input: Grid | Output: Anode.
+    *   *Equivalent:* Common Emitter (GES) / Common Source (GSS).
+    *   *Characteristics:* High Gain, Phase Inversion ($180^\circ$).
+*   **Cathode Follower (GAS - Common Anode)**:
+    *   Input: Grid | Output: Cathode.
+    *   *Equivalent:* Emitter Follower (GCS) / Source Follower (GDS).
+    *   *Characteristics:* Gain < 1, High Input Z, Low Output Z. Used as Buffer.
+*   **Grounded Grid (GRS)**:
+    *   Input: Cathode | Output: Anode.
+    *   *Equivalent:* Common Base (GBS) / Common Gate (GGS).
+    *   *Characteristics:* Non-inverting, Low Input Z. Used in VHF/UHF amplifiers.
+
 ## Comparison with Semiconductors
 *   **Heater**: Tubes need warmup and consume more power.
 *   **Voltage**: Tubes work at high voltages (100V - kV).

@@ -26,6 +26,12 @@ Used in VFOs (Variable Frequency Oscillators).
 Uses a Quartz crystal for high stability.
 *   **Pierce**: Crystal connects between Base and Collector.
 *   **Overtone**: Crystal vibrates at an odd harmonic (3rd, 5th, etc.) for VHF use.
+*   **Miller**: Uses internal capacitance of the active device (often a FET) for feedback. Crystal is parallel to the input.
+
+## Parasitic Oscillations
+Unwanted oscillations caused by stray capacitance/inductance (often in PA stages).
+*   **Symptoms**: Overheating, distortion, interference.
+*   **Cure**: Ferrite beads on leads, neutralizing capacitors.
 
 ## Stability & Phase Noise
 *   **Phase Noise**: Short-term frequency instability (jitter). Appears as noise sidebands. Widens the signal and degrades receiver selectivity.

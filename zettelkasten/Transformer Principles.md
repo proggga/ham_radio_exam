@@ -24,6 +24,12 @@ The transformation depends on the **Turns Ratio** ($\frac{N_{prim}}{N_{sec}}$).
     *   **Step-up**: More turns on secondary $\rightarrow$ Higher Voltage, Lower Current.
     *   **Step-down**: Fewer turns on secondary $\rightarrow$ Lower Voltage, Higher Current.
 
+### Phasing (Windings in Series)
+When connecting two windings (e.g., secondaries) in series, the **Phase** matters (Dot convention).
+*   **In Phase (Boosting)**: Voltages add up ($U_{total} = U_1 + U_2$).
+*   **Out of Phase (Bucking)**: Voltages subtract ($U_{total} = |U_1 - U_2|$).
+    *   *Example*: Connecting a 24V and 18V winding in anti-series results in $24 - 18 = 6V$.
+
 ### Impedance Transformation
 Transformers can match source and load impedances.
 *   **Formula**: $Z_{prim} = Z_{sec} \times (\frac{N_{prim}}{N_{sec}})^2$

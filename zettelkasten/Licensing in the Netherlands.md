@@ -31,8 +31,7 @@ A unique identifier for the station.
 ## 3. Operation
 *   **Identification:** Must transmit call sign at the start, end, and every 10 minutes during a transmission.
 *   **Guest Operation (Visiting NL):**
-    *   CEPT license holders can operate in NL.
-    *   Prefix: **PA/** followed by home call (e.g., PA/G4ABC).
-    *   Novice visitors use **PD/**.
+    *   **Full License (CEPT T/R 61-01):** Visitors use prefix **PA/** followed by their home call (e.g., *PA/G4ABC*).
+    *   **Novice License:** Visitors use prefix **PD/** followed by their home call (e.g., *PD/DO1ABC*).
 *   **Operating Abroad:**
     *   With a Dutch registration (CEPT T/R 61-01), you can operate in many countries using their prefix before your call (e.g., DL/PA0ABC in Germany).

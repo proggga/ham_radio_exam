@@ -34,7 +34,15 @@ Output connected directly to (-) input.
 *   **Gain**: 1
 *   **Use**: Impedance matching (High Z source to Low Z load).
 
-### 4. Comparator
+### 4. Summing Amplifier (Optelversterker)
+Adds multiple input voltages together (inverted).
+*   **Formula**: $U_{out} = -(\frac{R_f}{R_1}U_1 + \frac{R_f}{R_2}U_2 + ...)$
+
+### 5. Difference Amplifier (Verschilversterker)
+Amplifies the difference between two inputs.
+*   **Formula**: $U_{out} = \frac{R_f}{R_{in}} (U_2 - U_1)$
+
+### 6. Comparator
 No feedback used. Compares inputs and swings output to positive or negative rail.
 
 ## Related

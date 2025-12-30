@@ -18,6 +18,11 @@ Visualizes signals in the **Time Domain** (Voltage vs Time).
     *   **Period ($T$):** Time for one cycle.
     *   **Frequency:** Calculated as $f = 1/T$.
     *   **Waveform:** Sine, Square, Distortion, Modulation depth.
+    *   **Lissajous Figures:** XY-mode (Channel A = X, Channel B = Y).
+        *   Used to compare **Frequency** and **Phase** of two signals.
+        *   *Circle:* Same frequency, $90^\circ$ phase shift.
+        *   *Diagonal Line:* Same frequency, $0^\circ$ or $180^\circ$ phase shift.
+        *   *Loops:* Frequency ratio (e.g., 2:1 is a figure-8).
 *   **Probes:** 1:1 or 10:1 (Attenuator). 10:1 reduces capacitive loading on the circuit.
 
 ## 2. Spectrum Analyzer
