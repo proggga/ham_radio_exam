@@ -10,14 +10,14 @@ modified: 2025-12-29
 # Mitigation (Ontstoring)
 
 ## 1. At the Transmitter (Source)
-*   **Low Pass Filter (LPF):** Place between Transmitter and Antenna. Attenuates Harmonics (frequencies *above* the cutoff).
-    *   *Circuit:* Pi-filter or T-filter (Capacitor to ground).
+*   **Low Pass [[Filters & Resonance|Filter]] (LPF):** Place between Transmitter and [[Antenna & Tower Safety|Antenna]]. Attenuates Harmonics (frequencies *above* the cutoff).
+    *   *Circuit:* Pi-filter or T-filter ([[Capacitors|Capacitor]] to ground).
 *   **Power Level:** Use the minimum power necessary.
-*   **Shielding (Afscherming)**: Enclose oscillator/RF stages in metal cans ("Inblikken").
+*   **[[Shielding (Afscherming)|Shielding]] (Afscherming)**: Enclose oscillator/RF stages in metal cans ("Inblikken").
     *   **Feedthrough Capacitors (Doorvoercondensatoren)**: Used to pass DC power/signals through the shield while shorting RF to the case (ground).
 
 ## 2. At the Victim (Immunity)
-*   **High Pass Filter (HPF):** Place on TV/Radio antenna inputs to block HF amateur signals.
+*   **High Pass Filter (HPF):** Place on TV/Radio antenna inputs to block [[Propagation Basics|HF]] amateur signals.
 *   **Band Stop Filter (Notch/Sperkring):** Blocks a specific interfering frequency. Series LC to ground or Parallel LC in series.
 *   **Input Attenuator**: Reduces the signal level to prevent Intermodulation/Blocking.
 
@@ -38,7 +38,7 @@ Using capacitors to short RF to ground.
 *   **Formula**: $X_C = \frac{1}{2\pi f C}$. Goal is $X_C \ll Z_{circuit}$.
 
 ## 5. Mains Filtering
-*   **Mains Filter:** A combination of Series Inductors and Parallel Capacitors (L-C) built into a module.
+*   **Mains Filter:** A combination of Series [[Inductors (Spoelen)|Inductors]] and Parallel Capacitors (L-C) built into a module.
 *   **Ferrite Ring**: Wrapping the mains cord through a ferrite ring blocks common-mode RF from entering via the mains.
 
 ## Related

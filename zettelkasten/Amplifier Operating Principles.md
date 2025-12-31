@@ -15,7 +15,7 @@ An amplifier increases the amplitude of a signal (Voltage, Current, or Power) wi
 To work correctly, the active device (like a transistor) must be set to a specific **Operating Point** (Werkpunt or Instelpunt) using DC voltages and currents.
 *   **Purpose**: To ensure the device operates in its linear region (for Class A) or appropriate cutoff point.
 *   **Methods**:
-    *   **Base/Gate Resistors**: Set the DC voltage.
+    *   **Base/Gate [[Resistors]]**: Set the DC voltage.
     *   **Emitter/Source/Cathode Resistor**: Provides self-bias and thermal stability (negative feedback for DC).
 
 ## Load Line (Belastingslijn)
@@ -31,7 +31,7 @@ A graphical tool to visualize amplifier operation and select the Operating Point
 ### Calculations
 *   **Source/Emitter Resistor ($R_S$ or $R_E$):** Used to set the bias point.
     *   $R_S = \frac{U_{GS}}{I_D}$ (Note: $U_{GS}$ is the required bias voltage).
-*   **Bypass Capacitor:**
+*   **Bypass [[Capacitors|Capacitor]]:**
     *   A capacitor parallel to $R_S$ or $R_E$ increases AC gain by bypassing the resistor for signals (AC Load Line is steeper than DC Load Line).
     *   Without bypass: Gain $\approx R_L / R_E$.
     *   With bypass: Gain is much higher (limited by internal resistance).

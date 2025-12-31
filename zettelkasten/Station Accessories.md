@@ -13,18 +13,18 @@ Beyond the transceiver, several accessories improve station performance and capa
 
 ## RF Power Amplifiers (Amplifiers)
 *   **Function**: Increases the transmitted output power.
-*   **Usage**: Useful for weak signal work (SSB/CW) or overcoming feedline loss.
+*   **Usage**: Useful for weak signal work ([[Single Sideband (SSB)|SSB]]/[[CW Abbreviations & Prosigns|CW]]) or overcoming feedline loss.
 *   **Key Controls**:
-    *   **SSB/CW-FM Switch**:
+    *   **SSB/CW-[[Frequency Modulation (FM)|FM]] Switch**:
         *   *SSB/CW*: Adds a delay to the T/R relay to prevent it from dropping out between words (VOX delay). Linear amplification.
         *   *FM*: No delay, instant switching. Class C (non-linear) amplification often used for efficiency.
 
 ## Transverters
 *   **Function**: Converts the RF input and output of a transceiver to another band.
 *   **Operation**:
-    *   *Transmit*: Down-converts HF (e.g., 28 MHz) to IF, or Up-converts IF to VHF/UHF/Microwave.
+    *   *Transmit*: Down-converts [[Propagation Basics|HF]] (e.g., 28 MHz) to IF, or Up-converts IF to [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF/Microwave.
     *   *Receive*: Down-converts VHF/UHF signals to the HF band (e.g., 28 MHz) for the transceiver to process.
-*   **Application**: Allows an HF radio to operate on VHF/UHF/Microwave bands (e.g., 1296 MHz) while retaining the HF radio's advanced features (filters, DSP).
+*   **Application**: Allows an HF radio to operate on VHF/UHF/Microwave bands (e.g., 1296 MHz) while retaining the HF radio's advanced features (filters, [[Digital Signal Processing (DSP)|DSP]]).
 
 ## RF Preamplifiers (Preamps)
 *   **Function**: Amplifies weak signals *before* they reach the receiver.

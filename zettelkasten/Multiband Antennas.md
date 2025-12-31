@@ -17,7 +17,7 @@ Uses parallel LC circuits (**Traps**) inserted into the antenna wire.
     *   **At Resonant Frequency of Trap**: High impedance (acts as an insulator). The outer part of the antenna is cut off. The antenna acts as a shorter dipole for the higher frequency.
     *   **Below Resonant Frequency**: Inductive. Acts as a loading coil, electrically lengthening the antenna.
 *   **Advantage**: Single feedline for multiple bands (e.g., W3DZZ for 80/40m).
-*   **Disadvantage**: Traps have losses (Q-factor), heavier wind load, narrower bandwidth.
+*   **Disadvantage**: Traps have losses ([[Quality Factor (Q)|Q-factor]]), heavier wind load, narrower bandwidth.
 
 ## 2. Fan Dipole (Parallel Dipole)
 Multiple dipoles for different bands connected to the same center feedpoint.
@@ -28,7 +28,7 @@ Multiple dipoles for different bands connected to the same center feedpoint.
 ## 3. Log Periodic Antenna (LogPer)
 A directional array where elements are scaled logarithmically.
 *   **Operation**: Broad bandwidth (can cover 10-30 MHz continuously).
-*   **Gain**: Moderate (less than a Yagi for the same boom length).
+*   **Gain**: Moderate (less than a [[Directional Antennas (Beams)|Yagi]] for the same boom length).
 
 ## Related
 *   [[The Dipole Antenna]]

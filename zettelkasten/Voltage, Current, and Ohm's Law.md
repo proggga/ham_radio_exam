@@ -13,7 +13,7 @@ modified: 2025-12-29
 Current is the flow of electric charge.
 *   **Symbol:** $I$
 *   **Unit:** Ampere ($A$)
-*   **Definition:** $1 \text{ A} = 1 \text{ Coulomb per second} (C/s)$. See [[Atomic Theory & Conductivity|Atomic Theory]] for Charge.
+*   **Definition:** $1 \text{ A} = 1 \text{ [[Electrical Charge (Coulomb)|Coulomb]] per second} (C/s)$. See [[Atomic Theory & Conductivity|Atomic Theory]] for Charge.
 *   **Formula:** $I = \frac{Q}{t}$ (Current = Charge / Time).
 
 ### Direction of Current

@@ -17,7 +17,7 @@ This map covers frequency selective circuits.
 
 ## Characteristics
 *   **[[Quality Factor (Q)]]** - Q factor.
-    *   *Caveat:* Adding a parallel resistor (damping) to an LC circuit **lowers** the Q-factor, **increases** the Bandwidth, and **lowers** the impedance/gain.
+    *   *Caveat:* Adding a parallel resistor (damping) to an LC circuit **lowers** the [[Quality Factor (Q)|Q-factor]], **increases** the [[Bandwidth]], and **lowers** the impedance/gain.
 *   **[[Bandwidth]]** - -3dB bandwidth and selectivity.
 ## 3. Bandwidth and Selectivity
 *   **Bandwidth ($B$):** $B = \frac{f_{res}}{Q}$.
@@ -37,8 +37,8 @@ This map covers frequency selective circuits.
 *   **[[High-Performance Filters]]** - Crystal and Mechanical filters.
 
 ## 4. Impedance at Resonance
-*   **Series LC:** $X_L$ and $X_C$ cancel out ($X_{total} = 0$). Impedance is minimal ($Z = R_{loss}$). Acts as a short circuit.
-    *   **Off-Resonance Behavior:**
+*   **Series LC:** $X_L$ and $X_C$ cancel out ($X_{total} = 0$). [[Impedance (Impedantie)|Impedance]] is minimal ($Z = R_{loss}$). Acts as a short circuit.
+    *   **Off-[[Resonance]] Behavior:**
         *   $f < f_{res}$: **Capacitive** ($X_C > X_L$). Voltage lags current.
         *   $f > f_{res}$: **Inductive** ($X_L > X_C$). Voltage leads current.
 *   **Parallel LC:** Currents cancel out. Impedance is maximal ($Z_{res} = L / (C \cdot R_{loss})$ or $Q \cdot X_L$). Acts as an open circuit.
@@ -51,7 +51,7 @@ This map covers frequency selective circuits.
 When two tuned circuits are coupled (e.g., in an IF transformer), the response changes based on the coupling coefficient ($k$) and Q-factor ($Q$).
 *   **Undercritical Coupling ($kQ < 1$):** Single peak, lower amplitude. Narrow bandwidth.
 *   **Critical Coupling ($kQ = 1$):** Maximum transfer of energy. Flattest top without a dip.
-*   **Overcritical Coupling ($kQ > 1$):** Double peak ("Camel hump" or "Oortjes"). Broader bandwidth but with a dip in the center. Used to widen the passband for FM/Audio.
+*   **Overcritical Coupling ($kQ > 1$):** Double peak ("Camel hump" or "Oortjes"). Broader bandwidth but with a dip in the center. Used to widen the passband for [[Frequency Modulation (FM)|FM]]/Audio.
 
 ## Related
 *   **[[Reactance & Impedance]]** - Underlying theory.

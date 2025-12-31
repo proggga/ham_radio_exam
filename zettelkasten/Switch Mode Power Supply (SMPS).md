@@ -12,12 +12,12 @@ modified: 2025-12-29
 ## Operation
 1.  Rectifies mains to high voltage DC.
 2.  Switches this DC at high frequency (kHz to MHz).
-3.  Transforms/Regulates using an Inductor/Transformer.
+3.  Transforms/Regulates using an [[Inductors (Spoelen)|Inductor]]/Transformer.
 4.  Rectifies and filters output.
-*   **Regulation**: Uses **PWM** (Pulse Width Modulation) to adjust duty cycle ($D$).
+*   **Regulation**: Uses **PWM** (Pulse Width [[Modulation & Digital Signals|Modulation]]) to adjust duty cycle ($D$).
 
 ## Topologies
-Identify these by the arrangement of the Inductor (L), Switch (T), and Diode (D).
+Identify these by the arrangement of the Inductor (L), Switch (T), and [[Diodes|Diode]] (D).
 *   **Step-Down (Buck)**: Output < Input.
     *   Formula: $U_{out} \approx D \times U_{in}$
     *   *Circuit:* Switch in series, then Diode to ground, Inductor to output.
@@ -28,7 +28,7 @@ Identify these by the arrangement of the Inductor (L), Switch (T), and Diode (D)
 
 ## Characteristics
 *   **Pros**: High efficiency (> 80%), small, lightweight.
-*   **Cons**: Generates **RF Noise (QRM)** due to fast switching transients.
+*   **Cons**: Generates **RF [[AC Signals & Noise|Noise]] (QRM)** due to fast switching transients.
     *   Requires extensive EMI filtering (mains filter, shielding) to be usable for radio.
 
 ## Related

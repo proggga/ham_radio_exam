@@ -18,7 +18,7 @@ A capacitor stores electrical energy in an **electric field**.
 ## Capacitance ($C$)
 The ability to store charge.
 *   **Unit**: Farad ($F$).
-    *   $1 \text{ F} = 1 \text{ Coulomb per Volt} (C/V)$.
+    *   $1 \text{ F} = 1 \text{ [[Electrical Charge (Coulomb)|Coulomb]] per Volt} (C/V)$.
     *   Typical values: $\mu F$, $nF$, $pF$.
 
 ### Formula

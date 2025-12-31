@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Solar Cycle & Band Selection
 
-The **11-year solar cycle** fundamentally determines which HF bands are usable for long-distance communication (DX).
+The **11-year solar cycle** fundamentally determines which [[Propagation Basics|HF]] bands are usable for long-distance communication (DX).
 
 ## Mechanism
 *   **Solar Flux Index (SFI) / Sunspot Number (SSN):** Indicators of ionization levels in the atmosphere.

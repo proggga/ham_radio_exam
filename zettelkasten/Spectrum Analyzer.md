@@ -11,7 +11,7 @@ modified: 2025-12-30
 
 A Spectrum Analyzer displays signals in the **Frequency Domain**.
 *   **X-Axis:** Frequency.
-*   **Y-Axis:** Amplitude (usually logarithmic/dB).
+*   **Y-Axis:** Amplitude (usually logarithmic/[[Decibels & Logarithms|dB]]).
 
 ## Architecture
 It functions like a scanning superheterodyne receiver.
@@ -20,11 +20,11 @@ It functions like a scanning superheterodyne receiver.
 
 ## Usage
 *   **Harmonics**: Checking a transmitter for spurious emissions or harmonics (required to be -60dBc or similar).
-*   **Bandwidth**: Measuring the occupied bandwidth of a modulated signal.
-*   **Modulation**: Visualizing sidebands (AM/FM).
+*   **[[Bandwidth]]**: Measuring the occupied bandwidth of a modulated signal.
+*   **[[Modulation & Digital Signals|Modulation]]**: Visualizing sidebands ([[Analogue Modulation & AM|AM]]/[[Frequency Modulation (FM)|FM]]).
 
 ## Comparison with Oscilloscope
-*   **Oscilloscope:** Time Domain (Voltage vs Time). Good for waveform shape.
+*   **[[Oscilloscope]]:** Time Domain (Voltage vs Time). Good for waveform shape.
 *   **Spectrum Analyzer:** Frequency Domain (Amplitude vs Frequency). Good for harmonic content and spectral purity.
 
 ## Related

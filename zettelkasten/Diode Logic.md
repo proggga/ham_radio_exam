@@ -9,7 +9,7 @@ modified: 2025-12-30
 
 # Diode Logic
 
-Diodes can be used to construct simple logic gates (AND, OR) by utilizing their property of conducting current in only one direction.
+[[Diodes]] can be used to construct simple logic gates (AND, OR) by utilizing their property of conducting current in only one direction.
 
 ## Principles
 *   **Highest Potential Wins**: In a circuit where multiple diode cathodes meet a common point (with a resistor to ground), the diode with the **highest** anode potential will conduct, raising the common point to that potential (minus 0.7V). The other diodes will be reverse-biased (blocked).

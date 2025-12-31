@@ -17,7 +17,7 @@ Radio exams often require interpreting graphs to understand circuit behavior (li
 
 ## Scales
 *   **Linear Scale**: Equal distances represent equal additions (1, 2, 3, 4). Used when values are in a relatively small range.
-*   **Logarithmic Scale**: Equal distances represent equal multiplications (1, 10, 100, 1000). Essential in radio for plotting **Frequency** (spanning Hz to GHz) or **Gain** (in dB).
+*   **Logarithmic Scale**: Equal distances represent equal multiplications (1, 10, 100, 1000). Essential in radio for plotting **Frequency** (spanning Hz to GHz) or **Gain** (in [[Decibels & Logarithms|dB]]).
 
 ## Related
 *   [[Filters & Resonance]] (Frequency response graphs)

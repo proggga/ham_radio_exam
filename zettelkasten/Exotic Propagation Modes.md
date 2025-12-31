@@ -12,15 +12,15 @@ modified: 2025-12-29
 
 # Exotic Propagation Modes
 
-Specialized modes often used by weak-signal enthusiasts on VHF/UHF.
+Specialized modes often used by weak-signal enthusiasts on [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF.
 
 ## Types
 *   **Aurora**: Reflection off ionized sheets at the magnetic poles during geomagnetic storms.
-    *   *Effect*: Signals sound fluttery or "hissing". CW/SSB only (Voice is distorted).
+    *   *Effect*: Signals sound fluttery or "hissing". [[CW Abbreviations & Prosigns|CW]]/[[Single Sideband (SSB)|SSB]] only (Voice is distorted).
 *   **Meteor Scatter**: Reflection off short-lived ionized trails left by meteors burning up in the atmosphere.
     *   *Effect*: Short bursts ("pings") of signal. Used with digital modes like MSK144.
 *   **EME (Earth-Moon-Earth)**: Bouncing signals off the moon.
-    *   *Challenge*: Huge path loss (~250 dB). Requires high power and large antennas.
+    *   *Challenge*: Huge path loss (~250 [[Decibels & Logarithms|dB]]). Requires high power and large antennas.
 
 ## Related Notes
 *   [[Ionospheric Layers]] (Sporadic E is another irregular mode)

@@ -20,7 +20,7 @@ The dipole is the fundamental antenna against which others are often compared.
 
 ## Resonance on Harmonics
 A dipole resonates not only at its fundamental frequency ($f$) but also at harmonics.
-*   **Odd Harmonics (3rd, 5th...)**: The center remains a **Current Maximum** (Low Impedance). Can be fed directly.
+*   **Odd Harmonics (3rd, 5th...)**: The center remains a **Current Maximum** (Low [[Impedance (Impedantie)|Impedance]]). Can be fed directly.
 *   **Even Harmonics (2nd, 4th...)**: The center becomes a **Voltage Maximum** (High Impedance). Hard to feed with low-Z coax.
 
 ## Characteristics
@@ -33,12 +33,12 @@ A dipole resonates not only at its fundamental frequency ($f$) but also at harmo
     *   Omni-directional, lower impedance (~$50 \Omega$).
 *   **Folded Dipole**: Folded back on itself.
     *   **Impedance**: $4 \times$ Dipole $\approx 300 \Omega$.
-    *   **Bandwidth**: Wider than a standard dipole.
+    *   **[[Bandwidth]]**: Wider than a standard dipole.
     *   Often used with a 4:1 Balun.
 *   **Trap Dipole**: Uses LC parallel circuits (Traps) to electrically disconnect outer sections of the wire at higher frequencies, allowing multiband operation.
 
 ## Equivalent Circuit
-*   **At Resonance**: Pure Resistance ($R_{rad} + R_{loss}$).
+*   **At [[Resonance]]**: Pure Resistance ($R_{rad} + R_{loss}$).
 *   **Below Resonance (Too Short)**: Capacitive (needs series L to tune).
 *   **Above Resonance (Too Long)**: Inductive (needs series C to tune).
 

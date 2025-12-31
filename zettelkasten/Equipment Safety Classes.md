@@ -26,7 +26,7 @@ modified: 2025-12-29
 ## Class III: SELV
 *   **Symbol:** Diamond with "III".
 *   **Protection:** Supply voltage is too low to cause shock (< 60V DC / 30V AC).
-*   **Source:** Batteries or a Safety Transformer (SELV power supply).
+*   **Source:** Batteries or a [[Electrical Safety|Safety]] Transformer (SELV power supply).
 
 ---
 

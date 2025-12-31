@@ -12,7 +12,7 @@ modified: 2025-12-29
 This map covers the legal framework and classification of amateur radio.
 
 ## Legal Basis
-*   **[[Amateur Service Definition]]** - ITU definition and Dutch laws.
+*   **[[Amateur Service Definition]]** - [[Emission Classes (ITU)|ITU]] definition and Dutch laws.
 *   **[[Station Status]]** - Primary vs. Secondary status.
 *   **[[Operating Rules (Netherlands)]]** - Specific Dutch regulations (Registration, Power limits, Restrictions).
 

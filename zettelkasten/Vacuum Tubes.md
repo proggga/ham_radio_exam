@@ -21,7 +21,7 @@ Vacuum tubes (valves) operate on the principle of **Thermionic Emission** (Ediso
 
 ### The Diode (2 Electrodes)
 *   **Parts**: Cathode + Anode.
-*   **Function**: Rectification (current flows only one way).
+*   **Function**: [[Rectification]] (current flows only one way).
 
 ### The Triode (3 Electrodes)
 *   **Added Part**: **Control Grid (Stuurrooster, $g_1$)**.
@@ -35,7 +35,7 @@ Vacuum tubes (valves) operate on the principle of **Thermionic Emission** (Ediso
 ### The Tetrode (4 Electrodes)
 *   **Added Part**: **Screen Grid (Schermrooster, $g_2$)**.
 *   **Function**:
-    *   Shields Anode from Control Grid, reducing Grid-Anode capacitance ($C_{ag}$). This improves HF stability and gain.
+    *   Shields Anode from Control Grid, reducing Grid-Anode capacitance ($C_{ag}$). This improves [[Propagation Basics|HF]] stability and gain.
     *   Makes Anode current ($I_a$) less dependent on Anode Voltage ($U_a$), increasing internal resistance ($R_i$) and Gain factor ($\mu$).
 *   **Drawback**: **Secondary Emission**. High speed electrons hitting the Anode knock other electrons loose. If $U_a < U_{g2}$, these electrons are attracted to the screen grid, causing a "dip" in the characteristic curve (negative resistance region). This causes instability.
 
@@ -47,7 +47,7 @@ Vacuum tubes (valves) operate on the principle of **Thermionic Emission** (Ediso
 *   **Characteristics**: High gain, very high internal resistance. Standard for RF power amplifiers.
 
 ## Tube Configurations (Basisschakelingen)
-Analogous to Transistor/FET circuits.
+Analogous to [[Transistors (BJT & FET)|Transistor]]/FET circuits.
 *   **Common Cathode (GKS)**:
     *   Input: Grid | Output: Anode.
     *   *Equivalent:* Common Emitter (GES) / Common Source (GSS).
@@ -59,10 +59,10 @@ Analogous to Transistor/FET circuits.
 *   **Grounded Grid (GRS)**:
     *   Input: Cathode | Output: Anode.
     *   *Equivalent:* Common Base (GBS) / Common Gate (GGS).
-    *   *Characteristics:* Non-inverting, Low Input Z. Used in VHF/UHF amplifiers.
+    *   *Characteristics:* Non-inverting, Low Input Z. Used in [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF amplifiers.
 
 ## Comparison with Semiconductors
-*   **Heater**: Tubes need warmup and consume more power.
+*   **Heater**: [[Tubes & Op-Amps|Tubes]] need warmup and consume more power.
 *   **Voltage**: Tubes work at high voltages (100V - kV).
 *   **Robustness**: More resistant to temporary overloads and EMP.
 

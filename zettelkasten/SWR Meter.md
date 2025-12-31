@@ -9,15 +9,15 @@ modified: 2025-12-29
 
 # SWR Meter (Staandegolfmeter)
 
-An SWR meter measures the **Standing Wave Ratio** on a transmission line, indicating how well the antenna system is matched to the transmitter.
+An [[Standing Wave Ratio (SWR)|SWR]] meter measures the **Standing Wave Ratio** on a transmission line, indicating how well the antenna system is matched to the transmitter.
 
 ## Operation
-*   **Placement**: Connected between the Transmitter and the Antenna (or Antenna Tuner).
+*   **Placement**: Connected between the Transmitter and the [[Antenna & Tower Safety|Antenna]] (or Antenna Tuner).
 *   **Method**: Directional couplers sample the **Forward Power** ($P_{fwd}$) and **Reflected Power** ($P_{ref}$).
 
 ## Usage Procedure
 1.  Select **FWD** (Forward).
-2.  Key the Transmitter (using a constant carrier mode like FM or CW).
+2.  Key the Transmitter (using a constant carrier mode like [[Frequency Modulation (FM)|FM]] or [[CW Abbreviations & Prosigns|CW]]).
 3.  Adjust the calibration knob to the **SET** mark (Full scale).
 4.  Select **REF** (Reflected).
 5.  Read the SWR value on the scale.

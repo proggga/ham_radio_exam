@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Transformer Losses
 
-Real transformers are not 100% efficient. Energy is lost as heat.
+Real transformers are not 100% efficient. [[Power and Energy|Energy]] is lost as heat.
 
 ## Types of Loss
 

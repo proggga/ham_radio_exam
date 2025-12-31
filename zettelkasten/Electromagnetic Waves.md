@@ -30,8 +30,8 @@ The distance the wave travels in one complete cycle.
 *   **Practical**: $\lambda_{(m)} \approx \frac{300}{f_{(MHz)}}$
 
 ### Polarization
-Defined by the orientation of the **Electric Field ($E$)**.
-*   **Horizontal**: E-field oscillates horizontally (e.g., Dipole parallel to ground).
+Defined by the orientation of the **[[Electric Field]] ($E$)**.
+*   **Horizontal**: E-field oscillates horizontally (e.g., [[The Dipole Antenna|Dipole]] parallel to ground).
 *   **Vertical**: E-field oscillates vertically (e.g., Vertical Ground Plane).
 *   **Circular**: E-field vector rotates.
 

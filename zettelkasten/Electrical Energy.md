@@ -12,7 +12,7 @@ modified: 2025-12-29
 
 # Electrical Energy (Arbeid/Energie)
 
-Energy is the capacity to do work, or the total power consumed over a period of time.
+[[Power and Energy|Energy]] is the capacity to do work, or the total power consumed over a period of time.
 
 ## Definition
 *   **Symbol**: $W$ (Work) or $E$.
@@ -28,4 +28,4 @@ $$E = P \times t$$
 
 ## Related Notes
 *   [[Electrical Power]]
-*   [[Candidate Basic Skills]] (SI Units)
+*   [[Candidate Basic Skills]] ([[SI Units & Prefixes|SI Units]])

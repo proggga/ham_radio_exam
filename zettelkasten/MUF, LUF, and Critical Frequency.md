@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # MUF, LUF, and Critical Frequency
 
-These parameters define the "Operating Window" for HF communication.
+These parameters define the "Operating Window" for [[Propagation Basics|HF]] communication.
 
 ## Critical Frequency ($f_c$)
 The highest frequency sent **straight up** (Vertical Incidence) that returns to earth. Frequencies higher than $f_c$ escape into space if sent vertically.

@@ -16,9 +16,9 @@ Part of the output is **subtracted** from the input ($180^\circ$ out of phase).
 *   **Effects**:
     *   Reduces Gain.
     *   **Reduces Distortion** (improves linearity).
-    *   Increases Bandwidth.
+    *   Increases [[Bandwidth]].
     *   Increases Stability.
-    *   Modifies Input/Output Impedance.
+    *   Modifies Input/Output [[Impedance (Impedantie)|Impedance]].
 
 ## Positive Feedback
 Part of the output is **added** to the input (in phase).

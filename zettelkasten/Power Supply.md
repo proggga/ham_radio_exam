@@ -12,12 +12,12 @@ modified: 2025-12-29
 This map covers the conversion of mains power to useful DC for radio equipment.
 
 ## Stages
-1.  **[[Rectification]]** - AC to pulsating DC (Diodes).
-2.  **[[Power Supply Smoothing]]** - Pulsating DC to steady DC (Capacitors/Inductors).
+1.  **[[Rectification]]** - AC to pulsating DC ([[Diodes]]).
+2.  **[[Power Supply Smoothing]]** - Pulsating DC to steady DC ([[Capacitors]]/[[Inductors (Spoelen)|Inductors]]).
 3.  **[[Voltage Regulation]]** - Stabilizing the voltage (Zener/Linear/IC).
 
 ## Types
-*   **[[Switch Mode Power Supply (SMPS)]]** - High efficiency switching supplies (SMPS).
+*   **[[Switch Mode Power Supply (SMPS)]]** - High efficiency switching supplies ([[Switch Mode Power Supply (SMPS)|SMPS]]).
 
 ## Related
 *   **[[Transformers]]** - Input stage.

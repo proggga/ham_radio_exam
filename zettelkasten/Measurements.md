@@ -23,20 +23,20 @@ Accurate measurement is essential for testing equipment, verifying compliance, a
 *   **Time Domain:** [[Oscilloscope]]. Shows Voltage vs Time.
     *   Used for: Waveform shape, Amplitude ($U_{pp}$), Period ($T$).
 *   **Frequency Domain:** [[Spectrum Analyzer]]. Shows Amplitude vs Frequency.
-    *   Used for: Harmonics, Bandwidth, Spurious emissions.
+    *   Used for: Harmonics, [[Bandwidth]], Spurious emissions.
 
 ## 3. Radio Frequency (RF) Measurements
 *   **Frequency:** [[Frequency Counter]]. Measures precise frequency.
     *   *Accuracy:* Depends on the internal timebase (Crystal/OCXO).
-*   **Resonance:** [[Dip Meter]]. Finds resonant frequency of unpowered LC circuits.
+*   **[[Resonance]]:** [[Dip Meter]]. Finds resonant frequency of unpowered LC circuits.
 *   **Signal Injection:** [[Signal Generator]]. Produces stable RF signals for receiver testing.
     *   *Critical Feature:* Calibrated Attenuator for sensitivity measurements.
 
 ## 4. Transmission & Antenna
-*   **Impedance Matching:** [[SWR Meter]]. Measures Standing Wave Ratio.
+*   **[[Impedance (Impedantie)|Impedance]] Matching:** [[SWR Meter]]. Measures [[Standing Wave Ratio (SWR)|Standing Wave Ratio]].
 *   **Transmitter Load:** [[Dummy Load]]. Non-radiating $50 \Omega$ load.
 *   **Power:** Measured with an RF Power Meter or derived from Voltage ($P = U^2/R$) on a scope/dummy load.
-    *   **PEP Measurement:** Requires a Peak-Reading meter (capacitor hold) or Oscilloscope.
+    *   **[[Analogue Modulation & AM|PEP]] Measurement:** Requires a Peak-Reading meter (capacitor hold) or [[Oscilloscope]].
 
 ## Related
 *   [[RF Measurements]]

@@ -40,14 +40,14 @@ modified: 2025-12-29
 ## 4. Protection Devices
 *   **Fuses (Smeltveiligheden)**: Protect wiring/equipment from fire.
     *   *Fast (F):* For semiconductors/resistive loads.
-    *   *Slow (T - Träge):* For Transformers/Power Supplies (to handle inrush current).
+    *   *Slow (T - Träge):* For [[Transformers]]/Power Supplies (to handle inrush current).
 *   **RCD (Aardlekschakelaar)**: Residual Current Device.
     *   Measures difference between $I_{Live}$ and $I_{Neutral}$.
     *   Trips at **30 mA** imbalance. Protects **people**.
-*   **Bleeder Resistors**: Resistors connected across High Voltage capacitors to discharge them after power-off. (Safety requirement: $< 60V$ within seconds).
+*   **Bleeder [[Resistors]]**: Resistors connected across High Voltage capacitors to discharge them after power-off. (Safety requirement: $< 60V$ within seconds).
 
 ## 5. Lightning Protection
 *   **Disconnect**: The only 100% safe method is to unplug Antennas and Mains during thunderstorms.
-*   **Grounding**: Mast/Antenna should be grounded to conduct static/strike current to earth (outside the house).
+*   **Grounding**: Mast/[[Antenna & Tower Safety|Antenna]] should be grounded to conduct static/strike current to earth (outside the house).
 
 ## Related

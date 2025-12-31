@@ -12,7 +12,7 @@ modified: 2025-12-29
 Two fundamental principles of physics apply to all electronics and radio systems.
 
 ## Conservation of Energy
-Energy cannot be created or destroyed, only transformed from one form to another.
+[[Power and Energy|Energy]] cannot be created or destroyed, only transformed from one form to another.
 *   In a transmitter, electrical energy from the power supply is transformed into radio frequency (RF) energy and heat.
 *   $Energy_{in} = Energy_{useful} + Energy_{waste}$
 

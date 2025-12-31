@@ -19,7 +19,7 @@ This map covers the fundamental fields of force in radio physics.
 *   **Source:** Voltage (Potential Difference) between charges.
 *   **Unit:** Volts per meter ($V/m$).
 *   **Force:** Exerts force on electric charges.
-*   **Shielding:** 
+*   **[[Shielding (Afscherming)|Shielding]]:** 
     *   Use **Conductive Material** (Copper, Aluminum).
     *   Faraday Cage effect.
     *   Ideally, the shield encloses both conductors.
@@ -35,9 +35,9 @@ This map covers the fundamental fields of force in radio physics.
 
 ## 3. Electromagnetic Field
 *   **Combination:** E-field and H-field oscillating at right angles to each other and to the direction of propagation.
-*   **Ratio:** $E / H = 377 \Omega$ (Impedance of Free Space).
-*   [[Inductors (Spoelen)]] - Stores Magnetic Field.
-*   [[Antenna Characteristics]] - Radiates Electromagnetic Waves.
+*   **Ratio:** $E / H = 377 \Omega$ ([[Impedance (Impedantie)|Impedance]] of Free Space).
+*   [[Inductors (Spoelen)]] - Stores [[Magnetic Field]].
+*   [[Antenna Characteristics]] - Radiates [[Electromagnetic Waves]].
 
 ## Components
-*   [[Capacitor Principles]] - Stores Electric Field.
+*   [[Capacitor Principles]] - Stores [[Electric Field]].

@@ -30,7 +30,7 @@ Inverts the impedance relative to the line's characteristic impedance ($Z_0$). A
     *   $$Z_0 = \sqrt{Z_{in} \cdot Z_{load}}$$
     *   *Example:* Matching a $100 \Omega$ Quad loop to $50 \Omega$ coax.
         *   $Z_{stub} = \sqrt{50 \times 100} = \sqrt{5000} \approx 71 \Omega$. (Use $75 \Omega$ coax).
-2.  **Impedance Inversion**:
+2.  **[[Impedance (Impedantie)|Impedance]] Inversion**:
     *   **Short Circuit** at end ($Z_L=0$) $\rightarrow$ **Open Circuit** ($\infty \Omega$) at input. (Parallel Resonant Circuit / Trap).
     *   **Open Circuit** at end ($Z_L=\infty$) $\rightarrow$ **Short Circuit** ($0 \Omega$) at input. (Series Resonant Circuit).
 

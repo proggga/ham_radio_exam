@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Analogue Modulation & AM
 
-Modulation is the process of modifying a **Carrier Wave** to convey information.
+[[Modulation & Digital Signals|Modulation]] is the process of modifying a **Carrier Wave** to convey information.
 
 ## AM (Amplitude Modulation)
 *   **Method**: Varying the carrier amplitude in sync with the audio signal.
@@ -19,7 +19,7 @@ Modulation is the process of modifying a **Carrier Wave** to convey information.
 
 ### Spectrum & Bandwidth
 *   **Components**: Carrier ($f_c$) + Upper Sideband ($f_c + f_{audio}$) + Lower Sideband ($f_c - f_{audio}$).
-*   **Bandwidth**: $B = 2 \times f_{max\_audio}$.
+*   **[[Bandwidth]]**: $B = 2 \times f_{max\_audio}$.
     *   *Example:* Audio up to 3 kHz $\rightarrow$ Bandwidth = 6 kHz. Broadcast AM uses 9 kHz spacing ($f_{max} = 4.5$ kHz).
 
 ### Power Distribution (Exam Topic)
@@ -35,7 +35,7 @@ Modulation is the process of modifying a **Carrier Wave** to convey information.
 *   **Visual**: On a scope, $U_{max}$ is the peak voltage (amplitude) of the highest wave.
 *   **Calculation Steps**:
     1.  Determine Peak Voltage ($U_{peak}$) from scope (half of peak-to-peak).
-    2.  Calculate RMS Voltage: $U_{eff} = U_{peak} / \sqrt{2}$.
+    2.  Calculate [[RMS Voltage]]: $U_{eff} = U_{peak} / \sqrt{2}$.
     3.  Calculate Power: $P_{PEP} = \frac{U_{eff}^2}{R} = \frac{U_{peak}^2}{2R}$.
 *   **Relation to Carrier**: At 100% modulation ($m=1$), $U_{peak} = 2 \times U_{carrier\_peak}$.
     *   Therefore, **$P_{PEP} = 4 \times P_{carrier}$**.
@@ -44,8 +44,8 @@ Modulation is the process of modifying a **Carrier Wave** to convey information.
 *   **Method**: On/Off keying of the carrier (Morse Code).
 *   **Designation**: A1A.
 *   **Bandwidth**: Very narrow. Rule of thumb: $B \approx 3 \times \text{Speed (WPM)}$ or roughly 100-200 Hz (not 0 Hz!).
-*   **Click Filters**: Necessary to round off the keying edges to prevent "Key Clicks" (wideband interference).
-*   **Class C**: CW can be amplified by Class C amplifiers (high efficiency) because amplitude is constant (when on).
+*   **Click [[Filters & Resonance|Filters]]**: Necessary to round off the keying edges to prevent "Key Clicks" (wideband interference).
+*   **Class C**: [[CW Abbreviations & Prosigns|CW]] can be amplified by Class C amplifiers (high efficiency) because amplitude is constant (when on).
 
 ## Related
 *   [[Single Sideband (SSB)]]

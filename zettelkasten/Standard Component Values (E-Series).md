@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Standard Component Values (E-Series)
 
-Resistors and capacitors are not manufactured in every possible value. They follow logarithmic series known as E-series (Renard series).
+[[Resistors]] and capacitors are not manufactured in every possible value. They follow logarithmic series known as E-series (Renard series).
 
 ## E12 Series (10% Tolerance)
 Values per decade (10-100):

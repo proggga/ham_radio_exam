@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # The Ionosphere
 
-This map covers the atmospheric layers that enable HF communication.
+This map covers the atmospheric layers that enable [[Propagation Basics|HF]] communication.
 
 ## Structure
 *   **[[Ionospheric Layers]]** - D, E, F1, F2 layers.

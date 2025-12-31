@@ -13,7 +13,7 @@ Regulation keeps the output voltage constant despite changes in Load Current or 
 
 ## Zener Diode Regulator
 *   **Component**: [[Zener Diode]] (Zenerdioden).
-*   **Setup**: Zener diode in reverse bias (parallel to load) + Series Resistor.
+*   **Setup**: Zener diode in reverse bias (parallel to load) + Series [[Resistors|Resistor]].
 *   **Operation**: Zener maintains constant breakdown voltage.
 *   **Resistor**: $R_{series} = \frac{U_{in} - U_{zener}}{I_{zener} + I_{load}}$
 *   **Use**: Low power reference voltages.
@@ -32,7 +32,7 @@ Uses an Op-Amp (Comparator) to compare output with a reference.
 
 ## Linear Series Regulator (General)
 Uses a transistor to control output voltage.
-*   **Operation**: Transistor acts as a variable resistor.
+*   **Operation**: [[Transistors (BJT & FET)|Transistor]] acts as a variable resistor.
 *   **Dissipation**: Excess power is lost as heat.
     *   $P = (U_{in} - U_{out}) \times I_{load}$
 

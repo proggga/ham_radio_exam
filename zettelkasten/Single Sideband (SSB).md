@@ -9,26 +9,26 @@ modified: 2025-12-29
 
 # Single Sideband (SSB)
 
-SSB is a form of Amplitude Modulation where the Carrier and one Sideband are suppressed.
+SSB is a form of Amplitude [[Modulation & Digital Signals|Modulation]] where the Carrier and one Sideband are suppressed.
 
 ## Evolution (AM $\to$ DSB $\to$ SSB)
-1.  **AM**: Carrier + 2 Sidebands. Least efficient.
+1.  **[[Analogue Modulation & AM|AM]]**: Carrier + 2 Sidebands. Least efficient.
 2.  **DSB (Double Sideband)**: Carrier suppressed, 2 Sidebands remain.
     *   **Power**: At 100% AM mod equivalence, PEP is 1/4 of AM PEP (since amplitude is halved without carrier base).
-    *   **Bandwidth**: Same as AM ($2 \times f_{audio}$).
+    *   **[[Bandwidth]]**: Same as AM ($2 \times f_{audio}$).
 3.  **SSB (Single Sideband)**: One sideband removed.
     *   **Efficiency**: All transmitted power is useful information.
     *   **Bandwidth**: Half that of AM/DSB (~2.4 - 2.7 kHz).
-    *   **Signal-to-Noise**: 3 dB improvement over DSB (half bandwidth = half noise) + 3 dB power saving (no wasted sideband) $\rightarrow$ significant system gain over AM.
+    *   **Signal-to-[[AC Signals & Noise|Noise]]**: 3 [[Decibels & Logarithms|dB]] improvement over DSB (half bandwidth = half noise) + 3 dB power saving (no wasted sideband) $\rightarrow$ significant system gain over AM.
 
 ## Generation
 1.  **Balanced Modulator**: Mixes Audio and Carrier. Output is **DSB** (Carrier suppressed).
-2.  **Filter Method**: A sharp Crystal Filter or Mechanical Filter removes the unwanted sideband.
+2.  **[[Filters & Resonance|Filter]] Method**: A sharp Crystal Filter or Mechanical Filter removes the unwanted sideband.
     *   *USB:* Filter passes upper frequencies.
     *   *LSB:* Filter passes lower frequencies.
 
 ## Reception
-Requires a receiver with a **Product Detector** (Mixer) and a **BFO** (Beat Frequency Oscillator) to re-insert the missing carrier frequency locally.
+Requires a receiver with a **Product Detector** ([[Mixers|Mixer]]) and a **BFO** (Beat Frequency Oscillator) to re-insert the missing carrier frequency locally.
 
 ## Power Measurement (PEP)
 *   **Definition**: Peak Envelope Power. Average power of one RF cycle at the crest of the modulation envelope.

@@ -11,7 +11,7 @@ modified: 2025-12-29
 
 # Sky Wave Propagation (Ruimtegolf)
 
-Sky wave is the primary mode for long-distance (DX) communication on HF.
+Sky wave is the primary mode for long-distance (DX) communication on [[Propagation Basics|HF]].
 
 ## Mechanism
 Radio waves radiate upward and are refracted (bent) back to earth by the ionized layers of the atmosphere.

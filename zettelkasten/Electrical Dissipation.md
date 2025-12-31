@@ -19,7 +19,7 @@ Dissipation is the conversion of electrical power into heat as current flows thr
 *   **Formula**: $P = I^2 \times R$
 
 ## Component Ratings
-Every component (Resistors, Transistors) has a **Power Rating** (e.g., 1/4 Watt, 100 Watt).
+Every component ([[Resistors]], [[Transistors (BJT & FET)|Transistors]]) has a **Power Rating** (e.g., 1/4 Watt, 100 Watt).
 *   **Requirement**: $P_{dissipated} < P_{rated}$.
 *   **Failure**: If the dissipated power exceeds the rating, the component will overheat, burn, or release "magic smoke".
 

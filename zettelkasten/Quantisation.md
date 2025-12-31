@@ -18,7 +18,7 @@ Quantisation is the process of assigning a discrete digital value to each analog
 The number of bits used to represent each sample determines the resolution (dynamic range).
 *   **Resolution**: $2^n$ levels (where $n$ is the number of bits).
 *   **Example**: 8-bit = 256 levels; 16-bit = 65,536 levels.
-*   **Dynamic Range**: Approximately $6 dB$ per bit. (16-bit $\approx$ 96 dB).
+*   **Dynamic Range**: Approximately $6 [[Decibels & Logarithms|dB]]$ per bit. (16-bit $\approx$ 96 dB).
 
 ## Quantisation Noise
 The error between the actual infinite-precision analogue voltage and the nearest digital step.

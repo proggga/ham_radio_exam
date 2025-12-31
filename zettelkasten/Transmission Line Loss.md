@@ -16,10 +16,10 @@ As a signal travels through a transmission line, some energy is lost as heat. Th
 
 ## Factors
 1.  **Frequency**: Loss increases with frequency (Skin effect and dielectric loss).
-    *   Coax that is good for HF (30 MHz) may be useless for UHF (430 MHz).
-2.  **Length**: Loss is proportional to length (dB per meter).
+    *   Coax that is good for [[Propagation Basics|HF]] (30 MHz) may be useless for [[VHFUHF Bands (6m, 2m, 70cm)|UHF]] (430 MHz).
+2.  **Length**: Loss is proportional to length ([[Decibels & Logarithms|dB]] per meter).
 3.  **Dielectric**: Air has almost zero loss. Solid plastic has higher loss.
-4.  **SWR**: High Standing Wave Ratio increases the effective loss.
+4.  **[[Standing Wave Ratio (SWR)|SWR]]**: High Standing Wave Ratio increases the effective loss.
     *   Current peaks cause higher $I^2R$ heating.
     *   Voltage peaks cause higher dielectric heating.
 

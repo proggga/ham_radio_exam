@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Semiconductor Physics
 
-Semiconductors are materials whose conductivity lies between conductors and insulators and can be controlled.
+[[Semiconductors]] are materials whose conductivity lies between conductors and insulators and can be controlled.
 
 ## Materials
 *   **Silicon (Si):** The most common semiconductor. 4 valence electrons.

@@ -30,14 +30,14 @@ Shielding prevents the coupling of electric, magnetic, or electromagnetic fields
 *   **Mechanism**: The changing magnetic field induces **Eddy Currents** in the shield. These currents generate an opposing magnetic field (Lenz's Law) that cancels the original field outside the shield.
 *   **Effect on Coils**: Placing a conductive shield around a coil:
     *   **Decreases Inductance ($L$)**: The opposing field weakens the coil's field.
-    *   **Decreases Quality Factor ($Q$)**: Energy is lost as heat due to the resistance of the shield to eddy currents.
+    *   **Decreases [[Quality Factor (Q)|Quality Factor]] ($Q$)**: [[Power and Energy|Energy]] is lost as heat due to the resistance of the shield to eddy currents.
 
 ## Summary Table
 
 | Frequency | Field Type | Shield Material | Mechanism |
 | :--- | :--- | :--- | :--- |
 | **LF (Audio)** | Magnetic | Soft Iron / Mu-Metal | Flux Diversion (Conduction) |
-| **HF (RF)** | Electromagnetic | Aluminium / Copper | Eddy Current Cancellation |
+| **[[Propagation Basics|HF]] (RF)** | Electromagnetic | Aluminium / Copper | Eddy Current Cancellation |
 | **Any** | Electric | Copper / Al Foil | Faraday Cage |
 
 ## Related

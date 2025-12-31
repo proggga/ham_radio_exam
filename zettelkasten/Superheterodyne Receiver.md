@@ -12,15 +12,15 @@ modified: 2025-12-29
 The Superheterodyne ("Super") receiver converts any incoming RF signal to a fixed **Intermediate Frequency (IF)** for processing.
 
 ## Architecture (Block Diagram)
-1.  **RF Amplifier / Preselector**: Selects the desired band, amplifies weak signals, and improves Signal-to-Noise ratio. Provides **Far-off Selectivity** (Image rejection).
-2.  **Mixer**: Mixes RF ($f_{in}$) with Local Oscillator ($f_{LO}$). Output contains Sum and Difference.
+1.  **RF Amplifier / Preselector**: Selects the desired band, amplifies weak signals, and improves Signal-to-[[AC Signals & Noise|Noise]] ratio. Provides **Far-off Selectivity** (Image rejection).
+2.  **[[Mixers|Mixer]]**: Mixes RF ($f_{in}$) with Local Oscillator ($f_{LO}$). Output contains Sum and Difference.
 3.  **Local Oscillator (VFO/LO)**: Tunable oscillator. $f_{LO}$ tracks $f_{in}$ to maintain a constant difference ($f_{IF}$).
 4.  **IF Amplifier (Middenfrequent)**: Provides most of the receiver's gain and **Close-in Selectivity** (using sharp filters like Crystal or Ceramic filters).
     *   *Fixed Frequency:* Usually 455 kHz or 9 MHz (or 10.7 MHz).
 5.  **Detector / Demodulator**: Recovers the audio information.
 6.  **AF Amplifier**: Amplifies audio for speaker/headphones.
-7.  **AGC (Automatic Gain Control)**: Derives a DC voltage from the signal strength to reduce gain of RF/IF stages, keeping volume constant.
-8.  **BFO (Beat Frequency Oscillator)**: Needed for CW/SSB detection.
+7.  **[[Automatic Gain Control (AGC)|AGC]] (Automatic Gain Control)**: Derives a DC voltage from the signal strength to reduce gain of RF/IF stages, keeping volume constant.
+8.  **BFO (Beat Frequency Oscillator)**: Needed for [[CW Abbreviations & Prosigns|CW]]/[[Single Sideband (SSB)|SSB]] detection.
 
 ## Mixing (Frequency Conversion)
 *   **Down-Conversion (Ondermenging):** $f_{LO}$ is lower than $f_{RF}$.

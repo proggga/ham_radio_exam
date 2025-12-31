@@ -13,7 +13,7 @@ modified: 2025-12-29
 Value is constant and determined by the manufacturer.
 *   **Carbon Film**: Common, general purpose, low cost.
 *   **Metal Film**: Higher precision, lower noise, better stability.
-*   **Wirewound**: High power handling, but has inductance (not suitable for HF).
+*   **Wirewound**: High power handling, but has inductance (not suitable for [[Propagation Basics|HF]]).
 
 ## Variable Resistors
 Value can be adjusted mechanically.

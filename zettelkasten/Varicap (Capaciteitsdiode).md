@@ -24,10 +24,10 @@ A diode designed to act as a voltage-controlled capacitor. Also known as a **Var
 
 ## Characteristics
 *   **Capacitance Range**: Typically small (e.g., 5-50 pF).
-*   **Symbol**: Diode with a capacitor plate on the cathode.
+*   **Symbol**: [[Diodes|Diode]] with a capacitor plate on the cathode.
 
 ## Exam Calculations
-*   **Resonance Formula**: $f = \frac{1}{2\pi\sqrt{LC}}$
+*   **[[Resonance]] Formula**: $f = \frac{1}{2\pi\sqrt{LC}}$
 *   **Relationship**: Frequency is inversely proportional to the square root of capacitance ($f \propto \frac{1}{\sqrt{C}}$).
 *   **Scenario**: To **double** the frequency ($2 \times f$), the capacitance must be reduced to **one quarter** ($1/4 \times C$).
     *   Because $\sqrt{1/4} = 1/2$, and $1 / (1/2) = 2$.

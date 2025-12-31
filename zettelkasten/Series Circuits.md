@@ -20,7 +20,7 @@ In a series circuit, components are arranged in a single continuous chain. There
     *   $I_{total} = I_1 = I_2 = \dots$
 2.  **Voltage ($U$)**: The source voltage divides across the components.
     *   $U_{total} = U_1 + U_2 + U_3 + \dots$
-    *   The voltage drop across each component is proportional to its resistance (Ohm's Law: $U = I \times R$).
+    *   The voltage drop across each component is proportional to its resistance ([[Voltage, Current, and Ohm's Law|Ohm's Law]]: $U = I \times R$).
 3.  **Resistance ($R$)**: The total resistance is the **sum** of individual resistances.
     *   $R_{tot} = R_1 + R_2 + R_3 + \dots$
     *   **Note**: $R_{tot}$ is always *larger* than the largest individual resistor.

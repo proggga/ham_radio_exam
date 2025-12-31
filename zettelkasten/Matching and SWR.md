@@ -20,9 +20,9 @@ This map covers the theory and practice of connecting transmitters to antennas.
 
 ## Equipment
 *   [[Baluns]] - Matching Balanced to Unbalanced.
-*   [[Antenna Tuning Unit (ATU)]] - Impedance matching device.
+*   [[Antenna Tuning Unit (ATU)]] - [[Impedance (Impedantie)|Impedance]] matching device.
 
 ## Related
-*   [[Transmission Lines]] - Where SWR exists.
+*   [[Transmission Lines]] - Where [[Standing Wave Ratio (SWR)|SWR]] exists.
 *   [[Impedance Transformation]] - How lines transform impedance.
 *   [[RF Measurements]] - Measuring SWR.

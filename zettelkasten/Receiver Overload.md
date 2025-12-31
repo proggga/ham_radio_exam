@@ -18,10 +18,10 @@ Receiver overload occurs when a very strong signal (even if off-frequency) enter
     *   The input junction acts as a **rectifier** (diode), creating a DC voltage from the RF signal.
     *   This DC voltage shifts the **Operating Point** (Instelpunt/Bias) of the amplifier.
     *   *Result:* The amplifier gain drops or cuts off completely (Class C operation).
-*   **Mitigation**:
+*   **[[Mitigation (Ontstoring)|Mitigation]]**:
     *   **Attenuator (Verzwakker)**: Reducing the input signal moves the stage back into its linear range.
     *   **Preselector**: Better filtering before the first amplifier.
-    *   **Antenna Orientation**: Rotating a directional antenna (Yagi) to null the interference.
+    *   **[[Antenna & Tower Safety|Antenna]] Orientation**: Rotating a directional antenna ([[Directional Antennas (Beams)|Yagi]]) to null the interference.
 
 ## Related
 *   [[Superheterodyne Principle]]

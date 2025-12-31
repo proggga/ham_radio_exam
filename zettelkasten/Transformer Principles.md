@@ -9,11 +9,11 @@ modified: 2025-12-29
 
 # Transformer Principles
 
-A transformer transfers electrical energy between two or more circuits through electromagnetic induction. It is used to transform Voltage, Current, and Impedance.
+A transformer transfers electrical energy between two or more circuits through electromagnetic induction. It is used to transform Voltage, Current, and [[Impedance (Impedantie)|Impedance]].
 
 ## Operation
 *   **Induction**: A changing current in the **Primary Winding** creates a changing magnetic field, which induces a voltage in the **Secondary Winding**.
-*   **DC**: Transformers do **not** work with DC (Direct Current) because a steady current creates a static magnetic field.
+*   **DC**: [[Transformers]] do **not** work with DC (Direct Current) because a steady current creates a static magnetic field.
 
 ## Formulas
 The transformation depends on the **Turns Ratio** ($\frac{N_{prim}}{N_{sec}}$).
@@ -39,9 +39,9 @@ Transformers can match source and load impedances.
 ## Construction
 *   **Core**: Directs magnetic flux.
     *   **Laminated Iron**: For Mains/Audio (Low freq). Laminations reduce Eddy Currents (Kernverliezen).
-    *   **Ferrite / Powdered Iron**: For RF (High freq). Powdered iron (insulated particles) increases Inductance ($L$) and Quality Factor ($Q$) compared to air, unlike solid iron which would cause high losses.
+    *   **Ferrite / Powdered Iron**: For RF (High freq). Powdered iron (insulated particles) increases Inductance ($L$) and [[Quality Factor (Q)|Quality Factor]] ($Q$) compared to air, unlike solid iron which would cause high losses.
     *   **Toroid (Ringkern)**: Ring-shaped core with low flux leakage (self-shielding).
-*   **Shielding**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and Quality Factor ($Q$) due to induced eddy currents.
+*   **[[Shielding (Afscherming)|Shielding]]**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and Quality Factor ($Q$) due to induced eddy currents.
 
 ## Related
 *   [[Inductors (Spoelen)]]

@@ -24,7 +24,7 @@ A diode is a two-terminal component formed by a single PN junction that allows c
     *   *Exam Rule of Thumb:* Select a diode with PIV $> 2 \times U_{peak}$ (or $\approx 3 \times U_{eff}$) for safety in rectifier circuits.
 
 ## Types
-*   **Rectifier Diode:** Converts AC to DC.
+*   **[[Rectification|Rectifier]] Diode:** Converts AC to DC.
 *   **[[Zener Diode]]:** Conducts in reverse at a specific "Zener Voltage". Used for [[Voltage Regulation]].
 *   **[[LED (Light Emitting Diode)]]:** Emits light when forward biased.
 *   **[[Varicap (Capaciteitsdiode)]]:** Acts as a variable capacitor in reverse bias.
@@ -32,7 +32,7 @@ A diode is a two-terminal component formed by a single PN junction that allows c
 ## Connection Issues
 *   **Series Connection:** To increase voltage handling.
     *   *Problem:* Unequal leakage currents can cause unequal voltage distribution.
-    *   *Solution:* High-value **Balancing Resistors** in parallel with each diode.
+    *   *Solution:* High-value **Balancing [[Resistors]]** in parallel with each diode.
 *   **Parallel Connection:** To increase current handling.
     *   *Problem:* Unequal forward voltages can cause one diode to hog all the current (thermal runaway).
     *   *Solution:* Low-value **Series Resistors** (e.g., $0.1 \Omega$) with each diode to balance current.

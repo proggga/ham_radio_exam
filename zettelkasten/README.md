@@ -17,7 +17,7 @@ This is a **Zettelkasten** (slip-box) knowledge base for the Ham Radio Full Lice
 
 ## Note Types
 
-*   **Permanent Notes:** The core content (Theories, Components, Regulations).
+*   **Permanent Notes:** The core content (Theories, Components, [[Rules & Regulations|Regulations]]).
 *   **Index / Map of Content (MOC):** Structure notes that organize other notes.
 
 ## Adding New Notes

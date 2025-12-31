@@ -10,11 +10,11 @@ modified: 2025-12-29
 # Antenna Characteristics
 
 ## 1. Gain
-Antenna gain is a comparison of power in the strongest direction against a reference antenna.
-*   **Polarization:** Determined by the direction of the **Electric Field (E-field)**. For a dipole, this is parallel to the element.
+[[Antenna & Tower Safety|Antenna]] gain is a comparison of power in the strongest direction against a reference antenna.
+*   **Polarization:** Determined by the direction of the **[[Electric Field]] (E-field)**. For a dipole, this is parallel to the element.
 *   **Isotropic Radiator:** A theoretical point source radiating equally in all directions (sphere).
     *   Unit: **dBi**.
-*   **Dipole:** A real $\lambda/2$ antenna. See [[Antenna Types|Types]].
+*   **[[The Dipole Antenna|Dipole]]:** A real $\lambda/2$ antenna. See [[Antenna Types|Types]].
     *   Unit: **dBd**.
 *   **Conversion:** $0 \text{ dBd} = 2.15 \text{ dBi}$.
     *   $Gain (dBi) = Gain (dBd) + 2.15$.
@@ -26,7 +26,7 @@ Antenna gain is a comparison of power in the strongest direction against a refer
     *   $EIRP = P_{transmitter} - Losses + Gain (dBi)$.
 
 ### Calculation Example
-**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 dB. Antenna is a Yagi with 13 dBd gain. What is the ERP?
+**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 [[Decibels & Logarithms|dB]]. Antenna is a [[Directional Antennas (Beams)|Yagi]] with 13 dBd gain. What is the ERP?
 1.  **Convert Power to dBW:** $10 \text{ W} = 10 \text{ dBW}$.
 2.  **Calculate Power at Antenna:** $10 \text{ dBW} - 3 \text{ dB} = 7 \text{ dBW}$ (5 Watts).
 3.  **Add Antenna Gain:** $7 \text{ dBW} + 13 \text{ dBd} = 20 \text{ dBW}$.
@@ -36,7 +36,7 @@ Antenna gain is a comparison of power in the strongest direction against a refer
 
 ## 3. Radiation Resistance ($R_{rad}$)
 A virtual resistance that accounts for the power radiated as EM waves.
-*   Total Impedance $Z = R_{rad} + R_{loss} + jX$. See [[Reactance & Impedance|Impedance]].
+*   Total [[Impedance (Impedantie)|Impedance]] $Z = R_{rad} + R_{loss} + jX$. See [[Reactance & Impedance|Impedance]].
 *   **Efficiency ($\eta$):**
     $$\eta = \frac{R_{rad}}{R_{rad} + R_{loss}}$$
 *   **Short Antennas:** Have very low $R_{rad}$. Efficiency is poor unless $R_{loss}$ is extremely low.
@@ -56,6 +56,6 @@ A virtual resistance that accounts for the power radiated as EM waves.
 *   **Faraday Cage Effect**: Operating a handheld transceiver (HT) inside a vehicle significantly reduces signal strength because the metal body shields RF.
 *   **Solution**: Use an external magnet-mount or fixed antenna on the roof.
     *   *Gain:* External antennas (e.g., 5/8 wave) often have gain over the standard "rubber duck".
-    *   *Safety:* Moves the RF field away from the passengers.
+    *   *[[Electrical Safety|Safety]]:* Moves the RF field away from the passengers.
 
 ## Related

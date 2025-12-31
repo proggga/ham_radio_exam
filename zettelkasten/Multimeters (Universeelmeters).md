@@ -24,7 +24,7 @@ Measured as current through a known series resistor.
     *   *Example:* On 10V range with $20 k\Omega/V$ sensitivity, $R_{in} = 200 k\Omega$.
 *   **Loading Effect (Belastingseffect):**
     *   Ideally, a voltmeter has infinite impedance. Real meters draw current.
-    *   If $R_{in}$ is not $\gg$ Circuit Impedance, the meter loads the circuit, reading **lower** than the actual voltage.
+    *   If $R_{in}$ is not $\gg$ Circuit [[Impedance (Impedantie)|Impedance]], the meter loads the circuit, reading **lower** than the actual voltage.
     *   *Exam Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
 
 ### Current Measurement (DC)
@@ -49,7 +49,7 @@ Uses an internal battery.
 Uses an Analog-to-Digital Converter (ADC).
 *   **Input Impedance:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
 *   **Power:** Requires a battery for all measurements (unlike analogue which only needs it for Ohms).
-*   **Features:** Auto-ranging, Diode test, Transistor $h_{FE}$, Capacitance.
+*   **Features:** Auto-ranging, [[Diodes|Diode]] test, [[Transistors (BJT & FET)|Transistor]] $h_{FE}$, Capacitance.
 
 ## Related
 *   [[Measurements]]

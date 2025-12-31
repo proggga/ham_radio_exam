@@ -31,7 +31,7 @@ modified: 2025-12-29
 
 ## Mixed Signals (AC + DC)
 An AC signal can be superimposed on a DC voltage offset.
-*   A **Capacitor** blocks the DC component, passing only the AC.
+*   A **[[Capacitors|Capacitor]]** blocks the DC component, passing only the AC.
 
 ## Related
 *   [[AC Signal Parameters]]

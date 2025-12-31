@@ -27,7 +27,7 @@ A standard amateur call sign consists of:
 *   **Special Use (Verenigingen/Contest):**
     *   **PI** followed by a number (usually 4 for societies).
     *   Number **6** is often used for special events/contests.
-*   **Caribbean Netherlands:** **PJ** (e.g., PJ2, PJ4).
+*   **Caribbean [[Operating Rules (Netherlands)|Netherlands]]:** **PJ** (e.g., PJ2, PJ4).
 *   **Suriname:** **PZ**.
 
 ## Forbidden Suffixes

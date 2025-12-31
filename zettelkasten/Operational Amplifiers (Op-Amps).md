@@ -13,11 +13,11 @@ An Op-Amp is a high-gain integrated circuit amplifier with differential inputs.
 
 ## Characteristics
 *   **Gain**: Very high open-loop gain ($A_0$), typically $10^5$ to $10^6$.
-*   **Gain-Bandwidth Product (GBW)**: The open-loop gain decreases linearly with frequency. The product of Gain $\times$ Frequency is constant.
+*   **Gain-[[Bandwidth]] Product (GBW)**: The open-loop gain decreases linearly with frequency. The product of Gain $\times$ Frequency is constant.
     *   *Example:* A 741 Op-amp has a GBW of $\approx 1$ MHz. At 1 MHz, gain is 1. At 1 kHz, gain is 1000.
 *   **Inputs**: Inverting (-) and Non-Inverting (+).
     *   **Rule**: In a negative feedback configuration, the voltage difference between inputs is zero ($U_+ = U_-$).
-*   **Impedance**: Very high input impedance ($Z_{in}$), low output impedance ($Z_{out}$).
+*   **[[Impedance (Impedantie)|Impedance]]**: Very high input impedance ($Z_{in}$), low output impedance ($Z_{out}$).
 *   **Offset Nulling**: Terminals provided to zero the output voltage when inputs are zero.
 
 ## Feedback (Tegenkoppeling)
@@ -50,7 +50,7 @@ Adds multiple input voltages together (inverted).
 ### 5. Difference Amplifier (Verschilversterker)
 Amplifies the difference between two inputs.
 *   **Formula**: $U_{out} = \frac{R_2}{R_1} (U_2 - U_1)$ (assuming matched resistor pairs).
-*   **Condition**: Resistors must be precisely matched for good Common Mode Rejection.
+*   **Condition**: [[Resistors]] must be precisely matched for good Common Mode Rejection.
 
 ### 6. Comparator
 No feedback used. Compares inputs ($U_{in}$ vs $U_{ref}$).

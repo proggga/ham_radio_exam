@@ -12,7 +12,7 @@ modified: 2025-12-29
 In AC circuits, Voltage ($U$) and Current ($I$) are not always in step with each other.
 
 ## Resistive Circuits
-In pure **Resistors**, Voltage and Current are **in phase** ($0^\circ$ difference). Peaks occur at the same time.
+In pure **[[Resistors]]**, Voltage and Current are **in phase** ($0^\circ$ difference). Peaks occur at the same time.
 
 ## Reactive Circuits
 In reactive components, energy storage causes a $90^\circ$ ($\pi/2$ radians) phase shift.

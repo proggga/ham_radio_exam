@@ -9,16 +9,16 @@ modified: 2025-12-29
 
 # Emission Classes (ITU)
 
-ITU codes describe the characteristics of a radio signal. Format: **[Modulation] [Signal Nature] [Information]**.
+ITU codes describe the characteristics of a radio signal. Format: **[[[Modulation & Digital Signals|Modulation]]] [Signal Nature] [Information]**.
 
 ## 1. First Symbol: Modulation Type
 *   **N**: Unmodulated carrier.
 *   **A**: Amplitude Modulation (Double Sideband).
-*   **H**: Single Sideband, **Full** Carrier (AME).
+*   **H**: [[Single Sideband (SSB)|Single Sideband]], **Full** Carrier (AME).
 *   **J**: Single Sideband, **Suppressed** Carrier (SSB).
 *   **R**: Single Sideband, **Reduced** Carrier.
 *   **C**: Vestigial Sideband (TV).
-*   **F**: Frequency Modulation (FM).
+*   **F**: [[Frequency Modulation (FM)|Frequency Modulation]] (FM).
 *   **G**: Phase Modulation (PM).
 
 ## 2. Second Symbol: Signal Nature
@@ -39,7 +39,7 @@ ITU codes describe the characteristics of a radio signal. Format: **[Modulation]
 ## Common Examples (Exam Topic)
 | Code | Description | Mode |
 | :--- | :--- | :--- |
-| **A1A** | AM, On/Off keying, Aural Morse | **CW** |
+| **A1A** | [[Analogue Modulation & AM|AM]], On/Off keying, Aural Morse | **[[CW Abbreviations & Prosigns|CW]]** |
 | **A3E** | AM, Analogue, Voice | **AM** |
 | **J3E** | SSB, Suppressed Carrier, Analogue Voice | **SSB** |
 | **F3E** | FM, Analogue, Voice | **FM** |

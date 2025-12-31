@@ -25,12 +25,12 @@ Transformers can match source and load impedances.
     *   $Z_p = 200 \Omega \times (1/2)^2 = 200 \times 1/4 = 50 \Omega$.
 
 ### Shielding
-*   **Magnetic Shielding (Low Freq):** High-permeability materials (Soft Iron, Mu-Metal) **conduct/divert** the magnetic field lines.
+*   **Magnetic [[Shielding (Afscherming)|Shielding]] (Low Freq):** High-permeability materials (Soft Iron, Mu-Metal) **conduct/divert** the magnetic field lines.
 *   **RF Shielding (High Freq):** Conductive materials (Aluminium, Copper) create **Eddy Currents** that generate an opposing field, canceling the original field outside the can.
 *   **Electrostatic Shielding:** A grounded copper/aluminum foil between windings (Faraday Shield) blocks capacitive coupling of noise.
 
 ## Types
-*   **[[Special Transformers]]** - Autotransformers and Baluns.
+*   **[[Special Transformers]]** - Autotransformers and [[Baluns]].
 
 ## Related
 *   **[[Inductors (Spoelen)]]** - The fundamental component.

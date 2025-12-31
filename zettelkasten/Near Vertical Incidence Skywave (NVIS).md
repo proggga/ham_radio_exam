@@ -25,7 +25,7 @@ NVIS is a propagation mode used to cover the "Skip Zone" area (typically 0 to 30
 
 ## Antennas
 *   **Requirement**: High-angle radiation (cloud warmer).
-*   **Horizontal Dipole**: Mounted **low** (0.1$\lambda$ to 0.25$\lambda$ height, e.g., 2-5 meters high).
+*   **Horizontal [[The Dipole Antenna|Dipole]]**: Mounted **low** (0.1$\lambda$ to 0.25$\lambda$ height, e.g., 2-5 meters high).
     *   Ground reflection reinforces the upward signal.
 *   **Inverted V**: Center supported, ends close to ground.
 *   **AS-2259**: Military NVIS antenna (crossed dipoles on a short mast).

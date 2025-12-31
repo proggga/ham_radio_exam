@@ -12,17 +12,17 @@ modified: 2025-12-29
 
 # Smith Chart
 
-The **Smith Chart** is a graphical calculator for radio frequency engineering, used to plot impedance, SWR, and design matching networks.
+The **Smith Chart** is a graphical calculator for radio frequency engineering, used to plot impedance, [[Standing Wave Ratio (SWR)|SWR]], and design matching networks.
 
 ## Structure
 It maps the complex impedance plane onto a circular grid.
 *   **Horizontal Axis**: Resistance ($R$).
-    *   **Center**: System Impedance ($Z_0$, usually $50 \Omega$). Perfect match.
+    *   **Center**: System [[Impedance (Impedantie)|Impedance]] ($Z_0$, usually $50 \Omega$). Perfect match.
     *   **Right Edge**: Open Circuit ($\infty \Omega$).
     *   **Left Edge**: Short Circuit ($0 \Omega$).
 *   **Curves/Circles**:
     *   **Circles**: Constant Resistance.
-    *   **Arcs**: Constant Reactance ($X$).
+    *   **Arcs**: Constant [[Reactance (Reactantie)|Reactance]] ($X$).
         *   **Top Half**: Inductive ($+jX$).
         *   **Bottom Half**: Capacitive ($-jX$).
 

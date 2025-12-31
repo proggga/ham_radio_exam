@@ -12,8 +12,8 @@ modified: 2025-12-29
 ## 1. Structure and Function
 An inductor (coil) stores electrical energy in a **magnetic field** (See [[Electric, Magnetic, and Electromagnetic Fields|Fields]]).
 *   **Construction:** A coil of conductive wire, often wound around a core.
-    *   **Litz Wire:** Used for MF/HF coils to reduce **Skin Effect** (Copper losses). Consists of many thin insulated strands.
-    *   **Shielding:** MF coils are often shielded with an aluminum can to prevent magnetic field interference with nearby components.
+    *   **Litz Wire:** Used for MF/[[Propagation Basics|HF]] coils to reduce **[[Skin Effect]]** (Copper losses). Consists of many thin insulated strands.
+    *   **[[Shielding (Afscherming)|Shielding]]:** MF coils are often shielded with an aluminum can to prevent magnetic field interference with nearby components.
 *   **Symbol:** A series of loops (like a spring).
 
 ## 2. Inductance (Zelfinductie)
@@ -48,10 +48,10 @@ Key factors:
     *   *Exam Scenario:* Two coils with currents flowing towards the center (effectively opposite relative to each other's poles) will repel.
 
 ### Inductors in Circuits
-*   **Series:** $L_{tot} = L_1 + L_2$ (Like Resistors).
+*   **Series:** $L_{tot} = L_1 + L_2$ (Like [[Resistors]]).
 *   **Parallel:** $\frac{1}{L_{tot}} = \frac{1}{L_1} + \frac{1}{L_2}$ (Like Resistors).
 
 ## 4. Applications
 *   **Electromagnets:** Coil with iron core.
-*   **Transformers:** Two magnetically coupled coils.
-*   **Filters:** Blocking high frequencies (choke). See [[Filters & Resonance|Filters]].
+*   **[[Transformers]]:** Two magnetically coupled coils.
+*   **[[Filters & Resonance|Filters]]:** Blocking high frequencies (choke). See [[Filters & Resonance|Filters]].

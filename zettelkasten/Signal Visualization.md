@@ -11,13 +11,13 @@ modified: 2025-12-29
 
 ## 1. Oscilloscope
 Visualizes signals in the **Time Domain** (Voltage vs Time).
-*   **Components (Analogue):** Cathode Ray Tube (CRT), Vertical/Horizontal Amplifiers, Timebase.
+*   **Components (Analogue):** Cathode Ray Tube (CRT), Vertical/Horizontal [[Amplifiers]], Timebase.
 *   **Operation:** Electron beam sweeps across the screen (X-axis = Time) while signal deflects it up/down (Y-axis = Voltage).
-*   **Measurements:**
+*   **[[Measurements]]:**
     *   **Amplitude:** Peak-to-Peak voltage ($U_{pp}$).
     *   **Period ($T$):** Time for one cycle.
     *   **Frequency:** Calculated as $f = 1/T$.
-    *   **Waveform:** Sine, Square, Distortion, Modulation depth.
+    *   **Waveform:** Sine, Square, Distortion, [[Modulation & Digital Signals|Modulation]] depth.
     *   **Lissajous Figures:** XY-mode (Channel A = X, Channel B = Y).
         *   Used to compare **Frequency** and **Phase** of two signals.
         *   *Circle:* Same frequency, $90^\circ$ phase shift.
@@ -31,5 +31,5 @@ Visualizes signals in the **Frequency Domain** (Amplitude vs Frequency).
 *   **Measurements:**
     *   **Harmonics:** Check for suppression of $2f, 3f$, etc.
     *   **Spurious Emissions:** Detect unwanted parasitic oscillations.
-    *   **Bandwidth:** Measure occupied bandwidth of a modulated signal. See [[Modulation & Digital Signals|Modulation]].
+    *   **[[Bandwidth]]:** Measure occupied bandwidth of a modulated signal. See [[Modulation & Digital Signals|Modulation]].
     *   **Intermodulation:** Visualise IP3 products. See [[Types of Interference|Interference]].

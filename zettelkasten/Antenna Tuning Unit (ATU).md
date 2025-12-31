@@ -12,7 +12,7 @@ modified: 2025-12-29
 
 # Antenna Tuning Unit (ATU)
 
-An **ATU**, also known as an Antenna Tuner, Transmatch, or Matchbox, is a device placed between the transmitter and the feedline.
+An **ATU**, also known as an [[Antenna & Tower Safety|Antenna]] Tuner, Transmatch, or Matchbox, is a device placed between the transmitter and the feedline.
 
 ## Function
 It acts as an adjustable impedance transformer.
@@ -22,7 +22,7 @@ It acts as an adjustable impedance transformer.
 ## Critical Limitation
 An ATU does **NOT** "tune the antenna".
 *   It creates a conjugate match at the **transmitter end** of the line.
-*   The **SWR on the transmission line** between the ATU and the antenna remains unchanged.
+*   The **[[Standing Wave Ratio (SWR)|SWR]] on the transmission line** between the ATU and the antenna remains unchanged.
 *   If the SWR on the line is high, cable losses will still occur, even if the transmitter sees 1:1.
 
 ## Placement

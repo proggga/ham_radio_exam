@@ -14,11 +14,11 @@ This map covers the behavior of Alternating Current (AC) and noise signals.
 ## AC Theory
 *   **[[AC Signal Parameters]]** - Frequency, Period, Amplitude, Phase.
 *   **[[RMS Voltage]]** - Effective value ({eff}$).
-*   **[[Complex Waveforms & Fourier]]** - Square/Triangle waves and Harmonics (Fourier).
+*   **[[Complex Waveforms & Fourier]]** - Square/Triangle waves and Harmonics ([[Complex Waveforms & Fourier|Fourier]]).
 
 ## Noise
 *   **[[Noise Types]]** - Thermal, Shot, and Atmospheric noise.
 
 ## Related
 *   **[[Voltage, Current, and Ohm's Law]]** - DC fundamentals.
-*   **[[Electric, Magnetic, and Electromagnetic Fields]]** - Propagation of AC as radio waves.
+*   **[[Electric, Magnetic, and Electromagnetic Fields]]** - [[Solar Cycle & Propagation|Propagation]] of AC as radio waves.

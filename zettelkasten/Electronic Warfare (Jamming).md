@@ -21,7 +21,7 @@ Deliberate radiation to disrupt communications.
 *   **Deception (Imitative)**: Entering a net and imitating the net control station to cause confusion.
 
 ### Characteristic Sounds
-*   **Random Noise**: Synthetic radio noise (hiss).
+*   **Random [[AC Signals & Noise|Noise]]**: Synthetic radio noise (hiss).
 *   **Stepped Tones**: Tones changing in pitch (like bagpipes).
 *   **Wobbler**: Varying pitch tone.
 *   **Pulse**: Regular tapping or clicking.
@@ -32,10 +32,10 @@ Deliberate radiation to disrupt communications.
 Measures taken to protect friendly communications from jamming.
 
 ### Anti-Jamming Techniques
-1.  **Directional Antennas**: Point the null of the antenna toward the jammer to reduce its signal strength.
+1.  **[[Directional Antennas (Beams)|Directional Antennas]]**: Point the null of the antenna toward the jammer to reduce its signal strength.
 2.  **Terrain Masking**: Put a hill or obstacle between the receiver and the jammer.
 3.  **Power**: Increase transmitter power (Burn-through) - only effective if the jammer is weak.
-4.  **Mode Change**: Switch to a mode more resistant to jamming (e.g., CW is often readable through jamming where Voice is not).
+4.  **Mode Change**: Switch to a mode more resistant to jamming (e.g., [[CW Abbreviations & Prosigns|CW]] is often readable through jamming where Voice is not).
 5.  **Frequency Change**: Move to an alternate frequency (QSY).
 6.  **Frequency Hopping**: Rapidly switching frequencies in a pseudo-random pattern (e.g., SINCGARS, Spread Spectrum).
 

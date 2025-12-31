@@ -12,7 +12,7 @@ modified: 2025-12-29
 Rectification is the process of converting Alternating Current (AC) into pulsating Direct Current (DC).
 
 ## Half-Wave Rectification
-*   **Components**: 1 Diode.
+*   **Components**: 1 [[Diodes|Diode]].
 *   **Operation**: Passes only one half-cycle (positive or negative).
 *   **Ripple Frequency**: Equal to input frequency ($50 Hz$).
 *   **Efficiency**: Low (half power discarded).
@@ -33,10 +33,10 @@ Rectification is the process of converting Alternating Current (AC) into pulsati
 
 ## Peak Inverse Voltage (PIV)
 The maximum voltage across the non-conducting diode(s).
-*   **Half-Wave (with Capacitor)**: The diode sees $2 \times U_{peak}$ (Input peak + Capacitor voltage).
+*   **Half-Wave (with [[Capacitors|Capacitor]])**: The diode sees $2 \times U_{peak}$ (Input peak + Capacitor voltage).
 *   **Full-Wave Center-Tap**: Each diode sees $2 \times U_{peak}$.
 *   **Bridge Rectifier**: Each diode sees $1 \times U_{peak}$.
-*   *Safety:* Always choose diodes with a PIV rating significantly higher than the theoretical maximum (e.g., $3 \times U_{eff}$).
+*   *[[Electrical Safety|Safety]]:* Always choose diodes with a PIV rating significantly higher than the theoretical maximum (e.g., $3 \times U_{eff}$).
 
 ## Related
 *   [[Semiconductors]]

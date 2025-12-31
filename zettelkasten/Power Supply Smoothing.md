@@ -20,12 +20,12 @@ A large electrolytic capacitor connected in parallel with the output.
 The residual AC variation on the DC output.
 *   **Factors**:
     *   **Higher Load Current** $\rightarrow$ **More** Ripple.
-    *   **Larger Capacitor** $\rightarrow$ **Less** Ripple.
+    *   **Larger [[Capacitors|Capacitor]]** $\rightarrow$ **Less** Ripple.
     *   **Higher Frequency** (100Hz vs 50Hz) $\rightarrow$ **Less** Ripple (easier to filter).
 
 ## LC Filters
-For better smoothing, an Inductor (Choke) and a second Capacitor are added.
-*   **Pi-Filter (C-L-C)**: Common configuration.
+For better smoothing, an [[Inductors (Spoelen)|Inductor]] (Choke) and a second Capacitor are added.
+*   **Pi-[[Filters & Resonance|Filter]] (C-L-C)**: Common configuration.
 *   **Choke ($L$)**: Opposes changes in current, smoothing the flow.
 *   **Capacitor ($C$)**: Further reduces voltage ripple.
 *   **Comparison (C-filter vs LC-filter)**:

@@ -15,7 +15,7 @@ modified: 2025-12-29
     *   **Frequency Sensitivity:**
         *   **Eyes:** Most sensitive > **1000 MHz** (1 GHz).
         *   **Brain/Head:** Sensitive > **400 MHz**.
-        *   **Whole Body Resonance:** **30 - 300 MHz**. The body absorbs RF most efficiently in this range (height $\approx \lambda/2$).
+        *   **Whole Body [[Resonance]]:** **30 - 300 MHz**. The body absorbs RF most efficiently in this range (height $\approx \lambda/2$).
 *   **RF Burns:** Direct contact with antennas (high voltage ends) causes deep, slow-healing burns.
 
 ## 2. Exposure Limits (ICNIRP)
@@ -25,8 +25,8 @@ Limits are often defined by **SAR** (Specific Absorption Rate) in W/kg.
 
 ### Field Strength (V/m)
 Typical Reference Levels for the public:
-*   **HF (10-30 MHz):** $\approx 28 \text{ V/m}$.
-*   **VHF (144 MHz):** $\approx 28 \text{ V/m}$.
+*   **[[Propagation Basics|HF]] (10-30 MHz):** $\approx 28 \text{ V/m}$.
+*   **[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] (144 MHz):** $\approx 28 \text{ V/m}$.
 *   **UHF (430 MHz):** $\approx 29 \text{ V/m}$ (Limits rise with frequency above resonance).
 
 ## 3. Safe Distance Calculation

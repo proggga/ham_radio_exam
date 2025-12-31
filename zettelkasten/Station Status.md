@@ -13,7 +13,7 @@ Frequencies are allocated to services with a specific status.
 
 ## Primary Status (Primair)
 *   **Rights**: Protected service.
-*   **Interference**: Can claim protection from harmful interference from any other station.
+*   **[[Mixing Products (Interference)|Interference]]**: Can claim protection from harmful interference from any other station.
 *   **Must not cause**: Harmful interference to other Primary stations.
 
 ## Secondary Status (Secundair)

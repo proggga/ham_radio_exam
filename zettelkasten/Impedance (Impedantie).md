@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Impedance (Impedantie)
 
-Impedance ($Z$) is the total opposition to current flow in an AC circuit, combining Resistance ($R$) and Reactance ($X$).
+Impedance ($Z$) is the total opposition to current flow in an AC circuit, combining Resistance ($R$) and [[Reactance (Reactantie)|Reactance]] ($X$).
 *   **Unit**: Ohm ($\Omega$).
 
 ## Vector Addition

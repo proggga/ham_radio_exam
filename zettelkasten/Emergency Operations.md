@@ -28,11 +28,11 @@ The passing of formal messages (radiograms) between stations.
 *   **Preamble**: Header information (Message number, precedence, station of origin, check).
     *   *Check:* The count of words in the text body. Used to verify accuracy.
 *   **Phonetics**: Use the [[Phonetic Alphabet]] for difficult words.
-*   **Prosigns**: Use [[CW Abbreviations & Prosigns]] to manage flow (e.g., "BREAK" to interrupt for urgent traffic).
+*   **[[CW Abbreviations & Prosigns|Prosigns]]**: Use [[CW Abbreviations & Prosigns]] to manage flow (e.g., "BREAK" to interrupt for urgent traffic).
 
 ## Emergency Declarations
 *   **Priority**: Emergency traffic *always* has priority over routine traffic.
-*   **Tactical Call Signs**: Using functional names (e.g., "Shelter 1", "Command Post") instead of personal call signs to simplify coordination (though legal ID is still required).
+*   **Tactical [[Call Signs]]**: Using functional names (e.g., "Shelter 1", "Command Post") instead of personal call signs to simplify coordination (though legal ID is still required).
 
 ## Organizations
 *   **ARES (US)**: Amateur Radio Emergency Service.

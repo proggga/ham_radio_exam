@@ -20,12 +20,12 @@ This map covers the various types of antennas used in amateur radio.
 *   **[[Vertical Antennas]]** - Ground planes and monopoles.
 
 ## Directional
-*   **[[Directional Antennas (Beams)]]** - Yagi-Uda and Quads for gain.
-*   **[[Aperture Antennas]]** - Dishes and Helical antennas for UHF/Microwave.
+*   **[[Directional Antennas (Beams)]]** - [[Directional Antennas (Beams)|Yagi]]-Uda and Quads for gain.
+*   **[[Aperture Antennas]]** - Dishes and Helical antennas for [[VHFUHF Bands (6m, 2m, 70cm)|UHF]]/Microwave.
 
 ## Special
 *   **[[Dummy Load]]** - Non-radiating load for testing.
 
 ## Related
-*   **[[Antenna Characteristics]]** - Gain, Polarization, Impedance.
+*   **[[Antenna Characteristics]]** - Gain, Polarization, [[Impedance (Impedantie)|Impedance]].
 *   **[[Transmission Lines]]** - Feeding the antenna.

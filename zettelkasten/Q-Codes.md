@@ -29,7 +29,7 @@ A question mark after the code turns it into a question.
 | **QRV** | Are you ready? | I am ready. | a**V**ailable |
 | **QRX** | When will you call me again? | Call me again at ... (Wait). | **X** (Time/Cross) |
 | **QRZ** | Who is calling me? | You are being called by... | **Z**ijt gij? |
-| **QSB** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
+| **[[Fading (QSB)|QSB]]** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
 | **QSL** | Can you acknowledge receipt? | I acknowledge receipt (Confirm contact). | **L**ezen |
 | **QSO** | Can you communicate with ...? | I can communicate with ... (Contact). | **O**ver |
 | **QSY** | Shall I change frequency? | Change frequency to ... | Zwaa**Y** |

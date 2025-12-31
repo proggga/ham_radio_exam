@@ -15,7 +15,7 @@ modified: 2025-12-29
 LOS is the direct path between transmitting and receiving antennas.
 
 ## Characteristics
-*   **Frequency**: Dominant mode for VHF, UHF, and Microwave ($> 30 \text{ MHz}$).
+*   **Frequency**: Dominant mode for [[VHFUHF Bands (6m, 2m, 70cm)|VHF]], UHF, and Microwave ($> 30 \text{ MHz}$).
 *   **Limitation**: Blocked by terrain, buildings, and the curvature of the earth.
 
 ## Radio Horizon
@@ -30,7 +30,7 @@ Radio waves bend slightly over the horizon due to atmospheric refraction (densit
     $$D_{total} \approx 3.57 (\sqrt{h_{tx}} + \sqrt{h_{rx}})$$
 
 ## Extending the Range
-*   **Antenna Height:** The most effective way to increase range.
+*   **[[Antenna & Tower Safety|Antenna]] Height:** The most effective way to increase range.
 *   **Diffraction (Knife-Edge):**
     *   Radio waves can bend slightly over sharp obstacles like mountain ridges or building edges.
     *   Allows communication into "shadow" areas that are technically non-line-of-sight.

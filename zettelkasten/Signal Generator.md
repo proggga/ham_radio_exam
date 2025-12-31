@@ -14,7 +14,7 @@ A Signal Generator produces stable RF signals for testing and aligning receivers
 ## Features
 *   **Precise Frequency**: Stable and adjustable.
 *   **Accurate Attenuation**: Can output very low levels (e.g., $-100 dBm$ or microvolts) to test receiver sensitivity.
-*   **Modulation**: Can add AM, FM, or CW modulation to the carrier.
+*   **[[Modulation & Digital Signals|Modulation]]**: Can add [[Analogue Modulation & AM|AM]], [[Frequency Modulation (FM)|FM]], or [[CW Abbreviations & Prosigns|CW]] modulation to the carrier.
 
 ## Related
 *   [[Superheterodyne Principle]] (Alignment)

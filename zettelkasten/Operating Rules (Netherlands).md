@@ -34,10 +34,10 @@ Key regulations for amateur radio operation in the Netherlands (based on Telecom
 
 ## Responsibility
 *   The registered amateur is responsible for the station's operation, even if someone else is speaking (e.g. under supervision).
-*   **Interference**: You must not cause "inadmissible" interference.
+*   **[[Mixing Products (Interference)|Interference]]**: You must not cause "inadmissible" interference.
 
 ## Formal Definitions (Exam Topics)
-*   **Transmission Power (Zendvermogen)**: Defined as the average power delivered to the antenna transmission line by the transmitter, during one radio frequency cycle at the crest of the modulation envelope (**PEP**).
+*   **Transmission Power (Zendvermogen)**: Defined as the average power delivered to the antenna transmission line by the transmitter, during one radio frequency cycle at the crest of the modulation envelope (**[[Analogue Modulation & AM|PEP]]**).
     *   *Dutch:* "Het door de direct met de antenne-inrichting te koppelen trap van het radiozendapparaat afgegeven gemiddeld vermogen, gerekend over een periode van de hoogfrequent uitgangswisselspanning tijdens het maximum van de omhullende."
 *   **EMC (Elektromagnetische Compatibiliteit)**: The ability of equipment to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to other equipment in that environment.
 *   **Radio Equipment (Radioapparaten)**: Equipment that intentionally transmits or receives radio waves for communication or radiodetermination.

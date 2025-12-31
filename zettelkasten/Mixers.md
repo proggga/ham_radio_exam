@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Mixers
 
-Mixers are non-linear circuits that combine two frequencies ($f_1$ and $f_2$).
+[[Detectors, Oscillators & Mixers|Mixers]] are non-linear circuits that combine two frequencies ($f_1$ and $f_2$).
 
 ## Operation
 Ideally, a mixer multiplies two signals. The output contains:
@@ -22,16 +22,16 @@ Ideally, a mixer multiplies two signals. The output contains:
 *   **Single Balanced Mixer (Balanced Modulator)**:
     *   Suppresses **one** input (usually the Carrier).
     *   Output: Sidebands (Sum + Diff) only. No Carrier.
-    *   *Use:* Generating DSB (Double Sideband) for SSB transmitters.
+    *   *Use:* Generating DSB (Double Sideband) for [[Single Sideband (SSB)|SSB]] transmitters.
 *   **Double Balanced Mixer (DBM)**:
     *   Suppresses **both** inputs (Carrier and Audio/RF).
     *   Output: Sum and Difference frequencies only.
     *   *Use:* High-performance receivers, Up/Down converters.
 
 ## Applications
-*   **Superheterodyne Receiver**: Converts RF to a fixed Intermediate Frequency (IF).
-*   **Product Detector**: Demodulates SSB/CW (mixes IF with BFO).
-*   **Modulators**: Creating AM (unbalanced) or DSB (balanced).
+*   **[[Superheterodyne Receiver]]**: Converts RF to a fixed Intermediate Frequency (IF).
+*   **Product Detector**: Demodulates SSB/[[CW Abbreviations & Prosigns|CW]] (mixes IF with BFO).
+*   **Modulators**: Creating [[Analogue Modulation & AM|AM]] (unbalanced) or DSB (balanced).
 
 ## Related
 *   [[Superheterodyne Receiver]]

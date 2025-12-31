@@ -12,7 +12,7 @@ modified: 2025-12-30
 The S-Meter indicates the relative strength of the received signal.
 
 ## Scale
-*   **S1 to S9**: Each S-unit represents a **6 dB** difference (a factor of 4 in power, 2 in voltage).
+*   **S1 to S9**: Each S-unit represents a **6 [[Decibels & Logarithms|dB]]** difference (a factor of 4 in power, 2 in voltage).
 *   **Above S9**: Calibrated in decibels (e.g., S9+10dB, S9+20dB).
 
 ## Standard Calibration (HF)
@@ -22,10 +22,10 @@ The S-Meter indicates the relative strength of the received signal.
 *   ...
 *   **S9+20dB**: 10x voltage of S9 = 500 $\mu$V.
 
-*Note:* For VHF/UHF, S9 is sometimes defined as 5 $\mu$V, but HF standards (50 $\mu$V) are often used in exams.
+*Note:* For [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF, S9 is sometimes defined as 5 $\mu$V, but [[Propagation Basics|HF]] standards (50 $\mu$V) are often used in exams.
 
 ## Operation
-*   The S-meter is usually driven by the **AGC voltage** in the IF amplifier.
+*   The S-meter is usually driven by the **[[Automatic Gain Control (AGC)|AGC]] voltage** in the IF amplifier.
 *   Because AGC is derived from the signal level, it provides a logarithmic measure suitable for the decibel scale.
 
 ## Related

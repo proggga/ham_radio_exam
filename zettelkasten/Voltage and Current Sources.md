@@ -68,6 +68,6 @@ Every real battery or power supply has an internal resistance $R_i$ in series wi
     *   **Unequal Voltages:** Connecting batteries with different EMFs in parallel is dangerous. The higher voltage source will discharge into the lower one (charging it), causing high circulating currents limited only by the internal resistances. The resulting terminal voltage is indeterminate without knowing the exact internal resistances.
 
 ## 5. Active Components as Sources
-*   **Transistor Current Source:** A bipolar transistor with a fixed base voltage and emitter resistor acts as a **Constant Current Source**.
+*   **[[Transistors (BJT & FET)|Transistor]] Current Source:** A bipolar transistor with a fixed base voltage and emitter resistor acts as a **Constant Current Source**.
     *   The collector current $I_c$ is determined by the base voltage and emitter resistor, independent of the collector load (as long as not saturated).
     *   *Caveat:* If the collector load resistance ($R_c$) changes, the current stays the same. If $R_c$ is reduced by 3x, the power dissipated in it ($P = I^2 R$) also drops by 3x.

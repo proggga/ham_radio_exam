@@ -27,7 +27,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 *   **Voltage Divider Method (Stable):**
     1.  Voltage divider ($R_1, R_2$) sets Base Voltage ($U_b$).
     2.  Emitter Voltage ($U_e$) follows Base: $U_e = U_b - 0.6V$.
-    3.  Emitter Current ($I_e$) set by Emitter Resistor ($R_e$): $I_e = \frac{U_e}{R_e}$.
+    3.  Emitter Current ($I_e$) set by Emitter [[Resistors|Resistor]] ($R_e$): $I_e = \frac{U_e}{R_e}$.
     4.  Collector Current $I_c \approx I_e$.
     5.  Collector Voltage ($U_c$) set by Collector Resistor ($R_c$) and supply ($U_{supply}$): $U_c = U_{supply} - I_c \cdot R_c$.
 *   **Gain Formula (Approx):**
@@ -36,14 +36,14 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 
 ### Configurations
 1.  **Common Emitter (GES):** High Gain (Current & Voltage). Phase reversal ($180^\circ$).
-2.  **Common Base (GBS):** Low Input Z, High Output Z. Current gain $\approx 1$. **Good for HF/VHF** amplification (low feedback capacitance).
+2.  **Common Base (GBS):** Low Input Z, High Output Z. Current gain $\approx 1$. **Good for [[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]]** amplification (low feedback capacitance).
     *   *Mnemonic:* "Basic Income" (Basisinkomen) = Low Income (Low Input Z), High Expenses (High Output Z).
 3.  **Common Collector (GCS / Emitter Follower):** High Input Z ($\approx \beta \times R_E$), Low Output Z. Voltage gain $\approx 1$. Used as **Buffer**.
 
 ## Field Effect Transistor (FET)
 *   **Type:** Voltage-controlled current source.
 *   **Terminals:** Gate (G), Drain (D), Source (S).
-*   **Input Impedance:** Extremely high (Gate draws almost 0 current).
+*   **Input [[Impedance (Impedantie)|Impedance]]:** Extremely high (Gate draws almost 0 current).
 *   **J-FET (Junction FET):**
     *   **N-Channel:** Normal operation when Gate is **negative** relative to Source.
     *   **P-Channel:** Normal operation when Gate is **positive** relative to Source.
@@ -52,9 +52,9 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
     *   Measure of how much $I_D$ changes for a change in $U_{GS}$.
     *   Formula: $S = \frac{\Delta I_D}{\Delta U_{GS}}$ (Unit: mA/V or mS).
     *   Relationship to Resistance: $S \approx \frac{1}{R_{internal}}$.
-*   **MOSFET (Metal-Oxide-Semiconductor FET):**
+*   **MOSFET (Metal-Oxide-[[Semiconductors|Semiconductor]] FET):**
     *   Gate insulated by oxide layer (very high $R_{in}$).
-    *   **Dual-Gate MOSFET:** Two gates. Gate 2 often used for Gain Control (AGC) or isolating input from output (reduced Miller effect).
+    *   **Dual-Gate MOSFET:** Two gates. Gate 2 often used for Gain Control ([[Automatic Gain Control (AGC)|AGC]]) or isolating input from output (reduced Miller effect).
 
 ### FET Amplification
 *   **Voltage Gain ($A_u$):**
@@ -62,7 +62,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
     *   Without $R_S$ (or bypassed): $A_u = S \cdot R_D$.
 
 ## Frequency Characteristics
-*   **Gain-Bandwidth Product ($f_T$):** The frequency where current gain ($\beta$) drops to 1.
+*   **Gain-[[Bandwidth]] Product ($f_T$):** The frequency where current gain ($\beta$) drops to 1.
 *   **Effect:** Current gain decreases as frequency increases.
 
 ## Comparison Table
@@ -72,7 +72,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 | **Control** | Current ($I_b$) | Voltage ($U_{GS}$) |
 | **Input Impedance** | Low/Medium | Very High |
 | **Charge Carriers** | Electrons & Holes (Bipolar) | Electrons (N) or Holes (P) (Unipolar) |
-| **Noise** | Higher | Lower (generally) |
+| **[[AC Signals & Noise|Noise]]** | Higher | Lower (generally) |
 | **Sensitivity** | Robust | Sensitive to static (MOSFET) |
 
 ## Related

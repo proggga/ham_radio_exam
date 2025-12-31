@@ -18,4 +18,4 @@ This map covers AC circuit theory regarding resistance to current flow.
 
 ## Related
 *   **[[Filters & Resonance]]** - Applications of reactance.
-*   **[[Matching and SWR]]** - Impedance matching in antennas.
+*   **[[Matching and SWR]]** - [[Impedance (Impedantie)|Impedance]] matching in antennas.

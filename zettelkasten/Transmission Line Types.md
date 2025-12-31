@@ -16,16 +16,16 @@ Transmission lines carry RF energy from the transmitter to the antenna.
 
 ## Coaxial Cable (Asymmetric)
 *   **Structure**: Central conductor, surrounded by a dielectric insulator, a conductive shield (braid/foil), and an outer jacket.
-*   **Impedance ($Z_0$)**:
+*   **[[Impedance (Impedantie)|Impedance]] ($Z_0$)**:
     *   **50 $\Omega$**: Standard for amateur radio (e.g., RG-58, RG-213, H-155).
     *   **75 $\Omega$**: Standard for TV/Satellite (low loss, but requires matching to 50 $\Omega$ systems).
-*   **Shielding**: Keeps the RF field contained inside. Can be run near metal objects or buried.
+*   **[[Shielding (Afscherming)|Shielding]]**: Keeps the RF field contained inside. Can be run near metal objects or buried.
 
 ## Open Wire / Twin Lead (Symmetric)
 *   **Structure**: Two parallel wires separated by insulating spacers.
     *   *Examples*: "Ladder line", "Kippenladder", 300 $\Omega$ TV ribbon.
 *   **Impedance ($Z_0$)**: Typically **300 $\Omega$, 450 $\Omega$, or 600 $\Omega$**.
-*   **Characteristics**: Extremely low loss, even at high SWR. ideal for multiband doublets.
+*   **Characteristics**: Extremely low loss, even at high [[Standing Wave Ratio (SWR)|SWR]]. ideal for multiband doublets.
 *   **Installation**: Must be kept away from metal and ground (affects impedance).
 
 ## Related Notes

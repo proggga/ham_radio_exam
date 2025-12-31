@@ -29,7 +29,7 @@ The ionosphere is created by solar radiation (UV and X-rays). Its density follow
 *   **SID (Sudden Ionospheric Disturbance)**:
     *   *Cause:* Solar Flares (X-Rays).
     *   *Effect:* Sudden, drastic increase in **D-layer ionization** on the sunlit side of Earth.
-    *   *Result:* Total radio blackout on HF (absorption) lasting minutes to hours. Lower frequencies affected most.
+    *   *Result:* Total radio blackout on [[Propagation Basics|HF]] (absorption) lasting minutes to hours. Lower frequencies affected most.
 *   **Geomagnetic Storms (Ionospheric Storms)**:
     *   *Cause:* Coronal Mass Ejections (CME) / Solar Wind hitting Earth's magnetic field.
     *   *Effect:* Disruption of F-layers, Auroras.

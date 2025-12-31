@@ -29,7 +29,7 @@ An oscilloscope visualizes electrical signals (Voltage) over Time.
     *   $Frequency (f) = 1 / T$.
 
 ## Probes
-*   **Input Impedance:** Typically $1 M\Omega$ parallel with $\approx 20 pF$.
+*   **Input [[Impedance (Impedantie)|Impedance]]:** Typically $1 M\Omega$ parallel with $\approx 20 pF$.
 *   **10:1 Probe:** Attenuates signal by 10x. Increases input impedance to $10 M\Omega$ and lowers capacitance (less loading).
     *   *Note:* Remember to multiply the voltage reading by 10!
 

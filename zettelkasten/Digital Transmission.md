@@ -26,7 +26,7 @@ modified: 2025-12-29
 
 ### FSK (Frequency Shift Keying)
 *   Switching between two tones (Mark/Space). Used in **RTTY** (Shift usually 170 Hz).
-*   **Bandwidth Formula**: $B \approx 2(1.6 \times f_{symbol} + \Delta f)$ or roughly **Shift + Baud rate** (plus some margin).
+*   **[[Bandwidth]] Formula**: $B \approx 2(1.6 \times f_{symbol} + \Delta f)$ or roughly **Shift + Baud rate** (plus some margin).
     *   *Exam Formula:* $B \approx 2(1.6 \cdot f_s + \Delta f)$ where $\Delta f$ is half the shift? No, typically $B \approx \text{Shift} + B_d$ is a good approximation, but rigorous formula is $B = 2(\Delta f + B_d)$. Note: $\Delta f$ is deviation (half the shift).
 *   *Exam Tip:* FSK has constant amplitude (Class C amplifier allowed).
 

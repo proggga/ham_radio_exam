@@ -23,7 +23,7 @@ To accurately reconstruct a continuous signal, the **Sample Rate ($f_s$)** must 
 ## Aliasing
 If the signal contains frequencies higher than the Nyquist limit ($> f_s/2$), these high frequencies are "folded back" and appear as false low frequencies (aliases).
 *   **Analogy**: Wagon wheels appearing to spin backwards in movies.
-*   **Solution**: An **Anti-Aliasing Filter** (Low Pass Filter) must be placed before the ADC to remove frequencies above $f_s/2$.
+*   **Solution**: An **Anti-Aliasing [[Filters & Resonance|Filter]]** (Low Pass Filter) must be placed before the ADC to remove frequencies above $f_s/2$.
 
 ## Related Notes
 *   [[Digital Signal Processing (DSP)]]

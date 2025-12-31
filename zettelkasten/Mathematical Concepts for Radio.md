@@ -18,7 +18,7 @@ Numbers are often written as a value between 1 and 10 multiplied by a power of 1
 
 ## Rearranging Formulas
 You must be comfortable manipulating equations.
-Example: Ohm's Law $U = I \times R$
+Example: [[Voltage, Current, and Ohm's Law|Ohm's Law]] $U = I \times R$
 *   To find $I$: divide both sides by $R \rightarrow I = U / R$
 *   To find $R$: divide both sides by $I \rightarrow R = U / I$
 

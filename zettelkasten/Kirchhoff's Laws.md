@@ -27,7 +27,7 @@ Gustav Kirchhoff described two fundamental laws that govern the conservation of 
 
 *   **Formula**: $\Sigma U = 0$
 *   **Alternative View**: The Source Voltage equals the sum of Voltage Drops across components in the loop.
-*   **Principle**: Conservation of Energy. A charge moving around a loop gains energy from the source and loses it all in the components before returning to the start.
+*   **Principle**: Conservation of [[Power and Energy|Energy]]. A charge moving around a loop gains energy from the source and loses it all in the components before returning to the start.
 *   **Application**: This law is fundamental to [[Series Circuits]].
 
 ## Related Notes

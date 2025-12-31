@@ -12,11 +12,11 @@ modified: 2025-12-29
 This map covers digital logic building blocks and frequency control components.
 
 ## Components
-*   **[[Crystals (Quartz)]]** - Quartz crystals for stable frequencies.
+*   **[[Crystals (Quartz)]]** - [[Crystals (Quartz)|Quartz]] crystals for stable frequencies.
 
 ## Digital Logic
 *   **[[Digital Logic Gates]]** - AND, OR, NOT, XOR.
-*   **[[Boolean Algebra]]** - Rules for simplification (De Morgan).
+*   **[[Boolean Algebra]]** - [[Rules & Procedures|Rules]] for simplification (De Morgan).
 *   **[[Combinational Logic]]** - Adders (Stateless).
 *   **[[Sequential Logic]]** - Flip-flops, Registers, Counters (Stateful).
 

@@ -21,7 +21,7 @@ The term "Ground Wave" is often used broadly to include:
     *   *Note:* Direct and Reflected waves are often called "Space Waves" in amateur texts, distinct from the Surface Wave.
 
 ## Characteristics
-*   **Frequency Range**: Dominant at Low Frequencies (LF), Medium Frequencies (MF), and lower HF (160m/80m).
+*   **Frequency Range**: Dominant at Low Frequencies (LF), Medium Frequencies (MF), and lower [[Propagation Basics|HF]] (160m/80m).
 *   **Mechanism**: Diffraction and surface currents induced in the ground.
 *   **Polarization**: **Vertical** polarization works best. Horizontal waves are shorted out by the conductive earth.
 

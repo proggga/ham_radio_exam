@@ -30,7 +30,7 @@ Radio deals with values from the massive (Gigahertz) to the tiny (microvolts). W
 | :---   | :---:  | :---       | :---        | :---               |
 | **Tera**   | T      | Trillion   | $10^{12}$   |                    |
 | **Giga**   | G      | Billion    | $10^9$      | GHz (Microwaves)   |
-| **Mega**   | M      | Million    | $10^6$      | MHz (HF/VHF Bands) |
+| **Mega**   | M      | Million    | $10^6$      | MHz ([[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] Bands) |
 | **kilo**   | k      | Thousand   | $10^3$      | km, kHz            |
 | **milli**  | m      | Thousandth | $10^{-3}$   | mA (Current)       |
 | **micro**  | $\mu$  | Millionth  | $10^{-6}$   | $\mu$V, $\mu$F     |

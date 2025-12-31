@@ -55,7 +55,7 @@ Designed for communication with extremely weak signals (often below the noise fl
 *   **Characteristics**: 15-second transmit intervals.
 *   **Synchronization**: Requires precise computer clock time (< 1 second error).
 *   **Automation**: QSOs are semi-automated (structured exchange of signal report and location).
-*   **Bandwidth**: Very narrow (50 Hz), allowing many stations to operate in a small slice of the band.
+*   **[[Bandwidth]]**: Very narrow (50 Hz), allowing many stations to operate in a small slice of the band.
 
 ## Infrastructure
 *   **Hotspots**: Personal low-power access points (e.g., Raspberry Pi + RF hat) that connect a digital handheld radio to global networks via the user's home internet.

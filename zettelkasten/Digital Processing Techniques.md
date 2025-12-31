@@ -31,4 +31,4 @@ An algorithm that converts Time-domain data (Voltage vs Time) into Frequency-dom
 ## Related Notes
 *   [[Sampling Theory]]
 *   [[Quantisation]]
-*   [[AC Signals & Noise]] (Fourier basics)
+*   [[AC Signals & Noise]] ([[Complex Waveforms & Fourier|Fourier]] basics)

@@ -13,7 +13,7 @@ Understanding transceiver controls is essential for proper operation and signal 
 
 ## Transmitter Controls
 *   **Microphone Gain (Mic Gain)**: Controls the audio level sent to the transmitter.
-    *   *Excessive Gain:* Causes **distortion** and splattering (over-deviation in FM, flat-topping/splatter in SSB).
+    *   *Excessive Gain:* Causes **distortion** and splattering (over-deviation in [[Frequency Modulation (FM)|FM]], flat-topping/splatter in [[Single Sideband (SSB)|SSB]]).
 *   **Power Output**: Adjustable power level. Use the minimum power necessary to maintain contact.
 *   **VOX (Voice Operated Exchange)**: Automatically switches to transmit when you speak.
     *   *Anti-VOX:* Prevents speaker audio from tripping the VOX.
@@ -29,8 +29,8 @@ Understanding transceiver controls is essential for proper operation and signal 
 *   **RIT / Clarifier (Receiver Incremental Tuning)**: Changes the *receive* frequency without changing the *transmit* frequency.
     *   *Use:* To tune in a station that is slightly off-frequency (e.g., voice sounds like Donald Duck in SSB) without shifting your own transmit frequency.
 *   **RF Gain**: Adjusts the sensitivity of the receiver's RF amplifier stage. Reducing it can help with strong local signals.
-*   **AGC (Automatic Gain Control)**: Automatically adjusts gain to keep audio volume constant despite fading.
-    *   *Settings:* Fast (CW), Slow (SSB), Off.
+*   **[[Automatic Gain Control (AGC)|AGC]] (Automatic Gain Control)**: Automatically adjusts gain to keep audio volume constant despite fading.
+    *   *Settings:* Fast ([[CW Abbreviations & Prosigns|CW]]), Slow (SSB), Off.
 
 ## Function Controls
 *   **Memory**: Stores frequencies for quick recall.

@@ -26,7 +26,7 @@ A diode designed to operate in the **reverse breakdown** region.
 *   **Protection**: Used to limit voltage spikes (overvoltage protection).
 
 ## Calculations
-*   **Series Resistor ($R_s$)**: Required to limit current.
+*   **Series [[Resistors|Resistor]] ($R_s$)**: Required to limit current.
     *   $$R_s = \frac{U_{in} - U_{Z}}{I_{total}}$$
     *   Where $I_{total} = I_{Zener} + I_{Load}$.
 *   **Dissipation ($P_Z$)**:

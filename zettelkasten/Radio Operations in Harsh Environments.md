@@ -14,7 +14,7 @@ Environmental conditions significantly impact radio performance and equipment re
 ## 1. Desert Operations
 *   **Grounding**: Dry sand is a poor electrical conductor. Normal ground rods are ineffective.
     *   *Solution:* Use **Counterpoises** (wire networks on/above ground) instead of earth grounds.
-*   **Propagation**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
+*   **[[Solar Cycle & Propagation|Propagation]]**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
 *   **Equipment**:
     *   **Heat**: Electrolyte in wet batteries evaporates. Transmitters overheat.
     *   **Dust**: Clogs vents and damages moving parts. Use dust covers.
@@ -37,9 +37,9 @@ Environmental conditions significantly impact radio performance and equipment re
 *   **Static**: Charged snow particles cause high static noise (precipitation static).
 
 ## 4. Urban Operations
-*   **Obstacles**: Buildings block Line-of-Sight (VHF/UHF).
-    *   *Solution:* Use retransmission (relays) or NVIS (Near Vertical Incidence Skywave) on HF.
-*   **Interference**: High levels of man-made electrical noise (QRM).
+*   **Obstacles**: Buildings block Line-of-Sight ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF).
+    *   *Solution:* Use retransmission (relays) or [[Near Vertical Incidence Skywave (NVIS)|NVIS]] (Near Vertical Incidence Skywave) on [[Propagation Basics|HF]].
+*   **[[Mixing Products (Interference)|Interference]]**: High levels of man-made electrical noise (QRM).
 *   **Concealment**: Antennas can be disguised as utility lines or clotheslines.
 
 ## Related

@@ -16,8 +16,8 @@ This map covers the different paths radio waves take to travel from transmitter 
 
 ## Standard Modes
 *   [[Ground Wave Propagation]] - LF/MF, following the surface.
-*   [[Sky Wave Propagation]] - HF, skipping off the ionosphere.
-*   [[Line of Sight Propagation (LOS)]] - VHF/UHF, direct path.
+*   [[Sky Wave Propagation]] - [[Propagation Basics|HF]], skipping off the ionosphere.
+*   [[Line of Sight Propagation (LOS)]] - [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF, direct path.
 
 ## Extended VHF/UHF Modes
 *   [[Tropospheric Propagation]] - Ducting and scattering due to weather.

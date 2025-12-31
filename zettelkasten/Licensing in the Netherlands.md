@@ -10,7 +10,7 @@ modified: 2025-12-29
 # Licensing in the Netherlands
 
 ## 1. Registration
-In the Netherlands, you do not get a "license" (vergunning) but a **Registration**.
+In the [[Operating Rules (Netherlands)|Netherlands]], you do not get a "license" (vergunning) but a **Registration**.
 *   **Agency:** **RDI** (Rijksinspectie Digitale Infrastructuur), formerly Agentschap Telecom (AT). Part of the Ministry of Economic Affairs.
 *   **Requirement:** Passing the exam (administered by CBR) allows you to register.
 *   **Exam Levels:**
@@ -20,7 +20,7 @@ In the Netherlands, you do not get a "license" (vergunning) but a **Registration
 ## 2. Call Signs (Roepletters)
 A unique identifier for the station.
 *   **Structure:** Prefix + Suffix.
-*   **Prefixes:** Assigned to the Netherlands by ITU (PA-PI).
+*   **[[SI Units & Prefixes|Prefixes]]:** Assigned to the Netherlands by [[Emission Classes (ITU)|ITU]] (PA-PI).
     *   **PA to PH:** Full License (F).
     *   **PD:** Novice License (N).
     *   **PI:** Special use (Repeaters, Beacons, Clubs, Events).

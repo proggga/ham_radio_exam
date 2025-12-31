@@ -17,7 +17,7 @@ This map covers the various ways interference is generated and manifested.
 *   **[[Image Frequency]]** - Superhet artifact.
 
 ## Audio/EMC Issues
-*   **[[Audio Rectification (LFD)]]** - Hearing radio in stereo equipment (LFD).
+*   **[[Audio Rectification (LFD)]]** - Hearing radio in stereo equipment ([[Audio Rectification (LFD)|LFD]]).
 
 ## Transmitter Issues
 *   **[[Transmitter Defects]]** - Chirp, Key Clicks, and Splatter.

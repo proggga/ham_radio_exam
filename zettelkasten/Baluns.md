@@ -12,7 +12,7 @@ modified: 2025-12-29
 
 # Baluns
 
-A **Balun** (**Bal**anced to **Un**balanced transformer) interfaces a balanced antenna (like a Dipole) to an unbalanced transmission line (like Coaxial cable).
+A **Balun** (**Bal**anced to **Un**balanced transformer) interfaces a balanced antenna (like a [[The Dipole Antenna|Dipole]]) to an unbalanced transmission line (like Coaxial cable).
 
 ## Choke Balun (Current Balun)
 *   **Function**: Forces the currents in the two output conductors to be equal and opposite.

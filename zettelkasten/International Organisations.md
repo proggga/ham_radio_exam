@@ -11,11 +11,11 @@ modified: 2025-12-29
 
 ## 1. ITU (International Telecommunication Union)
 The UN agency for information and communication technologies, based in Geneva.
-*   **Role:** Allocates global radio spectrum and satellite orbits. Maintains the **Radio Regulations (RR)**.
+*   **Role:** Allocates global radio spectrum and satellite orbits. Maintains the **Radio [[Rules & Regulations|Regulations]] (RR)**.
 *   **Definition of Amateur Service (Art. 1.56):**
     *   "A radiocommunication service for the purpose of **self-training**, **intercommunication** and **technical investigations** carried out by amateurs, that is, by duly authorized persons interested in radio technique solely with a **personal aim** and **without pecuniary interest**."
 *   **Regions:** The world is divided into 3 regions.
-    *   **Region 1:** Europe, Africa, Middle East, Northern Asia (including Russia). **Netherlands is in Region 1.**
+    *   **Region 1:** Europe, Africa, Middle East, Northern Asia (including Russia). **[[Operating Rules (Netherlands)|Netherlands]] is in Region 1.**
     *   **Region 2:** The Americas (North and South).
     *   **Region 3:** Asia-Pacific (Australia, China, India, Oceania).
 
@@ -30,7 +30,7 @@ European organization of postal and telecommunications administrations.
 
 ## 3. IARU (International Amateur Radio Union)
 The global federation of national amateur radio societies (like VERON/VRZA in NL).
-*   **Role:** Represents the interests of amateur radio to the ITU.
+*   **Role:** Represents the interests of amateur radio to the [[Emission Classes (ITU)|ITU]].
 *   **Band Plans:** Coordinated by IARU Region 1 for Europe. These are "gentlemen's agreements" (recommendations), not law, but highly respected.
 
 ## 4. HAREC

@@ -20,14 +20,14 @@ For oscillation to occur and sustain:
 ## LC Oscillators (Variable Frequency)
 Used in VFOs (Variable Frequency Oscillators). Frequency determined by $f = \frac{1}{2\pi\sqrt{LC}}$.
 *   **Hartley**: Uses an **inductive** voltage divider (tapped coil).
-    *   *Mnemonic:* **H**artley = **H**enry (Inductor).
+    *   *Mnemonic:* **H**artley = **H**enry ([[Inductors (Spoelen)|Inductor]]).
 *   **Colpitts**: Uses a **capacitive** voltage divider (two capacitors in series).
     *   *Mnemonic:* **C**olpitts = **C**apacity.
 *   **Clapp**: A Colpitts with an extra series capacitor to tune the inductance. Improves stability.
 *   **Seiler**: A variation of Colpitts with a capacitive divider coupled loosely to the active device.
 
 ## Crystal Oscillators (Fixed Frequency)
-Uses a Quartz crystal for high stability.
+Uses a [[Crystals (Quartz)|Quartz]] crystal for high stability.
 *   **Pierce**: Crystal connects between input and output (e.g., Gate-Drain). Crystal acts as an inductor. No tuned circuit needed for fundamental mode.
 *   **Miller**: Uses internal capacitance of the active device (FET) for feedback. Crystal is parallel to the input.
 *   **Overtone**: Crystal vibrates at an odd harmonic (3rd, 5th, etc.).
@@ -35,10 +35,10 @@ Uses a Quartz crystal for high stability.
 
 ## Voltage Controlled Oscillator (VCO)
 *   Frequency is controlled by a DC voltage.
-*   **Component**: Uses a **Varicap** (capacitance diode) in the tuned circuit. Reverse voltage changes capacitance $\to$ changes frequency.
+*   **Component**: Uses a **[[Varicap (Capaciteitsdiode)|Varicap]]** (capacitance diode) in the tuned circuit. Reverse voltage changes capacitance $\to$ changes frequency.
 
 ## Stability & Phase Noise
-*   **Phase Noise**: Short-term frequency instability (jitter). Appears as noise sidebands. Widens the signal and degrades receiver selectivity.
+*   **Phase [[AC Signals & Noise|Noise]]**: Short-term frequency instability (jitter). Appears as noise sidebands. Widens the signal and degrades receiver selectivity.
 *   **Stability**: Improved by mechanical rigidity, temperature control (TCXO/OCXO), and loose coupling between oscillator and load (buffer).
 
 ## Parasitic Oscillations

@@ -13,9 +13,9 @@ Radio Direction Finding is the process of determining the location of a radio tr
 
 ## Applications
 *   **Fox Hunting (Vossenjacht)**: Amateur radio sport finding hidden transmitters.
-*   **Interference Tracking**: Locating sources of QRM (jammers, faulty electronics).
+*   **[[Mixing Products (Interference)|Interference]] Tracking**: Locating sources of QRM (jammers, faulty electronics).
 *   **Search and Rescue (SAR)**: Locating emergency beacons (ELT/EPIRB).
-*   **Military**: Locating enemy units (Electronic Warfare Support).
+*   **Military**: Locating enemy units ([[Electronic Warfare (Jamming)|Electronic Warfare]] Support).
 
 ## Techniques
 1.  **Triangulation**: Taking bearings (Azimuths) from multiple known locations.
@@ -26,7 +26,7 @@ Radio Direction Finding is the process of determining the location of a radio tr
 2.  **Homing**: Moving toward the signal strength peak. "Sniffing" the signal.
 
 ## Equipment
-*   **Directional Antenna**: Yagi, Quad, or Loop.
+*   **Directional [[Antenna & Tower Safety|Antenna]]**: [[Directional Antennas (Beams)|Yagi]], Quad, or Loop.
     *   *Null Method:* It is often more accurate to find the signal **null** (minimum strength) of a loop or dipole than the peak, as the null is sharper.
 *   **Attenuator**: Essential when getting close to the transmitter to prevent receiver overload (which makes direction finding impossible).
 *   **Doppler RDF**: Uses an array of antennas switched rapidly to simulate a rotating antenna, using the Doppler effect to indicate direction electronically.

@@ -15,7 +15,7 @@ A standard contact (QSO) in amateur radio typically follows a structured format 
 
 1.  **Calling CQ**: A general call inviting anyone to reply.
     *   Voice: "CQ CQ CQ this is PA0ABC..."
-    *   CW: "CQ CQ CQ DE PA0ABC K"
+    *   [[CW Abbreviations & Prosigns|CW]]: "CQ CQ CQ DE PA0ABC K"
 2.  **The Exchange**: Once contact is established, operators exchange essential information:
     *   **Signal Report (RST)**: Readability, Strength, and Tone.
     *   **Name & QTH**: The operator's name and location. The location is often given as a **Maidenhead Grid Locator** (e.g., JO22).
@@ -31,7 +31,7 @@ The RST system is used to describe signal quality:
 *   **S (Strength)**: 1 to 9 scale.
     *   1 = Faint signal
     *   9 = Very strong signal
-    *   Signals stronger than S9 are reported as "S9 plus dB" (e.g., "59 + 20dB").
+    *   Signals stronger than S9 are reported as "S9 plus [[Decibels & Logarithms|dB]]" (e.g., "59 + 20dB").
 *   **T (Tone)**: 1 to 9 scale (CW only).
     *   1 = Very rough, broad AC note
     *   9 = Perfect sine wave

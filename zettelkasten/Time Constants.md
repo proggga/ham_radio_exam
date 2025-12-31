@@ -19,7 +19,7 @@ Charging or discharging a [[Capacitors|Capacitor]] through a [[Resistors|Resisto
 
 ### Process
 *   **Charging:**
-    *   At $t=0$, Capacitor acts as a short circuit (Current max, Voltage 0).
+    *   At $t=0$, [[Capacitors|Capacitor]] acts as a short circuit (Current max, Voltage 0).
     *   After **$1 \tau$**: Voltage reaches **63%** of source voltage.
     *   After **$5 \tau$**: Capacitor is considered fully charged (~99%).
 *   **Discharging:**
@@ -34,7 +34,7 @@ Building up or collapsing current through an [[Inductors (Spoelen)|Inductor]].
 
 ### Process
 *   **Current Buildup:**
-    *   At $t=0$, Inductor opposes change (Current 0).
+    *   At $t=0$, [[Inductors (Spoelen)|Inductor]] opposes change (Current 0).
     *   After **$1 \tau$**: Current reaches **63%** of maximum ($U/R$).
     *   After **$5 \tau$**: Current is stable (maximum).
 *   **Current Decay:**

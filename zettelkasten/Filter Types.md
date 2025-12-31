@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Filter Types
 
-Filters allow specific frequencies to pass while rejecting others.
+[[Filters & Resonance|Filters]] allow specific frequencies to pass while rejecting others.
 
 ## Common Types
 *   **Low Pass Filter (LPF)**: Passes frequencies below a cut-off point. Attenuates higher frequencies.

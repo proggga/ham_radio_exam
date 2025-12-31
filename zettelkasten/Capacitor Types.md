@@ -21,13 +21,13 @@ modified: 2025-12-29
     *   **Use**: Power supply smoothing, audio coupling.
 
 ## Frequency Characteristics
-*   **HF/VHF Applications:**
+*   **[[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] Applications:**
     *   **Ceramic:** Preferred for VHF (e.g., 145 MHz) due to low inductance.
     *   **Air/Vacuum:** Lowest losses (best dielectric) for HF applications.
     *   **Value:** Typical tuning capacitor for Shortwave (HF) is ~100 pF (compared to ~500 pF for Medium Wave).
 
 ## Variable Capacitors
-*   **Air Variable**: Rotatable metal plates meshing together. Used for VFO tuning and Antenna Matching.
+*   **Air Variable**: Rotatable metal plates meshing together. Used for VFO tuning and [[Antenna & Tower Safety|Antenna]] Matching.
 *   **Trimmer**: Small adjustable capacitor for screwdriver calibration.
 
 ## Breakdown Voltage

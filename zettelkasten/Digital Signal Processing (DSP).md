@@ -20,12 +20,12 @@ DSP involves processing signals in the digital domain (as numbers) rather than u
 *   **Nyquist-Shannon Theorem**: To accurately reconstruct a signal, the sampling rate must be **at least twice** the highest frequency in the signal.
     *   $f_s \ge 2 \times f_{max}$.
 *   **Aliasing**: If $f_{signal} > f_s / 2$, the signal is "folded back" and appears as a lower, false frequency (alias).
-    *   *Prevention:* Use an **Anti-Aliasing Filter** (Low Pass) before the ADC to block frequencies $> f_s / 2$.
+    *   *Prevention:* Use an **Anti-Aliasing [[Filters & Resonance|Filter]]** (Low Pass) before the ADC to block frequencies $> f_s / 2$.
 
 ## Quantization
 *   **Resolution (Bit Depth)**: The number of bits used to represent each sample value.
-*   **Quantization Noise**: The error between the real analog value and the nearest digital step.
-    *   More bits = Less noise, higher Dynamic Range. (~6 dB per bit).
+*   **Quantization [[AC Signals & Noise|Noise]]**: The error between the real analog value and the nearest digital step.
+    *   More bits = Less noise, higher Dynamic Range. (~6 [[Decibels & Logarithms|dB]] per bit).
 
 ## Digital Filters
 *   **FIR (Finite Impulse Response)**:
@@ -36,7 +36,7 @@ DSP involves processing signals in the digital domain (as numbers) rather than u
     *   More efficient (fewer calculations) for steep slopes.
 
 ## FFT (Fast Fourier Transform)
-*   Converts a signal from **Time Domain** (Oscilloscope view) to **Frequency Domain** (Spectrum Analyzer view).
+*   Converts a signal from **Time Domain** ([[Oscilloscope]] view) to **Frequency Domain** ([[Spectrum Analyzer]] view).
 *   Used for filtering, spectral display, and modulation/demodulation.
 
 ## DDS (Direct Digital Synthesis)

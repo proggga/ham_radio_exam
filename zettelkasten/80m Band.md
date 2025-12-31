@@ -13,11 +13,11 @@ A workhorse band for regional communications.
 
 ## Characteristics
 *   **Frequency:** 3.5 - 4.0 MHz.
-*   **Propagation:**
+*   **[[Solar Cycle & Propagation|Propagation]]:**
     *   **Day:** D-layer absorption limits range to regional (200-300 miles).
     *   **Night:** Global DX possible (500-1000+ miles).
-*   **Noise:** High (S6-S9). Thunderstorm static in summer.
-*   **NVIS:** Excellent for Near Vertical Incidence Skywave (regional coverage without skip zone).
+*   **[[AC Signals & Noise|Noise]]:** High (S6-S9). Thunderstorm static in summer.
+*   **[[Near Vertical Incidence Skywave (NVIS)|NVIS]]:** Excellent for Near Vertical Incidence Skywave (regional coverage without skip zone).
 
 ## Usage
 *   **Best For:** Evening ragchewing, Regional Nets, Emergency Comms.

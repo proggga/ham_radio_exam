@@ -39,7 +39,7 @@ There are three basic circuit configurations for amplifying components (BJT, FET
     *   **Names**: Emitter Follower, Source Follower, Cathode Follower.
 
 ## 3. Common Base / Gate / Grid
-*   **The HF Specialist**. Used in RF amplifiers.
+*   **The [[Propagation Basics|HF]] Specialist**. Used in RF amplifiers.
 *   **Input**: Emitter / Source / Cathode.
 *   **Output**: Collector / Drain / Anode.
 *   **Common**: Base / Gate / Grid.
@@ -50,7 +50,7 @@ There are three basic circuit configurations for amplifying components (BJT, FET
     *   **Phase**: **Non-Inverted ($0^\circ$)**.
     *   **Input Z**: **Low**.
     *   **Output Z**: High.
-*   **Advantage**: Low feedback capacitance (Miller effect avoided), making it stable at high frequencies (VHF/UHF).
+*   **Advantage**: Low feedback capacitance (Miller effect avoided), making it stable at high frequencies ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF).
 
 ## Summary Table
 
@@ -64,7 +64,7 @@ There are three basic circuit configurations for amplifying components (BJT, FET
 | **Input Z** | Medium | **High** | **Low** |
 | **Output Z** | Medium | **Low** | High |
 | **Phase** | **Inverted ($180^\circ$)** | In Phase ($0^\circ$) | In Phase ($0^\circ$) |
-| **Application** | General Purpose, Audio | Buffer, Impedance Matching | RF/VHF Amplifier |
+| **Application** | General Purpose, Audio | Buffer, [[Impedance (Impedantie)|Impedance]] Matching | RF/VHF Amplifier |
 
 ## Mnemonics
 *   **"Common" terminal** is the one *not* used for Input or Output.

@@ -13,8 +13,8 @@ The most reliable all-around band in Amateur Radio.
 
 ## Characteristics
 *   **Frequency:** 7.0 - 7.2/7.3 MHz.
-*   **Propagation:**
-    *   **Day:** NVIS (0-400 miles) to mid-range skip (300-900 miles).
+*   **[[Solar Cycle & Propagation|Propagation]]:**
+    *   **Day:** [[Near Vertical Incidence Skywave (NVIS)|NVIS]] (0-400 miles) to mid-range skip (300-900 miles).
     *   **Night:** Worldwide DX (F2 layer).
 *   **Reliability:** Works well in **ALL** phases of the solar cycle.
 
