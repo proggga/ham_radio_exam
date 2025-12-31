@@ -7,7 +7,7 @@ To work correctly, the active device (like a transistor) must be set to a specif
 *   **Purpose**: To ensure the device operates in its linear region (for Class A) or appropriate cutoff point.
 *   **Methods**:
     *   **Base/Gate [Resistors](../02_components/01_Resistors.md)**: Set the DC voltage.
-    *   **Emitter/Source/Cathode Resistor**: Provides self-bias and thermal stability (negative feedback for DC).
+    *   **Emitter/Source/Cathode [Resistor](../02_components/01_Resistors.md)**: Provides self-bias and thermal stability (negative feedback for DC).
 
 ## Load Line (Belastingslijn)
 A graphical tool to visualize amplifier operation and select the Operating Point.
@@ -20,7 +20,7 @@ A graphical tool to visualize amplifier operation and select the Operating Point
     *   **Class B:** P is at Cutoff ($I=0$).
 
 ### Calculations
-*   **Source/Emitter Resistor ($R_S$ or $R_E$):** Used to set the bias point.
+*   **Source/Emitter [Resistor](../02_components/01_Resistors.md) ($R_S$ or $R_E$):** Used to set the bias point.
     *   $R_S = \frac{U_{GS}}{I_D}$ (Note: $U_{GS}$ is the required bias voltage).
 *   **Bypass [Capacitor](../02_components/05_Capacitors.md):**
     *   A capacitor parallel to $R_S$ or $R_E$ increases AC gain by bypassing the resistor for signals (AC Load Line is steeper than DC Load Line).

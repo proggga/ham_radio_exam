@@ -22,3 +22,6 @@ This map covers digital logic building blocks and frequency control components.
 
 ## Fundamentals
 *   **[[Number Systems]]** - Binary and Hexadecimal.
+
+## Other
+*   **[[555 Timer]]** - Versatile timer IC.

@@ -30,7 +30,7 @@ Connecting capacitors in series increases the effective distance between plates.
 
 ## Summary Table
 
-| Connection | [Resistors](../02_components/01_Resistors.md) ($R$) | [Inductors](../02_components/09_Inductors_Spoelen.md) ($L$) | Capacitors ($C$) |
+| Connection | [Resistors](../02_components/01_Resistors.md) ($R$) | [Inductors](../02_components/09_Inductors_Spoelen.md) ($L$) | [Capacitors](../02_components/05_Capacitors.md) ($C$) |
 | :--- | :--- | :--- | :--- |
 | **Series** | Add | Add | Inverse Sum |
 | **Parallel** | Inverse Sum | Inverse Sum | Add |

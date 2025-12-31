@@ -13,12 +13,12 @@ Impedance ($Z$) is the total opposition to current flow in an AC circuit, combin
 *   **Unit**: Ohm ($\Omega$).
 
 ## Vector Addition
-Because Resistance and Reactance are $90^\circ$ out of phase, they must be added as vectors (Pythagoras).
+Because Resistance and [[Reactance (Reactantie)|Reactance]] are $90^\circ$ out of phase, they must be added as vectors (Pythagoras).
 
 ### Series Circuits
 $$Z = \sqrt{R^2 + X^2}$$
 
-*   *Exam Tip (Pythagoras Triples):* Look out for the **3-4-5** ratio (and multiples like 6-8-10, 24-32-40, 30-40-50).
+*   *[[Licensing in the Netherlands|Exam]] Tip (Pythagoras Triples):* Look out for the **3-4-5** ratio (and multiples like 6-8-10, 24-32-40, 30-40-50).
     *   If $R=3$ and $X=4$, then $Z=5$.
     *   If $R=300$ and $X=400$, then $Z=500$.
     *   This saves calculation time during the exam.

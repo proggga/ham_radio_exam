@@ -32,7 +32,7 @@ The RST system is used to describe signal quality:
     *   1 = Faint signal
     *   9 = Very strong signal
     *   Signals stronger than S9 are reported as "S9 plus [[Decibels & Logarithms|dB]]" (e.g., "59 + 20dB").
-*   **T (Tone)**: 1 to 9 scale (CW only).
+*   **T (Tone)**: 1 to 9 scale ([[CW Abbreviations & Prosigns|CW]] only).
     *   1 = Very rough, broad AC note
     *   9 = Perfect sine wave
 

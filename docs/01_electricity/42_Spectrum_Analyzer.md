@@ -15,7 +15,7 @@ It functions like a scanning superheterodyne receiver.
 *   **[Modulation](31_Modulation_&_Digital_Signals.md)**: Visualizing sidebands ([AM](32_Analogue_Modulation_&_AM.md)/[FM](35_Frequency_Modulation_FM.md)).
 
 ## Comparison with Oscilloscope
-*   **[Oscilloscope](39_Oscilloscope.md):** Time Domain (Voltage vs Time). Good for waveform shape.
+*   **[Oscilloscope](41_Oscilloscope.md):** Time Domain (Voltage vs Time). Good for waveform shape.
 *   **Spectrum Analyzer:** Frequency Domain (Amplitude vs Frequency). Good for harmonic content and spectral purity.
 
 ---

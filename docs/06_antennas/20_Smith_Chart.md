@@ -1,6 +1,6 @@
 # Smith Chart
 
-The **Smith Chart** is a graphical calculator for radio frequency engineering, used to plot impedance, [SWR](16_Standing_Wave_Ratio_SWR.md), and design matching networks.
+The **Smith Chart** is a graphical calculator for radio frequency engineering, used to plot impedance, [SWR](19_Standing_Wave_Ratio_SWR.md), and design matching networks.
 
 ## Structure
 It maps the complex impedance plane onto a circular grid.
@@ -25,8 +25,8 @@ The chart is "normalized" to make it universal.
 
 ## Radially Scaled Parameters
 Scales at the bottom of the chart provide derived data based on the plotted impedance radius (distance from center).
-*   **SWR**: Standing Wave Ratio.
-*   **Return Loss**: Power reflected back in dB.
+*   **[SWR](19_Standing_Wave_Ratio_SWR.md)**: [Standing Wave Ratio](19_Standing_Wave_Ratio_SWR.md).
+*   **Return Loss**: Power reflected back in [dB](../00_basic_skills.md).
 *   **Reflection Coefficient**: Voltage ($\Gamma$) or Power ($\Gamma_{pwr}$).
 *   **Transmission Loss**: Attenuation due to mismatch.
 

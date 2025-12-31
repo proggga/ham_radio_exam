@@ -57,11 +57,11 @@ Analogous to [Transistor](18_Transistors_BJT_&_FET.md)/FET circuits.
 *   **Grounded Grid (GRS)**:
     *   Input: Cathode | Output: Anode.
     *   *Equivalent:* Common Base (GBS) / Common Gate (GGS).
-    *   *Characteristics:* Non-inverting, Low Input Z. Used in [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/UHF amplifiers.
+    *   *Characteristics:* Non-inverting, Low Input Z. Used in [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) amplifiers.
 
 ## Comparison with Semiconductors
 *   **Heater**: [Tubes](23_Tubes_&_Op-Amps.md) need warmup and consume more power.
-*   **Voltage**: Tubes work at high voltages (100V - kV).
+*   **Voltage**: [Tubes](23_Tubes_&_Op-Amps.md) work at high voltages (100V - kV).
 *   **Robustness**: More resistant to temporary overloads and EMP.
 
 ---

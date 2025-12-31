@@ -13,7 +13,7 @@ Shielding prevents the coupling of electric, magnetic, or electromagnetic fields
 *   **Frequency**: Audio / Mains (50/60 Hz).
 *   **Material**: High permeability ferromagnetic material (Soft Iron, Mu-Metal).
 *   **Mechanism**: The material provides a low-reluctance path for magnetic flux, diverting it around the protected region.
-    *   *Exam Phrase*: "Geleider voor het magnetisch veld" (Conductor for the magnetic field).
+    *   *[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Phrase*: "Geleider voor het magnetisch veld" (Conductor for the magnetic field).
 
 ### 3. RF Shielding (High Frequency)
 *   **Frequency**: RF (> 100 kHz).

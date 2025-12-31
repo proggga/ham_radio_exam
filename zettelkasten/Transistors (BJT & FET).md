@@ -29,7 +29,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
     2.  Emitter Voltage ($U_e$) follows Base: $U_e = U_b - 0.6V$.
     3.  Emitter Current ($I_e$) set by Emitter [[Resistors|Resistor]] ($R_e$): $I_e = \frac{U_e}{R_e}$.
     4.  Collector Current $I_c \approx I_e$.
-    5.  Collector Voltage ($U_c$) set by Collector Resistor ($R_c$) and supply ($U_{supply}$): $U_c = U_{supply} - I_c \cdot R_c$.
+    5.  Collector Voltage ($U_c$) set by Collector [[Resistors|Resistor]] ($R_c$) and supply ($U_{supply}$): $U_c = U_{supply} - I_c \cdot R_c$.
 *   **Gain Formula (Approx):**
     *   Voltage Gain ($A_u$) $\approx \frac{R_c}{R_e}$ (if $R_e$ is present and unbypassed).
     *   *Note:* If $R_e$ is bypassed with a capacitor, gain is much higher, limited by internal $r_e$.
@@ -58,11 +58,11 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
         *   **Depletion Mode**: Normally ON. Conducting channel exists with $U_{GS} = 0$. Apply voltage to close (deplete) it. Similar to JFET.
         *   **Enhancement Mode**: Normally OFF. No channel at $U_{GS} = 0$. Apply voltage to create (enhance) a channel. Used in logic gates and power switching.
     *   **Dual-Gate MOSFET:** Two gates. Gate 2 often used for Gain Control ([[Automatic Gain Control (AGC)|AGC]]) or isolating input from output (reduced Miller effect).
-    *   **Handling (ESD Safety)**: The thin oxide layer is easily punctured by Static Electricity (ESD). Always handle with grounded tools/wrist straps and keep leads shorted until soldering.
+    *   **Handling (ESD [[Electrical Safety|Safety]])**: The thin oxide layer is easily punctured by Static Electricity (ESD). Always handle with grounded tools/wrist straps and keep leads shorted until soldering.
 
 ### FET Amplification
 *   **Voltage Gain ($A_u$):**
-    *   With Source Resistor ($R_S$) unbypassed: $A_u \approx \frac{R_D}{R_S}$.
+    *   With Source [[Resistors|Resistor]] ($R_S$) unbypassed: $A_u \approx \frac{R_D}{R_S}$.
     *   Without $R_S$ (or bypassed): $A_u = S \cdot R_D$.
 
 ## Frequency Characteristics
@@ -74,10 +74,10 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 | Feature | BJT | FET |
 | :--- | :--- | :--- |
 | **Control** | Current ($I_b$) | Voltage ($U_{GS}$) |
-| **Input Impedance** | Low/Medium | Very High |
+| **Input [[Impedance (Impedantie)|Impedance]]** | Low/Medium | Very High |
 | **Charge Carriers** | Electrons & Holes (Bipolar) | Electrons (N) or Holes (P) (Unipolar) |
 | **[[AC Signals & Noise|Noise]]** | Higher | Lower (generally) |
-| **Sensitivity** | Robust | Sensitive to static (MOSFET) |
+| **[[Receiver Performance|Sensitivity]]** | Robust | Sensitive to static (MOSFET) |
 
 ## Related
 *   [[Amplifier Configurations]]

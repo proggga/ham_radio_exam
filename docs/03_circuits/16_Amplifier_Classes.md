@@ -6,7 +6,7 @@ Amplifier classes describe the conduction angle (bias point) of the amplifying d
 | :--- | :--- | :--- | :--- | :--- |
 | **Class A** | $360^\circ$ | Highest | Low (< 25-50%) | Audio, Pre-amps, [SSB](../01_electricity/34_Single_Sideband_SSB.md) Linear |
 | **Class B** | $180^\circ$ | Low | Medium (~50-78%) | Push-Pull Audio/RF |
-| **Class AB**| $180^\circ - 360^\circ$| Good | Good | SSB Linear Amps |
+| **Class AB**| $180^\circ - 360^\circ$| Good | Good | [SSB](../01_electricity/34_Single_Sideband_SSB.md) Linear Amps |
 | **Class C** | $< 180^\circ$ | Very Low | High (> 75%) | [FM](../01_electricity/35_Frequency_Modulation_FM.md)/[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md) RF PA, Freq Multipliers |
 
 ## Details

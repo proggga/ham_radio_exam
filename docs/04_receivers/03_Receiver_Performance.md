@@ -3,10 +3,10 @@
 ## 1. Sensitivity (Gevoeligheid)
 The ability to receive weak signals.
 *   **SINAD:** Signal-to-[Noise](../01_electricity/26_AC_Signals_&_Noise.md) and Distortion ratio. Typical spec: 12dB SINAD.
-*   **Noise Figure (Ruisgetal, F):** Measure of how much noise the receiver adds.
+*   **[Noise](../01_electricity/26_AC_Signals_&_Noise.md) Figure (Ruisgetal, F):** Measure of how much noise the receiver adds.
     $$F = \frac{(S/N)_{in}}{(S/N)_{out}}$$
     *   Ideal receiver: $F = 1$ (0 [dB](../00_basic_skills.md)).
-    *   **Independence:** Noise Figure is **independent** of bandwidth.
+    *   **Independence:** [Noise](../01_electricity/26_AC_Signals_&_Noise.md) Figure is **independent** of bandwidth.
     *   **LNA (Low Noise Amplifier):** The first stage (RF Amp) is critical for system noise figure (Friis formula). See [Amplifiers](../03_circuits/14_Amplifiers.md).
 
 ## 2. Selectivity (Selectiviteit)
@@ -30,13 +30,13 @@ The range between the noise floor and the signal level that causes distortion.
 ## 4. The S-Meter
 Indicates received signal strength.
 *   **Standard ([HF](../07_propagation/01_Propagation_Basics.md)):** **S9** corresponds to **50 $\mu V$** at the antenna input ($50 \Omega$).
-*   **Steps:** One S-unit = **6 dB** (Voltage ratio of 2). See [Decibels](../00_basic_skills.md).
+*   **Steps:** One S-unit = **6 [dB](../00_basic_skills.md)** (Voltage ratio of 2). See [Decibels](../00_basic_skills.md).
     *   S8 = 25 $\mu V$.
     *   S9+20dB = 500 $\mu V$.
 
 ## 5. Signal-to-Noise Ratio (SNR)
 *   **Audio Gain:** Increasing the audio gain (volume) increases both Signal and Noise equally. It does **NOT** improve the SNR.
-*   **Bandwidth:** Increasing bandwidth increases noise power (Noise power $\propto$ Bandwidth). Doubling bandwidth doubles noise power (+3 dB).
+*   **[Bandwidth](../03_circuits/07_Bandwidth.md):** Increasing bandwidth increases noise power (Noise power $\propto$ [Bandwidth](../03_circuits/07_Bandwidth.md)). Doubling bandwidth doubles noise power (+3 [dB](../00_basic_skills.md)).
 
 ---
 [< Back to Section Index](README.md)

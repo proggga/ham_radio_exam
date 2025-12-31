@@ -23,7 +23,7 @@ The tendency of an alternating current (AC) to distribute itself within a conduc
 ## Mitigation
 To reduce losses due to skin effect in RF coils and antennas:
 1.  **Litz Wire**: Wire made of many thin, individually insulated strands (used at MF/[[Propagation Basics|HF]]). Increases total surface area.
-2.  **Silver Plating**: Plating copper wire with silver (highly conductive) reduces resistance at the surface (used at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF).
+2.  **Silver Plating**: Plating copper wire with silver (highly conductive) reduces resistance at the surface (used at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]]).
 3.  **Tubing**: Using hollow tubes instead of solid wire for antennas (since the center carries no current anyway).
 4.  **Spacing**: Spacing turns of a coil reduces proximity effect (related to skin effect).
 

@@ -12,8 +12,8 @@ Transmission lines carry RF energy from the transmitter to the antenna.
 ## Open Wire / Twin Lead (Symmetric)
 *   **Structure**: Two parallel wires separated by insulating spacers.
     *   *Examples*: "Ladder line", "Kippenladder", 300 $\Omega$ TV ribbon.
-*   **Impedance ($Z_0$)**: Typically **300 $\Omega$, 450 $\Omega$, or 600 $\Omega$**.
-*   **Characteristics**: Extremely low loss, even at high [SWR](16_Standing_Wave_Ratio_SWR.md). ideal for multiband doublets.
+*   **[Impedance](../01_electricity/21_Impedance_Impedantie.md) ($Z_0$)**: Typically **300 $\Omega$, 450 $\Omega$, or 600 $\Omega$**.
+*   **Characteristics**: Extremely low loss, even at high [SWR](19_Standing_Wave_Ratio_SWR.md). ideal for multiband doublets.
 *   **Installation**: Must be kept away from metal and ground (affects impedance).
 
 ---

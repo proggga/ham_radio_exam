@@ -9,7 +9,7 @@ modified: 2025-12-31
 
 # Doppler Shift
 
-Doppler Shift is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.
+Doppler [[Repeater Operation|Shift]] is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.
 
 ## Mechanism
 *   **Approaching Source**: Waves are compressed $\rightarrow$ Frequency **Increases** (Pitch goes up).
@@ -20,8 +20,8 @@ Doppler Shift is the change in frequency of a wave in relation to an observer wh
 As a Low Earth Orbit (LEO) satellite passes overhead:
 *   **AOS (Acquisition of Signal)**: Satellite approaching. Frequency is **High**.
 *   **TCA (Time of Closest Approach)**: Frequency is nominal.
-*   **LOS (Loss of Signal)**: Satellite moving away. Frequency is **Low**.
-*   **Correction**: The operator must tune the receiver *down* during the pass to follow the signal. [[VHFUHF Bands (6m, 2m, 70cm)|UHF]] shifts more than VHF.
+*   **[[Line of Sight Propagation (LOS)|LOS]] (Loss of Signal)**: Satellite moving away. Frequency is **Low**.
+*   **Correction**: The operator must tune the receiver *down* during the pass to follow the signal. [[VHFUHF Bands (6m, 2m, 70cm)|UHF]] shifts more than [[VHFUHF Bands (6m, 2m, 70cm)|VHF]].
 
 ### 2. EME (Moonbounce)
 *   The Moon moves relative to the Earth.

@@ -11,7 +11,7 @@ In the [Netherlands](07_Operating_Rules_Netherlands.md), you do not get a "licen
 ## 2. Call Signs (Roepletters)
 A unique identifier for the station.
 *   **Structure:** Prefix + Suffix.
-*   **[Prefixes](../00_basic_skills.md):** Assigned to the Netherlands by [ITU](05_Emission_Classes_ITU.md) (PA-PI).
+*   **[Prefixes](../00_basic_skills.md):** Assigned to the [Netherlands](07_Operating_Rules_Netherlands.md) by [ITU](05_Emission_Classes_ITU.md) (PA-PI).
     *   **PA to PH:** Full License (F).
     *   **PD:** Novice License (N).
     *   **PI:** Special use (Repeaters, Beacons, Clubs, Events).

@@ -29,7 +29,7 @@ This map covers the fundamental fields of force in radio physics.
 *   **Lines:** Concentric circles around the wire (Right-Hand Rule).
     *   Current moving away ($\times$): Field Clockwise.
     *   Current moving towards ($\cdot$): Field Counter-Clockwise.
-*   **Shielding:** 
+*   **[[Shielding (Afscherming)|Shielding]]:** 
     *   Conductive materials (Al, Cu) do **NOT** shield static magnetic fields effectively.
     *   Use **High Permeability Material** (Soft Iron, Mu-Metal) to guide magnetic flux lines around the protected area.
 

@@ -12,8 +12,8 @@ modified: 2025-12-29
 Guide to the characteristics and usage of the different amateur radio bands.
 
 ## Power Limits (Netherlands)
-*   **F-Registration (Full)**: Generally **400 Watts** [[Analogue Modulation & AM|PEP]] on most [[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF bands.
-*   **N-Registration (Novice)**: Generally **25 Watts** PEP.
+*   **F-[[Licensing in the Netherlands|Registration]] (Full)**: Generally **400 Watts** [[Analogue Modulation & AM|PEP]] on most [[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]] bands.
+*   **N-Registration (Novice)**: Generally **25 Watts** [[Analogue Modulation & AM|PEP]].
     *   *Permitted Bands:* 40m, 20m, 10m, 2m, 70cm (and sometimes portions of others).
     *   *Forbidden Bands:* 80m, 160m, WARC bands (for N).
 
@@ -24,11 +24,11 @@ Guide to the characteristics and usage of the different amateur radio bands.
 *   **[[20m Band]]** - Premier DX band.
 
 ## HF Bands (High)
-*   **[[10m Band]]** - Solar max powerhouse / Sporadic E.
+*   **[[10m Band]]** - Solar max powerhouse / [[Special Propagation Modes|Sporadic E]].
 *   **[[WARC Bands (30m, 17m, 12m)]]** - [[WARC Bands (30m, 17m, 12m)|30m, 17m, 12m]] (Contest-free).
 
 ## VHF/UHF
-*   **[[VHFUHF Bands (6m, 2m, 70cm)]]** - 6m, 2m, 70cm (Line of Sight, Repeater, Tropo).
+*   **[[VHFUHF Bands (6m, 2m, 70cm)]]** - [[VHFUHF Bands (6m, 2m, 70cm)|6m, 2m, 70cm]] (Line of Sight, [[Repeater Operation|Repeater]], Tropo).
     *   **6m (50 MHz)**: "Magic Band".
     *   **2m (144 MHz)**: Most popular local band. 400W allowed for F.
     *   **70cm (430 MHz)**: Shared with other services (LPD, Car keys). Secondary status often applies.

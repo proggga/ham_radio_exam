@@ -18,14 +18,14 @@ Uses a moving coil mechanism (Draaispoelmeter) which deflects a needle proportio
 ### Voltage Measurement (DC)
 Measured as current through a known series resistor.
 *   **Multiplier Formula:** $R_{series} = \frac{U_{range}}{I_{fsd}} - R_{meter}$ (where $I_{fsd}$ is full scale deflection current).
-*   **Sensitivity ($S$):** Expressed in $k\Omega/V$ (e.g., $20 k\Omega/V$). $S = 1 / I_{fsd}$.
+*   **[[Receiver Performance|Sensitivity]] ($S$):** Expressed in $k\Omega/V$ (e.g., $20 k\Omega/V$). $S = 1 / I_{fsd}$.
     *   *Example:* $50 \mu A$ movement $\rightarrow 20 k\Omega/V$.
 *   **Input Resistance:** $R_{in} = S \times Range$.
     *   *Example:* On 10V range with $20 k\Omega/V$ sensitivity, $R_{in} = 200 k\Omega$.
 *   **Loading Effect (Belastingseffect):**
     *   Ideally, a voltmeter has infinite impedance. Real meters draw current.
     *   If $R_{in}$ is not $\gg$ Circuit [[Impedance (Impedantie)|Impedance]], the meter loads the circuit, reading **lower** than the actual voltage.
-    *   *Exam Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
+    *   *[[Licensing in the Netherlands|Exam]] Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
 
 ### Current Measurement (DC)
 Measured directly or with a shunt.
@@ -46,8 +46,8 @@ Uses an internal battery.
 *   **Scale:** Non-linear (logarithmic-like). $0 \Omega$ is at full scale (right), $\infty$ is at rest (left).
 
 ## 2. Digital Multimeter (DMM)
-Uses an Analog-to-Digital Converter (ADC).
-*   **Input Impedance:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
+Uses an Analog-to-Digital Converter ([[Digital Processing Techniques|ADC]]).
+*   **Input [[Impedance (Impedantie)|Impedance]]:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
 *   **Power:** Requires a battery for all measurements (unlike analogue which only needs it for Ohms).
 *   **Features:** Auto-ranging, [[Diodes|Diode]] test, [[Transistors (BJT & FET)|Transistor]] $h_{FE}$, Capacitance.
 

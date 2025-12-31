@@ -29,7 +29,7 @@
 *   **Protection:**
     *   **Disconnect:** Unplug antennas and mains during storms (Best protection).
     *   **Grounding:** Heavy gauge wire to earth electrode outside.
-    *   **Spark Gaps:** Gas discharge tubes across [Coax](../06_antennas/10_Transmission_Lines.md).
+    *   **Spark Gaps:** Gas discharge tubes across [Coax](../06_antennas/13_Transmission_Lines.md).
 
 ## 2. Chemical
 *   **Batteries:** Lithium types can burn/explode if shorted or punctured. Lead-acid releases Hydrogen (explosive) when charging.
@@ -37,7 +37,7 @@
 
 ## 3. Working at Heights
 *   **Risk:** Falling, dropped tools.
-*   **Safety:** Use a harness, hard hat, secure ladders, have a ground spotter.
+*   **[Safety](01_Electrical_Safety.md):** Use a harness, hard hat, secure ladders, have a ground spotter.
 
 ---
 [< Back to Section Index](README.md)

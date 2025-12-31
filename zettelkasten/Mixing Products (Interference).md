@@ -28,7 +28,7 @@ Two strong signals ($f_1$ and $f_2$) mix to create sum and difference products.
 ## Harmonics (Interference)
 *   **Mechanism**: A transmitter radiates multiples of its fundamental frequency ($2f, 3f...$).
 *   **Example**: A 144 MHz (2m) transmitter's 4th harmonic ($4 \times 144 = 576$ MHz) falls into [[VHFUHF Bands (6m, 2m, 70cm)|UHF]] TV Band IV (Channel 34, ~575 MHz).
-*   **Mitigation**: Low Pass [[Filters & Resonance|Filter]] at the transmitter output.
+*   **[[Mitigation (Ontstoring)|Mitigation]]**: Low Pass [[Filters & Resonance|Filter]] at the transmitter output.
 
 ## Related
 *   [[Mixers]]

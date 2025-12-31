@@ -12,10 +12,10 @@ modified: 2025-12-29
 ## 1. Sensitivity (Gevoeligheid)
 The ability to receive weak signals.
 *   **SINAD:** Signal-to-[[AC Signals & Noise|Noise]] and Distortion ratio. Typical spec: 12dB SINAD.
-*   **Noise Figure (Ruisgetal, F):** Measure of how much noise the receiver adds.
+*   **[[AC Signals & Noise|Noise]] Figure (Ruisgetal, F):** Measure of how much noise the receiver adds.
     $$F = \frac{(S/N)_{in}}{(S/N)_{out}}$$
     *   Ideal receiver: $F = 1$ (0 [[Decibels & Logarithms|dB]]).
-    *   **Independence:** Noise Figure is **independent** of bandwidth.
+    *   **Independence:** [[AC Signals & Noise|Noise]] Figure is **independent** of bandwidth.
     *   **LNA (Low Noise Amplifier):** The first stage (RF Amp) is critical for system noise figure (Friis formula). See [[Amplifiers|Amplifiers]].
 
 ## 2. Selectivity (Selectiviteit)
@@ -39,10 +39,10 @@ The range between the noise floor and the signal level that causes distortion.
 ## 4. The S-Meter
 Indicates received signal strength.
 *   **Standard ([[Propagation Basics|HF]]):** **S9** corresponds to **50 $\mu V$** at the antenna input ($50 \Omega$).
-*   **Steps:** One S-unit = **6 dB** (Voltage ratio of 2). See [[Candidate Basic Skills|Decibels]].
+*   **Steps:** One S-unit = **6 [[Decibels & Logarithms|dB]]** (Voltage ratio of 2). See [[Candidate Basic Skills|Decibels]].
     *   S8 = 25 $\mu V$.
     *   S9+20dB = 500 $\mu V$.
 
 ## 5. Signal-to-Noise Ratio (SNR)
 *   **Audio Gain:** Increasing the audio gain (volume) increases both Signal and Noise equally. It does **NOT** improve the SNR.
-*   **Bandwidth:** Increasing bandwidth increases noise power (Noise power $\propto$ Bandwidth). Doubling bandwidth doubles noise power (+3 dB).
+*   **[[Bandwidth]]:** Increasing bandwidth increases noise power (Noise power $\propto$ [[Bandwidth]]). Doubling bandwidth doubles noise power (+3 [[Decibels & Logarithms|dB]]).

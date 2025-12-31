@@ -37,7 +37,7 @@ Measures taken to protect friendly communications from jamming.
 3.  **Power**: Increase transmitter power (Burn-through) - only effective if the jammer is weak.
 4.  **Mode Change**: Switch to a mode more resistant to jamming (e.g., [[CW Abbreviations & Prosigns|CW]] is often readable through jamming where Voice is not).
 5.  **Frequency Change**: Move to an alternate frequency (QSY).
-6.  **Frequency Hopping**: Rapidly switching frequencies in a pseudo-random pattern (e.g., SINCGARS, Spread Spectrum).
+6.  **[[Spread Spectrum & Frequency Hopping|Frequency Hopping]]**: Rapidly switching frequencies in a pseudo-random pattern (e.g., SINCGARS, [[Spread Spectrum & Frequency Hopping|Spread Spectrum]]).
 
 ## 3. Reporting (MIJI)
 In a military context, interference incidents are reported via a **MIJI** report:

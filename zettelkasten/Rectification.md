@@ -20,8 +20,8 @@ Rectification is the process of converting Alternating Current (AC) into pulsati
 ## Full-Wave Rectification
 
 ### Center-Tap Transformer
-*   **Components**: 2 Diodes + Center-tapped transformer.
-*   **Operation**: Diodes conduct alternately on each half-cycle.
+*   **Components**: 2 [[Diodes]] + Center-tapped transformer.
+*   **Operation**: [[Diodes]] conduct alternately on each half-cycle.
 
 ### Bridge Rectifier
 *   **Components**: 4 Diodes (Bridge configuration).
@@ -33,7 +33,7 @@ Rectification is the process of converting Alternating Current (AC) into pulsati
 
 ## Peak Inverse Voltage (PIV)
 The maximum voltage across the non-conducting diode(s).
-*   **Half-Wave (with [[Capacitors|Capacitor]])**: The diode sees $2 \times U_{peak}$ (Input peak + Capacitor voltage).
+*   **Half-Wave (with [[Capacitors|Capacitor]])**: The diode sees $2 \times U_{peak}$ (Input peak + [[Capacitors|Capacitor]] voltage).
 *   **Full-Wave Center-Tap**: Each diode sees $2 \times U_{peak}$.
 *   **Bridge Rectifier**: Each diode sees $1 \times U_{peak}$.
 *   *[[Electrical Safety|Safety]]:* Always choose diodes with a PIV rating significantly higher than the theoretical maximum (e.g., $3 \times U_{eff}$).

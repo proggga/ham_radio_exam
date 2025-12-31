@@ -19,7 +19,7 @@ The **Superheterodyne** receiver converts any incoming RF signal to a fixed **In
     *   *Caveat:* **Frequency Deviation** ($\Delta f$) of an [[Frequency Modulation (FM)|FM]] signal is **preserved** during mixing. It remains the same at the IF.
 3.  **Local Oscillator (LO)**: Generates a tunable frequency ($f_{LO}$).
     *   Tuning maintains: $|f_{RF} - f_{LO}| = f_{IF}$.
-4.  **IF Filter**: Determines the main selectivity ([[Bandwidth]]) of the receiver.
+4.  **IF [[Filters & Resonance|Filter]]**: Determines the main selectivity ([[Bandwidth]]) of the receiver.
 5.  **IF Amplifier**: Provides the bulk of the receiver's gain at a fixed frequency.
 6.  **Detector**: Demodulates the signal to Audio.
 7.  **Audio Amplifier**: Drives the speaker.

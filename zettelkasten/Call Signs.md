@@ -19,7 +19,7 @@ A standard amateur call sign consists of:
 
 ## Dutch Call Signs (Netherlands)
 *   **Assigned Series:** **PA** to **PI**.
-*   **Full License (F-Registration):**
+*   **Full License (F-[[Licensing in the Netherlands|Registration]]):**
     *   **PA, PB, PC, PE, PF, PG, PH** followed by a number (0-5, 7-9).
     *   Suffix: 1 to 3 letters.
 *   **Novice License (N-Registration):**

@@ -12,7 +12,7 @@ In power distribution, the **Kilowatt-hour (kWh)** is used.
 
 ## Formula
 $$E = P \times t$$
-*(Energy = Power $\times$ Time)*
+*([Energy](08_Power_and_Energy.md) = Power $\times$ Time)*
 
 ---
 [< Back to Section Index](README.md)

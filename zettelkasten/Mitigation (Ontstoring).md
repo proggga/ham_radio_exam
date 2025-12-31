@@ -13,12 +13,12 @@ modified: 2025-12-29
 *   **Low Pass [[Filters & Resonance|Filter]] (LPF):** Place between Transmitter and [[Antenna & Tower Safety|Antenna]]. Attenuates Harmonics (frequencies *above* the cutoff).
     *   *Circuit:* Pi-filter or T-filter ([[Capacitors|Capacitor]] to ground).
 *   **Power Level:** Use the minimum power necessary.
-*   **[[Shielding (Afscherming)|Shielding]] (Afscherming)**: Enclose oscillator/RF stages in metal cans ("Inblikken").
-    *   **Feedthrough Capacitors (Doorvoercondensatoren)**: Used to pass DC power/signals through the shield while shorting RF to the case (ground).
+*   **[[Shielding (Afscherming)|Shielding]] ([[Shielding (Afscherming)|Afscherming]])**: Enclose oscillator/RF stages in metal cans ("Inblikken").
+    *   **Feedthrough [[Capacitors]] (Doorvoercondensatoren)**: Used to pass DC power/signals through the shield while shorting RF to the case (ground).
 
 ## 2. At the Victim (Immunity)
-*   **High Pass Filter (HPF):** Place on TV/Radio antenna inputs to block [[Propagation Basics|HF]] amateur signals.
-*   **Band Stop Filter (Notch/Sperkring):** Blocks a specific interfering frequency. Series LC to ground or Parallel LC in series.
+*   **High Pass [[Filters & Resonance|Filter]] (HPF):** Place on TV/Radio antenna inputs to block [[Propagation Basics|HF]] amateur signals.
+*   **Band Stop [[Filters & Resonance|Filter]] (Notch/Sperkring):** Blocks a specific interfering frequency. Series LC to ground or Parallel LC in series.
 *   **Input Attenuator**: Reduces the signal level to prevent Intermodulation/Blocking.
 
 ## 3. Cable Filtering & Routing
@@ -33,7 +33,7 @@ modified: 2025-12-29
 
 ## 4. Decoupling (Ontkoppelen)
 Using capacitors to short RF to ground.
-*   **Capacitors:** Ceramic disc capacitors (low inductance). Values typically **1 nF - 10 nF**.
+*   **[[Capacitors]]:** Ceramic disc capacitors (low inductance). Values typically **1 nF - 10 nF**.
 *   **Placement:** Across speaker terminals, audio inputs, or mains pins.
 *   **Formula**: $X_C = \frac{1}{2\pi f C}$. Goal is $X_C \ll Z_{circuit}$.
 

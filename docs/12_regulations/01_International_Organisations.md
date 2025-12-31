@@ -27,7 +27,7 @@ The global federation of national amateur radio societies (like VERON/VRZA in NL
 ## 4. HAREC
 **Harmonised Amateur Radio Examination Certificate.**
 *   The standard for the "Full" license exam.
-*   Passing the F-exam in the Netherlands grants a HAREC certificate, recognized in many other countries for issuing a license.
+*   Passing the F-exam in the [Netherlands](07_Operating_Rules_Netherlands.md) grants a HAREC certificate, recognized in many other countries for issuing a license.
 
 ---
 [< Back to Section Index](README.md)

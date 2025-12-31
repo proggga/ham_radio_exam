@@ -5,7 +5,7 @@ Oscillators are circuits that generate an AC signal from DC.
 ## Barkhausen Criterion
 For oscillation to occur and sustain:
 1.  **Loop Gain**: $\ge 1$ (starts > 1, stabilizes at 1).
-2.  **Phase Shift**: $0^\circ$ or $360^\circ$ (Positive Feedback).
+2.  **Phase [Shift](../11_procedures.md)**: $0^\circ$ or $360^\circ$ (Positive Feedback).
     *   In a common-emitter/source circuit (180° shift), the feedback network must provide an additional 180°.
 
 ## LC Oscillators (Variable Frequency)
@@ -26,7 +26,7 @@ Uses a [Quartz](../02_components/27_Crystals_Quartz.md) crystal for high stabili
 
 ## Voltage Controlled Oscillator (VCO)
 *   Frequency is controlled by a DC voltage.
-*   **Component**: Uses a **[Varicap](../02_components/21_Varicap_Capaciteitsdiode.md)** (capacitance diode) in the tuned circuit. Reverse voltage changes capacitance $\to$ changes frequency.
+*   **Component**: Uses a **[Varicap](../02_components/22_Varicap_Capaciteitsdiode.md)** (capacitance diode) in the tuned circuit. Reverse voltage changes capacitance $\to$ changes frequency.
 
 ## Stability & Phase Noise
 *   **Phase [Noise](../01_electricity/26_AC_Signals_&_Noise.md)**: Short-term frequency instability (jitter). Appears as noise sidebands. Widens the signal and degrades receiver selectivity.

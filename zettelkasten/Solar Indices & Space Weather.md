@@ -14,14 +14,14 @@ Space weather, driven by the Sun, dramatically affects [[Propagation Basics|HF]]
 ## Sunspots and the Solar Cycle
 *   **Sunspots**: Cooler, dark areas on the Sun's surface associated with intense magnetic activity.
 *   **Effect**: More sunspots = More Ultraviolet (UV) and X-ray radiation reaching Earth = **Higher Ionization** of the [[The Ionosphere|Ionosphere]] (F-layer).
-*   **Result**: Better HF propagation on higher frequencies (10m, 15m, 20m) and higher [[MUF, LUF, and Critical Frequency|MUF]].
+*   **Result**: Better [[Propagation Basics|HF]] propagation on higher frequencies (10m, 15m, 20m) and higher [[MUF, LUF, and Critical Frequency|MUF]].
 *   **Cycle**: The number of sunspots follows an approximately **11-year cycle**.
 
 ## Solar Disturbances
 ### 1. Sudden Ionospheric Disturbance (SID)
 *   **Cause**: Solar Flares (bright eruptions) emitting bursts of X-rays.
 *   **Effect**: drastically increases ionization in the **D-Layer**.
-*   **Result**: **Radio Blackout** on HF daylight paths. Signals are absorbed, not reflected. Receivers go silent.
+*   **Result**: **Radio Blackout** on [[Propagation Basics|HF]] daylight paths. Signals are absorbed, not reflected. Receivers go silent.
 *   **Duration**: Minutes to hours.
 
 ### 2. Geomagnetic Storms (Ionospheric Storms)
@@ -29,8 +29,8 @@ Space weather, driven by the Sun, dramatically affects [[Propagation Basics|HF]]
 *   **Effect**: Disturbs the F-layer, causing turbulence and lower ionization.
 *   **Result**:
     *   **Lower MUF**: High bands close.
-    *   **Flutter Fading**: Rapid signal strength variations.
-    *   **Auroras**: Enhanced propagation at VHF (Auroral scatter) but poor HF.
+    *   **Flutter [[Fading (QSB)|Fading]]**: Rapid signal strength variations.
+    *   **Auroras**: Enhanced propagation at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]] (Auroral scatter) but poor HF.
 
 ## Key Indices (General)
 *   **Solar Flux Index (SFI)**: Measure of radio noise from the sun at 2800 MHz (10.7 cm). Correlates well with sunspot number. Higher is better for HF.

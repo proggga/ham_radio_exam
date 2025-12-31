@@ -12,7 +12,7 @@ A Dummy Load is a non-radiating resistive load used to test transmitters.
 ## Purpose
 *   Testing and tuning transmitters without radiating a signal.
 *   Prevents interference (QRM) on the amateur bands.
-*   Protecting the transmitter from high [SWR](16_Standing_Wave_Ratio_SWR.md) during testing.
+*   Protecting the transmitter from high [SWR](19_Standing_Wave_Ratio_SWR.md) during testing.
 
 ---
 [< Back to Section Index](README.md)

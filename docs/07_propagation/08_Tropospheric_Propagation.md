@@ -1,6 +1,6 @@
 # Tropospheric Propagation
 
-Weather conditions in the lower atmosphere (Troposphere, 0-10km) can extend [VHF](07_VHFUHF_Bands_6m,_2m,_70cm.md)/UHF range beyond the horizon.
+Weather conditions in the lower atmosphere (Troposphere, 0-10km) can extend [VHF](07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) range beyond the horizon.
 
 ## Modes
 *   **Tropospheric Ducting**: Temperature inversions (warm air over cold air) form a "duct".

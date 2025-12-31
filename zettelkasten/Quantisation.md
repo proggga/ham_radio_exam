@@ -18,7 +18,7 @@ Quantisation is the process of assigning a discrete digital value to each analog
 The number of bits used to represent each sample determines the resolution (dynamic range).
 *   **Resolution**: $2^n$ levels (where $n$ is the number of bits).
 *   **Example**: 8-bit = 256 levels; 16-bit = 65,536 levels.
-*   **Dynamic Range**: Approximately $6 [[Decibels & Logarithms|dB]]$ per bit. (16-bit $\approx$ 96 dB).
+*   **[[Receiver Performance|Dynamic Range]]**: Approximately $6 [[Decibels & Logarithms|dB]]$ per bit. (16-bit $\approx$ 96 [[Decibels & Logarithms|dB]]).
 
 ## Quantisation Noise
 The error between the actual infinite-precision analogue voltage and the nearest digital step.
@@ -26,8 +26,8 @@ The error between the actual infinite-precision analogue voltage and the nearest
 *   Higher bit depth = Smaller steps = Lower quantisation noise.
 
 ## Conversion
-*   **ADC (Analogue-to-Digital Converter)**: Performs sampling and quantisation.
-*   **DAC (Digital-to-Analogue Converter)**: Reconstructs the analogue voltage from digital numbers.
+*   **[[Digital Processing Techniques|ADC]] (Analogue-to-Digital Converter)**: Performs sampling and quantisation.
+*   **[[Digital Processing Techniques|DAC]] (Digital-to-Analogue Converter)**: Reconstructs the analogue voltage from digital numbers.
 
 ## Related Notes
 *   [[Sampling Theory]]

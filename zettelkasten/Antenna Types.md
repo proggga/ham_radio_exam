@@ -18,10 +18,13 @@ This map covers the various types of antennas used in amateur radio.
 
 ## Vertical
 *   **[[Vertical Antennas]]** - Ground planes and monopoles.
+*   **[[Mobile, Portable & Marine Antennas]]** - Shortened and loaded antennas.
+*   **[[Hidden and Limited-Space Antennas]]** - Compromise solutions.
 
 ## Directional
 *   **[[Directional Antennas (Beams)]]** - [[Directional Antennas (Beams)|Yagi]]-Uda and Quads for gain.
 *   **[[Aperture Antennas]]** - Dishes and Helical antennas for [[VHFUHF Bands (6m, 2m, 70cm)|UHF]]/Microwave.
+*   **[[Microwave Waveguides and Antennas]]** - High frequency transmission.
 
 ## Special
 *   **[[Dummy Load]]** - Non-radiating load for testing.

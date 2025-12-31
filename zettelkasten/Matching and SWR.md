@@ -25,4 +25,4 @@ This map covers the theory and practice of connecting transmitters to antennas.
 ## Related
 *   [[Transmission Lines]] - Where [[Standing Wave Ratio (SWR)|SWR]] exists.
 *   [[Impedance Transformation]] - How lines transform impedance.
-*   [[RF Measurements]] - Measuring SWR.
+*   [[RF Measurements]] - Measuring [[Standing Wave Ratio (SWR)|SWR]].

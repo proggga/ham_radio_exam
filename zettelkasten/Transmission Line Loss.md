@@ -19,13 +19,13 @@ As a signal travels through a transmission line, some energy is lost as heat. Th
     *   Coax that is good for [[Propagation Basics|HF]] (30 MHz) may be useless for [[VHFUHF Bands (6m, 2m, 70cm)|UHF]] (430 MHz).
 2.  **Length**: Loss is proportional to length ([[Decibels & Logarithms|dB]] per meter).
 3.  **Dielectric**: Air has almost zero loss. Solid plastic has higher loss.
-4.  **[[Standing Wave Ratio (SWR)|SWR]]**: High Standing Wave Ratio increases the effective loss.
+4.  **[[Standing Wave Ratio (SWR)|SWR]]**: High [[Standing Wave Ratio (SWR)|Standing Wave Ratio]] increases the effective loss.
     *   Current peaks cause higher $I^2R$ heating.
     *   Voltage peaks cause higher dielectric heating.
 
 ## Comparison
-*   **Open Wire**: Extremely low loss. Ideal for tuned feeders with high SWR.
-*   **Thin Coax (RG-58)**: High loss. Avoid for long runs or VHF/UHF.
+*   **Open Wire**: Extremely low loss. Ideal for tuned feeders with high [[Standing Wave Ratio (SWR)|SWR]].
+*   **Thin Coax (RG-58)**: High loss. Avoid for long runs or [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]].
 *   **Thick Coax (RG-213/Ecoflex)**: Lower loss.
 
 ## Related Notes

@@ -18,7 +18,7 @@ An Op-Amp is a high-gain integrated circuit amplifier with differential inputs.
 *   **Inputs**: Inverting (-) and Non-Inverting (+).
     *   **Rule**: In a negative feedback configuration, the voltage difference between inputs is zero ($U_+ = U_-$).
 *   **[[Impedance (Impedantie)|Impedance]]**: Very high input impedance ($Z_{in}$), low output impedance ($Z_{out}$).
-*   **Offset Nulling**: Terminals provided to zero the output voltage when inputs are zero.
+*   **[[Repeater Operation|Offset]] Nulling**: Terminals provided to zero the output voltage when inputs are zero.
 
 ## Feedback (Tegenkoppeling)
 Op-amps are almost always used with **negative feedback** to control gain and stability.
@@ -28,13 +28,13 @@ Op-amps are almost always used with **negative feedback** to control gain and st
 ### 1. Inverting Amplifier
 Output is inverted ($180^\circ$ phase shift).
 *   **Gain**: $A_u = -\frac{R_2}{R_1}$ (where $R_2$ is feedback, $R_1$ is input resistor).
-*   **Input Impedance**: Equal to $R_1$ (Virtual ground at input).
+*   **Input [[Impedance (Impedantie)|Impedance]]**: Equal to $R_1$ (Virtual ground at input).
 *   **Virtual Ground**: The (-) input is at 0V potential but not connected to ground.
 
 ### 2. Non-Inverting Amplifier
 Output is in phase with input.
 *   **Gain**: $A_u = 1 + \frac{R_2}{R_1}$ (where $R_2$ is feedback, $R_1$ is to ground).
-*   **Input Impedance**: Extremely High (Input connects directly to Op-Amp gate/base).
+*   **Input [[Impedance (Impedantie)|Impedance]]**: Extremely High (Input connects directly to Op-Amp gate/base).
 
 ### 3. Voltage Follower (Buffer)
 Output connected directly to (-) input.

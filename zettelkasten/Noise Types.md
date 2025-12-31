@@ -25,8 +25,8 @@ Random fluctuations in current across semiconductor junctions (diodes/transistor
 ## External Noise
 *   **QRN**: Natural/Atmospheric noise (Static, Lightning). Dominant on [[Propagation Basics|HF]] bands.
 *   **QRM**: Man-made interference.
-*   **Galactic Noise**: From the galaxy (dominant on [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF when looking at the sky).
+*   **Galactic [[AC Signals & Noise|Noise]]**: From the galaxy (dominant on [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]] when looking at the sky).
 
 ## Related
 *   [[Types of Interference]]
-*   [[Superheterodyne Receiver]] (Sensitivity)
+*   [[Superheterodyne Receiver]] ([[Receiver Performance|Sensitivity]])

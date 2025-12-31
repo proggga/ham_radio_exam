@@ -14,15 +14,15 @@ Repeaters are automated stations that receive a signal on one frequency and simu
 ## Basic Operation
 *   **Duplex**: Repeaters operate in duplex mode. They listen on an **Input** frequency and transmit on an **Output** frequency.
 *   **Offset (Shift)**: The difference between the input and output frequencies.
-    *   **2 meters (VHF)**: Usually **600 kHz** (0.6 MHz).
-    *   **70 cm (UHF)**: Usually **5 MHz**.
+    *   **2 meters ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]])**: Usually **600 kHz** (0.6 MHz).
+    *   **70 cm ([[VHFUHF Bands (6m, 2m, 70cm)|UHF]])**: Usually **5 MHz**.
     *   **Direction**: Can be Positive (+) or Negative (-).
     *   *Example:* Output 146.940 MHz minus 0.6 MHz offset = Input 146.340 MHz.
 
 ## Access Tones
 To prevent interference, repeaters often require a specific low-frequency audio tone to be present on the signal to "open" the receiver squelch.
-1.  **CTCSS (Continuous Tone-Coded Squelch System)**: Also known as **PL Tone** (Private Line). Sub-audible tones (e.g., 100.0 Hz).
-2.  **DCS (Digital Coded Squelch)**: A digital data stream used for the same purpose.
+1.  **CTCSS (Continuous Tone-Coded [[Common Transceiver Controls|Squelch]] System)**: Also known as **PL Tone** (Private Line). Sub-audible tones (e.g., 100.0 Hz).
+2.  **DCS (Digital Coded [[Common Transceiver Controls|Squelch]])**: A digital data stream used for the same purpose.
 3.  **1750 Hz Tone (Burst)**: Common in Europe. A short audible tone burst sent to trigger the repeater.
 
 ## Protocol
@@ -34,5 +34,5 @@ To prevent interference, repeaters often require a specific low-frequency audio 
 
 ## Related
 *   [[VHFUHF Bands (6m, 2m, 70cm)]]
-*   [[Modern Digital Modes]] (DMR/D-STAR repeaters)
+*   [[Modern Digital Modes]] ([[Modern Digital Modes|DMR]]/[[Modern Digital Modes|D-STAR]] repeaters)
 *   [[Station Setup Guidelines]]

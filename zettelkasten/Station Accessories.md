@@ -15,16 +15,16 @@ Beyond the transceiver, several accessories improve station performance and capa
 *   **Function**: Increases the transmitted output power.
 *   **Usage**: Useful for weak signal work ([[Single Sideband (SSB)|SSB]]/[[CW Abbreviations & Prosigns|CW]]) or overcoming feedline loss.
 *   **Key Controls**:
-    *   **SSB/CW-[[Frequency Modulation (FM)|FM]] Switch**:
-        *   *SSB/CW*: Adds a delay to the T/R relay to prevent it from dropping out between words (VOX delay). Linear amplification.
-        *   *FM*: No delay, instant switching. Class C (non-linear) amplification often used for efficiency.
+    *   **[[Single Sideband (SSB)|SSB]]/[[CW Abbreviations & Prosigns|CW]]-[[Frequency Modulation (FM)|FM]] Switch**:
+        *   *[[Single Sideband (SSB)|SSB]]/[[CW Abbreviations & Prosigns|CW]]*: Adds a delay to the T/R relay to prevent it from dropping out between words (VOX delay). Linear amplification.
+        *   *[[Frequency Modulation (FM)|FM]]*: No delay, instant switching. Class C (non-linear) amplification often used for efficiency.
 
 ## Transverters
 *   **Function**: Converts the RF input and output of a transceiver to another band.
 *   **Operation**:
-    *   *Transmit*: Down-converts [[Propagation Basics|HF]] (e.g., 28 MHz) to IF, or Up-converts IF to [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF/Microwave.
-    *   *Receive*: Down-converts VHF/UHF signals to the HF band (e.g., 28 MHz) for the transceiver to process.
-*   **Application**: Allows an HF radio to operate on VHF/UHF/Microwave bands (e.g., 1296 MHz) while retaining the HF radio's advanced features (filters, [[Digital Signal Processing (DSP)|DSP]]).
+    *   *Transmit*: Down-converts [[Propagation Basics|HF]] (e.g., 28 MHz) to IF, or Up-converts IF to [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]]/Microwave.
+    *   *Receive*: Down-converts [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]] signals to the [[Propagation Basics|HF]] band (e.g., 28 MHz) for the transceiver to process.
+*   **Application**: Allows an [[Propagation Basics|HF]] radio to operate on [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF/Microwave bands (e.g., 1296 MHz) while retaining the HF radio's advanced features (filters, [[Digital Signal Processing (DSP)|DSP]]).
 
 ## RF Preamplifiers (Preamps)
 *   **Function**: Amplifies weak signals *before* they reach the receiver.

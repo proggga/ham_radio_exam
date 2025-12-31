@@ -15,7 +15,7 @@ modified: 2025-12-29
 LOS is the direct path between transmitting and receiving antennas.
 
 ## Characteristics
-*   **Frequency**: Dominant mode for [[VHFUHF Bands (6m, 2m, 70cm)|VHF]], UHF, and Microwave ($> 30 \text{ MHz}$).
+*   **Frequency**: Dominant mode for [[VHFUHF Bands (6m, 2m, 70cm)|VHF]], [[VHFUHF Bands (6m, 2m, 70cm)|UHF]], and Microwave ($> 30 \text{ MHz}$).
 *   **Limitation**: Blocked by terrain, buildings, and the curvature of the earth.
 
 ## Radio Horizon
@@ -25,7 +25,7 @@ Radio waves bend slightly over the horizon due to atmospheric refraction (densit
 *   **Formula (HS14)**:
     $$d_{km} \approx 3.57 \times \sqrt{h_{m}}$$
     *   $d$ in kilometers, $h$ in meters.
-    *   *Exam Tip:* Sometimes rounded to $d \approx 4 \sqrt{h}$ (gives slightly high result).
+    *   *[[Licensing in the Netherlands|Exam]] Tip:* Sometimes rounded to $d \approx 4 \sqrt{h}$ (gives slightly high result).
 *   **Total Range**: The sum of the radio horizons of both antennas.
     $$D_{total} \approx 3.57 (\sqrt{h_{tx}} + \sqrt{h_{rx}})$$
 

@@ -8,7 +8,7 @@ The "fun" band that varies wildly from dead to spectacular.
     *   **F2 Layer:** **Extremely** dependent on [Solar Cycle](23_Solar_Cycle_&_Band_Selection.md).
         *   **Solar Max:** Effortless worldwide DX with low power (Technician friendly).
         *   **Solar Min:** Dead for F2 DX.
-    *   **Sporadic E (Es):** Summer phenomenon. Opens for short-skip (300-1500 miles) regardless of solar cycle.
+    *   **[Sporadic E](10_Special_Propagation_Modes.md) (Es):** Summer phenomenon. Opens for short-skip (300-1500 miles) regardless of solar cycle.
     *   **Ground Wave:** Local line-of-sight (20-50 miles).
 
 ## Usage

@@ -19,7 +19,7 @@ Rotation speed in radians per second.
 *   **Formula**: $\omega = 2\pi f$
 
 ### Amplitude
-*   **Peak Value ($U_{max}$)**: The maximum deviation from zero. **Exam Definition:** The "Amplitude" of a sine wave is strictly defined as the **Peak Value** ($U_{max}$), not Peak-to-Peak or RMS.
+*   **Peak Value ($U_{max}$)**: The maximum deviation from zero. **[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Definition:** The "Amplitude" of a sine wave is strictly defined as the **Peak Value** ($U_{max}$), not Peak-to-Peak or RMS.
 *   **Peak-to-Peak ($U_{pp}$)**: Difference between positive and negative peaks ($2 \times U_{max}$).
 *   **Average Value ($U_{avg}$)**: Average over one half-cycle (for sine).
     *   $U_{avg} = \frac{2}{\pi} U_{max} \approx 0.637 U_{max}$.

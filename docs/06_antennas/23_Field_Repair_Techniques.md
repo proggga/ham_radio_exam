@@ -28,7 +28,7 @@ If an insulator breaks, use improvised non-conductive materials:
 *   **Tree Supports**: Use a spring, old inner tube, or a pulley with a weight on the antenna end to prevent breakage when trees sway in the wind.
 *   **Testing**:
     *   **Receive Test**: Tune to a distant station. Adjust antenna length/height for maximum volume.
-    *   **Transmit Test**: Use an [SWR Meter](15_Matching_and_SWR.md) to check for impedance mismatch.
+    *   **Transmit Test**: Use an [SWR Meter](18_Matching_and_SWR.md) to check for impedance mismatch.
 
 ---
 [< Back to Section Index](README.md)

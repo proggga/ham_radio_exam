@@ -50,7 +50,7 @@ There are three basic circuit configurations for amplifying components (BJT, FET
     *   **Phase**: **Non-Inverted ($0^\circ$)**.
     *   **Input Z**: **Low**.
     *   **Output Z**: High.
-*   **Advantage**: Low feedback capacitance (Miller effect avoided), making it stable at high frequencies ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF).
+*   **Advantage**: Low feedback capacitance (Miller effect avoided), making it stable at high frequencies ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]]).
 
 ## Summary Table
 
@@ -64,7 +64,7 @@ There are three basic circuit configurations for amplifying components (BJT, FET
 | **Input Z** | Medium | **High** | **Low** |
 | **Output Z** | Medium | **Low** | High |
 | **Phase** | **Inverted ($180^\circ$)** | In Phase ($0^\circ$) | In Phase ($0^\circ$) |
-| **Application** | General Purpose, Audio | Buffer, [[Impedance (Impedantie)|Impedance]] Matching | RF/VHF Amplifier |
+| **Application** | General Purpose, Audio | Buffer, [[Impedance (Impedantie)|Impedance]] Matching | RF/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] Amplifier |
 
 ## Mnemonics
 *   **"Common" terminal** is the one *not* used for Input or Output.

@@ -15,7 +15,7 @@ Part of the output is **subtracted** from the input ($180^\circ$ out of phase).
 Part of the output is **added** to the input (in phase).
 *   **Effects**:
     *   Increases Gain (Regenerative receiver).
-    *   Reduces Bandwidth (increases Q).
+    *   Reduces [Bandwidth](07_Bandwidth.md) (increases Q).
     *   **Oscillation**: If the loop gain is $\ge 1$, the circuit becomes an oscillator.
 
 ---

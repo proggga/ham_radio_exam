@@ -19,8 +19,8 @@ APRS is a digital communications protocol for exchanging information among a lar
 
 ## Technical Details
 *   **Protocol**: AX.25 (same as standard Packet Radio).
-*   **Modulation**: AFSK (Audio Frequency Shift Keying).
-*   **Baud Rate**: Typically **1200 baud** on VHF.
+*   **[[Modulation & Digital Signals|Modulation]]**: AFSK (Audio Frequency [[Repeater Operation|Shift]] Keying).
+*   **Baud Rate**: Typically **1200 baud** on [[VHFUHF Bands (6m, 2m, 70cm)|VHF]].
 *   **Frequencies**:
     *   **North America**: 144.390 MHz
     *   **Europe**: 144.800 MHz

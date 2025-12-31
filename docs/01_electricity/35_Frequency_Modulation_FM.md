@@ -24,11 +24,11 @@ Closely related to FM. Often used in mobile radios.
 *   If an FM signal is passed through a **Frequency Multiplier** (e.g., Doubler, Tripler):
     *   **Carrier Frequency** is multiplied ($f_{out} = n \times f_{in}$).
     *   **Deviation ($\Delta f$)** is **ALSO** multiplied ($ \Delta f_{out} = n \times \Delta f_{in}$).
-    *   **Modulation Index ($m$)** is multiplied.
+    *   **[Modulation](31_Modulation_&_Digital_Signals.md) Index ($m$)** is multiplied.
     *   **Audio Frequency ($f_{mod}$)** remains **UNCHANGED**.
 
 ## Generation
-*   **Direct FM**: Modulating a VCO ([Varicap](../02_components/21_Varicap_Capaciteitsdiode.md)) directly.
+*   **Direct FM**: Modulating a VCO ([Varicap](../02_components/22_Varicap_Capaciteitsdiode.md)) directly.
 *   **Indirect FM**: Using a Phase Modulator after a crystal oscillator.
 
 ## Characteristics

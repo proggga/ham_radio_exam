@@ -15,10 +15,10 @@ The residual AC variation on the DC output.
     *   **Higher Frequency** (100Hz vs 50Hz) $\rightarrow$ **Less** Ripple (easier to filter).
 
 ## LC Filters
-For better smoothing, an [Inductor](../02_components/09_Inductors_Spoelen.md) (Choke) and a second Capacitor are added.
+For better smoothing, an [Inductor](../02_components/09_Inductors_Spoelen.md) (Choke) and a second [Capacitor](../02_components/05_Capacitors.md) are added.
 *   **Pi-[Filter](03_Filters_&_Resonance.md) (C-L-C)**: Common configuration.
 *   **Choke ($L$)**: Opposes changes in current, smoothing the flow.
-*   **Capacitor ($C$)**: Further reduces voltage ripple.
+*   **[Capacitor](../02_components/05_Capacitors.md) ($C$)**: Further reduces voltage ripple.
 *   **Comparison (C-filter vs LC-filter)**:
     *   **C-filter (Elco only)**: High ripple, very high peak currents through diodes (charging happens in short bursts).
     *   **LC-filter (Choke input or Pi)**: Lower ripple, lower peak currents (choke spreads out the charging time), slightly lower output voltage (due to DC resistance of choke).

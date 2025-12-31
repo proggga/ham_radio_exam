@@ -15,14 +15,14 @@ Coaxial cable (Coax) is the most common feed line for amateur radio because it i
 Most amateur radio coax has a characteristic [[Impedance (Impedantie)|Impedance]] of **50 Ohms**.
 
 ### Common Types
-*   **RG-58**: Thin, flexible. High loss at VHF/UHF. Good for short HF runs or mobile installations.
+*   **RG-58**: Thin, flexible. High loss at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]]. Good for short [[Propagation Basics|HF]] runs or mobile installations.
 *   **RG-213 / RG-8**: Thicker, heavier. **Lower loss** than RG-58. Better for long runs and higher power.
-*   **Hardline**: Air-insulated or foam with a solid shield. Lowest loss, used for repeaters and VHF/UHF.
+*   **Hardline**: Air-insulated or foam with a solid shield. Lowest loss, used for repeaters and [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]].
 
 ### Loss Characteristics
 *   **Frequency**: Loss **increases** as frequency increases. (RG-58 is acceptable for 80m, but poor for 440 MHz).
 *   **Length**: Loss is proportional to length. Keep feed lines as short as possible.
-*   **SWR**: High [[Standing Wave Ratio (SWR)|SWR]] increases loss (power is lost as heat).
+*   **[[Standing Wave Ratio (SWR)|SWR]]**: High [[Standing Wave Ratio (SWR)|SWR]] increases loss (power is lost as heat).
 
 ## Failure Modes
 *   **Moisture**: The #1 cause of coax failure. Water intrusion increases loss and changes impedance.
@@ -32,7 +32,7 @@ Most amateur radio coax has a characteristic [[Impedance (Impedantie)|Impedance]
 ## Connectors
 
 ### PL-259 (UHF Connector)
-*   **Use**: Standard for HF and VHF.
+*   **Use**: Standard for [[Propagation Basics|HF]] and VHF.
 *   **Limitation**: Not watertight. Not constant impedance. High loss above 400 MHz.
 
 ### Type N
@@ -40,7 +40,7 @@ Most amateur radio coax has a characteristic [[Impedance (Impedantie)|Impedance]
 *   **Features**: Constant impedance, moisture-resistant (if properly installed), lower loss at high frequencies.
 
 ### Installation
-*   Erratic SWR is often caused by loose connections or bad solder joints in connectors.
+*   Erratic [[Standing Wave Ratio (SWR)|SWR]] is often caused by loose connections or bad solder joints in connectors.
 *   Always waterproof outdoor connections.
 
 ## Related

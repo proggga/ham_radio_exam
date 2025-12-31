@@ -19,7 +19,7 @@ $$SWR = \frac{1 + \sqrt{P_{ref}/P_{fwd}}}{1 - \sqrt{P_{ref}/P_{fwd}}}$$
 *   **$\infty$:1**: Total reflection. Open or Short circuit.
 
 ## Impact
-*   **Loss**: Higher SWR increases [Transmission Line Loss](12_Transmission_Line_Loss.md).
+*   **Loss**: Higher SWR increases [Transmission Line Loss](15_Transmission_Line_Loss.md).
 *   **Damage**: High voltage peaks can arc in cables; reflected power can overheat the transmitter PA.
 
 ---

@@ -22,7 +22,7 @@ When connecting two windings (e.g., secondaries) in series, the **Phase** matter
     *   *Example*: Connecting a 24V and 18V winding in anti-series results in $24 - 18 = 6V$.
 
 ### Impedance Transformation
-Transformers can match source and load impedances.
+[Transformers](10_Transformers.md) can match source and load impedances.
 *   **Formula**: $Z_{prim} = Z_{sec} \times (\frac{N_{prim}}{N_{sec}})^2$
 *   The impedance ratio is the **square** of the turns ratio.
 *   *Example*: To match $4 \Omega$ to $400 \Omega$ (ratio 1:100), you need a turns ratio of $\sqrt{100} = 10:1$.
@@ -32,7 +32,7 @@ Transformers can match source and load impedances.
     *   **Laminated Iron**: For Mains/Audio (Low freq). Laminations reduce Eddy Currents (Kernverliezen).
     *   **Ferrite / Powdered Iron**: For RF (High freq). Powdered iron (insulated particles) increases Inductance ($L$) and [Quality Factor](../03_circuits/06_Quality_Factor_Q.md) ($Q$) compared to air, unlike solid iron which would cause high losses.
     *   **Toroid (Ringkern)**: Ring-shaped core with low flux leakage (self-shielding).
-*   **[Shielding](../01_electricity/20_Shielding_Afscherming.md)**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and Quality Factor ($Q$) due to induced eddy currents.
+*   **[Shielding](../01_electricity/20_Shielding_Afscherming.md)**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and [Quality Factor](../03_circuits/06_Quality_Factor_Q.md) ($Q$) due to induced eddy currents.
 
 ---
 [< Back to Section Index](README.md)

@@ -3,10 +3,10 @@
 Regulation keeps the output voltage constant despite changes in Load Current or Mains Voltage.
 
 ## Zener Diode Regulator
-*   **Component**: [Zener Diode](../02_components/19_Zener_Diode.md) (Zenerdioden).
+*   **Component**: [Zener Diode](../02_components/20_Zener_Diode.md) (Zenerdioden).
 *   **Setup**: Zener diode in reverse bias (parallel to load) + Series [Resistor](../02_components/01_Resistors.md).
 *   **Operation**: Zener maintains constant breakdown voltage.
-*   **Resistor**: $R_{series} = \frac{U_{in} - U_{zener}}{I_{zener} + I_{load}}$
+*   **[Resistor](../02_components/01_Resistors.md)**: $R_{series} = \frac{U_{in} - U_{zener}}{I_{zener} + I_{load}}$
 *   **Use**: Low power reference voltages.
 
 ## Series Regulator (Emitter Follower)

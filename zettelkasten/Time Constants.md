@@ -21,10 +21,10 @@ Charging or discharging a [[Capacitors|Capacitor]] through a [[Resistors|Resisto
 *   **Charging:**
     *   At $t=0$, [[Capacitors|Capacitor]] acts as a short circuit (Current max, Voltage 0).
     *   After **$1 \tau$**: Voltage reaches **63%** of source voltage.
-    *   After **$5 \tau$**: Capacitor is considered fully charged (~99%).
+    *   After **$5 \tau$**: [[Capacitors|Capacitor]] is considered fully charged (~99%).
 *   **Discharging:**
     *   After **$1 \tau$**: Voltage drops to **37%** of initial voltage (lost 63%).
-    *   After **$5 \tau$**: Capacitor is considered empty.
+    *   After **$5 \tau$**: [[Capacitors|Capacitor]] is considered empty.
 
 ## 2. RL Circuit (Resistor + Inductor)
 Building up or collapsing current through an [[Inductors (Spoelen)|Inductor]].

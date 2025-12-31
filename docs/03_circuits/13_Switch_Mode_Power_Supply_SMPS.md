@@ -8,12 +8,12 @@
 *   **Regulation**: Uses **PWM** (Pulse Width [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md)) to adjust duty cycle ($D$).
 
 ## Topologies
-Identify these by the arrangement of the Inductor (L), Switch (T), and [Diode](../02_components/17_Diodes.md) (D).
+Identify these by the arrangement of the [Inductor](../02_components/09_Inductors_Spoelen.md) (L), Switch (T), and [Diode](../02_components/17_Diodes.md) (D).
 *   **Step-Down (Buck)**: Output < Input.
     *   Formula: $U_{out} \approx D \times U_{in}$
-    *   *Circuit:* Switch in series, then Diode to ground, Inductor to output.
+    *   *Circuit:* Switch in series, then [Diode](../02_components/17_Diodes.md) to ground, [Inductor](../02_components/09_Inductors_Spoelen.md) to output.
 *   **Step-Up (Boost)**: Output > Input.
-    *   *Circuit:* Inductor in series, Switch to ground, Diode to output.
+    *   *Circuit:* Inductor in series, Switch to ground, [Diode](../02_components/17_Diodes.md) to output.
 *   **Inverting**: Output polarity opposite to input.
     *   *Circuit:* Switch in series, Inductor to ground, Diode reverse biased to output.
 

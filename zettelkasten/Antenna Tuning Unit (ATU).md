@@ -23,11 +23,11 @@ It acts as an adjustable impedance transformer.
 An ATU does **NOT** "tune the antenna".
 *   It creates a conjugate match at the **transmitter end** of the line.
 *   The **[[Standing Wave Ratio (SWR)|SWR]] on the transmission line** between the ATU and the antenna remains unchanged.
-*   If the SWR on the line is high, cable losses will still occur, even if the transmitter sees 1:1.
+*   If the [[Standing Wave Ratio (SWR)|SWR]] on the line is high, cable losses will still occur, even if the transmitter sees 1:1.
 
 ## Placement
 *   **In the Shack**: Protects the radio, but doesn't reduce feedline loss.
-*   **Remote (at Antenna)**: The best location. Matches the antenna to the line, ensuring low SWR on the entire coax run.
+*   **Remote (at [[Antenna & Tower Safety|Antenna]])**: The best location. Matches the antenna to the line, ensuring low [[Standing Wave Ratio (SWR)|SWR]] on the entire coax run.
 
 ## Related Notes
 *   [[Standing Wave Ratio (SWR)]]

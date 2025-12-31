@@ -6,7 +6,7 @@
 
 ### Square Wave (Blokgolf)
 *   **Composition**: Fundamental + **Odd** harmonics ($3f, 5f, 7f...$).
-    *   *Exam Tip:* If asked which harmonics a 1kHz symmetric square wave contains: 3kHz, 5kHz, 7kHz... (Even multiples like 2kHz, 4kHz are **absent**).
+    *   *[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Tip:* If asked which harmonics a 1kHz symmetric square wave contains: 3kHz, 5kHz, 7kHz... (Even multiples like 2kHz, 4kHz are **absent**).
     *   *Visual Identification:* A wave with a strong 3rd harmonic often shows a characteristic "dip" or "dent" in the positive and negative peaks.
 *   **Amplitude**: Harmonic $n$ drops as $1/n$.
 *   **Sound**: Harsh, hollow.

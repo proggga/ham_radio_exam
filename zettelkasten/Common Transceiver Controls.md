@@ -12,7 +12,7 @@ modified: 2025-12-31
 Understanding transceiver controls is essential for proper operation and signal quality.
 
 ## Transmitter Controls
-*   **Microphone Gain (Mic Gain)**: Controls the audio level sent to the transmitter.
+*   **[[Station Accessories|Microphone]] Gain (Mic Gain)**: Controls the audio level sent to the transmitter.
     *   *Excessive Gain:* Causes **distortion** and splattering (over-deviation in [[Frequency Modulation (FM)|FM]], flat-topping/splatter in [[Single Sideband (SSB)|SSB]]).
 *   **Power Output**: Adjustable power level. Use the minimum power necessary to maintain contact.
 *   **VOX (Voice Operated Exchange)**: Automatically switches to transmit when you speak.
@@ -27,17 +27,17 @@ Understanding transceiver controls is essential for proper operation and signal 
     *   *Too High:* Weak signals are blocked.
     *   *Too Low:* Constant static noise.
 *   **RIT / Clarifier (Receiver Incremental Tuning)**: Changes the *receive* frequency without changing the *transmit* frequency.
-    *   *Use:* To tune in a station that is slightly off-frequency (e.g., voice sounds like Donald Duck in SSB) without shifting your own transmit frequency.
+    *   *Use:* To tune in a station that is slightly off-frequency (e.g., voice sounds like Donald Duck in [[Single Sideband (SSB)|SSB]]) without shifting your own transmit frequency.
 *   **RF Gain**: Adjusts the sensitivity of the receiver's RF amplifier stage. Reducing it can help with strong local signals.
-*   **[[Automatic Gain Control (AGC)|AGC]] (Automatic Gain Control)**: Automatically adjusts gain to keep audio volume constant despite fading.
-    *   *Settings:* Fast ([[CW Abbreviations & Prosigns|CW]]), Slow (SSB), Off.
+*   **[[Automatic Gain Control (AGC)|AGC]] ([[Automatic Gain Control (AGC)|Automatic Gain Control]])**: Automatically adjusts gain to keep audio volume constant despite fading.
+    *   *Settings:* Fast ([[CW Abbreviations & Prosigns|CW]]), Slow ([[Single Sideband (SSB)|SSB]]), Off.
 
 ## Function Controls
 *   **Memory**: Stores frequencies for quick recall.
 *   **Scan**: Automatically searches a range of frequencies or memory channels for activity.
 *   **Split**: Operates with different Transmit and Receive frequencies (essential for working DX pileups or Repeaters).
-*   **Repeater Offset**: The frequency difference between input and output (e.g., 600 kHz on 2m).
-*   **Tone / CTCSS**: Selects the sub-audible tone required to access repeaters.
+*   **[[Repeater Operation|Repeater]] [[Repeater Operation|Offset]]**: The frequency difference between input and output (e.g., 600 kHz on 2m).
+*   **Tone / [[Repeater Operation|CTCSS]]**: Selects the sub-audible tone required to access repeaters.
 
 ## Related
 *   [[Transmitter Architecture]]

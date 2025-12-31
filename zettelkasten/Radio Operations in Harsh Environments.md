@@ -21,7 +21,7 @@ Environmental conditions significantly impact radio performance and equipment re
     *   **Static**: Wind-blown sand generates high static charges. Tape antenna tips to reduce corona discharge noise.
 
 ## 2. Jungle Operations
-*   **Propagation**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
+*   **[[Solar Cycle & Propagation|Propagation]]**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
     *   *Range:* Significantly reduced.
     *   *Solution:* Use **Horizontal Polarization** (Dipoles) high in trees or clearings.
 *   **Equipment**:
@@ -31,14 +31,14 @@ Environmental conditions significantly impact radio performance and equipment re
 ## 3. Cold Weather Operations
 *   **Batteries**: Capacity drops drastically in cold.
     *   *Solution:* Keep batteries warm (inside coat) until use.
-*   **Cables**: Insulation becomes brittle and cracks. Handle with care.
+*   **Cables**: [[Equipment Safety Classes|Insulation]] becomes brittle and cracks. Handle with care.
 *   **Grounding**: Frozen ground (Permafrost) has very poor conductivity.
     *   *Solution:* Use **Counterpoises** raised above the snow.
 *   **Static**: Charged snow particles cause high static noise (precipitation static).
 
 ## 4. Urban Operations
-*   **Obstacles**: Buildings block Line-of-Sight ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF).
-    *   *Solution:* Use retransmission (relays) or [[Near Vertical Incidence Skywave (NVIS)|NVIS]] (Near Vertical Incidence Skywave) on [[Propagation Basics|HF]].
+*   **Obstacles**: Buildings block Line-of-Sight ([[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]]).
+    *   *Solution:* Use retransmission (relays) or [[Near Vertical Incidence Skywave (NVIS)|NVIS]] ([[Near Vertical Incidence Skywave (NVIS)|Near Vertical Incidence Skywave]]) on [[Propagation Basics|HF]].
 *   **[[Mixing Products (Interference)|Interference]]**: High levels of man-made electrical noise (QRM).
 *   **Concealment**: Antennas can be disguised as utility lines or clotheslines.
 

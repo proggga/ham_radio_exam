@@ -30,7 +30,7 @@ Ideally, a mixer multiplies two signals. The output contains:
 
 ## Applications
 *   **[[Superheterodyne Receiver]]**: Converts RF to a fixed Intermediate Frequency (IF).
-*   **Product Detector**: Demodulates SSB/[[CW Abbreviations & Prosigns|CW]] (mixes IF with BFO).
+*   **Product Detector**: Demodulates [[Single Sideband (SSB)|SSB]]/[[CW Abbreviations & Prosigns|CW]] (mixes IF with BFO).
 *   **Modulators**: Creating [[Analogue Modulation & AM|AM]] (unbalanced) or DSB (balanced).
 
 ## Related

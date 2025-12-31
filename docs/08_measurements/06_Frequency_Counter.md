@@ -8,7 +8,7 @@ A Frequency Counter measures the precise frequency of a periodic signal.
 
 ## Characteristics
 *   **Accuracy**: Depends entirely on the stability of its internal reference oscillator (usually a Crystal, TCXO, or OCXO).
-*   **Sensitivity**: The input signal must be strong enough to trigger the counting logic.
+*   **[Sensitivity](../04_receivers/03_Receiver_Performance.md)**: The input signal must be strong enough to trigger the counting logic.
 *   **Resolution**: Longer gate times provide higher resolution (more digits).
 
 ---

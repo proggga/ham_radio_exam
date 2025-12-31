@@ -20,7 +20,7 @@ When standard antennas are broken or unavailable, functional antennas can be con
 
 ### 1. Vertical Wire Antenna
 *   **Construction**: A wire suspended vertically from a tree limb or pole.
-*   **Insulation**: The top must be insulated from the support. The bottom should be insulated from the ground.
+*   **[[Equipment Safety Classes|Insulation]]**: The top must be insulated from the support. The bottom should be insulated from the ground.
 *   **Grounding**: Requires a ground stake or counterpoise wires for efficiency.
 *   **Characteristics**: Omnidirectional. Good for low-angle radiation (DX).
 
@@ -56,4 +56,5 @@ When standard antennas are broken or unavailable, functional antennas can be con
 ## Related
 *   [[The Dipole Antenna]]
 *   [[Vertical Antennas]]
+*   [[Field Repair Techniques]]
 *   [[Transmission Lines]]

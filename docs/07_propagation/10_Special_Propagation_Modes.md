@@ -1,6 +1,6 @@
 # Special Propagation Modes
 
-Beyond standard Ground Wave and Sky Wave, several exotic propagation modes allow long-distance communication on [VHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) and UHF bands.
+Beyond standard Ground Wave and Sky Wave, several exotic propagation modes allow long-distance communication on [VHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) and [UHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) bands.
 
 ## 1. Sporadic E ($E_s$)
 *   **Mechanism**: Patches of intense ionization in the E-layer of the [ionosphere](12_The_Ionosphere.md).
@@ -17,12 +17,12 @@ Beyond standard Ground Wave and Sky Wave, several exotic propagation modes allow
 ## 3. Auroral Backscatter
 *   **Mechanism**: Reflection off the curtain of ions in the Aurora Borealis (Northern Lights).
 *   **Characteristics**: Signals are fluttery and distorted ("whispery" or "raspy").
-*   **Modes**: **CW** is often the only usable mode due to distortion. SSB sounds robotic.
+*   **Modes**: **[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md)** is often the only usable mode due to distortion. [SSB](../01_electricity/34_Single_Sideband_SSB.md) sounds robotic.
 *   **Direction**: Point antennas **North** (in Northern Hemisphere).
 
 ## 4. Tropospheric Ducting
 *   **Mechanism**: Temperature inversions in the atmosphere (warm air over cold air) trap radio waves in a "duct" along the surface.
-*   **Bands**: VHF and UHF.
+*   **Bands**: [VHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) and [UHF](07_VHFUHF_Bands_6m,_2m,_70cm.md).
 *   **Range**: Can extend hundreds or thousands of kilometers (e.g., California to Hawaii).
 *   **Indicators**: Stable high-pressure weather systems.
 

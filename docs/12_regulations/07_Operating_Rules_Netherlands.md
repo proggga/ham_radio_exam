@@ -1,9 +1,9 @@
 # Operating Rules (Netherlands)
 
-Key regulations for amateur radio operation in the Netherlands (based on Telecommunicatiewet and Frequentiebesluit).
+[Key](../04_receivers/09_Station_Accessories.md) regulations for amateur radio operation in the Netherlands (based on Telecommunicatiewet and Frequentiebesluit).
 
 ## General Requirements
-*   **Registration**: You must be registered with the **RDI** (Rijksinspectie Digitale Infrastructuur, formerly Agentschap Telecom).
+*   **[Registration](02_Licensing_in_the_Netherlands.md)**: You must be registered with the **RDI** (Rijksinspectie Digitale Infrastructuur, formerly Agentschap Telecom).
 *   **License**: You must hold a valid certificate (N or F) for the equipment you operate.
     *   *N-amateur using F-equipment:* Only allowed if an F-amateur is present and supervising.
 *   **Identification**: You must transmit your call sign:

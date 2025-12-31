@@ -19,7 +19,7 @@ Visualizes signals in the **Time Domain** (Voltage vs Time).
 ## 2. Spectrum Analyzer
 Visualizes signals in the **Frequency Domain** (Amplitude vs Frequency).
 *   **Display:** X-axis = Frequency, Y-axis = Amplitude (dBm).
-*   **Measurements:**
+*   **[Measurements](../01_electricity/12_Measurements.md):**
     *   **Harmonics:** Check for suppression of $2f, 3f$, etc.
     *   **Spurious Emissions:** Detect unwanted parasitic oscillations.
     *   **[Bandwidth](../03_circuits/07_Bandwidth.md):** Measure occupied bandwidth of a modulated signal. See [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md).

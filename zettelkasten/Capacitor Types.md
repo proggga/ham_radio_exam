@@ -22,9 +22,9 @@ modified: 2025-12-29
 
 ## Frequency Characteristics
 *   **[[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] Applications:**
-    *   **Ceramic:** Preferred for VHF (e.g., 145 MHz) due to low inductance.
-    *   **Air/Vacuum:** Lowest losses (best dielectric) for HF applications.
-    *   **Value:** Typical tuning capacitor for Shortwave (HF) is ~100 pF (compared to ~500 pF for Medium Wave).
+    *   **Ceramic:** Preferred for [[VHFUHF Bands (6m, 2m, 70cm)|VHF]] (e.g., 145 MHz) due to low inductance.
+    *   **Air/Vacuum:** Lowest losses (best dielectric) for [[Propagation Basics|HF]] applications.
+    *   **Value:** Typical tuning capacitor for Shortwave ([[Propagation Basics|HF]]) is ~100 pF (compared to ~500 pF for Medium Wave).
 
 ## Variable Capacitors
 *   **Air Variable**: Rotatable metal plates meshing together. Used for VFO tuning and [[Antenna & Tower Safety|Antenna]] Matching.

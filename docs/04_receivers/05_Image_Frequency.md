@@ -16,7 +16,7 @@ An unwanted signal at $f_{Image} = f_{LO} + f_{IF}$ will also produce the IF dif
 2.  **High IF**: Using a high IF (e.g., 45 MHz) moves the image frequency far away ($+90 MHz$), making it easy for the preselector to block.
 3.  **Double Conversion**: Using two IF stages.
     *   **1st IF (High)**: Ensures good **Image Rejection**.
-    *   **2nd IF (Low)**: Ensures good **Selectivity** (Adjacent channel rejection).
+    *   **2nd IF (Low)**: Ensures good **[Selectivity](03_Receiver_Performance.md)** (Adjacent channel rejection).
 
 ---
 [< Back to Section Index](README.md)

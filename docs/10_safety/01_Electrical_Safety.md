@@ -35,7 +35,7 @@
 *   **RCD (Aardlekschakelaar)**: Residual Current Device.
     *   Measures difference between $I_{Live}$ and $I_{Neutral}$.
     *   Trips at **30 mA** imbalance. Protects **people**.
-*   **Bleeder [Resistors](../02_components/01_Resistors.md)**: Resistors connected across High Voltage capacitors to discharge them after power-off. (Safety requirement: $< 60V$ within seconds).
+*   **Bleeder [Resistors](../02_components/01_Resistors.md)**: [Resistors](../02_components/01_Resistors.md) connected across High Voltage capacitors to discharge them after power-off. (Safety requirement: $< 60V$ within seconds).
 
 ## 5. Lightning Protection
 *   **Disconnect**: The only 100% safe method is to unplug Antennas and Mains during thunderstorms.

@@ -23,12 +23,12 @@ Deliberate radiation to disrupt communications.
 Measures taken to protect friendly communications from jamming.
 
 ### Anti-Jamming Techniques
-1.  **[Directional Antennas](../06_antennas/06_Directional_Antennas_Beams.md)**: Point the null of the antenna toward the jammer to reduce its signal strength.
+1.  **[Directional Antennas](../06_antennas/08_Directional_Antennas_Beams.md)**: Point the null of the antenna toward the jammer to reduce its signal strength.
 2.  **Terrain Masking**: Put a hill or obstacle between the receiver and the jammer.
 3.  **Power**: Increase transmitter power (Burn-through) - only effective if the jammer is weak.
 4.  **Mode Change**: Switch to a mode more resistant to jamming (e.g., [CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md) is often readable through jamming where Voice is not).
 5.  **Frequency Change**: Move to an alternate frequency (QSY).
-6.  **Frequency Hopping**: Rapidly switching frequencies in a pseudo-random pattern (e.g., SINCGARS, Spread Spectrum).
+6.  **[Frequency Hopping](../11_procedures.md)**: Rapidly switching frequencies in a pseudo-random pattern (e.g., SINCGARS, [Spread Spectrum](../11_procedures.md)).
 
 ## 3. Reporting (MIJI)
 In a military context, interference incidents are reported via a **MIJI** report:

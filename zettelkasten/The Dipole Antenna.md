@@ -21,10 +21,10 @@ The dipole is the fundamental antenna against which others are often compared.
 ## Resonance on Harmonics
 A dipole resonates not only at its fundamental frequency ($f$) but also at harmonics.
 *   **Odd Harmonics (3rd, 5th...)**: The center remains a **Current Maximum** (Low [[Impedance (Impedantie)|Impedance]]). Can be fed directly.
-*   **Even Harmonics (2nd, 4th...)**: The center becomes a **Voltage Maximum** (High Impedance). Hard to feed with low-Z coax.
+*   **Even Harmonics (2nd, 4th...)**: The center becomes a **Voltage Maximum** (High [[Impedance (Impedantie)|Impedance]]). Hard to feed with low-Z coax.
 
 ## Characteristics
-*   **Impedance**: $\approx 73 \Omega$ in free space. Lowers as it gets closer to the ground.
+*   **[[Impedance (Impedantie)|Impedance]]**: $\approx 73 \Omega$ in free space. Lowers as it gets closer to the ground.
 *   **Radiation Pattern**: Figure-8 (Broadside to the wire). Nulls off the ends.
 *   **Polarization**: Horizontal (if hung horizontally).
 
@@ -39,8 +39,8 @@ A dipole resonates not only at its fundamental frequency ($f$) but also at harmo
 
 ## Equivalent Circuit
 *   **At [[Resonance]]**: Pure Resistance ($R_{rad} + R_{loss}$).
-*   **Below Resonance (Too Short)**: Capacitive (needs series L to tune).
-*   **Above Resonance (Too Long)**: Inductive (needs series C to tune).
+*   **Below [[Resonance]] (Too Short)**: Capacitive (needs series L to tune).
+*   **Above [[Resonance]] (Too Long)**: Inductive (needs series C to tune).
 
 ## Related
 *   [[Transmission Lines]]

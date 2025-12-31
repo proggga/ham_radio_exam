@@ -16,7 +16,7 @@ Sky wave is the primary mode for long-distance (DX) communication on [[Propagati
 ## Mechanism
 Radio waves radiate upward and are refracted (bent) back to earth by the ionized layers of the atmosphere.
 *   **Reflector**: The [[Ionospheric Layers]] (specifically E and F layers).
-*   **Frequency**: 3-30 MHz (HF).
+*   **Frequency**: 3-30 MHz ([[Propagation Basics|HF]]).
 
 ## Geometry
 *   **Critical Angle**: The steepest angle of radiation at which a wave will still be reflected. Waves sent at angles *steeper* than the critical angle punch through into space.

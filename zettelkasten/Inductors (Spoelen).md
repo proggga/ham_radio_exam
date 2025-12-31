@@ -30,16 +30,16 @@ When current changes, the magnetic field changes. This inducing a voltage (**Bac
 For a single-layer coil, inductance depends on:
 $$L = \frac{\mu_0 \cdot \mu_r \cdot n^2 \cdot A}{l}$$
 
-Key factors:
+[[Station Accessories|Key]] factors:
 1.  **Turns ($n$):** Proportional to the **square** of turns ($n^2$). Double the turns = 4x Inductance.
 2.  **Area ($A$):** Thicker coil = Higher inductance.
 3.  **Length ($l$):** Longer coil (stretching it out) = **Lower** inductance.
-    *   *Exam Tip:* If a coil is "stretched" (length increases, turns stay constant), $L$ decreases because the magnetic coupling between turns is reduced.
+    *   *[[Licensing in the Netherlands|Exam]] Tip:* If a coil is "stretched" (length increases, turns stay constant), $L$ decreases because the magnetic coupling between turns is reduced.
     *   *Formula Relationship:* $L \propto 1/l$.
 4.  **Core Material ($\mu_r$):** Relative Permeability.
     *   Air: $\mu_r \approx 1$.
     *   Iron/Ferrite: $\mu_r \gg 1$ (Greatly increases inductance).
-    *   *Shielding:* A conductive shield (aluminum can) around a coil *reduces* its inductance slightly due to eddy currents in the shield opposing the field.
+    *   *[[Shielding (Afscherming)|Shielding]]:* A conductive shield (aluminum can) around a coil *reduces* its inductance slightly due to eddy currents in the shield opposing the field.
 
 ### Mutual Inductance & Force
 *   **Forces:**
@@ -49,7 +49,7 @@ Key factors:
 
 ### Inductors in Circuits
 *   **Series:** $L_{tot} = L_1 + L_2$ (Like [[Resistors]]).
-*   **Parallel:** $\frac{1}{L_{tot}} = \frac{1}{L_1} + \frac{1}{L_2}$ (Like Resistors).
+*   **Parallel:** $\frac{1}{L_{tot}} = \frac{1}{L_1} + \frac{1}{L_2}$ (Like [[Resistors]]).
 
 ## 4. Applications
 *   **Electromagnets:** Coil with iron core.

@@ -13,13 +13,13 @@ ITU codes describe the characteristics of a radio signal. Format: **[[Modulation
 
 ## 1. First Symbol: Modulation Type
 *   **N**: Unmodulated carrier.
-*   **A**: Amplitude Modulation (Double Sideband).
+*   **A**: Amplitude [[Modulation & Digital Signals|Modulation]] (Double Sideband).
 *   **H**: [[Single Sideband (SSB)|Single Sideband]], **Full** Carrier (AME).
-*   **J**: Single Sideband, **Suppressed** Carrier (SSB).
-*   **R**: Single Sideband, **Reduced** Carrier.
+*   **J**: [[Single Sideband (SSB)|Single Sideband]], **Suppressed** Carrier ([[Single Sideband (SSB)|SSB]]).
+*   **R**: [[Single Sideband (SSB)|Single Sideband]], **Reduced** Carrier.
 *   **C**: Vestigial Sideband (TV).
-*   **F**: [[Frequency Modulation (FM)|Frequency Modulation]] (FM).
-*   **G**: Phase Modulation (PM).
+*   **F**: [[Frequency Modulation (FM)|Frequency Modulation]] ([[Frequency Modulation (FM)|FM]]).
+*   **G**: Phase [[Modulation & Digital Signals|Modulation]] (PM).
 
 ## 2. Second Symbol: Signal Nature
 *   **0**: No modulating signal.
@@ -40,11 +40,11 @@ ITU codes describe the characteristics of a radio signal. Format: **[[Modulation
 | Code | Description | Mode |
 | :--- | :--- | :--- |
 | **A1A** | [[Analogue Modulation & AM|AM]], On/Off keying, Aural Morse | **[[CW Abbreviations & Prosigns|CW]]** |
-| **A3E** | AM, Analogue, Voice | **AM** |
-| **J3E** | SSB, Suppressed Carrier, Analogue Voice | **SSB** |
-| **F3E** | FM, Analogue, Voice | **FM** |
-| **F1A** | FM, Direct Keying, Aural Morse | **FM CW** |
-| **F2A** | FM, Subcarrier (Tone), Aural Morse | **FM CW (Tone)** |
+| **A3E** | [[Analogue Modulation & AM|AM]], Analogue, Voice | **[[Analogue Modulation & AM|AM]]** |
+| **J3E** | [[Single Sideband (SSB)|SSB]], Suppressed Carrier, Analogue Voice | **SSB** |
+| **F3E** | [[Frequency Modulation (FM)|FM]], Analogue, Voice | **FM** |
+| **F1A** | FM, Direct Keying, Aural Morse | **FM [[CW Abbreviations & Prosigns|CW]]** |
+| **F2A** | FM, Subcarrier (Tone), Aural Morse | **FM [[CW Abbreviations & Prosigns|CW]] (Tone)** |
 | **F1B** | FM, Direct FSK, Automatic | **RTTY (FSK)** |
 | **F2B** | FM, Subcarrier AFSK, Automatic | **RTTY (AFSK)** |
 | **F1D** | FM, Direct Data | **Packet/Data** |

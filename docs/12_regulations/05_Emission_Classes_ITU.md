@@ -4,13 +4,13 @@ ITU codes describe the characteristics of a radio signal. Format: **[Modulation]
 
 ## 1. First Symbol: Modulation Type
 *   **N**: Unmodulated carrier.
-*   **A**: Amplitude Modulation (Double Sideband).
+*   **A**: Amplitude [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) (Double Sideband).
 *   **H**: [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md), **Full** Carrier (AME).
-*   **J**: Single Sideband, **Suppressed** Carrier (SSB).
-*   **R**: Single Sideband, **Reduced** Carrier.
+*   **J**: [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md), **Suppressed** Carrier ([SSB](../01_electricity/34_Single_Sideband_SSB.md)).
+*   **R**: [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md), **Reduced** Carrier.
 *   **C**: Vestigial Sideband (TV).
-*   **F**: [Frequency Modulation](../01_electricity/35_Frequency_Modulation_FM.md) (FM).
-*   **G**: Phase Modulation (PM).
+*   **F**: [Frequency Modulation](../01_electricity/35_Frequency_Modulation_FM.md) ([FM](../01_electricity/35_Frequency_Modulation_FM.md)).
+*   **G**: Phase [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) (PM).
 
 ## 2. Second Symbol: Signal Nature
 *   **0**: No modulating signal.
@@ -31,11 +31,11 @@ ITU codes describe the characteristics of a radio signal. Format: **[Modulation]
 | Code | Description | Mode |
 | :--- | :--- | :--- |
 | **A1A** | [AM](../01_electricity/32_Analogue_Modulation_&_AM.md), On/Off keying, Aural Morse | **[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md)** |
-| **A3E** | AM, Analogue, Voice | **AM** |
-| **J3E** | SSB, Suppressed Carrier, Analogue Voice | **SSB** |
-| **F3E** | FM, Analogue, Voice | **FM** |
-| **F1A** | FM, Direct Keying, Aural Morse | **FM CW** |
-| **F2A** | FM, Subcarrier (Tone), Aural Morse | **FM CW (Tone)** |
+| **A3E** | [AM](../01_electricity/32_Analogue_Modulation_&_AM.md), Analogue, Voice | **[AM](../01_electricity/32_Analogue_Modulation_&_AM.md)** |
+| **J3E** | [SSB](../01_electricity/34_Single_Sideband_SSB.md), Suppressed Carrier, Analogue Voice | **SSB** |
+| **F3E** | [FM](../01_electricity/35_Frequency_Modulation_FM.md), Analogue, Voice | **FM** |
+| **F1A** | FM, Direct Keying, Aural Morse | **FM [CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md)** |
+| **F2A** | FM, Subcarrier (Tone), Aural Morse | **FM [CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md) (Tone)** |
 | **F1B** | FM, Direct FSK, Automatic | **RTTY (FSK)** |
 | **F2B** | FM, Subcarrier AFSK, Automatic | **RTTY (AFSK)** |
 | **F1D** | FM, Direct Data | **Packet/Data** |

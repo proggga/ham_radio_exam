@@ -15,7 +15,7 @@ In Continuous Wave (CW/Morse) operation, standard abbreviations and procedural s
 *   **R**: Received / Roger.
 *   **RX**: Receiver.
 *   **RST**: Readability, Strength, Tone (Report).
-*   **SK**: End of contact (Silent Key / Sluiten).
+*   **SK**: End of contact (Silent [Key](../04_receivers/09_Station_Accessories.md) / Sluiten).
 *   **TRX**: Transceiver.
 *   **TX**: Transmitter.
 *   **UR**: Your.

@@ -8,7 +8,7 @@ This map covers the key functional blocks of radio circuits (excluding amplifier
 
 ## Signal Processing
 *   **[Mixers](23_Mixers.md)** - Frequency conversion and Image frequency.
-*   **[Detectors (Demodulators)](../04_receivers/06_Detectors_Demodulators.md)** - Extracting audio ([AM](../01_electricity/32_Analogue_Modulation_&_AM.md), [SSB](../01_electricity/34_Single_Sideband_SSB.md), [FM](../01_electricity/35_Frequency_Modulation_FM.md)).
+*   **[Detectors (Demodulators)](../04_receivers/07_Detectors_Demodulators.md)** - Extracting audio ([AM](../01_electricity/32_Analogue_Modulation_&_AM.md), [SSB](../01_electricity/34_Single_Sideband_SSB.md), [FM](../01_electricity/35_Frequency_Modulation_FM.md)).
 
 ---
 [< Back to Section Index](README.md)

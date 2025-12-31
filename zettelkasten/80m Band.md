@@ -17,7 +17,7 @@ A workhorse band for regional communications.
     *   **Day:** D-layer absorption limits range to regional (200-300 miles).
     *   **Night:** Global DX possible (500-1000+ miles).
 *   **[[AC Signals & Noise|Noise]]:** High (S6-S9). Thunderstorm static in summer.
-*   **[[Near Vertical Incidence Skywave (NVIS)|NVIS]]:** Excellent for Near Vertical Incidence Skywave (regional coverage without skip zone).
+*   **[[Near Vertical Incidence Skywave (NVIS)|NVIS]]:** Excellent for [[Near Vertical Incidence Skywave (NVIS)|Near Vertical Incidence Skywave]] (regional coverage without skip zone).
 
 ## Usage
 *   **Best For:** Evening ragchewing, Regional Nets, Emergency Comms.
@@ -25,4 +25,4 @@ A workhorse band for regional communications.
 *   **Activity:** Very high population.
 
 Related:
-- [[Propagation Modes]] - Covers NVIS.
+- [[Propagation Modes]] - Covers [[Near Vertical Incidence Skywave (NVIS)|NVIS]].

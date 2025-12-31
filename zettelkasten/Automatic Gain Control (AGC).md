@@ -23,10 +23,10 @@ AGC (also known as AVC - Automatic Volume Control) keeps the receiver's audio ou
 
 ## Functions
 *   Prevents overloading of IF/Audio stages.
-*   Compensates for fading (QSB).
-*   Drives the **[[S-Meter]]** (Signal Strength Meter).
+*   Compensates for fading ([[Fading (QSB)|QSB]]).
+*   Drives the **[[S-Meter]]** ([[S-Meter|Signal Strength]] Meter).
 
 ## Related
 *   [[Superheterodyne Receiver]]
-*   [[Measurements]] (S-Meter)
+*   [[Measurements]] ([[S-Meter]])
 *   [[Amplifiers]]

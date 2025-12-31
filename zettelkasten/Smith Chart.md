@@ -37,8 +37,8 @@ The chart is "normalized" to make it universal.
 
 ## Radially Scaled Parameters
 Scales at the bottom of the chart provide derived data based on the plotted impedance radius (distance from center).
-*   **SWR**: Standing Wave Ratio.
-*   **Return Loss**: Power reflected back in dB.
+*   **[[Standing Wave Ratio (SWR)|SWR]]**: [[Standing Wave Ratio (SWR)|Standing Wave Ratio]].
+*   **Return Loss**: Power reflected back in [[Decibels & Logarithms|dB]].
 *   **Reflection Coefficient**: Voltage ($\Gamma$) or Power ($\Gamma_{pwr}$).
 *   **Transmission Loss**: Attenuation due to mismatch.
 

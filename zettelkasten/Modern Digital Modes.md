@@ -19,9 +19,9 @@ Digital voice modes digitize speech before transmission.
 *   **Networking**: Worldwide connectivity via internet-linked repeaters.
 *   **Talkgroups**: Virtual channels (ID codes) that route communications to specific groups of users (e.g., "World Wide," "North America," "Local").
 *   **Code Plug**: The configuration file programmed into the radio. Contains:
-    *   Frequencies and Repeater offsets.
+    *   Frequencies and [[Repeater Operation|Repeater]] offsets.
     *   **Talkgroup IDs**.
-    *   **Color Code**: A digital access code (like CTCSS) for the repeater. Must match the repeater's color code to access it.
+    *   **Color Code**: A digital access code (like [[Repeater Operation|CTCSS]]) for the repeater. Must match the repeater's color code to access it.
     *   User **Radio ID** (Call sign mapping).
 
 ### 2. D-STAR (Digital Smart Technologies for Amateur Radio)

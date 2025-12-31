@@ -36,9 +36,9 @@ Optoelectronic devices interact with light, either emitting it or detecting it.
 *   **Use**: Power generation ([[Solar Indices & Space Weather|Solar Power]] for portable stations).
 
 ### Optocoupler (Optoisolator)
-*   **Structure**: An LED and a Phototransistor inside a light-tight package.
+*   **Structure**: An [[LED (Light Emitting Diode)|LED]] and a Phototransistor inside a light-tight package.
 *   **Function**: Transfers signals between circuits using light while maintaining electrical **Isolation**.
-*   **Use**: Interfacing radios to computers (PTT/CW keying) to prevent ground loops.
+*   **Use**: Interfacing radios to computers (PTT/[[CW Abbreviations & Prosigns|CW]] keying) to prevent ground loops.
 
 ## Related
 *   [[Semiconductors]]

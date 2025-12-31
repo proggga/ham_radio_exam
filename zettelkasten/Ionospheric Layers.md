@@ -18,7 +18,7 @@ The ionosphere consists of several layers of ionized gas at different heights.
 
 ## E Layer (100-120 km)
 *   **Effect**: Can reflect signals.
-*   **Sporadic E ($E_s$)**: Intense, temporary ionization patches (mostly Summer). Can reflect [[VHFUHF Bands (6m, 2m, 70cm)|VHF]] (6m, 2m) over 1000-2000 km.
+*   **[[Special Propagation Modes|Sporadic E]] ($E_s$)**: Intense, temporary ionization patches (mostly Summer). Can reflect [[VHFUHF Bands (6m, 2m, 70cm)|VHF]] (6m, 2m) over 1000-2000 km.
 
 ## F Layers (150-400+ km)
 The primary reflectors for DX (worldwide) communication.

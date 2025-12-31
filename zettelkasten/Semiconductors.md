@@ -12,6 +12,7 @@ modified: 2025-12-29
 *   **[[Semiconductor Physics]]** - Materials, Doping, PN Junction.
 *   **[[Diodes]]** - Rectifiers, Zeners, LEDs, Varicaps.
 *   **[[Transistors (BJT & FET)]]** - BJTs and FETs.
+*   **[[Optoelectronic Devices]]** - LEDs, Photodiodes, Optocouplers.
 
 ## Applications
 *   **[[Amplifiers]]**

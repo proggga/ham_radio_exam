@@ -9,18 +9,18 @@ The final stage that drives the antenna.
 ## 2. Output Filters
 Power amplifiers generate harmonics (multiples of the frequency).
 *   **Low Pass [Filter](../03_circuits/03_Filters_&_Resonance.md) (LPF):** Essential at the output to suppress harmonics to legal levels. See [Filters](../03_circuits/03_Filters_&_Resonance.md).
-*   **Pi-Filter:** A common LC circuit ($\pi$-shape) used for both impedance matching and low-pass filtering.
+*   **Pi-[Filter](../03_circuits/03_Filters_&_Resonance.md):** A common [LC circuit](../03_circuits/01_Reactive_Combinations.md) ($\pi$-shape) used for both impedance matching and low-pass filtering.
 
 ## 3. Antenna Matching (ATU)
-Matches the transmitter impedance (usually $50 \Omega$) to the antenna system. See [Matching](../06_antennas/15_Matching_and_SWR.md).
+Matches the transmitter impedance (usually $50 \Omega$) to the antenna system. See [Matching](../06_antennas/18_Matching_and_SWR.md).
 *   **Purpose:** Allows the PA to deliver full power (happy transmitter).
-*   **Note:** An [ATU](../06_antennas/18_Antenna_Tuning_Unit_ATU.md) at the transmitter does **NOT** fix the [SWR](../06_antennas/15_Matching_and_SWR.md) on the feedline. It only matches the *input* of the feedline to the TX.
+*   **Note:** An [ATU](../06_antennas/21_Antenna_Tuning_Unit_ATU.md) at the transmitter does **NOT** fix the [SWR](../06_antennas/18_Matching_and_SWR.md) on the feedline. It only matches the *input* of the feedline to the TX.
 
 ## 4. Cooling and Duty Cycle
 *   **Dissipation:** Efficiency is never 100%. Heat must be removed (Heatsinks, Fans).
 *   **Duty Cycle:** The percentage of time the transmitter is "key down".
-    *   *CW/SSB:* Low duty cycle (~20-50%).
-    *   *FM/Digital ([FT8](../11_procedures.md)):* High duty cycle (100%). Requires better cooling.
+    *   *[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md)/[SSB](../01_electricity/34_Single_Sideband_SSB.md):* Low duty cycle (~20-50%).
+    *   *[FM](../01_electricity/35_Frequency_Modulation_FM.md)/Digital ([FT8](../11_procedures.md)):* High duty cycle (100%). Requires better cooling.
 
 ---
 [< Back to Section Index](README.md)

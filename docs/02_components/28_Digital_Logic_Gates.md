@@ -23,7 +23,7 @@ The exam uses IEC symbols (rectangular boxes).
 ## Internal Structure (Exam Insight)
 *   **NOT Gate**: Can be built with a single transistor in Common Emitter configuration (no emitter resistor).
     *   Input High $\to$ [Transistor](18_Transistors_BJT_&_FET.md) Saturates (Conducts) $\to$ Output Low (connected to ground via transistor).
-    *   Input Low $\to$ Transistor Cutoff $\to$ Output High (pulled up to Vcc).
+    *   Input Low $\to$ [Transistor](18_Transistors_BJT_&_FET.md) Cutoff $\to$ Output High (pulled up to Vcc).
 
 ---
 [< Back to Section Index](README.md)

@@ -14,7 +14,7 @@ Coding defines how characters are mapped to binary bits.
 ## Character Sets
 *   **Baudot (CCITT-1)**:
     *   5-bit code ($2^5 = 32$ combinations).
-    *   Uses "Letters Shift" and "Figures Shift" to support numbers/punctuation.
+    *   Uses "Letters [[Repeater Operation|Shift]]" and "Figures Shift" to support numbers/punctuation.
     *   Used in RTTY. No error correction.
 *   **ASCII (CCITT-5)**:
     *   7-bit (128 chars) or 8-bit (256 chars) code.

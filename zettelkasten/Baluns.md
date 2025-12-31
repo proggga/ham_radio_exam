@@ -23,8 +23,8 @@ A **Balun** (**Bal**anced to **Un**balanced transformer) interfaces a balanced a
 ## Voltage Balun
 *   **Function**: Transforms impedance while converting balanced/unbalanced.
 *   **Ratios**:
-    *   **1:1**: No impedance change (e.g., Dipole to Coax).
-    *   **4:1**: Matches high impedance to low (e.g., Folded Dipole $300\Omega$ to $75\Omega$ coax).
+    *   **1:1**: No impedance change (e.g., [[The Dipole Antenna|Dipole]] to Coax).
+    *   **4:1**: Matches high impedance to low (e.g., Folded [[The Dipole Antenna|Dipole]] $300\Omega$ to $75\Omega$ coax).
     *   **1:9** or **1:49**: Used for End-Fed antennas (High Z to $50\Omega$).
 
 ## Related Notes

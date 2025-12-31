@@ -23,7 +23,7 @@ Converts frequency changes into voltage changes.
 *   **Discriminator (Foster-Seeley)**: Good linearity, sensitive to amplitude (needs limiter).
 *   **Ratio Detector**: [AM](../01_electricity/32_Analogue_Modulation_&_AM.md)-insensitive (built-in limiting action via capacitor).
 *   **Quadrature Detector**: Uses a phase-shift network and product detector. Common in ICs.
-*   **[PLL](../03_circuits/22_Phase_Locked_Loop_PLL.md) Detector**: A Phase Locked Loop locks to the input signal. The **Error Voltage** that controls the VCO tracks the frequency deviation $\rightarrow$ This is the Audio output. High quality.
+*   **[PLL](../03_circuits/22_Phase_Locked_Loop_PLL.md) Detector**: A [Phase Locked Loop](../03_circuits/22_Phase_Locked_Loop_PLL.md) locks to the input signal. The **Error Voltage** that controls the VCO tracks the frequency deviation $\rightarrow$ This is the Audio output. High quality.
 
 ---
 [< Back to Section Index](README.md)

@@ -14,7 +14,7 @@ Oscillators are circuits that generate an AC signal from DC.
 ## Barkhausen Criterion
 For oscillation to occur and sustain:
 1.  **Loop Gain**: $\ge 1$ (starts > 1, stabilizes at 1).
-2.  **Phase Shift**: $0^\circ$ or $360^\circ$ (Positive Feedback).
+2.  **Phase [[Repeater Operation|Shift]]**: $0^\circ$ or $360^\circ$ (Positive Feedback).
     *   In a common-emitter/source circuit (180° shift), the feedback network must provide an additional 180°.
 
 ## LC Oscillators (Variable Frequency)

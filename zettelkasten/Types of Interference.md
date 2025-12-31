@@ -20,7 +20,7 @@ This map covers the various ways interference is generated and manifested.
 *   **[[Audio Rectification (LFD)]]** - Hearing radio in stereo equipment ([[Audio Rectification (LFD)|LFD]]).
 
 ## Transmitter Issues
-*   **[[Transmitter Defects]]** - Chirp, Key Clicks, and Splatter.
+*   **[[Transmitter Defects]]** - Chirp, [[Station Accessories|Key]] Clicks, and Splatter.
 
 ## Related
 *   **[[Noise Types]]** - QRN vs QRM.

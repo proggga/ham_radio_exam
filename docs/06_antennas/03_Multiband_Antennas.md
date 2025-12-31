@@ -19,7 +19,7 @@ Multiple dipoles for different bands connected to the same center feedpoint.
 ## 3. Log Periodic Antenna (LogPer)
 A directional array where elements are scaled logarithmically.
 *   **Operation**: Broad bandwidth (can cover 10-30 MHz continuously).
-*   **Gain**: Moderate (less than a [Yagi](06_Directional_Antennas_Beams.md) for the same boom length).
+*   **Gain**: Moderate (less than a [Yagi](08_Directional_Antennas_Beams.md) for the same boom length).
 
 ---
 [< Back to Section Index](README.md)

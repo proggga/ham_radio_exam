@@ -17,11 +17,11 @@ This map covers the different paths radio waves take to travel from transmitter 
 ## Standard Modes
 *   [[Ground Wave Propagation]] - LF/MF, following the surface.
 *   [[Sky Wave Propagation]] - [[Propagation Basics|HF]], skipping off the ionosphere.
-*   [[Line of Sight Propagation (LOS)]] - [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF, direct path.
+*   [[Line of Sight Propagation (LOS)]] - [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]], direct path.
 
 ## Extended VHF/UHF Modes
 *   [[Tropospheric Propagation]] - Ducting and scattering due to weather.
-*   [[Exotic Propagation Modes]] - Aurora, Meteor Scatter, EME.
+*   [[Exotic Propagation Modes]] - [[Special Propagation Modes|Aurora]], [[Special Propagation Modes|Meteor Scatter]], [[Earth-Moon-Earth (EME)|EME]].
 
 ## Related
 *   [[The Ionosphere]] - The physics behind Sky Wave.

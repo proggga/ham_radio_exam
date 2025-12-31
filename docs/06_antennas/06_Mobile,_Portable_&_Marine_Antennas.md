@@ -3,7 +3,7 @@
 Operating radio equipment from vehicles or boats presents unique challenges due to limited space and the lack of a traditional earth ground.
 
 ## Mobile HF Antennas (Vehicles)
-Mobile HF antennas are almost always vertical whips that are physically short compared to the wavelength (e.g., an 8ft whip on 80m).
+Mobile [HF](../07_propagation/01_Propagation_Basics.md) antennas are almost always vertical whips that are physically short compared to the wavelength (e.g., an 8ft whip on 80m).
 
 ### Loading Coils
 Because the whip is short ($< \lambda/4$), it is highly capacitive. An **Inductive Loading Coil** is added to resonate the antenna.
@@ -14,7 +14,7 @@ Because the whip is short ($< \lambda/4$), it is highly capacitive. An **Inducti
 
 ### High Q and Bandwidth
 Short, loaded antennas have a very high **[Quality Factor (Q)](../03_circuits/06_Quality_Factor_Q.md)**.
-*   **Effect**: Bandwidth is extremely narrow (e.g., 20-40 kHz on 80m).
+*   **Effect**: [Bandwidth](../03_circuits/07_Bandwidth.md) is extremely narrow (e.g., 20-40 kHz on 80m).
 *   **Tuning**: Frequent retuning is required when changing frequency.
     *   *Manual*: Moving a tap or adjusting a stinger tip (stopped vehicle).
     *   *Remote*: "Screwdriver" antennas use a motor to move the coil inside the base, allowing tuning from the driver's seat.
@@ -34,7 +34,7 @@ Salt water is an excellent conductor, making it a perfect RF ground.
 
 ### Antenna Types
 *   **Marine Whips**: Usually longer than car antennas (no height restrictions at sea).
-*   **Backstay Antenna**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **Antenna Tuner (ATU)** at the base.
+*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner ([ATU](21_Antenna_Tuning_Unit_ATU.md))** at the base.
 
 ---
 [< Back to Section Index](README.md)

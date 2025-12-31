@@ -18,7 +18,7 @@ The basic memory element storing 1 bit.
 ### D Flip-Flop (Data / Delay)
 *   **Inputs**: Data (D), Clock (CLK).
 *   **Behavior**: Copies input D to output Q on the clock edge (e.g., rising edge).
-*   **Use**: Shift Registers, Memory.
+*   **Use**: [Shift](../11_procedures.md) Registers, Memory.
 
 ### JK Flip-Flop
 *   **Inputs**: J, K, Clock.

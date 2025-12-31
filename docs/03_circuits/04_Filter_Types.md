@@ -3,9 +3,9 @@
 [Filters](03_Filters_&_Resonance.md) allow specific frequencies to pass while rejecting others.
 
 ## Common Types
-*   **Low Pass Filter (LPF)**: Passes frequencies below a cut-off point. Attenuates higher frequencies.
+*   **Low Pass [Filter](03_Filters_&_Resonance.md) (LPF)**: Passes frequencies below a cut-off point. Attenuates higher frequencies.
     *   *Use*: Audio filtering, Harmonic suppression in transmitters.
-*   **High Pass Filter (HPF)**: Passes frequencies above a cut-off point.
+*   **High Pass [Filter](03_Filters_&_Resonance.md) (HPF)**: Passes frequencies above a cut-off point.
     *   *Use*: Removing AC hum ($50Hz$), Pre-selectors.
 *   **Band Pass Filter (BPF)**: Passes a specific range of frequencies.
     *   *Use*: Receiver tuning (passing only the desired station).

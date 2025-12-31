@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Resonance
 
-Resonance occurs in an LC circuit ([[Inductors (Spoelen)|Inductor]] + [[Capacitors|Capacitor]]) when Inductive [[Reactance (Reactantie)|Reactance]] equals Capacitive Reactance ($X_L = X_C$).
+Resonance occurs in an [[Reactive Combinations|LC circuit]] ([[Inductors (Spoelen)|Inductor]] + [[Capacitors|Capacitor]]) when Inductive [[Reactance (Reactantie)|Reactance]] equals Capacitive [[Reactance (Reactantie)|Reactance]] ($X_L = X_C$).
 
 ## Resonant Frequency ($f_{res}$)
 Calculated using the **Thomson Formula**:
@@ -21,7 +21,7 @@ $$f_{res} = \frac{1}{2\pi \sqrt{L \cdot C}}$$
 *   **Application**: Suction circuit (Zuigkring) to shunt interference to ground.
 
 ## Parallel Resonance
-*   **Impedance**: Maximal ($Z$ is very high).
+*   **[[Impedance (Impedantie)|Impedance]]**: Maximal ($Z$ is very high).
 *   **Behavior**: Acts as an **open circuit** at resonance.
 *   **Application**: Tuned circuit (Kring), Trap (Sperkring).
 

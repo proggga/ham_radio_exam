@@ -15,7 +15,7 @@ Regulation keeps the output voltage constant despite changes in Load Current or 
 *   **Component**: [[Zener Diode]] (Zenerdioden).
 *   **Setup**: Zener diode in reverse bias (parallel to load) + Series [[Resistors|Resistor]].
 *   **Operation**: Zener maintains constant breakdown voltage.
-*   **Resistor**: $R_{series} = \frac{U_{in} - U_{zener}}{I_{zener} + I_{load}}$
+*   **[[Resistors|Resistor]]**: $R_{series} = \frac{U_{in} - U_{zener}}{I_{zener} + I_{load}}$
 *   **Use**: Low power reference voltages.
 
 ## Series Regulator (Emitter Follower)

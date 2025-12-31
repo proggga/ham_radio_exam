@@ -46,4 +46,4 @@ modified: 2025-12-29
 
 ## 3. Working at Heights
 *   **Risk:** Falling, dropped tools.
-*   **Safety:** Use a harness, hard hat, secure ladders, have a ground spotter.
+*   **[[Electrical Safety|Safety]]:** Use a harness, hard hat, secure ladders, have a ground spotter.

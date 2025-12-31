@@ -13,7 +13,7 @@ modified: 2025-12-29
 
 # Kirchhoff's Laws
 
-Gustav Kirchhoff described two fundamental laws that govern the conservation of charge and energy in electrical circuits.
+Gustav [[Circuits and Kirchhoff's Laws|Kirchhoff]] described two fundamental laws that govern the conservation of charge and energy in electrical circuits.
 
 ## First Law: Current Law (KCL)
 **"The sum of currents flowing into a node equals the sum of currents flowing out."**

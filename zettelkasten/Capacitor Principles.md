@@ -31,7 +31,7 @@ $$C \approx 0.0885 \cdot \varepsilon_r \cdot \frac{A}{d}$$
 3.  **Higher Dielectric Constant ($\varepsilon_r$)** of the insulator.
     *   Vacuum/Air: $\varepsilon_r \approx 1$.
     *   Solids (Plastic, Ceramic): $\varepsilon_r > 1$.
-    *   *Exam Tip:* Inserting a dielectric with $\varepsilon_r = 5$ into an air capacitor increases capacitance by **5x**.
+    *   *[[Licensing in the Netherlands|Exam]] Tip:* Inserting a dielectric with $\varepsilon_r = 5$ into an air capacitor increases capacitance by **5x**.
 
 ## Variable Capacitors
 *   Often specified with a **minimum** and **variation** (swing).

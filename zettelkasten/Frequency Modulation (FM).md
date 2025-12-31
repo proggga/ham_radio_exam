@@ -33,7 +33,7 @@ Closely related to FM. Often used in mobile radios.
 *   If an FM signal is passed through a **Frequency Multiplier** (e.g., Doubler, Tripler):
     *   **Carrier Frequency** is multiplied ($f_{out} = n \times f_{in}$).
     *   **Deviation ($\Delta f$)** is **ALSO** multiplied ($ \Delta f_{out} = n \times \Delta f_{in}$).
-    *   **Modulation Index ($m$)** is multiplied.
+    *   **[[Modulation & Digital Signals|Modulation]] Index ($m$)** is multiplied.
     *   **Audio Frequency ($f_{mod}$)** remains **UNCHANGED**.
 
 ## Generation

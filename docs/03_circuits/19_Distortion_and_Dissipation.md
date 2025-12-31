@@ -3,7 +3,7 @@
 ## Dissipation
 Power lost as heat in the active device.
 *   **Formula**: $P_{diss} = U_{DS} \times I_D$ (or $U_{CE} \times I_C$).
-*   **Exam Topic: Dissipation Hyperbola**: A curve plotted on the $I_D - U_{DS}$ graph representing constant power ($P = C$).
+*   **[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Topic: Dissipation Hyperbola**: A curve plotted on the $I_D - U_{DS}$ graph representing constant power ($P = C$).
     *   The Operating Point and the entire Load Line must ideally stay **below** this curve to avoid destroying the component.
     *   Check: Calculate $P$ at the operating point and compare to $P_{max}$.
 

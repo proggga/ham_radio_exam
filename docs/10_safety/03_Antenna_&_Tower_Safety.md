@@ -19,12 +19,12 @@ Proper grounding shunts lightning energy to earth before it enters the station.
 *   **Ground Rods**: 8-foot (2.4m) copper-clad steel rods driven into the ground.
     *   *Bonding:* All ground rods (tower, station, mains service) must be bonded together with heavy gauge wire or copper strap to prevent voltage potential differences.
 *   **Tower Legs**: Each leg should have its own ground rod.
-*   **Connections**: Short, direct, and free of sharp bends (lightning does not like corners).
+*   **[Connections](../00_basic_skills.md)**: Short, direct, and free of sharp bends (lightning does not like corners).
 *   **Lightning Arrestors**: Install in coaxial feedlines at the entry point to the building.
 
 ## 4. Mechanical Safety
 *   **Guy Wires**: Use safety wire on turnbuckles to prevent them from vibrating loose.
-*   **Insulation**: Ensure antenna ends (high voltage) are out of reach of people to prevent RF burns.
+*   **[Insulation](04_Equipment_Safety_Classes.md)**: Ensure antenna ends (high voltage) are out of reach of people to prevent RF burns.
 
 ---
 [< Back to Section Index](README.md)

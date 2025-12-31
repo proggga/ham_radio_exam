@@ -26,7 +26,7 @@ A geographic coordinate system used by radio amateurs to succinctly describe the
     *   **Field**: 2 Letters (e.g., **JO**). Covers large area.
     *   **Square**: 2 Digits (e.g., **22**). $1^\circ$ Latitude by $2^\circ$ Longitude.
     *   **Subsquare**: 2 Letters (e.g., **eb**). More precise.
-*   **Usage**: Essential for [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF contesting and determining distance/bearing.
+*   **Usage**: Essential for [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]] contesting and determining distance/bearing.
 
 ## Listening
-You don't need a transmitter to participate. **WebSDR** sites (like the University of Twente's receiver) allow anyone to listen to amateur bands via a web browser. This is an excellent way to become familiar with [[Standard QSO Procedure]].
+You don't need a transmitter to participate. **[[Software Defined Radio (SDR)|WebSDR]]** sites (like the University of Twente's receiver) allow anyone to listen to amateur bands via a web browser. This is an excellent way to become familiar with [[Standard QSO Procedure]].

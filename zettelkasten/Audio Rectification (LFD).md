@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Audio Rectification (LFD)
 
-**Low Frequency Detection (LFD)** (Laagfrequentdetectie), also known as Audio Rectification or "Inpraten", is a common interference problem where radio signals are heard in non-radio audio equipment.
+**Low Frequency Detection (LFD)** (Laagfrequentdetectie), also known as Audio [[Rectification]] or "Inpraten", is a common interference problem where radio signals are heard in non-radio audio equipment.
 
 ## Mechanism
 1.  **Pickup**: Speaker wires, mains leads, or interconnects act as antennas, picking up RF energy.
@@ -20,8 +20,8 @@ modified: 2025-12-29
 ## Symptoms by Mode
 *   **[[Analogue Modulation & AM|AM]]**: Clear, intelligible speech.
 *   **[[Single Sideband (SSB)|SSB]]**: Muffled, distorted, unintelligible rhythm (like "Donald Duck").
-*   **[[CW Abbreviations & Prosigns|CW]]**: Thumping or clicking sounds (Key Clicks/Plops) in time with the keying.
-*   **[[Frequency Modulation (FM)|FM]]**: Usually silent (FM has no amplitude variations). Strong FM signals may cause "Blocking" (reduction in volume) or hum.
+*   **[[CW Abbreviations & Prosigns|CW]]**: Thumping or clicking sounds ([[Station Accessories|Key]] Clicks/Plops) in time with the keying.
+*   **[[Frequency Modulation (FM)|FM]]**: Usually silent ([[Frequency Modulation (FM)|FM]] has no amplitude variations). Strong [[Frequency Modulation (FM)|FM]] signals may cause "Blocking" (reduction in volume) or hum.
 
 ## Mitigation (Ontstoring)
 *   **Speaker Wires**:

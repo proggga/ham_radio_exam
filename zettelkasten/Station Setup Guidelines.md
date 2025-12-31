@@ -18,7 +18,7 @@ Proper setup of an amateur radio station ensures safety, performance, and equipm
     *   *Reason:* Prevents the equipment ground coax shield from becoming the return path if the negative lead disconnects (fire hazard).
 
 ## 2. Grounding & Bonding
-Proper grounding serves two distinct purposes: **Electrical Safety** and **RF Performance**.
+Proper grounding serves two distinct purposes: **[[Electrical Safety]]** and **RF Performance**.
 
 ### Safety Ground (Protective Earth - PE)
 *   **Purpose**: Protects the operator from electrical shock if a high-voltage wire touches the chassis.
@@ -37,7 +37,7 @@ Proper grounding serves two distinct purposes: **Electrical Safety** and **RF Pe
     *   **Soil Treatment**: In poor soil, chemically treating the ground (Rock Salt, Copper Sulfate) or using a "Salt Pipe" can significantly lower resistance.
 
 ### Field Expedient Grounding (Military Tips)
-*   **Soil Conductivity**: Moisture and Salinity improve grounding.
+*   **Soil [[Atomic Theory & Conductivity|Conductivity]]**: Moisture and Salinity improve grounding.
     *   *Tip:* If soil is dry, pour water and **salt** around the ground stake.
 *   **Counterpoise**: In poor soil (Desert, Rock, Permafrost/Snow), a ground stake works poorly. Use a **Counterpoise** (a network of wires laid on or above the ground) to create an artificial ground plane.
 *   **EMP Protection**: Disconnect antennas and ground equipment when not in use to protect against EMP (Electromagnetic Pulse) and Lightning.
@@ -55,7 +55,7 @@ Digital modes ([[Modern Digital Modes|FT8]], RTTY, Packet) require interfacing t
 ## 4. Antenna Positioning
 *   **Clearance**: Keep antennas away from power lines (fall distance + margin).
 *   **EMC**: Place antennas as far as possible from household electronics to reduce interference pickup and RFI causing issues.
-*   **Feedline**: Use high-quality coax (RG-213, LMR-400) for long runs, especially at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/UHF.
+*   **Feedline**: Use high-quality coax (RG-213, LMR-400) for long runs, especially at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]].
 
 ## 5. Siting (Military/Field)
 *   **High Ground**: Maximizes Line-of-Sight range.
@@ -66,3 +66,4 @@ Digital modes ([[Modern Digital Modes|FT8]], RTTY, Packet) require interfacing t
 *   [[Electrical Safety]]
 *   [[Transmission Lines]]
 *   [[Radio Operations in Harsh Environments]]
+*   [[Common Troubleshooting]]
