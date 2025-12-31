@@ -2,11 +2,18 @@
 
 **🚀 SYSTEM MIGRATED TO ZETTELKASTEN**
 
-This repository has been converted into a **Zettelkasten Knowledge System**.
-Please navigate to the `zettelkasten/` directory to access the study materials.
+This repository has been converted into a **Zettelkasten Knowledge System** to allow for better cross-referencing and modular study.
 
-*   **[📂 Enter Zettelkasten](zettelkasten/README.md)** - System Overview and Guide.
-*   **[📑 Master Index](zettelkasten/Master Index.md)** - Full list of study topics.
+### 📚 Study Modes
+1.  **[📖 Read the Study Guide](docs/README.md)**: A linear, book-like version generated from the notes. Best for sequential studying.
+2.  **[📂 Enter Zettelkasten](zettelkasten/README.md)**: Browse the raw atomic notes, explore connections, and see the knowledge graph.
+
+### 🧠 What is Zettelkasten?
+The **Zettelkasten** (German for "Slip Box") method organizes knowledge into small, atomic notes that are linked together. It is best viewed using **[Obsidian](https://obsidian.md/)**, a powerful knowledge base tool that works on top of a local folder of Markdown files.
+
+*   **Atomic Notes**: Each file covers one specific concept (e.g., *Ohm's Law*, *Dipole Antenna*).
+*   **Connections**: Notes link to related concepts (e.g., *Dipole* links to *Impedance* and *Resonance*), mimicking how the brain works.
+*   **Maps of Content (MOC)**: Index files (like the Master Index below) that organize notes into topics.
 
 ---
 
@@ -24,7 +31,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 **[📂 Open Master Index](zettelkasten/Master%20Index.md)** - A comprehensive list of all topics.
 
 
-## [Eindterm 0: Candidate Basic Skills (Basisvaardigheden van de kandidaat)](zettelkasten/Candidate%20Basic%20Skills.md)
+## [Eindterm 0: Candidate Basic Skills (Basisvaardigheden van de kandidaat)](docs/00_basic_skills.md)
 
 - [ ] **0.1 Mathematical Skills**
   - [ ] **Standard Form / Scientific Notation:** Manipulating powers of 10.
@@ -45,7 +52,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 1: Electricity, Electromagnetism, and Radio Theory (Elektriciteitsleer, elektromagnetisme en radiotheorie)](docs/01_electricity/)
 
-### [1.1 Conductivity (Stroomgeleiding)](zettelkasten/Atomic%20Structure.md)
+### [1.1 Conductivity (Stroomgeleiding)](docs/01_electricity/02_Atomic_Structure.md)
 - [ ] **Atomic Structure:**
   - [ ] **Nucleus (Kern):** Protons (+) and Neutrons (neutral).
   - [ ] **Shell (Schil):** Electrons (-).
@@ -56,25 +63,25 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Insulators (Isolatoren):** High resistance (e.g., Glass, Ceramic, Plastic).
 - [ ] **Basic Quantities:**
   - [ ] **Charge (Q, Coulomb):** 1 C ≈ 6.24 x 10^18 electrons.
-  - [ ] **[Current (I, Ampere)](zettelkasten/Voltage,%20Current,%20and%20Ohm's%20Law.md):** Flow of charge (Q) per time (t). Formula: I = Q / t
+  - [ ] **[Current (I, Ampere)](docs/01_electricity/07_Voltage,_Current,_and_Ohm's_Law.md):** Flow of charge (Q) per time (t). Formula: I = Q / t
   - [ ] **Direction:** Technical direction (Plus to Minus) vs Electron flow (Minus to Plus).
-  - [ ] **[Voltage (U, Volt)](zettelkasten/Voltage,%20Current,%20and%20Ohm's%20Law.md):** Potential difference. Energy per charge.
-  - [ ] **[Resistance (R, Ohm)](zettelkasten/Voltage,%20Current,%20and%20Ohm's%20Law.md):** Opposition to current flow.
-  - [ ] **[Specific Resistance (Soortelijke weerstand, rho)](zettelkasten/Resistivity%20(Soortelijke%20Weerstand).md):**
+  - [ ] **[Voltage (U, Volt)](docs/01_electricity/07_Voltage,_Current,_and_Ohm's_Law.md):** Potential difference. Energy per charge.
+  - [ ] **[Resistance (R, Ohm)](docs/01_electricity/07_Voltage,_Current,_and_Ohm's_Law.md):** Opposition to current flow.
+  - [ ] **[Specific Resistance (Soortelijke weerstand, rho)](docs/01_electricity/06_Resistivity_Soortelijke_Weerstand.md):**
     - [ ] rho = Specific resistance of material (Ohm-meter).
     - [ ] l = Length (m).
     - [ ] A = Cross-sectional area (m^2).
-- [ ] **[Ohm's Law (Wet van Ohm)](zettelkasten/Voltage,%20Current,%20and%20Ohm's%20Law.md):**
-- [ ] **[Kirchhoff's Laws (Wetten van Kirchhoff)](zettelkasten/Circuits%20and%20Kirchhoff's%20Laws.md):**
+- [ ] **[Ohm's Law (Wet van Ohm)](docs/01_electricity/07_Voltage,_Current,_and_Ohm's_Law.md):**
+- [ ] **[Kirchhoff's Laws (Wetten van Kirchhoff)](docs/01_electricity/13_Circuits_and_Kirchhoff's_Laws.md):**
   - [ ] **First Law (Current/Stroom):** Sum of currents entering a junction = Sum of currents leaving.
   - [ ] **Second Law (Voltage/Spanning):** Sum of EMFs = Sum of potential drops in a closed loop.
-- [ ] **[Power (Vermogen) & Energy](zettelkasten/Power%20and%20Energy.md):**
+- [ ] **[Power (Vermogen) & Energy](docs/01_electricity/08_Power_and_Energy.md):**
   - [ ] Power Formula: P = U * I  (or P = I^2 * R, or P = U^2 / R). Unit: Watt.
   - [ ] Energy Formula: W = P * t. Unit: Joule or Watt-hour.
   - [ ] Battery Capacity: measured in Ampere-hours (Ah).
-- [ ] **[Measurements](zettelkasten/Measurements.md):** Voltage (Parallel), Current (Series), Resistance.
+- [ ] **[Measurements](docs/01_electricity/12_Measurements.md):** Voltage (Parallel), Current (Series), Resistance.
 
-### [1.2 Sources (Bronnen)](zettelkasten/Voltage%20and%20Current%20Sources.md)
+### [1.2 Sources (Bronnen)](docs/01_electricity/18_Voltage_and_Current_Sources.md)
 - [ ] **Voltage Source Properties:**
   - [ ] **EMF (Bronspanning/EMK):** Voltage generated by the source.
   - [ ] **Internal Resistance (Ri):** Resistance inside the battery/source.
@@ -84,7 +91,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Series:** Voltages add up, Internal resistance adds up.
   - [ ] **Parallel:** Capacity adds up, Voltage remains the same (identical cells only).
 
-### [1.3 Electric Field (Elektrisch veld)](zettelkasten/Electric,%20Magnetic,%20and%20Electromagnetic%20Fields.md)
+### [1.3 Electric Field (Elektrisch veld)](docs/01_electricity/19_Electric,_Magnetic,_and_Electromagnetic_Fields.md)
 - [ ] **Concept:** Force field between charged plates.
 - [ ] **Field Strength (E):** E = U / d (Voltage / distance). Unit: V/m.
 - [ ] **Formulas:**
@@ -92,18 +99,18 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Force on Charge:** F = Q * E.
 - [ ] **Shielding (Afscherming):** Faraday Cage (conductive enclosure blocks static electric fields).
 
-### [1.4 Magnetic Field (Magnetisch veld)](zettelkasten/Electric,%20Magnetic,%20and%20Electromagnetic%20Fields.md)
+### [1.4 Magnetic Field (Magnetisch veld)](docs/01_electricity/19_Electric,_Magnetic,_and_Electromagnetic_Fields.md)
 - [ ] **Concept:** Field around current-carrying wires and coils.
   - [ ] Right-hand grip rule.
 - [ ] **Shielding:** Using high-permeability materials (e.g., Mu-metal) to divert magnetic flux. Low resistance (Copper) does NOT shield magnetic fields well.
 
-### [1.5 Electromagnetic Field (Elektromagnetisch veld)](zettelkasten/Electric,%20Magnetic,%20and%20Electromagnetic%20Fields.md)
+### [1.5 Electromagnetic Field (Elektromagnetisch veld)](docs/01_electricity/19_Electric,_Magnetic,_and_Electromagnetic_Fields.md)
 - [ ] **Radio Waves:** Combination of Electric (E) and Magnetic (H) fields at right angles.
 - [ ] **Velocity:** c is approx 300,000,000 m/s (in vacuum).
 - [ ] **Relationship:** v = f * lambda (Velocity = Frequency * Wavelength).
 - [ ] **Polarisation (Polarisatie):** Defined by the orientation of the **E-field** (Horizontal, Vertical, Circular).
 
-### [1.6 Sinusoidal Signals (Sinusvormige signalen)](zettelkasten/AC%20Signals%20&%20Noise.md)
+### [1.6 Sinusoidal Signals (Sinusvormige signalen)](docs/01_electricity/26_AC_Signals_&_Noise.md)
 - [ ] **Parameters:**
   - [ ] **Amplitude (U_max):** Peak voltage.
   - [ ] **Effective/RMS Value (U_eff):** DC equivalent heating effect.
@@ -114,7 +121,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Angular Frequency (omega):** omega = 2 * pi * f (radians/second).
   - [ ] **Instantaneous Voltage:** u(t) = U_max * sin(omega * t + phi).
 
-### [1.7 Non-sinusoidal Signals (Niet-sinusvormige signalen)](zettelkasten/AC%20Signals%20&%20Noise.md)
+### [1.7 Non-sinusoidal Signals (Niet-sinusvormige signalen)](docs/01_electricity/26_AC_Signals_&_Noise.md)
 - [ ] **Square Wave (Blokgolf):** Fundamental frequency + odd harmonics (3f, 5f, 7f...). Amplitudes decrease as 1/n.
 - [ ] **Triangle Wave (Driehoeksgolf):** Fundamental + odd harmonics. Amplitudes decrease as 1/n^2.
 - [ ] **Sawtooth (Zaagtand):** Contains both even and odd harmonics.
@@ -127,7 +134,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
   - [ ] **Man-made (QRM):** Machinery, Electronics.
   - [ ] Noise floor increases with bandwidth and temperature.
 
-### [1.8 Modulated Signals (Gemoduleerde signalen)](zettelkasten/Modulation%20&%20Digital%20Signals.md)
+### [1.8 Modulated Signals (Gemoduleerde signalen)](docs/01_electricity/31_Modulation_&_Digital_Signals.md)
 - [ ] **Analogue:**
   - [ ] **CW (Morse):** Keying the carrier on/off. Narrow bandwidth (~50-150 Hz).
   - [ ] **AM (Amplitude Modulation):**
@@ -165,14 +172,14 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
     - [ ] **ASCII (CCITT-5):** 7 or 8-bit code.
     - [ ] **Parity:** Error check bit.
 
-### [1.9 Power and Energy (Vermogen en energie)](zettelkasten/Power%20and%20Energy.md)
+### [1.9 Power and Energy (Vermogen en energie)](docs/01_electricity/08_Power_and_Energy.md)
 - [ ] **Decibels (dB):** Logarithmic ratio.
   - [ ] Power Ratio: 10 * log(P2 / P1)
   - [ ] Voltage Ratio: 20 * log(U2 / U1)
 - [ ] **Impedance Matching (Aanpassing):** Max power transfer occurs when Source Impedance = Load Impedance.
 - [ ] **PEP (Peak Envelope Power):** Average power of one RF cycle at the crest of the modulation envelope.
 
-### [1.10 Digitization (Digitalisering)](zettelkasten/Digital%20Signal%20Processing%20(DSP).md)
+### [1.10 Digitization (Digitalisering)](docs/01_electricity/38_Digital_Signal_Processing_DSP.md)
 - [ ] **ADC / DAC:** Analogue to Digital / Digital to Analogue.
 - [ ] **Sampling:** Taking snapshots of voltage.
 - [ ] **Nyquist Theorem:** Sample rate must be at least **2x** the highest frequency component (fs > 2 * f_max) to avoid aliasing.
@@ -183,42 +190,42 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 2: Components (Componenten)](docs/02_components/)
 
-### [2.1 Resistor (Weerstand)](zettelkasten/Resistors.md)
+### [2.1 Resistor (Weerstand)](docs/02_components/01_Resistors.md)
 - [ ] **Function:** Limits current, dissipates heat.
 - [ ] **Unit:** Ohm.
 - [ ] **Types:** Fixed, Variable, Thermistors (NTC/PTC).
 - [ ] **Color Code:** 4-band code for value and tolerance.
 - [ ] **E-Series:** Standard values (E12, E24).
 
-### [2.2 Capacitor (Condensator)](zettelkasten/Capacitors.md)
+### [2.2 Capacitor (Condensator)](docs/02_components/05_Capacitors.md)
 - [ ] **Function:** Stores charge in electric field.
 - [ ] **Formula:** C depends on Area, Distance, Dielectric.
 - [ ] **Reactance (Xc):** 1 / (2pi f C).
 - [ ] **Types:** Ceramic, Electrolytic (Polarized), Variable.
 
-### [2.3 Inductor / Coil (Spoel)](zettelkasten/Inductors%20(Spoelen).md)
+### [2.3 Inductor / Coil (Spoel)](docs/02_components/09_Inductors_Spoelen.md)
 - [ ] **Function:** Stores energy in magnetic field.
 - [ ] **Self-Induction:** Back EMF opposes current change (Lenz).
 - [ ] **Reactance (Xl):** 2pi f L.
 - [ ] **Factors:** Turns squared (N^2), Core material (mu).
 
-### [2.4 Transformers (Transformatoren)](zettelkasten/Transformers.md)
+### [2.4 Transformers (Transformatoren)](docs/02_components/10_Transformers.md)
 - [ ] **Ratio:** Voltage proportional to turns; Impedance proportional to turns squared.
 - [ ] **Cores:** Laminated iron (LF), Ferrite/Toroid (HF).
 - [ ] **Losses:** Eddy currents, Hysteresis, Copper loss.
 
-### [2.5 Semiconductors (Halfgeleiders)](zettelkasten/Semiconductors.md)
+### [2.5 Semiconductors (Halfgeleiders)](docs/02_components/15_Semiconductors.md)
 - [ ] **Diodes:** Rectifier, Zener, Varicap, LED.
 - [ ] **Transistors:**
   - [ ] **BJT:** NPN/PNP. Current controlled.
   - [ ] **FET:** JFET/MOSFET. Voltage controlled. High Input Z.
 - [ ] **Configurations:** Common Emitter/Source (Gain), Follower (Buffer).
 
-### [2.6 Active Components (Actieve Componenten)](zettelkasten/Tubes%20&%20Op-Amps.md)
+### [2.6 Active Components (Actieve Componenten)](docs/02_components/22_Tubes_&_Op-Amps.md)
 - [ ] **Vacuum Tubes:** Triode, Tetrode, Pentode.
 - [ ] **Op-Amps:** High gain, differential input. Inverting/Non-inverting modes.
 
-### [2.7 Digital & Crystals](zettelkasten/Digital%20Components%20&%20Crystals.md)
+### [2.7 Digital & Crystals](docs/02_components/25_Digital_Components_&_Crystals.md)
 - [ ] **Logic Gates:** AND, OR, NOT, NAND, NOR, XOR.
 - [ ] **Flip-flops:** Memory elements.
 - [ ] **Crystals:** Piezoelectric effect. High stability (TCXO, OCXO).
@@ -334,22 +341,22 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **RC and RL:** Tau = RC or L/R.
 - [ ] **Charge/Discharge:** 63% at 1 Tau.
 
-### [3.3 Filters](zettelkasten/Filters%20&%20Resonance.md)
+### [3.3 Filters](docs/03_circuits/03_Filters_&_Resonance.md)
 - [ ] **Types:** LPF, HPF, BPF, Notch.
 - [ ] **LC Circuits:** Series (Acceptor) vs Parallel (Rejector).
 - [ ] **Selectivity:** Q-factor, Crystal/Mechanical filters.
 
-### [3.4 Power Supply (Voeding)](zettelkasten/Power%20Supply.md)
+### [3.4 Power Supply (Voeding)](docs/03_circuits/09_Power_Supply.md)
 - [ ] **Rectification:** Half-wave, Full-wave, Bridge.
 - [ ] **Smoothing:** Reservoir capacitor.
 - [ ] **Stabilisation:** Zener, Linear regulator, SMPS (Switch mode).
 
-### [3.5 Amplifiers (Versterkers)](zettelkasten/Amplifiers.md)
+### [3.5 Amplifiers (Versterkers)](docs/03_circuits/14_Amplifiers.md)
 - [ ] **Classes:** A, B, AB, C. Efficiency vs Linearity.
 - [ ] **Feedback:** Negative (Stability) vs Positive (Oscillation).
 - [ ] **Distortion:** Harmonic, Intermodulation.
 
-### [3.6 Detectors & Oscillators](zettelkasten/Detectors,%20Oscillators%20&%20Mixers.md)
+### [3.6 Detectors & Oscillators](docs/03_circuits/20_Detectors,_Oscillators_&_Mixers.md)
 - [ ] **Oscillators:** Hartley, Colpitts, Crystal, VCO.
 - [ ] **Detectors:** Envelope (AM), Product (SSB/CW), Discriminator (FM).
 - [ ] **Mixers:** Sum and Difference frequencies. Image frequency.
@@ -358,23 +365,23 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 4: Receivers (Ontvangers)](docs/04_receivers/)
 
-### [4.1 Receiver Types (Ontvangertypen)](zettelkasten/Receiver%20Types.md)
+### [4.1 Receiver Types (Ontvangertypen)](docs/04_receivers/01_Receiver_Types.md)
 - [ ] **TRF (Rechtuit):** Simple, poor selectivity.
 - [ ] **Regenerative:** High gain/selectivity, unstable.
 - [ ] **Direct Conversion:** Simple for SSB/CW, audio issues.
 
-### [4.2 Superheterodyne](zettelkasten/Superheterodyne%20Receiver.md)
+### [4.2 Superheterodyne](docs/04_receivers/02_Superheterodyne_Receiver.md)
 - [ ] **Mixing:** RF + LO = IF.
 - [ ] **Image Frequency:** Major disadvantage.
 - [ ] **Double Conversion:** High 1st IF (Image), Low 2nd IF (Selectivity).
 - [ ] **AGC:** Automatic Gain Control.
 
-### [4.3 Detectors (Detectoren)](zettelkasten/Detectors%20(Demodulators).md)
+### [4.3 Detectors (Detectoren)](docs/04_receivers/06_Detectors_Demodulators.md)
 - [ ] **AM:** Envelope detector.
 - [ ] **SSB/CW:** Product detector (needs BFO).
 - [ ] **FM:** Discriminator, Ratio Detector, PLL.
 
-### [4.4 Performance (Prestaties)](zettelkasten/Receiver%20Performance.md)
+### [4.4 Performance (Prestaties)](docs/04_receivers/07_Receiver_Performance.md)
 - [ ] **Sensitivity:** SINAD, Noise Figure.
 - [ ] **Selectivity:** Bandwidth, Shape Factor.
 - [ ] **Dynamic Range:** Blocking, Intermodulation (IP3).
@@ -383,13 +390,13 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 5: Transmitters (Zenders)](docs/05_transmitters/)
 
-### [5.1 Architecture (Opbouw)](zettelkasten/Transmitter%20Architecture.md)
+### [5.1 Architecture (Opbouw)](docs/05_transmitters/01_Transmitter_Architecture.md)
 - [ ] **CW:** Oscillator -> Buffer -> PA.
 - [ ] **FM:** VCO (Direct) or Phase Mod (Indirect). Multipliers.
 - [ ] **SSB:** Audio -> Bal Mod -> Filter -> Mixer -> PA.
 - [ ] **Controls:** VOX, ALC, Speech Processing.
 
-### [5.2 Power Amplifiers (Eindtrappen)](zettelkasten/Power%20Amplifiers%20and%20Matching.md)
+### [5.2 Power Amplifiers (Eindtrappen)](docs/05_transmitters/02_Power_Amplifiers_and_Matching.md)
 - [ ] **Linearity:** Required for SSB/AM (Class A/AB).
 - [ ] **Efficiency:** Class C for FM/CW.
 - [ ] **Filtering:** LPF to suppress harmonics.
@@ -398,24 +405,24 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 6: Antennas and Transmission Lines (Antennes en transmissielijnen)](docs/06_antennas/)
 
-### [6.1 Antenna Types (Antennetypen)](zettelkasten/Antenna%20Types.md)
+### [6.1 Antenna Types (Antennetypen)](docs/06_antennas/01_Antenna_Types.md)
 - [ ] **Dipole:** Half-wave, center-fed.
 - [ ] **Vertical:** Ground plane, radials.
 - [ ] **Directional:** Yagi-Uda (Beam), Quad.
 - [ ] **Other:** End-fed, Loop, Dummy Load.
 
-### [6.2 Characteristics (Eigenschappen)](zettelkasten/Antenna%20Characteristics.md)
+### [6.2 Characteristics (Eigenschappen)](docs/06_antennas/09_Antenna_Characteristics.md)
 - [ ] **Gain:** dBi vs dBd.
 - [ ] **Power:** ERP vs EIRP.
 - [ ] **Radiation Resistance:** Efficiency factor.
 - [ ] **Pattern:** Front-to-Back ratio, Beamwidth.
 
-### [6.3 Transmission Lines (Transmissielijnen)](zettelkasten/Transmission%20Lines.md)
+### [6.3 Transmission Lines (Transmissielijnen)](docs/06_antennas/10_Transmission_Lines.md)
 - [ ] **Types:** Coax (Asymmetric) vs Open Wire (Symmetric).
 - [ ] **Velocity Factor:** Signal speed in cable.
 - [ ] **Transformation:** Quarter-wave lines invert impedance.
 
-### [6.4 Matching (Aanpassing)](zettelkasten/Matching%20and%20SWR.md)
+### [6.4 Matching (Aanpassing)](docs/06_antennas/15_Matching_and_SWR.md)
 - [ ] **SWR:** Standing Wave Ratio.
 - [ ] **Balun:** Balanced to Unbalanced (Choke vs Transformer).
 - [ ] **ATU:** Antenna Tuning Unit (matches TX to line).
@@ -423,18 +430,18 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 7: Propagation (Propagatie)](docs/07_propagation/)
 
-### [7.1 Basics](zettelkasten/Propagation%20Basics.md)
+### [7.1 Basics](docs/07_propagation/01_Propagation_Basics.md)
 - [ ] **EM Waves:** E and H fields.
 - [ ] **Polarization:** Horizontal/Vertical.
 - [ ] **Inverse Square Law:** Power loss with distance.
 
-### [7.2 Modes](zettelkasten/Propagation%20Modes.md)
+### [7.2 Modes](docs/07_propagation/02_Propagation_Modes.md)
 - [ ] **Ground Wave:** LF/MF, follows earth.
 - [ ] **Sky Wave:** HF, ionospheric refraction.
 - [ ] **Line of Sight:** VHF/UHF. Radio Horizon.
 - [ ] **Tropospheric:** Ducting, Scatter.
 
-### [7.3 Ionosphere](zettelkasten/The%20Ionosphere.md)
+### [7.3 Ionosphere](docs/07_propagation/11_The_Ionosphere.md)
 - [ ] **Layers:** D (Absorbs), E, F1/F2 (Reflect).
 - [ ] **Solar Cycle:** Sunspots, SFI.
 - [ ] **Frequencies:** MUF, LUF, Critical Frequency.
@@ -448,16 +455,16 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 8: Measurements (Metingen)](docs/08_measurements/)
 
-### [8.1 Multimeters](zettelkasten/Multimeters%20(Universeelmeters).md)
+### [8.1 Multimeters](docs/08_measurements/01_Multimeters_Universeelmeters.md)
 - [ ] **Analogue:** Moving coil, Sensitivity (kOhm/V), Loading effect.
 - [ ] **Digital:** High input impedance, ADC.
 - [ ] **Technique:** Voltage (Parallel), Current (Series), Resistance (Isolated).
 
-### [8.2 Visualization](zettelkasten/Signal%20Visualization.md)
+### [8.2 Visualization](docs/08_measurements/02_Signal_Visualization.md)
 - [ ] **Oscilloscope:** Time domain (Voltage vs Time). Amplitude, Period.
 - [ ] **Spectrum Analyzer:** Frequency domain (Amplitude vs Frequency). Harmonics, Bandwidth.
 
-### [8.3 RF Measurements](zettelkasten/RF%20Measurements.md)
+### [8.3 RF Measurements](docs/08_measurements/03_RF_Measurements.md)
 - [ ] **SWR Meter:** Forward/Reflected power. Calibration.
 - [ ] **Frequency Counter:** Gate time, Accuracy.
 - [ ] **Dip Meter:** Measuring resonant frequency of unpowered circuits.
@@ -466,18 +473,18 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 9: Interference and Immunity (Storing en immuniteit)](docs/09_interference/)
 
-### [9.1 Types of Interference](zettelkasten/Types%20of%20Interference.md)
+### [9.1 Types of Interference](docs/09_interference/01_Types_of_Interference.md)
 - [ ] **Receiver Overload:** Blocking (Desensitization).
 - [ ] **Mixing Products:** Intermodulation ($2f_1 - f_2$), Cross-modulation.
 - [ ] **Audio:** LFD (Audio Rectification). "Donald Duck" SSB, Clicks.
 - [ ] **Transmitter:** Chirp, Key Clicks, Splatter.
 
-### [9.2 Causes](zettelkasten/Causes%20of%20Interference.md)
+### [9.2 Causes](docs/09_interference/06_Causes_of_Interference.md)
 - [ ] **Emissions:** Harmonics, Spurious, Phase Noise.
 - [ ] **Immunity:** Poor shielding, Pin 1 problem.
 - [ ] **Paths:** Radiated vs Conducted (Mains, Coax shield).
 
-### [9.3 Mitigation](zettelkasten/Mitigation%20(Ontstoring).md)
+### [9.3 Mitigation](docs/09_interference/07_Mitigation_Ontstoring.md)
 - [ ] **Filtering:** LPF (TX), HPF (TV/Radio), Mains Filter.
 - [ ] **Ferrites:** Common Mode Chokes (clamp-on/ring).
 - [ ] **Decoupling:** Capacitors on audio lines.
@@ -485,17 +492,17 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 10: Safety (Veiligheid)](docs/10_safety/)
 
-### [10.1 Electrical Safety](zettelkasten/Electrical%20Safety.md)
+### [10.1 Electrical Safety](docs/10_safety/01_Electrical_Safety.md)
 - [ ] **Body Effects:** 10mA (Let-go), 30mA (Respiratory), 75mA (Fibrillation).
 - [ ] **Mains:** Live (Brown), Neutral (Blue), Earth (Green/Yellow).
 - [ ] **Protection:** Fuse (Fire), RCD (Shock, 30mA).
 
-### [10.2 RF Safety](zettelkasten/RF%20Safety.md)
+### [10.2 RF Safety](docs/10_safety/02_RF_Safety.md)
 - [ ] **Risks:** Heating (Eyes/Testes), RF Burns.
 - [ ] **SAR:** 0.08 W/kg (Public), 0.4 W/kg (Occupational).
 - [ ] **Distance:** Calculation based on EIRP.
 
-### [10.3 Equipment & Other](zettelkasten/Equipment%20Safety%20Classes.md)
+### [10.3 Equipment & Other](docs/10_safety/04_Equipment_Safety_Classes.md)
 - [ ] **Classes:** Class I (Earthed), Class II (Double Insulated), Class III (SELV).
 - [ ] **Lightning:** Disconnect antennas.
 - [ ] **Chemical:** Lithium batteries, Beryllium Oxide (Toxic dust).
@@ -505,7 +512,7 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 - [ ] **Lightning:** Disconnect antennas during storms.
 
 
-## [Eindterm 11: Rules & Procedures (Gebruiksregels)](zettelkasten/Rules%20&%20Procedures.md)
+## [Eindterm 11: Rules & Procedures (Gebruiksregels)](docs/11_procedures.md)
 - [ ] **Phonetic Alphabet:** Spelling callsigns (Alfa, Bravo...).
 - [ ] **Q-Codes:** QTH (Location), QSL (Confirm), QRM (Interference), etc.
 - [ ] **Abbreviations:** CQ, 73, DX, DE.
@@ -515,25 +522,25 @@ This repository serves as a preparation checklist for the Dutch HAM radio exam (
 
 ## [Eindterm 12: Regulations (Regelgeving)](docs/12_regulations/)
 
-### [12.1 Organisations (Organisaties)](zettelkasten/International%20Organisations.md)
+### [12.1 Organisations (Organisaties)](docs/12_regulations/01_International_Organisations.md)
 - [ ] **ITU:** Radio Regulations, Regions (NL = Region 1).
 - [ ] **CEPT:** Harmonisation (T/R 61-01 Guest op).
 - [ ] **IARU:** Amateur interests, Band plans.
 - [ ] **HAREC:** Exam standard.
 
-### [12.2 Licensing (Machtiging)](zettelkasten/Licensing%20in%20the%20Netherlands.md)
+### [12.2 Licensing (Machtiging)](docs/12_regulations/02_Licensing_in_the_Netherlands.md)
 - [ ] **Registration:** RDI. Classes N and F.
 - [ ] **Call Signs:** Prefix (PA-PH, PI, PD) + Suffix.
 - [ ] **Identification:** Every 10 mins.
 
-### [12.3 Rules (Voorschriften)](zettelkasten/Rules%20&%20Regulations.md)
+### [12.3 Rules (Voorschriften)](docs/12_regulations/03_Rules_&_Regulations.md)
 - [ ] **Definition:** Non-commercial, self-training.
 - [ ] **Status:** Primary vs Secondary (must not cause interference).
 - [ ] **Emission Classes:** A1A (CW), J3E (SSB), F3E (FM).
 - [ ] **Laws:** Telecommunicatiewet.
 
 
-## [Eindterm 13: Conduct (Gedragsregels)](zettelkasten/Eindterm%2013%20Conduct%20(Gedragsregels).md)
+## [Eindterm 13: Conduct (Gedragsregels)](docs/13_conduct.md)
 - [ ] **Social:** Be polite, helpful, tolerant.
 - [ ] **Operating:** Listen before transmitting. Use minimum power.
 - [ ] **Emergency:** DARES. Know when to help and when to stay clear.

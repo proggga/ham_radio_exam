@@ -15,7 +15,7 @@ Measured as current through a known series resistor.
     *   *Example:* On 10V range with $20 k\Omega/V$ sensitivity, $R_{in} = 200 k\Omega$.
 *   **Loading Effect (Belastingseffect):**
     *   Ideally, a voltmeter has infinite impedance. Real meters draw current.
-    *   If $R_{in}$ is not $\gg$ Circuit Impedance, the meter loads the circuit, reading **lower** than the actual voltage.
+    *   If $R_{in}$ is not $\gg$ Circuit [Impedance](../01_electricity/21_Impedance_Impedantie.md), the meter loads the circuit, reading **lower** than the actual voltage.
     *   *Exam Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
 
 ### Current Measurement (DC)
@@ -25,7 +25,7 @@ Measured directly or with a shunt.
     *   Most current flows through the shunt (low resistance), small fraction through the meter.
 
 ### AC Measurement
-Uses a rectifier (Diode).
+Uses a rectifier ([Diode](../02_components/15_Semiconductors.md)).
 *   **Average vs RMS:** Moving coil meters respond to the **Average** value of the rectified current.
 *   **Calibration:** The scale is calibrated to show **RMS** (Effectieve waarde) assuming a **pure Sine wave**.
     *   $U_{rms} \approx 1.11 \times U_{avg}$.
@@ -40,7 +40,7 @@ Uses an internal battery.
 Uses an Analog-to-Digital Converter (ADC).
 *   **Input Impedance:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
 *   **Power:** Requires a battery for all measurements (unlike analogue which only needs it for Ohms).
-*   **Features:** Auto-ranging, Diode test, Transistor $h_{FE}$, Capacitance.
+*   **Features:** Auto-ranging, [Diode](../02_components/17_Diodes.md) test, [Transistor](../02_components/18_Transistors_BJT_&_FET.md) $h_{FE}$, Capacitance.
 
 ---
 [< Back to Section Index](README.md)

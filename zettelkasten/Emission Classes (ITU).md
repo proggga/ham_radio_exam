@@ -9,7 +9,7 @@ modified: 2025-12-29
 
 # Emission Classes (ITU)
 
-ITU codes describe the characteristics of a radio signal. Format: **[[[Modulation & Digital Signals|Modulation]]] [Signal Nature] [Information]**.
+ITU codes describe the characteristics of a radio signal. Format: **[[Modulation & Digital Signals|Modulation]] [Signal Nature] [Information]**.
 
 ## 1. First Symbol: Modulation Type
 *   **N**: Unmodulated carrier.

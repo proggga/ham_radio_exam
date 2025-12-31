@@ -3,14 +3,14 @@
 When a resistor is combined with a capacitor or inductor, voltage and current do not change instantly. The speed of change is determined by the **Time Constant** (Tau, $\tau$).
 
 ## 1. RC Circuit (Resistor + Capacitor)
-Charging or discharging a Capacitor through a Resistor.
+Charging or discharging a [Capacitor](../02_components/05_Capacitors.md) through a [Resistor](../02_components/01_Resistors.md).
 *   **Formula:**
     $$\tau = R \times C$$
 *   **Units:** Seconds ($s$) = Ohms ($\Omega$) $\times$ Farads ($F$).
 
 ### Process
 *   **Charging:**
-    *   At $t=0$, Capacitor acts as a short circuit (Current max, Voltage 0).
+    *   At $t=0$, [Capacitor](../02_components/05_Capacitors.md) acts as a short circuit (Current max, Voltage 0).
     *   After **$1 \tau$**: Voltage reaches **63%** of source voltage.
     *   After **$5 \tau$**: Capacitor is considered fully charged (~99%).
 *   **Discharging:**
@@ -18,14 +18,14 @@ Charging or discharging a Capacitor through a Resistor.
     *   After **$5 \tau$**: Capacitor is considered empty.
 
 ## 2. RL Circuit (Resistor + Inductor)
-Building up or collapsing current through an Inductor.
+Building up or collapsing current through an [Inductor](../02_components/09_Inductors_Spoelen.md).
 *   **Formula:**
     $$\tau = \frac{L}{R}$$
 *   **Units:** Seconds ($s$) = Henrys ($H$) / Ohms ($\Omega$).
 
 ### Process
 *   **Current Buildup:**
-    *   At $t=0$, Inductor opposes change (Current 0).
+    *   At $t=0$, [Inductor](../02_components/09_Inductors_Spoelen.md) opposes change (Current 0).
     *   After **$1 \tau$**: Current reaches **63%** of maximum ($U/R$).
     *   After **$5 \tau$**: Current is stable (maximum).
 *   **Current Decay:**

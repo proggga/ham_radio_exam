@@ -46,6 +46,13 @@ Vacuum tubes (valves) operate on the principle of **Thermionic Emission** (Ediso
 *   **Function**: Repels secondary emission electrons back to the Anode, eliminating the Tetrode's dip.
 *   **Characteristics**: High gain, very high internal resistance. Standard for RF power amplifiers.
 
+### Beam Power Tube
+A specialized variant of the Tetrode/Pentode designed for high power handling and efficiency.
+*   **Structure**: Uses **Beam-Forming Plates** instead of a suppressor grid (or in addition to special grid alignment).
+*   **Operation**: The beam plates focus the electron stream into concentrated beams towards the anode. The alignment of control and screen grid wires reduces screen grid current.
+*   **Advantage**: Higher efficiency and power output than standard pentodes.
+*   **Examples**: 6L6, 6146, 807 (common in older ham transmitters).
+
 ## Tube Configurations (Basisschakelingen)
 Analogous to [[Transistors (BJT & FET)|Transistor]]/FET circuits.
 *   **Common Cathode (GKS)**:

@@ -18,11 +18,29 @@ Proper setup of an amateur radio station ensures safety, performance, and equipm
     *   *Reason:* Prevents the equipment ground coax shield from becoming the return path if the negative lead disconnects (fire hazard).
 
 ## 2. Grounding & Bonding
-*   **[[Electrical Safety|Safety]] Ground (PE)**: All metal chassis must connect to the mains Earth for electrical safety (shock protection).
-*   **RF Ground**: A low-impedance path to earth for RF currents.
-    *   *Method:* Connect all equipment to a common bus (copper strap) and then to a ground rod.
-    *   *Avoid:* Daisy-chaining grounds (Equipment A -> Equipment B -> Ground). This creates ground loops.
-    *   *Conductor:* Use **Flat Copper Strap** or braid (RF travels on the surface/skin effect). Round wire has high inductance.
+Proper grounding serves two distinct purposes: **Electrical Safety** and **RF Performance**.
+
+### Safety Ground (Protective Earth - PE)
+*   **Purpose**: Protects the operator from electrical shock if a high-voltage wire touches the chassis.
+*   **Connection**: The Green/Yellow wire in the mains cord connects the metal chassis to the building's Earthing system.
+*   **Never disconnect** the safety ground to solve noise problems.
+
+### RF Ground
+*   **Purpose**: Provides a low-impedance return path for RF currents, prevents "hot chassis" (RF burns), and improves antenna efficiency (especially for [[Propagation Basics|HF]] verticals/long wires).
+*   **Conductor**: RF flows on the surface of a conductor (**[[Skin Effect]]**). Use wide **Copper Strap** or flat braid. Round wire has high impedance (inductance) at RF.
+*   **Configuration**:
+    *   **Single Point Ground**: Connect all equipment to a common bus bar behind the station. Connect the bus bar to an external ground rod with a short, wide strap.
+    *   **Avoid Loops**: Do not daisy-chain equipment (A -> B -> C -> Ground).
+*   **Ground Rods**:
+    *   Use 8-ft (2.4m) copper-clad steel rods.
+    *   **Multiple Rods**: Spacing rods apart (e.g., 2x length) reduces resistance better than a single deep rod. Connect them with heavy strap.
+    *   **Soil Treatment**: In poor soil, chemically treating the ground (Rock Salt, Copper Sulfate) or using a "Salt Pipe" can significantly lower resistance.
+
+### Field Expedient Grounding (Military Tips)
+*   **Soil Conductivity**: Moisture and Salinity improve grounding.
+    *   *Tip:* If soil is dry, pour water and **salt** around the ground stake.
+*   **Counterpoise**: In poor soil (Desert, Rock, Permafrost/Snow), a ground stake works poorly. Use a **Counterpoise** (a network of wires laid on or above the ground) to create an artificial ground plane.
+*   **EMP Protection**: Disconnect antennas and ground equipment when not in use to protect against EMP (Electromagnetic Pulse) and Lightning.
 
 ## 3. Computer Interface
 Digital modes ([[Modern Digital Modes|FT8]], RTTY, Packet) require interfacing the radio to a computer.

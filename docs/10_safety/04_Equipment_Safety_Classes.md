@@ -17,7 +17,7 @@
 ## Class III: SELV
 *   **Symbol:** Diamond with "III".
 *   **Protection:** Supply voltage is too low to cause shock (< 60V DC / 30V AC).
-*   **Source:** Batteries or a Safety Transformer (SELV power supply).
+*   **Source:** Batteries or a [Safety](01_Electrical_Safety.md) Transformer (SELV power supply).
 
 ---
 
@@ -29,7 +29,7 @@
 *   **Protection:**
     *   **Disconnect:** Unplug antennas and mains during storms (Best protection).
     *   **Grounding:** Heavy gauge wire to earth electrode outside.
-    *   **Spark Gaps:** Gas discharge tubes across Coax.
+    *   **Spark Gaps:** Gas discharge tubes across [Coax](../06_antennas/10_Transmission_Lines.md).
 
 ## 2. Chemical
 *   **Batteries:** Lithium types can burn/explode if shorted or punctured. Lead-acid releases Hydrogen (explosive) when charging.

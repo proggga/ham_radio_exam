@@ -22,4 +22,4 @@ This map covers the theory and operation of electronic amplifiers.
 
 ## Applications
 *   **[[Superheterodyne Receiver]]** - Uses RF and IF amplifiers.
-*   **[[202301011229-transmitters-architecture]]** - Uses Power Amplifiers (PA).
+*   **[[Transmitter Architecture]]** - Uses Power Amplifiers (PA).

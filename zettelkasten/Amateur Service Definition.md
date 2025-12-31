@@ -27,4 +27,4 @@ Defined in the **[[Emission Classes (ITU)|ITU]] Radio [[Rules & Regulations|Regu
 
 ## Related
 *   [[Station Status]]
-*   [[202301011248-eindterm-10-regulations-voorschriften]]
+*   **[[Rules & Regulations]]**

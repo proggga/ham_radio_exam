@@ -34,5 +34,5 @@ A "cloud" of noise surrounding the carrier caused by oscillator jitter.
 *   **Effect**: Reciprocal Mixing in nearby receivers.
 
 ## Related
-*   [[202301011229-transmitters-architecture]]
+*   [[Transmitter Architecture]]
 *   [[Distortion and Dissipation]]

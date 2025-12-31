@@ -6,18 +6,29 @@
     *   **Frequency Sensitivity:**
         *   **Eyes:** Most sensitive > **1000 MHz** (1 GHz).
         *   **Brain/Head:** Sensitive > **400 MHz**.
-        *   **Whole Body Resonance:** **30 - 300 MHz**. The body absorbs RF most efficiently in this range (height $\approx \lambda/2$).
+        *   **Whole Body [Resonance](../03_circuits/05_Resonance.md):** **30 - 300 MHz**. The body absorbs RF most efficiently in this range (height $\approx \lambda/2$).
 *   **RF Burns:** Direct contact with antennas (high voltage ends) causes deep, slow-healing burns.
 
-## 2. Exposure Limits (ICNIRP)
-Limits are often defined by **SAR** (Specific Absorption Rate) in W/kg.
-*   **Occupational**: 0.4 W/kg.
-*   **General Public**: 0.08 W/kg.
+## 2. Exposure Limits (ICNIRP/FCC)
+Limits are often defined by **SAR** (Specific Absorption Rate) in W/kg or **MPE** (Maximum Permissible Exposure) in mW/cm².
+
+### Environments
+*   **Controlled Environment (Occupational)**: Areas where people are aware of the potential for exposure and can control it (e.g., the operator). Limits are higher (0.4 W/kg).
+*   **Uncontrolled Environment (General Public)**: Areas where people have no knowledge or control of exposure (e.g., neighbors). Limits are stricter (0.08 W/kg).
+
+### Duty Cycle
+The percentage of time the transmitter is actually transmitting.
+*   **Averaging**: Exposure limits are based on time-averaging (e.g., over 6 or 30 minutes).
+*   **Effect**: A lower duty cycle allows for higher peak power while staying within average limits.
+    *   *FM:* 100% (Key down continuously).
+    *   *CW:* $\approx 40\%$.
+    *   *SSB:* $\approx 20\%$ (Voice peaks).
+    *   *Calculation:* $\text{Average Power} = \text{Peak Power} \times \text{Duty Cycle}$.
 
 ### Field Strength (V/m)
 Typical Reference Levels for the public:
-*   **HF (10-30 MHz):** $\approx 28 \text{ V/m}$.
-*   **VHF (144 MHz):** $\approx 28 \text{ V/m}$.
+*   **[HF](../07_propagation/01_Propagation_Basics.md) (10-30 MHz):** $\approx 28 \text{ V/m}$.
+*   **[VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (144 MHz):** $\approx 28 \text{ V/m}$.
 *   **UHF (430 MHz):** $\approx 29 \text{ V/m}$ (Limits rise with frequency above resonance).
 
 ## 3. Safe Distance Calculation

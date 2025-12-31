@@ -26,4 +26,4 @@ This map covers the operational procedures, codes, and regulations for amateur r
 *   **[[Electrical Safety]]** - General safety guidelines.
 
 ## Regulatory
-*   **[[202301011248-eindterm-10-regulations-voorschriften]]** - Legal regulations.
+*   **[[Rules & Regulations]]** - Legal regulations.

@@ -30,6 +30,19 @@ It maps the complex impedance plane onto a circular grid.
 *   Visualizing how impedance changes with frequency or line length.
 *   Designing matching networks (adding series/parallel L or C components moves the point along specific circles).
 
+## Normalization
+The chart is "normalized" to make it universal.
+*   **Formula**: $Z_{normalized} = \frac{Z_{actual}}{Z_0}$
+*   *Example*: If system $Z_0 = 50\Omega$ and load is $100\Omega$, plot $2.0$ on the resistance axis.
+
+## Radially Scaled Parameters
+Scales at the bottom of the chart provide derived data based on the plotted impedance radius (distance from center).
+*   **SWR**: Standing Wave Ratio.
+*   **Return Loss**: Power reflected back in dB.
+*   **Reflection Coefficient**: Voltage ($\Gamma$) or Power ($\Gamma_{pwr}$).
+*   **Transmission Loss**: Attenuation due to mismatch.
+
 ## Related Notes
 *   [[Impedance (Impedantie)]]
 *   [[Standing Wave Ratio (SWR)]]
+*   [[Transmission Lines]]

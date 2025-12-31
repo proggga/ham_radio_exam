@@ -3,11 +3,11 @@
 This map covers resistor types, identification, and standard values.
 
 ## Hardware
-*   **Resistor Types** - Fixed, Variable, and Thermistors.
+*   **[Resistor Types](02_Resistor_Types.md)** - Fixed, Variable, and Thermistors.
 
 ## Identification
-*   **Resistor Color Code** - Decoding 4-band resistors.
-*   **Standard Component Values (E-Series)** - E12 and E24 series.
+*   **[Resistor Color Code](03_Resistor_Color_Code.md)** - Decoding 4-band resistors.
+*   **[Standard Component Values (E-Series)](04_Standard_Component_Values_E-Series.md)** - E12 and E24 series.
 
 ## 4. Resistance of a Wire
 *   **Formula:** $R = \rho \frac{L}{A}$

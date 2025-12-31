@@ -1,10 +1,10 @@
 # Reactive Combinations
 
 ## 1. Capacitors in Series and Parallel
-Capacitors behave **opposite** to Resistors.
+[Capacitors](../02_components/05_Capacitors.md) behave **opposite** to [Resistors](../02_components/01_Resistors.md).
 
 ### Parallel Capacitors
-Connecting Capacitors in parallel increases the total plate area.
+Connecting [Capacitors](../02_components/05_Capacitors.md) in parallel increases the total plate area.
 *   **Formula:** Add the values.
     $$C_{tot} = C_1 + C_2 + C_3 + \dots$$
 *   **Result:** $C_{tot}$ is larger than the largest capacitor.
@@ -16,7 +16,7 @@ Connecting capacitors in series increases the effective distance between plates.
 *   **Result:** $C_{tot}$ is smaller than the smallest capacitor.
 
 ## 2. Inductors in Series and Parallel
-Inductors behave **like** resistors (assuming no magnetic coupling between them).
+[Inductors](../02_components/09_Inductors_Spoelen.md) behave **like** resistors (assuming no magnetic coupling between them).
 
 ### Series Inductors
 *   **Formula:** Add the values.
@@ -30,7 +30,7 @@ Inductors behave **like** resistors (assuming no magnetic coupling between them)
 
 ## Summary Table
 
-| Connection | Resistors ($R$) | Inductors ($L$) | Capacitors ($C$) |
+| Connection | [Resistors](../02_components/01_Resistors.md) ($R$) | [Inductors](../02_components/09_Inductors_Spoelen.md) ($L$) | Capacitors ($C$) |
 | :--- | :--- | :--- | :--- |
 | **Series** | Add | Add | Inverse Sum |
 | **Parallel** | Inverse Sum | Inverse Sum | Add |

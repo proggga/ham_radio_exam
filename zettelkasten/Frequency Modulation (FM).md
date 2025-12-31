@@ -45,5 +45,5 @@ Closely related to FM. Often used in mobile radios.
 *   **Capture Effect**: The receiver locks onto the strongest signal, completely suppressing weaker signals on the same frequency.
 
 ## Related
-*   [[Detectors (Demodulators) 202512292039]]
+*   **[[Detectors (Demodulators)]]**
 *   [[Analogue Modulation & AM]]

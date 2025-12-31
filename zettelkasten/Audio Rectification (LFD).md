@@ -34,5 +34,5 @@ modified: 2025-12-29
 *   **Mains**: Mains filter (L-C) or ferrite ring on the power cord.
 
 ## Related
-*   [[Detectors (Demodulators) 202512292039]]
+*   [[Detectors (Demodulators)]]
 *   [[Capacitor Principles]]

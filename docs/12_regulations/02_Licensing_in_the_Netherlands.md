@@ -1,7 +1,7 @@
 # Licensing in the Netherlands
 
 ## 1. Registration
-In the Netherlands, you do not get a "license" (vergunning) but a **Registration**.
+In the [Netherlands](07_Operating_Rules_Netherlands.md), you do not get a "license" (vergunning) but a **Registration**.
 *   **Agency:** **RDI** (Rijksinspectie Digitale Infrastructuur), formerly Agentschap Telecom (AT). Part of the Ministry of Economic Affairs.
 *   **Requirement:** Passing the exam (administered by CBR) allows you to register.
 *   **Exam Levels:**
@@ -11,13 +11,13 @@ In the Netherlands, you do not get a "license" (vergunning) but a **Registration
 ## 2. Call Signs (Roepletters)
 A unique identifier for the station.
 *   **Structure:** Prefix + Suffix.
-*   **Prefixes:** Assigned to the Netherlands by ITU (PA-PI).
+*   **[Prefixes](../00_basic_skills.md):** Assigned to the Netherlands by [ITU](05_Emission_Classes_ITU.md) (PA-PI).
     *   **PA to PH:** Full License (F).
     *   **PD:** Novice License (N).
     *   **PI:** Special use (Repeaters, Beacons, Clubs, Events).
         *   *Example:* PI4... (Clubs), PI2.../PI3... (Repeaters).
 *   **Suffix:** 1 to 3 letters.
-    *   Prohibited: SOS, Q-codes (e.g., QRA-QUZ). See Procedures.
+    *   Prohibited: SOS, Q-codes (e.g., QRA-QUZ). See [Procedures](../11_procedures.md).
 
 ## 3. Operation
 *   **Identification:** Must transmit call sign at the start, end, and every 10 minutes during a transmission.

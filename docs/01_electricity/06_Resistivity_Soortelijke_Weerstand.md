@@ -7,7 +7,7 @@ The resistance of a conductor depends on four factors:
 3.  **Cross-sectional Area ($A$):** Thicker wire = Lower resistance.
 4.  **Temperature:** 
     *   **Metals (PTC):** Resistance **increases** as temperature rises.
-    *   **Carbon/Semiconductors (NTC):** Resistance **decreases** as temperature rises.
+    *   **Carbon/[Semiconductors](../02_components/15_Semiconductors.md) (NTC):** Resistance **decreases** as temperature rises.
 
 ## Specific Resistance Formula
 The resistance $R$ of a wire can be calculated using the specific resistance (resistivity) of the material, denoted by the Greek letter Rho ($\rho$).

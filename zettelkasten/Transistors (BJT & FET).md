@@ -54,7 +54,11 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
     *   Relationship to Resistance: $S \approx \frac{1}{R_{internal}}$.
 *   **MOSFET (Metal-Oxide-[[Semiconductors|Semiconductor]] FET):**
     *   Gate insulated by oxide layer (very high $R_{in}$).
+    *   **Modes of Operation**:
+        *   **Depletion Mode**: Normally ON. Conducting channel exists with $U_{GS} = 0$. Apply voltage to close (deplete) it. Similar to JFET.
+        *   **Enhancement Mode**: Normally OFF. No channel at $U_{GS} = 0$. Apply voltage to create (enhance) a channel. Used in logic gates and power switching.
     *   **Dual-Gate MOSFET:** Two gates. Gate 2 often used for Gain Control ([[Automatic Gain Control (AGC)|AGC]]) or isolating input from output (reduced Miller effect).
+    *   **Handling (ESD Safety)**: The thin oxide layer is easily punctured by Static Electricity (ESD). Always handle with grounded tools/wrist straps and keep leads shorted until soldering.
 
 ### FET Amplification
 *   **Voltage Gain ($A_u$):**

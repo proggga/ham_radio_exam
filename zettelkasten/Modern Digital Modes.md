@@ -15,20 +15,20 @@ Modern amateur radio utilizes digital encoding for both voice and data, offering
 Digital voice modes digitize speech before transmission.
 
 ### 1. DMR (Digital Mobile Radio)
-*   **Standard**: Commercial standard (ETSI) adopted by amateurs.
-*   **TDMA**: Uses Time Division Multiple Access to allow two simultaneous conversations on one 12.5 kHz channel (Time Slot 1 & 2).
-*   **Key Concepts**:
-    *   **Talkgroup (TG)**: A virtual channel identifier (e.g., TG 91 for World-Wide). Users subscribe to a TG to hear traffic.
-    *   **Color Code (CC)**: Similar to CTCSS. Must match the repeater's setting to access it.
-    *   **Code Plug**: The radio's configuration file containing frequencies, repeaters, contacts, and talkgroups.
-    *   **ID**: Uses a numeric DMR ID (not call sign) for routing.
+*   **Technology**: Uses **TDMA** (Time Division Multiple Access) to fit **two simultaneous voice conversations** (Time Slots) into one 12.5 kHz channel.
+*   **Networking**: Worldwide connectivity via internet-linked repeaters.
+*   **Talkgroups**: Virtual channels (ID codes) that route communications to specific groups of users (e.g., "World Wide," "North America," "Local").
+*   **Code Plug**: The configuration file programmed into the radio. Contains:
+    *   Frequencies and Repeater offsets.
+    *   **Talkgroup IDs**.
+    *   **Color Code**: A digital access code (like CTCSS) for the repeater. Must match the repeater's color code to access it.
+    *   User **Radio ID** (Call sign mapping).
 
 ### 2. D-STAR (Digital Smart Technologies for Amateur Radio)
-*   **Standard**: Developed by JARL (Japan).
-*   **FDMA**: Frequency Division Multiple Access.
-*   **Key Concepts**:
-    *   **Call Sign Routing**: The user's call sign is embedded in the data stream.
-    *   **Reflectors**: Internet servers that link multiple repeaters together.
+*   **Technology**: Developed by JARL (Japan). Uses GMSK modulation.
+*   **Features**: Simultaneously transmits Voice and Data (GPS position, Call sign).
+*   **Requirement**: You must program your **Call Sign** into the radio before transmitting.
+*   **Reflectors**: Internet servers that link D-STAR repeaters.
 
 ### 3. System Fusion (C4FM)
 *   **Standard**: Yaesu proprietary implementation of C4FM (4-level FSK).

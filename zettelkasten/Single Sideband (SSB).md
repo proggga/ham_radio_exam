@@ -39,4 +39,4 @@ Requires a receiver with a **Product Detector** ([[Mixers|Mixer]]) and a **BFO**
 
 ## Related
 *   [[Analogue Modulation & AM]]
-*   [[Detectors (Demodulators) 202512292039]]
+*   **[[Detectors (Demodulators)]]**

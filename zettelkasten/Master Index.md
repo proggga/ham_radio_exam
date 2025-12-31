@@ -13,9 +13,10 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 0. Basic Skills
 *   [[Candidate Basic Skills]] (Math, Units, Prefixes)
+*   [[Soldering & Connections]] (Types, Cold joints)
 
 ## 1. Electricity & Theory
-*   **Atomic Theory**
+*   **[[Atomic Theory & Conductivity|Atomic Theory]]**
     *   [[Atomic Structure]]
     *   [[Electrical Charge (Coulomb)|Electrical Charge]]
     *   [[Ions (Ionisation)|Ions]]
@@ -30,18 +31,24 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[AC Signals & Noise|AC Signals]] (Sine, Phase, Period)
 *   [[Modulation & Digital Signals|Modulation]] (AM, FM, SSB, Digital)
 *   [[Digital Signal Processing (DSP)|DSP]] (Sampling, ADC/DAC)
+*   [[Skin Effect]]
 
 ## 2. Components
 *   [[Resistors]] (Types, Color Codes)
 *   [[Capacitors]] (Farad, Types)
 *   [[Inductors (Spoelen)|Inductors]] (Henry, Coils)
 *   [[Transformers]] (Turns Ratio, Matching)
-*   **Semiconductors**
+*   **[[Semiconductors]]**
     *   [[Semiconductor Physics|Physics & PN Junction]]
     *   [[Diodes]]
+        *   [[Zener Diode]]
+        *   [[LED (Light Emitting Diode)]]
+        *   [[Varicap (Capaciteitsdiode)]]
     *   [[Transistors (BJT & FET)|Transistors (BJT/FET)]]
+    *   [[Optoelectronic Devices]]
 *   [[Tubes & Op-Amps|Active Components]] (Tubes, Op-Amps)
 *   [[Digital Components & Crystals|Digital & Crystals]] (Logic Gates, Oscillators)
+    *   [[555 Timer]]
 
 ## 3. Circuits
 *   [[Reactive Combinations]] (L/C Series/Parallel)
@@ -55,8 +62,10 @@ This index provides a comprehensive list of all study topics organized by catego
 ## 4. Receivers
 *   [[Receiver Types|Types]] (TRF, Direct Conversion)
 *   [[Superheterodyne Receiver|Superheterodyne]] (Block Diagram, Image Freq)
+*   [[Software Defined Radio (SDR)]] (Direct Sampling, Waterfall)
 *   [[Detectors (Demodulators)|Detectors]] (AM, FM, Product)
 *   [[Receiver Performance|Performance]] (Sensitivity, Selectivity)
+*   [[S-Meter]]
 *   [[Station Accessories]] (Preamps, Transverters)
 
 ## 5. Transmitters
@@ -67,14 +76,22 @@ This index provides a comprehensive list of all study topics organized by catego
 ## 6. Antennas
 *   [[Antenna Types|Types]] (Dipole, Yagi, Vertical)
 *   [[Antenna Characteristics|Characteristics]] (Gain, Pattern, ERP)
+*   [[Vertical Antennas]] (Ground Plane, 5/8 Wave)
 *   [[Transmission Lines]] (Coax, Velocity Factor)
 *   [[Matching and SWR|Matching]] (SWR, Baluns)
 *   [[Field Expedient Antennas]] (Emergency/Military types)
+*   [[Field Repair Techniques]] (Whips, Wire, Guys)
+*   [[Mobile, Portable & Marine Antennas]] (Vehicle, Boat, Compact)
+*   [[Hidden and Limited-Space Antennas]] (Attic, Flagpole, Compact)
+*   [[Microwave Waveguides and Antennas]] (Waveguides, Horns, Dishes)
+*   [[Coaxial Cable & Connectors]] (Types, Loss, PL-259/N)
 
 ## 7. Propagation
 *   [[Propagation Basics|Basics]] (Polarization, Inverse Square)
+*   [[Doppler Shift]]
 *   [[Propagation Modes|Modes]] (Ground, Sky, Line of Sight)
 *   [[Near Vertical Incidence Skywave (NVIS)|NVIS]] (Short range skywave)
+*   [[Special Propagation Modes]] (Sporadic E, Meteor Scatter, Aurora)
 *   [[The Ionosphere|Ionosphere]] (Layers, MUF, Solar Cycle)
 *   **Amateur Radio Bands**
     *   [[160m Band (Top Band)|160m Band]]
@@ -85,6 +102,7 @@ This index provides a comprehensive list of all study topics organized by catego
     *   [[10m Band]]
     *   [[VHFUHF Bands (6m, 2m, 70cm)|VHF/UHF Bands]]
     *   [[Solar Cycle & Band Selection|Solar Cycle Strategy]]
+    *   [[Solar Indices & Space Weather]] (SFI, K-index, A-index)
 
 ## 8. Measurements
 *   [[Multimeters (Universeelmeters)|Multimeters]] (V, I, R)
@@ -95,6 +113,7 @@ This index provides a comprehensive list of all study topics organized by catego
 ## 9. Interference (EMC)
 *   [[Types of Interference|Types]] (Blocking, Intermod, Splatter)
 *   [[Causes of Interference|Causes]] (Harmonics, Pin 1)
+*   [[Audio Rectification (LFD)]] (Inpraten, Detection)
 *   [[Mitigation (Ontstoring)|Mitigation]] (Filters, Ferrites, Grounding)
 *   [[Electronic Warfare (Jamming)]] (Jamming types, Protection)
 
@@ -106,10 +125,16 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 11. Procedures
 *   [[Rules & Procedures|Operating Procedures]] (Q-Codes, Phonetics, RST)
+*   [[Repeater Operation]] (Offsets, CTCSS, Protocol)
 *   [[Common Transceiver Controls]] (Mic Gain, Squelch, RIT)
+*   [[Common Troubleshooting]] (Audio, Hum, SWR)
 *   [[Station Setup Guidelines]] (Cabling, Grounding)
 *   [[Satellite Operation]] (LEO, Doppler)
+*   [[Earth-Moon-Earth (EME)]] (Moonbounce)
+*   [[Image Modes (SSTV & ATV)]] (Slow Scan, Fast Scan)
 *   [[Modern Digital Modes]] (DMR, FT8, D-STAR)
+    *   [[APRS (Automatic Packet Reporting System)]]
+*   [[Spread Spectrum & Frequency Hopping]]
 *   [[Emergency Operations]] (Nets, Traffic Handling)
 *   [[Radio Operations in Harsh Environments]] (Desert, Jungle, Cold)
 

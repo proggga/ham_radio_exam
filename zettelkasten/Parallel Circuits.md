@@ -37,7 +37,7 @@ $$R_{tot} = \frac{R}{N}$$
 
 ## Applications
 - Mains wiring (all outlets are parallel).
-- [[Ampere Meter]] shunts.
+- [[Multimeters (Universeelmeters)|Ampere Meter]] shunts.
 - Reducing component values (e.g., two $100\Omega$ in parallel = $50\Omega$).
 
 ## Related Notes
