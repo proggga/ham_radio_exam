@@ -37,6 +37,19 @@ Requires a receiver with a **Product Detector** ([[Mixers|Mixer]]) and a **BFO**
     *   If a meter shows peak voltage (e.g., 71V), calculate PEP as $P = U^2 / R$.
     *   *Example:* $U_{peak} = 71 \text{ V}$. $PEP = 71^2 / 50 \approx 100 \text{ W}$.
 
+## Example Exam Question
+**Question:** The most suitable bandwidth for an HF amateur receiver used for SSB (EZB) telephony reception is:
+A. 7.5 kHz
+B. 15 kHz
+C. 2.4 kHz
+
+**Answer:** **C (2.4 kHz)**.
+*   **Why?**
+    *   **SSB** only transmits one sideband containing the voice information.
+    *   Intelligible human speech requires a frequency range of roughly 300 Hz to 2700 Hz.
+    *   Therefore, a bandwidth of approximately **2.4 kHz** (2.7 kHz max) is standard for SSB filters.
+    *   7.5 kHz is typical for AM; 15 kHz is typical for FM broadcast.
+
 ## Related
 *   [[Analogue Modulation & AM]]
 *   **[[Detectors (Demodulators)]]**
