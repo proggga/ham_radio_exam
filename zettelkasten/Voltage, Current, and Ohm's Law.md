@@ -5,6 +5,9 @@ tags: ["ham-radio", "electricity"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Spanning, stroom en wet van Ohm"
+aliases: ["Spanning, stroom en wet van Ohm", "Wet van Ohm"]
 ---
 
 # Voltage, Current, and Ohm's Law

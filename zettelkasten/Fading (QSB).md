@@ -5,6 +5,9 @@ tags: ["ham-radio", "propagation", "interference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Fading"
+aliases: ["Fading", "QSB"]
 ---
 
 # Fading (QSB)

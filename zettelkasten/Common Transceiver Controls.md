@@ -5,6 +5,9 @@ tags: ["ham-radio", "equipment", "operating"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Bedieningsorganen"
+aliases: ["Bedieningsorganen"]
 ---
 
 # Common Transceiver Controls

@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "emergency", "procedures"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Noodcommunicatie"
+aliases: ["Noodcommunicatie"]
 ---
 
 # Emergency Operations

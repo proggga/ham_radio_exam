@@ -5,6 +5,9 @@ tags: ["ham-radio", "interference", "theory"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Mengproducten"
+aliases: ["Mengproducten"]
 ---
 
 # Mixing Products (Interference)

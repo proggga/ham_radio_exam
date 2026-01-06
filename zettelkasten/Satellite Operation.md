@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "space"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Satellietverbindingen"
+aliases: ["Satellietverbindingen"]
 ---
 
 # Satellite Operation

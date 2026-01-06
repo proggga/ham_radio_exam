@@ -5,6 +5,9 @@ tags: ["ham-radio", "bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "10m band"
+aliases: ["10m band"]
 ---
 
 # 10m Band (28 MHz)

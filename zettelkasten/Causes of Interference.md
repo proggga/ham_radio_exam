@@ -5,6 +5,9 @@ tags: ["ham-radio", "interference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Oorzaken van storing"
+aliases: ["Oorzaken van storing"]
 ---
 
 # Causes of Interference

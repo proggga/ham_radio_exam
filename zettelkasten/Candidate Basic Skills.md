@@ -5,6 +5,9 @@ tags: ["ham-radio", "basic-skills", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Basisvaardigheden"
+aliases: ["Basisvaardigheden"]
 ---
 
 # Candidate Basic Skills

@@ -8,6 +8,9 @@ tags:
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Aanpassing en SWR"
+aliases: ["Aanpassing en SWR"]
 ---
 
 # Map: Matching & SWR

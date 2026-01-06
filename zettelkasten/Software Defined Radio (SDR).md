@@ -5,6 +5,9 @@ tags: ["ham-radio", "equipment", "digital", "receivers"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "SDR"
+aliases: ["SDR", "Softwaregedefinieerde radio"]
 ---
 
 # Software Defined Radio (SDR)

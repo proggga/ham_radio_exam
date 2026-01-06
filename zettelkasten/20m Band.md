@@ -5,6 +5,9 @@ tags: ["ham-radio", "bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "20m band"
+aliases: ["20m band"]
 ---
 
 # 20m Band (14 MHz)

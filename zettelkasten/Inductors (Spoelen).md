@@ -5,6 +5,9 @@ tags: ["ham-radio", "components"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Spoelen"
+aliases: ["Spoelen", "Zelfinductie"]
 ---
 
 # Inductors (Spoelen)

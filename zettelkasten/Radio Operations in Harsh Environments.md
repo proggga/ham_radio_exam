@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "safety", "military"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Radio in zware omstandigheden"
+aliases: ["Radio in zware omstandigheden"]
 ---
 
 # Radio Operations in Harsh Environments

@@ -5,6 +5,9 @@ tags: ["ham-radio", "digital", "operating"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Moderne digitale modi"
+aliases: ["Moderne digitale modi"]
 ---
 
 # Modern Digital Modes

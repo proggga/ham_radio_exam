@@ -5,6 +5,9 @@ tags: ["ham-radio", "digital", "logic"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Logische poorten"
+aliases: ["Logische poorten"]
 ---
 
 # Digital Logic Gates

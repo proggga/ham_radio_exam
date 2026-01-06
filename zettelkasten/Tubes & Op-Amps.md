@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Buizen en op-amps"
+aliases: ["Buizen en op-amps"]
 ---
 
 # Tubes & Op-Amps

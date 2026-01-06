@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "measurement", "military"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Radiopeilen"
+aliases: ["Radiopeilen", "Vossenjacht"]
 ---
 
 # Radio Direction Finding (RDF)

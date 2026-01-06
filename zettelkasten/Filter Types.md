@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits", "filters"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Soorten filters"
+aliases: ["Soorten filters", "Bandfilters", "Laagdoorlaat", "Hoogdoorlaat"]
 ---
 
 # Filter Types

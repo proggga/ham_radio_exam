@@ -5,6 +5,9 @@ tags: ["ham-radio", "propagation", "solar"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Zonnecyclus en propagatie"
+aliases: ["Zonnecyclus en propagatie"]
 ---
 
 # Solar Cycle & Propagation

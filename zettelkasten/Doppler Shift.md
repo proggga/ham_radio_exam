@@ -5,6 +5,9 @@ tags: ["ham-radio", "propagation", "physics", "satellite"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Dopplereffect"
+aliases: ["Dopplereffect"]
 ---
 
 # Doppler Shift

@@ -5,6 +5,9 @@ tags: ["ham-radio", "receivers", "interference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Spiegelfrequentie"
+aliases: ["Spiegelfrequentie"]
 ---
 
 # Image Frequency (Spiegelfrequentie)

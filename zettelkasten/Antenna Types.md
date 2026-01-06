@@ -5,6 +5,9 @@ tags: ["ham-radio", "antennas", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Soorten antennes"
+aliases: ["Soorten antennes"]
 ---
 
 # Antenna Types

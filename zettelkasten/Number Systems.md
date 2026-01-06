@@ -5,6 +5,9 @@ tags: ["ham-radio", "basic-skills", "digital"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Talstelsels"
+aliases: ["Talstelsels"]
 ---
 
 # Number Systems

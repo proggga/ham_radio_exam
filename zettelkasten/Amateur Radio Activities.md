@@ -5,6 +5,9 @@ tags: ["ham-radio", "activities", "operating"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Radiozendamateurisme activiteiten"
+aliases: ["Radiozendamateurisme activiteiten"]
 ---
 
 # Amateur Radio Activities

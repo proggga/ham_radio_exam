@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "semiconductors", "optoelectronics"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Opto-elektronische componenten"
+aliases: ["Opto-elektronische componenten"]
 ---
 
 # Optoelectronic Devices

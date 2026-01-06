@@ -5,6 +5,9 @@ tags: ["ham-radio", "propagation", "VHF"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Speciale propagatiemodi"
+aliases: ["Speciale propagatiemodi"]
 ---
 
 # Special Propagation Modes

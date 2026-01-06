@@ -8,6 +8,9 @@ tags:
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Zichtverbinding"
+aliases: ["Zichtverbinding", "LOS"]
 ---
 
 # Line of Sight Propagation (LOS)

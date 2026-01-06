@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "circuits", "amplifiers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Operationele versterkers"
+aliases: ["Operationele versterkers", "Op-amps"]
 ---
 
 # Operational Amplifiers (Op-Amps)

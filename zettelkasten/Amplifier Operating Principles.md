@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits", "amplifiers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Werkingsprincipes versterkers"
+aliases: ["Werkingsprincipes versterkers"]
 ---
 
 # Amplifier Operating Principles

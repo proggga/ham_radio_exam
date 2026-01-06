@@ -5,6 +5,9 @@ tags: ["ham-radio", "antennas", "practical"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Onopvallende antennes"
+aliases: ["Onopvallende antennes", "Beperkte ruimte antennes"]
 ---
 
 # Hidden and Limited-Space Antennas

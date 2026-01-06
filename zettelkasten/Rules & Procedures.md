@@ -5,6 +5,9 @@ tags: ["ham-radio", "procedures", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Regels en procedures"
+aliases: ["Regels en procedures"]
 ---
 
 # Rules & Procedures

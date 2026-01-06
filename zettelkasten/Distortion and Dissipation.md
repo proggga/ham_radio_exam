@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits", "amplifiers", "performance"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Vervorming en dissipatie"
+aliases: ["Vervorming en dissipatie"]
 ---
 
 # Distortion and Dissipation

@@ -5,6 +5,9 @@ tags: ["ham-radio", "antennas", "microwave"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
+
+dutch_title: "Schotelantennes"
+aliases: ["Schotelantennes", "Hoornantennes"]
 ---
 
 # Aperture Antennas

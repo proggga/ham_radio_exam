@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Halfgeleiderfysica"
+aliases: ["Halfgeleiderfysica"]
 ---
 
 # Semiconductor Physics

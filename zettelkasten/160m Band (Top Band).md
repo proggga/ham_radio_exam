@@ -5,6 +5,9 @@ tags: ["ham-radio", "bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "160m band"
+aliases: ["160m band", "Top band"]
 ---
 
 # 160m Band (1.8 MHz)

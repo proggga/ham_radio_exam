@@ -5,6 +5,9 @@ tags: ["ham-radio", "index", "MOC"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Hoofdindex"
+aliases: ["Hoofdindex"]
 ---
 
 # Master Index

@@ -7,6 +7,9 @@ tags:
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Grondgolf"
+aliases: ["Grondgolf"]
 ---
 
 # Ground Wave Propagation (Grondgolf)

@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Voeding"
+aliases: ["Voeding"]
 ---
 
 # Power Supply

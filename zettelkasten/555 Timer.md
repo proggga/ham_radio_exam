@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "ic", "circuits"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "555 Timer"
+aliases: ["555 Timer"]
 ---
 
 # 555 Timer

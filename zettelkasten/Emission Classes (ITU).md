@@ -5,6 +5,9 @@ tags: ["ham-radio", "regulations", "operating", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Emissieklassen"
+aliases: ["Emissieklassen", "Uitzendingsklassen"]
 ---
 
 # Emission Classes (ITU)

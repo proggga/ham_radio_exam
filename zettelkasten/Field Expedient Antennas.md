@@ -5,6 +5,9 @@ tags: ["ham-radio", "antennas", "emergency", "military"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Noodantennes"
+aliases: ["Noodantennes", "Veldantennes"]
 ---
 
 # Field Expedient Antennas

@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "procedures"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Standaard QSO-procedure"
+aliases: ["Standaard QSO-procedure"]
 ---
 
 # Standard QSO Procedure

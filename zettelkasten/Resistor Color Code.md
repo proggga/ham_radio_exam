@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "resistors", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Kleurcode weerstanden"
+aliases: ["Kleurcode weerstanden"]
 ---
 
 # Resistor Color Code

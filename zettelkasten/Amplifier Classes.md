@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits", "amplifiers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Versterkerklassen"
+aliases: ["Versterkerklassen", "Instelling van versterkers", "Klasse A", "Klasse B", "Klasse C"]
 ---
 
 # Amplifier Classes

@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "safety", "equipment"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Station inrichten"
+aliases: ["Station inrichten"]
 ---
 
 # Station Setup Guidelines

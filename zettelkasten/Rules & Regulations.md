@@ -5,6 +5,9 @@ tags: ["ham-radio", "regulations", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Wet- en regelgeving"
+aliases: ["Wet- en regelgeving", "Voorschriften"]
 ---
 
 # Rules & Regulations

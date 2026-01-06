@@ -5,6 +5,9 @@ tags: ["ham-radio", "measurements", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "HF-metingen"
+aliases: ["HF-metingen"]
 ---
 
 # RF Measurements

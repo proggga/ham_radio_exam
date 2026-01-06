@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "transformers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Speciale transformatoren"
+aliases: ["Speciale transformatoren"]
 ---
 
 # Special Transformers

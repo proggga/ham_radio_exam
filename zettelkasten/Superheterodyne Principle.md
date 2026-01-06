@@ -5,6 +5,9 @@ tags: ["ham-radio", "receivers", "theory"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Superheterodyne principe"
+aliases: ["Superheterodyne principe"]
 ---
 
 # Superheterodyne Principle

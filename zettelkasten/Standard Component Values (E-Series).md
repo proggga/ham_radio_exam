@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Standaardwaarden"
+aliases: ["Standaardwaarden", "E-reeks"]
 ---
 
 # Standard Component Values (E-Series)

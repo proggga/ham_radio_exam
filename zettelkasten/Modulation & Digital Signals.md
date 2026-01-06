@@ -5,6 +5,9 @@ tags: ["ham-radio", "modulation", "digital", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Modulatie"
+aliases: ["Modulatie", "Modulatiesoorten"]
 ---
 
 # Modulation & Digital Signals

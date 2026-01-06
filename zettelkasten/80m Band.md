@@ -5,6 +5,9 @@ tags: ["ham-radio", "bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "80m band"
+aliases: ["80m band"]
 ---
 
 # 80m Band (3.5 MHz)

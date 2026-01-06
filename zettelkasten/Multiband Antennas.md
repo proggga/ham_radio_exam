@@ -5,6 +5,9 @@ tags: ["ham-radio", "antennas"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
+
+dutch_title: "Meerbandsantennes"
+aliases: ["Meerbandsantennes"]
 ---
 
 # Multiband Antennas

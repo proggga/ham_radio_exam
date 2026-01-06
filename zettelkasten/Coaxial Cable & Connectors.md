@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "antennas", "feedlines"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Coaxkabels"
+aliases: ["Coaxkabels", "Connectoren"]
 ---
 
 # Coaxial Cable & Connectors

@@ -5,6 +5,9 @@ tags: ["ham-radio", "measurements", "equipment"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
+
+dutch_title: "Spectrumanalyzer"
+aliases: ["Spectrumanalyzer"]
 ---
 
 # Spectrum Analyzer

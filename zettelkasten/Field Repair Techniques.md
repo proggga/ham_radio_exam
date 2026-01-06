@@ -5,6 +5,9 @@ tags: ["ham-radio", "operating", "safety", "antennas"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Reparatietechnieken te velde"
+aliases: ["Reparatietechnieken te velde"]
 ---
 
 # Field Repair Techniques

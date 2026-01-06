@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "interference"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
+
+dutch_title: "Afscherming"
+aliases: ["Afscherming"]
 ---
 
 # Shielding (Afscherming)

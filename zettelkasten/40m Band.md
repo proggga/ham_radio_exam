@@ -5,6 +5,9 @@ tags: ["ham-radio", "bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "40m band"
+aliases: ["40m band"]
 ---
 
 # 40m Band (7 MHz)

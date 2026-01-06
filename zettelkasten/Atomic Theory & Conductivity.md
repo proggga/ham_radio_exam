@@ -5,6 +5,9 @@ tags: ["ham-radio", "electricity", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Atoomtheorie en geleiding"
+aliases: ["Atoomtheorie en geleiding"]
 ---
 
 # Atomic Theory & Conductivity

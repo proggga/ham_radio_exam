@@ -5,6 +5,9 @@ tags: ["ham-radio", "electricity", "materials"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Geleiders en isolatoren"
+aliases: ["Geleiders en isolatoren"]
 ---
 
 # Conductors and Insulators

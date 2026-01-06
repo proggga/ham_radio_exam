@@ -9,6 +9,9 @@ tags:
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Kringen en wetten van Kirchhoff"
+aliases: ["Kringen en wetten van Kirchhoff"]
 ---
 
 # Map: Circuits & Kirchhoff's Laws

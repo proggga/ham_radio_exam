@@ -5,6 +5,9 @@ tags: ["ham-radio", "regulations", "operating"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Gebruiksbepalingen"
+aliases: ["Gebruiksbepalingen"]
 ---
 
 # Operating Rules (Netherlands)

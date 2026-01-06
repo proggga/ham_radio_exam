@@ -5,6 +5,9 @@ tags: ["ham-radio", "electricity"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Spannings- en stroombronnen"
+aliases: ["Spannings- en stroombronnen"]
 ---
 
 # Voltage and Current Sources

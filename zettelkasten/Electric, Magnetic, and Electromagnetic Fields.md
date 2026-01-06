@@ -9,6 +9,9 @@ tags:
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Elektrische en magnetische velden"
+aliases: ["Elektrische en magnetische velden"]
 ---
 
 # Map: Electric, Magnetic, and Electromagnetic Fields

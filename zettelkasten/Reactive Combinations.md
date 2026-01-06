@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Reactieve combinaties"
+aliases: ["Reactieve combinaties"]
 ---
 
 # Reactive Combinations

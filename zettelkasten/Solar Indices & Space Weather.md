@@ -5,6 +5,9 @@ tags: ["ham-radio", "propagation", "space-weather"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Zonne-indexen"
+aliases: ["Zonne-indexen", "Ruimteweer"]
 ---
 
 # Solar Indices & Space Weather

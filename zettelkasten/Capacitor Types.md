@@ -5,6 +5,9 @@ tags: ["ham-radio", "components", "capacitors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Soorten condensatoren"
+aliases: ["Soorten condensatoren", "Uitvoeringen van condensatoren"]
 ---
 
 # Capacitor Types

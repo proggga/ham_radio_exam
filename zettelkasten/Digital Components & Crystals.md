@@ -5,6 +5,9 @@ tags: ["ham-radio", "digital", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
+
+dutch_title: "Digitale componenten"
+aliases: ["Digitale componenten"]
 ---
 
 # Digital Components & Crystals

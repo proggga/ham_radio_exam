@@ -5,6 +5,9 @@ tags: ["ham-radio", "digital", "operating", "packet"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "APRS"
+aliases: ["APRS"]
 ---
 
 # APRS (Automatic Packet Reporting System)

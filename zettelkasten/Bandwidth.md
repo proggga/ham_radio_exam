@@ -5,6 +5,9 @@ tags: ["ham-radio", "circuits", "filters", "measurements"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
+
+dutch_title: "Bandbreedte"
+aliases: ["Bandbreedte"]
 ---
 
 # Bandwidth

@@ -5,6 +5,9 @@ tags: ["ham-radio", "receivers", "measurements"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
+
+dutch_title: "S-meter"
+aliases: ["S-meter"]
 ---
 
 # S-Meter (Signal Strength)

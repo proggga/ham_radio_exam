@@ -5,6 +5,9 @@ tags: ["ham-radio", "antennas", "mobile", "marine"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
+
+dutch_title: "Mobiele antennes"
+aliases: ["Mobiele antennes", "Maritieme antennes"]
 ---
 
 # Mobile, Portable & Marine Antennas
