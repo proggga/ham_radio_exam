@@ -22,7 +22,7 @@ This map covers the operational procedures, codes, and regulations for amateur r
 *   **[Electrical Safety](10_safety/01_Electrical_Safety.md)** - General safety guidelines.
 
 ## Regulatory
-*   **[Rules & Regulations](12_regulations/03_Rules_&_Regulations.md)** - Legal regulations.
+*   **[Rules & Regulations](12_regulations/06_Rules_&_Regulations.md)** - Legal regulations.
 
 ---
 
@@ -34,11 +34,11 @@ Amateur radio is a versatile hobby with many different aspects, allowing operato
 ## Key Activities
 
 *   **Homebrew & Experimentation**: The technical side of the hobby involving designing and building radios, antennas, and accessories.
-*   **DXing**: The pursuit of contacts with distant or rare stations ("DX"). This often involves tracking solar conditions and using efficient antennas. See [The Ionosphere](07_propagation/13_The_Ionosphere.md).
+*   **DXing**: The pursuit of contacts with distant or rare stations ("DX"). This often involves tracking solar conditions and using efficient antennas. See [The Ionosphere](07_propagation/14_The_Ionosphere.md).
 *   **Contesting**: Competitive operating where the goal is to make as many contacts as possible within a set time.
     *   *Exchange:* Operators typically exchange specific information like **RST** + **Serial Number** or **Grid Locator**.
 *   **Field Days**: Operating portable stations from temporary locations (e.g., open fields) to practice emergency readiness and enjoy low-noise reception away from urban QRM.
-*   **Fox Hunting (Vossenjacht)**: A sport involving finding hidden transmitters using direction-finding equipment. See [Radio Direction Finding (RDF)](08_measurements/08_Radio_Direction_Finding_RDF.md).
+*   **Fox Hunting (Vossenjacht)**: A sport involving finding hidden transmitters using direction-finding equipment. See [Radio Direction Finding (RDF)](08_measurements/09_Radio_Direction_Finding_RDF.md).
 
 ## Grid Locators (Maidenhead)
 A geographic coordinate system used by radio amateurs to succinctly describe their location.
@@ -46,7 +46,7 @@ A geographic coordinate system used by radio amateurs to succinctly describe the
     *   **Field**: 2 Letters (e.g., **JO**). Covers large area.
     *   **Square**: 2 Digits (e.g., **22**). $1^\circ$ Latitude by $2^\circ$ Longitude.
     *   **Subsquare**: 2 Letters (e.g., **eb**). More precise.
-*   **Usage**: Essential for [VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) contesting and determining distance/bearing.
+*   **Usage**: Essential for [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) contesting and determining distance/bearing.
 
 ## Listening
 You don't need a transmitter to participate. **[WebSDR](04_receivers/06_Software_Defined_Radio_SDR.md)** sites (like the University of Twente's receiver) allow anyone to listen to amateur bands via a web browser. This is an excellent way to become familiar with [Standard QSO Procedure](11_procedures.md).
@@ -113,7 +113,7 @@ A standard amateur call sign consists of:
 
 ## Dutch Call Signs (Netherlands)
 *   **Assigned Series:** **PA** to **PI**.
-*   **Full License (F-[Registration](12_regulations/02_Licensing_in_the_Netherlands.md)):**
+*   **Full License (F-[Registration](12_regulations/05_Licensing_in_the_Netherlands.md)):**
     *   **PA, PB, PC, PE, PF, PG, PH** followed by a number (0-5, 7-9).
     *   Suffix: 1 to 3 letters.
 *   **Novice License (N-Registration):**
@@ -121,7 +121,7 @@ A standard amateur call sign consists of:
 *   **Special Use (Verenigingen/Contest):**
     *   **PI** followed by a number (usually 4 for societies).
     *   Number **6** is often used for special events/contests.
-*   **Caribbean [Netherlands](12_regulations/07_Operating_Rules_Netherlands.md):** **PJ** (e.g., PJ2, PJ4).
+*   **Caribbean [Netherlands](12_regulations/10_Operating_Rules_Netherlands.md):** **PJ** (e.g., PJ2, PJ4).
 *   **Suriname:** **PZ**.
 
 ## Forbidden Suffixes
@@ -190,7 +190,7 @@ A question mark after the code turns it into a question.
 | **QRV** | Are you ready? | I am ready. | a**V**ailable |
 | **QRX** | When will you call me again? | Call me again at ... (Wait). | **X** (Time/Cross) |
 | **QRZ** | Who is calling me? | You are being called by... | **Z**ijt gij? |
-| **[QSB](07_propagation/17_Fading_QSB.md)** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
+| **[QSB](07_propagation/18_Fading_QSB.md)** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
 | **QSL** | Can you acknowledge receipt? | I acknowledge receipt (Confirm contact). | **L**ezen |
 | **QSO** | Can you communicate with ...? | I can communicate with ... (Contact). | **O**ver |
 | **QSY** | Shall I change frequency? | Change frequency to ... | Zwaa**Y** |
@@ -229,8 +229,8 @@ Repeaters are automated stations that receive a signal on one frequency and simu
 ## Basic Operation
 *   **Duplex**: Repeaters operate in duplex mode. They listen on an **Input** frequency and transmit on an **Output** frequency.
 *   **Offset (Shift)**: The difference between the input and output frequencies.
-    *   **2 meters ([VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **600 kHz** (0.6 MHz).
-    *   **70 cm ([UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **5 MHz**.
+    *   **2 meters ([VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **600 kHz** (0.6 MHz).
+    *   **70 cm ([UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **5 MHz**.
     *   **Direction**: Can be Positive (+) or Negative (-).
     *   *Example:* Output 146.940 MHz minus 0.6 MHz offset = Input 146.340 MHz.
 
@@ -296,7 +296,7 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
     *   *Cause:* Talking too close to the microphone or Mic Gain too high.
     *   *Fix:* Speak farther away ("Eat the mic" is bad for [FM](01_electricity/35_Frequency_Modulation_FM.md)) or turn down Mic Gain.
 *   **RF Feedback**: Audio sounds garbled, buzzing, or has a "motorboat" sound.
-    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/19_Standing_Wave_Ratio_SWR.md) or poor grounding.
+    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/20_Standing_Wave_Ratio_SWR.md) or poor grounding.
     *   *Fix:* Install a **Ferrite Choke** on the microphone cable. Improve station [RF Ground](11_procedures.md).
 *   **Low Voltage**: Audio sounds "warbly" or weak.
     *   *Cause:* Battery low or high resistance connection causing voltage drop during transmit peaks.
@@ -310,12 +310,12 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 ## Antenna & Power Problems
 
 ### High SWR
-*   **Intermittent [SWR](06_antennas/19_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
+*   **Intermittent [SWR](06_antennas/20_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
     *   *Cause:* Loose connection (PL-259), bad solder joint, or corroded connector.
     *   *Fix:* Wiggle cables to find the fault. Resolder or replace connectors.
 *   **High SWR (Constant)**:
     *   *Cause:* [Antenna](10_safety/03_Antenna_&_Tower_Safety.md) detuned, water in coax, or short/open in feedline.
-    *   *Fix:* Test with a **[Dummy Load](06_antennas/11_Dummy_Load.md)** at the end of the coax to rule out the cable. Check antenna dimensions.
+    *   *Fix:* Test with a **[Dummy Load](06_antennas/12_Dummy_Load.md)** at the end of the coax to rule out the cable. Check antenna dimensions.
 
 ### Mobile Noise
 *   **Ignition [Noise](01_electricity/26_AC_Signals_&_Noise.md)**: Popping sound varying with engine RPM.
@@ -346,7 +346,7 @@ Proper grounding serves two distinct purposes: **[Electrical Safety](10_safety/0
 
 ### RF Ground
 *   **Purpose**: Provides a low-impedance return path for RF currents, prevents "hot chassis" (RF burns), and improves antenna efficiency (especially for [HF](07_propagation/01_Propagation_Basics.md) verticals/long wires).
-*   **Conductor**: RF flows on the surface of a conductor (**[Skin Effect](01_electricity/43_Skin_Effect.md)**). Use wide **Copper Strap** or flat braid. Round wire has high impedance (inductance) at RF.
+*   **Conductor**: RF flows on the surface of a conductor (**[Skin Effect](01_electricity/45_Skin_Effect.md)**). Use wide **Copper Strap** or flat braid. Round wire has high impedance (inductance) at RF.
 *   **Configuration**:
     *   **Single Point Ground**: Connect all equipment to a common bus bar behind the station. Connect the bus bar to an external ground rod with a short, wide strap.
     *   **Avoid Loops**: Do not daisy-chain equipment (A -> B -> C -> Ground).
@@ -374,7 +374,7 @@ Digital modes ([FT8](11_procedures.md), RTTY, Packet) require interfacing the ra
 ## 4. Antenna Positioning
 *   **Clearance**: Keep antennas away from power lines (fall distance + margin).
 *   **EMC**: Place antennas as far as possible from household electronics to reduce interference pickup and RFI causing issues.
-*   **Feedline**: Use high-quality coax (RG-213, LMR-400) for long runs, especially at [VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md).
+*   **Feedline**: Use high-quality coax (RG-213, LMR-400) for long runs, especially at [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md).
 
 ## 5. Siting (Military/Field)
 *   **High Ground**: Maximizes Line-of-Sight range.
@@ -392,8 +392,8 @@ Amateur radio satellites act as "repeaters in space," receiving signals on one b
 *   **LEO (Low Earth Orbit)**: Most amateur satellites are LEO (altitude 99-1200 miles).
     *   *Pass Duration:* Short, typically 10-20 minutes.
 *   **Uplink/Downlink**: The frequencies used.
-    *   **Mode U/V**: Uplink on [UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm), Downlink on [VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (2m).
-    *   **Mode V/U**: Uplink on [VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (2m), Downlink on [UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm).
+    *   **Mode U/V**: Uplink on [UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm), Downlink on [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (2m).
+    *   **Mode V/U**: Uplink on [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (2m), Downlink on [UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm).
 *   **Transponder Modes**:
     *   **[FM](01_electricity/35_Frequency_Modulation_FM.md)**: Single channel, similar to a terrestrial repeater.
     *   **Linear ([SSB](01_electricity/34_Single_Sideband_SSB.md)/[CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md))**: A "passband" transponder that retransmits a range of frequencies (e.g., 20-100 kHz wide). Multiple QSOs can happen simultaneously.
@@ -401,9 +401,9 @@ Amateur radio satellites act as "repeaters in space," receiving signals on one b
 ## Operating Procedures
 1.  **Power**: Use the **minimum power** necessary. Excessive power triggers the satellite's [AGC](04_receivers/04_Automatic_Gain_Control_AGC.md) ([Automatic Gain Control](04_receivers/04_Automatic_Gain_Control_AGC.md)), reducing sensitivity for everyone else ("Alligator" - all mouth, no ears).
 2.  **Tracking**: You must track the satellite's position (Azimuth and Elevation) as it moves across the sky.
-3.  **[Doppler Shift](07_propagation/02_Doppler_Shift.md)**: The frequency changes as the satellite moves toward (higher freq) or away (lower freq) from you.
-    *   *Correction:* You must adjust your transmit/receive frequency continuously during the pass. [UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) requires more correction than VHF.
-    *   *Spin [Fading](07_propagation/17_Fading_QSB.md):* Periodic signal fading caused by the rotation of the satellite and its antennas.
+3.  **[Doppler Shift](07_propagation/03_Doppler_Shift.md)**: The frequency changes as the satellite moves toward (higher freq) or away (lower freq) from you.
+    *   *Correction:* You must adjust your transmit/receive frequency continuously during the pass. [UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) requires more correction than VHF.
+    *   *Spin [Fading](07_propagation/18_Fading_QSB.md):* Periodic signal fading caused by the rotation of the satellite and its antennas.
 
 ## International Space Station (ISS)
 *   **Privileges**: Any amateur with a Technician class license (or equivalent) can contact the ISS.
@@ -429,8 +429,8 @@ Also known as **Moonbounce**, EME is a technique where radio signals are aimed a
 *   **Frequencies**: Typically **50 MHz (6m)** to **10 GHz**, with **144 MHz (2m)** and **1296 MHz (23cm)** being most popular.
 
 ## Challenges
-*   **Libration [Fading](07_propagation/17_Fading_QSB.md)**: Rapid fluttering of the signal caused by the Moon's "wobble" (Libration).
-*   **[Doppler Shift](07_propagation/02_Doppler_Shift.md)**: The frequency changes as the Moon moves relative to the Earth.
+*   **Libration [Fading](07_propagation/18_Fading_QSB.md)**: Rapid fluttering of the signal caused by the Moon's "wobble" (Libration).
+*   **[Doppler Shift](07_propagation/03_Doppler_Shift.md)**: The frequency changes as the Moon moves relative to the Earth.
 *   **Faraday Rotation**: The polarization of the signal rotates as it passes through the ionosphere.
 
 ## Modes
@@ -449,7 +449,7 @@ SSTV is used to transmit **still images** (like a fax) over voice-bandwidth chan
 *   **[Bandwidth](03_circuits/07_Bandwidth.md)**: Fits within a standard 3 kHz [SSB](01_electricity/34_Single_Sideband_SSB.md) or [FM](01_electricity/35_Frequency_Modulation_FM.md) voice channel.
 *   **Transmission Time**: Takes 8 to 120 seconds to send one image (depending on the mode/resolution).
 *   **Technology**: Audio tones vary in frequency to represent brightness and color ([FM](01_electricity/35_Frequency_Modulation_FM.md) subcarrier).
-*   **Frequencies**: Popular on [20m Band](07_propagation/22_20m_Band.md) (14.230 MHz) and [2m](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) [FM](01_electricity/35_Frequency_Modulation_FM.md) (145.800 MHz from the **ISS**).
+*   **Frequencies**: Popular on [20m Band](07_propagation/23_20m_Band.md) (14.230 MHz) and [2m](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) [FM](01_electricity/35_Frequency_Modulation_FM.md) (145.800 MHz from the **ISS**).
 *   **Software**: MMSSTV, QSSTV.
 
 ## 2. ATV (Amateur Television)
@@ -542,7 +542,7 @@ APRS is a digital communications protocol for exchanging information among a lar
 ## Technical Details
 *   **Protocol**: AX.25 (same as standard Packet Radio).
 *   **[Modulation](01_electricity/31_Modulation_&_Digital_Signals.md)**: AFSK (Audio Frequency [Shift](11_procedures.md) Keying).
-*   **Baud Rate**: Typically **1200 baud** on [VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md).
+*   **Baud Rate**: Typically **1200 baud** on [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md).
 *   **Frequencies**:
     *   **North America**: 144.390 MHz
     *   **Europe**: 144.800 MHz
@@ -625,14 +625,14 @@ Environmental conditions significantly impact radio performance and equipment re
 ## 1. Desert Operations
 *   **Grounding**: Dry sand is a poor electrical conductor. Normal ground rods are ineffective.
     *   *Solution:* Use **Counterpoises** (wire networks on/above ground) instead of earth grounds.
-*   **[Propagation](07_propagation/15_Solar_Cycle_&_Propagation.md)**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
+*   **[Propagation](07_propagation/16_Solar_Cycle_&_Propagation.md)**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
 *   **Equipment**:
     *   **Heat**: Electrolyte in wet batteries evaporates. Transmitters overheat.
     *   **Dust**: Clogs vents and damages moving parts. Use dust covers.
     *   **Static**: Wind-blown sand generates high static charges. Tape antenna tips to reduce corona discharge noise.
 
 ## 2. Jungle Operations
-*   **[Propagation](07_propagation/15_Solar_Cycle_&_Propagation.md)**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
+*   **[Propagation](07_propagation/16_Solar_Cycle_&_Propagation.md)**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
     *   *Range:* Significantly reduced.
     *   *Solution:* Use **Horizontal Polarization** (Dipoles) high in trees or clearings.
 *   **Equipment**:
@@ -648,8 +648,8 @@ Environmental conditions significantly impact radio performance and equipment re
 *   **Static**: Charged snow particles cause high static noise (precipitation static).
 
 ## 4. Urban Operations
-*   **Obstacles**: Buildings block Line-of-Sight ([VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)).
-    *   *Solution:* Use retransmission (relays) or [NVIS](07_propagation/12_Near_Vertical_Incidence_Skywave_NVIS.md) ([Near Vertical Incidence Skywave](07_propagation/12_Near_Vertical_Incidence_Skywave_NVIS.md)) on [HF](07_propagation/01_Propagation_Basics.md).
+*   **Obstacles**: Buildings block Line-of-Sight ([VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)).
+    *   *Solution:* Use retransmission (relays) or [NVIS](07_propagation/13_Near_Vertical_Incidence_Skywave_NVIS.md) ([Near Vertical Incidence Skywave](07_propagation/13_Near_Vertical_Incidence_Skywave_NVIS.md)) on [HF](07_propagation/01_Propagation_Basics.md).
 *   **[Interference](09_interference/03_Mixing_Products_Interference.md)**: High levels of man-made electrical noise (QRM).
 *   **Concealment**: Antennas can be disguised as utility lines or clotheslines.
 

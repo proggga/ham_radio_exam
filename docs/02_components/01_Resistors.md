@@ -11,6 +11,7 @@ This map covers resistor types, identification, and standard values.
 
 ## 4. Resistance of a Wire
 *   **Formula:** $R = \rho \frac{L}{A}$
+    *   $\rho$ (Greek: Rho) = **[Resistivity](../01_electricity/06_Resistivity_Soortelijke_Weerstand.md)**.
 *   **Deformation (Stretching):** If a wire is stretched to **n** times its length, its volume remains constant ($V = L \times A$). Therefore, the Area decreases by **n** times.
     *   New Length = $n \cdot L$
     *   New Area = $A / n$

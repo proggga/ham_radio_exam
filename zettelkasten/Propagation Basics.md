@@ -27,3 +27,4 @@ Defined by the orientation of the **[[Electric Field]] ($E$)**.
 ## 3. Inverse Square Law
 As the wave spreads out from a point source, power density decreases with the square of the distance.
 *   Double the distance = 1/4 the power (-6 [[Decibels & Logarithms|dB]]).
+*   See **[[Link Budget]]** for calculating total system performance.

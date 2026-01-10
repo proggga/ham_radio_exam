@@ -30,10 +30,12 @@ aliases: ["Elektrische veiligheid"]
 | **> 1 A** | Cardiac Arrest (Heart stops), severe burns. |
 
 ## 2. Equipment Classes & Voltage Limits (IEC 62368-1)
+*   **Permissible Touch Voltage (Toegelaten aanrakingsspanning)**: Voltages below these limits are considered safe to touch (SELV - Safety Extra Low Voltage).
+    *   **AC**: $< 30 V$ RMS (or $50V$ in dry conditions).
+    *   **DC**: $< 60 V$ (Ripple free) (or $120V$ in dry conditions).
 *   **Class I**: **Earthed**. Metal chassis must be connected to Safety Earth (PE). Relies on fuse/RCD to disconnect if a fault occurs.
 *   **Class II**: **Double Insulated**. No earth connection. Symbol: Square within a square.
-*   **Class III (SELV)**: Safety Extra Low Voltage. Safe to touch.
-    *   **Limits**: $< 60 V$ DC (Ripple free) or $< 30 V$ RMS AC.
+*   **Class III (SELV)**: Equipment designed to operate safely within the SELV limits.
 
 ## 3. Mains Wiring (Europe/Netherlands)
 *   **Brown**: Phase / Live (L) - Dangerous!
@@ -54,3 +56,7 @@ aliases: ["Elektrische veiligheid"]
 *   **Grounding**: Mast/[[Antenna & Tower Safety|Antenna]] should be grounded to conduct static/strike current to earth (outside the house).
 
 ## Related
+*   [[RF Safety]]
+*   [[Antenna & Tower Safety]]
+*   [[Equipment Safety Classes]]
+*   [[Station Setup Guidelines]]

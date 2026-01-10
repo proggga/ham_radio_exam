@@ -29,6 +29,7 @@ Random fluctuations in current across semiconductor junctions (diodes/transistor
 *   **QRN**: Natural/Atmospheric noise (Static, Lightning). Dominant on [[Propagation Basics|HF]] bands.
 *   **QRM**: Man-made interference.
 *   **Galactic [[AC Signals & Noise|Noise]]**: From the galaxy (dominant on [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]] when looking at the sky).
+*   **[[Earth Thermal Noise]]**: Thermal noise from the Earth's surface (290K), affecting Satellite/EME downlinks.
 
 ## Related
 *   [[Types of Interference]]

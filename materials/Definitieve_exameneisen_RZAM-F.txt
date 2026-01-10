@@ -1,0 +1,1060 @@
+Exameneisen Radiozendamateur Full – Extern
+Algemene informatie
+In deze exameneisen staat wat u moet kunnen en kennen. De exameneisen vormen daarom de basis van de
+opleiding en het examen.
+Opgesteld door: CBR divisie CCV
+Categoriecode en exameninformatie:
+•
+
+RZAM-F (theorie-examen), digitaal, 50 vragen, 105 minuten, cesuur 70%
+
+Geldigheid examenresultaat: onbeperkt
+Vastgesteld door:
+•
+
+College van Deskundigen Radiozendamateur op 9 oktober 2024
+
+Volgens: de Examenregeling frequentiegebruik 2008
+Goedgekeurd door:
+•
+
+Divisiemanager CCV – november 2024
+
+Ingangsdatum:
+1 december 2024
+Toelichting gebruik toetstermen:
+•
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat
+'ruim' omschreven wat er in het examen terug kan komen.
+•
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid
+omschreven wat er in het examen terug kan komen.
+•
+Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen
+vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag
+over die toetsterm in principe alles gevraagd worden.
+
+Eindterm 0: Basisvaardigheden van de kandidaat
+De exameneisen zijn beperkt tot onderwerpen die relevant zijn bij het doen van technische
+onderzoekingen en het gebruik van zendinrichtingen. Hieronder vallen ook schakelingen met hun
+schema’s. Hierin kunnen zowel geïntegreerde schakelingen als discrete componenten voorkomen.
+De tijdens het examen te stellen vragen zijn gebaseerd op de praktische toepassing van
+onderwerpen die in deze exameneisen worden genoemd.
+
+0.1. Grootheden, eenheden, veelvouden en delen
+Afbakening:
+•
+Grootheden
+•
+Eenheden
+•
+Veelvouden en delen
+
+0.2. Herkennen van tekensymbolen
+Afbakening:
+Kandidaten moeten vertrouwd zijn met de gangbare tekensymbolen in schema’s van elektronische
+schakelingen.
+
+O.3. Wiskundige begrippen en bewerkingen
+Afbakening:
+Kandidaten moeten de volgende wiskundige begrippen en bewerkingen kunnen toepassen:
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+optellen, aftrekken, vermenigvuldigen en delen
+breuken, percentages
+machten van 10, exponenten, logaritmen
+kwadrateren
+vierkantswortels
+omgekeerde waarden
+interpretatie van lineaire en niet-lineaire grafieken
+binair getalstelsel
+
+0.4. Formules
+Kandidaten moeten de formules die opgenomen zijn in de exameneisen kennen, kunnen toepassen
+en deze formules ook in een andere schrijfwijze kunnen omzetten.
+
+Eindterm 1 Elektriciteitsleer, elektromagnetisme en radiotheorie
+1.1 Stroomgeleiding
+Afbakening:
+•
+Geleider, halfgeleider en isolator
+•
+Stroomsterkte, spanning en weerstand
+•
+De eenheden ampère, volt en ohm
+•
+De wet van Ohm [𝑈 = 𝐼 • 𝑅]
+•
+De wetten van Kirchhoff
+•
+Elektrisch vermogen [𝑃 = 𝑈 • 𝐼]
+•
+De eenheid watt
+•
+Elektrische energie [𝑊 = 𝑃 • 𝑡]
+•
+De eenheid joule
+•
+Capaciteit van een batterij [ampère-uur]
+
+1.2 Bronnen
+Afbakening:
+•
+Spanningsbron, bronspanning [EMK], kortsluitstroom, inwendige weerstand en
+klemspanning
+•
+Serie- en parallelschakeling van spanningsbronnen
+
+1.3 Elektrisch veld
+Afbakening:
+•
+Elektrische veldsterkte
+•
+De eenheid volt per meter
+•
+Afscherming van elektrische velden
+
+1.4 Magnetisch veld
+Afbakening:
+•
+Magnetisch veld om stroomvoerende geleider en van een spoel
+•
+Afscherming van magnetische velden
+
+1.5 Elektromagnetisch veld
+Afbakening:
+•
+Radiogolven als elektromagnetische golven
+•
+De voortplantingssnelheid en het verband hiervan met de frequentie en de golflengte
+[𝑣 = 𝑓 ∙ 𝜆]
+•
+Polarisatie
+
+1.6 Sinusvormige signalen
+Afbakening:
+•
+De grafische voorstelling in de tijd
+
+•
+•
+
+Momentele waarde, amplitude
+waarde
+Periode en periodeduur
+
+𝑚𝑎𝑥
+[Umax], effectieve waarde [𝑈𝑒𝑓𝑓 = 𝑈 √2
+] en gemiddelde
+
+•
+•
+•
+
+Frequentie
+De eenheid hertz
+Faseverschil
+
+1.7 Niet-sinusvormige signalen
+Afbakening:
+•
+Audiosignaal
+•
+Bloksignaal
+•
+De grafische voorstelling in de tijd
+•
+Gelijkspanningscomponent, grondgolf en zijn harmonischen
+•
+Ruis [Pn = kTB], thermische ruis, via de antenne ontvangen ruis, ruisvermogen per Hz,
+ruisvermogen in de bandbreedte
+
+1.8 Gemoduleerde signalen
+Afbakening:
+•
+CW
+•
+Amplitudemodulatie
+•
+Enkelzijbandmodulatie
+•
+Fase- en frequentiemodulatie
+∆𝐹
+
+•
+
+Frequentiezwaai en modulatie-index [𝑚 =
+
+•
+•
+•
+•
+•
+•
+
+Draaggolf, zijbanden en bandbreedte
+Golfvormen van CW-, AM-, EZB- (SSB-) en FM-signalen (grafische weergave)
+Spectra van CW-, AM-, EZB- (SSB-) en FM-signalen (grafische weergave)
+Digitale modulatievormen: FSK, 2-PSK, 4-PSK en QAM
+Digitale modulatie: bitsnelheid, symboolsnelheid (baudsnelheid) en bandbreedte
+Foutdetectie en -correctie: CRC (packet radio), ARQ en FEC (toepassing AMTOR)
+
+∫ 𝑚𝑜𝑑
+
+]
+
+1.9 Vermogen en energie
+Afbakening:
+𝑢2
+
+•
+
+Het vermogen van sinusvormige signalen [𝑃 = 𝑖 2 . 𝑅 ] ;[𝑃 =
+
+•
+
+•
+
+Vermogensverhoudingen die overeenkomen met de volgende dB-waarden: 0dB, 3dB, 6dB,
+10dB en 20dB [zowel positief als negatief]
+De vermogensverhouding in dB bij het achter elkaar schakelen van versterkers en/of
+verzwakkers
+Aanpassing [maximale vermogensoverdracht]
+
+•
+
+De relatie tussen ingangsvermogen, uitgangsvermogen en rendement. [η =
+
+•
+
+Peak Envelope Power [PEP]
+
+•
+
+𝑅
+
+] waarin 𝑢 = 𝑈𝑒𝑓𝑓 en 𝑖 = 𝑙𝑒𝑓𝑓
+
+1.10 Digitalisering van analoge signalen
+Afbakening:
+•
+Bemonsteren en kwantiseren
+•
+Minimale bemonsteringsfrequentie (Nyquistfrequentie)
+•
+Anti-aliasfilter, reconstructiefilter
+•
+Convolutie (tijddomein/frequentiedomein, grafische voorstelling)
+•
+ADC en DAC
+
+Eindterm 2 Componenten
+2.1 Weerstand
+Afbakening:
+•
+Weerstand
+•
+De eenheid ohm
+•
+Stroom-spanningskarakteristiek
+•
+Vermogensdissipatie
+
+2.2 Condensator
+Afbakening:
+•
+Capaciteit
+•
+De eenheid farad
+
+𝑃𝑢𝑖𝑡
+𝑃𝑖𝑛
+
+• 100%]
+
+•
+
+De relatie tussen capaciteit, afmetingen en diëlektricum
+
+•
+
+De reactantie [𝑋𝑐 =
+
+•
+•
+
+Faseverschil tussen stroom en spanning
+Eigenschappen van vaste en van variabele condensatoren
+
+1
+2𝜋𝑓•𝐶
+
+]
+
+2.3 Spoel
+Afbakening:
+•
+Zelfinductie
+•
+De eenheid henry
+•
+Het effect van aantal windingen, diameter, lengte en kernmateriaal op de zelfinductie
+•
+De reactantie [𝑋𝐿 = 2𝜋𝑓 • 𝐿]
+•
+Faseverschil tussen stroom en spanning
+•
+
+2𝜋𝑓 • 𝐿
+
+Q-factor [
+
+𝑅𝑠
+
+]
+
+2.4 Toepassing en gebruik van transformatoren
+Afbakening:
+•
+Ideale transformator [𝑃𝑝𝑟𝑖𝑚 = 𝑃𝑠𝑒𝑐 ]
+•
+De relatie tussen wikkelverhouding en:
+- Spanningsverhouding [
+- Stroomverhouding [
+
+𝑈𝑠𝑒𝑐
+
+𝑛
+
+= 𝑛 𝑠𝑒𝑐 ]
+
+𝑈𝑝𝑟𝑖𝑚
+𝑝𝑟𝑖𝑚
+𝑛𝑝𝑟𝑖𝑚
+𝑖𝑠𝑒𝑐
+
+𝑖𝑝𝑟𝑖𝑚
+
+- Impedantieverhouding [
+
+=
+
+𝑍𝑠𝑒𝑐
+
+𝑍𝑝𝑟𝑖𝑚
+
+𝑛𝑠𝑒𝑐
+
+]
+
+𝑛2 𝑠𝑒𝑐
+
+= 𝑛2 𝑝𝑟𝑖𝑚]
+
+- Transformatoren (toepassing)
+
+2.5 Diode
+Afbakening:
+Gebruik en toepassing van diodes:
+•
+Gelijkrichtdiode, zenerdiode, LED [licht emitterende diode], varicap [capaciteitsdiode]
+•
+Doorlaatstroom
+•
+Sperspanning en lekstroom
+
+2.6 Transistor
+Afbakening:
+•
+PNP- en NPN-transistor:
+- Stroomsturing
+- Stroomversterking
+•
+Veldeffecttransistor:
+- Spanningssturing
+- Steilheid
+•
+De transistor in:
+- gemeenschappelijke emitter-[source-] schakeling
+- gemeenschappelijke basis-[gate-] schakeling
+- gemeenschappelijke collector-[drain-] schakeling
+•
+In- en uitgangsimpedantie van bovengenoemde schakelingen
+•
+Instelmethode
+
+2.7 Overige componenten
+Afbakening:
+•
+Eenvoudige buizen [triode en pentode]:
+- Steilheid
+- Anode-roostercapaciteit
+•
+Eenvoudige digitale componenten (functie):
+- Poortschakelingen
+- Opteller (full adder)
+- Flipflop
+- Deler
+
+Eindterm 3 Schakelingen
+3.1 Combinatie van componenten
+Afbakening:
+•
+Serie- en parallelschakeling van weerstanden, spoelen, condensatoren, transformatoren en
+dioden
+•
+Stromen en spanningen in deze schakelingen
+•
+Impedantie van deze schakelingen
+•
+Gedrag van niet-ideale weerstanden, condensatoren en spoelen (parasitaire effecten)
+
+3.2 Analoge filters
+Afbakening:
+•
+Seriekring en parallelkring
+•
+Impedantie
+•
+Frequentiekarakteristiek
+1
+
+•
+
+Resonantiefrequentie [𝑓 =
+
+•
+
+Kwaliteitsfactor van een afgestemde kring[𝑄 =
+
+•
+•
+•
+
+Bandbreedte
+Bandfilter
+Laagdoorlatende, hoogdoorlatende, banddoorlatende en bandsperrende filters, opgebouwd
+uit passieve elementen, kantelfrequentie
+Frequentiekarakteristiek
+Pi-filter en T-filter
+Kwartskristal:
+Vervangingsschema
+Serieresonantie
+Parallelresonantie
+Gevolgen van het toepassen van niet ideale componenten (parasitaire effecten)
+
+•
+•
+•
+
+•
+
+2𝜋√𝐿 • 𝐶
+
+]
+2𝜋𝑓𝑟𝑒𝑠•𝐿
+𝑅𝑠
+
+𝑅𝑝
+
+] [𝑄 = 2𝜋𝑓𝑟𝑒𝑠•𝐿] [𝑄 =
+
+𝑓𝑟𝑒𝑠
+𝐵
+
+]
+
+3.3 Voeding
+Afbakening:
+•
+Schakelingen voor enkel- en dubbelzijdige gelijkrichting en de bruggelijkrichter
+•
+Afvlakschakelingen
+•
+Stabilisatieschakelingen in laagspanningsvoedingen
+•
+Schakelende voedingen, isolatie en EMC
+
+3.4 Versterker
+Afbakening:
+•
+Lf- en hf-versterker
+•
+Operationele versterker [OpAmp]
+•
+Versterkingsfactor
+•
+Amplitude-frequentiekarakteristiek en bandbreedte (breedband- t.o.v. afgestemde trappen)
+•
+Instelling in klasse A, A/B, B en C
+•
+Harmonische vervorming en intermodulatievervorming, oversturing van versterkertrappen
+•
+Vermogensversterkers met buizen, spanningen en impedanties, impedantietransformatie
+•
+Parasitaire oscillaties
+
+3.5 Detector
+Afbakening:
+•
+AM-detectoren:
+- Diodedetector
+- Productdetector en BFO
+•
+FM-detectoren
+
+3.6 Oscillator
+Afbakening:
+•
+Factoren die de frequentie en frequentiestabiliteit bepalen
+•
+Oscilleervoorwaarden
+•
+LC-oscillator
+•
+Kristaloscillator, overtone-oscillator
+•
+Spanningsgestuurde oscillator (VCO, frequentiemodulator)
+•
+Faseruis
+
+3.7 Phase Locked Loop (PLL)
+Afbakening:
+•
+Regellus met fasevergelijkschakeling
+•
+Regellus met instelbaar deeltal
+•
+Filter in de regellus
+•
+Modulatie in de VCO
+
+3.8 Mengtrap
+Afbakening:
+•
+Mengtrap met transistor, JFET of dioden
+•
+Som- en verschilmenging, spiegelfrequentie
+•
+Amplitudemodulator
+•
+Balansmodulator
+
+3.9 Digitale signaalverwerking
+Afbakening:
+•
+FIR en IIR filter blokschema
+•
+Fourier transformatie (grafische weergave):
+- DFT
+- FFT
+•
+Directe digitale frequentiesynthese (DDS)
+
+Eindterm 4 Ontvangers
+4.1 Uitvoering
+Afbakening:
+•
+Enkel- en dubbelsuperheterodyne ontvanger
+•
+Directe conversie
+
+4.2 Blokschema’s
+Afbakening:
+•
+CW-ontvanger
+•
+AM-ontvanger
+•
+EZB-ontvanger
+•
+FM-ontvanger
+
+4.3 Werking en functies van de volgende schakelingen
+Afbakening:
+•
+Hf-versterker [smalband of breedband]
+•
+Oscillator [vast en variabel]
+•
+Mengtrap
+•
+Middenfrequentversterker
+•
+Begrenzer
+•
+Detector
+•
+Zwevingsoscillator [BFO]
+•
+Productdetector
+•
+Lf-versterker
+•
+Automatische versterkingsregeling
+•
+S-meter
+•
+Ruisonderdrukker [squelch]
+
+4.4 Ontvangerspecificaties
+Afbakening:
+•
+Nabijselectiviteit
+•
+Verafselectiviteit
+•
+Gevoeligheid, ruisgetal
+•
+Stabiliteit
+•
+Intermodulatie, kruismodulatie
+•
+Reciproke menging (faseruis)
+•
+Gevoeligheidsvermindering (desensitization)
+•
+Blokkering
+
+Eindterm 5 Zenders
+5.1 Uitvoering
+Afbakening:
+•
+Zender met of zonder frequentietransformatie
+•
+Transceiver (TRX)
+
+5.2 Blokschema’s
+Afbakening:
+•
+CW-zender
+•
+EZB-zender
+•
+FM-zender met PLL
+
+5.3 Werking en functies van de volgende schakelingen
+Afbakening:
+•
+Mengtrap
+•
+Oscillator
+•
+Scheidingstrap
+•
+Stuurtrap
+•
+Frequentievermenigvuldiger
+•
+Vermogensversterker
+•
+Aanpassing
+•
+Uitgangsfilter
+•
+Frequentiemodulator
+•
+Lf-begrenzer
+•
+Balansmodulator
+•
+Fasemodulator
+•
+Zijbandfilter
+
+5.4 Zenderspecificaties
+Afbakening:
+•
+Frequentiestabiliteit
+•
+Hf-bandbreedte
+•
+Zijbanden
+•
+Lf-bandbreedte
+•
+Niet-lineariteit (harmonische en intermodulatievervorming)
+•
+Uitgangsimpedantie
+•
+Uitgangsvermogen
+•
+Rendement
+•
+Frequentiezwaai
+•
+Modulatie-index
+•
+Sleutelklikken en chirps
+•
+Ongewenste hf-uitstralingen
+•
+Effecten van oversturing
+•
+Faseruis
+•
+Kaststraling
+
+Eindterm 6 Antennes en transmissielijnen
+6.1 Antennetypen
+Afbakening:
+•
+Halvegolfantenne met voeding in het midden
+•
+Halvegolfantenne met voeding aan het einde
+•
+Gevouwen dipool
+•
+Kwartgolf verticale antenne [groundplane]
+•
+Antenne met parasitaire elementen [Yagi]
+•
+Apertuurantennes (parabolische reflector, hoorn)
+•
+Dipool met sperkringen [traps]
+
+6.2 Antenne-eigenschappen
+Afbakening:
+•
+Stroom- en spanningsverdeling
+•
+Impedantie in het voedingspunt
+•
+Capacitieve of inductieve impedantie buiten resonantie
+•
+Polarisatie
+•
+Richteffect, rendement en antennewinst
+•
+Effectief uitgestraald vermogen [ERP, EIRP]
+•
+Voor/achterverhouding
+•
+Horizontale en verticale stralingsdiagrammen
+•
+Effectief opvangend oppervlak
+
+6.3 Transmissielijnen
+Afbakening:
+•
+Open lijn
+•
+Coaxiale kabel
+•
+Golfpijp
+•
+Karakteristieke impedantie [𝑍0 ]
+•
+Verkortingsfactor
+•
+
+Staandegolfverhouding [𝑆𝐺𝑉 =
+
+•
+•
+
+Verliezen
+Balun
+
+•
+•
+
+𝑍𝑏𝑒𝑙
+𝑍0
+
+𝑍
+
+] of [𝑆𝐺𝑉 = 𝑍 0 ]
+𝑏𝑒𝑙
+
+Kwartgolf lijn als impedantietransformator [ Z02 = Zin • Zuit ]
+Antenne aanpassingseenheid
+
+Eindterm 7 Propagatie
+7.1 Algemeen
+Afbakening:
+•
+Signaalverzwakking, signaal-ruisverhouding
+•
+Zichtbereikverbinding, vrije - ruimtepropagatie
+•
+Kosmische ruis
+•
+Basisbegrippen van de propagatievoorspelling (link budget):
+Overheersende ruisbron (bandruis t.o.v. ontvangerruis)
+Minimaal benodigde signaal-ruisverhouding
+Minimaal benodigd ontvangen signaalvermogen
+Trajectverliezen
+Antennewinst
+Transmissielijnverlies
+Minimaal benodigd zendvermogen
+
+7.2 HF
+Afbakening:
+•
+lonosfeerlagen
+•
+Kritische frequentie
+•
+Invloed van de zon op de ionosfeer
+•
+Maximum Usable Frequency [MUF]
+•
+Grondgolf en ruimtegolf
+•
+Opstralingshoek, invloed antennehoogte
+•
+Dode zone en skip distance
+•
+Multipadeffecten in ionosferische propagatie, fading
+•
+Atmosferische ruis
+
+7.3 VHF en hoger
+Afbakening:
+•
+Troposfeer
+•
+Golfgeleidervorming in de atmosfeer (ducting)
+•
+Verstrooiing (scattering)
+•
+De invloed van de antennehoogte op de overbrugbare afstand [radio horizon]
+•
+Temperatuurinversie
+•
+Sporadische E-reflectie
+•
+Aurorareflectie
+•
+Meteorscatter
+•
+Maanreflectie (EME)
+•
+Thermische ruis van het aardoppervlak
+
+Eindterm 8 Metingen
+8.1 Meten
+Afbakening:
+Het meten van:
+•
+Gelijk- en wisselspanningen
+•
+Gelijk- en wisselstromen
+•
+Weerstand
+•
+Gelijkstroom- en hoogfrequentvermogen [gemiddeld vermogen, 'Peak Envelope Power']
+•
+Staandegolfverhouding
+•
+Golfvorm van de omhullende van een hoogfrequentsignaal
+•
+Frequentie
+•
+Resonantiefrequentie
+Meetfouten:
+•
+Invloed van de frequentie
+•
+Invloed van de golfvorm
+•
+Invloed van, de inwendige impedantie van meetinstrumenten
+
+8.2 Meetinstrumenten
+Afbakening:
+Het meten met:
+•
+Universeelmeter (digitaal en analoog)
+•
+Staandegolfmeter
+•
+Frequentieteller
+•
+Spectrumanalyser
+•
+Signaalgenerator
+•
+Oscilloscoop
+•
+Kunstantenne [dummy load], hf-vermogensmeter
+
+Eindterm 9 Storing en immuniteit
+9.1 Storing in elektronische apparatuur
+Afbakening:
+•
+Blokkering [werkpuntverschuiving]
+•
+Interferentie met het gewenste signaal
+•
+Intermodulatie
+•
+Laagfrequentdetectie
+
+9.2 Oorzaak van de storing in elektronische apparatuur
+Afbakening:
+•
+Veldsterkte van de zender
+•
+Ongewenste uitstraling van de zender [parasitaire uitstraling, harmonischen]
+•
+Ongewenste beïnvloeding van de apparatuur:
+- via de antenne-ingang [antennespanning, ingangsselectiviteit]
+- via andere aangesloten leidingen
+- door directe instraling
+
+9.3 Maatregelen tegen storingen
+Afbakening:
+•
+Voorzieningen ter voorkoming en opheffing van storingen:
+- Filteren
+- Ontkoppelen
+- Afscherming
+•
+Sociale aspecten (goede relatie met de buren)
+
+Eindterm 10 Veiligheid
+10.1 Het menselijk lichaam
+Afbakening:
+•
+Weerstand van het menselijk lichaam
+•
+Toegelaten aanrakingsspanning
+•
+De gevolgen van elektrische schok
+•
+Toegelaten vermogensdichtheid van een hoogfrequentveld [watt/m²]
+
+10.2 Netvoeding
+Afbakening:
+•
+Het verschil tussen fase, nul en aarde [kleurcode]
+•
+Uitvoeringen van aardverbindingen
+•
+Aardlekschakelaar
+•
+Snelle en trage veiligheden
+
+10.3 Hoge spanningen
+Afbakening:
+•
+Isolatie
+•
+Afscherming
+•
+Aarding
+•
+Geladen condensatoren
+
+10.4 Bliksemontlading
+Afbakening:
+•
+Het gevaar van blikseminslag
+•
+De bescherming tegen blikseminslag
+•
+Uitvoering van aarding
+
+10.5 Opstelling
+Afbakening:
+•
+Apparatuur binnen
+•
+Apparatuur buiten
+•
+Antenne
+
+Eindterm 11 Nationale en internationale gebruiksregels en procedures
+11.1 Nationale en internationale gebruiksregels en procedures
+Afbakening:
+•
+Q-code
+•
+Overige codes en afkortingen gebruikt in de amateurdienst
+•
+Internationale noodsignalen, noodverkeer, communicatie bij rampen
+•
+Roepletters in Nederland:
+- Prefix
+- Samenstelling van de roepletters
+- Buitenlandse amateurs in Nederland
+
+Eindterm 12 Nationale en internationale regelgeving amateurdienst en
+amateursatellietdienst
+12.1 ITU Radioreglement
+Afbakening:
+•
+Definitie van de amateurdienst en het begrip radioamateur
+•
+Artikel S25 van het Radioreglement
+•
+ITU-regio’s
+•
+Betekenis van de symbolen voor de klasse van uitzending
+
+12.2 CEPT-aanbevelingen TR 61-01 en TR 61-02
+12.2.1 TR 61-01
+Afbakening:
+•
+Tijdelijk gebruik van een radiostation in de CEPT-landen
+•
+Tijdelijk gebruik van een radiostation in niet-CEPT-landen die deelnemen aan TR 61-01
+
+12.2.2 TR 61-02
+Afbakening:
+•
+HAREC
+•
+Aanvragen permanente vergunning in het buitenland
+
+12.3 Telecommunicatiewet (relevante artikelen)
+Afbakening:
+•
+Artikel 1.1, definities “Onze minister” en “radioapparaat”
+•
+Artikel 15.3, handhaving, opleggen van zendverbod
+
+12.4 Europese regelgeving: EMC-richtlijn 2014-30-EG
+Afbakening:
+•
+Artikel 3.1, lid 4: definitie elektromagnetische compatibiliteit
+
+12.5 De Regeling gebruik frequentieruimte met meldingsplicht 2015
+Afbakening:
+
+•
+
+Alle voor radioamateurs bestemde bepalingen en tabellen
+
+Eindterm 13 Gedragsregels
+13.1 Maatschappelijke verantwoordelijkheden van de radiozendamateur
+Afbakening:
+•
+Gewenst gedrag in het radioverkeer:
+- Binnen de Amateurdienst
+- T.o.v. andere diensten
+- IARU aanbevelingen
+•
+Opheffen van storing
+•
+Reageren op noodverkeer
+
+13.2 Operationele vaardigheden
+Afbakening:
+•
+Gebruik kunstantenne
+•
+Verbindingsprocedures
+•
+Aanpassen vermogen aan situatie
+
+

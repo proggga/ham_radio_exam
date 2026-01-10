@@ -16,7 +16,7 @@ Measured as current through a known series resistor.
 *   **Loading Effect (Belastingseffect):**
     *   Ideally, a voltmeter has infinite impedance. Real meters draw current.
     *   If $R_{in}$ is not $\gg$ Circuit [Impedance](../01_electricity/21_Impedance_Impedantie.md), the meter loads the circuit, reading **lower** than the actual voltage.
-    *   *[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
+    *   *[Exam](../12_regulations/05_Licensing_in_the_Netherlands.md) Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
 
 ### Current Measurement (DC)
 Measured directly or with a shunt.
@@ -37,7 +37,7 @@ Uses an internal battery.
 *   **Scale:** Non-linear (logarithmic-like). $0 \Omega$ is at full scale (right), $\infty$ is at rest (left).
 
 ## 2. Digital Multimeter (DMM)
-Uses an Analog-to-Digital Converter ([ADC](../01_electricity/39_Digital_Processing_Techniques.md)).
+Uses an Analog-to-Digital Converter ([ADC](../01_electricity/40_Digital_Processing_Techniques.md)).
 *   **Input [Impedance](../01_electricity/21_Impedance_Impedantie.md):** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
 *   **Power:** Requires a battery for all measurements (unlike analogue which only needs it for Ohms).
 *   **Features:** Auto-ranging, [Diode](../02_components/17_Diodes.md) test, [Transistor](../02_components/18_Transistors_BJT_&_FET.md) $h_{FE}$, Capacitance.

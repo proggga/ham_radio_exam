@@ -13,9 +13,9 @@ Beyond the transceiver, several accessories improve station performance and capa
 ## Transverters
 *   **Function**: Converts the RF input and output of a transceiver to another band.
 *   **Operation**:
-    *   *Transmit*: Down-converts [HF](../07_propagation/01_Propagation_Basics.md) (e.g., 28 MHz) to IF, or Up-converts IF to [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/Microwave.
-    *   *Receive*: Down-converts [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) signals to the [HF](../07_propagation/01_Propagation_Basics.md) band (e.g., 28 MHz) for the transceiver to process.
-*   **Application**: Allows an [HF](../07_propagation/01_Propagation_Basics.md) radio to operate on [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/UHF/Microwave bands (e.g., 1296 MHz) while retaining the HF radio's advanced features (filters, [DSP](../01_electricity/38_Digital_Signal_Processing_DSP.md)).
+    *   *Transmit*: Down-converts [HF](../07_propagation/01_Propagation_Basics.md) (e.g., 28 MHz) to IF, or Up-converts IF to [VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/Microwave.
+    *   *Receive*: Down-converts [VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) signals to the [HF](../07_propagation/01_Propagation_Basics.md) band (e.g., 28 MHz) for the transceiver to process.
+*   **Application**: Allows an [HF](../07_propagation/01_Propagation_Basics.md) radio to operate on [VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/UHF/Microwave bands (e.g., 1296 MHz) while retaining the HF radio's advanced features (filters, [DSP](../01_electricity/39_Digital_Signal_Processing_DSP.md)).
 
 ## RF Preamplifiers (Preamps)
 *   **Function**: Amplifies weak signals *before* they reach the receiver.
@@ -29,7 +29,7 @@ Beyond the transceiver, several accessories improve station performance and capa
 ## Antenna Tuning Units (ATUs)
 *   **Function**: Matches the impedance of the antenna system to the transceiver (usually $50 \Omega$).
 *   **Note**: It does *not* tune the antenna itself (does not change resonant frequency), only the impedance seen by the radio.
-*   See [Antenna Tuning Unit (ATU)](../06_antennas/21_Antenna_Tuning_Unit_ATU.md) for details.
+*   See [Antenna Tuning Unit (ATU)](../06_antennas/22_Antenna_Tuning_Unit_ATU.md) for details.
 
 ---
 [< Back to Section Index](README.md)

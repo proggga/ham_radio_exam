@@ -3,7 +3,7 @@
 ## 1. Structure and Function
 An inductor (coil) stores electrical energy in a **magnetic field** (See [Fields](../01_electricity/19_Electric,_Magnetic,_and_Electromagnetic_Fields.md)).
 *   **Construction:** A coil of conductive wire, often wound around a core.
-    *   **Litz Wire:** Used for MF/[HF](../07_propagation/01_Propagation_Basics.md) coils to reduce **[Skin Effect](../01_electricity/43_Skin_Effect.md)** (Copper losses). Consists of many thin insulated strands.
+    *   **Litz Wire:** Used for MF/[HF](../07_propagation/01_Propagation_Basics.md) coils to reduce **[Skin Effect](../01_electricity/45_Skin_Effect.md)** (Copper losses). Consists of many thin insulated strands.
     *   **[Shielding](../01_electricity/20_Shielding_Afscherming.md):** MF coils are often shielded with an aluminum can to prevent magnetic field interference with nearby components.
 *   **Symbol:** A series of loops (like a spring).
 
@@ -25,7 +25,7 @@ $$L = \frac{\mu_0 \cdot \mu_r \cdot n^2 \cdot A}{l}$$
 1.  **Turns ($n$):** Proportional to the **square** of turns ($n^2$). Double the turns = 4x Inductance.
 2.  **Area ($A$):** Thicker coil = Higher inductance.
 3.  **Length ($l$):** Longer coil (stretching it out) = **Lower** inductance.
-    *   *[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Tip:* If a coil is "stretched" (length increases, turns stay constant), $L$ decreases because the magnetic coupling between turns is reduced.
+    *   *Exam Tip:* If a coil is "stretched" (length increases, turns stay constant), $L$ decreases because the magnetic coupling between turns is reduced.
     *   *Formula Relationship:* $L \propto 1/l$.
 4.  **Core Material ($\mu_r$):** Relative Permeability.
     *   Air: $\mu_r \approx 1$.

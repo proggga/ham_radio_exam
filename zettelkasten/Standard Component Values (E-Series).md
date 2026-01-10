@@ -23,3 +23,5 @@ Provides higher resolution steps between values.
 
 ## Related
 *   [[Resistor Color Code]]
+*   [[Resistors]]
+*   [[Capacitors]]

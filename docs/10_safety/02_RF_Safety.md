@@ -28,8 +28,8 @@ The percentage of time the transmitter is actually transmitting.
 ### Field Strength (V/m)
 Typical Reference Levels for the public:
 *   **[HF](../07_propagation/01_Propagation_Basics.md) (10-30 MHz):** $\approx 28 \text{ V/m}$.
-*   **[VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (144 MHz):** $\approx 28 \text{ V/m}$.
-*   **[UHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (430 MHz):** $\approx 29 \text{ V/m}$ (Limits rise with frequency above resonance).
+*   **[VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (144 MHz):** $\approx 28 \text{ V/m}$.
+*   **[UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (430 MHz):** $\approx 29 \text{ V/m}$ (Limits rise with frequency above resonance).
 
 ## 3. Safe Distance Calculation
 To ensure the field strength $E$ stays below the limit $E_{limit}$:
@@ -38,7 +38,7 @@ $$d_{safe} = \frac{\sqrt{30 \times EIRP}}{E_{limit}}$$
 *   **EIRP**: Effective Isotropic Radiated Power.
     *   $EIRP = P_{transmitter} \times Gain_{antenna} \times 1.64$ (if gain is relative to dipole).
     *   *Note:* $1 \text{ dipole gain (0 dBd)} = 1.64 \times \text{isotropic (2.15 dBi)}$.
-*   **[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Example**:
+*   **[Exam](../12_regulations/05_Licensing_in_the_Netherlands.md) Example**:
     *   $P = 400 \text{ W}$, Gain = 10 dBd (factor 10), Limit = 28 V/m.
     *   $EIRP = 400 \times 10 \times 1.64 = 6560 \text{ W}$.
     *   $d = \sqrt{30 \times 6560} / 28 \approx \sqrt{196800} / 28 \approx 443 / 28 \approx 16 \text{ m}$.

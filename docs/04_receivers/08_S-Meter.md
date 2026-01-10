@@ -13,7 +13,7 @@ The S-Meter indicates the relative strength of the received signal.
 *   ...
 *   **S9+20dB**: 10x voltage of S9 = 500 $\mu$V.
 
-*Note:* For [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md), S9 is sometimes defined as 5 $\mu$V, but [HF](../07_propagation/01_Propagation_Basics.md) standards (50 $\mu$V) are often used in exams.
+*Note:* For [VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md), S9 is sometimes defined as 5 $\mu$V, but [HF](../07_propagation/01_Propagation_Basics.md) standards (50 $\mu$V) are often used in exams.
 
 ## Operation
 *   The S-meter is usually driven by the **[AGC](04_Automatic_Gain_Control_AGC.md) voltage** in the IF amplifier.

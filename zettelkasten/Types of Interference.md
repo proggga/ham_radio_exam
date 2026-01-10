@@ -24,6 +24,7 @@ This map covers the various ways interference is generated and manifested.
 
 ## Transmitter Issues
 *   **[[Transmitter Defects]]** - Chirp, [[Station Accessories|Key]] Clicks, and Splatter.
+*   **[[Cabinet Radiation]]** - Direct radiation from the chassis.
 
 ## Related
 *   **[[Noise Types]]** - QRN vs QRM.

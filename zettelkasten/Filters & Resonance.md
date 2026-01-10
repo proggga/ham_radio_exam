@@ -61,3 +61,6 @@ When two tuned circuits are coupled (e.g., in an IF transformer), the response c
 *   **[[Inductors (Spoelen)]]** - Component.
 *   **[[Capacitors]]** - Component.
 *   **[[High-Performance Filters]]** - Crystal/Mechanical.
+*   **[[Digital Signal Processing (DSP)]]** - Digital Filters (FIR/IIR).
+*   **[[Superheterodyne Receiver]]** - IF Filtering.
+*   **[[Transmitter Architecture]]** - Output Filtering.

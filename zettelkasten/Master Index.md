@@ -33,7 +33,9 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Electric, Magnetic, and Electromagnetic Fields|Fields]] (Electric, Magnetic, EM Waves)
 *   [[AC Signals & Noise|AC Signals]] (Sine, Phase, Period)
 *   [[Modulation & Digital Signals|Modulation]] (AM, FM, SSB, Digital)
+*   **[[Error Correction Methods]]** (CRC, ARQ, FEC)
 *   [[Digital Signal Processing (DSP)|DSP]] (Sampling, ADC/DAC)
+*   **[[Convolution]]**
 *   [[Skin Effect]]
 
 ## 2. Components
@@ -78,6 +80,7 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 6. Antennas
 *   [[Antenna Types|Types]] (Dipole, Yagi, Vertical)
+*   **[[End-Fed Antenna]]** (EFHW, Zepp)
 *   [[Antenna Characteristics|Characteristics]] (Gain, Pattern, ERP)
 *   [[Vertical Antennas]] (Ground Plane, 5/8 Wave)
 *   [[Transmission Lines]] (Coax, Velocity Factor)
@@ -91,6 +94,7 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 7. Propagation
 *   [[Propagation Basics|Basics]] (Polarization, Inverse Square)
+*   **[[Link Budget]]**
 *   [[Doppler Shift]]
 *   [[Propagation Modes|Modes]] (Ground, Sky, Line of Sight)
 *   [[Dead Zone (Skip Zone)]]
@@ -106,16 +110,19 @@ This index provides a comprehensive list of all study topics organized by catego
     *   [[10m Band]]
     *   [[VHFUHF Bands (6m, 2m, 70cm)|VHF/UHF Bands]]
     *   [[Solar Cycle & Band Selection|Solar Cycle Strategy]]
-    *   [[Solar Indices & Space Weather]] (SFI, K-index, A-index)
+*   [[Solar Indices & Space Weather]] (SFI, K-index, A-index)
+*   **[[Earth Thermal Noise]]**
 
 ## 8. Measurements
 *   [[Multimeters (Universeelmeters)|Multimeters]] (V, I, R)
+*   **[[Measurement Errors]]**
 *   [[Signal Visualization|Visualization]] (Scope, Spectrum)
 *   [[RF Measurements]] (SWR, Freq Counter, Dummy Load)
 *   [[Radio Direction Finding (RDF)]] (Fox Hunting, Triangulation)
 
 ## 9. Interference (EMC)
 *   [[Types of Interference|Types]] (Blocking, Intermod, Splatter)
+*   **[[Cabinet Radiation]]**
 *   [[Causes of Interference|Causes]] (Harmonics, Pin 1)
 *   [[Audio Rectification (LFD)]] (Inpraten, Detection)
 *   [[Mitigation (Ontstoring)|Mitigation]] (Filters, Ferrites, Grounding)
@@ -144,6 +151,9 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 12. Regulations
 *   [[International Organisations|Organisations]] (ITU, CEPT, IARU)
+*   **[[EMC Directive (2014-30-EU)]]**
+*   **[[Dutch Frequency Regulations 2015]]**
+*   **[[Telecommunicatiewet Provisions]]**
 *   [[Licensing in the Netherlands|Licensing]] (Callsigns, Registration)
 *   [[Rules & Regulations|Rules]] (Status, Emission Classes)
 *   [[Operating Rules (Netherlands)]] (Power limits, Restrictions)

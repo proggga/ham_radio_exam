@@ -7,7 +7,7 @@ type: permanent-note
 modified: 2025-12-29
 
 dutch_title: "VHF/UHF banden"
-aliases: ["VHF/UHF banden"]
+aliases: ["VHF/UHF banden", "2m Band", "70cm Band", "6m Band", "VHF", "UHF"]
 ---
 
 # VHF/UHF Bands

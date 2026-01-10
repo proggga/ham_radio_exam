@@ -24,6 +24,7 @@ aliases: ["Digitale transmissie"]
 *   **Baudot (CCITT-1)**: 5-bit code. 32 combinations. Used in **RTTY**. No error correction.
 *   **ASCII**: 7 or 8-bit code. Standard for computers.
 *   **Parity**: Simple error detection (Even/Odd).
+*   **[[Error Correction Methods]]**: Advanced methods like CRC, ARQ, and FEC.
 
 ## Modulation Types
 

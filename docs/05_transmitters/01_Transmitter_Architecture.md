@@ -12,7 +12,7 @@ Varying the frequency of the carrier.
 *   **Indirect [FM](../01_electricity/35_Frequency_Modulation_FM.md) (Phase [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md)):** Modulating the phase of a crystal oscillator.
 *   **Multipliers:** Frequency multipliers (Verdubbelaar/Verdrievoudiger) are often used to reach the final frequency.
     *   *Note:* Multiplication increases **Frequency** AND **Deviation**.
-    *   *Example:* 12 MHz Osc $\times$ 12 $\to$ 144 MHz. 1 kHz deviation $\to$ 12 kHz deviation.
+    *   *Example:* 12 MHz Osc x 12 -> 144 MHz. 1 kHz deviation -> 12 kHz deviation.
 
 ## 3. SSB Transmitter
 Generates a [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md) suppressed carrier signal.

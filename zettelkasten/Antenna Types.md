@@ -16,6 +16,7 @@ This map covers the various types of antennas used in amateur radio.
 
 ## Wire Antennas
 *   **[[The Dipole Antenna]]** - The reference standard ($\lambda/2$).
+*   **[[End-Fed Antenna]]** - End-Fed Half Wave (EFHW) and Zepp.
 *   **[[Multiband Antennas]]** - Traps and Fan dipoles.
 *   **[[Loop Antennas]]** - Magnetic and Full-wave loops.
 

@@ -44,4 +44,10 @@ Using capacitors to short RF to ground.
 *   **Mains Filter:** A combination of Series [[Inductors (Spoelen)|Inductors]] and Parallel Capacitors (L-C) built into a module.
 *   **Ferrite Ring**: Wrapping the mains cord through a ferrite ring blocks common-mode RF from entering via the mains.
 
+## 6. Social Aspects
+Technique is only half the solution.
+*   **Good Relations**: Maintain a friendly relationship with neighbors. They are more likely to cooperate if they like you.
+*   **Cooperation**: Take complaints seriously. Work *with* the neighbor to solve the problem (e.g., offer to install a filter on their device).
+*   **Responsibility**: Even if your equipment meets all standards, you have a moral obligation to help resolve interference caused by your transmissions.
+
 ## Related

@@ -1,0 +1,26 @@
+# Doppler Shift
+
+Doppler [Shift](../11_procedures.md) is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.
+
+## Mechanism
+*   **Approaching Source**: Waves are compressed $\rightarrow$ Frequency **Increases** (Pitch goes up).
+*   **Receding Source**: Waves are stretched $\rightarrow$ Frequency **Decreases** (Pitch goes down).
+
+## Amateur Radio Applications
+### 1. Satellites
+As a Low Earth Orbit (LEO) satellite passes overhead:
+*   **AOS (Acquisition of Signal)**: Satellite approaching. Frequency is **High**.
+*   **TCA (Time of Closest Approach)**: Frequency is nominal.
+*   **[LOS](07_Line_of_Sight_Propagation_LOS.md) (Loss of Signal)**: Satellite moving away. Frequency is **Low**.
+*   **Correction**: The operator must tune the receiver *down* during the pass to follow the signal. [UHF](08_VHFUHF_Bands_6m,_2m,_70cm.md) shifts more than [VHF](08_VHFUHF_Bands_6m,_2m,_70cm.md).
+
+### 2. EME (Moonbounce)
+*   The Moon moves relative to the Earth.
+*   [EME](../11_procedures.md) signals shift by several kHz at 1296 MHz.
+
+## Formula
+$$\Delta f = \frac{v}{c} \times f$$
+Where $v$ is relative velocity, $c$ is speed of light, $f$ is frequency.
+
+---
+[< Back to Section Index](README.md)

@@ -12,13 +12,14 @@
 *   **Baudot (CCITT-1)**: 5-bit code. 32 combinations. Used in **RTTY**. No error correction.
 *   **ASCII**: 7 or 8-bit code. Standard for computers.
 *   **Parity**: Simple error detection (Even/Odd).
+*   **[Error Correction Methods](38_Error_Correction_Methods.md)**: Advanced methods like CRC, ARQ, and FEC.
 
 ## Modulation Types
 
 ### FSK (Frequency Shift Keying)
 *   Switching between two tones (Mark/Space). Used in **RTTY** ([Shift](../11_procedures.md) usually 170 Hz).
 *   **[Bandwidth](../03_circuits/07_Bandwidth.md) Formula**: $B \approx 2(1.6 \times f_{symbol} + \Delta f)$ or roughly **Shift + Baud rate** (plus some margin).
-    *   *[Exam](../12_regulations/02_Licensing_in_the_Netherlands.md) Formula:* $B \approx 2(1.6 \cdot f_s + \Delta f)$ where $\Delta f$ is half the shift? No, typically $B \approx \text{Shift} + B_d$ is a good approximation, but rigorous formula is $B = 2(\Delta f + B_d)$. Note: $\Delta f$ is deviation (half the shift).
+    *   *[Exam](../12_regulations/05_Licensing_in_the_Netherlands.md) Formula:* $B \approx 2(1.6 \cdot f_s + \Delta f)$ where $\Delta f$ is half the shift? No, typically $B \approx \text{Shift} + B_d$ is a good approximation, but rigorous formula is $B = 2(\Delta f + B_d)$. Note: $\Delta f$ is deviation (half the shift).
 *   *Exam Tip:* FSK has constant amplitude (Class C amplifier allowed).
 
 ### PSK (Phase Shift Keying)

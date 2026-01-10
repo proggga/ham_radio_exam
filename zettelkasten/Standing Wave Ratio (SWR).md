@@ -27,6 +27,10 @@ $$SWR = \frac{V_{max}}{V_{min}}$$
 
 $$SWR = \frac{1 + \sqrt{P_{ref}/P_{fwd}}}{1 - \sqrt{P_{ref}/P_{fwd}}}$$
 
+For purely resistive loads (at resonance):
+*   If $Z_{load} > Z_0$: $$SWR = \frac{Z_{load}}{Z_0}$$
+*   If $Z_{load} < Z_0$: $$SWR = \frac{Z_0}{Z_{load}}$$
+
 ## Values
 *   **1:1**: Perfect match. No reflection. $V_{max} = V_{min}$.
 *   **1.5:1**: Excellent match.

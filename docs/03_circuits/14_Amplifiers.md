@@ -14,6 +14,7 @@ This map covers the theory and operation of electronic amplifiers.
 ## Applications
 *   **[Superheterodyne Receiver](../04_receivers/02_Superheterodyne_Receiver.md)** - Uses RF and IF amplifiers.
 *   **[Transmitter Architecture](../05_transmitters/01_Transmitter_Architecture.md)** - Uses Power Amplifiers (PA).
+*   **[Operational Amplifiers (Op-Amps)](../02_components/25_Operational_Amplifiers_Op-Amps.md)** - Integrated circuit amplifiers.
 
 ---
 [< Back to Section Index](README.md)

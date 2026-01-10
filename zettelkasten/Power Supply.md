@@ -25,3 +25,6 @@ This map covers the conversion of mains power to useful DC for radio equipment.
 ## Related
 *   **[[Transformers]]** - Input stage.
 *   **[[Semiconductors]]** - Active components used.
+*   **[[Voltage and Current Sources]]** - Theory.
+*   **[[Zener Diode]]** - Reference voltage.
+*   **[[Electrical Safety]]** - Mains safety.

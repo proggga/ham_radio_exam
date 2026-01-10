@@ -12,8 +12,8 @@
     *   **Use**: Power supply smoothing, audio coupling.
 
 ## Frequency Characteristics
-*   **[HF](../07_propagation/01_Propagation_Basics.md)/[VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) Applications:**
-    *   **Ceramic:** Preferred for [VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) (e.g., 145 MHz) due to low inductance.
+*   **[HF](../07_propagation/01_Propagation_Basics.md)/[VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) Applications:**
+    *   **Ceramic:** Preferred for [VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (e.g., 145 MHz) due to low inductance.
     *   **Air/Vacuum:** Lowest losses (best dielectric) for [HF](../07_propagation/01_Propagation_Basics.md) applications.
     *   **Value:** Typical tuning capacitor for Shortwave ([HF](../07_propagation/01_Propagation_Basics.md)) is ~100 pF (compared to ~500 pF for Medium Wave).
 
@@ -29,7 +29,7 @@ Different dielectric materials are suitable for different capacitance ranges.
 
 | Type | Typical Range | Key Application |
 | :--- | :--- | :--- |
-| **Air / Vacuum** | 1 pF - 500 pF | VFO Tuning, [ATU](../06_antennas/21_Antenna_Tuning_Unit_ATU.md) |
+| **Air / Vacuum** | 1 pF - 500 pF | VFO Tuning, [ATU](../06_antennas/22_Antenna_Tuning_Unit_ATU.md) |
 | **Mica** | 1 pF - 10 nF | High stability RF [Filters](../03_circuits/03_Filters_&_Resonance.md) |
 | **Ceramic** | 1 pF - 100 nF | RF coupling/decoupling, general purpose |
 | **Plastic Film** | 1 nF - 10 µF | Audio, timing circuits |

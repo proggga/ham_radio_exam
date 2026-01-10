@@ -60,3 +60,7 @@ $$d_{safe} = \frac{\sqrt{30 \times EIRP}}{E_{limit}}$$
 *   **Far Field (Verre veld):** Plane wave radiation ($d > 2\lambda$). $E$ and $H$ decrease linearly with distance ($1/d$).
 
 ## Related
+*   [[Electrical Safety]]
+*   [[Antenna & Tower Safety]]
+*   [[Antenna Characteristics]] (Gain/EIRP)
+*   [[Cabinet Radiation]]

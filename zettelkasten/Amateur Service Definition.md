@@ -24,9 +24,9 @@ Defined in the **[[Emission Classes (ITU)|ITU]] Radio [[Rules & Regulations|Regu
 4.  **Non-commercial**: Strictly no money involved ("without pecuniary interest").
 
 ## Dutch Legislation
-*   **Telecommunicatiewet**: The primary law governing telecommunications in the [[Operating Rules (Netherlands)|Netherlands]].
+*   **[[Telecommunicatiewet Provisions|Telecommunicatiewet]]**: The primary law governing telecommunications in the [[Operating Rules (Netherlands)|Netherlands]].
 *   **Frequentiebesluit 2013**: Regulates frequency usage.
-*   **Regeling gebruik van frequentieruimte**: Specific rules for amateurs.
+*   **[[Dutch Frequency Regulations 2015|Regeling gebruik van frequentieruimte]]**: Specific rules for amateurs.
 
 ## Related
 *   [[Station Status]]

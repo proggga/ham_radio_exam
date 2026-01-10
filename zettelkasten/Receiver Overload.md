@@ -19,7 +19,7 @@ Receiver overload occurs when a very strong signal (even if off-frequency) enter
 *   **Mechanism**:
     *   A strong RF signal drives the input transistor/FET/Tube into non-linearity.
     *   The input junction acts as a **rectifier** (diode), creating a DC voltage from the RF signal.
-    *   This DC voltage shifts the **Operating Point** (Instelpunt/Bias) of the amplifier.
+    *   This DC voltage shifts the **Operating Point** (Instelpunt / Bias / *Werkpuntverschuiving*) of the amplifier.
     *   *Result:* The amplifier gain drops or cuts off completely (Class C operation).
 *   **[[Mitigation (Ontstoring)|Mitigation]]**:
     *   **Attenuator (Verzwakker)**: Reducing the input signal moves the stage back into its linear range.

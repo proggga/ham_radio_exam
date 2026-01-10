@@ -52,3 +52,4 @@ Unwanted oscillations caused by stray capacitance/inductance (often in PA stages
 ## Related
 *   [[Crystals (Quartz)]]
 *   [[Feedback Systems]]
+*   [[Phase Locked Loop (PLL)]]

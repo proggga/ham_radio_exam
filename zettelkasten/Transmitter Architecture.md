@@ -24,7 +24,7 @@ Varying the frequency of the carrier.
 *   **Indirect [[Frequency Modulation (FM)|FM]] (Phase [[Modulation & Digital Signals|Modulation]]):** Modulating the phase of a crystal oscillator.
 *   **Multipliers:** Frequency multipliers (Verdubbelaar/Verdrievoudiger) are often used to reach the final frequency.
     *   *Note:* Multiplication increases **Frequency** AND **Deviation**.
-    *   *Example:* 12 MHz Osc $\times$ 12 $\to$ 144 MHz. 1 kHz deviation $\to$ 12 kHz deviation.
+    *   *Example:* 12 MHz Osc x 12 -> 144 MHz. 1 kHz deviation -> 12 kHz deviation.
 
 ## 3. SSB Transmitter
 Generates a [[Single Sideband (SSB)|Single Sideband]] suppressed carrier signal.
@@ -38,3 +38,10 @@ Generates a [[Single Sideband (SSB)|Single Sideband]] suppressed carrier signal.
 *   **VOX (Voice Operated Transmit):** Automatically switches to TX when you speak.
 *   **ALC (Automatic Level Control):** Feedback loop that prevents overdriving the PA (prevents splatter).
 *   **Speech Processor:** Compresses audio dynamic range to increase average talk power.
+
+## Related
+*   [[Power Amplifiers and Matching]]
+*   [[Analogue Modulation & AM]]
+*   [[Single Sideband (SSB)]]
+*   [[Frequency Modulation (FM)]]
+*   [[Mixers]]

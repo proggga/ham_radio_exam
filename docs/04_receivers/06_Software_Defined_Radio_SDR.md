@@ -5,8 +5,8 @@ A Software Defined Radio (SDR) is a radio communication system where components 
 ## Architecture
 Traditional radios use analog hardware ([Superheterodyne Receiver](02_Superheterodyne_Receiver.md)). SDRs use mathematics.
 1.  **RF Front End**: [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) and simple band-pass filter.
-2.  **[ADC](../01_electricity/39_Digital_Processing_Techniques.md) (Analog-to-Digital Converter)**: Digitizes the incoming RF signal directly (Direct [Sampling](../01_electricity/40_Sampling_Theory.md)) or after down-conversion.
-3.  **[Digital Signal Processing (DSP)](../01_electricity/38_Digital_Signal_Processing_DSP.md)**: A processor (FPGA, CPU, or [DSP](../01_electricity/38_Digital_Signal_Processing_DSP.md) chip) performs:
+2.  **[ADC](../01_electricity/40_Digital_Processing_Techniques.md) (Analog-to-Digital Converter)**: Digitizes the incoming RF signal directly (Direct [Sampling](../01_electricity/41_Sampling_Theory.md)) or after down-conversion.
+3.  **[Digital Signal Processing (DSP)](../01_electricity/39_Digital_Signal_Processing_DSP.md)**: A processor (FPGA, CPU, or [DSP](../01_electricity/39_Digital_Signal_Processing_DSP.md) chip) performs:
     *   **Filtering**: Extremely sharp digital filters.
     *   **Demodulation**: Converting I/Q data into Audio ([AM](../01_electricity/32_Analogue_Modulation_&_AM.md), [FM](../01_electricity/35_Frequency_Modulation_FM.md), [SSB](../01_electricity/34_Single_Sideband_SSB.md)) or Digital Data.
     *   **[Noise](../01_electricity/26_AC_Signals_&_Noise.md) Reduction**: Mathematical subtraction of noise.

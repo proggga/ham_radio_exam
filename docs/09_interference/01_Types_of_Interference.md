@@ -12,6 +12,7 @@ This map covers the various ways interference is generated and manifested.
 
 ## Transmitter Issues
 *   **[Transmitter Defects](05_Transmitter_Defects.md)** - Chirp, [Key](../04_receivers/09_Station_Accessories.md) Clicks, and Splatter.
+*   **[Cabinet Radiation](06_Cabinet_Radiation.md)** - Direct radiation from the chassis.
 
 ---
 [< Back to Section Index](README.md)

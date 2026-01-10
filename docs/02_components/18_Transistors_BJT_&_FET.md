@@ -27,7 +27,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 
 ### Configurations
 1.  **Common Emitter (GES):** High Gain (Current & Voltage). Phase reversal ($180^\circ$).
-2.  **Common Base (GBS):** Low Input Z, High Output Z. Current gain $\approx 1$. **Good for [HF](../07_propagation/01_Propagation_Basics.md)/[VHF](../07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)** amplification (low feedback capacitance).
+2.  **Common Base (GBS):** Low Input Z, High Output Z. Current gain $\approx 1$. **Good for [HF](../07_propagation/01_Propagation_Basics.md)/[VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)** amplification (low feedback capacitance).
     *   *Mnemonic:* "Basic Income" (Basisinkomen) = Low Income (Low Input Z), High Expenses (High Output Z).
 3.  **Common Collector (GCS / Emitter Follower):** High Input Z ($\approx \beta \times R_E$), Low Output Z. Voltage gain $\approx 1$. Used as **Buffer**.
 

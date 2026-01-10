@@ -41,7 +41,7 @@ $$L = \frac{\mu_0 \cdot \mu_r \cdot n^2 \cdot A}{l}$$
 1.  **Turns ($n$):** Proportional to the **square** of turns ($n^2$). Double the turns = 4x Inductance.
 2.  **Area ($A$):** Thicker coil = Higher inductance.
 3.  **Length ($l$):** Longer coil (stretching it out) = **Lower** inductance.
-    *   *[[Licensing in the Netherlands|Exam]] Tip:* If a coil is "stretched" (length increases, turns stay constant), $L$ decreases because the magnetic coupling between turns is reduced.
+    *   *Exam Tip:* If a coil is "stretched" (length increases, turns stay constant), $L$ decreases because the magnetic coupling between turns is reduced.
     *   *Formula Relationship:* $L \propto 1/l$.
 4.  **Core Material ($\mu_r$):** Relative Permeability.
     *   Air: $\mu_r \approx 1$.

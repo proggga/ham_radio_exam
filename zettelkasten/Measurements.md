@@ -17,9 +17,9 @@ Accurate measurement is essential for testing equipment, verifying compliance, a
 ## 1. Basic Parameters (Voltage, Current, Resistance)
 *   **Instrument:** [[Multimeters (Universeelmeters)]].
 *   **[[Station Accessories|Key]] Concepts:**
-    *   **Loading Effect:** A voltmeter with low impedance loads the circuit, giving a reading *lower* than the actual voltage.
+    *   **[[Measurement Errors|Loading Effect]]**: A voltmeter with low impedance loads the circuit, giving a reading *lower* than the actual voltage.
     *   **AC Measurements:** Standard meters measure **Average** value but are calibrated for **RMS** (Sine wave).
-        *   *[[Licensing in the Netherlands|Exam]] Trap:* For non-sine waves (square, triangle), the reading is incorrect.
+        *   *[[Licensing in the Netherlands|Exam]] Trap:* For non-sine waves (square, triangle), the reading is incorrect. See [[Measurement Errors]].
         *   *Rectified Sine:* Meter reads Average ($\approx 0.637 \times Peak$).
 
 ## 2. Signal Visualization
