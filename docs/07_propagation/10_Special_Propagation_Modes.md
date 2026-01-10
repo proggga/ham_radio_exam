@@ -3,7 +3,7 @@
 Beyond standard Ground Wave and Sky Wave, several exotic propagation modes allow long-distance communication on [VHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) and [UHF](07_VHFUHF_Bands_6m,_2m,_70cm.md) bands.
 
 ## 1. Sporadic E ($E_s$)
-*   **Mechanism**: Patches of intense ionization in the E-layer of the [ionosphere](12_The_Ionosphere.md).
+*   **Mechanism**: Patches of intense ionization in the E-layer of the [ionosphere](13_The_Ionosphere.md).
 *   **Bands**: Primarily **10m, 6m, and 2m**.
 *   **Range**: 1,000 - 2,000 km (single hop).
 *   **Characteristics**: Unpredictable (sporadic). Can be very strong. Most common in **Summer** (May-August) and minor peak in Winter (December).

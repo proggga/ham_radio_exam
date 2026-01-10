@@ -15,10 +15,14 @@ aliases: ["Amateurbanden", "Frequentiebanden"]
 Guide to the characteristics and usage of the different amateur radio bands.
 
 ## Power Limits (Netherlands)
-*   **F-[[Licensing in the Netherlands|Registration]] (Full)**: Generally **400 Watts** [[Analogue Modulation & AM|PEP]] on most [[Propagation Basics|HF]]/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]] bands.
-*   **N-Registration (Novice)**: Generally **25 Watts** [[Analogue Modulation & AM|PEP]].
-    *   *Permitted Bands:* 40m, 20m, 10m, 2m, 70cm (and sometimes portions of others).
-    *   *Forbidden Bands:* 80m, 160m, WARC bands (for N).
+*   **F-[[Licensing in the Netherlands|Registration]] (Full)**:
+    *   **HF**: Generally **400 Watts** PEP (Exceptions: 60m is 15W EIRP).
+    *   **VHF/UHF**: **400 Watts** PEP on 2m/70cm. **120W** on 6m.
+*   **N-Registration (Novice)** (Since June 2021):
+    *   **HF**: **100 Watts** PEP on permitted bands (40m, 20m, 10m).
+    *   **VHF/UHF**: **25 Watts** PEP on 2m and 70cm.
+    *   *Permitted Bands:* 40m, 20m, 10m, 2m, 70cm.
+    *   *Forbidden Bands:* 160m, 80m, 60m, 30m, 17m, 12m, 6m, 4m, 23cm & up.
 
 ## HF Bands (Low & Mid)
 *   **[[160m Band (Top Band)]]** ([[160m Band (Top Band)|Top Band]]) - Night/Winter DX.

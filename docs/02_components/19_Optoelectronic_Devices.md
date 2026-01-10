@@ -24,7 +24,7 @@ Optoelectronic devices interact with light, either emitting it or detecting it.
 ### Photovoltaic Cell (Solar Cell)
 *   **Function**: Generates voltage from light energy.
 *   **Operation**: A large area PN junction. Light energy pushes electrons across the barrier, creating a potential difference.
-*   **Use**: Power generation ([Solar Power](../07_propagation/24_Solar_Indices_&_Space_Weather.md) for portable stations).
+*   **Use**: Power generation ([Solar Power](../07_propagation/25_Solar_Indices_&_Space_Weather.md) for portable stations).
 
 ### Optocoupler (Optoisolator)
 *   **Structure**: An [LED](21_LED_Light_Emitting_Diode.md) and a Phototransistor inside a light-tight package.

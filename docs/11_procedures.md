@@ -34,7 +34,7 @@ Amateur radio is a versatile hobby with many different aspects, allowing operato
 ## Key Activities
 
 *   **Homebrew & Experimentation**: The technical side of the hobby involving designing and building radios, antennas, and accessories.
-*   **DXing**: The pursuit of contacts with distant or rare stations ("DX"). This often involves tracking solar conditions and using efficient antennas. See [The Ionosphere](07_propagation/12_The_Ionosphere.md).
+*   **DXing**: The pursuit of contacts with distant or rare stations ("DX"). This often involves tracking solar conditions and using efficient antennas. See [The Ionosphere](07_propagation/13_The_Ionosphere.md).
 *   **Contesting**: Competitive operating where the goal is to make as many contacts as possible within a set time.
     *   *Exchange:* Operators typically exchange specific information like **RST** + **Serial Number** or **Grid Locator**.
 *   **Field Days**: Operating portable stations from temporary locations (e.g., open fields) to practice emergency readiness and enjoy low-noise reception away from urban QRM.
@@ -190,7 +190,7 @@ A question mark after the code turns it into a question.
 | **QRV** | Are you ready? | I am ready. | a**V**ailable |
 | **QRX** | When will you call me again? | Call me again at ... (Wait). | **X** (Time/Cross) |
 | **QRZ** | Who is calling me? | You are being called by... | **Z**ijt gij? |
-| **[QSB](07_propagation/16_Fading_QSB.md)** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
+| **[QSB](07_propagation/17_Fading_QSB.md)** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
 | **QSL** | Can you acknowledge receipt? | I acknowledge receipt (Confirm contact). | **L**ezen |
 | **QSO** | Can you communicate with ...? | I can communicate with ... (Contact). | **O**ver |
 | **QSY** | Shall I change frequency? | Change frequency to ... | Zwaa**Y** |
@@ -403,7 +403,7 @@ Amateur radio satellites act as "repeaters in space," receiving signals on one b
 2.  **Tracking**: You must track the satellite's position (Azimuth and Elevation) as it moves across the sky.
 3.  **[Doppler Shift](07_propagation/02_Doppler_Shift.md)**: The frequency changes as the satellite moves toward (higher freq) or away (lower freq) from you.
     *   *Correction:* You must adjust your transmit/receive frequency continuously during the pass. [UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) requires more correction than VHF.
-    *   *Spin [Fading](07_propagation/16_Fading_QSB.md):* Periodic signal fading caused by the rotation of the satellite and its antennas.
+    *   *Spin [Fading](07_propagation/17_Fading_QSB.md):* Periodic signal fading caused by the rotation of the satellite and its antennas.
 
 ## International Space Station (ISS)
 *   **Privileges**: Any amateur with a Technician class license (or equivalent) can contact the ISS.
@@ -429,7 +429,7 @@ Also known as **Moonbounce**, EME is a technique where radio signals are aimed a
 *   **Frequencies**: Typically **50 MHz (6m)** to **10 GHz**, with **144 MHz (2m)** and **1296 MHz (23cm)** being most popular.
 
 ## Challenges
-*   **Libration [Fading](07_propagation/16_Fading_QSB.md)**: Rapid fluttering of the signal caused by the Moon's "wobble" (Libration).
+*   **Libration [Fading](07_propagation/17_Fading_QSB.md)**: Rapid fluttering of the signal caused by the Moon's "wobble" (Libration).
 *   **[Doppler Shift](07_propagation/02_Doppler_Shift.md)**: The frequency changes as the Moon moves relative to the Earth.
 *   **Faraday Rotation**: The polarization of the signal rotates as it passes through the ionosphere.
 
@@ -449,7 +449,7 @@ SSTV is used to transmit **still images** (like a fax) over voice-bandwidth chan
 *   **[Bandwidth](03_circuits/07_Bandwidth.md)**: Fits within a standard 3 kHz [SSB](01_electricity/34_Single_Sideband_SSB.md) or [FM](01_electricity/35_Frequency_Modulation_FM.md) voice channel.
 *   **Transmission Time**: Takes 8 to 120 seconds to send one image (depending on the mode/resolution).
 *   **Technology**: Audio tones vary in frequency to represent brightness and color ([FM](01_electricity/35_Frequency_Modulation_FM.md) subcarrier).
-*   **Frequencies**: Popular on [20m Band](07_propagation/21_20m_Band.md) (14.230 MHz) and [2m](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) [FM](01_electricity/35_Frequency_Modulation_FM.md) (145.800 MHz from the **ISS**).
+*   **Frequencies**: Popular on [20m Band](07_propagation/22_20m_Band.md) (14.230 MHz) and [2m](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md) [FM](01_electricity/35_Frequency_Modulation_FM.md) (145.800 MHz from the **ISS**).
 *   **Software**: MMSSTV, QSSTV.
 
 ## 2. ATV (Amateur Television)
@@ -625,14 +625,14 @@ Environmental conditions significantly impact radio performance and equipment re
 ## 1. Desert Operations
 *   **Grounding**: Dry sand is a poor electrical conductor. Normal ground rods are ineffective.
     *   *Solution:* Use **Counterpoises** (wire networks on/above ground) instead of earth grounds.
-*   **[Propagation](07_propagation/14_Solar_Cycle_&_Propagation.md)**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
+*   **[Propagation](07_propagation/15_Solar_Cycle_&_Propagation.md)**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
 *   **Equipment**:
     *   **Heat**: Electrolyte in wet batteries evaporates. Transmitters overheat.
     *   **Dust**: Clogs vents and damages moving parts. Use dust covers.
     *   **Static**: Wind-blown sand generates high static charges. Tape antenna tips to reduce corona discharge noise.
 
 ## 2. Jungle Operations
-*   **[Propagation](07_propagation/14_Solar_Cycle_&_Propagation.md)**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
+*   **[Propagation](07_propagation/15_Solar_Cycle_&_Propagation.md)**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
     *   *Range:* Significantly reduced.
     *   *Solution:* Use **Horizontal Polarization** (Dipoles) high in trees or clearings.
 *   **Equipment**:
@@ -649,7 +649,7 @@ Environmental conditions significantly impact radio performance and equipment re
 
 ## 4. Urban Operations
 *   **Obstacles**: Buildings block Line-of-Sight ([VHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/07_VHFUHF_Bands_6m,_2m,_70cm.md)).
-    *   *Solution:* Use retransmission (relays) or [NVIS](07_propagation/11_Near_Vertical_Incidence_Skywave_NVIS.md) ([Near Vertical Incidence Skywave](07_propagation/11_Near_Vertical_Incidence_Skywave_NVIS.md)) on [HF](07_propagation/01_Propagation_Basics.md).
+    *   *Solution:* Use retransmission (relays) or [NVIS](07_propagation/12_Near_Vertical_Incidence_Skywave_NVIS.md) ([Near Vertical Incidence Skywave](07_propagation/12_Near_Vertical_Incidence_Skywave_NVIS.md)) on [HF](07_propagation/01_Propagation_Basics.md).
 *   **[Interference](09_interference/03_Mixing_Products_Interference.md)**: High levels of man-made electrical noise (QRM).
 *   **Concealment**: Antennas can be disguised as utility lines or clotheslines.
 

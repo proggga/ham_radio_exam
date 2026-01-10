@@ -13,7 +13,7 @@ An **Ion** is an atom (or molecule) that has a non-zero net electrical charge be
 ## Relevance
 Ionization is critical in understanding:
 *   **Batteries:** Movement of ions creates current in electrolytes (see [Voltage and Current Sources](18_Voltage_and_Current_Sources.md)).
-*   **[Propagation](../07_propagation/14_Solar_Cycle_&_Propagation.md):** The **[Ionosphere](../07_propagation/12_The_Ionosphere.md)** is a layer of ionized gas in the atmosphere that reflects radio waves (see [The Ionosphere](../07_propagation/12_The_Ionosphere.md)).
+*   **[Propagation](../07_propagation/15_Solar_Cycle_&_Propagation.md):** The **[Ionosphere](../07_propagation/13_The_Ionosphere.md)** is a layer of ionized gas in the atmosphere that reflects radio waves (see [The Ionosphere](../07_propagation/13_The_Ionosphere.md)).
 
 ---
 [< Back to Section Index](README.md)

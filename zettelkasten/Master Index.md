@@ -93,6 +93,7 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Propagation Basics|Basics]] (Polarization, Inverse Square)
 *   [[Doppler Shift]]
 *   [[Propagation Modes|Modes]] (Ground, Sky, Line of Sight)
+*   [[Dead Zone (Skip Zone)]]
 *   [[Near Vertical Incidence Skywave (NVIS)|NVIS]] (Short range skywave)
 *   [[Special Propagation Modes]] (Sporadic E, Meteor Scatter, Aurora)
 *   [[The Ionosphere|Ionosphere]] (Layers, MUF, Solar Cycle)

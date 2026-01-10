@@ -1,13 +1,17 @@
 ---
 id: 202301011214
-title: "Inductors (Spoelen)"
-tags: ["ham-radio", "components"]
+title: Inductors (Spoelen)
+tags:
+  - ham-radio
+  - components
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-dutch_title: "Spoelen"
-aliases: ["Spoelen", "Zelfinductie"]
+dutch_title: Spoelen
+aliases:
+  - Spoelen
+  - Zelfinductie
+  - Spoel
 ---
 
 # Inductors (Spoelen)

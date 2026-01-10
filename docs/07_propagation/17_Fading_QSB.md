@@ -12,7 +12,7 @@ Fading is the variation in signal strength at the receiver.
 3.  **Polarization Fading**: The ionosphere twists the polarization of the wave (Faraday rotation).
     *   *Mechanism:* Cross-polarization loss.
 4.  **Flutter Fading**: Rapid, cyclic variation in signal strength.
-    *   *Cause:* [Propagation](14_Solar_Cycle_&_Propagation.md) through **[Aurora](10_Special_Propagation_Modes.md)** or highly disturbed ionosphere (Geomagnetic storm).
+    *   *Cause:* [Propagation](15_Solar_Cycle_&_Propagation.md) through **[Aurora](10_Special_Propagation_Modes.md)** or highly disturbed ionosphere (Geomagnetic storm).
     *   *Sound:* Rapid "flutter" or "warble" on the signal.
 5.  **Selective Fading**: Different frequencies within the same signal (bandwidth) fade differently.
     *   *Effect:* Audio distortion (makes voice sound robotic or hollow).

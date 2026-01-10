@@ -14,7 +14,7 @@ This is a structure note for concepts related to the physics of matter and elect
 
 ## Connected Topics
 *   **[Voltage, Current, and Ohm's Law](07_Voltage,_Current,_and_Ohm's_Law.md)** - How charge flow (Current) relates to force (Voltage).
-*   **[The Ionosphere](../07_propagation/12_The_Ionosphere.md)** - Large scale ionization affecting radio waves.
+*   **[The Ionosphere](../07_propagation/13_The_Ionosphere.md)** - Large scale ionization affecting radio waves.
 
 ---
 [< Back to Section Index](README.md)

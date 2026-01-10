@@ -5,7 +5,19 @@
 ## General Requirements
 *   **[Registration](02_Licensing_in_the_Netherlands.md)**: You must be registered with the **RDI** (Rijksinspectie Digitale Infrastructuur, formerly Agentschap Telecom).
 *   **License**: You must hold a valid certificate (N or F) for the equipment you operate.
-    *   *N-amateur using F-equipment:* Only allowed if an F-amateur is present and supervising.
+    *   *N-amateur privileges (since June 2021):*
+        *   **HF (< 30 MHz):** 100W PEP. Allowed on 40m, 20m, 10m (entire bands).
+        *   **VHF/UHF (> 30 MHz):** 25W PEP. Allowed on 2m, 70cm.
+    *   *F-amateur privileges:*
+        *   **HF (1.8 - 30 MHz):** Generally 400W PEP (Primary).
+            *   *Exceptions:* 60m (15W EIRP), 30m (Secondary).
+        *   **VHF (50 MHz, 70 MHz, 144 MHz):**
+            *   6m: 120W PEP (Primary) / 30W PEP (Secondary).
+            *   4m: 50W PEP (Secondary).
+            *   2m: 400W PEP (Primary).
+        *   **UHF (430 MHz):** 400W PEP.
+        *   **SHF/Microwave (> 1 GHz):** Generally 120W PEP.
+    *   *Supervision:* An N-licensee may operate an F-licensee's station (with higher power/other bands) ONLY if the F-licensee is physically present and supervising.
 *   **Identification**: You must transmit your call sign:
     *   At the **start** and **end** of each transmission (or series of transmissions).
     *   At least once every **5 minutes** during the transmission.

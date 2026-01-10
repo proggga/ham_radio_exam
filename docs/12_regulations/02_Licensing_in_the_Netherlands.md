@@ -5,8 +5,17 @@ In the [Netherlands](07_Operating_Rules_Netherlands.md), you do not get a "licen
 *   **Agency:** **RDI** (Rijksinspectie Digitale Infrastructuur), formerly Agentschap Telecom (AT). Part of the Ministry of Economic Affairs.
 *   **Requirement:** Passing the exam (administered by CBR) allows you to register.
 *   **Exam Levels:**
-    *   **N (Novice):** Limited privileges (power, bands).
+    *   **N (Novice):** Limited privileges.
+        *   **Power:** 100W PEP on HF (< 30 MHz), 25W PEP on VHF/UHF (> 30 MHz).
+        *   **Bands:**
+            *   **40m:** 7.000 - 7.200 MHz (Entire band).
+            *   **20m:** 14.000 - 14.350 MHz (Entire band).
+            *   **10m:** 28.000 - 29.700 MHz (Entire band).
+            *   **2m:** 144.000 - 146.000 MHz.
+            *   **70cm:** 430.000 - 440.000 MHz.
     *   **F (Full):** Full privileges (HAREC compliant).
+        *   **Power:** Generally 400W PEP on HF, 2m, and 70cm. Specific limits apply to some bands (e.g., 60m is 15W EIRP, 6m is 120W).
+        *   **Bands:** Access to all amateur bands including WARC (30m, 17m, 12m), 6m, 4m, and Microwave (> 1 GHz).
 
 ## 2. Call Signs (Roepletters)
 A unique identifier for the station.

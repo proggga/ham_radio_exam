@@ -4,7 +4,7 @@ The premier band for daytime Long-Haul DX.
 
 ## Characteristics
 *   **Frequency:** 14.0 - 14.35 MHz.
-*   **[Propagation](14_Solar_Cycle_&_Propagation.md):**
+*   **[Propagation](15_Solar_Cycle_&_Propagation.md):**
     *   **Day:** Excellent worldwide DX.
     *   **Night:** Stays open during Summer or Solar Max; closes in Winter/Solar Min.
 *   **Skip Zone:** Always present. You generally cannot talk to locals (< 500km) on 20m.
