@@ -41,4 +41,4 @@ Gustav [[Circuits and Kirchhoff's Laws|Kirchhoff]] described two fundamental law
 - [[Voltage and Current Sources]] - The sources of energy in the loop.
 
 ## References
-- [[Map Circuits & Kirchhoff's Laws]]
+- [[Circuits and Kirchhoff's Laws]]

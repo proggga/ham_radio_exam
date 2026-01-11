@@ -25,6 +25,7 @@ This index provides a comprehensive list of all study topics organized by catego
     *   [[Ions (Ionisation)|Ions]]
     *   [[Conductors and Insulators|Conductors & Insulators]]
 *   [[Voltage, Current, and Ohm's Law|Ohm's Law]] (Voltage, Current, Resistance)
+*   **[[Conductance]]** (Siemens, 1/R)
 *   [[Resistivity (Soortelijke Weerstand)|Resistivity]] (Specific Resistance)
 *   [[Power and Energy|Power & Energy]] (Watt, Joule, Dissipation)
 *   [[Measurements]] (Connecting Meters)

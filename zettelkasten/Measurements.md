@@ -44,4 +44,4 @@ Accurate measurement is essential for testing equipment, verifying compliance, a
 ## Related
 *   [[RF Measurements]]
 *   [[Decibels & Logarithms]]
-*   [[Safety]]
+*   [[Electrical Safety]]

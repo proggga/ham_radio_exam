@@ -35,4 +35,4 @@ aliases: ["Diodelogica"]
 
 ## Related
 *   [[Diodes]]
-*   [[Digital Techniques]]
+*   [[Digital Logic Gates]]
