@@ -43,3 +43,5 @@ Amateur radio satellites act as "repeaters in space," receiving signals on one b
 *   [[VHFUHF Bands (6m, 2m, 70cm)]]
 *   [[Propagation Modes]]
 *   [[Doppler Shift]]
+*   [[Antenna Types]] (Yagi/Cross-polarized)
+*   [[Modern Digital Modes]] (Packet/APRS)

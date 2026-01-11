@@ -49,3 +49,5 @@ Scales at the bottom of the chart provide derived data based on the plotted impe
 *   [[Impedance (Impedantie)]]
 *   [[Standing Wave Ratio (SWR)]]
 *   [[Transmission Lines]]
+*   [[Reflection Coefficient]]
+*   [[Matching and SWR]]

@@ -30,9 +30,9 @@ The ability to separate the wanted signal from others.
 
 ## 3. Dynamic Range & Distortion
 The range between the noise floor and the signal level that causes distortion.
-*   **Blocking (Desensitization):** A very strong nearby signal reduces the gain of the receiver, making weak signals inaudible.
-*   **Cross-[[Modulation & Digital Signals|Modulation]] (Kruismodulatie):** The modulation of a strong unwanted signal is transferred ("crosses over") to the wanted weak signal. You hear the strong station's audio on the station you are tuned to.
-*   **Intermodulation (IMD):** Two strong signals ($f_1, f_2$) mix in a non-linear stage to create phantom signals ($2f_1 - f_2$, etc.).
+*   **Blocking (Desensitization):** A very strong nearby signal reduces the gain of the receiver, making weak signals inaudible. See **[[Receiver Overload]]**.
+*   **Cross-[[Modulation & Digital Signals|Modulation]] (Kruismodulatie):** The modulation of a strong unwanted signal is transferred ("crosses over") to the wanted weak signal. You hear the strong station's audio on the station you are tuned to. See **[[Mixing Products (Interference)|Mixing Products]]**.
+*   **Intermodulation (IMD):** Two strong signals ($f_1, f_2$) mix in a non-linear stage to create phantom signals ($2f_1 - f_2$, etc.). See **[[Mixing Products (Interference)|Mixing Products]]**.
     *   *IP3 (Third Order Intercept Point):* A theoretical figure of merit. Higher is better.
 *   **Reciprocal Mixing (Reciproke Menging):**
     *   Caused by **Phase Noise** in the Local Oscillator (LO).

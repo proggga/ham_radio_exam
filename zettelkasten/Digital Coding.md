@@ -30,3 +30,5 @@ Coding defines how characters are mapped to binary bits.
 
 ## Related
 *   [[Digital Transmission]]
+*   [[Error Correction Methods]]
+*   [[Modern Digital Modes]]

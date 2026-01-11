@@ -48,5 +48,6 @@ aliases: ["Digitale transmissie"]
 *   Requires linear amplification (Class A/AB) due to amplitude component.
 
 ## Related
+*   [[Packet Radio]]
 *   [[Digital Coding]]
 *   [[Number Systems]]

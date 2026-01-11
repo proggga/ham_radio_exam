@@ -60,8 +60,10 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Time Constants]] (RC, RL, Tau)
 *   [[Filters & Resonance|Filters]] (LPF, HPF, Resonance, Q)
 *   [[Power Supply]] (Rectifiers, Smoothing, Regulators)
+    *   **[[Batteries]]** (Types, Capacity)
 *   [[Amplifiers]] (Classes, Bias, Feedback)
 *   [[Detectors, Oscillators & Mixers|Detectors & Oscillators]] (VCO, PLL, Mixers)
+    *   **[[Direct Digital Synthesis (DDS)]]**
 *   [[Reactance & Impedance|Reactance & Impedance]] (Vectors, Phase)
 
 ## 4. Receivers
@@ -80,11 +82,15 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 6. Antennas
 *   [[Antenna Types|Types]] (Dipole, Yagi, Vertical)
+    *   **[[Common Wire Antennas]]** (G5RV, Windom)
+    *   **[[Discone Antenna]]**
 *   **[[End-Fed Antenna]]** (EFHW, Zepp)
 *   [[Antenna Characteristics|Characteristics]] (Gain, Pattern, ERP)
 *   [[Vertical Antennas]] (Ground Plane, 5/8 Wave)
+    *   **[[J-Pole Antenna]]**
 *   [[Transmission Lines]] (Coax, Velocity Factor)
 *   [[Matching and SWR|Matching]] (SWR, Baluns)
+    *   **[[Reflection Coefficient]]** (Gamma, Return Loss)
 *   [[Field Expedient Antennas]] (Emergency/Military types)
 *   [[Field Repair Techniques]] (Whips, Wire, Guys)
 *   [[Mobile, Portable & Marine Antennas]] (Vehicle, Boat, Compact)
@@ -145,6 +151,7 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Image Modes (SSTV & ATV)]] (Slow Scan, Fast Scan)
 *   [[Modern Digital Modes]] (DMR, FT8, D-STAR)
     *   [[APRS (Automatic Packet Reporting System)]]
+    *   **[[Packet Radio]]**
 *   [[Spread Spectrum & Frequency Hopping]]
 *   [[Emergency Operations]] (Nets, Traffic Handling)
 *   [[Radio Operations in Harsh Environments]] (Desert, Jungle, Cold)
@@ -163,4 +170,4 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ---
 **Note**: This is a Map of Content (MOC) - a note that provides organized access to a topic area. MOCs evolve as your knowledge grows.
-[[README|Back to Dashboard]]
+[Back to Dashboard](../ZETTELKASTEN_GUIDE.md)

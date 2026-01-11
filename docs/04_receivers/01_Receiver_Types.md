@@ -7,7 +7,7 @@ The simplest radio receiver.
 *   **Detector:** Originally a Galena crystal, now a Germanium diode (low voltage drop).
 
 ## 2. Tuned Radio Frequency (TRF / Rechtuit)
-*   **Structure:** [RF Amplifier](../03_circuits/14_Amplifiers.md) -> [Detector](07_Detectors_Demodulators.md) -> [Audio Amplifier](../03_circuits/14_Amplifiers.md).
+*   **Structure:** [RF Amplifier](../03_circuits/15_Amplifiers.md) -> [Detector](07_Detectors_Demodulators.md) -> [Audio Amplifier](../03_circuits/15_Amplifiers.md).
 *   **Pros:** Simple, more sensitive than crystal receiver.
 *   **Cons:**
     *   **[Selectivity](03_Receiver_Performance.md):** Poor at high frequencies ([Q-factor](../03_circuits/06_Quality_Factor_Q.md) is constant, so bandwidth $B = f/Q$ increases with frequency).
@@ -23,7 +23,7 @@ A TRF receiver with **Positive Feedback** (Meekoppeling).
 
 ## 4. Direct Conversion (DC / Homodyne)
 Mixes the incoming RF directly to Audio frequencies.
-*   **Structure:** RF [Filter](../03_circuits/03_Filters_&_Resonance.md) -> [Mixer](../03_circuits/23_Mixers.md) -> Audio Amp.
+*   **Structure:** RF [Filter](../03_circuits/03_Filters_&_Resonance.md) -> [Mixer](../03_circuits/24_Mixers.md) -> Audio Amp.
 *   **Local Oscillator (LO):** Tuned to the same frequency as the RF (or very close).
 *   **Mixing:** $f_{RF} - f_{LO} = f_{Audio}$.
 *   **Pros:** Simple architecture for [SSB](../01_electricity/34_Single_Sideband_SSB.md)/[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md). No [Image Frequency](05_Image_Frequency.md) problem (Images are at 0Hz or fold over into audio).

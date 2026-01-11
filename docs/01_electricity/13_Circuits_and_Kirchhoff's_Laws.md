@@ -13,7 +13,7 @@ This map covers the fundamental rules for analyzing electrical circuits.
 
 ## Analysis Tools
 *   [Multimeters (Universeelmeters)](../08_measurements/01_Multimeters_Universeelmeters.md) - Measuring V, I, and R.
-*   [Reactance & Impedance](../03_circuits/24_Reactance_&_Impedance.md) - AC circuit analysis.
+*   [Reactance & Impedance](../03_circuits/26_Reactance_&_Impedance.md) - AC circuit analysis.
 
 ---
 [< Back to Section Index](README.md)

@@ -45,3 +45,5 @@ For purely resistive loads (at resonance):
 *   [[Impedance (Impedantie)]]
 *   [[SWR Meter]]
 *   [[Reflection Coefficient]]
+*   [[Antenna Tuning Unit (ATU)]]
+*   [[Transmission Line Loss]]

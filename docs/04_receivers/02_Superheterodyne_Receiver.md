@@ -4,7 +4,7 @@ The Superheterodyne ("Super") receiver converts any incoming RF signal to a fixe
 
 ## Architecture (Block Diagram)
 1.  **RF Amplifier / Preselector**: Selects the desired band, amplifies weak signals, and improves Signal-to-[Noise](../01_electricity/26_AC_Signals_&_Noise.md) ratio. Provides **Far-off [Selectivity](03_Receiver_Performance.md)** (Image rejection).
-2.  **[Mixer](../03_circuits/23_Mixers.md)**: Mixes RF ($f_{in}$) with Local Oscillator ($f_{LO}$). Output contains Sum and Difference.
+2.  **[Mixer](../03_circuits/24_Mixers.md)**: Mixes RF ($f_{in}$) with Local Oscillator ($f_{LO}$). Output contains Sum and Difference.
 3.  **Local Oscillator (VFO/LO)**: Tunable oscillator. $f_{LO}$ tracks $f_{in}$ to maintain a constant difference ($f_{IF}$).
 4.  **IF Amplifier (Middenfrequent)**: Provides most of the receiver's gain and **Close-in Selectivity** (using sharp filters like Crystal or Ceramic filters).
     *   *Fixed Frequency:* Usually 455 kHz or 9 MHz (or 10.7 MHz).

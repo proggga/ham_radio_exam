@@ -36,3 +36,5 @@ Two strong signals ($f_1$ and $f_2$) mix to create sum and difference products.
 ## Related
 *   [[Mixers]]
 *   [[Distortion and Dissipation]]
+*   [[Receiver Performance]] (IP3)
+*   [[Receiver Overload]]

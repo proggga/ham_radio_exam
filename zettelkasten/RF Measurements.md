@@ -32,9 +32,14 @@ This map covers the instruments used to test and maintain radio equipment.
 2.  **Calculate Factor:** $13 \text{ dB} \approx 20\times$ ($10 \text{ dB} = 10\times$, $3 \text{ dB} = 2\times$, so $10 \times 2 = 20$).
 3.  **Calculate Source Power:** $P_{source} = P_{measured} \times \text{Factor} = 8 \text{ W} \times 20 = 160 \text{ W}$.
 
-## Related
+## Measurement Principles
 *   **[[Multimeters (Universeelmeters)]]** - DC/AC Voltage and Resistance.
     *   *Voltmeter:* Should have **High** impedance to avoid loading the circuit.
     *   *Ammeter:* Should have **Low** impedance.
     *   *AC Measurement:* Standard moving-coil meters measure **Average** value. For sine waves, the scale is calibrated to RMS ($U_{rms} \approx 1.11 \times U_{avg}$). If rectifying a sine wave without a smoothing capacitor, the meter reads average ($2 U_{peak} / \pi$). With a capacitor, it reads peak.
 *   **[[Analogue Modulation & AM|PEP]] Measurement:** To measure Peak Envelope Power with a simple meter, a capacitor is needed to hold the peak voltage (time constant ~seconds).
+
+## Related
+*   **[[Multimeters (Universeelmeters)]]**
+*   **[[Signal Visualization]]** (Oscilloscope/Spectrum Analyzer)
+*   **[[Measurements]]** (General concepts)

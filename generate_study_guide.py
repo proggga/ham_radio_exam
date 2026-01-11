@@ -34,7 +34,6 @@ SINGLE_FILE_SECTIONS = {
 
 # Notes to exclude
 EXCLUDE_NOTES = {
-    "README",
     "Master Index"
 }
 

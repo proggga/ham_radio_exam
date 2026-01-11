@@ -28,3 +28,7 @@ This map covers digital logic building blocks and frequency control components.
 
 ## Other
 *   **[[555 Timer]]** - Versatile timer IC.
+
+## Related
+*   [[Oscillators]]
+*   [[Schematic Symbols]]

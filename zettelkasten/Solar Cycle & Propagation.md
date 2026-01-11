@@ -41,3 +41,5 @@ The ionosphere is created by solar radiation (UV and X-rays). Its density follow
 ## Related
 *   [[Ionospheric Layers]]
 *   [[Solar Cycle & Band Selection]]
+*   [[Sky Wave Propagation]]
+*   [[Amateur Radio Bands]]

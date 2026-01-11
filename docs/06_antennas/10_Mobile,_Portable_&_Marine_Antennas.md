@@ -23,7 +23,7 @@ Short, loaded antennas have a very high **[Quality Factor (Q)](../03_circuits/06
 For temporary operation (parks, hotels).
 *   **Telescopic Whips**: Adjustable length to find resonance.
 *   **Window-Sill Antennas**: Clamped to a window frame. Requires a counterpoise wire thrown on the floor.
-*   **Magnetic Loops**: Excellent for portable use due to small size and noise rejection (see [Loop Antennas](05_Loop_Antennas.md)).
+*   **Magnetic Loops**: Excellent for portable use due to small size and noise rejection (see [Loop Antennas](06_Loop_Antennas.md)).
 
 ## Marine Antennas (Boats)
 Salt water is an excellent conductor, making it a perfect RF ground.
@@ -34,7 +34,7 @@ Salt water is an excellent conductor, making it a perfect RF ground.
 
 ### Antenna Types
 *   **Marine Whips**: Usually longer than car antennas (no height restrictions at sea).
-*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner ([ATU](22_Antenna_Tuning_Unit_ATU.md))** at the base.
+*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner ([ATU](25_Antenna_Tuning_Unit_ATU.md))** at the base.
 
 ---
 [< Back to Section Index](README.md)

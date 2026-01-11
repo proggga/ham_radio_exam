@@ -7,7 +7,7 @@ The ability to receive weak signals.
     $$F = \frac{(S/N)_{in}}{(S/N)_{out}}$$
     *   Ideal receiver: $F = 1$ (0 [dB](../00_basic_skills.md)).
     *   **Independence:** [Noise](../01_electricity/26_AC_Signals_&_Noise.md) Figure is **independent** of bandwidth.
-    *   **LNA (Low Noise Amplifier):** The first stage (RF Amp) is critical for system noise figure (Friis formula). See [Amplifiers](../03_circuits/14_Amplifiers.md).
+    *   **LNA (Low Noise Amplifier):** The first stage (RF Amp) is critical for system noise figure (Friis formula). See [Amplifiers](../03_circuits/15_Amplifiers.md).
 
 ## 2. Selectivity (Selectiviteit)
 The ability to separate the wanted signal from others.
@@ -18,9 +18,9 @@ The ability to separate the wanted signal from others.
 
 ## 3. Dynamic Range & Distortion
 The range between the noise floor and the signal level that causes distortion.
-*   **Blocking (Desensitization):** A very strong nearby signal reduces the gain of the receiver, making weak signals inaudible.
-*   **Cross-[Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) (Kruismodulatie):** The modulation of a strong unwanted signal is transferred ("crosses over") to the wanted weak signal. You hear the strong station's audio on the station you are tuned to.
-*   **Intermodulation (IMD):** Two strong signals ($f_1, f_2$) mix in a non-linear stage to create phantom signals ($2f_1 - f_2$, etc.).
+*   **Blocking (Desensitization):** A very strong nearby signal reduces the gain of the receiver, making weak signals inaudible. See **[Receiver Overload](../09_interference/02_Receiver_Overload.md)**.
+*   **Cross-[Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) (Kruismodulatie):** The modulation of a strong unwanted signal is transferred ("crosses over") to the wanted weak signal. You hear the strong station's audio on the station you are tuned to. See **[Mixing Products](../09_interference/03_Mixing_Products_Interference.md)**.
+*   **Intermodulation (IMD):** Two strong signals ($f_1, f_2$) mix in a non-linear stage to create phantom signals ($2f_1 - f_2$, etc.). See **[Mixing Products](../09_interference/03_Mixing_Products_Interference.md)**.
     *   *IP3 (Third Order Intercept Point):* A theoretical figure of merit. Higher is better.
 *   **Reciprocal Mixing (Reciproke Menging):**
     *   Caused by **Phase Noise** in the Local Oscillator (LO).

@@ -32,3 +32,5 @@ This map covers resistor types, identification, and standard values.
 
 ## Related
 *   **[[Voltage, Current, and Ohm's Law]]** - The fundamental law governing resistors.
+*   **[[Schematic Symbols]]** - Component symbols.
+*   **[[Voltage Dividers]]** - Application.

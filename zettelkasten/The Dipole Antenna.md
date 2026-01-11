@@ -47,4 +47,5 @@ A dipole resonates not only at its fundamental frequency ($f$) but also at harmo
 
 ## Related
 *   [[Transmission Lines]]
-*   [[Antenna Characteristics]]
+*   [[Antenna Characteristics]] (Gain/Pattern)
+*   [[Antenna Types]]

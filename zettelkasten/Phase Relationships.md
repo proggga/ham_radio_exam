@@ -39,5 +39,8 @@ When looking at a Time-Domain graph (Voltage/Current vs Time):
 *   *Mnemonic:* "Left Leads".
 
 ## Related
-*   [[Geometry & Trigonometry]]
+*   [[AC Signals & Noise]]
+*   [[Inductors (Spoelen)]]
+*   [[Capacitors]]
 *   [[Reactance (Reactantie)]]
+*   [[Geometry & Trigonometry]]

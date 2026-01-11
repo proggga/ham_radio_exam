@@ -56,7 +56,10 @@ aliases: ["Elektrische veiligheid"]
 *   **Grounding**: Mast/[[Antenna & Tower Safety|Antenna]] should be grounded to conduct static/strike current to earth (outside the house).
 
 ## Related
+*   [[Earthing Systems]]
 *   [[RF Safety]]
 *   [[Antenna & Tower Safety]]
 *   [[Equipment Safety Classes]]
 *   [[Station Setup Guidelines]]
+*   [[Capacitors]] (High voltage safety)
+*   [[Power Supply]] (Mains safety)

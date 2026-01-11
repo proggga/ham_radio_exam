@@ -29,7 +29,7 @@ Beyond the transceiver, several accessories improve station performance and capa
 ## Antenna Tuning Units (ATUs)
 *   **Function**: Matches the impedance of the antenna system to the transceiver (usually $50 \Omega$).
 *   **Note**: It does *not* tune the antenna itself (does not change resonant frequency), only the impedance seen by the radio.
-*   See [Antenna Tuning Unit (ATU)](../06_antennas/22_Antenna_Tuning_Unit_ATU.md) for details.
+*   See [Antenna Tuning Unit (ATU)](../06_antennas/25_Antenna_Tuning_Unit_ATU.md) for details.
 
 ---
 [< Back to Section Index](README.md)

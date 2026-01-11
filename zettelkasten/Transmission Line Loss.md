@@ -33,5 +33,6 @@ As a signal travels through a transmission line, some energy is lost as heat. Th
 
 ## Related Notes
 *   [[Transmission Line Types]]
+*   [[Coaxial Cable & Connectors]]
 *   [[Standing Wave Ratio (SWR)]]
 *   [[Decibels & Logarithms]]

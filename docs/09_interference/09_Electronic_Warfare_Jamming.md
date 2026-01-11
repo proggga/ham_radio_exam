@@ -23,7 +23,7 @@ Deliberate radiation to disrupt communications.
 Measures taken to protect friendly communications from jamming.
 
 ### Anti-Jamming Techniques
-1.  **[Directional Antennas](../06_antennas/09_Directional_Antennas_Beams.md)**: Point the null of the antenna toward the jammer to reduce its signal strength.
+1.  **[Directional Antennas](../06_antennas/12_Directional_Antennas_Beams.md)**: Point the null of the antenna toward the jammer to reduce its signal strength.
 2.  **Terrain Masking**: Put a hill or obstacle between the receiver and the jammer.
 3.  **Power**: Increase transmitter power (Burn-through) - only effective if the jammer is weak.
 4.  **Mode Change**: Switch to a mode more resistant to jamming (e.g., [CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md) is often readable through jamming where Voice is not).

@@ -31,3 +31,4 @@ $$f_{res} = \frac{1}{2\pi \sqrt{L \cdot C}}$$
 ## Related
 *   [[Reactance & Impedance]]
 *   [[Quality Factor (Q)]]
+*   [[Filters & Resonance]]

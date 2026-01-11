@@ -85,3 +85,5 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 ## Related
 *   [[Amplifier Configurations]]
 *   [[Vacuum Tubes]]
+*   [[Schematic Symbols]]
+*   [[Amplifiers]]

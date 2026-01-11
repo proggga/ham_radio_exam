@@ -74,3 +74,9 @@ Every real battery or power supply has an internal resistance $R_i$ in series wi
 *   **[[Transistors (BJT & FET)|Transistor]] Current Source:** A bipolar transistor with a fixed base voltage and emitter resistor acts as a **Constant Current Source**.
     *   The collector current $I_c$ is determined by the base voltage and emitter resistor, independent of the collector load (as long as not saturated).
     *   *Caveat:* If the collector load resistance ($R_c$) changes, the current stays the same. If $R_c$ is reduced by 3x, the power dissipated in it ($P = I^2 R$) also drops by 3x.
+
+## Related
+*   [[Batteries]]
+*   [[Circuits and Kirchhoff's Laws]]
+*   [[Power Supply]]
+*   [[Resistors]]

@@ -18,10 +18,13 @@ This map covers the various types of antennas used in amateur radio.
 *   **[[The Dipole Antenna]]** - The reference standard ($\lambda/2$).
 *   **[[End-Fed Antenna]]** - End-Fed Half Wave (EFHW) and Zepp.
 *   **[[Multiband Antennas]]** - Traps and Fan dipoles.
+*   **[[Common Wire Antennas]]** - G5RV, Windom, OCFD.
 *   **[[Loop Antennas]]** - Magnetic and Full-wave loops.
 
 ## Vertical
 *   **[[Vertical Antennas]]** - Ground planes and monopoles.
+*   **[[J-Pole Antenna]]** - End-fed vertical for VHF/UHF.
+*   **[[Discone Antenna]]** - Wideband scanner antenna.
 *   **[[Mobile, Portable & Marine Antennas]]** - Shortened and loaded antennas.
 *   **[[Hidden and Limited-Space Antennas]]** - Compromise solutions.
 
@@ -36,3 +39,5 @@ This map covers the various types of antennas used in amateur radio.
 ## Related
 *   **[[Antenna Characteristics]]** - Gain, Polarization, [[Impedance (Impedantie)|Impedance]].
 *   **[[Transmission Lines]]** - Feeding the antenna.
+*   **[[Baluns]]** - Connecting balanced antennas to unbalanced lines.
+*   **[[Antenna Tuning Unit (ATU)]]** - Matching impedance.

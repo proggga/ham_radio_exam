@@ -4,8 +4,8 @@ This map covers the instruments used to test and maintain radio equipment.
 
 ## Transmitter Testing
 *   **[SWR Meter](05_SWR_Meter.md)** - Checking antenna match.
-*   **[Dummy Load](../06_antennas/12_Dummy_Load.md)** - Safe non-radiating test load.
-*   **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Analyzer** - A handheld instrument that generates a low-power signal to measure [SWR](../06_antennas/20_Standing_Wave_Ratio_SWR.md), resistance ($R$), and reactance ($X$) of an antenna system across a range of frequencies without using a transmitter.
+*   **[Dummy Load](../06_antennas/15_Dummy_Load.md)** - Safe non-radiating test load.
+*   **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Analyzer** - A handheld instrument that generates a low-power signal to measure [SWR](../06_antennas/23_Standing_Wave_Ratio_SWR.md), resistance ($R$), and reactance ($X$) of an antenna system across a range of frequencies without using a transmitter.
 
 ## Circuit Analysis
 *   **[Dip Meter](06_Dip_Meter.md)** - Finding resonance of passive circuits.
@@ -19,6 +19,13 @@ This map covers the instruments used to test and maintain radio equipment.
 1.  **Total Loss/Attenuation:** $10 \text{ dB} + 1 \text{ dB} + 2 \text{ dB} = 13 \text{ dB}$.
 2.  **Calculate Factor:** $13 \text{ dB} \approx 20\times$ ($10 \text{ dB} = 10\times$, $3 \text{ dB} = 2\times$, so $10 \times 2 = 20$).
 3.  **Calculate Source Power:** $P_{source} = P_{measured} \times \text{Factor} = 8 \text{ W} \times 20 = 160 \text{ W}$.
+
+## Measurement Principles
+*   **[Multimeters (Universeelmeters)](01_Multimeters_Universeelmeters.md)** - DC/AC Voltage and Resistance.
+    *   *Voltmeter:* Should have **High** impedance to avoid loading the circuit.
+    *   *Ammeter:* Should have **Low** impedance.
+    *   *AC Measurement:* Standard moving-coil meters measure **Average** value. For sine waves, the scale is calibrated to RMS ($U_{rms} \approx 1.11 \times U_{avg}$). If rectifying a sine wave without a smoothing capacitor, the meter reads average ($2 U_{peak} / \pi$). With a capacitor, it reads peak.
+*   **[PEP](../01_electricity/32_Analogue_Modulation_&_AM.md) Measurement:** To measure Peak Envelope Power with a simple meter, a capacitor is needed to hold the peak voltage (time constant ~seconds).
 
 ---
 [< Back to Section Index](README.md)

@@ -17,7 +17,7 @@ Radio Direction Finding is the process of determining the location of a radio tr
 2.  **Homing**: Moving toward the signal strength peak. "Sniffing" the signal.
 
 ## Equipment
-*   **Directional [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: [Yagi](../06_antennas/09_Directional_Antennas_Beams.md), Quad, or Loop.
+*   **Directional [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: [Yagi](../06_antennas/12_Directional_Antennas_Beams.md), Quad, or Loop.
     *   *Null Method:* It is often more accurate to find the signal **null** (minimum strength) of a loop or dipole than the peak, as the null is sharper.
 *   **Ferrite Loopstick**: Common in portable [AM](../01_electricity/32_Analogue_Modulation_&_AM.md) radios. Pattern is a Figure-8.
     *   *Bidirectional Ambiguity:* A loopstick has two nulls 180° apart. A **Sense [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)** (vertical whip) can be added to create a Cardioid pattern with a single null to resolve this.

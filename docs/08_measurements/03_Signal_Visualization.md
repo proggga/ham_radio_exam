@@ -2,13 +2,16 @@
 
 ## 1. Oscilloscope
 Visualizes signals in the **Time Domain** (Voltage vs Time).
-*   **Components (Analogue):** Cathode Ray Tube (CRT), Vertical/Horizontal [Amplifiers](../03_circuits/14_Amplifiers.md), Timebase.
+*   **Components (Analogue):** Cathode Ray Tube (CRT), Vertical/Horizontal [Amplifiers](../03_circuits/15_Amplifiers.md), Timebase.
 *   **Operation:** Electron beam sweeps across the screen (X-axis = Time) while signal deflects it up/down (Y-axis = Voltage).
 *   **[Measurements](../01_electricity/12_Measurements.md):**
     *   **Amplitude:** Peak-to-Peak voltage ($U_{pp}$).
     *   **Period ($T$):** Time for one cycle.
     *   **Frequency:** Calculated as $f = 1/T$.
     *   **Waveform:** Sine, Square, Distortion, [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) depth.
+    *   **Envelope (Omhullende):** Visualizing the amplitude variation of an AM/SSB signal over time.
+        *   Used to measure **[Modulation Depth](../01_electricity/32_Analogue_Modulation_&_AM.md)** (AM) or **[PEP](../01_electricity/32_Analogue_Modulation_&_AM.md)** (SSB).
+        *   *Exam:* Identifying the shape of an AM signal (carrier + audio) vs. FM (constant amplitude).
     *   **Lissajous Figures:** XY-mode (Channel A = X, Channel B = Y).
         *   Used to compare **Frequency** and **Phase** of two signals.
         *   *Circle:* Same frequency, $90^\circ$ phase shift.

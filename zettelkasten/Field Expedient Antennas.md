@@ -57,7 +57,9 @@ When standard antennas are broken or unavailable, functional antennas can be con
 *   **Orientation**: Broadside to the wire transmits best (for dipoles).
 
 ## Related
+*   [[Antenna Types]]
 *   [[The Dipole Antenna]]
-*   [[Vertical Antennas]]
+*   [[Matching and SWR]]
 *   [[Field Repair Techniques]]
+*   [[Vertical Antennas]]
 *   [[Transmission Lines]]

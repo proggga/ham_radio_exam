@@ -29,3 +29,5 @@ Receiver overload occurs when a very strong signal (even if off-frequency) enter
 ## Related
 *   [[Superheterodyne Principle]]
 *   [[Amplifier Operating Principles]]
+*   [[Receiver Performance]] (Desensitization)
+*   [[Mixing Products (Interference)]]

@@ -27,4 +27,6 @@ This map covers the connection between the transmitter and the antenna.
 
 ## Related
 *   [[Matching and SWR]] - Measuring line performance.
+*   [[Standing Wave Ratio (SWR)]]
+*   [[Smith Chart]]
 *   [[Antenna Types]] - What connects to the line.

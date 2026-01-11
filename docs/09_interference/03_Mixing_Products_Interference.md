@@ -13,7 +13,7 @@ Two strong signals ($f_1$ and $f_2$) mix to create sum and difference products.
 ## Cross-Modulation (Kruismodulatie)
 *   **Definition**: The transfer of modulation from a strong unwanted signal to the carrier of a weaker wanted signal.
 *   **Effect**: You hear the audio of the strong station in the background of the station you are tuned to.
-*   **Cause**: Non-linearity in the RF amplifier or [Mixer](../03_circuits/23_Mixers.md).
+*   **Cause**: Non-linearity in the RF amplifier or [Mixer](../03_circuits/24_Mixers.md).
 *   **Context**: Common when a strong local transmitter is active nearby.
 
 ## Harmonics (Interference)

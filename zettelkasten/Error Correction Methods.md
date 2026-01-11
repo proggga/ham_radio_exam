@@ -39,5 +39,6 @@ In digital communications, errors occur due to noise, fading, or interference. W
 *   *Analogy:* Phonetic Alphabet. If you hear "Bravo", even if the 'v' is static, you know it's 'B' because of the redundancy.
 
 ## Related
+*   [[Packet Radio]]
 *   [[Digital Transmission]]
 *   [[Modern Digital Modes]]

@@ -6,7 +6,7 @@ This repository has been converted into a **Zettelkasten Knowledge System** to a
 
 ### 📚 Study Modes
 1.  **[📖 Read the Study Guide](docs/README.md)**: A linear, book-like version generated from the notes. Best for sequential studying.
-2.  **[📂 Enter Zettelkasten](zettelkasten/README.md)**: Browse the raw atomic notes, explore connections, and see the knowledge graph.
+2.  **[📂 Zettelkasten Guide](ZETTELKASTEN_GUIDE.md)**: Learn how to browse the raw atomic notes, explore connections, and see the knowledge graph.
 
 ### 🧠 What is Zettelkasten?
 The **Zettelkasten** (German for "Slip Box") method organizes knowledge into small, atomic notes that are linked together. It is best viewed using **[Obsidian](https://obsidian.md/)**, a powerful knowledge base tool that works on top of a local folder of Markdown files.

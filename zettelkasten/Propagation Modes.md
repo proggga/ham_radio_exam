@@ -29,3 +29,5 @@ This map covers the different paths radio waves take to travel from transmitter 
 ## Related
 *   [[The Ionosphere]] - The physics behind Sky Wave.
 *   [[Propagation Basics]] - Wavelength and velocity.
+*   [[Solar Cycle & Propagation]] - Influence of the sun.
+*   [[Dead Zone (Skip Zone)]] - Coverage gaps.

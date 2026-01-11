@@ -39,7 +39,7 @@ Digital voice modes digitize speech before transmission.
 
 ## Legacy & Data Modes
 ### Packet Radio
-*   **Protocol**: AX.25.
+*   **Protocol**: [[Packet Radio|AX.25]].
 *   **Speed**: Typically 1200 baud (AFSK on 2m/70cm) or 9600 baud (FSK).
 *   **Application**: Sending error-corrected data packets.
 
@@ -71,6 +71,8 @@ Designed for communication with extremely weak signals (often below the noise fl
     *   Used for emergency data (video, VoIP, files).
 
 ## Related
+*   [[Packet Radio]]
 *   [[Digital Transmission]]
 *   [[Modulation & Digital Signals]]
 *   [[Station Setup Guidelines]]
+*   [[Error Correction Methods]] (FEC)

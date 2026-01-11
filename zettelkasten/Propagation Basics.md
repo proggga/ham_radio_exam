@@ -28,3 +28,8 @@ Defined by the orientation of the **[[Electric Field]] ($E$)**.
 As the wave spreads out from a point source, power density decreases with the square of the distance.
 *   Double the distance = 1/4 the power (-6 [[Decibels & Logarithms|dB]]).
 *   See **[[Link Budget]]** for calculating total system performance.
+
+## Related
+*   [[Dead Zone (Skip Zone)]]
+*   [[Sky Wave Propagation]]
+*   [[Line of Sight Propagation (LOS)]]

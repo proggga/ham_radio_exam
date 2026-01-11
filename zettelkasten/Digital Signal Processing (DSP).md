@@ -36,6 +36,7 @@ DSP involves processing signals in the digital domain (as numbers) rather than u
     *   More bits = Less noise, higher [[Receiver Performance|Dynamic Range]]. (~6 [[Decibels & Logarithms|dB]] per bit).
 
 ## Digital Filters
+*   **Convolution**: The mathematical operation used to apply filters ([[Convolution]]).
 *   **FIR (Finite Impulse Response)**:
     *   No feedback. Inherently stable.
     *   Linear phase response (good for data).
@@ -52,7 +53,7 @@ DSP involves processing signals in the digital domain (as numbers) rather than u
 *   Used for filtering, spectral display, and modulation/demodulation.
 
 ## DDS (Direct Digital Synthesis)
-*   Generating waveforms directly from a digital look-up table (Sine table) and a [[Digital Processing Techniques|DAC]].
+*   **[[Direct Digital Synthesis (DDS)]]**: Generating waveforms directly from a digital look-up table (Sine table) and a [[Digital Processing Techniques|DAC]].
 *   Very fast frequency switching and high resolution.
 
 ## Related

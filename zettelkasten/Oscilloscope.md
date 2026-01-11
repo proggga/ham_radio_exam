@@ -47,3 +47,4 @@ An oscilloscope visualizes electrical signals (Voltage) over Time.
 ## Related
 *   [[Measurements]]
 *   [[AC Signal Parameters]]
+*   [[Complex Waveforms & Fourier]]

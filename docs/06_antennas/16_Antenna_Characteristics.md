@@ -17,7 +17,7 @@
     *   $EIRP = P_{transmitter} - Losses + Gain (dBi)$.
 
 ### Calculation Example
-**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 [dB](../00_basic_skills.md). [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) is a [Yagi](09_Directional_Antennas_Beams.md) with 13 dBd gain. What is the ERP?
+**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 [dB](../00_basic_skills.md). [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) is a [Yagi](12_Directional_Antennas_Beams.md) with 13 dBd gain. What is the ERP?
 1.  **Convert Power to dBW:** $10 \text{ W} = 10 \text{ dBW}$.
 2.  **Calculate Power at [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md):** $10 \text{ dBW} - 3 \text{ [dB](../00_basic_skills.md)} = 7 \text{ dBW}$ (5 Watts).
 3.  **Add Antenna Gain:** $7 \text{ dBW} + 13 \text{ dBd} = 20 \text{ dBW}$.
@@ -27,7 +27,7 @@
 
 ## 3. Radiation Resistance ($R_{rad}$)
 A virtual resistance that accounts for the power radiated as EM waves.
-*   Total [Impedance](../01_electricity/21_Impedance_Impedantie.md) $Z = R_{rad} + R_{loss} + jX$. See [Impedance](../03_circuits/24_Reactance_&_Impedance.md).
+*   Total [Impedance](../01_electricity/21_Impedance_Impedantie.md) $Z = R_{rad} + R_{loss} + jX$. See [Impedance](../03_circuits/26_Reactance_&_Impedance.md).
 *   **Efficiency ($\eta$):**
     $$\eta = \frac{R_{rad}}{R_{rad} + R_{loss}}$$
 *   **Short Antennas:** Have very low $R_{rad}$. Efficiency is poor unless $R_{loss}$ is extremely low.

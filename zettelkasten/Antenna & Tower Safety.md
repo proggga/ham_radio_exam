@@ -39,6 +39,7 @@ Proper grounding shunts lightning energy to earth before it enters the station.
 *   **[[Equipment Safety Classes|Insulation]]**: Ensure antenna ends (high voltage) are out of reach of people to prevent RF burns.
 
 ## Related
+*   [[Earthing Systems]]
 *   [[Electrical Safety]]
 *   [[RF Safety]]
 *   [[Station Setup Guidelines]]

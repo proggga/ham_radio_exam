@@ -39,3 +39,4 @@ aliases: ["Laagfrequentdetectie", "LFD"]
 ## Related
 *   [[Detectors (Demodulators)]]
 *   [[Capacitor Principles]]
+*   [[Mitigation (Ontstoring)]]

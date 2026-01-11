@@ -296,7 +296,7 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
     *   *Cause:* Talking too close to the microphone or Mic Gain too high.
     *   *Fix:* Speak farther away ("Eat the mic" is bad for [FM](01_electricity/35_Frequency_Modulation_FM.md)) or turn down Mic Gain.
 *   **RF Feedback**: Audio sounds garbled, buzzing, or has a "motorboat" sound.
-    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/20_Standing_Wave_Ratio_SWR.md) or poor grounding.
+    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/23_Standing_Wave_Ratio_SWR.md) or poor grounding.
     *   *Fix:* Install a **Ferrite Choke** on the microphone cable. Improve station [RF Ground](11_procedures.md).
 *   **Low Voltage**: Audio sounds "warbly" or weak.
     *   *Cause:* Battery low or high resistance connection causing voltage drop during transmit peaks.
@@ -310,12 +310,12 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 ## Antenna & Power Problems
 
 ### High SWR
-*   **Intermittent [SWR](06_antennas/20_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
+*   **Intermittent [SWR](06_antennas/23_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
     *   *Cause:* Loose connection (PL-259), bad solder joint, or corroded connector.
     *   *Fix:* Wiggle cables to find the fault. Resolder or replace connectors.
 *   **High SWR (Constant)**:
     *   *Cause:* [Antenna](10_safety/03_Antenna_&_Tower_Safety.md) detuned, water in coax, or short/open in feedline.
-    *   *Fix:* Test with a **[Dummy Load](06_antennas/12_Dummy_Load.md)** at the end of the coax to rule out the cable. Check antenna dimensions.
+    *   *Fix:* Test with a **[Dummy Load](06_antennas/15_Dummy_Load.md)** at the end of the coax to rule out the cable. Check antenna dimensions.
 
 ### Mobile Noise
 *   **Ignition [Noise](01_electricity/26_AC_Signals_&_Noise.md)**: Popping sound varying with engine RPM.
@@ -495,7 +495,7 @@ Digital voice modes digitize speech before transmission.
 
 ## Legacy & Data Modes
 ### Packet Radio
-*   **Protocol**: AX.25.
+*   **Protocol**: [AX.25](11_procedures.md).
 *   **Speed**: Typically 1200 baud (AFSK on 2m/70cm) or 9600 baud (FSK).
 *   **Application**: Sending error-corrected data packets.
 
@@ -552,6 +552,46 @@ APRS is a digital communications protocol for exchanging information among a lar
 *   **Digipeaters**: "Digital Repeaters" that listen for packets and retransmit them to extend range.
 *   **IGates (Internet Gateways)**: Stations that receive RF packets and feed them into the **APRS-IS** (Internet Service), allowing global viewing on websites like [aprs.fi](https://aprs.fi).
 *   **Path**: A setting in the packet that determines how many hops (digipeaters) the packet should take (e.g., `WIDE1-1, WIDE2-1`).
+
+---
+
+
+# Packet Radio (AX.25)
+
+Packet Radio is a mode of digital communication that sends data in structured bursts ("packets"). It is the foundation for modern systems like [APRS](11_procedures.md).
+
+## 1. The Protocol: AX.25
+Derived from the X.25 commercial standard, adapted for Amateur (A) Radio.
+*   **Layer 2 Protocol**: Corresponds to the Data Link Layer in the OSI model.
+*   **Function**: Handles addressing, error detection, and packet framing.
+
+## 2. Frame Structure
+An AX.25 frame consists of several fields:
+1.  **Flag**: Start delimiter (01111110).
+2.  **Destination Call**: Callsign of the receiving station.
+3.  **Source Call**: Callsign of the sender.
+4.  **Digipeaters**: List of repeaters to route through (optional).
+5.  **Control**: Type of packet (Unnumbered Information, Connect Request, Ack, etc.).
+6.  **PID**: Protocol ID (identifies Layer 3 protocol, e.g., TCP/IP or No Layer 3).
+7.  **Data (Info)**: The actual message (max 256 bytes typically).
+8.  **FCS (Frame Check Sequence)**: A **CRC-16** checksum for error detection.
+9.  **Flag**: End delimiter.
+
+## 3. Operation Modes
+*   **Connected Mode**: A virtual circuit is established.
+    *   Handshake: `CONNECT Request` -> `CONNECT Ack`.
+    *   **ARQ (Automatic Repeat Request)**: Receiver sends an ACK (Acknowledgement) for every good packet. If sender gets no ACK, it retries. Guarantees error-free delivery.
+*   **Unconnected (UI) Mode**: "Fire and Forget".
+    *   No handshake, no ACKs.
+    *   Used for **Beacons** and **[APRS](11_procedures.md)**.
+    *   *Benefit:* Efficient for broadcast info. *Drawback:* No guarantee of receipt.
+
+## 4. Hardware/Modulation
+*   **TNC (Terminal Node Controller)**: The "modem" that handles the AX.25 protocol.
+*   **AFSK (Audio Frequency Shift Keying)**: Common on VHF.
+    *   1200 Baud (Bell 202 standard).
+    *   Tones: 1200 Hz / 2200 Hz.
+*   **FSK / GMSK**: Used for higher speeds (9600 baud).
 
 ---
 

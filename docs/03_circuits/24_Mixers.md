@@ -1,6 +1,6 @@
 # Mixers
 
-[Mixers](20_Detectors,_Oscillators_&_Mixers.md) are non-linear circuits that combine two frequencies ($f_1$ and $f_2$).
+[Mixers](21_Detectors,_Oscillators_&_Mixers.md) are non-linear circuits that combine two frequencies ($f_1$ and $f_2$).
 
 ## Operation
 Ideally, a mixer multiplies two signals. The output contains:

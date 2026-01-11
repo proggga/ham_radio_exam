@@ -34,3 +34,4 @@ Calculating exact logs in your head is hard, but these rules cover most exam que
 ## Related
 *   [[Antenna Types]] (Gain)
 *   [[Amplifiers]] (Amplification)
+*   [[Link Budget]]

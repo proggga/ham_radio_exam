@@ -26,3 +26,6 @@ Radio engineering is applied physics. This map covers the fundamental mathematic
 
 ## Physics
 *   **[[Physics Principles]]** - Conservation of energy and efficiency.
+
+## Diagrams
+*   **[[Schematic Symbols]]** - Recognizing circuit components.

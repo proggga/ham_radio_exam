@@ -11,7 +11,7 @@ The premier band for daytime Long-Haul DX.
 
 ## Usage
 *   **Best For:** International DX, Contesting.
-*   **Antennas:** Practical size (~33 ft dipole). [Beams](../06_antennas/09_Directional_Antennas_Beams.md)/Yagis are common.
+*   **Antennas:** Practical size (~33 ft dipole). [Beams](../06_antennas/12_Directional_Antennas_Beams.md)/Yagis are common.
 *   **Activity:** Highest of any band. Severe QRM during contests.
 
 ---

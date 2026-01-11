@@ -6,7 +6,7 @@
 *   **[Optoelectronic Devices](19_Optoelectronic_Devices.md)** - LEDs, Photodiodes, Optocouplers.
 
 ## Applications
-*   **[Amplifiers](../03_circuits/14_Amplifiers.md)**
+*   **[Amplifiers](../03_circuits/15_Amplifiers.md)**
 *   **[Power Supply](../03_circuits/09_Power_Supply.md)**
 
 ---

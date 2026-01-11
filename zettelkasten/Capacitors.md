@@ -25,3 +25,5 @@ This map covers the theory and types of capacitors.
 
 ## Related
 *   **[[Electric, Magnetic, and Electromagnetic Fields]]** - Storage mechanism.
+*   **[[Schematic Symbols]]** - Component symbols.
+*   **[[Filters & Resonance]]** - Key application.

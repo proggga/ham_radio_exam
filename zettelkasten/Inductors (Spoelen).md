@@ -62,3 +62,8 @@ $$L = \frac{\mu_0 \cdot \mu_r \cdot n^2 \cdot A}{l}$$
 *   **Electromagnets:** Coil with iron core.
 *   **[[Transformers]]:** Two magnetically coupled coils.
 *   **[[Filters & Resonance|Filters]]:** Blocking high frequencies (choke). See [[Filters & Resonance|Filters]].
+
+## Related
+*   [[Reactance & Impedance]]
+*   [[Schematic Symbols]]
+*   [[Transformers]]

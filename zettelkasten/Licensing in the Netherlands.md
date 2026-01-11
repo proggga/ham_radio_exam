@@ -50,3 +50,9 @@ A unique identifier for the station.
     *   **Novice License:** Visitors use prefix **PD/** followed by their home call (e.g., *PD/DO1ABC*).
 *   **Operating Abroad:**
     *   With a Dutch registration (CEPT T/R 61-01), you can operate in many countries using their prefix before your call (e.g., DL/PA0ABC in Germany).
+
+## Related
+*   [[International Organisations]] (CEPT/ITU)
+*   [[Operating Rules (Netherlands)]]
+*   [[Telecommunicatiewet Provisions]]
+*   [[Emission Classes (ITU)]]

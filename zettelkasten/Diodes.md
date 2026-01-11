@@ -42,4 +42,8 @@ A diode is a two-terminal component formed by a single PN junction that allows c
 
 ## Related:
 - [[Semiconductor Physics]]
-- [[Power Supply]] - [[Rectification]].
+- [[Power Supply]] - [[Rectification]]
+- [[Detectors (Demodulators)]]
+- [[Zener Diode]]
+- [[Varicap (Capaciteitsdiode)]]
+- [[LED (Light Emitting Diode)]]

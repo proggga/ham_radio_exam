@@ -35,6 +35,8 @@ APRS is a digital communications protocol for exchanging information among a lar
 *   **Path**: A setting in the packet that determines how many hops (digipeaters) the packet should take (e.g., `WIDE1-1, WIDE2-1`).
 
 ## Related
+*   [[Packet Radio]]
 *   [[Modern Digital Modes]]
 *   [[Satellite Operation]] (ISS uses APRS)
 *   [[Emergency Operations]]
+*   [[Digital Transmission]]

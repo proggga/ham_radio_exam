@@ -24,7 +24,7 @@ This map covers the fundamental fields of force in radio physics.
 *   **Combination:** E-field and H-field oscillating at right angles to each other and to the direction of propagation.
 *   **Ratio:** $E / H = 377 \Omega$ ([Impedance](21_Impedance_Impedantie.md) of Free Space).
 *   [Inductors (Spoelen)](../02_components/09_Inductors_Spoelen.md) - Stores [Magnetic Field](22_Magnetic_Field.md).
-*   [Antenna Characteristics](../06_antennas/13_Antenna_Characteristics.md) - Radiates [Electromagnetic Waves](23_Electromagnetic_Waves.md).
+*   [Antenna Characteristics](../06_antennas/16_Antenna_Characteristics.md) - Radiates [Electromagnetic Waves](23_Electromagnetic_Waves.md).
 
 ## Components
 *   [Capacitor Principles](24_Capacitor_Principles.md) - Stores [Electric Field](25_Electric_Field.md).

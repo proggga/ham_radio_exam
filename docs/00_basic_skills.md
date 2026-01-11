@@ -20,6 +20,9 @@ Radio engineering is applied physics. This map covers the fundamental mathematic
 ## Physics
 *   **[Physics Principles](00_basic_skills.md)** - Conservation of energy and efficiency.
 
+## Diagrams
+*   **[Schematic Symbols](00_basic_skills.md)** - Recognizing circuit components.
+
 ---
 
 
@@ -198,6 +201,48 @@ Two fundamental principles of physics apply to all electronics and radio systems
 Order naturally tends toward disorder. In practical terms, no system is 100% efficient.
 *   Some energy is always lost as heat due to resistance and other inefficiencies.
 *   This is why high-power transmitters require heat sinks and cooling fans.
+
+---
+
+
+# Schematic Symbols
+
+Exam Requirement 0.2 requires candidates to recognize standard symbols used in electronic schematics.
+
+## Passive Components
+*   **[Resistor](02_components/01_Resistors.md)**: Rectangle (IEC) or Zig-zag line (ANSI).
+*   **[Capacitor](02_components/05_Capacitors.md)**: Two parallel plates.
+    *   *Polarized (Elco):* One plate straight, one curved (or with a `+` sign).
+    *   *Variable:* With an arrow through it.
+*   **[Inductor](02_components/09_Inductors_Spoelen.md)**: Coiled wire loops (or filled black rectangle in some IEC).
+    *   *With Core:* Lines above the coil.
+*   **[Transformers](02_components/10_Transformers.md)**: Two coils facing each other with lines (core) in between.
+
+## Active Components
+*   **[Diode](02_components/17_Diodes.md)**: Arrow pointing to a line (Cathode).
+    *   *[Zener Diode](02_components/20_Zener_Diode.md)*: Cathode line has bent ends ("Z").
+    *   *[Varicap](02_components/22_Varicap_Capaciteitsdiode.md)*: Diode symbol combined with a capacitor symbol.
+    *   *[LED](02_components/21_LED_Light_Emitting_Diode.md)*: Diode with two small arrows pointing away (light emission).
+*   **[Bipolar Transistor (BJT)](02_components/18_Transistors_BJT_&_FET.md)**:
+    *   *NPN*: Arrow on Emitter pointing **OUT** (Not Pointing iN).
+    *   *PNP*: Arrow on Emitter pointing **IN**.
+*   **[Field Effect Transistor (FET)](02_components/18_Transistors_BJT_&_FET.md)**:
+    *   *JFET*: Gate arrow pointing In (N-channel) or Out (P-channel).
+    *   *MOSFET*: Gate separated from channel (insulated).
+*   **[Vacuum Tubes](02_components/24_Vacuum_Tubes.md)**: Circle containing grids (dotted lines), plate (anode), and cathode.
+
+## Logic Gates (IEC)
+Square symbols with specific labels:
+*   **[AND](02_components/28_Digital_Logic_Gates.md)**: `&`
+*   **[OR](02_components/28_Digital_Logic_Gates.md)**: `≥1`
+*   **[NOT](02_components/28_Digital_Logic_Gates.md)**: `1` (often with a small circle `o` for inversion).
+*   **[XOR](02_components/28_Digital_Logic_Gates.md)**: `=1`
+
+## Miscellaneous
+*   **[Antenna](06_antennas/01_Antenna_Types.md)**: Triangle pointing down or pitchfork shape.
+*   **Earth/Ground**: Three parallel lines of decreasing width or a single line.
+*   **[Crystal](02_components/27_Crystals_Quartz.md)**: Rectangle between two plates.
+*   **Battery/Source**: Long line (Positive) and short line (Negative).
 
 ---
 

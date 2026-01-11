@@ -33,3 +33,9 @@ Matches the transmitter impedance (usually $50 \Omega$) to the antenna system. S
 *   **Duty Cycle:** The percentage of time the transmitter is "key down".
     *   *[[CW Abbreviations & Prosigns|CW]]/[[Single Sideband (SSB)|SSB]]:* Low duty cycle (~20-50%).
     *   *[[Frequency Modulation (FM)|FM]]/Digital ([[Modern Digital Modes|FT8]]):* High duty cycle (100%). Requires better cooling.
+
+## Related
+*   [[Transmitter Architecture]]
+*   [[Vacuum Tubes]]
+*   [[Transistors (BJT & FET)]]
+*   [[Antenna Tuning Unit (ATU)]]

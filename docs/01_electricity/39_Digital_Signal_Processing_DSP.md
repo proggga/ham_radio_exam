@@ -21,6 +21,7 @@ DSP involves processing signals in the digital domain (as numbers) rather than u
     *   More bits = Less noise, higher [Dynamic Range](../04_receivers/03_Receiver_Performance.md). (~6 [dB](../00_basic_skills.md) per bit).
 
 ## Digital Filters
+*   **Convolution**: The mathematical operation used to apply filters ([Convolution](42_Convolution.md)).
 *   **FIR (Finite Impulse Response)**:
     *   No feedback. Inherently stable.
     *   Linear phase response (good for data).
@@ -33,11 +34,11 @@ DSP involves processing signals in the digital domain (as numbers) rather than u
 *   **IIR Structure**: Similar to FIR but includes **Feedback** loops where previous *outputs* are also delayed, weighted, and summed back into the input stream.
 
 ## FFT (Fast Fourier Transform)
-*   Converts a signal from **Time Domain** ([Oscilloscope](42_Oscilloscope.md) view) to **Frequency Domain** ([Spectrum Analyzer](43_Spectrum_Analyzer.md) view).
+*   Converts a signal from **Time Domain** ([Oscilloscope](43_Oscilloscope.md) view) to **Frequency Domain** ([Spectrum Analyzer](44_Spectrum_Analyzer.md) view).
 *   Used for filtering, spectral display, and modulation/demodulation.
 
 ## DDS (Direct Digital Synthesis)
-*   Generating waveforms directly from a digital look-up table (Sine table) and a [DAC](40_Digital_Processing_Techniques.md).
+*   **[Direct Digital Synthesis (DDS)](../03_circuits/25_Direct_Digital_Synthesis_DDS.md)**: Generating waveforms directly from a digital look-up table (Sine table) and a [DAC](40_Digital_Processing_Techniques.md).
 *   Very fast frequency switching and high resolution.
 
 ---

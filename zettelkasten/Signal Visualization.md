@@ -21,6 +21,9 @@ Visualizes signals in the **Time Domain** (Voltage vs Time).
     *   **Period ($T$):** Time for one cycle.
     *   **Frequency:** Calculated as $f = 1/T$.
     *   **Waveform:** Sine, Square, Distortion, [[Modulation & Digital Signals|Modulation]] depth.
+    *   **Envelope (Omhullende):** Visualizing the amplitude variation of an AM/SSB signal over time.
+        *   Used to measure **[[Analogue Modulation & AM|Modulation Depth]]** (AM) or **[[Analogue Modulation & AM|PEP]]** (SSB).
+        *   *Exam:* Identifying the shape of an AM signal (carrier + audio) vs. FM (constant amplitude).
     *   **Lissajous Figures:** XY-mode (Channel A = X, Channel B = Y).
         *   Used to compare **Frequency** and **Phase** of two signals.
         *   *Circle:* Same frequency, $90^\circ$ phase shift.

@@ -7,9 +7,9 @@ $$P_{RX} = P_{TX} + G_{TX} - L_{Path} + G_{RX} - L_{Misc}$$
 
 *   $P_{RX}$: Received Power (dBm).
 *   $P_{TX}$: Transmitter Output Power (dBm).
-*   $G_{TX}$: Transmitter [Antenna Gain](../06_antennas/13_Antenna_Characteristics.md) (dBi).
+*   $G_{TX}$: Transmitter [Antenna Gain](../06_antennas/16_Antenna_Characteristics.md) (dBi).
 *   $L_{Path}$: Path Loss (Free Space Path Loss) (dB).
-*   $G_{RX}$: Receiver [Antenna Gain](../06_antennas/13_Antenna_Characteristics.md) (dBi).
+*   $G_{RX}$: Receiver [Antenna Gain](../06_antennas/16_Antenna_Characteristics.md) (dBi).
 *   $L_{Misc}$: Cable losses, connector losses, polarization mismatch (dB).
 
 ## Key Parameters

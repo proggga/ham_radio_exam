@@ -23,3 +23,4 @@ This map covers active components other than discrete transistors.
 ## Related
 *   **[[Semiconductors]]** - The solid-state alternatives.
 *   **[[Amplifiers]]** - General amplifier theory.
+*   **[[Transistors (BJT & FET)]]**

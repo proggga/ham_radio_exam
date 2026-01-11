@@ -51,4 +51,6 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 ## Related
 *   [[Station Setup Guidelines]]
 *   [[RF Measurements]]
+*   [[SWR Meter]]
 *   [[Mitigation (Ontstoring)]]
+*   [[Types of Interference]]

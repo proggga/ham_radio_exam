@@ -49,3 +49,7 @@ The standard for modern radios. Converts all incoming signals to a fixed **Inter
 *   See [[Superheterodyne Receiver]] for full details.
 
 ## Related
+*   [[Superheterodyne Receiver]]
+*   [[Detectors (Demodulators)]]
+*   [[Amplifiers]]
+*   [[Mixers]]

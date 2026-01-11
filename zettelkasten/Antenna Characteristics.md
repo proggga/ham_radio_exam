@@ -62,3 +62,6 @@ A virtual resistance that accounts for the power radiated as EM waves.
     *   *[[Electrical Safety|Safety]]:* Moves the RF field away from the passengers.
 
 ## Related
+*   [[Antenna Types]]
+*   [[Link Budget]]
+*   [[Decibels & Logarithms]]

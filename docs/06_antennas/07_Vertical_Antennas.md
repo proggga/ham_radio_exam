@@ -20,5 +20,11 @@ A Quarter-wave ($\lambda/4$) vertical element.
 *   **Take-off Angle**: Low angle, good for reaching the ionosphere for long hops.
 *   **[Noise](../01_electricity/26_AC_Signals_&_Noise.md)**: Susceptible to man-made noise (QRM) which is often vertically polarized.
 
+## Variants
+*   **Ground Plane (GP)**: Using radials (horizontal or drooping).
+*   **5/8 Wave**: Higher gain ($~3 dBd$), lower angle of radiation. Needs a matching coil at the base.
+*   **[J-Pole Antenna](08_J-Pole_Antenna.md)**: A popular end-fed vertical variant that does not require radials.
+*   **[Discone Antenna](09_Discone_Antenna.md)**: Extremely wideband vertical (unity gain) used for scanning.
+
 ---
 [< Back to Section Index](README.md)

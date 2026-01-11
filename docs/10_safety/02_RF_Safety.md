@@ -39,7 +39,7 @@ $$d_{safe} = \frac{\sqrt{30 \times EIRP}}{E_{limit}}$$
     *   $EIRP = P_{transmitter} \times Gain_{antenna} \times 1.64$ (if gain is relative to dipole).
     *   *Note:* $1 \text{ dipole gain (0 dBd)} = 1.64 \times \text{isotropic (2.15 dBi)}$.
 *   **[Exam](../12_regulations/05_Licensing_in_the_Netherlands.md) Example**:
-    *   $P = 400 \text{ W}$, Gain = 10 dBd (factor 10), Limit = 28 V/m.
+    *   $P = 400 \text{ W}$, Gain = 10 dBd (factor 10), Limit = 28 V/m. See [Decibels & Logarithms](../00_basic_skills.md).
     *   $EIRP = 400 \times 10 \times 1.64 = 6560 \text{ W}$.
     *   $d = \sqrt{30 \times 6560} / 28 \approx \sqrt{196800} / 28 \approx 443 / 28 \approx 16 \text{ m}$.
 

@@ -41,3 +41,5 @@ The exam uses IEC symbols (rectangular boxes).
 *   [[Boolean Algebra]]
 *   **[[Number Systems]]**
 *   **[[Diode Logic]]**
+*   **[[Combinational Logic]]** (Adders)
+*   **[[Sequential Logic]]** (Flip-Flops)

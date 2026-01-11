@@ -19,7 +19,7 @@ SSB is a form of Amplitude [Modulation](31_Modulation_&_Digital_Signals.md) wher
     *   *LSB:* Filter passes lower frequencies.
 
 ## Reception
-Requires a receiver with a **Product Detector** ([Mixer](../03_circuits/23_Mixers.md)) and a **BFO** (Beat Frequency Oscillator) to re-insert the missing carrier frequency locally.
+Requires a receiver with a **Product Detector** ([Mixer](../03_circuits/24_Mixers.md)) and a **BFO** (Beat Frequency Oscillator) to re-insert the missing carrier frequency locally.
 
 ## Power Measurement (PEP)
 *   **Definition**: Peak Envelope Power. Average power of one RF cycle at the crest of the modulation envelope.
