@@ -39,6 +39,10 @@ Uses two IF stages (e.g., 1st IF = 45 MHz, 2nd IF = 455 kHz).
 *   **[[Image Frequency]] (Spiegelfrequentie)**: An unwanted signal at $f_{image} = f_{RF} \pm 2f_{IF}$ that also mixes to the IF.
 *   **Spurious Responses**: Intermodulation products from strong nearby signals.
 
+## Block Diagram Analysis
+For tips on identifying receivers vs transmitters and modulation types in exam diagrams, see:
+*   **[[Block Diagram Identification]]**
+
 ## Related
 *   [[Detectors (Demodulators)]]
 *   [[Automatic Gain Control (AGC)]]
