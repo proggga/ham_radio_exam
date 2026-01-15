@@ -1,12 +1,11 @@
 ---
 id: 202512292054
-title: Reactance (Reactantie)
+title: "Reactance"
 tags: ["ham-radio", "circuits", "ac-theory"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Reactantie"
 aliases: ["Reactantie"]
 ---
 
@@ -30,6 +29,6 @@ Decreases with frequency (Inversely proportional).
     *   High Freq: $X_C$ is low (Short circuit).
 
 ## Related
-*   [[Impedance (Impedantie)]]
-*   [[Inductors (Spoelen)]]
+*   [[Impedance]]
+*   [[Inductors]]
 *   [[Capacitors]]

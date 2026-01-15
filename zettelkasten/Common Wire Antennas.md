@@ -9,8 +9,7 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Veelgebruikte Draadantennes"
-aliases: ["G5RV", "Windom", "OCFD", "Off-Center Fed Dipole"]
+aliases: ["Veelgebruikte Draadantennes", "G5RV", "Windom", "OCFD", "Off-Center Fed Dipole"]
 ---
 
 # Common Wire Antennas

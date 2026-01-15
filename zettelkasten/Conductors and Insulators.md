@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Geleiders en isolatoren"
 aliases: ["Geleiders en isolatoren"]
 ---
 
@@ -35,4 +34,4 @@ Materials with conductivity between that of a conductor and an insulator.
 
 Related:
 - [[Atomic Structure]]
-- [[Resistivity (Soortelijke Weerstand)]] - Quantitative measure of conduction.
+- [[Resistivity]] - Quantitative measure of conduction.

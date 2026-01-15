@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Hoofdindex"
 aliases: ["Hoofdindex"]
 ---
 
@@ -26,7 +25,7 @@ This index provides a comprehensive list of all study topics organized by catego
     *   [[Conductors and Insulators|Conductors & Insulators]]
 *   [[Voltage, Current, and Ohm's Law|Ohm's Law]] (Voltage, Current, Resistance)
 *   **[[Conductance]]** (Siemens, 1/R)
-*   [[Resistivity (Soortelijke Weerstand)|Resistivity]] (Specific Resistance)
+*   [[Resistivity|Resistivity]] (Specific Resistance)
 *   [[Power and Energy|Power & Energy]] (Watt, Joule, Dissipation)
 *   [[Measurements]] (Connecting Meters)
 *   [[Circuits and Kirchhoff's Laws|Circuits]] (Series, Parallel, Kirchhoff)
@@ -42,14 +41,14 @@ This index provides a comprehensive list of all study topics organized by catego
 ## 2. Components
 *   [[Resistors]] (Types, Color Codes)
 *   [[Capacitors]] (Farad, Types)
-*   [[Inductors (Spoelen)|Inductors]] (Henry, Coils)
+*   [[Inductors|Inductors]] (Henry, Coils)
 *   [[Transformers]] (Turns Ratio, Matching)
 *   **[[Semiconductors]]**
     *   [[Semiconductor Physics|Physics & PN Junction]]
     *   [[Diodes]]
         *   [[Zener Diode]]
         *   [[LED (Light Emitting Diode)]]
-        *   [[Varicap (Capaciteitsdiode)]]
+        *   [[Varicap]]
     *   [[Transistors (BJT & FET)|Transistors (BJT/FET)]]
     *   [[Optoelectronic Devices]]
 *   [[Tubes & Op-Amps|Active Components]] (Tubes, Op-Amps)
@@ -121,7 +120,7 @@ This index provides a comprehensive list of all study topics organized by catego
 *   **[[Earth Thermal Noise]]**
 
 ## 8. Measurements
-*   [[Multimeters (Universeelmeters)|Multimeters]] (V, I, R)
+*   [[Multimeters|Multimeters]] (V, I, R)
 *   **[[Measurement Errors]]**
 *   [[Signal Visualization|Visualization]] (Scope, Spectrum)
 *   [[RF Measurements]] (SWR, Freq Counter, Dummy Load)
@@ -131,8 +130,8 @@ This index provides a comprehensive list of all study topics organized by catego
 *   [[Types of Interference|Types]] (Blocking, Intermod, Splatter)
 *   **[[Cabinet Radiation]]**
 *   [[Causes of Interference|Causes]] (Harmonics, Pin 1)
-*   [[Audio Rectification (LFD)]] (Inpraten, Detection)
-*   [[Mitigation (Ontstoring)|Mitigation]] (Filters, Ferrites, Grounding)
+*   [[Audio Rectification]] (Inpraten, Detection)
+*   [[Mitigation|Mitigation]] (Filters, Ferrites, Grounding)
 *   [[Electronic Warfare (Jamming)]] (Jamming types, Protection)
 
 ## 10. Safety
@@ -160,14 +159,14 @@ This index provides a comprehensive list of all study topics organized by catego
 ## 12. Regulations
 *   [[International Organisations|Organisations]] (ITU, CEPT, IARU)
 *   **[[EMC Directive (2014-30-EU)]]**
-*   **[[Dutch Frequency Regulations 2015]]**
-*   **[[Telecommunicatiewet Provisions]]**
+*   **[[Frequency Regulations 2015 (Netherlands)]]**
+*   **[[Telecommunications Act Provisions]]**
 *   [[Licensing in the Netherlands|Licensing]] (Callsigns, Registration)
 *   [[Rules & Regulations|Rules]] (Status, Emission Classes)
 *   [[Operating Rules (Netherlands)]] (Power limits, Restrictions)
 
 ## 13. Conduct
-*   [[Eindterm 13 Conduct (Gedragsregels)|Ethics]] (Social, Operating)
+*   [[Operator Conduct|Ethics]] (Social, Operating)
 
 ---
 **Note**: This is a Map of Content (MOC) - a note that provides organized access to a topic area. MOCs evolve as your knowledge grows.

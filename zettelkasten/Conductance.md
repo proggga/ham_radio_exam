@@ -8,7 +8,6 @@ tags:
 created: 2026-01-11
 type: permanent-note
 modified: 2026-01-11
-dutch_title: "Geleidbaarheid"
 aliases: ["Geleidbaarheid", "G"]
 ---
 
@@ -42,10 +41,10 @@ Two resistors in parallel: $R_1 = 10 \Omega$, $R_2 = 20 \Omega$.
     *   $R_{total} = 1 / 0.15 \approx 6.67 \Omega$
 
 ## RF Context
-In AC circuits and transmission lines, conductance is the real part of **[[Reactance & Impedance|Admittance]]** ($Y$), representing the resistive loss in the dielectric of a transmission line or capacitor.
+In AC circuits and transmission lines, conductance is the real part of **[[Admittance]]** ($Y$), representing the resistive loss in the dielectric of a transmission line or capacitor.
 
 ## Related Notes
 *   [[Voltage, Current, and Ohm's Law]]
 *   [[Parallel Circuits]]
-*   [[Resistivity (Soortelijke Weerstand)]]
+*   [[Resistivity]]
 *   [[Reactance & Impedance]]

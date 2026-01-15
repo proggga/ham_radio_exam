@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Jamming"
 aliases: ["Jamming", "Stoorzenders"]
 ---
 
@@ -52,4 +51,4 @@ In a military context, interference incidents are reported via a **MIJI** report
 ## Related
 *   [[Types of Interference]]
 *   [[Radio Operations in Harsh Environments]]
-*   [[Mitigation (Ontstoring)]]
+*   [[Mitigation]]

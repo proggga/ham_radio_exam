@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Zenderopbouw"
 aliases: ["Zenderopbouw"]
 ---
 
@@ -20,7 +19,7 @@ Simple On/Off keying of a carrier.
 
 ## 2. FM Transmitter
 Varying the frequency of the carrier.
-*   **Direct [[Frequency Modulation (FM)|FM]]:** Modulating the VCO directly ([[Reactance (Reactantie)|Reactance]] Modulator / [[Varicap (Capaciteitsdiode)|Varicap]]).
+*   **Direct [[Frequency Modulation (FM)|FM]]:** Modulating the VCO directly ([[Reactance|Reactance]] Modulator / [[Varicap|Varicap]]).
 *   **Indirect [[Frequency Modulation (FM)|FM]] (Phase [[Modulation & Digital Signals|Modulation]]):** Modulating the phase of a crystal oscillator.
 *   **Multipliers:** Frequency multipliers (Verdubbelaar/Verdrievoudiger) are often used to reach the final frequency.
     *   *Note:* Multiplication increases **Frequency** AND **Deviation**.

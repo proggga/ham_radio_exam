@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Faserelaties"
 aliases: ["Faserelaties"]
 ---
 
@@ -25,6 +24,7 @@ Voltage **leads** Current by $90^\circ$.
 *   *Mnemonics*:
     *   **LUI**: **L**, **U** (Voltage) comes before **I** (Current).
     *   **ELI**: **E** (EMF/Voltage) **L**eads **I** in **L**.
+    *   **LEICIE** (Dutch): **L**: **E** voor **I**; **C**: **I** voor **E**.
 
 ### Capacitors ($C$)
 Current **leads** Voltage by $90^\circ$.
@@ -40,7 +40,7 @@ When looking at a Time-Domain graph (Voltage/Current vs Time):
 
 ## Related
 *   [[AC Signals & Noise]]
-*   [[Inductors (Spoelen)]]
+*   [[Inductors]]
 *   [[Capacitors]]
-*   [[Reactance (Reactantie)]]
+*   [[Reactance]]
 *   [[Geometry & Trigonometry]]

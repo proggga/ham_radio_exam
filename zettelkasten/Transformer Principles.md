@@ -6,13 +6,12 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Transformatorprincipes"
 aliases: ["Transformatorprincipes"]
 ---
 
 # Transformer Principles
 
-A transformer transfers electrical energy between two or more circuits through electromagnetic induction. It is used to transform Voltage, Current, and [[Impedance (Impedantie)|Impedance]].
+A transformer transfers electrical energy between two or more circuits through electromagnetic induction. It is used to transform Voltage, Current, and [[Impedance|Impedance]].
 
 ## Operation
 *   **Induction**: A changing current in the **Primary Winding** creates a changing magnetic field, which induces a voltage in the **Secondary Winding**.
@@ -44,8 +43,8 @@ When connecting two windings (e.g., secondaries) in series, the **Phase** matter
     *   **Laminated Iron**: For Mains/Audio (Low freq). Laminations reduce Eddy Currents (Kernverliezen).
     *   **Ferrite / Powdered Iron**: For RF (High freq). Powdered iron (insulated particles) increases Inductance ($L$) and [[Quality Factor (Q)|Quality Factor]] ($Q$) compared to air, unlike solid iron which would cause high losses.
     *   **Toroid (Ringkern)**: Ring-shaped core with low flux leakage (self-shielding).
-*   **[[Shielding (Afscherming)|Shielding]]**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and [[Quality Factor (Q)|Quality Factor]] ($Q$) due to induced eddy currents.
+*   **[[Shielding|Shielding]]**: Placing a conductive shield (Aluminium/Copper) around a coil reduces its Inductance ($L$) and [[Quality Factor (Q)|Quality Factor]] ($Q$) due to induced eddy currents.
 
 ## Related
-*   [[Inductors (Spoelen)]]
+*   [[Inductors]]
 *   [[Transformer Losses]]

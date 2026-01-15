@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Coaxkabels"
 aliases: ["Coaxkabels", "Connectoren"]
 ---
 
@@ -15,7 +14,7 @@ aliases: ["Coaxkabels", "Connectoren"]
 Coaxial cable (Coax) is the most common feed line for amateur radio because it is easy to use and requires few special installation considerations.
 
 ## Cable Types
-Most amateur radio coax has a characteristic [[Impedance (Impedantie)|Impedance]] of **50 Ohms**.
+Most amateur radio coax has a characteristic [[Impedance|Impedance]] of **50 Ohms**.
 
 ### Common Types
 *   **RG-58**: Thin, flexible. High loss at [[VHFUHF Bands (6m, 2m, 70cm)|VHF]]/[[VHFUHF Bands (6m, 2m, 70cm)|UHF]]. Good for short [[Propagation Basics|HF]] runs or mobile installations.

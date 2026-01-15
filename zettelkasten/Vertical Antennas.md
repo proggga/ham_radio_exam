@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Verticale antennes"
 aliases: ["Verticale antennes", "Groundplane"]
 ---
 
@@ -17,7 +16,7 @@ Vertical antennas are popular for DX (long distance) due to their low angle of r
 ## Ground Plane (GP)
 A Quarter-wave ($\lambda/4$) vertical element.
 *   **Radials**: Requires a ground plane (artificial ground) made of wires (radials).
-*   **[[Impedance (Impedantie)|Impedance]]**:
+*   **[[Impedance|Impedance]]**:
     *   Horizontal radials: $\approx 36 \Omega$.
     *   Drooping radials ($45^\circ$): $\approx 50 \Omega$ (Good match for coax).
 

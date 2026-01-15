@@ -6,7 +6,6 @@ created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
-dutch_title: "Huideffect"
 aliases: ["Huideffect"]
 ---
 
@@ -35,5 +34,5 @@ To reduce losses due to skin effect in RF coils and antennas:
 *   Use silver-plated wire or Litz wire to minimize losses.
 
 ## Related
-*   [[Inductors (Spoelen)]]
+*   [[Inductors]]
 *   [[Transformer Losses]]

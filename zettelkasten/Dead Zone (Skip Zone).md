@@ -8,8 +8,7 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Dode Zone (Stille Zone)"
-aliases: ["Dode Zone", "Stille Zone", "Skip Zone", "Dead Zone"]
+aliases: ["Dode Zone (Stille Zone)", "Dode Zone", "Stille Zone", "Skip Zone", "Dead Zone"]
 ---
 
 # Dead Zone (Skip Zone)

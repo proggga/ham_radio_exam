@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Oscillatoren"
 aliases: ["Oscillatoren"]
 ---
 
@@ -23,7 +22,7 @@ For oscillation to occur and sustain:
 ## LC Oscillators (Variable Frequency)
 Used in VFOs (Variable Frequency Oscillators). Frequency determined by $f = \frac{1}{2\pi\sqrt{LC}}$.
 *   **Hartley**: Uses an **inductive** voltage divider (tapped coil).
-    *   *Mnemonic:* **H**artley = **H**enry ([[Inductors (Spoelen)|Inductor]]).
+    *   *Mnemonic:* **H**artley = **H**enry ([[Inductors|Inductor]]).
 *   **Colpitts**: Uses a **capacitive** voltage divider (two capacitors in series).
     *   *Mnemonic:* **C**olpitts = **C**apacity.
 *   **Clapp**: A Colpitts with an extra series capacitor to tune the inductance. Improves stability.
@@ -38,7 +37,7 @@ Uses a [[Crystals (Quartz)|Quartz]] crystal for high stability.
 
 ## Voltage Controlled Oscillator (VCO)
 *   Frequency is controlled by a DC voltage.
-*   **Component**: Uses a **[[Varicap (Capaciteitsdiode)|Varicap]]** (capacitance diode) in the tuned circuit. Reverse voltage changes capacitance $\to$ changes frequency.
+*   **Component**: Uses a **[[Varicap|Varicap]]** (capacitance diode) in the tuned circuit. Reverse voltage changes capacitance $\to$ changes frequency.
 
 ## Stability & Phase Noise
 *   **Phase [[AC Signals & Noise|Noise]]**: Short-term frequency instability (jitter). Appears as noise sidebands. Widens the signal and degrades receiver selectivity.

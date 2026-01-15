@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Noodcommunicatie"
 aliases: ["Noodcommunicatie"]
 ---
 
@@ -45,4 +44,4 @@ The passing of formal messages (radiograms) between stations.
 ## Related
 *   [[Standard QSO Procedure]]
 *   [[Rules & Procedures]]
-*   [[Eindterm 13 Conduct (Gedragsregels)]]
+*   [[Operator Conduct]]

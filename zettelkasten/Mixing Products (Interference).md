@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Mengproducten"
 aliases: ["Mengproducten"]
 ---
 
@@ -20,7 +19,7 @@ Two strong signals ($f_1$ and $f_2$) mix to create sum and difference products.
 *   **3rd Order Products**: $2f_1 - f_2$ and $2f_2 - f_1$.
     *   **Danger**: These often fall very close to the original frequencies and cannot be filtered easily.
     *   *Example:* Signals at 145.0 and 145.1 MHz produce interference at 144.9 and 145.2 MHz.
-*   **[[Mitigation (Ontstoring)|Mitigation]]**: Use a receiver with a high IP3 (Intercept Point) or add an **Attenuator** (Verzwakker).
+*   **[[Mitigation|Mitigation]]**: Use a receiver with a high IP3 (Intercept Point) or add an **Attenuator** (Verzwakker).
 
 ## Cross-Modulation (Kruismodulatie)
 *   **Definition**: The transfer of modulation from a strong unwanted signal to the carrier of a weaker wanted signal.
@@ -31,7 +30,7 @@ Two strong signals ($f_1$ and $f_2$) mix to create sum and difference products.
 ## Harmonics (Interference)
 *   **Mechanism**: A transmitter radiates multiples of its fundamental frequency ($2f, 3f...$).
 *   **Example**: A 144 MHz (2m) transmitter's 4th harmonic ($4 \times 144 = 576$ MHz) falls into [[VHFUHF Bands (6m, 2m, 70cm)|UHF]] TV Band IV (Channel 34, ~575 MHz).
-*   **[[Mitigation (Ontstoring)|Mitigation]]**: Low Pass [[Filters & Resonance|Filter]] at the transmitter output.
+*   **[[Mitigation|Mitigation]]**: Low Pass [[Filters & Resonance|Filter]] at the transmitter output.
 
 ## Related
 *   [[Mixers]]

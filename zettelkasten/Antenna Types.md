@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Soorten antennes"
 aliases: ["Soorten antennes"]
 ---
 
@@ -37,7 +36,7 @@ This map covers the various types of antennas used in amateur radio.
 *   **[[Dummy Load]]** - Non-radiating load for testing.
 
 ## Related
-*   **[[Antenna Characteristics]]** - Gain, Polarization, [[Impedance (Impedantie)|Impedance]].
+*   **[[Antenna Characteristics]]** - Gain, Polarization, [[Impedance|Impedance]].
 *   **[[Transmission Lines]]** - Feeding the antenna.
 *   **[[Baluns]]** - Connecting balanced antennas to unbalanced lines.
 *   **[[Antenna Tuning Unit (ATU)]]** - Matching impedance.

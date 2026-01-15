@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Afvlakking"
 aliases: ["Afvlakking", "Afvlakfilters"]
 ---
 
@@ -27,7 +26,7 @@ The residual AC variation on the DC output.
     *   **Higher Frequency** (100Hz vs 50Hz) $\rightarrow$ **Less** Ripple (easier to filter).
 
 ## LC Filters
-For better smoothing, an [[Inductors (Spoelen)|Inductor]] (Choke) and a second [[Capacitors|Capacitor]] are added.
+For better smoothing, an [[Inductors|Inductor]] (Choke) and a second [[Capacitors|Capacitor]] are added.
 *   **Pi-[[Filters & Resonance|Filter]] (C-L-C)**: Common configuration.
 *   **Choke ($L$)**: Opposes changes in current, smoothing the flow.
 *   **[[Capacitors|Capacitor]] ($C$)**: Further reduces voltage ripple.
@@ -37,4 +36,4 @@ For better smoothing, an [[Inductors (Spoelen)|Inductor]] (Choke) and a second [
 
 ## Related
 *   [[Capacitors]]
-*   [[Inductors (Spoelen)]]
+*   [[Inductors]]

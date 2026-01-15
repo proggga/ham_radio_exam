@@ -9,8 +9,7 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Aardingssystemen"
-aliases: ["Aarding", "Grounding", "Earthing"]
+aliases: ["Aardingssystemen", "Aarding", "Grounding", "Earthing"]
 ---
 
 # Earthing Systems
@@ -46,4 +45,4 @@ In a radio station, "Ground" refers to three distinct systems that must be handl
 *   [[Electrical Safety]]
 *   [[Antenna & Tower Safety]]
 *   [[Station Setup Guidelines]]
-*   [[Mitigation (Ontstoring)]]
+*   [[Mitigation]]

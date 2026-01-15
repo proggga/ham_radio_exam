@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Tijdconstanten"
 aliases: ["Tijdconstanten"]
 ---
 
@@ -30,14 +29,14 @@ Charging or discharging a [[Capacitors|Capacitor]] through a [[Resistors|Resisto
     *   After **$5 \tau$**: [[Capacitors|Capacitor]] is considered empty.
 
 ## 2. RL Circuit (Resistor + Inductor)
-Building up or collapsing current through an [[Inductors (Spoelen)|Inductor]].
+Building up or collapsing current through an [[Inductors|Inductor]].
 *   **Formula:**
     $$\tau = \frac{L}{R}$$
 *   **Units:** Seconds ($s$) = Henrys ($H$) / Ohms ($\Omega$).
 
 ### Process
 *   **Current Buildup:**
-    *   At $t=0$, [[Inductors (Spoelen)|Inductor]] opposes change (Current 0).
+    *   At $t=0$, [[Inductors|Inductor]] opposes change (Current 0).
     *   After **$1 \tau$**: Current reaches **63%** of maximum ($U/R$).
     *   After **$5 \tau$**: Current is stable (maximum).
 *   **Current Decay:**

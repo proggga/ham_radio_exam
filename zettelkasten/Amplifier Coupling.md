@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Versterkerkoppeling"
 aliases: ["Versterkerkoppeling"]
 ---
 
@@ -23,10 +22,10 @@ Coupling methods describe how amplifier stages are connected to each other or to
     *   **Application**: Audio amplifiers (requires wide bandwidth).
 *   **Transformer Coupling**:
     *   **Components**: Transformer primary is the load.
-    *   **Pros**: [[Impedance (Impedantie)|Impedance]] matching ($Z_p/Z_s = n^2$), high efficiency (no DC voltage drop in load resistor).
+    *   **Pros**: [[Impedance|Impedance]] matching ($Z_p/Z_s = n^2$), high efficiency (no DC voltage drop in load resistor).
     *   **Cons**: Heavy, expensive, limited bandwidth. Rare in modern audio, common in RF.
 *   **Choke Coupling (Smoorspoel)**:
-    *   **Components**: [[Inductors (Spoelen)|Inductor]] (Choke) replaces the load resistor.
+    *   **Components**: [[Inductors|Inductor]] (Choke) replaces the load resistor.
     *   **Pros**: Low DC resistance (full $U_b$ at anode/collector), High AC impedance ($\omega L$) increasing with frequency.
     *   **Application**: RF amplifiers. Not for Audio (impedance varies too much with frequency).
 

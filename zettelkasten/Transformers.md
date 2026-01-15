@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Transformatoren"
 aliases: ["Transformatoren"]
 ---
 
@@ -28,13 +27,13 @@ Transformers can match source and load impedances.
     *   $Z_p = 200 \Omega \times (1/2)^2 = 200 \times 1/4 = 50 \Omega$.
 
 ### Shielding
-*   **Magnetic [[Shielding (Afscherming)|Shielding]] (Low Freq):** High-permeability materials (Soft Iron, Mu-Metal) **conduct/divert** the magnetic field lines.
-*   **RF [[Shielding (Afscherming)|Shielding]] (High Freq):** Conductive materials (Aluminium, Copper) create **Eddy Currents** that generate an opposing field, canceling the original field outside the can.
-*   **Electrostatic [[Shielding (Afscherming)|Shielding]]:** A grounded copper/aluminum foil between windings (Faraday Shield) blocks capacitive coupling of noise.
+*   **Magnetic [[Shielding|Shielding]] (Low Freq):** High-permeability materials (Soft Iron, Mu-Metal) **conduct/divert** the magnetic field lines.
+*   **RF [[Shielding|Shielding]] (High Freq):** Conductive materials (Aluminium, Copper) create **Eddy Currents** that generate an opposing field, canceling the original field outside the can.
+*   **Electrostatic [[Shielding|Shielding]]:** A grounded copper/aluminum foil between windings (Faraday Shield) blocks capacitive coupling of noise.
 
 ## Types
 *   **[[Special Transformers]]** - Autotransformers and [[Baluns]].
 
 ## Related
-*   **[[Inductors (Spoelen)]]** - The fundamental component.
+*   **[[Inductors]]** - The fundamental component.
 *   **[[Power Supply]]** - Major application of transformers.

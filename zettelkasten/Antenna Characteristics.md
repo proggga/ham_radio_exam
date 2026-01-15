@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Antenne-eigenschappen"
 aliases: ["Antenne-eigenschappen"]
 ---
 
@@ -39,7 +38,7 @@ aliases: ["Antenne-eigenschappen"]
 
 ## 3. Radiation Resistance ($R_{rad}$)
 A virtual resistance that accounts for the power radiated as EM waves.
-*   Total [[Impedance (Impedantie)|Impedance]] $Z = R_{rad} + R_{loss} + jX$. See [[Reactance & Impedance|Impedance]].
+*   Total [[Impedance|Impedance]] $Z = R_{rad} + R_{loss} + jX$. See [[Reactance & Impedance|Impedance]].
 *   **Efficiency ($\eta$):**
     $$\eta = \frac{R_{rad}}{R_{rad} + R_{loss}}$$
 *   **Short Antennas:** Have very low $R_{rad}$. Efficiency is poor unless $R_{loss}$ is extremely low.

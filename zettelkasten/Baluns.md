@@ -9,7 +9,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Baluns"
 aliases: ["Baluns", "Aanpassingstransformatoren"]
 ---
 

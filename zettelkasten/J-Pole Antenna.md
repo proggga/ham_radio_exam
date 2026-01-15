@@ -9,8 +9,7 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "J-antenne"
-aliases: ["J-Pole", "J-Antenne", "Slim Jim"]
+aliases: ["J-antenne", "J-Pole", "J-Antenne", "Slim Jim"]
 ---
 
 # J-Pole Antenna

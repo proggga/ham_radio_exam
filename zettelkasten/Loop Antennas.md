@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Raamantennes"
 aliases: ["Raamantennes", "Loop-antennes"]
 ---
 
@@ -22,7 +21,7 @@ A loop with a circumference much smaller than the wavelength ($< \lambda/10$).
 
 ## Large Loop (Quad Loop)
 A loop with a circumference of approximately one wavelength ($\approx \lambda$).
-*   **[[Impedance (Impedantie)|Impedance]]**: $\approx 100-120 \Omega$.
+*   **[[Impedance|Impedance]]**: $\approx 100-120 \Omega$.
 *   **Gain**: Slight gain over a dipole (~1-2 [[Decibels & Logarithms|dB]]).
 
 ## Related

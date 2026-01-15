@@ -8,7 +8,6 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Meetfouten"
 aliases: ["Meetfouten"]
 ---
 
@@ -40,5 +39,5 @@ Connecting a meter changes the circuit being measured.
 
 ## Related
 *   [[Measurements]]
-*   [[Multimeters (Universeelmeters)]]
+*   [[Multimeters]]
 *   [[RMS Voltage]]

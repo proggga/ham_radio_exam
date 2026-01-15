@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Ontvangeroversturing"
 aliases: ["Ontvangeroversturing"]
 ---
 
@@ -21,7 +20,7 @@ Receiver overload occurs when a very strong signal (even if off-frequency) enter
     *   The input junction acts as a **rectifier** (diode), creating a DC voltage from the RF signal.
     *   This DC voltage shifts the **Operating Point** (Instelpunt / Bias / *Werkpuntverschuiving*) of the amplifier.
     *   *Result:* The amplifier gain drops or cuts off completely (Class C operation).
-*   **[[Mitigation (Ontstoring)|Mitigation]]**:
+*   **[[Mitigation|Mitigation]]**:
     *   **Attenuator (Verzwakker)**: Reducing the input signal moves the stage back into its linear range.
     *   **Preselector**: Better filtering before the first amplifier.
     *   **[[Antenna & Tower Safety|Antenna]] Orientation**: Rotating a directional antenna ([[Directional Antennas (Beams)|Yagi]]) to null the interference.

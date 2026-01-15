@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23fd20025f2686a3",
+        "id": "64dcfbbc9e6b74a1",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8a5184daec54e0",
+            "id": "de4c23f1a85012e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inductors (Spoelen).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Inductors (Spoelen)"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spoel",
+                "query": "conducta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +177,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c8a5184daec54e0",
+  "active": "de4c23f1a85012e8",
   "lastOpenFiles": [
+    "Conductance.md",
+    "Admittance.md",
+    "README.md",
+    "Reactance & Impedance.md",
+    "Voltage, Current, and Ohm's Law.md",
+    "Inductors (Spoelen).md",
     "Transmitter Architecture.md",
     "Earth Thermal Noise.md",
     "End-Fed Antenna.md",
@@ -198,17 +200,11 @@
     "Dummy Load.md",
     "Master Index (Zettelkasten).md",
     "Kirchhoff's Laws.md",
-    "README.md",
     "Voltage Dividers.md",
     "Transmission Line Loss.md",
     "Impedance Transformation.md",
     "Velocity Factor.md",
     "Transmission Line Types.md",
-    "Electrical Energy.md",
-    "Electrical Dissipation.md",
-    "Electrical Power.md",
-    "Exotic Propagation Modes.md",
-    "Tropospheric Propagation.md",
     "Untitled.canvas"
   ]
 }

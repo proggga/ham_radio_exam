@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Filters en resonantie"
 aliases: ["Filters en resonantie", "Kringen"]
 ---
 
@@ -40,11 +39,11 @@ This map covers frequency selective circuits.
 *   **[[High-Performance Filters]]** - Crystal and Mechanical filters.
 
 ## 4. Impedance at Resonance
-*   **Series LC:** $X_L$ and $X_C$ cancel out ($X_{total} = 0$). [[Impedance (Impedantie)|Impedance]] is minimal ($Z = R_{loss}$). Acts as a short circuit.
+*   **Series LC:** $X_L$ and $X_C$ cancel out ($X_{total} = 0$). [[Impedance|Impedance]] is minimal ($Z = R_{loss}$). Acts as a short circuit.
     *   **Off-[[Resonance]] Behavior:**
         *   $f < f_{res}$: **Capacitive** ($X_C > X_L$). Voltage lags current.
         *   $f > f_{res}$: **Inductive** ($X_L > X_C$). Voltage leads current.
-*   **Parallel LC:** Currents cancel out. [[Impedance (Impedantie)|Impedance]] is maximal ($Z_{res} = L / (C \cdot R_{loss})$ or $Q \cdot X_L$). Acts as an open circuit.
+*   **Parallel LC:** Currents cancel out. [[Impedance|Impedance]] is maximal ($Z_{res} = L / (C \cdot R_{loss})$ or $Q \cdot X_L$). Acts as an open circuit.
     *   **Off-[[Resonance]] Behavior:**
         *   $f < f_{res}$: **Inductive** (behaves like a coil).
         *   $f > f_{res}$: **Capacitive** (behaves like a capacitor).
@@ -58,7 +57,7 @@ When two tuned circuits are coupled (e.g., in an IF transformer), the response c
 
 ## Related
 *   **[[Reactance & Impedance]]** - Underlying theory.
-*   **[[Inductors (Spoelen)]]** - Component.
+*   **[[Inductors]]** - Component.
 *   **[[Capacitors]]** - Component.
 *   **[[High-Performance Filters]]** - Crystal/Mechanical.
 *   **[[Digital Signal Processing (DSP)]]** - Digital Filters (FIR/IIR).

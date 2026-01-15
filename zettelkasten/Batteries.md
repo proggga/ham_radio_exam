@@ -9,8 +9,7 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Batterijen en Accu's"
-aliases: ["Batterijen", "Accu's", "Batteries", "Accumulators"]
+aliases: ["Batterijen en Accu"s", "Batterijen", "Accu"s", "Batteries", "Accumulators"]
 ---
 
 # Batteries

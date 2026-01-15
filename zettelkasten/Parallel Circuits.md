@@ -9,7 +9,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Parallelschakeling"
 aliases: ["Parallelschakeling", "Parallelschakeling van weerstanden"]
 ---
 
@@ -40,7 +39,7 @@ $$R_{tot} = \frac{R}{N}$$
 
 ## Applications
 - Mains wiring (all outlets are parallel).
-- [[Multimeters (Universeelmeters)|Ampere Meter]] shunts.
+- [[Multimeters|Ampere Meter]] shunts.
 - Reducing component values (e.g., two $100\Omega$ in parallel = $50\Omega$).
 
 ## Related Notes

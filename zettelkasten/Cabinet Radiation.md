@@ -9,7 +9,6 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Kaststraling"
 aliases: ["Kaststraling"]
 ---
 
@@ -36,5 +35,5 @@ aliases: ["Kaststraling"]
 
 ## Related
 *   [[Types of Interference]]
-*   [[Shielding (Afscherming)]]
-*   [[Mitigation (Ontstoring)]]
+*   [[Shielding]]
+*   [[Mitigation]]

@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Emissieklassen"
 aliases: ["Emissieklassen", "Uitzendingsklassen"]
 ---
 
@@ -88,7 +87,8 @@ Describes what is being transmitted.
 | **J2B** | [[Single Sideband (SSB)|SSB]], PSK/AFSK, Automatic | **PSK31, RTTY (SSB)** |
 | **J3E** | [[Single Sideband (SSB)|SSB]], Suppressed Carrier, Voice | **[[Single Sideband (SSB)|SSB]]** |
 | **N0N** | Continuous unmodulated carrier (Direction Finding) | **Carrier** |
-| **R3E** | [[Single Sideband (SSB)|SSB]], Reduced Carrier, Voice | **AME** (Military) |
+
+> **Exam Tip:** The code **J3E** corresponds to standard **SSB** (Single Sideband Suppressed Carrier) telephony. "J" = Suppressed Carrier, "3" = Analogue Voice, "E" = Telephony.
 
 ### Typical Bandwidths
 *   **[[CW Abbreviations & Prosigns|CW]]**: `100H` (100 Hz)

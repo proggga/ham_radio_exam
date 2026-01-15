@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Tegenkoppeling"
 aliases: ["Tegenkoppeling", "Meekoppeling"]
 ---
 
@@ -21,7 +20,7 @@ Part of the output is **subtracted** from the input ($180^\circ$ out of phase).
     *   **Reduces Distortion** (improves linearity).
     *   Increases [[Bandwidth]].
     *   Increases Stability.
-    *   Modifies Input/Output [[Impedance (Impedantie)|Impedance]].
+    *   Modifies Input/Output [[Impedance|Impedance]].
 
 ## Positive Feedback
 Part of the output is **added** to the input (in phase).

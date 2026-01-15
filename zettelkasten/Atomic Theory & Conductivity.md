@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Atoomtheorie en geleiding"
 aliases: ["Atoomtheorie en geleiding"]
 ---
 
@@ -21,7 +20,7 @@ This is a structure note for concepts related to the physics of matter and elect
 
 ## Material Properties
 *   **[[Conductors and Insulators]]** - How materials behave based on their electron structure.
-*   **[[Resistivity (Soortelijke Weerstand)]]** - The specific resistance of materials.
+*   **[[Resistivity]]** - The specific resistance of materials.
 *   **[[Semiconductors]]** - Materials that can act as either.
 
 ## Connected Topics

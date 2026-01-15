@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Condensatoren"
 aliases: ["Condensatoren"]
 ---
 
@@ -19,7 +18,7 @@ This map covers the theory and types of capacitors.
 *   **[[Capacitor Types]]** - Fixed, Electrolytic, Variable.
 
 ## Circuit Behavior
-*   **[[Reactance (Reactantie)]]** - Capacitive [[Reactance (Reactantie)|Reactance]] ($).
+*   **[[Reactance]]** - Capacitive [[Reactance|Reactance]] ($).
 *   **[[Phase Relationships]]** - Current leads Voltage.
 *   **[[Time Constants]]** - RC Charging curves.
 

@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Veelvoorkomende storingen verhelpen"
 aliases: ["Veelvoorkomende storingen verhelpen"]
 ---
 
@@ -52,5 +51,5 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 *   [[Station Setup Guidelines]]
 *   [[RF Measurements]]
 *   [[SWR Meter]]
-*   [[Mitigation (Ontstoring)]]
+*   [[Mitigation]]
 *   [[Types of Interference]]

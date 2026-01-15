@@ -1,12 +1,11 @@
 ---
 id: 202512302205
-title: Shielding (Afscherming)
+title: "Shielding"
 tags: ["ham-radio", "components", "interference"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
-dutch_title: "Afscherming"
 aliases: ["Afscherming"]
 ---
 
@@ -44,6 +43,6 @@ Shielding prevents the coupling of electric, magnetic, or electromagnetic fields
 | **Any** | Electric | Copper / Al Foil | Faraday Cage |
 
 ## Related
-*   [[Inductors (Spoelen)]]
+*   [[Inductors]]
 *   [[Transformers]]
 *   [[Skin Effect]]

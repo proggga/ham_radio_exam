@@ -1,13 +1,12 @@
 ---
 id: 202301011203
-title: "Resistivity (Soortelijke Weerstand)"
+title: "Resistivity"
 tags: ["ham-radio", "electricity"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Soortelijke weerstand"
-aliases: ["Soortelijke weerstand"]
+aliases: ["Soortelijke weerstand", "Soortelijke Weerstand"]
 ---
 
 # Resistivity (Soortelijke Weerstand)

@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Dioden"
 aliases: ["Dioden"]
 ---
 
@@ -30,7 +29,7 @@ A diode is a two-terminal component formed by a single PN junction that allows c
 *   **[[Rectification|Rectifier]] Diode:** Converts AC to DC.
 *   **[[Zener Diode]]:** Conducts in reverse at a specific "Zener Voltage". Used for [[Voltage Regulation]].
 *   **[[LED (Light Emitting Diode)]]:** Emits light when forward biased.
-*   **[[Varicap (Capaciteitsdiode)]]:** Acts as a variable capacitor in reverse bias.
+*   **[[Varicap]]:** Acts as a variable capacitor in reverse bias.
 
 ## Connection Issues
 *   **Series Connection:** To increase voltage handling.
@@ -45,5 +44,5 @@ A diode is a two-terminal component formed by a single PN junction that allows c
 - [[Power Supply]] - [[Rectification]]
 - [[Detectors (Demodulators)]]
 - [[Zener Diode]]
-- [[Varicap (Capaciteitsdiode)]]
+- [[Varicap]]
 - [[LED (Light Emitting Diode)]]

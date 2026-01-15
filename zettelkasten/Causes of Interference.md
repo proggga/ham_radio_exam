@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Oorzaken van storing"
 aliases: ["Oorzaken van storing"]
 ---
 
@@ -22,7 +21,7 @@ aliases: ["Oorzaken van storing"]
 
 ## 2. Immunity (Susceptibility)
 The inability of equipment to reject unwanted RF energy.
-*   **Poor [[Shielding (Afscherming)|Shielding]]:** Plastic cases allow RF to penetrate directly to the PCB.
+*   **Poor [[Shielding|Shielding]]:** Plastic cases allow RF to penetrate directly to the PCB.
 *   **Lack of Filtering:** Missing mains filters or input filters on audio ports.
 *   **Pin 1 Problem:** Grounding cable shields to the PCB signal ground instead of the metal chassis.
 

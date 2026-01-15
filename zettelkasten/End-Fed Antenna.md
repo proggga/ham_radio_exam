@@ -8,7 +8,6 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Eindgevoede antenne"
 aliases: ["Eindgevoede antenne", "End-Fed Half Wave", "EFHW", "Zeppelin antenne"]
 ---
 
@@ -21,7 +20,7 @@ A standard [[The Dipole Antenna|Dipole]] is fed in the center, where the current
 An **End-Fed** antenna is fed at the very end of the wire, where:
 *   **Voltage is Maximum** (High Voltage point).
 *   **Current is Minimum**.
-*   **[[Impedance (Impedantie)|Impedance]] is Very High**: Typically $2500 \Omega$ to $5000 \Omega$.
+*   **[[Impedance|Impedance]] is Very High**: Typically $2500 \Omega$ to $5000 \Omega$.
 
 ## Matching (The Unun)
 To feed this high impedance with standard $50 \Omega$ [[Transmission Lines|Coax]], a broadband **Impedance Transformer** is required.
@@ -32,7 +31,7 @@ To feed this high impedance with standard $50 \Omega$ [[Transmission Lines|Coax]
 ## Counterpoise
 Although often advertised as "no ground required," an end-fed antenna **always** needs a counterpoise to complete the circuit.
 *   **Coax Shield**: Usually, the shield of the coaxial cable acts as the counterpoise.
-*   **Choke**: A **Common Mode Choke** is recommended about 0.05 $\lambda$ down the coax to stop RF from returning to the shack ([[Mitigation (Ontstoring)|RFI]]).
+*   **Choke**: A **Common Mode Choke** is recommended about 0.05 $\lambda$ down the coax to stop RF from returning to the shack ([[Mitigation|RFI]]).
 
 ## Pros & Cons
 *   **Pros**:

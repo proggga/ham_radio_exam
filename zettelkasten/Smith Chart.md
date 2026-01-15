@@ -9,7 +9,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Smith-kaart"
 aliases: ["Smith-kaart", "Smith-diagram"]
 ---
 
@@ -20,12 +19,12 @@ The **Smith Chart** is a graphical calculator for radio frequency engineering, u
 ## Structure
 It maps the complex impedance plane onto a circular grid.
 *   **Horizontal Axis**: Resistance ($R$).
-    *   **Center**: System [[Impedance (Impedantie)|Impedance]] ($Z_0$, usually $50 \Omega$). Perfect match.
+    *   **Center**: System [[Impedance|Impedance]] ($Z_0$, usually $50 \Omega$). Perfect match.
     *   **Right Edge**: Open Circuit ($\infty \Omega$).
     *   **Left Edge**: Short Circuit ($0 \Omega$).
 *   **Curves/Circles**:
     *   **Circles**: Constant Resistance.
-    *   **Arcs**: Constant [[Reactance (Reactantie)|Reactance]] ($X$).
+    *   **Arcs**: Constant [[Reactance|Reactance]] ($X$).
         *   **Top Half**: Inductive ($+jX$).
         *   **Bottom Half**: Capacitive ($-jX$).
 
@@ -46,7 +45,7 @@ Scales at the bottom of the chart provide derived data based on the plotted impe
 *   **Transmission Loss**: Attenuation due to mismatch.
 
 ## Related Notes
-*   [[Impedance (Impedantie)]]
+*   [[Impedance]]
 *   [[Standing Wave Ratio (SWR)]]
 *   [[Transmission Lines]]
 *   [[Reflection Coefficient]]

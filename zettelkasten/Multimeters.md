@@ -1,12 +1,11 @@
 ---
 id: 202301011240
-title: "Multimeters (Universeelmeters)"
+title: "Multimeters"
 tags: ["ham-radio", "measurements"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Universeelmeters"
 aliases: ["Universeelmeters", "Multimeters"]
 ---
 
@@ -27,7 +26,7 @@ Measured as current through a known series resistor.
     *   *Example:* On 10V range with $20 k\Omega/V$ sensitivity, $R_{in} = 200 k\Omega$.
 *   **Loading Effect (Belastingseffect):**
     *   Ideally, a voltmeter has infinite impedance. Real meters draw current.
-    *   If $R_{in}$ is not $\gg$ Circuit [[Impedance (Impedantie)|Impedance]], the meter loads the circuit, reading **lower** than the actual voltage.
+    *   If $R_{in}$ is not $\gg$ Circuit [[Impedance|Impedance]], the meter loads the circuit, reading **lower** than the actual voltage.
     *   *[[Licensing in the Netherlands|Exam]] Tip:* Always check if the meter resistance is comparable to the circuit resistors. If so, calculate the parallel equivalent.
 
 ### Current Measurement (DC)
@@ -50,7 +49,7 @@ Uses an internal battery.
 
 ## 2. Digital Multimeter (DMM)
 Uses an Analog-to-Digital Converter ([[Digital Processing Techniques|ADC]]).
-*   **Input [[Impedance (Impedantie)|Impedance]]:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
+*   **Input [[Impedance|Impedance]]:** Very high and constant (typically $10-11 M\Omega$). Does not load the circuit significantly.
 *   **Power:** Requires a battery for all measurements (unlike analogue which only needs it for Ohms).
 *   **Features:** Auto-ranging, [[Diodes|Diode]] test, [[Transistors (BJT & FET)|Transistor]] $h_{FE}$, Capacitance.
 

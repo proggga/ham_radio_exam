@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Reactieve combinaties"
 aliases: ["Reactieve combinaties"]
 ---
 
@@ -28,7 +27,7 @@ Connecting capacitors in series increases the effective distance between plates.
 *   **Result:** $C_{tot}$ is smaller than the smallest capacitor.
 
 ## 2. Inductors in Series and Parallel
-[[Inductors (Spoelen)|Inductors]] behave **like** resistors (assuming no magnetic coupling between them).
+[[Inductors|Inductors]] behave **like** resistors (assuming no magnetic coupling between them).
 
 ### Series Inductors
 *   **Formula:** Add the values.
@@ -42,7 +41,7 @@ Connecting capacitors in series increases the effective distance between plates.
 
 ## Summary Table
 
-| Connection | [[Resistors]] ($R$) | [[Inductors (Spoelen)|Inductors]] ($L$) | [[Capacitors]] ($C$) |
+| Connection | [[Resistors]] ($R$) | [[Inductors|Inductors]] ($L$) | [[Capacitors]] ($C$) |
 | :--- | :--- | :--- | :--- |
 | **Series** | Add | Add | Inverse Sum |
 | **Parallel** | Inverse Sum | Inverse Sum | Add |

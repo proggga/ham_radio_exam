@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Voeding"
 aliases: ["Voeding"]
 ---
 
@@ -16,7 +15,7 @@ This map covers the conversion of mains power to useful DC for radio equipment.
 
 ## Stages
 1.  **[[Rectification]]** - AC to pulsating DC ([[Diodes]]).
-2.  **[[Power Supply Smoothing]]** - Pulsating DC to steady DC ([[Capacitors]]/[[Inductors (Spoelen)|Inductors]]).
+2.  **[[Power Supply Smoothing]]** - Pulsating DC to steady DC ([[Capacitors]]/[[Inductors|Inductors]]).
 3.  **[[Voltage Regulation]]** - Stabilizing the voltage (Zener/Linear/IC).
 
 ## Types

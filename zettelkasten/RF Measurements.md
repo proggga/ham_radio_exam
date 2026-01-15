@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "HF-metingen"
 aliases: ["HF-metingen"]
 ---
 
@@ -33,13 +32,13 @@ This map covers the instruments used to test and maintain radio equipment.
 3.  **Calculate Source Power:** $P_{source} = P_{measured} \times \text{Factor} = 8 \text{ W} \times 20 = 160 \text{ W}$.
 
 ## Measurement Principles
-*   **[[Multimeters (Universeelmeters)]]** - DC/AC Voltage and Resistance.
+*   **[[Multimeters]]** - DC/AC Voltage and Resistance.
     *   *Voltmeter:* Should have **High** impedance to avoid loading the circuit.
     *   *Ammeter:* Should have **Low** impedance.
     *   *AC Measurement:* Standard moving-coil meters measure **Average** value. For sine waves, the scale is calibrated to RMS ($U_{rms} \approx 1.11 \times U_{avg}$). If rectifying a sine wave without a smoothing capacitor, the meter reads average ($2 U_{peak} / \pi$). With a capacitor, it reads peak.
 *   **[[Analogue Modulation & AM|PEP]] Measurement:** To measure Peak Envelope Power with a simple meter, a capacitor is needed to hold the peak voltage (time constant ~seconds).
 
 ## Related
-*   **[[Multimeters (Universeelmeters)]]**
+*   **[[Multimeters]]**
 *   **[[Signal Visualization]]** (Oscilloscope/Spectrum Analyzer)
 *   **[[Measurements]]** (General concepts)

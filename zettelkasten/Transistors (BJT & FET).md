@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Transistoren"
 aliases: ["Transistoren", "Bipolaire transistoren", "Veldeffecttransistoren", "FET"]
 ---
 
@@ -46,7 +45,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 ## Field Effect Transistor (FET)
 *   **Type:** Voltage-controlled current source.
 *   **Terminals:** Gate (G), Drain (D), Source (S).
-*   **Input [[Impedance (Impedantie)|Impedance]]:** Extremely high (Gate draws almost 0 current).
+*   **Input [[Impedance|Impedance]]:** Extremely high (Gate draws almost 0 current).
 *   **J-FET (Junction FET):**
     *   **N-Channel:** Normal operation when Gate is **negative** relative to Source.
     *   **P-Channel:** Normal operation when Gate is **positive** relative to Source.
@@ -77,7 +76,7 @@ To function as an amplifier, the transistor must be "biased" (DC operating point
 | Feature | BJT | FET |
 | :--- | :--- | :--- |
 | **Control** | Current ($I_b$) | Voltage ($U_{GS}$) |
-| **Input [[Impedance (Impedantie)|Impedance]]** | Low/Medium | Very High |
+| **Input [[Impedance|Impedance]]** | Low/Medium | Very High |
 | **Charge Carriers** | Electrons & Holes (Bipolar) | Electrons (N) or Holes (P) (Unipolar) |
 | **[[AC Signals & Noise|Noise]]** | Higher | Lower (generally) |
 | **[[Receiver Performance|Sensitivity]]** | Robust | Sensitive to static (MOSFET) |

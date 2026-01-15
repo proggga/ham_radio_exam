@@ -1,6 +1,6 @@
 ---
 id: 202501101407
-title: Dutch Frequency Regulations 2015
+title: "Frequency Regulations 2015 (Netherlands)"
 tags:
   - ham-radio
   - regulations
@@ -8,8 +8,7 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Regeling gebruik frequentieruimte"
-aliases: ["Regeling gebruik frequentieruimte", "Frequency Regulations 2015"]
+aliases: ["Dutch Frequency Regulations 2015", "Regeling gebruik frequentieruimte", "Frequency Regulations 2015"]
 ---
 
 # Dutch Frequency Regulations 2015
@@ -23,7 +22,7 @@ The **Regeling gebruik frequentieruimte met meldingsplicht 2015** is the specifi
 *   **User Categories**: Distinguishes between Full (F) and Novice (N) users.
 
 ## Relation to Other Laws
-*   Derived from the **[[Telecommunicatiewet Provisions|Telecommunicatiewet]]** and **Frequentiebesluit**.
+*   Derived from the **[[Telecommunications Act Provisions|Telecommunicatiewet]]** and **Frequentiebesluit**.
 *   Implemented via the **[[Licensing in the Netherlands|Registration]]** system.
 
 ## Related

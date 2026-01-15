@@ -9,7 +9,6 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Tekensymbolen"
 aliases: ["Tekensymbolen", "Schema symbolen"]
 ---
 
@@ -22,14 +21,14 @@ Exam Requirement 0.2 requires candidates to recognize standard symbols used in e
 *   **[[Capacitors|Capacitor]]**: Two parallel plates.
     *   *Polarized (Elco):* One plate straight, one curved (or with a `+` sign).
     *   *Variable:* With an arrow through it.
-*   **[[Inductors (Spoelen)|Inductor]]**: Coiled wire loops (or filled black rectangle in some IEC).
+*   **[[Inductors|Inductor]]**: Coiled wire loops (or filled black rectangle in some IEC).
     *   *With Core:* Lines above the coil.
 *   **[[Transformers]]**: Two coils facing each other with lines (core) in between.
 
 ## Active Components
 *   **[[Diodes|Diode]]**: Arrow pointing to a line (Cathode).
     *   *[[Zener Diode]]*: Cathode line has bent ends ("Z").
-    *   *[[Varicap (Capaciteitsdiode)|Varicap]]*: Diode symbol combined with a capacitor symbol.
+    *   *[[Varicap|Varicap]]*: Diode symbol combined with a capacitor symbol.
     *   *[[LED (Light Emitting Diode)|LED]]*: Diode with two small arrows pointing away (light emission).
 *   **[[Transistors (BJT & FET)|Bipolar Transistor (BJT)]]**:
     *   *NPN*: Arrow on Emitter pointing **OUT** (Not Pointing iN).

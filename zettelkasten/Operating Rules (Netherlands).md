@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Gebruiksbepalingen"
 aliases: ["Gebruiksbepalingen"]
 ---
 
@@ -61,5 +60,5 @@ aliases: ["Gebruiksbepalingen"]
 *   [[Call Signs]]
 *   [[International Organisations]]
 *   [[Emission Classes (ITU)]]
-*   [[Telecommunicatiewet Provisions]]
-*   [[Dutch Frequency Regulations 2015]]
+*   [[Telecommunications Act Provisions]]
+*   [[Frequency Regulations 2015 (Netherlands)]]

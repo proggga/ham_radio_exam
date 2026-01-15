@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Machtigingsvoorwaarden"
 aliases: ["Machtigingsvoorwaarden", "Registratie"]
 ---
 
@@ -54,5 +53,5 @@ A unique identifier for the station.
 ## Related
 *   [[International Organisations]] (CEPT/ITU)
 *   [[Operating Rules (Netherlands)]]
-*   [[Telecommunicatiewet Provisions]]
+*   [[Telecommunications Act Provisions]]
 *   [[Emission Classes (ITU)]]

@@ -9,7 +9,6 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Convolutie"
 aliases: ["Convolutie"]
 ---
 

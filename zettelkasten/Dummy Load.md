@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Kunstantenne"
 aliases: ["Kunstantenne", "Dummy load"]
 ---
 
@@ -15,7 +14,7 @@ aliases: ["Kunstantenne", "Dummy load"]
 A Dummy Load is a non-radiating resistive load used to test transmitters.
 
 ## Characteristics
-*   **[[Impedance (Impedantie)|Impedance]]**: $50 \Omega$ pure resistance.
+*   **[[Impedance|Impedance]]**: $50 \Omega$ pure resistance.
 *   **Construction**: Must be **Non-Inductive**.
     *   **Good**: Carbon composition or special thick-film resistors.
     *   **Bad**: Wirewound resistors (they act as inductors at RF).

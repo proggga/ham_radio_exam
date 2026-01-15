@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Operationele versterkers"
 aliases: ["Operationele versterkers", "Op-amps"]
 ---
 
@@ -20,7 +19,7 @@ An Op-Amp is a high-gain integrated circuit amplifier with differential inputs.
     *   *Example:* A 741 Op-amp has a GBW of $\approx 1$ MHz. At 1 MHz, gain is 1. At 1 kHz, gain is 1000.
 *   **Inputs**: Inverting (-) and Non-Inverting (+).
     *   **Rule**: In a negative feedback configuration, the voltage difference between inputs is zero ($U_+ = U_-$).
-*   **[[Impedance (Impedantie)|Impedance]]**: Very high input impedance ($Z_{in}$), low output impedance ($Z_{out}$).
+*   **[[Impedance|Impedance]]**: Very high input impedance ($Z_{in}$), low output impedance ($Z_{out}$).
 *   **[[Repeater Operation|Offset]] Nulling**: Terminals provided to zero the output voltage when inputs are zero.
 
 ## Feedback (Tegenkoppeling)
@@ -31,13 +30,14 @@ Op-amps are almost always used with **negative feedback** to control gain and st
 ### 1. Inverting Amplifier
 Output is inverted ($180^\circ$ phase shift).
 *   **Gain**: $A_u = -\frac{R_2}{R_1}$ (where $R_2$ is feedback, $R_1$ is input resistor).
-*   **Input [[Impedance (Impedantie)|Impedance]]**: Equal to $R_1$ (Virtual ground at input).
+*   **Input [[Impedance|Impedance]]**: Equal to $R_1$ (Virtual ground at input).
 *   **Virtual Ground**: The (-) input is at 0V potential but not connected to ground.
+*   *[[Licensing in the Netherlands|Exam]] Tip:* Pay attention to the **minus sign** in the formula. It indicates the output is **in anti-phase** ($180^\circ$ shifted) relative to the input.
 
 ### 2. Non-Inverting Amplifier
 Output is in phase with input.
 *   **Gain**: $A_u = 1 + \frac{R_2}{R_1}$ (where $R_2$ is feedback, $R_1$ is to ground).
-*   **Input [[Impedance (Impedantie)|Impedance]]**: Extremely High (Input connects directly to Op-Amp gate/base).
+*   **Input [[Impedance|Impedance]]**: Extremely High (Input connects directly to Op-Amp gate/base).
 
 ### 3. Voltage Follower (Buffer)
 Output connected directly to (-) input.

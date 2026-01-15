@@ -1,6 +1,6 @@
 ---
 id: 202501101408
-title: Telecommunicatiewet Provisions
+title: "Telecommunications Act Provisions"
 tags:
   - ham-radio
   - regulations
@@ -9,8 +9,7 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "Telecommunicatiewet bepalingen"
-aliases: ["Telecommunicatiewet bepalingen", "Telecommunicatiewet"]
+aliases: ["Telecommunicatiewet Provisions", "Telecommunicatiewet bepalingen", "Telecommunicatiewet"]
 ---
 
 # Telecommunicatiewet Provisions
@@ -25,9 +24,9 @@ The **Telecommunicatiewet** (Telecommunications Act) is the primary legislation 
     *   Gives the RDI authority to impose an immediate **Transmission Ban (Zendverbod)** if a station causes inadmissible interference or poses a safety risk, even if the equipment technically meets standards.
 
 ## Hierarchy
-1.  **[[Telecommunicatiewet Provisions|Telecommunicatiewet]]** (The Law)
+1.  **[[Telecommunications Act Provisions|Telecommunicatiewet]]** (The Law)
 2.  **Frequentiebesluit 2013** (The Decree)
-3.  **[[Dutch Frequency Regulations 2015|Regeling gebruik frequentieruimte]]** (The Regulation/Rules)
+3.  **[[Frequency Regulations 2015 (Netherlands)|Regeling gebruik frequentieruimte]]** (The Regulation/Rules)
 
 ## Related
 *   [[Amateur Service Definition]]

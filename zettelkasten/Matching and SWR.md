@@ -9,7 +9,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Aanpassing en SWR"
 aliases: ["Aanpassing en SWR"]
 ---
 
@@ -23,7 +22,7 @@ This map covers the theory and practice of connecting transmitters to antennas.
 
 ## Equipment
 *   [[Baluns]] - Matching Balanced to Unbalanced.
-*   [[Antenna Tuning Unit (ATU)]] - [[Impedance (Impedantie)|Impedance]] matching device.
+*   [[Antenna Tuning Unit (ATU)]] - [[Impedance|Impedance]] matching device.
 
 ## Related
 *   [[Transmission Lines]] - Where [[Standing Wave Ratio (SWR)|SWR]] exists.

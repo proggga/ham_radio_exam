@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Station inrichten"
 aliases: ["Station inrichten"]
 ---
 
@@ -71,6 +70,6 @@ Digital modes ([[Modern Digital Modes|FT8]], RTTY, Packet) require interfacing t
 *   [[RF Safety]]
 *   [[Antenna & Tower Safety]]
 *   [[Transmission Lines]]
-*   [[Mitigation (Ontstoring)]]
+*   [[Mitigation]]
 *   [[Common Troubleshooting]]
 *   [[Radio Operations in Harsh Environments]]

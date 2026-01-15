@@ -9,7 +9,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Vermogen en energie"
 aliases: ["Vermogen en energie"]
 ---
 

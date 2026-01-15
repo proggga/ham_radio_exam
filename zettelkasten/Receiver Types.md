@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Ontvangertypes"
 aliases: ["Ontvangertypes"]
 ---
 
@@ -43,6 +42,7 @@ Mixes the incoming RF directly to Audio frequencies.
     *   **Audio Image:** Both USB and LSB are folded into the audio passband (unless phasing methods are used).
     *   **LO Radiation:** LO signal can leak to the antenna.
     *   **Microphonics/Hum:** High gain at audio frequencies makes it sensitive to mechanical vibration and hum.
+*   See [[Direct Conversion Receiver]] for full details.
 
 ## 5. Superheterodyne Receiver
 The standard for modern radios. Converts all incoming signals to a fixed **Intermediate Frequency (IF)**.

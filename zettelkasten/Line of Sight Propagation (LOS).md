@@ -9,7 +9,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Zichtverbinding"
 aliases: ["Zichtverbinding", "LOS"]
 ---
 
@@ -29,6 +28,7 @@ Radio waves bend slightly over the horizon due to atmospheric refraction (densit
     $$d_{km} \approx 3.57 \times \sqrt{h_{m}}$$
     *   $d$ in kilometers, $h$ in meters.
     *   *[[Licensing in the Netherlands|Exam]] Tip:* Sometimes rounded to $d \approx 4 \sqrt{h}$ (gives slightly high result).
+    *   **WARNING:** In this formula, **$d$ is in kilometers** and **$h$ is in meters**. Do not mix them up!
 *   **Total Range**: The sum of the radio horizons of both antennas.
     $$D_{total} \approx 3.57 (\sqrt{h_{tx}} + \sqrt{h_{rx}})$$
 

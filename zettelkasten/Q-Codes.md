@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Q-codes"
 aliases: ["Q-codes"]
 ---
 
@@ -33,7 +32,7 @@ A question mark after the code turns it into a question.
 | **QRX** | When will you call me again? | Call me again at ... (Wait). | **X** (Time/Cross) |
 | **QRZ** | Who is calling me? | You are being called by... | **Z**ijt gij? |
 | **[[Fading (QSB)|QSB]]** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
-| **QSL** | Can you acknowledge receipt? | I acknowledge receipt (Confirm contact). | **L**ezen |
+| **QSL** | Can you acknowledge receipt? | I acknowledge receipt (Confirm contact). | **L**ezen / **L**aat wat horen |
 | **QSO** | Can you communicate with ...? | I can communicate with ... (Contact). | **O**ver |
 | **QSY** | Shall I change frequency? | Change frequency to ... | Zwaa**Y** |
 | **QTH** | What is your position/location? | My position/location is... | **H**ome |

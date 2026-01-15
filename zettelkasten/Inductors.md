@@ -1,14 +1,13 @@
 ---
 id: 202301011214
-title: Inductors (Spoelen)
+title: "Inductors"
 tags:
   - ham-radio
   - components
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-dutch_title: Spoelen
-aliases:
+aliases: ["Spoelen", ""]
   - Spoelen
   - Zelfinductie
   - Spoel
@@ -20,7 +19,7 @@ aliases:
 An inductor (coil) stores electrical energy in a **magnetic field** (See [[Electric, Magnetic, and Electromagnetic Fields|Fields]]).
 *   **Construction:** A coil of conductive wire, often wound around a core.
     *   **Litz Wire:** Used for MF/[[Propagation Basics|HF]] coils to reduce **[[Skin Effect]]** (Copper losses). Consists of many thin insulated strands.
-    *   **[[Shielding (Afscherming)|Shielding]]:** MF coils are often shielded with an aluminum can to prevent magnetic field interference with nearby components.
+    *   **[[Shielding|Shielding]]:** MF coils are often shielded with an aluminum can to prevent magnetic field interference with nearby components.
 *   **Symbol:** A series of loops (like a spring).
 
 ## 2. Inductance (Zelfinductie)
@@ -46,7 +45,7 @@ $$L = \frac{\mu_0 \cdot \mu_r \cdot n^2 \cdot A}{l}$$
 4.  **Core Material ($\mu_r$):** Relative Permeability.
     *   Air: $\mu_r \approx 1$.
     *   Iron/Ferrite: $\mu_r \gg 1$ (Greatly increases inductance).
-    *   *[[Shielding (Afscherming)|Shielding]]:* A conductive shield (aluminum can) around a coil *reduces* its inductance slightly due to eddy currents in the shield opposing the field.
+    *   *[[Shielding|Shielding]]:* A conductive shield (aluminum can) around a coil *reduces* its inductance slightly due to eddy currents in the shield opposing the field.
 
 ### Mutual Inductance & Force
 *   **Forces:**

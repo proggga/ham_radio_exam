@@ -6,7 +6,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Soorten storingen"
 aliases: ["Soorten storingen", "Interferentie"]
 ---
 
@@ -20,7 +19,7 @@ This map covers the various ways interference is generated and manifested.
 *   **[[Image Frequency]]** - Superhet artifact.
 
 ## Audio/EMC Issues
-*   **[[Audio Rectification (LFD)]]** - Hearing radio in stereo equipment ([[Audio Rectification (LFD)|LFD]]).
+*   **[[Audio Rectification]]** - Hearing radio in stereo equipment ([[Audio Rectification|LFD]]).
 
 ## Transmitter Issues
 *   **[[Transmitter Defects]]** - Chirp, [[Station Accessories|Key]] Clicks, and Splatter.

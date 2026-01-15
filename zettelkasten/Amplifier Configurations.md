@@ -6,7 +6,6 @@ created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
-dutch_title: "Versterkerschakelingen"
 aliases: ["Versterkerschakelingen", "GGS", "GCS", "GDS"]
 ---
 
@@ -67,7 +66,7 @@ There are three basic circuit configurations for amplifying components (BJT, FET
 | **Input Z** | Medium | **High** | **Low** |
 | **Output Z** | Medium | **Low** | High |
 | **Phase** | **Inverted ($180^\circ$)** | In Phase ($0^\circ$) | In Phase ($0^\circ$) |
-| **Application** | General Purpose, Audio | Buffer, [[Impedance (Impedantie)|Impedance]] Matching | RF/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] Amplifier |
+| **Application** | General Purpose, Audio | Buffer, [[Impedance|Impedance]] Matching | RF/[[VHFUHF Bands (6m, 2m, 70cm)|VHF]] Amplifier |
 
 ## Mnemonics
 *   **"Common" terminal** is the one *not* used for Input or Output.

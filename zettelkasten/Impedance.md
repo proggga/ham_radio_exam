@@ -1,22 +1,22 @@
 ---
 id: 202512292055
-title: Impedance (Impedantie)
+title: "Impedance"
 tags: ["ham-radio", "circuits", "ac-theory"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Impedantie"
 aliases: ["Impedantie"]
 ---
 
 # Impedance (Impedantie)
 
-Impedance ($Z$) is the total opposition to current flow in an AC circuit, combining Resistance ($R$) and [[Reactance (Reactantie)|Reactance]] ($X$).
+Impedance ($Z$) is the total opposition to current flow in an AC circuit, combining Resistance ($R$) and [[Reactance|Reactance]] ($X$).
 *   **Unit**: Ohm ($\Omega$).
+*   **Inverse**: [[Admittance]] ($Y = 1/Z$).
 
 ## Vector Addition
-Because Resistance and [[Reactance (Reactantie)|Reactance]] are $90^\circ$ out of phase, they must be added as vectors (Pythagoras).
+Because Resistance and [[Reactance|Reactance]] are $90^\circ$ out of phase, they must be added as vectors (Pythagoras).
 
 ### Series Circuits
 $$Z = \sqrt{R^2 + X^2}$$
@@ -30,6 +30,6 @@ $$Z = \sqrt{R^2 + X^2}$$
 $$\frac{1}{Z} = \sqrt{(\frac{1}{R})^2 + (\frac{1}{X})^2}$$
 
 ## Related
-*   [[Reactance (Reactantie)]]
+*   [[Reactance]]
 *   [[Voltage, Current, and Ohm's Law]]
 *   [[Geometry & Trigonometry]]

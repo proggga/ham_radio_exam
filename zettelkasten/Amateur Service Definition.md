@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Definitie amateurdienst"
 aliases: ["Definitie amateurdienst"]
 ---
 
@@ -24,9 +23,9 @@ Defined in the **[[Emission Classes (ITU)|ITU]] Radio [[Rules & Regulations|Regu
 4.  **Non-commercial**: Strictly no money involved ("without pecuniary interest").
 
 ## Dutch Legislation
-*   **[[Telecommunicatiewet Provisions|Telecommunicatiewet]]**: The primary law governing telecommunications in the [[Operating Rules (Netherlands)|Netherlands]].
+*   **[[Telecommunications Act Provisions|Telecommunicatiewet]]**: The primary law governing telecommunications in the [[Operating Rules (Netherlands)|Netherlands]].
 *   **Frequentiebesluit 2013**: Regulates frequency usage.
-*   **[[Dutch Frequency Regulations 2015|Regeling gebruik van frequentieruimte]]**: Specific rules for amateurs.
+*   **[[Frequency Regulations 2015 (Netherlands)|Regeling gebruik van frequentieruimte]]**: Specific rules for amateurs.
 
 ## Related
 *   [[Station Status]]

@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Meetkunde en goniometrie"
 aliases: ["Meetkunde en goniometrie"]
 ---
 
@@ -17,7 +16,7 @@ Basic geometry is essential for understanding AC circuits, especially impedance.
 ## Pythagoras' Theorem
 In a right-angled triangle, the square of the hypotenuse ($c$) equals the sum of the squares of the other two sides ($a$ and $b$).
 *   **Formula**: $a^2 + b^2 = c^2$
-*   **Application**: In AC circuits, Resistance ($R$) and [[Reactance (Reactantie)|Reactance]] ($X$) are at right angles. The total [[Impedance (Impedantie)|Impedance]] ($Z$) is the hypotenuse:
+*   **Application**: In AC circuits, Resistance ($R$) and [[Reactance|Reactance]] ($X$) are at right angles. The total [[Impedance|Impedance]] ($Z$) is the hypotenuse:
     $Z = \sqrt{R^2 + X^2}$
 
 ## Sine, Cosine, and Phase

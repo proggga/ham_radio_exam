@@ -1,12 +1,11 @@
 ---
 id: 202301011245
-title: "Mitigation (Ontstoring)"
+title: "Mitigation"
 tags: ["ham-radio", "interference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Ontstoring"
 aliases: ["Ontstoring", "EMC"]
 ---
 
@@ -16,7 +15,7 @@ aliases: ["Ontstoring", "EMC"]
 *   **Low Pass [[Filters & Resonance|Filter]] (LPF):** Place between Transmitter and [[Antenna & Tower Safety|Antenna]]. Attenuates Harmonics (frequencies *above* the cutoff).
     *   *Circuit:* Pi-filter or T-filter ([[Capacitors|Capacitor]] to ground).
 *   **Power Level:** Use the minimum power necessary.
-*   **[[Shielding (Afscherming)|Shielding]] ([[Shielding (Afscherming)|Afscherming]])**: Enclose oscillator/RF stages in metal cans ("Inblikken").
+*   **[[Shielding|Shielding]] ([[Shielding|Afscherming]])**: Enclose oscillator/RF stages in metal cans ("Inblikken").
     *   **Feedthrough [[Capacitors]] (Doorvoercondensatoren)**: Used to pass DC power/signals through the shield while shorting RF to the case (ground).
 
 ## 2. At the Victim (Immunity)
@@ -41,7 +40,7 @@ Using capacitors to short RF to ground.
 *   **Formula**: $X_C = \frac{1}{2\pi f C}$. Goal is $X_C \ll Z_{circuit}$.
 
 ## 5. Mains Filtering
-*   **Mains Filter:** A combination of Series [[Inductors (Spoelen)|Inductors]] and Parallel Capacitors (L-C) built into a module.
+*   **Mains Filter:** A combination of Series [[Inductors|Inductors]] and Parallel Capacitors (L-C) built into a module.
 *   **Ferrite Ring**: Wrapping the mains cord through a ferrite ring blocks common-mode RF from entering via the mains.
 
 ## 6. Social Aspects

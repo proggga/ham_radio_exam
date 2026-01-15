@@ -10,7 +10,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Elektrische en magnetische velden"
 aliases: ["Elektrische en magnetische velden"]
 ---
 
@@ -22,7 +21,7 @@ This map covers the fundamental fields of force in radio physics.
 *   **Source:** Voltage (Potential Difference) between charges.
 *   **Unit:** Volts per meter ($V/m$).
 *   **Force:** Exerts force on electric charges.
-*   **[[Shielding (Afscherming)|Shielding]]:** 
+*   **[[Shielding|Shielding]]:** 
     *   Use **Conductive Material** (Copper, Aluminum).
     *   Faraday Cage effect.
     *   Ideally, the shield encloses both conductors.
@@ -32,14 +31,14 @@ This map covers the fundamental fields of force in radio physics.
 *   **Lines:** Concentric circles around the wire (Right-Hand Rule).
     *   Current moving away ($\times$): Field Clockwise.
     *   Current moving towards ($\cdot$): Field Counter-Clockwise.
-*   **[[Shielding (Afscherming)|Shielding]]:** 
+*   **[[Shielding|Shielding]]:** 
     *   Conductive materials (Al, Cu) do **NOT** shield static magnetic fields effectively.
     *   Use **High Permeability Material** (Soft Iron, Mu-Metal) to guide magnetic flux lines around the protected area.
 
 ## 3. Electromagnetic Field
 *   **Combination:** E-field and H-field oscillating at right angles to each other and to the direction of propagation.
-*   **Ratio:** $E / H = 377 \Omega$ ([[Impedance (Impedantie)|Impedance]] of Free Space).
-*   [[Inductors (Spoelen)]] - Stores [[Magnetic Field]].
+*   **Ratio:** $E / H = 377 \Omega$ ([[Impedance|Impedance]] of Free Space).
+*   [[Inductors]] - Stores [[Magnetic Field]].
 *   [[Antenna Characteristics]] - Radiates [[Electromagnetic Waves]].
 
 ## Components

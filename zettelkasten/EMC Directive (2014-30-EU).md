@@ -9,7 +9,6 @@ created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
-dutch_title: "EMC-richtlijn"
 aliases: ["EMC-richtlijn", "EMC Directive"]
 ---
 
@@ -33,5 +32,5 @@ The **EMC Directive** is European legislation ensuring that electronic equipment
 
 ## Related
 *   [[International Organisations]] (EU/CEPT)
-*   [[Telecommunicatiewet Provisions]]
-*   [[Mitigation (Ontstoring)]]
+*   [[Telecommunications Act Provisions]]
+*   [[Mitigation]]

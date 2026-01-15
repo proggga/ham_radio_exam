@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Frequentiemodulatie"
 aliases: ["Frequentiemodulatie", "FM"]
 ---
 
@@ -40,7 +39,7 @@ Closely related to FM. Often used in mobile radios.
     *   **Audio Frequency ($f_{mod}$)** remains **UNCHANGED**.
 
 ## Generation
-*   **Direct FM**: Modulating a VCO ([[Varicap (Capaciteitsdiode)|Varicap]]) directly.
+*   **Direct FM**: Modulating a VCO ([[Varicap|Varicap]]) directly.
 *   **Indirect FM**: Using a Phase Modulator after a crystal oscillator.
 
 ## Characteristics

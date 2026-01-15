@@ -6,7 +6,6 @@ created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
-dutch_title: "Onopvallende antennes"
 aliases: ["Onopvallende antennes", "Beperkte ruimte antennes"]
 ---
 
@@ -18,7 +17,7 @@ When full-size antennas are not feasible due to space or zoning restrictions (HO
 Antennas installed completely inside the roof space.
 *   **Constrained [[The Dipole Antenna|Dipole]]**: A dipole bent to fit the space.
     *   *Configuration:* Arms can be bent (V-shape) or ends folded.
-    *   *Effect:* [[Impedance (Impedantie)|Impedance]] deviates from 73$\Omega$, requiring a tuner. Pattern is distorted.
+    *   *Effect:* [[Impedance|Impedance]] deviates from 73$\Omega$, requiring a tuner. Pattern is distorted.
     *   *[[Electrical Safety|Safety]]:* Use insulated wire mounted on standoffs to prevent fire hazards from high voltage RF arcing (Corona).
 *   **Non-Resonant Loop**: A large wire loop run around the perimeter of the attic.
     *   *Feed:* Fed with parallel line (ladder line) to a balanced tuner.

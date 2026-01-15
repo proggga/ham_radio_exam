@@ -9,8 +9,7 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Discone Antenne"
-aliases: ["Discone", "Wideband Antenna"]
+aliases: ["Discone Antenne", "Discone", "Wideband Antenna"]
 ---
 
 # Discone Antenna

@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Metingen"
 aliases: ["Metingen", "Meetinstrumenten"]
 ---
 
@@ -15,7 +14,7 @@ aliases: ["Metingen", "Meetinstrumenten"]
 Accurate measurement is essential for testing equipment, verifying compliance, and troubleshooting.
 
 ## 1. Basic Parameters (Voltage, Current, Resistance)
-*   **Instrument:** [[Multimeters (Universeelmeters)]].
+*   **Instrument:** [[Multimeters]].
 *   **[[Station Accessories|Key]] Concepts:**
     *   **[[Measurement Errors|Loading Effect]]**: A voltmeter with low impedance loads the circuit, giving a reading *lower* than the actual voltage.
     *   **AC Measurements:** Standard meters measure **Average** value but are calibrated for **RMS** (Sine wave).
@@ -36,7 +35,7 @@ Accurate measurement is essential for testing equipment, verifying compliance, a
     *   *Critical Feature:* Calibrated Attenuator for sensitivity measurements.
 
 ## 4. Transmission & Antenna
-*   **[[Impedance (Impedantie)|Impedance]] Matching:** [[SWR Meter]]. Measures [[Standing Wave Ratio (SWR)|Standing Wave Ratio]].
+*   **[[Impedance|Impedance]] Matching:** [[SWR Meter]]. Measures [[Standing Wave Ratio (SWR)|Standing Wave Ratio]].
 *   **Transmitter Load:** [[Dummy Load]]. Non-radiating $50 \Omega$ load.
 *   **Power:** Measured with an RF Power Meter or derived from Voltage ($P = U^2/R$) on a scope/dummy load.
     *   **[[Analogue Modulation & AM|PEP]] Measurement:** Requires a Peak-Reading meter (capacitor hold) or [[Oscilloscope]].

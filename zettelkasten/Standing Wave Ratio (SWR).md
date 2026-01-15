@@ -9,7 +9,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Staande golf verhouding"
 aliases: ["Staande golf verhouding", "SWR"]
 ---
 
@@ -42,7 +41,7 @@ For purely resistive loads (at resonance):
 *   **Damage**: High voltage peaks can arc in cables; reflected power can overheat the transmitter PA.
 
 ## Related Notes
-*   [[Impedance (Impedantie)]]
+*   [[Impedance]]
 *   [[SWR Meter]]
 *   [[Reflection Coefficient]]
 *   [[Antenna Tuning Unit (ATU)]]

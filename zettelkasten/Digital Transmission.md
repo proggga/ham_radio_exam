@@ -6,7 +6,6 @@ created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Digitale transmissie"
 aliases: ["Digitale transmissie"]
 ---
 
@@ -38,6 +37,7 @@ aliases: ["Digitale transmissie"]
 *   Changing the phase of the carrier.
 *   **BPSK (2-PSK)**: 2 Phases ($0^\circ, 180^\circ$). 1 bit/symbol.
 *   **QPSK (4-PSK)**: 4 Phases ($0^\circ, 90^\circ, 180^\circ, 270^\circ$). 2 bits/symbol.
+    *   *Exam Tip:* Watch for **phase jumps** between bit combinations (00, 01, 10, 11) in diagrams.
 *   **8-PSK**: 8 Phases. 3 bits/symbol.
 *   **Efficiency**: Very spectrum efficient.
 

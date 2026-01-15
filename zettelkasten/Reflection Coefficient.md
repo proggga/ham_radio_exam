@@ -9,7 +9,6 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Reflectiecoëfficiënt"
 aliases: ["Reflectiecoëfficiënt", "Rho", "Gamma"]
 ---
 

@@ -10,7 +10,6 @@ created: 2025-12-29
 type: index
 modified: 2025-12-29
 
-dutch_title: "Kringen en wetten van Kirchhoff"
 aliases: ["Kringen en wetten van Kirchhoff"]
 ---
 
@@ -28,7 +27,7 @@ This map covers the fundamental rules for analyzing electrical circuits.
 *   [[Voltage Dividers]] - Practical application of series circuits for setting levels.
 
 ## Analysis Tools
-*   [[Multimeters (Universeelmeters)]] - Measuring V, I, and R.
+*   [[Multimeters]] - Measuring V, I, and R.
 *   [[Reactance & Impedance]] - AC circuit analysis.
 
 ## Related

@@ -9,7 +9,6 @@ created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
-dutch_title: "Packet Radio"
 aliases: ["Packet Radio", "AX.25", "AX25"]
 ---
 

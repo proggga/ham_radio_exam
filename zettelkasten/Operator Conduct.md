@@ -1,16 +1,15 @@
 ---
 id: 202301011253
-title: "Eindterm 13: Conduct (Gedragsregels)"
-tags: ["ham-radio"]
+title: "Operator Conduct"
+tags: ["ham-radio", "regulations", "ethics", "operating"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
-dutch_title: "Gedragsregels"
-aliases: ["Gedragsregels"]
+aliases: ["Gedragsregels", "Conduct"]
 ---
 
-# Eindterm 13: Conduct (Gedragsregels)
+# Operator Conduct
 
 ## Social Responsibility
 Amateur radio operators are privileged to use a wide range of frequencies and high power levels. With this freedom comes the responsibility to prevent chaos on the airwaves. Operators must:
