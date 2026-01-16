@@ -1,7 +1,7 @@
 ---
 id: 202512291903
 title: "40m Band"
-tags: ["ham-radio", "bands", "hf"]
+tags: ["bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

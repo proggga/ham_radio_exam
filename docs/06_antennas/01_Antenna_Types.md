@@ -18,7 +18,7 @@ This map covers the various types of antennas used in amateur radio.
 
 ## Directional
 *   **[Directional Antennas (Beams)](12_Directional_Antennas_Beams.md)** - [Yagi](12_Directional_Antennas_Beams.md)-Uda and Quads for gain.
-*   **[Aperture Antennas](13_Aperture_Antennas.md)** - Dishes and Helical antennas for [UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/Microwave.
+*   **[Aperture Antennas](13_Aperture_Antennas.md)** - Dishes and Helical antennas for [UHF](../07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md)/Microwave.
 *   **[Microwave Waveguides and Antennas](14_Microwave_Waveguides_and_Antennas.md)** - High frequency transmission.
 
 ## Special

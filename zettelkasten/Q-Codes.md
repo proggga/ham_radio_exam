@@ -1,13 +1,11 @@
----
 id: 202512292004
 title: Q-Codes
-tags: ["ham-radio", "operating", "reference"]
+tags: ["mnemonics", "modes", "operating", "reference", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Q-codes"]
----
 
 # Q-Codes
 

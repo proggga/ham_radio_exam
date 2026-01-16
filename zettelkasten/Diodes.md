@@ -1,13 +1,11 @@
----
 id: 202512291931
 title: "Diodes"
-tags: ["ham-radio", "components", "semiconductors"]
+tags: ["components", "safety", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Dioden"]
----
 
 # Diodes
 

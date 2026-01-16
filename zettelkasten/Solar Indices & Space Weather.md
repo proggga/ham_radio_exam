@@ -1,13 +1,11 @@
----
 id: 202512311220
 title: Solar Indices & Space Weather
-tags: ["ham-radio", "propagation", "space-weather"]
+tags: ["ionosphere", "propagation", "space-weather"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Zonne-indexen", "Ruimteweer"]
----
 
 # Solar Indices & Space Weather
 

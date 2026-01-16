@@ -1,16 +1,11 @@
----
 id: 202501111625
 title: Discone Antenna
-tags:
-  - ham-radio
-  - antennas
-  - vhf-uhf
+tags: ["antennas", "transmission-lines", "vhf-uhf"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
 aliases: ["Discone Antenne", "Discone", "Wideband Antenna"]
----
 
 # Discone Antenna
 

@@ -1,7 +1,7 @@
 ---
 id: 202301011251
 title: "Licensing in the Netherlands"
-tags: ["ham-radio", "regulations"]
+tags: ["regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

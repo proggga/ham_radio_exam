@@ -1,16 +1,11 @@
----
 id: 202512292151
 title: Quantisation
-tags:
-  - ham-radio
-  - dsp
-  - theory
+tags: ["dsp", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Kwantisatie"]
----
 
 # Quantisation
 

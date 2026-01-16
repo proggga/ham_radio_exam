@@ -1,13 +1,11 @@
----
 id: 202512302358
 title: Oscilloscope
-tags: ["ham-radio", "measurements", "equipment"]
+tags: ["amplifiers", "equipment", "exam-tips", "formulas", "math", "measurements"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["Oscilloscoop"]
----
 
 # Oscilloscope
 

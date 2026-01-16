@@ -1,3 +1,12 @@
+id: 202501101401
+title: Link Budget
+tags: ["formulas", "math", "propagation"]
+created: 2025-01-10
+type: permanent-note
+modified: 2025-01-10
+
+aliases: ["Link budget", "Propagatievoorspelling"]
+
 # Link Budget
 
 A **Link Budget** is a calculation of all power gains and losses in a communication system to ensure the received signal is strong enough to be decoded.
@@ -13,8 +22,8 @@ $$P_{RX} = P_{TX} + G_{TX} - L_{Path} + G_{RX} - L_{Misc}$$
 *   $L_{Misc}$: Cable losses, connector losses, polarization mismatch (dB).
 
 ## Key Parameters
-*   **[Sensitivity](../04_receivers/03_Receiver_Performance.md)**: The minimum signal level required for the receiver to work (e.g., -120 dBm).
-*   **Fade Margin**: An extra "cushion" (e.g., 10-20 dB) added to the budget to account for [Fading](18_Fading_QSB.md) (QSB) or atmospheric changes.
+*   **[Sensitivity](../04_receivers/05_Receiver_Performance.md)**: The minimum signal level required for the receiver to work (e.g., -120 dBm).
+*   **Fade Margin**: An extra "cushion" (e.g., 10-20 dB) added to the budget to account for Fading (QSB) or atmospheric changes.
 *   **Free Space Path Loss (FSPL)**:
     *   Depends on **Frequency** and **Distance**.
     *   Doubling the distance = 6 dB loss.

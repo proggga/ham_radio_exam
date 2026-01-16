@@ -1,13 +1,11 @@
----
 id: 202512292036
 title: Combinational Logic
-tags: ["ham-radio", "digital", "logic"]
+tags: ["digital", "formulas", "logic"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Combinatorische logica"]
----
 
 # Combinational Logic
 

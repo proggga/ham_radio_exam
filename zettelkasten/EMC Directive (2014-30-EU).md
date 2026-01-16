@@ -1,10 +1,7 @@
 ---
 id: 202501101402
 title: EMC Directive (2014-30-EU)
-tags:
-  - ham-radio
-  - regulations
-  - emc
+tags: ["emc", "regulations"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10

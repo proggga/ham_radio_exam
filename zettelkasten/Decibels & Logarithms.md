@@ -1,13 +1,11 @@
----
 id: 202512292010
 title: Decibels & Logarithms
-tags: ["ham-radio", "basic-skills", "math", "measurements"]
+tags: ["amplifiers", "basics", "exam-tips", "formulas", "math", "measurements", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Decibels", "Logaritmen", "dB"]
----
 
 # Decibels & Logarithms
 

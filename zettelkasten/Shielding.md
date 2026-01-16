@@ -1,7 +1,7 @@
 ---
 id: 202512302205
 title: "Shielding"
-tags: ["ham-radio", "components", "interference"]
+tags: ["components", "interference"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30

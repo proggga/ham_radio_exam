@@ -1,13 +1,11 @@
----
 id: 202512292027
 title: Voltage Regulation
-tags: ["ham-radio", "circuits", "power-supply"]
+tags: ["amplifiers", "circuits", "formulas", "power-supply", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Spanningsstabilisatie"]
----
 
 # Voltage Regulation
 

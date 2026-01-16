@@ -1,7 +1,7 @@
 ---
 id: 202512311240
 title: Spread Spectrum & Frequency Hopping
-tags: ["ham-radio", "modes", "military", "security"]
+tags: ["military", "modes", "security"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31

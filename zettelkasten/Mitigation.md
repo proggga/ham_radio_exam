@@ -1,13 +1,11 @@
----
 id: 202301011245
 title: "Mitigation"
-tags: ["ham-radio", "interference"]
+tags: ["filters", "formulas", "interference", "oscillators", "safety"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Ontstoring", "EMC"]
----
 
 # Mitigation (Ontstoring)
 

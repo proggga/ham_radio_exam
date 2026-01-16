@@ -1,16 +1,11 @@
----
 id: 202301011237
 title: "Map: Propagation Modes"
-tags:
-  - ham-radio
-  - propagation
-  - map
+tags: ["ionosphere", "map", "propagation"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Propagatiemodi"]
----
 
 # Map: Propagation Modes
 

@@ -1,16 +1,11 @@
----
 id: 202501111210
 title: Reflection Coefficient
-tags:
-  - ham-radio
-  - antennas
-  - math
+tags: ["antennas", "formulas", "math", "transmission-lines"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
 aliases: ["Reflectiecoëfficiënt", "Rho", "Gamma"]
----
 
 # Reflection Coefficient ($\Gamma$ or $\rho$)
 

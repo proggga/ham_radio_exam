@@ -1,13 +1,11 @@
----
 id: 202301011219
 title: "Reactive Combinations"
-tags: ["ham-radio", "circuits"]
+tags: ["circuits", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Reactieve combinaties"]
----
 
 # Reactive Combinations
 

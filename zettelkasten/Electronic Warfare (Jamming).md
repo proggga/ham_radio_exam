@@ -1,13 +1,11 @@
----
 id: 202512310004
 title: Electronic Warfare (Jamming)
-tags: ["ham-radio", "interference", "military", "security"]
+tags: ["interference", "military", "modes", "security"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Jamming", "Stoorzenders"]
----
 
 # Electronic Warfare (EW)
 

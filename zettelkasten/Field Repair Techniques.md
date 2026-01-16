@@ -1,13 +1,11 @@
----
 id: 202512311200
 title: Field Repair Techniques
-tags: ["ham-radio", "operating", "safety", "antennas"]
+tags: ["antennas", "operating", "safety", "transmission-lines"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Reparatietechnieken te velde"]
----
 
 # Field Repair Techniques
 

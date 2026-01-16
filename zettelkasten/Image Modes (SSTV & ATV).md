@@ -1,13 +1,11 @@
----
 id: 202512311420
 title: Image Modes (SSTV & ATV)
-tags: ["ham-radio", "operating", "modes", "image"]
+tags: ["image", "modes", "operating", "regulations"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Beeldmodi", "SSTV", "ATV"]
----
 
 # Image Modes (SSTV & ATV)
 

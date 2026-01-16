@@ -1,7 +1,7 @@
 ---
 id: 202512310003
 title: Radio Operations in Harsh Environments
-tags: ["ham-radio", "operating", "safety", "military"]
+tags: ["military", "operating", "safety"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31

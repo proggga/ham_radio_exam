@@ -1,13 +1,11 @@
----
 id: 202512292035
 title: Boolean Algebra
-tags: ["ham-radio", "digital", "math"]
+tags: ["digital", "formulas", "math", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Booleaanse algebra"]
----
 
 # Boolean Algebra
 

@@ -1,16 +1,11 @@
----
 id: 202512292162
 title: Line of Sight Propagation (LOS)
-tags:
-  - ham-radio
-  - propagation
-  - vhf-uhf
+tags: ["formulas", "propagation", "safety", "vhf-uhf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Zichtverbinding", "LOS"]
----
 
 # Line of Sight Propagation (LOS)
 

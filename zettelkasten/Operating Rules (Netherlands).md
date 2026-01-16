@@ -1,13 +1,11 @@
----
 id: 202512310001
 title: Operating Rules (Netherlands)
-tags: ["ham-radio", "regulations", "operating"]
+tags: ["modes", "operating", "regulations"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Gebruiksbepalingen"]
----
 
 # Operating Rules (Netherlands)
 

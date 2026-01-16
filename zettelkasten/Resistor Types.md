@@ -1,7 +1,7 @@
 ---
 id: 202512292047
 title: Resistor Types
-tags: ["ham-radio", "components", "resistors"]
+tags: ["components", "resistors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

@@ -1,16 +1,11 @@
----
 id: 202512292141
 title: Magnetic Field
-tags:
-  - ham-radio
-  - electricity
-  - physics
+tags: ["electricity", "exam-tips", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Magnetisch veld"]
----
 
 # Magnetic Field (Magnetisch Veld)
 

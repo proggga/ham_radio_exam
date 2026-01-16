@@ -1,17 +1,11 @@
----
 id: 202512292130
 title: Kirchhoff's Laws
-tags:
-  - ham-radio
-  - electricity
-  - circuits
-  - physics
+tags: ["circuits", "electricity", "formulas", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Wetten van Kirchhoff"]
----
 
 # Kirchhoff's Laws
 

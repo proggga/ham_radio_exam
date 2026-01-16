@@ -1,13 +1,11 @@
----
 id: 202301011242
 title: "RF Measurements"
-tags: ["ham-radio", "measurements", "index"]
+tags: ["amplifiers", "formulas", "index", "math", "measurements", "modes", "safety", "transmission-lines"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["HF-metingen"]
----
 
 # RF Measurements
 

@@ -1,13 +1,11 @@
----
 id: 202301011205
 title: "Measurements"
-tags: ["ham-radio", "electricity"]
+tags: ["electricity", "formulas", "math", "modes", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Metingen", "Meetinstrumenten"]
----
 
 # Measurements
 

@@ -1,7 +1,7 @@
 ---
 id: 202512311230
 title: APRS (Automatic Packet Reporting System)
-tags: ["ham-radio", "digital", "operating", "packet"]
+tags: ["digital", "operating", "packet"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31

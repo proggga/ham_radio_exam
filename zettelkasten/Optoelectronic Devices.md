@@ -1,13 +1,11 @@
----
 id: 202512311630
 title: Optoelectronic Devices
-tags: ["ham-radio", "components", "semiconductors", "optoelectronics"]
+tags: ["components", "modes", "optoelectronics", "semiconductors"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Opto-elektronische componenten"]
----
 
 # Optoelectronic Devices
 

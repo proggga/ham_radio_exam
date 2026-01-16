@@ -1,13 +1,11 @@
----
 id: 202301011218
 title: "Digital Components & Crystals"
-tags: ["ham-radio", "digital", "index"]
+tags: ["digital", "index", "oscillators", "regulations"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Digitale componenten"]
----
 
 # Digital Components & Crystals
 

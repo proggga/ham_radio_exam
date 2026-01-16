@@ -1,13 +1,11 @@
----
 id: 202512292111
 title: Frequency Counter
-tags: ["ham-radio", "measurements", "equipment"]
+tags: ["equipment", "formulas", "measurements", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Frequentieteller"]
----
 
 # Frequency Counter
 

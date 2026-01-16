@@ -1,13 +1,11 @@
----
 id: 202301011222
 title: "Power Supply"
-tags: ["ham-radio", "circuits", "index"]
+tags: ["circuits", "index", "safety", "semiconductors"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Voeding"]
----
 
 # Power Supply
 

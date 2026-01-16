@@ -1,13 +1,11 @@
----
 id: 202512292059
 title: Capacitor Principles
-tags: ["ham-radio", "components", "capacitors", "physics"]
+tags: ["capacitors", "components", "exam-tips", "formulas", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Capaciteit"]
----
 
 # Capacitor Principles
 

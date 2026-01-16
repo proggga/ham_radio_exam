@@ -1,13 +1,11 @@
----
 id: 202512301555
 title: Aperture Antennas
-tags: ["ham-radio", "antennas", "microwave"]
+tags: ["antennas", "formulas", "math", "microwave"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["Schotelantennes", "Hoornantennes"]
----
 
 # Aperture Antennas
 

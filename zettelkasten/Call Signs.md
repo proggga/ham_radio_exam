@@ -1,13 +1,11 @@
----
 id: 202512292007
 title: Call Signs
-tags: ["ham-radio", "regulations", "operating"]
+tags: ["modes", "operating", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Roepletters", "Callsigns"]
----
 
 # Call Signs
 

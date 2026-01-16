@@ -1,13 +1,11 @@
----
 id: 202512302215
 title: LED (Light Emitting Diode)
-tags: ["ham-radio", "components", "semiconductors"]
+tags: ["components", "formulas", "semiconductors"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["LED", "Lichtemitterende diode"]
----
 
 # LED (Light Emitting Diode)
 

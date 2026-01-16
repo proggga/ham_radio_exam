@@ -1,13 +1,11 @@
----
 id: 202512292102
 title: Mixing Products (Interference)
-tags: ["ham-radio", "interference", "theory"]
+tags: ["amplifiers", "filters", "formulas", "interference", "safety"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Mengproducten"]
----
 
 # Mixing Products (Interference)
 

@@ -1,13 +1,11 @@
----
 id: 202301011236
 title: "Propagation Basics"
-tags: ["ham-radio", "propagation"]
+tags: ["formulas", "ionosphere", "math", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Propagatie", "Voortplanting van radiogolven"]
----
 
 # Propagation Basics
 

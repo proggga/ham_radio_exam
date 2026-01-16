@@ -1,13 +1,11 @@
----
 id: 202512292045
 title: Bandwidth
-tags: ["ham-radio", "circuits", "filters", "measurements"]
+tags: ["circuits", "filters", "formulas", "math", "measurements", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Bandbreedte"]
----
 
 # Bandwidth
 

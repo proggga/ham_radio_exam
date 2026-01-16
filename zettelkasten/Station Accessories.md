@@ -1,13 +1,11 @@
----
 id: 202512310010
 title: Station Accessories
-tags: ["ham-radio", "equipment", "accessories"]
+tags: ["accessories", "amplifiers", "equipment", "modes", "oscillators"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Stationstoebehoren"]
----
 
 # Station Accessories
 

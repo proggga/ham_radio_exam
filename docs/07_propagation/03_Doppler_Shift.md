@@ -1,3 +1,12 @@
+id: 202512311440
+title: Doppler Shift
+tags: ["formulas", "physics", "propagation", "satellite"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Dopplereffect"]
+
 # Doppler Shift
 
 Doppler [Shift](../11_procedures.md) is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.
@@ -11,8 +20,8 @@ Doppler [Shift](../11_procedures.md) is the change in frequency of a wave in rel
 As a Low Earth Orbit (LEO) satellite passes overhead:
 *   **AOS (Acquisition of Signal)**: Satellite approaching. Frequency is **High**.
 *   **TCA (Time of Closest Approach)**: Frequency is nominal.
-*   **[LOS](07_Line_of_Sight_Propagation_LOS.md) (Loss of Signal)**: Satellite moving away. Frequency is **Low**.
-*   **Correction**: The operator must tune the receiver *down* during the pass to follow the signal. [UHF](08_VHFUHF_Bands_6m,_2m,_70cm.md) shifts more than [VHF](08_VHFUHF_Bands_6m,_2m,_70cm.md).
+*   **LOS (Loss of Signal)**: Satellite moving away. Frequency is **Low**.
+*   **Correction**: The operator must tune the receiver *down* during the pass to follow the signal. [UHF](15_VHFUHF_Bands_6m,_2m,_70cm.md) shifts more than [VHF](15_VHFUHF_Bands_6m,_2m,_70cm.md).
 
 ### 2. EME (Moonbounce)
 *   The Moon moves relative to the Earth.

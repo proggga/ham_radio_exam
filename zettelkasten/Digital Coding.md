@@ -1,13 +1,11 @@
----
 id: 202512292109
 title: Digital Coding
-tags: ["ham-radio", "digital", "theory"]
+tags: ["digital", "formulas", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Digitale codering"]
----
 
 # Digital Coding
 

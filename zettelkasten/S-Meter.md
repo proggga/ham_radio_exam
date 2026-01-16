@@ -1,13 +1,11 @@
----
 id: 202512302355
 title: S-Meter (Signal Strength)
-tags: ["ham-radio", "receivers", "measurements"]
+tags: ["amplifiers", "math", "measurements", "receivers"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["S-meter"]
----
 
 # S-Meter (Signal Strength)
 

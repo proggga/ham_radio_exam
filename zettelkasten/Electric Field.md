@@ -1,16 +1,11 @@
----
 id: 202512292140
 title: Electric Field
-tags:
-  - ham-radio
-  - electricity
-  - physics
+tags: ["electricity", "formulas", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Elektrisch veld"]
----
 
 # Electric Field (Elektrisch Veld)
 

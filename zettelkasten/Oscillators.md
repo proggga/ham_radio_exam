@@ -1,13 +1,11 @@
----
 id: 202512292038
 title: Oscillators
-tags: ["ham-radio", "circuits", "oscillators"]
+tags: ["circuits", "formulas", "mnemonics", "oscillators", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Oscillatoren"]
----
 
 # Oscillators
 

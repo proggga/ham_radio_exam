@@ -1,13 +1,11 @@
----
 id: 202512292122
 title: Fading (QSB)
-tags: ["ham-radio", "propagation", "interference"]
+tags: ["interference", "ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Fading", "QSB"]
----
 
 # Fading (QSB)
 

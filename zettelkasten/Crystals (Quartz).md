@@ -1,13 +1,11 @@
----
 id: 202512292033
 title: Crystals (Quartz)
-tags: ["ham-radio", "components", "digital"]
+tags: ["components", "digital", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Kristallen", "Kwartskristallen"]
----
 
 # Crystals (Quartz)
 

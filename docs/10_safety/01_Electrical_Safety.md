@@ -1,3 +1,12 @@
+id: 202301011246
+title: "Electrical Safety"
+tags: ["safety", "semiconductors"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["Elektrische veiligheid"]
+
 # Electrical Safety
 
 ## 1. The Human Body
@@ -33,7 +42,7 @@
 ## 4. Protection Devices
 *   **Fuses (Smeltveiligheden)**: Protect wiring/equipment from fire.
     *   *Fast (F):* For semiconductors/resistive loads.
-    *   *Slow (T - Träge):* For [Transformers](../02_components/10_Transformers.md)/Power Supplies (to handle inrush current).
+    *   *Slow (T - Träge):* For [Transformers](../02_components/04_Transformers.md)/Power Supplies (to handle inrush current).
 *   **RCD (Aardlekschakelaar)**: Residual Current Device.
     *   Measures difference between $I_{Live}$ and $I_{Neutral}$.
     *   Trips at **30 mA** imbalance. Protects **people**.

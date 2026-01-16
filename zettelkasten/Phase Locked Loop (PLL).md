@@ -1,13 +1,11 @@
----
 id: 202512292041
 title: Phase Locked Loop (PLL)
-tags: ["ham-radio", "circuits", "digital"]
+tags: ["circuits", "digital", "filters", "formulas", "modes", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Fasevergrendelde lus", "PLL"]
----
 
 # Phase Locked Loop (PLL)
 

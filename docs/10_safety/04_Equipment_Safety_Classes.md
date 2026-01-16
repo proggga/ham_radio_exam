@@ -1,3 +1,12 @@
+id: 202301011248
+title: "Equipment Safety Classes"
+tags: ["safety", "semiconductors", "transmission-lines"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["Veiligheidsklassen apparatuur"]
+
 # Equipment Safety Classes
 
 ## Class I: Earthed

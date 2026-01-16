@@ -1,7 +1,7 @@
 ---
 id: 202512292024
 title: Transformer Losses
-tags: ["ham-radio", "components", "transformers", "physics"]
+tags: ["components", "physics", "transformers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

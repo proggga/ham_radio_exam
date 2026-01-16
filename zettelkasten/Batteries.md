@@ -1,16 +1,11 @@
----
 id: 202501111645
 title: Batteries
-tags:
-  - ham-radio
-  - power-supply
-  - portable
+tags: ["formulas", "portable", "power-supply", "safety"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
 aliases: ["Batterijen en Accu"s", "Batterijen", "Accu"s", "Batteries", "Accumulators"]
----
 
 # Batteries
 

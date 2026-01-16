@@ -1,13 +1,11 @@
----
 id: 202512310006
 title: Satellite Operation
-tags: ["ham-radio", "operating", "space"]
+tags: ["modes", "operating", "regulations", "space"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Satellietverbindingen"]
----
 
 # Satellite Operation
 

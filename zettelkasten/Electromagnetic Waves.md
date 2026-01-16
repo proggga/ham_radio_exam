@@ -1,16 +1,11 @@
----
 id: 202512292142
 title: Electromagnetic Waves
-tags:
-  - ham-radio
-  - propagation
-  - physics
+tags: ["formulas", "physics", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Elektromagnetische golven"]
----
 
 # Electromagnetic Waves
 

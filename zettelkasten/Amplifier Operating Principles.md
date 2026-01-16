@@ -1,13 +1,11 @@
----
 id: 202512292015
 title: Amplifier Operating Principles
-tags: ["ham-radio", "circuits", "amplifiers"]
+tags: ["amplifiers", "circuits", "formulas", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Werkingsprincipes versterkers"]
----
 
 # Amplifier Operating Principles
 

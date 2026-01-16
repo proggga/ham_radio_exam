@@ -1,15 +1,11 @@
----
 id: 202501101401
 title: Link Budget
-tags:
-  - ham-radio
-  - propagation
+tags: ["formulas", "math", "propagation"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
 aliases: ["Link budget", "Propagatievoorspelling"]
----
 
 # Link Budget
 

@@ -1,3 +1,12 @@
+id: 202512291804
+title: "Conductors and Insulators"
+tags: ["electricity", "materials", "semiconductors"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["Geleiders en isolatoren"]
+
 # Conductors and Insulators
 
 The ability of a material to conduct electricity depends on the behavior of electrons in the outermost shell (valence shell) of its atoms.
@@ -17,7 +26,7 @@ Materials where electrons are **tightly bound** to the nucleus.
 ## Semiconductors (Halfgeleiders)
 Materials with conductivity between that of a conductor and an insulator.
 *   **Examples:** Silicon, Germanium.
-*   **Note:** Their conductivity can be modified by "doping" (see [Semiconductors](../02_components/15_Semiconductors.md)).
+*   **Note:** Their conductivity can be modified by "doping" (see [Semiconductors](../02_components/05_Semiconductors.md)).
 
 > **Note:** There is no perfect conductor (except superconductors at very low temperatures) and no perfect insulator (breakdown occurs at high voltages).
 

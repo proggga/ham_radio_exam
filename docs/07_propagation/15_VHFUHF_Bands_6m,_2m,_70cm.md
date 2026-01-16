@@ -1,0 +1,33 @@
+id: 202512291910
+title: "VHF/UHF Bands (6m, 2m, 70cm)"
+tags: ["bands", "modes", "uhf", "vhf"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["VHF/UHF banden", "2m Band", "70cm Band", "6m Band", "VHF", "UHF"]
+
+# VHF/UHF Bands
+
+Bands above 30 MHz behave differently from [HF](01_Propagation_Basics.md), relying primarily on Line-of-Sight rather than ionospheric skip.
+
+## 6m Band (50 MHz) - "The Magic Band"
+*   **Nature:** Hybrid between [HF](01_Propagation_Basics.md) and VHF.
+*   **Modes:**
+    *   **[Sporadic E](07_Special_Propagation_Modes.md):** Common in summer.
+    *   **F2 DX:** Only at peak Solar Max.
+    *   **[Meteor Scatter](07_Special_Propagation_Modes.md) / [Aurora](07_Special_Propagation_Modes.md):** Exotic modes.
+
+## 2m Band (144 MHz)
+*   **Primary Use:** Local FM Repeaters, Emergency Comms, Packet/[APRS](../11_procedures.md).
+*   **Range:** Line of Sight (30-100 miles).
+*   **DX:** Tropospheric Ducting (can go hundreds of miles), SSB/CW weak signal work.
+*   **Antennas:** Very small (~1m / 3ft).
+
+## 70cm Band (430 MHz)
+*   **Primary Use:** Urban comms (penetrates buildings well), Satellite uplinks, [Fast Scan TV](../11_procedures.md).
+*   **[Noise](../01_electricity/14_AC_Signals_&_Noise.md):** Lowest noise floor (S0).
+*   **Range:** Strictly line of sight, but Tropospheric ducting can be very strong.
+
+---
+[< Back to Section Index](README.md)

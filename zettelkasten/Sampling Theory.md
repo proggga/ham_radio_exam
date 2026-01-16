@@ -1,16 +1,11 @@
----
 id: 202512292150
 title: Sampling Theory
-tags:
-  - ham-radio
-  - dsp
-  - theory
+tags: ["dsp", "filters", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Bemonsteringstheorie"]
----
 
 # Sampling Theory
 

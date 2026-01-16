@@ -1,7 +1,7 @@
 ---
 id: 202512292050
 title: Amateur Service Definition
-tags: ["ham-radio", "regulations", "legal"]
+tags: ["regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

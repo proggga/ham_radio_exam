@@ -1,13 +1,11 @@
----
 id: 202512291902
 title: "80m Band"
-tags: ["ham-radio", "bands", "hf"]
+tags: ["bands", "hf", "ionosphere"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["80m band"]
----
 
 # 80m Band (3.5 MHz)
 

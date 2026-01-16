@@ -1,13 +1,11 @@
----
 id: 202512291802
 title: "Electrical Charge (Coulomb)"
-tags: ["ham-radio", "electricity", "units"]
+tags: ["electricity", "formulas", "units"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Elektrische lading", "Coulomb"]
----
 
 # Electrical Charge
 

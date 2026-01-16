@@ -1,10 +1,7 @@
 ---
 id: 202512292163
 title: Tropospheric Propagation
-tags:
-  - ham-radio
-  - propagation
-  - vhf-uhf
+tags: ["propagation", "vhf-uhf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

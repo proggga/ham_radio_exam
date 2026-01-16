@@ -1,16 +1,11 @@
----
 id: 202501101406
 title: Cabinet Radiation
-tags:
-  - ham-radio
-  - interference
-  - emc
+tags: ["emc", "interference", "safety"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
 aliases: ["Kaststraling"]
----
 
 # Cabinet Radiation (Kaststraling)
 

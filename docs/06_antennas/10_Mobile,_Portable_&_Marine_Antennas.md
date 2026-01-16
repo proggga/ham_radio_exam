@@ -1,3 +1,12 @@
+id: 202512311700
+title: Mobile, Portable & Marine Antennas
+tags: ["antennas", "marine", "mobile", "safety"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Mobiele antennes", "Maritieme antennes"]
+
 # Mobile, Portable & Marine Antennas
 
 Operating radio equipment from vehicles or boats presents unique challenges due to limited space and the lack of a traditional earth ground.
@@ -13,8 +22,8 @@ Because the whip is short ($< \lambda/4$), it is highly capacitive. An **Inducti
 *   **Continuous Loading**: Wire wound helically along the entire fiberglass rod (e.g., "Hamstick").
 
 ### High Q and Bandwidth
-Short, loaded antennas have a very high **[Quality Factor (Q)](../03_circuits/06_Quality_Factor_Q.md)**.
-*   **Effect**: [Bandwidth](../03_circuits/07_Bandwidth.md) is extremely narrow (e.g., 20-40 kHz on 80m).
+Short, loaded antennas have a very high **Quality Factor (Q)**.
+*   **Effect**: Bandwidth is extremely narrow (e.g., 20-40 kHz on 80m).
 *   **Tuning**: Frequent retuning is required when changing frequency.
     *   *Manual*: Moving a tap or adjusting a stinger tip (stopped vehicle).
     *   *Remote*: "Screwdriver" antennas use a motor to move the coil inside the base, allowing tuning from the driver's seat.
@@ -34,7 +43,7 @@ Salt water is an excellent conductor, making it a perfect RF ground.
 
 ### Antenna Types
 *   **Marine Whips**: Usually longer than car antennas (no height restrictions at sea).
-*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner ([ATU](25_Antenna_Tuning_Unit_ATU.md))** at the base.
+*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner (ATU)** at the base.
 
 ---
 [< Back to Section Index](README.md)

@@ -1,3 +1,12 @@
+id: 202501111620
+title: Common Wire Antennas
+tags: ["antennas", "practical", "transmission-lines"]
+created: 2025-01-11
+type: permanent-note
+modified: 2025-01-11
+
+aliases: ["Veelgebruikte Draadantennes", "G5RV", "Windom", "OCFD", "Off-Center Fed Dipole"]
+
 # Common Wire Antennas
 
 Beyond the standard [Dipole](02_The_Dipole_Antenna.md), several wire antenna designs are popular for their multiband capabilities or convenience.
@@ -10,15 +19,15 @@ Designed by Louis Varney (G5RV).
     *   **Matching Section**: ~30 ft (9m) of **Ladder Line** (Open wire or Window line) acting as a 1:1 impedance transformer on 20m.
 *   **Operation**:
     *   Works well on 80m, 40m, 20m, and 12m.
-    *   **Requires an ATU ([Tuner](25_Antenna_Tuning_Unit_ATU.md))** for most bands (except 20m).
+    *   **Requires an ATU (Tuner)** for most bands (except 20m).
     *   Often acts as a "Cloud Warmer" on 80m due to low height relative to wavelength.
 
 ## 2. Windom / OCFD (Off-Center Fed Dipole)
 A dipole fed away from the center (typically at the 33%/67% point).
 *   **Principle**: At this offset point, the impedance is roughly **200-300 $\Omega$** on the fundamental frequency *and* its even harmonics.
-*   **Feed**: Uses a **4:1 or 6:1 [Current Balun](../02_components/14_Baluns.md)** to match to $50 \Omega$ coax.
+*   **Feed**: Uses a **4:1 or 6:1 Current Balun** to match to $50 \Omega$ coax.
 *   **Bands**: A classic 80m Windom works on 80, 40, 20, and 10m without a tuner (or with a light touch).
-*   **Risk**: prone to **Common Mode Current** on the coax shield. A good [Choke Balun](../02_components/14_Baluns.md) is essential to prevent RF in the shack.
+*   **Risk**: prone to **Common Mode Current** on the coax shield. A good Choke Balun is essential to prevent RF in the shack.
 
 ## 3. Zepp Antenna
 Originally used on Zeppelins.

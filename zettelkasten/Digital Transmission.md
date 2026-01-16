@@ -1,13 +1,11 @@
----
 id: 202512292108
 title: Digital Transmission
-tags: ["ham-radio", "digital", "theory"]
+tags: ["amplifiers", "digital", "exam-tips", "formulas", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Digitale transmissie"]
----
 
 # Digital Transmission
 

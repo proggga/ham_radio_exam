@@ -1,16 +1,11 @@
----
 id: 202512292215
 title: Block Diagram Identification
-tags:
-  - ham-radio
-  - exam-tips
-  - theory
+tags: ["amplifiers", "exam-tips", "filters", "modes", "oscillators", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Blokschema's Herkennen", "Reading Block Diagrams"]
----
 
 # Block Diagram Identification (Exam Guide)
 

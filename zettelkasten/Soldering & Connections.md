@@ -1,13 +1,11 @@
----
 id: 202512311400
 title: Soldering & Connections
-tags: ["ham-radio", "skills", "construction"]
+tags: ["construction", "skills", "transmission-lines"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Solderen en verbindingen"]
----
 
 # Soldering & Connections
 

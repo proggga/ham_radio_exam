@@ -1,13 +1,11 @@
----
 id: 202512292056
 title: Superheterodyne Principle
-tags: ["ham-radio", "receivers", "theory"]
+tags: ["amplifiers", "filters", "formulas", "modes", "oscillators", "receivers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Superheterodyne principe"]
----
 
 # Superheterodyne Principle
 

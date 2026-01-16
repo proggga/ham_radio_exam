@@ -1,13 +1,11 @@
----
 id: 202512292005
 title: CW Abbreviations & Prosigns
-tags: ["ham-radio", "cw", "operating", "reference"]
+tags: ["cw", "modes", "operating", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["CW afkortingen", "Seintekens"]
----
 
 # CW Abbreviations & Prosigns
 

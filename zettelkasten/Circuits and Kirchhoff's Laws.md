@@ -1,17 +1,11 @@
----
 id: 202301011206
 title: "Map: Circuits & Kirchhoff's Laws"
-tags:
-  - ham-radio
-  - electricity
-  - circuits
-  - map
+tags: ["circuits", "electricity", "map", "regulations"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Kringen en wetten van Kirchhoff"]
----
 
 # Map: Circuits & Kirchhoff's Laws
 

@@ -1,13 +1,11 @@
----
 id: 202512302220
 title: Zener Diode
-tags: ["ham-radio", "components", "semiconductors", "power-supply"]
+tags: ["components", "formulas", "power-supply", "semiconductors"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["Zenerdioden"]
----
 
 # Zener Diode
 

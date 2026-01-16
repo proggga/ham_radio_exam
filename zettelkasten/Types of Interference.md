@@ -1,7 +1,7 @@
 ---
 id: 202301011243
 title: "Types of Interference"
-tags: ["ham-radio", "interference", "index"]
+tags: ["index", "interference"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29

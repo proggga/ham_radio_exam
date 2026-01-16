@@ -1,13 +1,11 @@
----
 id: 202301011239
 title: "Amateur Radio Bands"
-tags: ["ham-radio", "propagation", "index"]
+tags: ["index", "propagation", "regulations"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Amateurbanden", "Frequentiebanden"]
----
 
 # Amateur Radio Bands
 

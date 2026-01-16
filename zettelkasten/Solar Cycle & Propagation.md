@@ -1,13 +1,11 @@
----
 id: 202512292120
 title: Solar Cycle & Propagation
-tags: ["ham-radio", "propagation", "solar"]
+tags: ["ionosphere", "propagation", "solar"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Zonnecyclus en propagatie"]
----
 
 # Solar Cycle & Propagation
 

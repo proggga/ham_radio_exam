@@ -1,15 +1,11 @@
----
 id: 202501101200
 title: Dead Zone (Skip Zone)
-tags:
-  - ham-radio
-  - propagation
+tags: ["ionosphere", "propagation"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
 aliases: ["Dode Zone (Stille Zone)", "Dode Zone", "Stille Zone", "Skip Zone", "Dead Zone"]
----
 
 # Dead Zone (Skip Zone)
 

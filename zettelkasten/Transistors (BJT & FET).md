@@ -1,13 +1,11 @@
----
 id: 202512291932
 title: "Transistors (BJT & FET)"
-tags: ["ham-radio", "components", "semiconductors"]
+tags: ["amplifiers", "components", "formulas", "mnemonics", "safety", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Transistoren", "Bipolaire transistoren", "Veldeffecttransistoren", "FET"]
----
 
 # Transistors
 

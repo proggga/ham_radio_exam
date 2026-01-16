@@ -1,7 +1,7 @@
 ---
 id: 202301011253
 title: "Operator Conduct"
-tags: ["ham-radio", "regulations", "ethics", "operating"]
+tags: ["ethics", "operating", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

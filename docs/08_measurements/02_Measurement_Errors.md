@@ -1,3 +1,12 @@
+id: 202501101404
+title: Measurement Errors
+tags: ["formulas", "math", "measurements"]
+created: 2025-01-10
+type: permanent-note
+modified: 2025-01-10
+
+aliases: ["Meetfouten"]
+
 # Measurement Errors (Meetfouten)
 
 Understanding the limitations of your test equipment is crucial for accurate results.

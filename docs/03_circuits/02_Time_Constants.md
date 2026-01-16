@@ -1,31 +1,40 @@
+id: 202301011220
+title: "Time Constants"
+tags: ["circuits", "formulas"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["Tijdconstanten"]
+
 # Time Constants ($\tau$)
 
 When a resistor is combined with a capacitor or inductor, voltage and current do not change instantly. The speed of change is determined by the **Time Constant** (Tau, $\tau$).
 
 ## 1. RC Circuit (Resistor + Capacitor)
-Charging or discharging a [Capacitor](../02_components/05_Capacitors.md) through a [Resistor](../02_components/01_Resistors.md).
+Charging or discharging a [Capacitor](../02_components/02_Capacitors.md) through a [Resistor](../02_components/01_Resistors.md).
 *   **Formula:**
     $$\tau = R \times C$$
 *   **Units:** Seconds ($s$) = Ohms ($\Omega$) $\times$ Farads ($F$).
 
 ### Process
 *   **Charging:**
-    *   At $t=0$, [Capacitor](../02_components/05_Capacitors.md) acts as a short circuit (Current max, Voltage 0).
+    *   At $t=0$, [Capacitor](../02_components/02_Capacitors.md) acts as a short circuit (Current max, Voltage 0).
     *   After **$1 \tau$**: Voltage reaches **63%** of source voltage.
-    *   After **$5 \tau$**: [Capacitor](../02_components/05_Capacitors.md) is considered fully charged (~99%).
+    *   After **$5 \tau$**: [Capacitor](../02_components/02_Capacitors.md) is considered fully charged (~99%).
 *   **Discharging:**
     *   After **$1 \tau$**: Voltage drops to **37%** of initial voltage (lost 63%).
-    *   After **$5 \tau$**: [Capacitor](../02_components/05_Capacitors.md) is considered empty.
+    *   After **$5 \tau$**: [Capacitor](../02_components/02_Capacitors.md) is considered empty.
 
 ## 2. RL Circuit (Resistor + Inductor)
-Building up or collapsing current through an [Inductor](../02_components/09_Inductors_Spoelen.md).
+Building up or collapsing current through an [Inductor](../02_components/03_Inductors.md).
 *   **Formula:**
     $$\tau = \frac{L}{R}$$
 *   **Units:** Seconds ($s$) = Henrys ($H$) / Ohms ($\Omega$).
 
 ### Process
 *   **Current Buildup:**
-    *   At $t=0$, [Inductor](../02_components/09_Inductors_Spoelen.md) opposes change (Current 0).
+    *   At $t=0$, [Inductor](../02_components/03_Inductors.md) opposes change (Current 0).
     *   After **$1 \tau$**: Current reaches **63%** of maximum ($U/R$).
     *   After **$5 \tau$**: Current is stable (maximum).
 *   **Current Decay:**

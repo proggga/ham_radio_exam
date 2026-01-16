@@ -1,13 +1,11 @@
----
 id: 202512292011
 title: Number Systems
-tags: ["ham-radio", "basic-skills", "digital"]
+tags: ["basics", "digital", "formulas", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Talstelsels"]
----
 
 # Number Systems
 

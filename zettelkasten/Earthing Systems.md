@@ -1,10 +1,7 @@
 ---
 id: 202501111600
 title: Earthing Systems
-tags:
-  - ham-radio
-  - safety
-  - station-setup
+tags: ["safety", "station-setup"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11

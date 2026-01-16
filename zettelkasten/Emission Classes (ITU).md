@@ -1,13 +1,11 @@
----
 id: 202512292052
 title: Emission Classes (ITU)
-tags: ["ham-radio", "regulations", "operating", "reference"]
+tags: ["exam-tips", "modes", "operating", "reference", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Emissieklassen", "Uitzendingsklassen"]
----
 
 # Emission Classes (ITU)
 

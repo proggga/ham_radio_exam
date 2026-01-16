@@ -1,13 +1,11 @@
----
 id: 202512292110
 title: SWR Meter
-tags: ["ham-radio", "measurements", "equipment"]
+tags: ["equipment", "measurements", "modes", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["SWR-meter"]
----
 
 # SWR Meter (Staandegolfmeter)
 

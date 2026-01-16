@@ -1,13 +1,11 @@
----
 id: 202512292006
 title: Emergency Signals
-tags: ["ham-radio", "safety", "operating"]
+tags: ["modes", "operating", "safety"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Noodsignalen"]
----
 
 # Emergency Signals
 

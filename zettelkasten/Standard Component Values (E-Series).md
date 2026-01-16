@@ -1,7 +1,7 @@
 ---
 id: 202512292049
 title: Standard Component Values (E-Series)
-tags: ["ham-radio", "components", "reference"]
+tags: ["components", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

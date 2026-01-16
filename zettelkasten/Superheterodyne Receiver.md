@@ -1,13 +1,11 @@
----
 id: 202301011227
 title: "Superheterodyne Receiver"
-tags: ["ham-radio", "receivers", "index"]
+tags: ["amplifiers", "formulas", "index", "modes", "oscillators", "receivers"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Superheterodyne ontvanger", "Superhet"]
----
 
 # Superheterodyne Receiver
 

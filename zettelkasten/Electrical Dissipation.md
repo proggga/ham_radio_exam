@@ -1,16 +1,11 @@
----
 id: 202512292171
 title: Electrical Dissipation
-tags:
-  - ham-radio
-  - electricity
-  - components
+tags: ["components", "electricity", "formulas", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Dissipatie"]
----
 
 # Electrical Dissipation
 

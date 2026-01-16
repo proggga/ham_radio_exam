@@ -1,3 +1,12 @@
+id: 202512311645
+title: Hidden and Limited-Space Antennas
+tags: ["antennas", "practical", "safety", "transmission-lines"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Onopvallende antennes", "Beperkte ruimte antennes"]
+
 # Hidden and Limited-Space Antennas
 
 When full-size antennas are not feasible due to space or zoning restrictions (HOA), hidden or compromise antennas allow operation.
@@ -6,7 +15,7 @@ When full-size antennas are not feasible due to space or zoning restrictions (HO
 Antennas installed completely inside the roof space.
 *   **Constrained [Dipole](02_The_Dipole_Antenna.md)**: A dipole bent to fit the space.
     *   *Configuration:* Arms can be bent (V-shape) or ends folded.
-    *   *Effect:* [Impedance](../01_electricity/21_Impedance_Impedantie.md) deviates from 73$\Omega$, requiring a tuner. Pattern is distorted.
+    *   *Effect:* Impedance deviates from 73$\Omega$, requiring a tuner. Pattern is distorted.
     *   *[Safety](../10_safety/01_Electrical_Safety.md):* Use insulated wire mounted on standoffs to prevent fire hazards from high voltage RF arcing (Corona).
 *   **Non-Resonant Loop**: A large wire loop run around the perimeter of the attic.
     *   *Feed:* Fed with parallel line (ladder line) to a balanced tuner.

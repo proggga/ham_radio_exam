@@ -1,13 +1,11 @@
----
 id: 202512292100
 title: Capacitor Types
-tags: ["ham-radio", "components", "capacitors"]
+tags: ["capacitors", "components", "exam-tips", "oscillators", "safety"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Soorten condensatoren", "Uitvoeringen van condensatoren"]
----
 
 # Capacitor Types
 

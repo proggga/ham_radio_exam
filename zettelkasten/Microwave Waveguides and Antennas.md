@@ -1,13 +1,11 @@
----
 id: 202512311650
 title: Microwave Waveguides and Antennas
-tags: ["ham-radio", "antennas", "microwave", "propagation"]
+tags: ["antennas", "filters", "formulas", "microwave", "propagation", "safety", "transmission-lines"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Golfpijpen", "Microgolfantennes"]
----
 
 # Microwave Waveguides and Antennas
 

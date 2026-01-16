@@ -1,16 +1,11 @@
----
 id: 202501111620
 title: Common Wire Antennas
-tags:
-  - ham-radio
-  - antennas
-  - practical
+tags: ["antennas", "practical", "transmission-lines"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
 aliases: ["Veelgebruikte Draadantennes", "G5RV", "Windom", "OCFD", "Off-Center Fed Dipole"]
----
 
 # Common Wire Antennas
 

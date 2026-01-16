@@ -1,13 +1,11 @@
----
 id: 202512292030
 title: RMS Voltage
-tags: ["ham-radio", "theory", "ac-signals"]
+tags: ["ac-signals", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Effectieve spanning", "RMS"]
----
 
 # RMS Voltage
 

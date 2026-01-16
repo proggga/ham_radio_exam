@@ -1,13 +1,11 @@
----
 id: 202512292115
 title: The Dipole Antenna
-tags: ["ham-radio", "antennas"]
+tags: ["antennas", "formulas", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Dipoolantenne"]
----
 
 # The Dipole Antenna
 

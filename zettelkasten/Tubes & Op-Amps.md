@@ -1,13 +1,11 @@
----
 id: 202301011217
 title: "Tubes & Op-Amps"
-tags: ["ham-radio", "components", "index"]
+tags: ["amplifiers", "components", "index", "semiconductors"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Buizen en op-amps"]
----
 
 # Tubes & Op-Amps
 

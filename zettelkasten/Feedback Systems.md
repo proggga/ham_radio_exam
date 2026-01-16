@@ -1,13 +1,11 @@
----
 id: 202512292018
 title: Feedback Systems
-tags: ["ham-radio", "circuits", "theory"]
+tags: ["circuits", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Tegenkoppeling", "Meekoppeling"]
----
 
 # Feedback Systems
 

@@ -1,15 +1,10 @@
----
 id: 202501151315
 title: Admittance
-tags:
-  - ham-radio
-  - circuits
-  - ac-theory
+tags: ["circuits", "electronics", "formulas"]
 created: 2026-01-15
 type: permanent-note
 modified: 2026-01-15
 aliases: ["Admittantie", "Y", "Susceptance", "Susceptantie"]
----
 
 # Admittance ($Y$)
 

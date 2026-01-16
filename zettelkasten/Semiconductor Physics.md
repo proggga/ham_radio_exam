@@ -1,7 +1,7 @@
 ---
 id: 202512291930
 title: "Semiconductor Physics"
-tags: ["ham-radio", "components", "semiconductors"]
+tags: ["components", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

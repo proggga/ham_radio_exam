@@ -1,16 +1,11 @@
----
 id: 202512292200
 title: Direct Conversion Receiver
-tags:
-  - ham-radio
-  - receivers
-  - circuits
+tags: ["amplifiers", "circuits", "filters", "formulas", "modes", "oscillators", "receivers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["DC-ontvanger", "Directe Conversie Ontvanger", "Homodyne"]
----
 
 # Direct Conversion Receiver (DC-ontvanger)
 

@@ -1,7 +1,7 @@
 ---
 id: 202512292003
 title: Phonetic Alphabet
-tags: ["ham-radio", "operating", "reference"]
+tags: ["operating", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

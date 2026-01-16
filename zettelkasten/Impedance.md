@@ -1,13 +1,11 @@
----
 id: 202512292055
 title: "Impedance"
-tags: ["ham-radio", "circuits", "ac-theory"]
+tags: ["circuits", "electronics", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Impedantie"]
----
 
 # Impedance (Impedantie)
 

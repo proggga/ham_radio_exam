@@ -1,13 +1,11 @@
----
 id: 202512292021
 title: Operational Amplifiers (Op-Amps)
-tags: ["ham-radio", "components", "circuits", "amplifiers"]
+tags: ["amplifiers", "circuits", "components", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Operationele versterkers", "Op-amps"]
----
 
 # Operational Amplifiers (Op-Amps)
 

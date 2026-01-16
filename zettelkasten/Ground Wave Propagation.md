@@ -1,15 +1,11 @@
----
 id: 202512292160
 title: Ground Wave Propagation
-tags:
-  - ham-radio
-  - propagation
+tags: ["ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Grondgolf"]
----
 
 # Ground Wave Propagation (Grondgolf)
 

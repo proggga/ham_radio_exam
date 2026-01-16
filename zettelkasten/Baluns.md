@@ -1,16 +1,11 @@
----
 id: 202512292191
 title: Baluns
-tags:
-  - ham-radio
-  - antennas
-  - components
+tags: ["antennas", "components", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Baluns", "Aanpassingstransformatoren"]
----
 
 # Baluns
 

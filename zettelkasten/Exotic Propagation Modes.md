@@ -1,16 +1,11 @@
----
 id: 202512292164
 title: Exotic Propagation Modes
-tags:
-  - ham-radio
-  - propagation
-  - vhf-uhf
+tags: ["math", "modes", "propagation", "vhf-uhf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Exotische propagatie"]
----
 
 # Exotic Propagation Modes
 

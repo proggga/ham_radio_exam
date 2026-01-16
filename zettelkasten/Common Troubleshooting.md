@@ -1,13 +1,11 @@
----
 id: 202512311410
 title: Common Troubleshooting
-tags: ["ham-radio", "operating", "maintenance", "troubleshooting"]
+tags: ["amplifiers", "maintenance", "modes", "operating", "safety", "transmission-lines", "troubleshooting"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Veelvoorkomende storingen verhelpen"]
----
 
 # Common Troubleshooting
 

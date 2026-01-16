@@ -1,12 +1,21 @@
+id: 202512301555
+title: Aperture Antennas
+tags: ["antennas", "formulas", "math", "microwave"]
+created: 2025-12-30
+type: permanent-note
+modified: 2025-12-30
+
+aliases: ["Schotelantennes", "Hoornantennes"]
+
 # Aperture Antennas
 
-Antennas that use a surface area (aperture) to capture or focus radio waves, typically used at [UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) and Microwave frequencies ($\lambda < 10$ cm).
+Antennas that use a surface area (aperture) to capture or focus radio waves, typically used at [UHF](../07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) and Microwave frequencies ($\lambda < 10$ cm).
 
 ## 1. Parabolic Reflector (Dish)
 Uses a parabolic surface to focus incoming parallel waves to a single point (Focus).
 *   **Gain**: Depends on the diameter ($D$) relative to wavelength ($\lambda$).
     *   Formula: $G \approx 10 \log \eta (\frac{\pi D}{\lambda})^2$
-    *   Rule of thumb: To get significant gain (> 10-15 [dB](../00_basic_skills.md)), diameter should be at least $3\lambda$.
+    *   Rule of thumb: To get significant gain (> 10-15 dB), diameter should be at least $3\lambda$.
 *   **Beamwidth**: Very narrow.
     *   $\psi \approx 70 \frac{\lambda}{D}$ degrees.
 *   **Feed**: [Dipole](02_The_Dipole_Antenna.md) or Horn antenna placed at the focus.

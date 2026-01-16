@@ -3,7 +3,7 @@
 [< Back to Main Index](README.md)
 
 
-# Eindterm 13: Conduct (Gedragsregels)
+# Operator Conduct
 
 ## Social Responsibility
 Amateur radio operators are privileged to use a wide range of frequencies and high power levels. With this freedom comes the responsibility to prevent chaos on the airwaves. Operators must:
@@ -17,7 +17,7 @@ Before pressing the PTT (Push-to-Talk) button, always **listen first** to ensure
 ## Emergency Communications
 In times of disaster, amateur radio often serves as a resilient backup when commercial infrastructure fails.
 *   **DARES:** In the [Netherlands](12_regulations/10_Operating_Rules_Netherlands.md), the *Dutch Amateur Radio Emergency Service* coordinates these efforts.
-*   **[Emergency Signals](11_procedures.md):**
+*   **Emergency Signals:**
     *   **MAYDAY:** Used only when there is an immediate threat to life or vessel.
     *   **PAN PAN:** Indicates an urgent situation that is not yet life-threatening.
 

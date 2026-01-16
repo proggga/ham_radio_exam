@@ -1,13 +1,11 @@
----
 id: 202512292008
 title: SI Units & Prefixes
-tags: ["ham-radio", "basic-skills", "math"]
+tags: ["basics", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Eenheden", "Voorvoegsels", "SI-stelsel"]
----
 
 # SI Units & Prefixes
 

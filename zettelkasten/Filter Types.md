@@ -1,13 +1,11 @@
----
 id: 202512292042
 title: Filter Types
-tags: ["ham-radio", "circuits", "filters"]
+tags: ["circuits", "filters", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Soorten filters", "Bandfilters", "Laagdoorlaat", "Hoogdoorlaat"]
----
 
 # Filter Types
 

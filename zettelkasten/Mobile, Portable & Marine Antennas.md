@@ -1,13 +1,11 @@
----
 id: 202512311700
 title: Mobile, Portable & Marine Antennas
-tags: ["ham-radio", "antennas", "mobile", "marine"]
+tags: ["antennas", "marine", "mobile", "safety"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Mobiele antennes", "Maritieme antennes"]
----
 
 # Mobile, Portable & Marine Antennas
 

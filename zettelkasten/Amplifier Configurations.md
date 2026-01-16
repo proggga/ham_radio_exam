@@ -1,13 +1,11 @@
----
 id: 202512302345
 title: Amplifier Configurations
-tags: ["ham-radio", "circuits", "amplifiers"]
+tags: ["amplifiers", "circuits", "mnemonics", "semiconductors"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["Versterkerschakelingen", "GGS", "GCS", "GDS"]
----
 
 # Amplifier Configurations
 

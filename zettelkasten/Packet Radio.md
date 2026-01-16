@@ -1,10 +1,7 @@
 ---
 id: 202501111605
 title: Packet Radio
-tags:
-  - ham-radio
-  - digital
-  - protocols
+tags: ["digital", "protocols"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11

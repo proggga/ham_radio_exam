@@ -1,16 +1,11 @@
----
 id: 202512292152
 title: Digital Processing Techniques
-tags:
-  - ham-radio
-  - dsp
-  - algorithms
+tags: ["algorithms", "dsp", "filters", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Digitale verwerkingstechnieken"]
----
 
 # Digital Processing Techniques
 

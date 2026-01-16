@@ -1,13 +1,11 @@
----
 id: 202301011201
 title: "Atomic Theory & Conductivity"
-tags: ["ham-radio", "electricity", "index"]
+tags: ["electricity", "index", "ionosphere", "semiconductors"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Atoomtheorie en geleiding"]
----
 
 # Atomic Theory & Conductivity
 

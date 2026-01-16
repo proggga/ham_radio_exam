@@ -1,13 +1,11 @@
----
 id: 202301011231
 title: "Power Amplifiers and Matching"
-tags: ["ham-radio", "transmitters"]
+tags: ["amplifiers", "filters", "modes", "semiconductors", "transmission-lines", "transmitters"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Eindversterkers en aanpassing"]
----
 
 # Power Amplifiers and Matching
 

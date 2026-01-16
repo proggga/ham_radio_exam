@@ -1,16 +1,11 @@
----
 id: 202301011211
 title: "Map: Digital Signal Processing (DSP)"
-tags:
-  - ham-radio
-  - dsp
-  - map
+tags: ["dsp", "filters", "map", "math"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Digitale signaalbewerking", "DSP"]
----
 
 # Digital Signal Processing (DSP)
 

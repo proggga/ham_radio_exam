@@ -1,13 +1,11 @@
----
 id: 202512292046
 title: High-Performance Filters
-tags: ["ham-radio", "circuits", "filters"]
+tags: ["circuits", "filters", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Hoogwaardige filters"]
----
 
 # High-Performance Filters
 

@@ -1,13 +1,11 @@
----
 id: 202512292037
 title: Sequential Logic
-tags: ["ham-radio", "digital", "logic"]
+tags: ["digital", "formulas", "logic", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Sequentiële logica"]
----
 
 # Sequential Logic
 

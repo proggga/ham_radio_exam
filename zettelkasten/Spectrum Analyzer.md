@@ -1,13 +1,11 @@
----
 id: 202512302360
 title: Spectrum Analyzer
-tags: ["ham-radio", "measurements", "equipment"]
+tags: ["equipment", "math", "measurements", "modes", "oscillators"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
 
 aliases: ["Spectrumanalyzer"]
----
 
 # Spectrum Analyzer
 

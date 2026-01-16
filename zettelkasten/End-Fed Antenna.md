@@ -1,15 +1,11 @@
----
 id: 202501101409
 title: End-Fed Antenna
-tags:
-  - ham-radio
-  - antennas
+tags: ["antennas", "formulas", "safety", "transmission-lines"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
 aliases: ["Eindgevoede antenne", "End-Fed Half Wave", "EFHW", "Zeppelin antenne"]
----
 
 # End-Fed Antenna
 

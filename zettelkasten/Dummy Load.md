@@ -1,13 +1,11 @@
----
 id: 202512292113
 title: Dummy Load
-tags: ["ham-radio", "measurements", "equipment", "safety"]
+tags: ["equipment", "measurements", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Kunstantenne", "Dummy load"]
----
 
 # Dummy Load (Kunstantenne)
 

@@ -1,16 +1,11 @@
----
 id: 202512292193
 title: Smith Chart
-tags:
-  - ham-radio
-  - antennas
-  - measurements
+tags: ["antennas", "formulas", "math", "measurements", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Smith-kaart", "Smith-diagram"]
----
 
 # Smith Chart
 

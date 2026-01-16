@@ -1,3 +1,12 @@
+id: 202512291802
+title: "Electrical Charge (Coulomb)"
+tags: ["electricity", "formulas", "units"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["Elektrische lading", "Coulomb"]
+
 # Electrical Charge
 
 Electrical charge is a fundamental property of matter carried by protons and electrons.
@@ -16,7 +25,7 @@ The SI unit of charge is the **Coulomb (C)**.
 Charge is the basis for electric current.
 *   **Current ($I$):** The flow of charge ($Q$) over time ($t$).
     $$I = \frac{Q}{t}$$
-    (See [Voltage, Current, and Ohm's Law](07_Voltage,_Current,_and_Ohm's_Law.md))
+    (See [Voltage, Current, and Ohm's Law](06_Voltage,_Current,_and_Ohm's_Law.md))
 
 ---
 [< Back to Section Index](README.md)

@@ -3,22 +3,31 @@
 [< Back to Main Index](README.md)
 
 
+id: 202301011249
+title: "Rules & Procedures"
+tags: ["index", "modes", "procedures", "regulations", "safety"]
+created: 2025-12-29
+type: index
+modified: 2025-12-29
+
+aliases: ["Regels en procedures"]
+
 # Rules & Procedures
 
 This map covers the operational procedures, codes, and regulations for amateur radio contacts.
 
 ## The Contact (QSO)
-*   **[Amateur Radio Activities](11_procedures.md)** - Types of operation (DX, Contesting, etc.).
-*   **[Standard QSO Procedure](11_procedures.md)** - How to make a contact and exchange information.
-*   **[Call Signs](11_procedures.md)** - Station identification structure.
+*   **Amateur Radio Activities** - Types of operation (DX, Contesting, etc.).
+*   **Standard QSO Procedure** - How to make a contact and exchange information.
+*   **Call Signs** - Station identification structure.
 
 ## Reference Codes
-*   **[Phonetic Alphabet](11_procedures.md)** - NATO alphabet for clear communication.
-*   **[Q-Codes](11_procedures.md)** - 3-letter codes for efficient traffic (QTH, QSL, etc.).
-*   **[CW Abbreviations & Prosigns](01_electricity/33_CW_Abbreviations_&_Prosigns.md)** - Shorthand for Morse code (73, 88, BK).
+*   **Phonetic Alphabet** - NATO alphabet for clear communication.
+*   **Q-Codes** - 3-letter codes for efficient traffic (QTH, QSL, etc.).
+*   **CW Abbreviations & Prosigns** - Shorthand for Morse code (73, 88, BK).
 
 ## Safety & Emergency
-*   **[Emergency Signals](11_procedures.md)** - SOS and MAYDAY.
+*   **Emergency Signals** - SOS and MAYDAY.
 *   **[Electrical Safety](10_safety/01_Electrical_Safety.md)** - General safety guidelines.
 
 ## Regulatory
@@ -27,200 +36,14 @@ This map covers the operational procedures, codes, and regulations for amateur r
 ---
 
 
-# Amateur Radio Activities
+id: 202512311300
+title: Repeater Operation
+tags: ["operating", "regulations", "safety", "uhf", "vhf"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
 
-Amateur radio is a versatile hobby with many different aspects, allowing operators to specialize in areas that interest them most.
-
-## Key Activities
-
-*   **Homebrew & Experimentation**: The technical side of the hobby involving designing and building radios, antennas, and accessories.
-*   **DXing**: The pursuit of contacts with distant or rare stations ("DX"). This often involves tracking solar conditions and using efficient antennas. See [The Ionosphere](07_propagation/14_The_Ionosphere.md).
-*   **Contesting**: Competitive operating where the goal is to make as many contacts as possible within a set time.
-    *   *Exchange:* Operators typically exchange specific information like **RST** + **Serial Number** or **Grid Locator**.
-*   **Field Days**: Operating portable stations from temporary locations (e.g., open fields) to practice emergency readiness and enjoy low-noise reception away from urban QRM.
-*   **Fox Hunting (Vossenjacht)**: A sport involving finding hidden transmitters using direction-finding equipment. See [Radio Direction Finding (RDF)](08_measurements/09_Radio_Direction_Finding_RDF.md).
-
-## Grid Locators (Maidenhead)
-A geographic coordinate system used by radio amateurs to succinctly describe their location.
-*   **Format**: Pairs of letters and numbers (e.g., **JO22** or **JO22eb**).
-    *   **Field**: 2 Letters (e.g., **JO**). Covers large area.
-    *   **Square**: 2 Digits (e.g., **22**). $1^\circ$ Latitude by $2^\circ$ Longitude.
-    *   **Subsquare**: 2 Letters (e.g., **eb**). More precise.
-*   **Usage**: Essential for [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) contesting and determining distance/bearing.
-
-## Listening
-You don't need a transmitter to participate. **[WebSDR](04_receivers/06_Software_Defined_Radio_SDR.md)** sites (like the University of Twente's receiver) allow anyone to listen to amateur bands via a web browser. This is an excellent way to become familiar with [Standard QSO Procedure](11_procedures.md).
-
----
-
-
-# Standard QSO Procedure
-
-A standard contact (QSO) in amateur radio typically follows a structured format to ensure efficient communication.
-
-## The Sequence
-
-1.  **Calling CQ**: A general call inviting anyone to reply.
-    *   Voice: "CQ CQ CQ this is PA0ABC..."
-    *   [CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md): "CQ CQ CQ DE PA0ABC K"
-2.  **The Exchange**: Once contact is established, operators exchange essential information:
-    *   **Signal Report (RST)**: Readability, Strength, and Tone.
-    *   **Name & QTH**: The operator's name and location. The location is often given as a **Maidenhead Grid Locator** (e.g., JO22).
-3.  **Closing**: The contact ends with "73" (Best Regards).
-
-## Signal Reporting (RST)
-
-The RST system is used to describe signal quality:
-
-*   **R (Readability)**: 1 to 5 scale.
-    *   1 = Unreadable
-    *   5 = Perfectly readable
-*   **S (Strength)**: 1 to 9 scale.
-    *   1 = Faint signal
-    *   9 = Very strong signal
-    *   Signals stronger than S9 are reported as "S9 plus [dB](00_basic_skills.md)" (e.g., "59 + 20dB").
-*   **T (Tone)**: 1 to 9 scale ([CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md) only).
-    *   1 = Very rough, broad AC note
-    *   9 = Perfect sine wave
-
-## Voice Prowords (Procedure Words)
-Standard words used to clarify communication:
-*   **"Over"**: I have finished speaking, expecting a reply.
-*   **"Out"**: I have finished speaking, no reply expected. (Never say "Over and Out").
-*   **"Roger"**: I have received and understood your last transmission.
-*   **"Wilco"**: I will comply (Will Do).
-*   **"Say Again"**: Please repeat.
-*   **"Break"**: I am interrupting (often for emergency or urgent traffic).
-*   **"Standby"**: Wait a moment.
-
-## QSL Cards
-A **QSL card** is a written confirmation of a radio contact.
-*   **Physical Cards**: Often sent via a **QSL Bureau** or direct mail.
-*   **Digital**: Services like **Logbook of the World (LoTW)** or **eQSL** provide electronic confirmation.
-
----
-
-
-# Call Signs
-
-A call sign is the unique identifier for an amateur radio station.
-
-## Structure
-A standard amateur call sign consists of:
-1.  **Prefix**: Indicates the country (e.g., PA, K, G, JA).
-2.  **Number**: Usually indicates a region or license class (e.g., 0-9).
-3.  **Suffix**: Unique identifier for the station (1-3 letters).
-
-## Dutch Call Signs (Netherlands)
-*   **Assigned Series:** **PA** to **PI**.
-*   **Full License (F-[Registration](12_regulations/05_Licensing_in_the_Netherlands.md)):**
-    *   **PA, PB, PC, PE, PF, PG, PH** followed by a number (0-5, 7-9).
-    *   Suffix: 1 to 3 letters.
-*   **Novice License (N-Registration):**
-    *   **PD** followed by a number (0-5, 7-9).
-*   **Special Use (Verenigingen/Contest):**
-    *   **PI** followed by a number (usually 4 for societies).
-    *   Number **6** is often used for special events/contests.
-*   **Caribbean [Netherlands](12_regulations/10_Operating_Rules_Netherlands.md):** **PJ** (e.g., PJ2, PJ4).
-*   **Suriname:** **PZ**.
-
-## Forbidden Suffixes
-Certain combinations are not issued to avoid confusion:
-*   **SOS** (Distress signal).
-*   **QOA** to **QUZ** (Q-codes).
-
-## Operating Abroad / Special Conditions
-*   **Visitor in NL:** Uses home call prefixed with **PA/** (Full) or **PD/** (Novice). Example: `PA/DL1ABC`.
-*   **Portable:** `/P` (Portable) - Operating away from the home station.
-*   **Mobile:** `/M` (Mobile) - Operating from a vehicle.
-*   **Maritime Mobile:** `/MM` - Operating from a vessel at sea.
-*   **Aeronautical Mobile:** `/AM` - Operating from an aircraft.
-
-See [Rules & Procedures](11_procedures.md) for broader rules.
-
----
-
-
-# Phonetic Alphabet
-
-The NATO phonetic alphabet is used internationally to spell out call signs and names clearly, especially when signals are weak or interference is present.
-
-| Letter | Word     | Letter | Word     |
-| :---   | :---     | :---   | :---     |
-| **A**  | Alfa     | **N**  | November |
-| **B**  | Bravo    | **O**  | Oscar    |
-| **C**  | Charlie  | **P**  | Papa     |
-| **D**  | Delta    | **Q**  | Quebec   |
-| **E**  | Echo     | **R**  | Romeo    |
-| **F**  | Foxtrot  | **S**  | Sierra   |
-| **G**  | Golf     | **T**  | Tango    |
-| **H**  | Hotel    | **U**  | Uniform  |
-| **I**  | India    | **V**  | Victor   |
-| **J**  | Juliett  | **W**  | Whiskey  |
-| **K**  | Kilo     | **X**  | X-ray    |
-| **L**  | Lima     | **Y**  | Yankee   |
-| **M**  | Mike     | **Z**  | Zulu     |
-
-## Usage
-When identifying, spell your call sign phonetically:
-*   *PA0ABC* becomes **Papa Alfa Zero Alfa Bravo Charlie**.
-
----
-
-
-# Q-Codes
-
-Q-codes are three-letter codes starting with Q. They were originally developed for telegraphy to save time but are widely used in voice communications as well.
-
-A question mark after the code turns it into a question.
-
-## Common Q-Codes (Exam Topic)
-
-| Code | Question (?) | Answer / Advice | Mnemonic |
-| :--- | :--- | :--- | :--- |
-| **QRA** | What is the name of your station? | The name of my station is... | |
-| **QRG** | Will you tell me my exact frequency? | Your exact frequency is... | |
-| **QRK** | What is the readability of my signals? | The readability of your signals is (1-5). | **K**waliteit |
-| **QRL** | Are you busy? | I am busy. | |
-| **QRM** | Is my transmission being interfered with? | You are being interfered with (**Man-made**). | **M**an-made |
-| **QRN** | Are you troubled by static? | I am troubled by static (**Natural/Atmospheric**). | **N**atural |
-| **QRO** | Shall I increase transmitter power? | Increase transmitter power. | **O**phogen |
-| **QRP** | Shall I decrease transmitter power? | Decrease transmitter power (Low power). | **P**etty (Small) |
-| **QRT** | Shall I stop sending? | Stop sending (Closing down). | s**T**op |
-| **QRV** | Are you ready? | I am ready. | a**V**ailable |
-| **QRX** | When will you call me again? | Call me again at ... (Wait). | **X** (Time/Cross) |
-| **QRZ** | Who is calling me? | You are being called by... | **Z**ijt gij? |
-| **[QSB](07_propagation/18_Fading_QSB.md)** | Are my signals fading? | Your signals are fading. | **S**lenk en **B**ult |
-| **QSL** | Can you acknowledge receipt? | I acknowledge receipt (Confirm contact). | **L**ezen |
-| **QSO** | Can you communicate with ...? | I can communicate with ... (Contact). | **O**ver |
-| **QSY** | Shall I change frequency? | Change frequency to ... | Zwaa**Y** |
-| **QTH** | What is your position/location? | My position/location is... | **H**ome |
-
-## Usage Note
-In voice operation, these are often used as nouns or verbs: "I have a lot of QRM here" or "Let's QSY to 14.250".
-
----
-
-
-# Emergency Signals
-
-Emergency signals have absolute priority over all other communications.
-
-## Telegraphy (CW)
-*   **SOS**: `... --- ...` (Save Our Souls).
-*   Sent as a single continuous sequence without spaces between letters.
-
-## Telephony (Voice)
-*   **MAYDAY**: From French "m'aidez" (help me).
-*   Used only when there is grave and imminent danger to life or vessel.
-
-## Amateur Radio Emergency Communication
-In times of disaster, amateur radio operators may form emergency networks (e.g., ARES, RAYNET) to provide communications when standard infrastructure fails.
-
-See [Electrical Safety](10_safety/01_Electrical_Safety.md) for personal safety guidelines.
-
----
-
+aliases: ["Repeatergebruik"]
 
 # Repeater Operation
 
@@ -229,8 +52,8 @@ Repeaters are automated stations that receive a signal on one frequency and simu
 ## Basic Operation
 *   **Duplex**: Repeaters operate in duplex mode. They listen on an **Input** frequency and transmit on an **Output** frequency.
 *   **Offset (Shift)**: The difference between the input and output frequencies.
-    *   **2 meters ([VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **600 kHz** (0.6 MHz).
-    *   **70 cm ([UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **5 MHz**.
+    *   **2 meters ([VHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **600 kHz** (0.6 MHz).
+    *   **70 cm ([UHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md))**: Usually **5 MHz**.
     *   **Direction**: Can be Positive (+) or Negative (-).
     *   *Example:* Output 146.940 MHz minus 0.6 MHz offset = Input 146.340 MHz.
 
@@ -250,13 +73,22 @@ To prevent interference, repeaters often require a specific low-frequency audio 
 ---
 
 
+id: 202512310012
+title: Common Transceiver Controls
+tags: ["amplifiers", "equipment", "modes", "operating", "oscillators"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Bedieningsorganen"]
+
 # Common Transceiver Controls
 
 Understanding transceiver controls is essential for proper operation and signal quality.
 
 ## Transmitter Controls
-*   **[Microphone](04_receivers/09_Station_Accessories.md) Gain (Mic Gain)**: Controls the audio level sent to the transmitter.
-    *   *Excessive Gain:* Causes **distortion** and splattering (over-deviation in [FM](01_electricity/35_Frequency_Modulation_FM.md), flat-topping/splatter in [SSB](01_electricity/34_Single_Sideband_SSB.md)).
+*   **[Microphone](04_receivers/07_Station_Accessories.md) Gain (Mic Gain)**: Controls the audio level sent to the transmitter.
+    *   *Excessive Gain:* Causes **distortion** and splattering (over-deviation in FM, flat-topping/splatter in SSB).
 *   **Power Output**: Adjustable power level. Use the minimum power necessary to maintain contact.
 *   **VOX (Voice Operated Exchange)**: Automatically switches to transmit when you speak.
     *   *Anti-VOX:* Prevents speaker audio from tripping the VOX.
@@ -270,10 +102,10 @@ Understanding transceiver controls is essential for proper operation and signal 
     *   *Too High:* Weak signals are blocked.
     *   *Too Low:* Constant static noise.
 *   **RIT / Clarifier (Receiver Incremental Tuning)**: Changes the *receive* frequency without changing the *transmit* frequency.
-    *   *Use:* To tune in a station that is slightly off-frequency (e.g., voice sounds like Donald Duck in [SSB](01_electricity/34_Single_Sideband_SSB.md)) without shifting your own transmit frequency.
+    *   *Use:* To tune in a station that is slightly off-frequency (e.g., voice sounds like Donald Duck in SSB) without shifting your own transmit frequency.
 *   **RF Gain**: Adjusts the sensitivity of the receiver's RF amplifier stage. Reducing it can help with strong local signals.
-*   **[AGC](04_receivers/04_Automatic_Gain_Control_AGC.md) ([Automatic Gain Control](04_receivers/04_Automatic_Gain_Control_AGC.md))**: Automatically adjusts gain to keep audio volume constant despite fading.
-    *   *Settings:* Fast ([CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md)), Slow ([SSB](01_electricity/34_Single_Sideband_SSB.md)), Off.
+*   **AGC (Automatic Gain Control)**: Automatically adjusts gain to keep audio volume constant despite fading.
+    *   *Settings:* Fast (CW), Slow (SSB), Off.
 
 ## Function Controls
 *   **Memory**: Stores frequencies for quick recall.
@@ -285,6 +117,15 @@ Understanding transceiver controls is essential for proper operation and signal 
 ---
 
 
+id: 202512311410
+title: Common Troubleshooting
+tags: ["amplifiers", "maintenance", "modes", "operating", "safety", "transmission-lines", "troubleshooting"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Veelvoorkomende storingen verhelpen"]
+
 # Common Troubleshooting
 
 Diagnosing and fixing common station problems is a key skill for any radio operator.
@@ -292,11 +133,11 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 ## Audio Problems
 
 ### Distorted Audio (Transmit)
-*   **Over-Deviation ([FM](01_electricity/35_Frequency_Modulation_FM.md))**: Audio is too loud and clipped.
+*   **Over-Deviation (FM)**: Audio is too loud and clipped.
     *   *Cause:* Talking too close to the microphone or Mic Gain too high.
-    *   *Fix:* Speak farther away ("Eat the mic" is bad for [FM](01_electricity/35_Frequency_Modulation_FM.md)) or turn down Mic Gain.
+    *   *Fix:* Speak farther away ("Eat the mic" is bad for FM) or turn down Mic Gain.
 *   **RF Feedback**: Audio sounds garbled, buzzing, or has a "motorboat" sound.
-    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/23_Standing_Wave_Ratio_SWR.md) or poor grounding.
+    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high SWR or poor grounding.
     *   *Fix:* Install a **Ferrite Choke** on the microphone cable. Improve station [RF Ground](11_procedures.md).
 *   **Low Voltage**: Audio sounds "warbly" or weak.
     *   *Cause:* Battery low or high resistance connection causing voltage drop during transmit peaks.
@@ -305,12 +146,12 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 ### Hum (Receive/Transmit)
 *   **Ground Loop**: A low-frequency hum (50/60 Hz) on the signal.
     *   *Cause:* Current flowing through the ground shield of audio cables between equipment (e.g., PC and Radio) powered from different AC outlets.
-    *   *Fix:* Use **Audio Isolation [Transformers](02_components/10_Transformers.md)** or optical isolators. Connect all equipment to a **Single Point Ground**.
+    *   *Fix:* Use **Audio Isolation [Transformers](02_components/04_Transformers.md)** or optical isolators. Connect all equipment to a **Single Point Ground**.
 
 ## Antenna & Power Problems
 
 ### High SWR
-*   **Intermittent [SWR](06_antennas/23_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
+*   **Intermittent SWR**: Readings jump around (erratic).
     *   *Cause:* Loose connection (PL-259), bad solder joint, or corroded connector.
     *   *Fix:* Wiggle cables to find the fault. Resolder or replace connectors.
 *   **High SWR (Constant)**:
@@ -318,13 +159,22 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
     *   *Fix:* Test with a **[Dummy Load](06_antennas/15_Dummy_Load.md)** at the end of the coax to rule out the cable. Check antenna dimensions.
 
 ### Mobile Noise
-*   **Ignition [Noise](01_electricity/26_AC_Signals_&_Noise.md)**: Popping sound varying with engine RPM.
-    *   *Fix:* Use **[Resistor](02_components/01_Resistors.md) Spark Plugs**. Turn on the radio's **[Noise](01_electricity/26_AC_Signals_&_Noise.md) Blanker (NB)**.
+*   **Ignition [Noise](01_electricity/14_AC_Signals_&_Noise.md)**: Popping sound varying with engine RPM.
+    *   *Fix:* Use **[Resistor](02_components/01_Resistors.md) Spark Plugs**. Turn on the radio's **[Noise](01_electricity/14_AC_Signals_&_Noise.md) Blanker (NB)**.
 *   **Alternator Whine**: Whine varying with engine RPM.
     *   *Fix:* Install power line filters (capacitors/chokes) on the radio's DC power lead. Connect radio power **directly to the battery**.
 
 ---
 
+
+id: 202512310005
+title: Station Setup Guidelines
+tags: ["equipment", "formulas", "modes", "operating", "safety", "transmission-lines"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Station inrichten"]
 
 # Station Setup Guidelines
 
@@ -346,7 +196,7 @@ Proper grounding serves two distinct purposes: **[Electrical Safety](10_safety/0
 
 ### RF Ground
 *   **Purpose**: Provides a low-impedance return path for RF currents, prevents "hot chassis" (RF burns), and improves antenna efficiency (especially for [HF](07_propagation/01_Propagation_Basics.md) verticals/long wires).
-*   **Conductor**: RF flows on the surface of a conductor (**[Skin Effect](01_electricity/45_Skin_Effect.md)**). Use wide **Copper Strap** or flat braid. Round wire has high impedance (inductance) at RF.
+*   **Conductor**: RF flows on the surface of a conductor (**[Skin Effect](01_electricity/23_Skin_Effect.md)**). Use wide **Copper Strap** or flat braid. Round wire has high impedance (inductance) at RF.
 *   **Configuration**:
     *   **Single Point Ground**: Connect all equipment to a common bus bar behind the station. Connect the bus bar to an external ground rod with a short, wide strap.
     *   **Avoid Loops**: Do not daisy-chain equipment (A -> B -> C -> Ground).
@@ -369,12 +219,12 @@ Digital modes ([FT8](11_procedures.md), RTTY, Packet) require interfacing the ra
 *   **Control (CAT/PTT)**:
     *   **CAT (Computer Aided Transceiver)**: Allows the PC to control frequency/mode.
     *   **PTT**: Via VOX (Voice Operated), CAT command, or Serial Port (RTS/DTR) keying.
-*   **Isolation**: Use **Isolation [Transformers](02_components/10_Transformers.md)** for audio and **Optocouplers** for PTT/Keying to prevent ground loops and hum.
+*   **Isolation**: Use **Isolation [Transformers](02_components/04_Transformers.md)** for audio and **Optocouplers** for PTT/Keying to prevent ground loops and hum.
 
 ## 4. Antenna Positioning
 *   **Clearance**: Keep antennas away from power lines (fall distance + margin).
 *   **EMC**: Place antennas as far as possible from household electronics to reduce interference pickup and RFI causing issues.
-*   **Feedline**: Use high-quality coax (RG-213, LMR-400) for long runs, especially at [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md).
+*   **Feedline**: Use high-quality coax (RG-213, LMR-400) for long runs, especially at [VHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md).
 
 ## 5. Siting (Military/Field)
 *   **High Ground**: Maximizes Line-of-Sight range.
@@ -384,6 +234,15 @@ Digital modes ([FT8](11_procedures.md), RTTY, Packet) require interfacing the ra
 ---
 
 
+id: 202512310006
+title: Satellite Operation
+tags: ["modes", "operating", "regulations", "space"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Satellietverbindingen"]
+
 # Satellite Operation
 
 Amateur radio satellites act as "repeaters in space," receiving signals on one band (Uplink) and retransmitting them on another (Downlink).
@@ -392,22 +251,22 @@ Amateur radio satellites act as "repeaters in space," receiving signals on one b
 *   **LEO (Low Earth Orbit)**: Most amateur satellites are LEO (altitude 99-1200 miles).
     *   *Pass Duration:* Short, typically 10-20 minutes.
 *   **Uplink/Downlink**: The frequencies used.
-    *   **Mode U/V**: Uplink on [UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm), Downlink on [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (2m).
-    *   **Mode V/U**: Uplink on [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (2m), Downlink on [UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm).
+    *   **Mode U/V**: Uplink on [UHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm), Downlink on [VHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) (2m).
+    *   **Mode V/U**: Uplink on [VHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) (2m), Downlink on [UHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) (70cm).
 *   **Transponder Modes**:
-    *   **[FM](01_electricity/35_Frequency_Modulation_FM.md)**: Single channel, similar to a terrestrial repeater.
-    *   **Linear ([SSB](01_electricity/34_Single_Sideband_SSB.md)/[CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md))**: A "passband" transponder that retransmits a range of frequencies (e.g., 20-100 kHz wide). Multiple QSOs can happen simultaneously.
+    *   **FM**: Single channel, similar to a terrestrial repeater.
+    *   **Linear (SSB/CW)**: A "passband" transponder that retransmits a range of frequencies (e.g., 20-100 kHz wide). Multiple QSOs can happen simultaneously.
 
 ## Operating Procedures
-1.  **Power**: Use the **minimum power** necessary. Excessive power triggers the satellite's [AGC](04_receivers/04_Automatic_Gain_Control_AGC.md) ([Automatic Gain Control](04_receivers/04_Automatic_Gain_Control_AGC.md)), reducing sensitivity for everyone else ("Alligator" - all mouth, no ears).
+1.  **Power**: Use the **minimum power** necessary. Excessive power triggers the satellite's AGC (Automatic Gain Control), reducing sensitivity for everyone else ("Alligator" - all mouth, no ears).
 2.  **Tracking**: You must track the satellite's position (Azimuth and Elevation) as it moves across the sky.
 3.  **[Doppler Shift](07_propagation/03_Doppler_Shift.md)**: The frequency changes as the satellite moves toward (higher freq) or away (lower freq) from you.
-    *   *Correction:* You must adjust your transmit/receive frequency continuously during the pass. [UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) requires more correction than VHF.
-    *   *Spin [Fading](07_propagation/18_Fading_QSB.md):* Periodic signal fading caused by the rotation of the satellite and its antennas.
+    *   *Correction:* You must adjust your transmit/receive frequency continuously during the pass. [UHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) requires more correction than VHF.
+    *   *Spin Fading:* Periodic signal fading caused by the rotation of the satellite and its antennas.
 
 ## International Space Station (ISS)
 *   **Privileges**: Any amateur with a Technician class license (or equivalent) can contact the ISS.
-*   **Modes**: [FM](01_electricity/35_Frequency_Modulation_FM.md) Voice, Packet ([APRS](11_procedures.md)), and [SSTV](11_procedures.md).
+*   **Modes**: FM Voice, Packet ([APRS](11_procedures.md)), and [SSTV](11_procedures.md).
 
 ## Telemetry
 *   **Beacons**: Satellites often transmit a beacon signal with health and status information.
@@ -416,29 +275,47 @@ Amateur radio satellites act as "repeaters in space," receiving signals on one b
 ---
 
 
+id: 202512311430
+title: Earth-Moon-Earth (EME)
+tags: ["ionosphere", "math", "modes", "operating", "propagation", "weak-signal"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["EME", "Maanstuiter"]
+
 # Earth-Moon-Earth (EME)
 
 Also known as **Moonbounce**, EME is a technique where radio signals are aimed at the Moon and reflected back to Earth to communicate with distant stations.
 
 ## Characteristics
-*   **Path Loss**: Extremely high ($\approx 250 \text{ [dB](00_basic_skills.md)}$ round trip). Only a tiny fraction of the energy reflects off the Moon's surface.
+*   **Path Loss**: Extremely high ($\approx 250 \text{ dB}$ round trip). Only a tiny fraction of the energy reflects off the Moon's surface.
 *   **Requirements**:
     *   **High Power**: Usually legal limit (1500W).
     *   **High Gain Antennas**: Arrays of long Yagis or large Dishes.
-    *   **Low [Noise](01_electricity/26_AC_Signals_&_Noise.md) Preamplifiers**: Essential at the antenna to hear the weak echo.
+    *   **Low [Noise](01_electricity/14_AC_Signals_&_Noise.md) Preamplifiers**: Essential at the antenna to hear the weak echo.
 *   **Frequencies**: Typically **50 MHz (6m)** to **10 GHz**, with **144 MHz (2m)** and **1296 MHz (23cm)** being most popular.
 
 ## Challenges
-*   **Libration [Fading](07_propagation/18_Fading_QSB.md)**: Rapid fluttering of the signal caused by the Moon's "wobble" (Libration).
+*   **Libration Fading**: Rapid fluttering of the signal caused by the Moon's "wobble" (Libration).
 *   **[Doppler Shift](07_propagation/03_Doppler_Shift.md)**: The frequency changes as the Moon moves relative to the Earth.
 *   **Faraday Rotation**: The polarization of the signal rotates as it passes through the ionosphere.
 
 ## Modes
-*   **[CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md)**: Traditional mode, still used.
+*   **CW**: Traditional mode, still used.
 *   **Digital (JT65 / Q65)**: Part of the **WSJT-X** suite. Designed specifically for EME to decode signals far below the noise floor.
 
 ---
 
+
+id: 202512311420
+title: Image Modes (SSTV & ATV)
+tags: ["image", "modes", "operating", "regulations"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Beeldmodi", "SSTV", "ATV"]
 
 # Image Modes (SSTV & ATV)
 
@@ -446,25 +323,34 @@ Amateur radio operators can transmit still pictures and real-time video using sp
 
 ## 1. SSTV (Slow Scan Television)
 SSTV is used to transmit **still images** (like a fax) over voice-bandwidth channels.
-*   **[Bandwidth](03_circuits/07_Bandwidth.md)**: Fits within a standard 3 kHz [SSB](01_electricity/34_Single_Sideband_SSB.md) or [FM](01_electricity/35_Frequency_Modulation_FM.md) voice channel.
+*   **Bandwidth**: Fits within a standard 3 kHz SSB or FM voice channel.
 *   **Transmission Time**: Takes 8 to 120 seconds to send one image (depending on the mode/resolution).
-*   **Technology**: Audio tones vary in frequency to represent brightness and color ([FM](01_electricity/35_Frequency_Modulation_FM.md) subcarrier).
-*   **Frequencies**: Popular on [20m Band](07_propagation/23_20m_Band.md) (14.230 MHz) and [2m](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) [FM](01_electricity/35_Frequency_Modulation_FM.md) (145.800 MHz from the **ISS**).
+*   **Technology**: Audio tones vary in frequency to represent brightness and color (FM subcarrier).
+*   **Frequencies**: Popular on [20m Band](07_propagation/13_20m_Band.md) (14.230 MHz) and [2m](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) FM (145.800 MHz from the **ISS**).
 *   **Software**: MMSSTV, QSSTV.
 
 ## 2. ATV (Amateur Television)
 ATV involves transmitting **real-time video** and audio (like broadcast TV).
 *   **Fast-Scan TV (FSTV)**:
-    *   **[Bandwidth](03_circuits/07_Bandwidth.md)**: Very wide (6 MHz), similar to old analog broadcast TV (NTSC/PAL).
+    *   **Bandwidth**: Very wide (6 MHz), similar to old analog broadcast TV (NTSC/PAL).
     *   **Bands**: Restricted to **70cm (420 MHz)** and higher frequencies because of the bandwidth requirement.
 *   **Digital ATV (DATV)**: Uses digital encoding (DVB-S/DVB-T) for better quality and efficiency.
 
 ## Regulations
 *   **Indecency**: Transmitting obscene or indecent images is strictly prohibited.
-*   **Identification**: You must identify your station (voice or [CW](01_electricity/33_CW_Abbreviations_&_Prosigns.md)) periodically, even if the image contains your callsign.
+*   **Identification**: You must identify your station (voice or CW) periodically, even if the image contains your callsign.
 
 ---
 
+
+id: 202512310007
+title: Modern Digital Modes
+tags: ["digital", "modes", "operating", "regulations"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Moderne digitale modi"]
 
 # Modern Digital Modes
 
@@ -514,7 +400,7 @@ Designed for communication with extremely weak signals (often below the noise fl
 *   **Characteristics**: 15-second transmit intervals.
 *   **Synchronization**: Requires precise computer clock time (< 1 second error).
 *   **Automation**: QSOs are semi-automated (structured exchange of signal report and location).
-*   **[Bandwidth](03_circuits/07_Bandwidth.md)**: Very narrow (50 Hz), allowing many stations to operate in a small slice of the band.
+*   **Bandwidth**: Very narrow (50 Hz), allowing many stations to operate in a small slice of the band.
 
 ## Infrastructure
 *   **Hotspots**: Personal low-power access points (e.g., Raspberry Pi + RF hat) that connect a digital handheld radio to global networks via the user's home internet.
@@ -541,8 +427,8 @@ APRS is a digital communications protocol for exchanging information among a lar
 
 ## Technical Details
 *   **Protocol**: AX.25 (same as standard Packet Radio).
-*   **[Modulation](01_electricity/31_Modulation_&_Digital_Signals.md)**: AFSK (Audio Frequency [Shift](11_procedures.md) Keying).
-*   **Baud Rate**: Typically **1200 baud** on [VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md).
+*   **[Modulation](01_electricity/19_Modulation_&_Digital_Signals.md)**: AFSK (Audio Frequency [Shift](11_procedures.md) Keying).
+*   **Baud Rate**: Typically **1200 baud** on [VHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md).
 *   **Frequencies**:
     *   **North America**: 144.390 MHz
     *   **Europe**: 144.800 MHz
@@ -606,7 +492,7 @@ Spread Spectrum techniques spread a signal over a wide bandwidth, much larger th
 The carrier frequency rapidly changes (hops) according to a pseudorandom sequence known to both transmitter and receiver.
 *   **Military Use**: Used in **SINCGARS** (Single Channel Ground and Airborne Radio System) and **HAVE QUICK** radios to prevent jamming and interception.
     *   *Hop Rate:* SINCGARS hops ~100 times per second.
-    *   *Requirements:* Stations must be synchronized in **Time** (Time of Day) and **Hopset** (Frequency allocation/[Key](04_receivers/09_Station_Accessories.md)).
+    *   *Requirements:* Stations must be synchronized in **Time** (Time of Day) and **Hopset** (Frequency allocation/[Key](04_receivers/07_Station_Accessories.md)).
 *   **Amateur Use**: 219-220 MHz (1.25m band) and 902 MHz+ (33cm).
 
 ### 2. Direct Sequence (DSSS)
@@ -622,6 +508,15 @@ The signal is mixed with a high-speed pseudorandom code sequence (chipping code)
 
 ---
 
+
+id: 202512310008
+title: Emergency Operations
+tags: ["emergency", "modes", "operating", "procedures", "regulations"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Noodcommunicatie"]
 
 # Emergency Operations
 
@@ -643,12 +538,12 @@ The station in charge of the net.
 The passing of formal messages (radiograms) between stations.
 *   **Preamble**: Header information (Message number, precedence, station of origin, check).
     *   *Check:* The count of words in the text body. Used to verify accuracy.
-*   **Phonetics**: Use the [Phonetic Alphabet](11_procedures.md) for difficult words.
-*   **[Prosigns](01_electricity/33_CW_Abbreviations_&_Prosigns.md)**: Use [CW Abbreviations & Prosigns](01_electricity/33_CW_Abbreviations_&_Prosigns.md) to manage flow (e.g., "BREAK" to interrupt for urgent traffic).
+*   **Phonetics**: Use the Phonetic Alphabet for difficult words.
+*   **Prosigns**: Use CW Abbreviations & Prosigns to manage flow (e.g., "BREAK" to interrupt for urgent traffic).
 
 ## Emergency Declarations
 *   **Priority**: Emergency traffic *always* has priority over routine traffic.
-*   **Tactical [Call Signs](11_procedures.md)**: Using functional names (e.g., "Shelter 1", "Command Post") instead of personal call signs to simplify coordination (though legal ID is still required).
+*   **Tactical Call Signs**: Using functional names (e.g., "Shelter 1", "Command Post") instead of personal call signs to simplify coordination (though legal ID is still required).
 
 ## Organizations
 *   **ARES (US)**: Amateur Radio Emergency Service.
@@ -665,14 +560,14 @@ Environmental conditions significantly impact radio performance and equipment re
 ## 1. Desert Operations
 *   **Grounding**: Dry sand is a poor electrical conductor. Normal ground rods are ineffective.
     *   *Solution:* Use **Counterpoises** (wire networks on/above ground) instead of earth grounds.
-*   **[Propagation](07_propagation/16_Solar_Cycle_&_Propagation.md)**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
+*   **Propagation**: Lack of obstacles is good for Line-of-Sight, but lack of ground reflection hurts surface wave range.
 *   **Equipment**:
     *   **Heat**: Electrolyte in wet batteries evaporates. Transmitters overheat.
     *   **Dust**: Clogs vents and damages moving parts. Use dust covers.
     *   **Static**: Wind-blown sand generates high static charges. Tape antenna tips to reduce corona discharge noise.
 
 ## 2. Jungle Operations
-*   **[Propagation](07_propagation/16_Solar_Cycle_&_Propagation.md)**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
+*   **Propagation**: Dense vegetation absorbs RF energy (especially vertically polarized signals).
     *   *Range:* Significantly reduced.
     *   *Solution:* Use **Horizontal Polarization** (Dipoles) high in trees or clearings.
 *   **Equipment**:
@@ -688,8 +583,8 @@ Environmental conditions significantly impact radio performance and equipment re
 *   **Static**: Charged snow particles cause high static noise (precipitation static).
 
 ## 4. Urban Operations
-*   **Obstacles**: Buildings block Line-of-Sight ([VHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md)).
-    *   *Solution:* Use retransmission (relays) or [NVIS](07_propagation/13_Near_Vertical_Incidence_Skywave_NVIS.md) ([Near Vertical Incidence Skywave](07_propagation/13_Near_Vertical_Incidence_Skywave_NVIS.md)) on [HF](07_propagation/01_Propagation_Basics.md).
+*   **Obstacles**: Buildings block Line-of-Sight ([VHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md)).
+    *   *Solution:* Use retransmission (relays) or [NVIS](07_propagation/06_Near_Vertical_Incidence_Skywave_NVIS.md) ([Near Vertical Incidence Skywave](07_propagation/06_Near_Vertical_Incidence_Skywave_NVIS.md)) on [HF](07_propagation/01_Propagation_Basics.md).
 *   **[Interference](09_interference/03_Mixing_Products_Interference.md)**: High levels of man-made electrical noise (QRM).
 *   **Concealment**: Antennas can be disguised as utility lines or clotheslines.
 

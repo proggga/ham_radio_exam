@@ -1,3 +1,12 @@
+id: 202512292052
+title: Emission Classes (ITU)
+tags: ["exam-tips", "modes", "operating", "reference", "regulations"]
+created: 2025-12-29
+type: permanent-note
+modified: 2025-12-29
+
+aliases: ["Emissieklassen", "Uitzendingsklassen"]
+
 # Emission Classes (ITU)
 
 The ITU (International Telecommunication Union) uses a standardized system to classify radio frequency signals. A full designation includes the **Bandwidth** followed by a three-character **Emission Code**.
@@ -26,15 +35,15 @@ Describes the modulation of the main carrier.
 
 | Code | Description |
 | :--- | :--- |
-| **A** | Amplitude [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) (Double Sideband) |
+| **A** | Amplitude [Modulation](../01_electricity/19_Modulation_&_Digital_Signals.md) (Double Sideband) |
 | **C** | Vestigial Sideband |
-| **F** | [Frequency Modulation](../01_electricity/35_Frequency_Modulation_FM.md) |
-| **G** | Phase [Modulation](../01_electricity/31_Modulation_&_Digital_Signals.md) |
-| **H** | [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md), **Full** Carrier (AME) |
-| **J** | [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md), **Suppressed** Carrier |
+| **F** | Frequency Modulation |
+| **G** | Phase [Modulation](../01_electricity/19_Modulation_&_Digital_Signals.md) |
+| **H** | Single Sideband, **Full** Carrier (AME) |
+| **J** | Single Sideband, **Suppressed** Carrier |
 | **N** | Unmodulated carrier |
 | **P** | Pulse (unmodulated) |
-| **R** | [Single Sideband](../01_electricity/34_Single_Sideband_SSB.md), **Reduced** or Variable Carrier |
+| **R** | Single Sideband, **Reduced** or Variable Carrier |
 
 ## 2. Second Symbol: Nature of Modulating Signal
 Describes the type of signal modulating the carrier.
@@ -65,28 +74,29 @@ Describes what is being transmitted.
 ## Common Examples
 | Designation | Description | Mode |
 | :--- | :--- | :--- |
-| **A1A** | [AM](../01_electricity/32_Analogue_Modulation_&_AM.md), On/Off keying, Aural | **[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md)** (Morse) |
-| **A2A** | [AM](../01_electricity/32_Analogue_Modulation_&_AM.md), Tone modulated, Aural | **MCW** (Modulated CW) |
-| **A3E** | [AM](../01_electricity/32_Analogue_Modulation_&_AM.md), Analogue, Voice | **[AM](../01_electricity/32_Analogue_Modulation_&_AM.md)** |
+| **A1A** | AM, On/Off keying, Aural | **CW** (Morse) |
+| **A2A** | AM, Tone modulated, Aural | **MCW** (Modulated CW) |
+| **A3E** | AM, Analogue, Voice | **AM** |
 | **C3F** | Vestigial Sideband, Video | **Analogue TV** |
-| **F1B** | [FM](../01_electricity/35_Frequency_Modulation_FM.md), Direct FSK, Automatic | **RTTY (FSK)** |
-| **F2B** | [FM](../01_electricity/35_Frequency_Modulation_FM.md), AFSK Subcarrier, Automatic | **RTTY (AFSK)** |
-| **F3E** | [FM](../01_electricity/35_Frequency_Modulation_FM.md), Analogue, Voice | **[FM](../01_electricity/35_Frequency_Modulation_FM.md)** |
-| **H3E** | [SSB](../01_electricity/34_Single_Sideband_SSB.md), Full Carrier, Voice | **Compatible AM** |
-| **J2B** | [SSB](../01_electricity/34_Single_Sideband_SSB.md), PSK/AFSK, Automatic | **PSK31, RTTY (SSB)** |
-| **J3E** | [SSB](../01_electricity/34_Single_Sideband_SSB.md), Suppressed Carrier, Voice | **[SSB](../01_electricity/34_Single_Sideband_SSB.md)** |
+| **F1B** | FM, Direct FSK, Automatic | **RTTY (FSK)** |
+| **F2B** | FM, AFSK Subcarrier, Automatic | **RTTY (AFSK)** |
+| **F3E** | FM, Analogue, Voice | **FM** |
+| **H3E** | SSB, Full Carrier, Voice | **Compatible AM** |
+| **J2B** | SSB, PSK/AFSK, Automatic | **PSK31, RTTY (SSB)** |
+| **J3E** | SSB, Suppressed Carrier, Voice | **SSB** |
 | **N0N** | Continuous unmodulated carrier (Direction Finding) | **Carrier** |
-| **R3E** | [SSB](../01_electricity/34_Single_Sideband_SSB.md), Reduced Carrier, Voice | **AME** (Military) |
+
+> **Exam Tip:** The code **J3E** corresponds to standard **SSB** (Single Sideband Suppressed Carrier) telephony. "J" = Suppressed Carrier, "3" = Analogue Voice, "E" = Telephony.
 
 ### Typical Bandwidths
-*   **[CW](../01_electricity/33_CW_Abbreviations_&_Prosigns.md)**: `100H` (100 Hz)
-*   **[SSB](../01_electricity/34_Single_Sideband_SSB.md)**: `2K70` (2.7 kHz)
-*   **[AM](../01_electricity/32_Analogue_Modulation_&_AM.md)**: `6K00` (6 kHz)
-*   **[FM](../01_electricity/35_Frequency_Modulation_FM.md) (Narrow)**: `11K0` (11 kHz) - 2.5 kHz deviation
-*   **[FM](../01_electricity/35_Frequency_Modulation_FM.md) (Wide)**: `16K0` (16 kHz) - 5 kHz deviation
+*   **CW**: `100H` (100 Hz)
+*   **SSB**: `2K70` (2.7 kHz)
+*   **AM**: `6K00` (6 kHz)
+*   **FM (Narrow)**: `11K0` (11 kHz) - 2.5 kHz deviation
+*   **FM (Wide)**: `16K0` (16 kHz) - 5 kHz deviation
 
 ## Sideband Terminology
-*   **Single Sideband Suppressed Carrier (SSB-SC)**: Commonly just called **[SSB](../01_electricity/34_Single_Sideband_SSB.md)**. The carrier and one sideband are suppressed (removed) using filters or phasing. This concentrates all power into the single information-carrying sideband, making it efficient for long-distance communication (less bandwidth, less power wasted on carrier).
+*   **Single Sideband Suppressed Carrier (SSB-SC)**: Commonly just called **SSB**. The carrier and one sideband are suppressed (removed) using filters or phasing. This concentrates all power into the single information-carrying sideband, making it efficient for long-distance communication (less bandwidth, less power wasted on carrier).
 *   **Double Sideband Suppressed Carrier (DSB-SC)**: Only the carrier is suppressed, but both sidebands are transmitted. It has 100% modulation efficiency but uses double the bandwidth of SSB. Used in FM stereo generation.
 *   **Vestigial Sideband (VSB)**: One sideband is fully transmitted, and the other is only **partially** suppressed (about 25-30% remains). This is a compromise used in **Analogue TV** to save bandwidth while simplifying receiver design.
 

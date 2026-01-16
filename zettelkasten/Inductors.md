@@ -1,9 +1,6 @@
----
 id: 202301011214
 title: "Inductors"
-tags:
-  - ham-radio
-  - components
+tags: ["components", "exam-tips", "formulas", "ionosphere"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
@@ -11,7 +8,6 @@ aliases: ["Spoelen", ""]
   - Spoelen
   - Zelfinductie
   - Spoel
----
 
 # Inductors (Spoelen)
 

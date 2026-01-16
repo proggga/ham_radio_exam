@@ -1,16 +1,11 @@
----
 id: 202501101405
 title: Error Correction Methods
-tags:
-  - ham-radio
-  - digital
-  - theory
+tags: ["digital", "modes"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
 
 aliases: ["Foutdetectie en -correctie", "CRC", "ARQ", "FEC"]
----
 
 # Error Correction Methods
 

@@ -1,7 +1,7 @@
 ---
 id: 202512302200
 title: Skin Effect
-tags: ["ham-radio", "physics", "components"]
+tags: ["components", "physics"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30

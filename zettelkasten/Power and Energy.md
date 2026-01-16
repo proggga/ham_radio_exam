@@ -1,16 +1,11 @@
----
 id: 202301011204
 title: "Map: Power & Energy"
-tags:
-  - ham-radio
-  - electricity
-  - map
+tags: ["amplifiers", "electricity", "formulas", "map"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Vermogen en energie"]
----
 
 # Map: Power & Energy
 

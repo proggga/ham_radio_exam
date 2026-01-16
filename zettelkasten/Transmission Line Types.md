@@ -1,10 +1,7 @@
 ---
 id: 202512292180
 title: Transmission Line Types
-tags:
-  - ham-radio
-  - antennas
-  - transmission-lines
+tags: ["antennas", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

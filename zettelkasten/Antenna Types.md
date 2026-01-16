@@ -1,7 +1,7 @@
 ---
 id: 202301011232
 title: "Antenna Types"
-tags: ["ham-radio", "antennas", "index"]
+tags: ["antennas", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29

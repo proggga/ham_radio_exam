@@ -1,16 +1,11 @@
----
 id: 202501111200
 title: Schematic Symbols
-tags:
-  - ham-radio
-  - basics
-  - electronics
+tags: ["basics", "electronics", "semiconductors"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
 
 aliases: ["Tekensymbolen", "Schema symbolen"]
----
 
 # Schematic Symbols
 

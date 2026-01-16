@@ -1,13 +1,11 @@
----
 id: 202512311310
 title: Special Propagation Modes
-tags: ["ham-radio", "propagation", "VHF"]
+tags: ["ionosphere", "modes", "propagation", "vhf"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Speciale propagatiemodi"]
----
 
 # Special Propagation Modes
 

@@ -1,9 +1,7 @@
 ---
 id: 202501101407
 title: "Frequency Regulations 2015 (Netherlands)"
-tags:
-  - ham-radio
-  - regulations
+tags: ["regulations"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10

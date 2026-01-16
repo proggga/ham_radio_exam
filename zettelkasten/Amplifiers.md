@@ -1,13 +1,11 @@
----
 id: 202301011223
 title: "Amplifiers"
-tags: ["ham-radio", "circuits", "index"]
+tags: ["amplifiers", "circuits", "index", "semiconductors"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Versterkers"]
----
 
 # Amplifiers
 

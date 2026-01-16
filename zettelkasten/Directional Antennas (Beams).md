@@ -1,7 +1,7 @@
 ---
 id: 202512292117
 title: Directional Antennas (Beams)
-tags: ["ham-radio", "antennas"]
+tags: ["antennas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29

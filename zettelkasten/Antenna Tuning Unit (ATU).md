@@ -1,16 +1,11 @@
----
 id: 202512292192
 title: Antenna Tuning Unit (ATU)
-tags:
-  - ham-radio
-  - antennas
-  - equipment
+tags: ["antennas", "equipment", "filters", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Antennetuner", "ATU", "Aanpassingsnetwerk"]
----
 
 # Antenna Tuning Unit (ATU)
 

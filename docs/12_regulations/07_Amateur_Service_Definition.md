@@ -12,9 +12,9 @@ Defined in the **[ITU](08_Emission_Classes_ITU.md) Radio [Regulations](06_Rules_
 4.  **Non-commercial**: Strictly no money involved ("without pecuniary interest").
 
 ## Dutch Legislation
-*   **[Telecommunicatiewet](04_Telecommunicatiewet_Provisions.md)**: The primary law governing telecommunications in the [Netherlands](10_Operating_Rules_Netherlands.md).
+*   **[Telecommunicatiewet](04_Telecommunications_Act_Provisions.md)**: The primary law governing telecommunications in the [Netherlands](10_Operating_Rules_Netherlands.md).
 *   **Frequentiebesluit 2013**: Regulates frequency usage.
-*   **[Regeling gebruik van frequentieruimte](03_Dutch_Frequency_Regulations_2015.md)**: Specific rules for amateurs.
+*   **[Regeling gebruik van frequentieruimte](03_Frequency_Regulations_2015_Netherlands.md)**: Specific rules for amateurs.
 
 ---
 [< Back to Section Index](README.md)

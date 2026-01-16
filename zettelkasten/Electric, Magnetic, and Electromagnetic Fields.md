@@ -1,17 +1,11 @@
----
 id: 202301011208
 title: "Map: Electric, Magnetic, and Electromagnetic Fields"
-tags:
-  - ham-radio
-  - electricity
-  - physics
-  - map
+tags: ["electricity", "formulas", "map", "physics"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
 
 aliases: ["Elektrische en magnetische velden"]
----
 
 # Map: Electric, Magnetic, and Electromagnetic Fields
 

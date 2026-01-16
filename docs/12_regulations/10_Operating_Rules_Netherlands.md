@@ -1,6 +1,15 @@
+id: 202512310001
+title: Operating Rules (Netherlands)
+tags: ["modes", "operating", "regulations"]
+created: 2025-12-31
+type: permanent-note
+modified: 2025-12-31
+
+aliases: ["Gebruiksbepalingen"]
+
 # Operating Rules (Netherlands)
 
-[Key](../04_receivers/09_Station_Accessories.md) regulations for amateur radio operation in the Netherlands (based on Telecommunicatiewet and Frequentiebesluit).
+[Key](../04_receivers/07_Station_Accessories.md) regulations for amateur radio operation in the Netherlands (based on Telecommunicatiewet and Frequentiebesluit).
 
 ## General Requirements
 *   **[Registration](05_Licensing_in_the_Netherlands.md)**: You must be registered with the **RDI** (Rijksinspectie Digitale Infrastructuur, formerly Agentschap Telecom).
@@ -40,7 +49,7 @@
 *   **[Interference](../09_interference/03_Mixing_Products_Interference.md)**: You must not cause "inadmissible" interference.
 
 ## Formal Definitions (Exam Topics)
-*   **Transmission Power (Zendvermogen)**: Defined as the average power delivered to the antenna transmission line by the transmitter, during one radio frequency cycle at the crest of the modulation envelope (**[PEP](../01_electricity/32_Analogue_Modulation_&_AM.md)**).
+*   **Transmission Power (Zendvermogen)**: Defined as the average power delivered to the antenna transmission line by the transmitter, during one radio frequency cycle at the crest of the modulation envelope (**PEP**).
     *   *Dutch:* "Het door de direct met de antenne-inrichting te koppelen trap van het radiozendapparaat afgegeven gemiddeld vermogen, gerekend over een periode van de hoogfrequent uitgangswisselspanning tijdens het maximum van de omhullende."
 *   **EMC (Elektromagnetische Compatibiliteit)**: The ability of equipment to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to other equipment in that environment.
 *   **Radio Equipment (Radioapparaten)**: Equipment that intentionally transmits or receives radio waves for communication or radiodetermination.

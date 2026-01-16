@@ -1,13 +1,11 @@
----
 id: 202512292105
 title: Analogue Modulation & AM
-tags: ["ham-radio", "modulation", "theory"]
+tags: ["amplifiers", "formulas", "modes", "modulation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Amplitudemodulatie", "AM"]
----
 
 # Analogue Modulation & AM
 

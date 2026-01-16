@@ -1,13 +1,11 @@
----
 id: 202512291900
 title: "Solar Cycle & Band Selection"
-tags: ["ham-radio", "propagation", "solar-cycle"]
+tags: ["ionosphere", "propagation", "solar-cycle"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Zonnecyclus en bandkeuze"]
----
 
 # Solar Cycle & Band Selection
 

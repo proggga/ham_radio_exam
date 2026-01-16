@@ -1,16 +1,11 @@
----
 id: 202512292181
 title: Velocity Factor
-tags:
-  - ham-radio
-  - antennas
-  - physics
+tags: ["antennas", "formulas", "physics", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Verkortingsfactor"]
----
 
 # Velocity Factor (Verkortingsfactor)
 

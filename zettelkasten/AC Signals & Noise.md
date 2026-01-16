@@ -1,7 +1,7 @@
 ---
 id: 202301011209
 title: "AC Signals & Noise"
-tags: ["ham-radio", "electricity", "index"]
+tags: ["electricity", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29

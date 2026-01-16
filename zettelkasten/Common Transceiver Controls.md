@@ -1,13 +1,11 @@
----
 id: 202512310012
 title: Common Transceiver Controls
-tags: ["ham-radio", "equipment", "operating"]
+tags: ["amplifiers", "equipment", "modes", "operating", "oscillators"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
 
 aliases: ["Bedieningsorganen"]
----
 
 # Common Transceiver Controls
 

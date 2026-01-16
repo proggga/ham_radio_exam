@@ -1,13 +1,11 @@
----
 id: 202512292114
 title: Signal Generator
-tags: ["ham-radio", "measurements", "equipment"]
+tags: ["equipment", "measurements", "modes", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
 
 aliases: ["Signaalgenerator", "Meetgenerator"]
----
 
 # Signal Generator
 

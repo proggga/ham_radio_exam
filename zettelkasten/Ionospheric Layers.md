@@ -1,7 +1,7 @@
 ---
 id: 202512292119
 title: Ionospheric Layers
-tags: ["ham-radio", "propagation", "ionosphere"]
+tags: ["ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
