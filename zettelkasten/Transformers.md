@@ -1,11 +1,12 @@
+---
 id: 202301011215
 title: "Transformers"
 tags: ["components", "formulas", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Transformatoren"]
+---
 
 # Transformers
 

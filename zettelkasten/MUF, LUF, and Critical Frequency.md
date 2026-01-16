@@ -1,11 +1,12 @@
+---
 id: 202512292121
 title: MUF, LUF, and Critical Frequency
 tags: ["ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["MUF", "LUF", "Kritische frequentie"]
+aliases: ["Begrip. De", "Kritische frequentie", "LUF", "MUF", "Maximum Usable Frequency", "What does the term"]
+---
 
 # MUF, LUF, and Critical Frequency
 

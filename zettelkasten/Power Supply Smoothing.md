@@ -1,11 +1,12 @@
+---
 id: 202512292026
 title: Power Supply Smoothing
 tags: ["circuits", "filters", "formulas", "power-supply", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Afvlakking", "Afvlakfilters"]
+aliases: ["Afvlakfilters", "Afvlakking"]
+---
 
 # Power Supply Smoothing
 

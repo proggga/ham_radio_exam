@@ -1,11 +1,12 @@
+---
 id: 202512292004
 title: Q-Codes
 tags: ["mnemonics", "modes", "operating", "reference", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Q-codes"]
+---
 
 # Q-Codes
 
@@ -42,4 +43,3 @@ In voice operation, these are often used as nouns or verbs: "I have a lot of QRM
 *   [[Rules & Procedures]]
 *   [[Standard QSO Procedure]]
 *   [[CW Abbreviations & Prosigns]]
-

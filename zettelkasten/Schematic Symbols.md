@@ -1,11 +1,12 @@
+---
 id: 202501111200
 title: Schematic Symbols
 tags: ["basics", "electronics", "semiconductors"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
-
-aliases: ["Tekensymbolen", "Schema symbolen"]
+aliases: ["Schema symbolen", "Tekensymbolen"]
+---
 
 # Schematic Symbols
 

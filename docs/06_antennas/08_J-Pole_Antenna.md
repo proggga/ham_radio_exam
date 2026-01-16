@@ -1,15 +1,6 @@
-id: 202501111640
-title: J-Pole Antenna
-tags: ["antennas", "safety", "transmission-lines", "vhf-uhf"]
-created: 2025-01-11
-type: permanent-note
-modified: 2025-01-11
-
-aliases: ["J-antenne", "J-Pole", "J-Antenne", "Slim Jim"]
-
 # J-Pole Antenna
 
-The **J-Pole** is a popular, omnidirectional vertical antenna used primarily for [VHF](../07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md) and [UHF](../07_propagation/15_VHFUHF_Bands_6m,_2m,_70cm.md). It is named for its J-shape.
+The **J-Pole** is a popular, omnidirectional vertical antenna used primarily for [VHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md) and [UHF](../07_propagation/08_VHFUHF_Bands_6m,_2m,_70cm.md). It is named for its J-shape.
 
 ## Principle
 *   **Structure**: It consists of a **Half-Wave Radiator** ($\lambda/2$) fed by a **Quarter-Wave Matching Section** ($\lambda/4$) stub.

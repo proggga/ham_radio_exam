@@ -1,11 +1,12 @@
+---
 id: 202512310008
 title: Emergency Operations
 tags: ["emergency", "modes", "operating", "procedures", "regulations"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Noodcommunicatie"]
+---
 
 # Emergency Operations
 

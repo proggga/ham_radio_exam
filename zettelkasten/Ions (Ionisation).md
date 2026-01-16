@@ -1,11 +1,12 @@
+---
 id: 202512291803
 title: "Ions (Ionisation)"
 tags: ["ionosphere", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Ionen", "Ionisatie"]
+---
 
 # Ions
 

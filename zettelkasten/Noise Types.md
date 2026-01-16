@@ -1,11 +1,12 @@
+---
 id: 202512292032
 title: Noise Types
 tags: ["formulas", "interference", "noise", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Ruissoorten"]
+---
 
 # Noise Types
 

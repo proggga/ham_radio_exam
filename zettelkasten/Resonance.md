@@ -1,11 +1,12 @@
+---
 id: 202512292043
 title: Resonance
 tags: ["circuits", "formulas", "resonance"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Resonantie"]
+---
 
 # Resonance
 

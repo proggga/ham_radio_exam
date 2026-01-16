@@ -1,11 +1,12 @@
+---
 id: 202512311635
 title: 555 Timer
 tags: ["circuits", "components", "formulas", "ic", "oscillators", "semiconductors"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["555 Timer"]
+---
 
 # 555 Timer
 

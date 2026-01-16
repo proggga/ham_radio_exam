@@ -5,8 +5,7 @@ tags: ["components", "physics", "transformers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Transformatorverliezen"]
+aliases: ["Transformator", "Transformatorverliezen"]
 ---
 
 # Transformer Losses

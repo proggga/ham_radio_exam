@@ -1,11 +1,12 @@
+---
 id: 202301011226
 title: "Receiver Types"
 tags: ["amplifiers", "filters", "formulas", "modes", "oscillators", "receivers", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Ontvangertypes"]
+---
 
 # Receiver Types
 

@@ -1,11 +1,12 @@
+---
 id: 202512292012
 title: Geometry & Trigonometry
 tags: ["basics", "electronics", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Meetkunde en goniometrie"]
+---
 
 # Geometry & Trigonometry
 

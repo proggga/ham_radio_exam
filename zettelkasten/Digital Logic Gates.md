@@ -1,11 +1,12 @@
+---
 id: 202512292034
 title: Digital Logic Gates
 tags: ["digital", "formulas", "logic", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Logische poorten"]
+---
 
 # Digital Logic Gates
 

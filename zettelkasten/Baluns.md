@@ -1,11 +1,12 @@
+---
 id: 202512292191
 title: Baluns
 tags: ["antennas", "components", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Baluns", "Aanpassingstransformatoren"]
+aliases: ["Aanpassingstransformatoren", "Baluns"]
+---
 
 # Baluns
 

@@ -1,11 +1,12 @@
+---
 id: 202301011241
 title: "Signal Visualization"
 tags: ["amplifiers", "formulas", "math", "measurements", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Signaalweergave"]
+---
 
 # Signal Visualization
 

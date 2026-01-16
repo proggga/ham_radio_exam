@@ -5,8 +5,7 @@ tags: ["military", "operating", "safety"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
-aliases: ["Radio in zware omstandigheden"]
+aliases: ["Dipoles", "Radio in zware omstandigheden", "wire networks on/above ground"]
 ---
 
 # Radio Operations in Harsh Environments

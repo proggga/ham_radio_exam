@@ -1,11 +1,12 @@
+---
 id: 202301011234
 title: "Map: Transmission Lines"
 tags: ["antennas", "map", "transmission-lines"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Transmissielijnen"]
+---
 
 # Map: Transmission Lines
 

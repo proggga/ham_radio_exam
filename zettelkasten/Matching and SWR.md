@@ -1,11 +1,12 @@
+---
 id: 202301011235
 title: "Map: Matching & SWR"
 tags: ["antennas", "map", "transmission-lines"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Aanpassing en SWR"]
+---
 
 # Map: Matching & SWR
 

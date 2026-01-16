@@ -1,11 +1,12 @@
+---
 id: 202512292028
 title: Switch Mode Power Supply (SMPS)
 tags: ["circuits", "filters", "formulas", "power-supply", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Schakelende voeding"]
+---
 
 # Switch Mode Power Supply (SMPS)
 

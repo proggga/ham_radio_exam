@@ -5,8 +5,7 @@ tags: ["safety", "station-setup"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
-
-aliases: ["Aardingssystemen", "Aarding", "Grounding", "Earthing"]
+aliases: ["Aarding", "Aardingssystemen", "Earthing", "Grounding", "artificial ground", "connected"]
 ---
 
 # Earthing Systems

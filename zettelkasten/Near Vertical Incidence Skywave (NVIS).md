@@ -1,11 +1,12 @@
+---
 id: 202512310011
 title: Near Vertical Incidence Skywave (NVIS)
 tags: ["emergency", "ionosphere", "military", "propagation"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["NVIS"]
+---
 
 # Near Vertical Incidence Skywave (NVIS)
 

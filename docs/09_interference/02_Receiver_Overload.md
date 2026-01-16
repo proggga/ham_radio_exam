@@ -1,12 +1,3 @@
-id: 202512292101
-title: Receiver Overload
-tags: ["amplifiers", "interference", "receivers", "safety", "semiconductors"]
-created: 2025-12-29
-type: permanent-note
-modified: 2025-12-29
-
-aliases: ["Ontvangeroversturing"]
-
 # Receiver Overload
 
 Receiver overload occurs when a very strong signal (even if off-frequency) enters the RF front-end of a receiver.
@@ -18,7 +9,7 @@ Receiver overload occurs when a very strong signal (even if off-frequency) enter
     *   The input junction acts as a **rectifier** (diode), creating a DC voltage from the RF signal.
     *   This DC voltage shifts the **Operating Point** (Instelpunt / Bias / *Werkpuntverschuiving*) of the amplifier.
     *   *Result:* The amplifier gain drops or cuts off completely (Class C operation).
-*   **[Mitigation](09_Mitigation.md)**:
+*   **[Mitigation](08_Mitigation.md)**:
     *   **Attenuator (Verzwakker)**: Reducing the input signal moves the stage back into its linear range.
     *   **Preselector**: Better filtering before the first amplifier.
     *   **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Orientation**: Rotating a directional antenna ([Yagi](../06_antennas/12_Directional_Antennas_Beams.md)) to null the interference.

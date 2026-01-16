@@ -1,11 +1,12 @@
+---
 id: 202512292053
 title: Phase Relationships
 tags: ["circuits", "electronics", "math", "mnemonics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Faserelaties"]
+---
 
 # Phase Relationships
 

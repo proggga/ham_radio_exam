@@ -1,11 +1,12 @@
+---
 id: 202512292017
 title: Amplifier Coupling
 tags: ["amplifiers", "circuits", "filters", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Versterkerkoppeling"]
+---
 
 # Amplifier Coupling
 

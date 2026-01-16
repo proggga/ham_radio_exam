@@ -1,11 +1,12 @@
+---
 id: 202512292013
 title: Graphs and Data
 tags: ["basics", "filters", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Grafieken en data"]
+---
 
 # Graphs and Data
 

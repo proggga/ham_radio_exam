@@ -1,11 +1,12 @@
+---
 id: 202501111640
 title: J-Pole Antenna
 tags: ["antennas", "safety", "transmission-lines", "vhf-uhf"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
-
-aliases: ["J-antenne", "J-Pole", "J-Antenne", "Slim Jim"]
+aliases: ["J-Antenne", "J-Pole", "J-antenne", "Slim Jim"]
+---
 
 # J-Pole Antenna
 

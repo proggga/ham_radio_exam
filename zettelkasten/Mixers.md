@@ -1,11 +1,12 @@
+---
 id: 202512292040
 title: Mixers
 tags: ["circuits", "modes", "oscillators", "receivers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Mengtrappen", "Mengschakelingen"]
+aliases: ["Mengschakelingen", "Mengtrappen"]
+---
 
 # Mixers
 

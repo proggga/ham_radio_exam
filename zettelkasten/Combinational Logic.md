@@ -1,11 +1,12 @@
+---
 id: 202512292036
 title: Combinational Logic
 tags: ["digital", "formulas", "logic"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Combinatorische logica"]
+aliases: ["Combinatorische logica", "E vier regels samen"]
+---
 
 # Combinational Logic
 

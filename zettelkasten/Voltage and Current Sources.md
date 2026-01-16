@@ -1,11 +1,12 @@
+---
 id: 202301011207
 title: "Voltage and Current Sources"
 tags: ["electricity", "formulas", "safety", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Spannings- en stroombronnen"]
+---
 
 # Voltage and Current Sources
 

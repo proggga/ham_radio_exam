@@ -1,11 +1,12 @@
+---
 id: 202512292192
 title: Antenna Tuning Unit (ATU)
 tags: ["antennas", "equipment", "filters", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Antennetuner", "ATU", "Aanpassingsnetwerk"]
+aliases: ["ATU", "Aanpassingsnetwerk", "Antennetuner", "Kabel via een antenne-aanpassingseenheid"]
+---
 
 # Antenna Tuning Unit (ATU)
 

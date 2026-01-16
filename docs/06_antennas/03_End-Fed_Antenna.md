@@ -1,12 +1,3 @@
-id: 202501101409
-title: End-Fed Antenna
-tags: ["antennas", "formulas", "safety", "transmission-lines"]
-created: 2025-01-10
-type: permanent-note
-modified: 2025-01-10
-
-aliases: ["Eindgevoede antenne", "End-Fed Half Wave", "EFHW", "Zeppelin antenne"]
-
 # End-Fed Antenna
 
 The **End-Fed Half Wave (EFHW)** is a popular variant of the dipole, especially for portable operation and limited space.
@@ -16,7 +7,7 @@ A standard [Dipole](02_The_Dipole_Antenna.md) is fed in the center, where the cu
 An **End-Fed** antenna is fed at the very end of the wire, where:
 *   **Voltage is Maximum** (High Voltage point).
 *   **Current is Minimum**.
-*   **Impedance is Very High**: Typically $2500 \Omega$ to $5000 \Omega$.
+*   **[Impedance](../01_electricity/22_Impedance.md) is Very High**: Typically $2500 \Omega$ to $5000 \Omega$.
 
 ## Matching (The Unun)
 To feed this high impedance with standard $50 \Omega$ [Coax](17_Transmission_Lines.md), a broadband **Impedance Transformer** is required.
@@ -27,7 +18,7 @@ To feed this high impedance with standard $50 \Omega$ [Coax](17_Transmission_Lin
 ## Counterpoise
 Although often advertised as "no ground required," an end-fed antenna **always** needs a counterpoise to complete the circuit.
 *   **Coax Shield**: Usually, the shield of the coaxial cable acts as the counterpoise.
-*   **Choke**: A **Common Mode Choke** is recommended about 0.05 $\lambda$ down the coax to stop RF from returning to the shack ([RFI](../09_interference/09_Mitigation.md)).
+*   **Choke**: A **Common Mode Choke** is recommended about 0.05 $\lambda$ down the coax to stop RF from returning to the shack ([RFI](../09_interference/08_Mitigation.md)).
 
 ## Pros & Cons
 *   **Pros**:

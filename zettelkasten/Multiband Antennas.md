@@ -1,11 +1,12 @@
+---
 id: 202512301545
 title: Multiband Antennas
 tags: ["antennas", "math"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
-
 aliases: ["Meerbandsantennes"]
+---
 
 # Multiband Antennas
 

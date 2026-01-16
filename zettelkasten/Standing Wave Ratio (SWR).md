@@ -1,11 +1,12 @@
+---
 id: 202512292190
 title: Standing Wave Ratio (SWR)
 tags: ["antennas", "formulas", "measurements", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Staande golf verhouding", "SWR"]
+aliases: ["Afgekort SWR", "SWR", "Staande golf verhouding", "Staande-golf-verhouding", "Staandegolfmeter"]
+---
 
 # Standing Wave Ratio (SWR)
 

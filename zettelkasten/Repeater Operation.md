@@ -1,11 +1,12 @@
+---
 id: 202512311300
 title: Repeater Operation
 tags: ["operating", "regulations", "safety", "uhf", "vhf"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Repeatergebruik"]
+---
 
 # Repeater Operation
 

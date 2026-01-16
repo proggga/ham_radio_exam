@@ -5,8 +5,7 @@ tags: ["military", "modes", "security"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
-aliases: ["Spread spectrum", "Frequency hopping"]
+aliases: ["Frequency hopping", "Spread spectrum", "Time of Day"]
 ---
 
 # Spread Spectrum & Frequency Hopping

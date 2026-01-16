@@ -1,11 +1,12 @@
+---
 id: 202301011210
 title: "Modulation & Digital Signals"
 tags: ["digital", "index", "modes", "modulation", "regulations"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
-aliases: ["Modulatie", "Modulatiesoorten"]
+aliases: ["Modulatie", "Modulatiediepte", "Modulatiesoorten", "Rechtsboven"]
+---
 
 # Modulation & Digital Signals
 

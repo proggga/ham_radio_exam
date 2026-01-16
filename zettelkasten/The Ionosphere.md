@@ -1,11 +1,12 @@
+---
 id: 202301011238
 title: "The Ionosphere"
 tags: ["index", "ionosphere", "propagation"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["De Ionosfeer"]
+---
 
 # The Ionosphere
 

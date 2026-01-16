@@ -1,11 +1,12 @@
+---
 id: 202512292025
 title: Rectification
 tags: ["circuits", "power-supply", "safety", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Gelijkrichting"]
+---
 
 # Rectification
 

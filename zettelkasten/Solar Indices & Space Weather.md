@@ -1,11 +1,12 @@
+---
 id: 202512311220
 title: Solar Indices & Space Weather
 tags: ["ionosphere", "propagation", "space-weather"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
-aliases: ["Zonne-indexen", "Ruimteweer"]
+aliases: ["Ruimteweer", "Zonne-indexen"]
+---
 
 # Solar Indices & Space Weather
 

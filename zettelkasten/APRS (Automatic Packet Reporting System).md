@@ -5,8 +5,7 @@ tags: ["digital", "operating", "packet"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
-aliases: ["APRS"]
+aliases: ["APRS", "Automatic Packet Reporting System", "Internet Service"]
 ---
 
 # APRS (Automatic Packet Reporting System)

@@ -1,11 +1,12 @@
+---
 id: 202301011249
 title: "Rules & Procedures"
 tags: ["index", "modes", "procedures", "regulations", "safety"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Regels en procedures"]
+---
 
 # Rules & Procedures
 

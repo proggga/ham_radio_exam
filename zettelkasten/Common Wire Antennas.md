@@ -1,11 +1,12 @@
+---
 id: 202501111620
 title: Common Wire Antennas
 tags: ["antennas", "practical", "transmission-lines"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
-
-aliases: ["Veelgebruikte Draadantennes", "G5RV", "Windom", "OCFD", "Off-Center Fed Dipole"]
+aliases: ["G5RV", "OCFD", "Off-Center Fed Dipole", "Veelgebruikte Draadantennes", "Windom"]
+---
 
 # Common Wire Antennas
 

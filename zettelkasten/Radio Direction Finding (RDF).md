@@ -1,11 +1,12 @@
+---
 id: 202512310009
 title: Radio Direction Finding (RDF)
 tags: ["measurement", "military", "modes", "operating", "safety"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Radiopeilen", "Vossenjacht"]
+---
 
 # Radio Direction Finding (RDF)
 

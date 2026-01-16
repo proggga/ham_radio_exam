@@ -1,11 +1,12 @@
+---
 id: 202512292055
 title: "Impedance"
 tags: ["circuits", "electronics", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Impedantie"]
+aliases: ["Impedantie", "Moet rechts een weerstand"]
+---
 
 # Impedance (Impedantie)
 

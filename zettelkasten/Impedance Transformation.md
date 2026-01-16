@@ -1,11 +1,12 @@
+---
 id: 202512292182
 title: Impedance Transformation
 tags: ["antennas", "circuits", "formulas", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Impedantietransformatie"]
+---
 
 # Impedance Transformation
 

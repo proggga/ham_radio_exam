@@ -5,8 +5,7 @@ tags: ["antennas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Richtantennes", "Yagi"]
+aliases: ["Antenne met parasitaire elementen", "Beams", "Richtantennes", "Yagi"]
 ---
 
 # Directional Antennas (Beams)

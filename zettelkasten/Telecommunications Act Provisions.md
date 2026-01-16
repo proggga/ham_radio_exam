@@ -1,11 +1,12 @@
+---
 id: 202501101408
 title: "Telecommunications Act Provisions"
 tags: ["regulations", "safety"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
-
-aliases: ["Telecommunicatiewet Provisions", "Telecommunicatiewet bepalingen", "Telecommunicatiewet"]
+aliases: ["Telecommunicatiewet", "Telecommunicatiewet Provisions", "Telecommunicatiewet bepalingen"]
+---
 
 # Telecommunicatiewet Provisions
 

@@ -1,11 +1,12 @@
+---
 id: 202512292058
 title: Automatic Gain Control (AGC)
 tags: ["amplifiers", "circuits", "modes", "oscillators", "receivers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Automatische sterkteregeling", "AGC"]
+aliases: ["AGC", "An automatic gain control", "Automatische sterkteregeling", "Forsterkningskontroll", "Its automatic gain control"]
+---
 
 # Automatic Gain Control (AGC)
 

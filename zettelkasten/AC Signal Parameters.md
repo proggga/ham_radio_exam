@@ -1,11 +1,12 @@
+---
 id: 202512292029
 title: AC Signal Parameters
 tags: ["ac-signals", "exam-tips", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Wisselstroomparameters", "AC-parameters"]
+aliases: ["AC-parameters", "Wisselstroomparameters"]
+---
 
 # AC Signal Parameters
 

@@ -1,11 +1,12 @@
+---
 id: 202501101410
 title: Earth Thermal Noise
 tags: ["formulas", "noise", "propagation"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
-
-aliases: ["Thermische ruis van het aardoppervlak", "Earth Noise"]
+aliases: ["Earth Noise"]
+---
 
 # Earth Thermal Noise
 

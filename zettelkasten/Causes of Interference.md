@@ -1,11 +1,12 @@
+---
 id: 202301011244
 title: "Causes of Interference"
 tags: ["amplifiers", "interference", "oscillators", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Oorzaken van storing"]
+---
 
 # Causes of Interference
 

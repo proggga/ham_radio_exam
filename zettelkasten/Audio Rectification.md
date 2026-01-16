@@ -1,11 +1,12 @@
+---
 id: 202512292103
 title: "Audio Rectification"
 tags: ["amplifiers", "emc", "filters", "interference", "modes", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Laagfrequentdetectie", "LFD"]
+aliases: ["LFD", "Laagfrequentdetectie"]
+---
 
 # Audio Rectification (LFD)
 

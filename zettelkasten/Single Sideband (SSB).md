@@ -1,11 +1,12 @@
+---
 id: 202512292106
 title: Single Sideband (SSB)
 tags: ["exam-tips", "filters", "formulas", "math", "modes", "modulation", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Enkelzijbandmodulatie", "EZB", "SSB"]
+aliases: ["De fasemethode voor EZB", "EZB", "Enkelzijbandmodulatie", "Frequency modulation voice", "Is EZB", "N toon gemoduleerde EZB", "Of EZB", "Of SSB", "SSB", "Single sideband voice", "USB and LSB", "Using single sideband", "amateur-EZB"]
+---
 
 # Single Sideband (SSB)
 

@@ -1,11 +1,12 @@
+---
 id: 202512292019
 title: Distortion and Dissipation
 tags: ["amplifiers", "circuits", "formulas", "modes", "performance"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Vervorming en dissipatie"]
+---
 
 # Distortion and Dissipation
 

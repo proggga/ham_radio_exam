@@ -1,11 +1,12 @@
+---
 id: 202512302345
 title: Amplifier Configurations
 tags: ["amplifiers", "circuits", "mnemonics", "semiconductors"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
-
-aliases: ["Versterkerschakelingen", "GGS", "GCS", "GDS"]
+aliases: ["GCS", "GDS", "GGS", "Gemeenschappelijke collectorschakeling", "Gemeenschappelijke drain schakeling", "Gemeenschappelijke drainschakeling", "Gemeenschappelijke gate schakeling", "Gemeenschappelijke gateschakeling", "Of GAS", "Versterkerschakelingen"]
+---
 
 # Amplifier Configurations
 

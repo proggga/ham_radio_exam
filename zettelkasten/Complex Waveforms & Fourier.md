@@ -1,11 +1,12 @@
+---
 id: 202512292031
 title: Complex Waveforms & Fourier
 tags: ["ac-signals", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Complexe golfvormen", "Fourieranalyse"]
+---
 
 # Complex Waveforms & Fourier
 

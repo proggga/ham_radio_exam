@@ -1,11 +1,12 @@
+---
 id: 202501101403
 title: Convolution
 tags: ["dsp", "filters"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
-
 aliases: ["Convolutie"]
+---
 
 # Convolution (Convolutie)
 

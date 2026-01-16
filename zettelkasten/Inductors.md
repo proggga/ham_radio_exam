@@ -4,7 +4,7 @@ tags: ["components", "exam-tips", "formulas", "ionosphere"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-aliases: ["Spoelen", ""]
+aliases: ["Ijlen van de stroom op de spanning moet je aan zelfinducties", "S de parallelschakeling van weerstanden en van zelfinducties", "Spoelen"]
   - Spoelen
   - Zelfinductie
   - Spoel

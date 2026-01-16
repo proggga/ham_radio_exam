@@ -1,11 +1,12 @@
+---
 id: 202512292009
 title: Mathematical Concepts for Radio
 tags: ["basics", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Wiskundige concepten"]
+---
 
 # Mathematical Concepts for Radio
 

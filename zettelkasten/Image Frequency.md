@@ -1,11 +1,12 @@
+---
 id: 202512292057
 title: Image Frequency
 tags: ["filters", "formulas", "interference", "receivers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Spiegelfrequentie"]
+---
 
 # Image Frequency (Spiegelfrequentie)
 

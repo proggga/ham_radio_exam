@@ -1,11 +1,12 @@
+---
 id: 202512292132
 title: Parallel Circuits
 tags: ["circuits", "electricity", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Parallelschakeling", "Parallelschakeling van weerstanden"]
+---
 
 # Parallel Circuits
 

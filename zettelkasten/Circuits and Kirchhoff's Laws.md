@@ -1,11 +1,12 @@
+---
 id: 202301011206
 title: "Map: Circuits & Kirchhoff's Laws"
 tags: ["circuits", "electricity", "map", "regulations"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
-aliases: ["Kringen en wetten van Kirchhoff"]
+aliases: []
+---
 
 # Map: Circuits & Kirchhoff's Laws
 

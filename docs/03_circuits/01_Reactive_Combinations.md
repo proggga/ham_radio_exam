@@ -1,19 +1,10 @@
-id: 202301011219
-title: "Reactive Combinations"
-tags: ["circuits", "formulas"]
-created: 2025-12-29
-type: permanent-note
-modified: 2025-12-29
-
-aliases: ["Reactieve combinaties"]
-
 # Reactive Combinations
 
 ## 1. Capacitors in Series and Parallel
-[Capacitors](../02_components/02_Capacitors.md) behave **opposite** to [Resistors](../02_components/01_Resistors.md).
+[Capacitors](../02_components/05_Capacitors.md) behave **opposite** to [Resistors](../02_components/01_Resistors.md).
 
 ### Parallel Capacitors
-Connecting [Capacitors](../02_components/02_Capacitors.md) in parallel increases the total plate area.
+Connecting [Capacitors](../02_components/05_Capacitors.md) in parallel increases the total plate area.
 *   **Formula:** Add the values.
     $$C_{tot} = C_1 + C_2 + C_3 + \dots$$
 *   **Result:** $C_{tot}$ is larger than the largest capacitor.
@@ -25,7 +16,7 @@ Connecting capacitors in series increases the effective distance between plates.
 *   **Result:** $C_{tot}$ is smaller than the smallest capacitor.
 
 ## 2. Inductors in Series and Parallel
-[Inductors](../02_components/03_Inductors.md) behave **like** resistors (assuming no magnetic coupling between them).
+[Inductors](../02_components/09_Inductors.md) behave **like** resistors (assuming no magnetic coupling between them).
 
 ### Series Inductors
 *   **Formula:** Add the values.
@@ -39,7 +30,7 @@ Connecting capacitors in series increases the effective distance between plates.
 
 ## Summary Table
 
-| Connection | [Resistors](../02_components/01_Resistors.md) ($R$) | [Inductors](../02_components/03_Inductors.md) ($L$) | [Capacitors](../02_components/02_Capacitors.md) ($C$) |
+| Connection | [Resistors](../02_components/01_Resistors.md) ($R$) | [Inductors](../02_components/09_Inductors.md) ($L$) | [Capacitors](../02_components/05_Capacitors.md) ($C$) |
 | :--- | :--- | :--- | :--- |
 | **Series** | Add | Add | Inverse Sum |
 | **Parallel** | Inverse Sum | Inverse Sum | Add |

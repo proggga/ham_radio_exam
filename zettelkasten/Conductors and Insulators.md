@@ -1,11 +1,12 @@
+---
 id: 202512291804
 title: "Conductors and Insulators"
 tags: ["electricity", "materials", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Geleiders en isolatoren"]
+---
 
 # Conductors and Insulators
 

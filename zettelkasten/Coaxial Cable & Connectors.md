@@ -1,11 +1,12 @@
+---
 id: 202512311210
 title: Coaxial Cable & Connectors
 tags: ["antennas", "components", "feedlines", "transmission-lines"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Coaxkabels", "Connectoren"]
+---
 
 # Coaxial Cable & Connectors
 

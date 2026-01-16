@@ -1,11 +1,12 @@
+---
 id: 202512292023
 title: Special Transformers
 tags: ["components", "safety", "transformers", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Speciale transformatoren"]
+---
 
 # Special Transformers
 

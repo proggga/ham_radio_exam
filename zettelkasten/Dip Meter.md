@@ -1,11 +1,12 @@
+---
 id: 202512292112
 title: Dip Meter
 tags: ["equipment", "measurements", "oscillators", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Dipmeter"]
+---
 
 # Dip Meter (Grid Dipper)
 

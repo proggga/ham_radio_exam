@@ -5,8 +5,7 @@ tags: ["regulations"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
-
-aliases: ["Dutch Frequency Regulations 2015", "Regeling gebruik frequentieruimte", "Frequency Regulations 2015"]
+aliases: ["Controlled Exposure Frequency range", "Doorgemeten. De horizontale schaal", "Dutch Frequency Regulations 2015", "Frequency", "Frequency Regulations 2015", "Frequentie", "In megahertz", "MHz", "Megahertz", "Regeling gebruik frequentieruimte", "Uncontrolled Exposure Frequency range"]
 ---
 
 # Dutch Frequency Regulations 2015

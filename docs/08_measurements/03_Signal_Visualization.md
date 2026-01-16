@@ -1,25 +1,16 @@
-id: 202301011241
-title: "Signal Visualization"
-tags: ["amplifiers", "formulas", "math", "measurements", "modes"]
-created: 2025-12-29
-type: permanent-note
-modified: 2025-12-29
-
-aliases: ["Signaalweergave"]
-
 # Signal Visualization
 
 ## 1. Oscilloscope
 Visualizes signals in the **Time Domain** (Voltage vs Time).
-*   **Components (Analogue):** Cathode Ray Tube (CRT), Vertical/Horizontal [Amplifiers](../03_circuits/06_Amplifiers.md), Timebase.
+*   **Components (Analogue):** Cathode Ray Tube (CRT), Vertical/Horizontal [Amplifiers](../03_circuits/15_Amplifiers.md), Timebase.
 *   **Operation:** Electron beam sweeps across the screen (X-axis = Time) while signal deflects it up/down (Y-axis = Voltage).
-*   **[Measurements](../01_electricity/10_Measurements.md):**
+*   **[Measurements](../01_electricity/13_Measurements.md):**
     *   **Amplitude:** Peak-to-Peak voltage ($U_{pp}$).
     *   **Period ($T$):** Time for one cycle.
     *   **Frequency:** Calculated as $f = 1/T$.
-    *   **Waveform:** Sine, Square, Distortion, [Modulation](../01_electricity/19_Modulation_&_Digital_Signals.md) depth.
+    *   **Waveform:** Sine, Square, Distortion, [Modulation](../01_electricity/32_Modulation_&_Digital_Signals.md) depth.
     *   **Envelope (Omhullende):** Visualizing the amplitude variation of an AM/SSB signal over time.
-        *   Used to measure **Modulation Depth** (AM) or **PEP** (SSB).
+        *   Used to measure **[Modulation Depth](../01_electricity/33_Analogue_Modulation_&_AM.md)** (AM) or **[PEP](../01_electricity/33_Analogue_Modulation_&_AM.md)** (SSB).
         *   *Exam:* Identifying the shape of an AM signal (carrier + audio) vs. FM (constant amplitude).
     *   **Lissajous Figures:** XY-mode (Channel A = X, Channel B = Y).
         *   Used to compare **Frequency** and **Phase** of two signals.
@@ -31,10 +22,10 @@ Visualizes signals in the **Time Domain** (Voltage vs Time).
 ## 2. Spectrum Analyzer
 Visualizes signals in the **Frequency Domain** (Amplitude vs Frequency).
 *   **Display:** X-axis = Frequency, Y-axis = Amplitude (dBm).
-*   **[Measurements](../01_electricity/10_Measurements.md):**
+*   **[Measurements](../01_electricity/13_Measurements.md):**
     *   **Harmonics:** Check for suppression of $2f, 3f$, etc.
     *   **Spurious Emissions:** Detect unwanted parasitic oscillations.
-    *   **Bandwidth:** Measure occupied bandwidth of a modulated signal. See [Modulation](../01_electricity/19_Modulation_&_Digital_Signals.md).
+    *   **[Bandwidth](../03_circuits/07_Bandwidth.md):** Measure occupied bandwidth of a modulated signal. See [Modulation](../01_electricity/32_Modulation_&_Digital_Signals.md).
     *   **Intermodulation:** Visualise IP3 products. See [Interference](../09_interference/01_Types_of_Interference.md).
 
 ---

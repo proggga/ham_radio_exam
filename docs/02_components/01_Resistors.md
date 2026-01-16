@@ -1,26 +1,17 @@
-id: 202301011212
-title: "Resistors"
-tags: ["components", "formulas", "index"]
-created: 2025-12-29
-type: index
-modified: 2025-12-29
-
-aliases: ["Weerstanden"]
-
 # Resistors
 
 This map covers resistor types, identification, and standard values.
 
 ## Hardware
-*   **Resistor Types** - Fixed, Variable, and Thermistors.
+*   **[Resistor Types](02_Resistor_Types.md)** - Fixed, Variable, and Thermistors.
 
 ## Identification
-*   **Resistor Color Code** - Decoding 4-band resistors.
-*   **Standard Component Values (E-Series)** - E12 and E24 series.
+*   **[Resistor Color Code](03_Resistor_Color_Code.md)** - Decoding 4-band resistors.
+*   **[Standard Component Values (E-Series)](04_Standard_Component_Values_E-Series.md)** - E12 and E24 series.
 
 ## 4. Resistance of a Wire
 *   **Formula:** $R = \rho \frac{L}{A}$
-    *   $\rho$ (Greek: Rho) = **[Resistivity](../01_electricity/08_Resistivity.md)**.
+    *   $\rho$ (Greek: Rho) = **[Resistivity](../01_electricity/06_Resistivity.md)**.
 *   **Deformation (Stretching):** If a wire is stretched to **n** times its length, its volume remains constant ($V = L \times A$). Therefore, the Area decreases by **n** times.
     *   New Length = $n \cdot L$
     *   New Area = $A / n$

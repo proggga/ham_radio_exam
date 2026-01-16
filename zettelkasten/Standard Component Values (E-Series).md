@@ -5,8 +5,7 @@ tags: ["components", "reference"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Standaardwaarden", "E-reeks"]
+aliases: ["E-Series", "E-reeks", "Standaardwaarden"]
 ---
 
 # Standard Component Values (E-Series)

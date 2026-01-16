@@ -1,11 +1,12 @@
+---
 id: 202512292101
 title: Receiver Overload
 tags: ["amplifiers", "interference", "receivers", "safety", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Ontvangeroversturing"]
+---
 
 # Receiver Overload
 

@@ -1,11 +1,12 @@
+---
 id: 202512310002
 title: Field Expedient Antennas
 tags: ["antennas", "emergency", "military", "safety", "transmission-lines"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Noodantennes", "Veldantennes"]
+---
 
 # Field Expedient Antennas
 

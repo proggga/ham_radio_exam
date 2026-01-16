@@ -5,7 +5,6 @@ tags: ["bands", "hf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["20m band"]
 ---
 

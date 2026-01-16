@@ -5,8 +5,7 @@ tags: ["regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Machtigingsvoorwaarden", "Registratie"]
+aliases: ["Agentschap Telecom", "Machtigingsvoorwaarden", "RDI", "Registratie", "Rijksinspectie Digitale Infrastructuur"]
 ---
 
 # Licensing in the Netherlands

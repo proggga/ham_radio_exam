@@ -1,11 +1,12 @@
+---
 id: 202301011224
 title: "Detectors, Oscillators & Mixers"
 tags: ["amplifiers", "circuits", "index", "modes", "oscillators"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
-aliases: ["Detectoren, oscillatoren en mengtrappen"]
+aliases: ["Detectoren", "oscillatoren en mengtrappen"]
+---
 
 # Detectors, Oscillators & Mixers
 

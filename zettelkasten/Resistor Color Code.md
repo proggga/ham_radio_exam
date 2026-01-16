@@ -1,11 +1,12 @@
+---
 id: 202512292048
 title: Resistor Color Code
 tags: ["components", "formulas", "mnemonics", "reference", "resistors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Kleurcode weerstanden"]
+---
 
 # Resistor Color Code
 

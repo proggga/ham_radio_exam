@@ -1,11 +1,12 @@
+---
 id: 202512292021
 title: Operational Amplifiers (Op-Amps)
 tags: ["amplifiers", "circuits", "components", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Operationele versterkers", "Op-amps"]
+aliases: ["Op-amps", "Opamps", "Operationele versterkers"]
+---
 
 # Operational Amplifiers (Op-Amps)
 

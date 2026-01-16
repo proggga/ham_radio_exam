@@ -5,8 +5,7 @@ tags: ["components", "resistors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Vaste weerstanden", "Variabele weerstanden", "Thermistors"]
+aliases: ["Thermistors", "Variabele weerstanden", "Vaste weerstanden", "Weerstand"]
 ---
 
 # Resistor Types

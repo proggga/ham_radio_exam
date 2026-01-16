@@ -1,11 +1,12 @@
+---
 id: 202301011233
 title: "Antenna Characteristics"
 tags: ["antennas", "formulas", "math", "safety", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Antenne-eigenschappen"]
+---
 
 # Antenna Characteristics
 

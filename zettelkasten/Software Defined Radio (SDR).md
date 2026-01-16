@@ -1,11 +1,12 @@
+---
 id: 202512311320
 title: Software Defined Radio (SDR)
 tags: ["amplifiers", "digital", "equipment", "filters", "modes", "receivers", "safety"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["SDR", "Softwaregedefinieerde radio"]
+---
 
 # Software Defined Radio (SDR)
 

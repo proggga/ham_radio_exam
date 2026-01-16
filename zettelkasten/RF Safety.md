@@ -1,11 +1,12 @@
+---
 id: 202301011247
 title: "RF Safety"
 tags: ["formulas", "math", "modes", "safety"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["RF-veiligheid", "Elektromagnetische velden"]
+aliases: ["Elektromagnetische velden", "RF-veiligheid"]
+---
 
 # RF Safety
 

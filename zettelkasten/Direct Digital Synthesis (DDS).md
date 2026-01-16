@@ -1,11 +1,12 @@
+---
 id: 202501111205
 title: Direct Digital Synthesis (DDS)
 tags: ["circuits", "dsp", "filters", "formulas", "math", "oscillators"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
-
-aliases: ["Directe digitale frequentiesynthese", "DDS"]
+aliases: ["DDS", "Directe digitale frequentiesynthese"]
+---
 
 # Direct Digital Synthesis (DDS)
 

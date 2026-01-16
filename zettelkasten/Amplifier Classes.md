@@ -1,11 +1,12 @@
+---
 id: 202512292016
 title: Amplifier Classes
 tags: ["amplifiers", "circuits", "formulas", "math", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Versterkerklassen", "Instelling van versterkers", "Klasse A", "Klasse B", "Klasse C"]
+aliases: ["Instelling van versterkers", "Klasse A", "Klasse B", "Klasse C", "Versterkerklassen"]
+---
 
 # Amplifier Classes
 

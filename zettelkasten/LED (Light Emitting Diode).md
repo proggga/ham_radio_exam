@@ -1,11 +1,12 @@
+---
 id: 202512302215
 title: LED (Light Emitting Diode)
 tags: ["components", "formulas", "semiconductors"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
-
-aliases: ["LED", "Lichtemitterende diode"]
+aliases: ["LED", "Licht emitterende diode", "Lichtemitterende diode"]
+---
 
 # LED (Light Emitting Diode)
 

@@ -5,8 +5,7 @@ tags: ["components", "physics"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
-
-aliases: ["Huideffect"]
+aliases: ["Huideffect", "Skineffect"]
 ---
 
 # Skin Effect

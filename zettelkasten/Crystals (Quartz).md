@@ -1,11 +1,12 @@
+---
 id: 202512292033
 title: Crystals (Quartz)
 tags: ["components", "digital", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Kristallen", "Kwartskristallen"]
+aliases: ["Een mengtrap en een", "Eerste oscillator vast", "Kristal", "Kristallen", "Kwartskristallen", "N zijband via een"]
+---
 
 # Crystals (Quartz)
 

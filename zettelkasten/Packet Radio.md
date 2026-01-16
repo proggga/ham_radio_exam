@@ -5,8 +5,7 @@ tags: ["digital", "protocols"]
 created: 2025-01-11
 type: permanent-note
 modified: 2025-01-11
-
-aliases: ["Packet Radio", "AX.25", "AX25"]
+aliases: ["ARQ", "AX.25", "AX25", "CRC", "Packet Radio"]
 ---
 
 # Packet Radio (AX.25)

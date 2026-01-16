@@ -1,11 +1,12 @@
+---
 id: 202512291909
 title: "10m Band"
 tags: ["bands", "hf", "ionosphere", "modes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["10m band"]
+---
 
 # 10m Band (28 MHz)
 

@@ -1,11 +1,12 @@
+---
 id: 202301011245
 title: "Mitigation"
 tags: ["filters", "formulas", "interference", "oscillators", "safety"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Ontstoring", "EMC"]
+aliases: ["EMC", "Electro magnetic compatibility", "Ontstoring"]
+---
 
 # Mitigation (Ontstoring)
 

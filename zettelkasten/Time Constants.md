@@ -1,11 +1,12 @@
+---
 id: 202301011220
 title: "Time Constants"
 tags: ["circuits", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Tijdconstanten"]
+---
 
 # Time Constants ($\tau$)
 

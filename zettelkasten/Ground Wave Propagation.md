@@ -1,11 +1,12 @@
+---
 id: 202512292160
 title: Ground Wave Propagation
 tags: ["ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Grondgolf"]
+aliases: ["Bodemgolf", "Grondgolf", "Satelliet amateur Satelliet Bodemgolf"]
+---
 
 # Ground Wave Propagation (Grondgolf)
 

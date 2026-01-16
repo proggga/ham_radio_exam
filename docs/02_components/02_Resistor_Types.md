@@ -1,0 +1,22 @@
+# Resistor Types
+
+## Fixed Resistors
+Value is constant and determined by the manufacturer.
+*   **Carbon Film**: Common, general purpose, low cost.
+*   **Metal Film**: Higher precision, lower noise, better stability.
+*   **Wirewound**: High power handling, but has inductance (not suitable for [HF](../07_propagation/01_Propagation_Basics.md)).
+
+## Variable Resistors
+Value can be adjusted mechanically.
+*   **Potentiometer**: Three terminals acting as a voltage divider. Used for volume controls.
+*   **Rheostat**: Two terminals (variable resistance). Used to limit current.
+
+## Thermistors
+Temperature-dependent resistors.
+*   **NTC (Negative Temperature Coefficient)**: Resistance **decreases** as temperature rises.
+    *   *Use*: Temperature sensing, inrush current limiting.
+*   **PTC (Positive Temperature Coefficient)**: Resistance **increases** as temperature rises.
+    *   *Use*: Over-current protection (resettable fuses).
+
+---
+[< Back to Section Index](README.md)

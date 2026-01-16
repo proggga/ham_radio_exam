@@ -1,11 +1,12 @@
+---
 id: 202512292054
 title: "Reactance"
 tags: ["circuits", "electronics", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Reactantie"]
+---
 
 # Reactance (Reactantie)
 

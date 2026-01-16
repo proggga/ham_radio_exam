@@ -1,11 +1,12 @@
+---
 id: 202512292010
 title: Decibels & Logarithms
 tags: ["amplifiers", "basics", "exam-tips", "formulas", "math", "measurements", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Decibels", "Logaritmen", "dB"]
+aliases: ["-3 dBVersterking dubbel filter", "Decibel", "Decibels", "Logaritmen", "VSWR VSWR", "We often use decibels", "dB"]
+---
 
 # Decibels & Logarithms
 

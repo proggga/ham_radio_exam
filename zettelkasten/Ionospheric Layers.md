@@ -5,8 +5,7 @@ tags: ["ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Ionosfeer", "Ionosfeerlagen"]
+aliases: ["Higher", "Ionosfeer", "Ionosfeerlagen", "Lower"]
 ---
 
 # Ionospheric Layers

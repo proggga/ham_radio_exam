@@ -1,11 +1,12 @@
+---
 id: 202512292161
 title: Sky Wave Propagation
 tags: ["ionosphere", "propagation"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Ruimtegolf"]
+---
 
 # Sky Wave Propagation (Ruimtegolf)
 

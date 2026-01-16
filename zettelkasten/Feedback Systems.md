@@ -1,11 +1,12 @@
+---
 id: 202512292018
 title: Feedback Systems
 tags: ["circuits", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Tegenkoppeling", "Meekoppeling"]
+aliases: ["Meekoppeling", "Tegenkoppeling"]
+---
 
 # Feedback Systems
 

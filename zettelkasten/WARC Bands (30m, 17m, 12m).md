@@ -1,11 +1,12 @@
+---
 id: 202512291920
 title: "WARC Bands (30m, 17m, 12m)"
 tags: ["bands", "hf", "modes", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["WARC-banden"]
+---
 
 # WARC Bands
 

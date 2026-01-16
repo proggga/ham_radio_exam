@@ -1,11 +1,12 @@
+---
 id: 202512292104
 title: Transmitter Defects
 tags: ["amplifiers", "filters", "interference", "modes", "oscillators", "semiconductors", "transmitters"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Zenderdefecten"]
+---
 
 # Transmitter Defects
 

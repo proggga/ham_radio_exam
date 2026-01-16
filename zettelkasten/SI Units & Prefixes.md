@@ -1,11 +1,12 @@
+---
 id: 202512292008
 title: SI Units & Prefixes
 tags: ["basics", "formulas", "math"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Eenheden", "Voorvoegsels", "SI-stelsel"]
+aliases: ["Eenheden", "SI-stelsel", "Voorvoegsels"]
+---
 
 # SI Units & Prefixes
 

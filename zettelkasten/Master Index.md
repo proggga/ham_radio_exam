@@ -1,11 +1,12 @@
+---
 id: 202301011254
 title: "Master Index"
 tags: ["amplifiers", "index", "ionosphere", "math", "moc", "modes", "oscillators", "regulations", "safety", "semiconductors", "transmission-lines"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Hoofdindex"]
+---
 
 # Master Index
 
@@ -66,6 +67,7 @@ This index provides a comprehensive list of all study topics organized by catego
 
 ## 4. Receivers
 *   [[Receiver Types|Types]] (TRF, Direct Conversion)
+*   [[Direct Conversion Receiver]] (Homodyne, DC)
 *   [[Superheterodyne Receiver|Superheterodyne]] (Block Diagram, Image Freq)
 *   [[Software Defined Radio (SDR)]] (Direct Sampling, Waterfall)
 *   [[Detectors (Demodulators)|Detectors]] (AM, FM, Product)

@@ -1,12 +1,3 @@
-id: 202501101408
-title: "Telecommunications Act Provisions"
-tags: ["regulations", "safety"]
-created: 2025-01-10
-type: permanent-note
-modified: 2025-01-10
-
-aliases: ["Telecommunicatiewet Provisions", "Telecommunicatiewet bepalingen", "Telecommunicatiewet"]
-
 # Telecommunicatiewet Provisions
 
 The **Telecommunicatiewet** (Telecommunications Act) is the primary legislation governing all radio and wire communications in the Netherlands.

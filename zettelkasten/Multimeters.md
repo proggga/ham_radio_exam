@@ -1,11 +1,12 @@
+---
 id: 202301011240
 title: "Multimeters"
 tags: ["formulas", "math", "measurements", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Universeelmeters", "Multimeters"]
+aliases: ["Multimeters", "Universeelmeters"]
+---
 
 # Multimeters (Universeelmeters)
 

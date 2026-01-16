@@ -1,29 +1,20 @@
-id: 202301011236
-title: "Propagation Basics"
-tags: ["formulas", "ionosphere", "math", "propagation"]
-created: 2025-12-29
-type: permanent-note
-modified: 2025-12-29
-
-aliases: ["Propagatie", "Voortplanting van radiogolven"]
-
 # Propagation Basics
 
 ## 1. Electromagnetic Waves
-Radio waves consist of oscillating Electric ($E$) and Magnetic ($H$) fields. See [Fields](../01_electricity/13_Electric,_Magnetic,_and_Electromagnetic_Fields.md).
+Radio waves consist of oscillating Electric ($E$) and Magnetic ($H$) fields. See [Fields](../01_electricity/20_Electric,_Magnetic,_and_Electromagnetic_Fields.md).
 *   **Orientation:** $E$ and $H$ are perpendicular to each other and to the direction of travel.
 *   **Velocity:** $c \approx 300,000 \text{ km/s}$.
-*   **Wavelength:** $\lambda = c / f$. See [AC Signals](../01_electricity/14_AC_Signals_&_Noise.md).
+*   **Wavelength:** $\lambda = c / f$. See [AC Signals](../01_electricity/27_AC_Signals_&_Noise.md).
 
 ## 2. Polarization
-Defined by the orientation of the **Electric Field ($E$)**.
+Defined by the orientation of the **[Electric Field](../01_electricity/26_Electric_Field.md) ($E$)**.
 *   **Horizontal:** [Dipole](../06_antennas/02_The_Dipole_Antenna.md) parallel to the ground.
 *   **Vertical:** Ground plane / vertical whip.
-*   **Cross Polarization:** Loss of signal (~20-30 dB) if TX is Vertical and RX is Horizontal (or vice versa). Important for [VHF](15_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](15_VHFUHF_Bands_6m,_2m,_70cm.md)/Line of Sight. Less important for HF Skywave (ionosphere twists polarization).
+*   **Cross Polarization:** Loss of signal (~20-30 [dB](../00_basic_skills.md)) if TX is Vertical and RX is Horizontal (or vice versa). Important for [VHF](08_VHFUHF_Bands_6m,_2m,_70cm.md)/[UHF](08_VHFUHF_Bands_6m,_2m,_70cm.md)/Line of Sight. Less important for HF Skywave (ionosphere twists polarization).
 
 ## 3. Inverse Square Law
 As the wave spreads out from a point source, power density decreases with the square of the distance.
-*   Double the distance = 1/4 the power (-6 dB).
+*   Double the distance = 1/4 the power (-6 [dB](../00_basic_skills.md)).
 *   See **[Link Budget](02_Link_Budget.md)** for calculating total system performance.
 
 ---

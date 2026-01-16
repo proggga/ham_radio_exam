@@ -1,11 +1,12 @@
+---
 id: 202512292183
 title: Transmission Line Loss
 tags: ["antennas", "math", "physics", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Kabeldemping", "Verliezen in transmissielijnen"]
+---
 
 # Transmission Line Loss (Attenuation)
 

@@ -1,11 +1,12 @@
+---
 id: 202512292038
 title: Oscillators
 tags: ["circuits", "formulas", "mnemonics", "oscillators", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Oscillatoren"]
+aliases: ["Frequentiestabiliteit", "Kristaloscillator", "Oscillatoren"]
+---
 
 # Oscillators
 

@@ -5,8 +5,7 @@ tags: ["regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Definitie amateurdienst"]
+aliases: ["Article 1.56", "Definitie amateurdienst"]
 ---
 
 # Amateur Service Definition

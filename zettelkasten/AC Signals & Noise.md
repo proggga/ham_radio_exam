@@ -5,8 +5,7 @@ tags: ["electricity", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
-aliases: ["Wisselstroom en ruis"]
+aliases: ["Ruis", "Wisselstroom en ruis"]
 ---
 
 # AC Signals & Noise

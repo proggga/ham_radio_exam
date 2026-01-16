@@ -1,11 +1,12 @@
+---
 id: 202301011203
 title: "Resistivity"
 tags: ["electricity", "formulas", "semiconductors"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Soortelijke weerstand", "Soortelijke Weerstand"]
+aliases: ["Soortelijke Weerstand", "Soortelijke weerstand"]
+---
 
 # Resistivity (Soortelijke Weerstand)
 

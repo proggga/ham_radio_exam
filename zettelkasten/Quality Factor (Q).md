@@ -1,11 +1,12 @@
+---
 id: 202512292044
 title: Quality Factor (Q)
 tags: ["circuits", "formulas", "resonance"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Kwaliteitsfactor", "Q-factor"]
+---
 
 # Quality Factor (Q)
 

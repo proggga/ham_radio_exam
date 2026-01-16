@@ -1,11 +1,12 @@
+---
 id: 202512311430
 title: Earth-Moon-Earth (EME)
 tags: ["ionosphere", "math", "modes", "operating", "propagation", "weak-signal"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
-aliases: ["EME", "Maanstuiter"]
+aliases: [",", "EME", "EME or"]
+---
 
 # Earth-Moon-Earth (EME)
 

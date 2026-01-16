@@ -1,11 +1,12 @@
+---
 id: 202512292170
 title: Electrical Power
 tags: ["electricity", "formulas", "physics", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Elektrisch vermogen", "Vermogen"]
+---
 
 # Electrical Power (Vermogen)
 

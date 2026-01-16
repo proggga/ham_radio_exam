@@ -1,11 +1,12 @@
+---
 id: 202512291910
 title: "VHF/UHF Bands (6m, 2m, 70cm)"
 tags: ["bands", "modes", "uhf", "vhf"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["VHF/UHF banden", "2m Band", "70cm Band", "6m Band", "VHF", "UHF"]
+aliases: ["2m Band", "6m Band", "70cm Band", "M UHF", "UHF", "Ultra High Frequencies", "Ultra High Frequency", "Ultrahigh frequency", "VHF", "VHF/UHF banden", "Very High Frequencies", "Very High Frequency"]
+---
 
 # VHF/UHF Bands
 

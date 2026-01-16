@@ -1,11 +1,12 @@
+---
 id: 202512310007
 title: Modern Digital Modes
 tags: ["digital", "modes", "operating", "regulations"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Moderne digitale modi"]
+---
 
 # Modern Digital Modes
 

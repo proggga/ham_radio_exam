@@ -1,11 +1,12 @@
+---
 id: 202301011221
 title: "Filters & Resonance"
 tags: ["circuits", "filters", "formulas", "index", "mnemonics", "modes"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Filters en resonantie", "Kringen"]
+---
 
 # Filters & Resonance
 

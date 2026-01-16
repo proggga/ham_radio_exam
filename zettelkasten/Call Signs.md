@@ -1,11 +1,12 @@
+---
 id: 202512292007
 title: Call Signs
 tags: ["modes", "operating", "regulations"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Roepletters", "Callsigns"]
+aliases: ["Call", "Callsigns", "Met je roepletters", "Roepletters"]
+---
 
 # Call Signs
 

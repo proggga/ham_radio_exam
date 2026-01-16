@@ -1,11 +1,12 @@
+---
 id: 202301011229
 title: "Receiver Performance"
 tags: ["amplifiers", "formulas", "math", "oscillators", "receivers"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Ontvangerspecificaties"]
+---
 
 # Receiver Performance
 

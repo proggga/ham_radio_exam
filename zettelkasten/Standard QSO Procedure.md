@@ -1,11 +1,12 @@
+---
 id: 202512292002
 title: Standard QSO Procedure
 tags: ["math", "modes", "operating", "procedures"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Standaard QSO-procedure"]
+---
 
 # Standard QSO Procedure
 

@@ -1,11 +1,12 @@
+---
 id: 202301011212
 title: "Resistors"
 tags: ["components", "formulas", "index"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
 aliases: ["Weerstanden"]
+---
 
 # Resistors
 

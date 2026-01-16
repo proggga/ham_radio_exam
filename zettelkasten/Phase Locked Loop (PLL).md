@@ -1,11 +1,12 @@
+---
 id: 202512292041
 title: Phase Locked Loop (PLL)
 tags: ["circuits", "digital", "filters", "formulas", "modes", "oscillators"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Fasevergrendelde lus", "PLL"]
+aliases: ["Fasevergrendelde lus", "Of Phase Locked Loop", "PLL", "Zoals de fasevergrendelde lus"]
+---
 
 # Phase Locked Loop (PLL)
 

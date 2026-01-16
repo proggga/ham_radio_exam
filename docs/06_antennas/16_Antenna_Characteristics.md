@@ -1,17 +1,8 @@
-id: 202301011233
-title: "Antenna Characteristics"
-tags: ["antennas", "formulas", "math", "safety", "transmission-lines"]
-created: 2025-12-29
-type: permanent-note
-modified: 2025-12-29
-
-aliases: ["Antenne-eigenschappen"]
-
 # Antenna Characteristics
 
 ## 1. Gain
 [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) gain is a comparison of power in the strongest direction against a reference antenna.
-*   **Polarization:** Determined by the direction of the **Electric Field (E-field)**. For a dipole, this is parallel to the element.
+*   **Polarization:** Determined by the direction of the **[Electric Field](../01_electricity/26_Electric_Field.md) (E-field)**. For a dipole, this is parallel to the element.
 *   **Isotropic Radiator:** A theoretical point source radiating equally in all directions (sphere).
     *   Unit: **dBi**.
 *   **[Dipole](02_The_Dipole_Antenna.md):** A real $\lambda/2$ antenna. See [Types](01_Antenna_Types.md).
@@ -26,17 +17,17 @@ aliases: ["Antenne-eigenschappen"]
     *   $EIRP = P_{transmitter} - Losses + Gain (dBi)$.
 
 ### Calculation Example
-**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 dB. [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) is a [Yagi](12_Directional_Antennas_Beams.md) with 13 dBd gain. What is the ERP?
+**Scenario:** Transmitter power is 10 Watts. Coax cable loss is 3 [dB](../00_basic_skills.md). [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) is a [Yagi](12_Directional_Antennas_Beams.md) with 13 dBd gain. What is the ERP?
 1.  **Convert Power to dBW:** $10 \text{ W} = 10 \text{ dBW}$.
-2.  **Calculate Power at [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md):** $10 \text{ dBW} - 3 \text{ dB} = 7 \text{ dBW}$ (5 Watts).
+2.  **Calculate Power at [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md):** $10 \text{ dBW} - 3 \text{ [dB](../00_basic_skills.md)} = 7 \text{ dBW}$ (5 Watts).
 3.  **Add Antenna Gain:** $7 \text{ dBW} + 13 \text{ dBd} = 20 \text{ dBW}$.
 4.  **Convert back to Watts:** $20 \text{ dBW} = 100 \text{ W}$.
-*   *Alternative (Factor method):* 3 dB loss = 1/2 power. 13 dB gain $\approx$ 20x power.
+*   *Alternative (Factor method):* 3 [dB](../00_basic_skills.md) loss = 1/2 power. 13 dB gain $\approx$ 20x power.
     *   $10 \text{ W} \times 0.5 \times 20 = 100 \text{ W}$.
 
 ## 3. Radiation Resistance ($R_{rad}$)
 A virtual resistance that accounts for the power radiated as EM waves.
-*   Total Impedance $Z = R_{rad} + R_{loss} + jX$. See [Impedance](../03_circuits/09_Reactance_&_Impedance.md).
+*   Total [Impedance](../01_electricity/22_Impedance.md) $Z = R_{rad} + R_{loss} + jX$. See [Impedance](../03_circuits/26_Reactance_&_Impedance.md).
 *   **Efficiency ($\eta$):**
     $$\eta = \frac{R_{rad}}{R_{rad} + R_{loss}}$$
 *   **Short Antennas:** Have very low $R_{rad}$. Efficiency is poor unless $R_{loss}$ is extremely low.

@@ -5,8 +5,7 @@ tags: ["index", "interference"]
 created: 2025-12-29
 type: index
 modified: 2025-12-29
-
-aliases: ["Soorten storingen", "Interferentie"]
+aliases: ["Interferentie", "Soorten storingen", "Storing"]
 ---
 
 # Types of Interference

@@ -1,11 +1,12 @@
+---
 id: 202512302230
 title: Diode Logic
 tags: ["components", "digital", "semiconductors"]
 created: 2025-12-30
 type: permanent-note
 modified: 2025-12-30
-
 aliases: ["Diodelogica"]
+---
 
 # Diode Logic
 

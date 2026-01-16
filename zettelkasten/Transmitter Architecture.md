@@ -1,11 +1,12 @@
+---
 id: 202301011230
 title: "Transmitter Architecture"
 tags: ["amplifiers", "filters", "modes", "oscillators", "transmitters"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Zenderopbouw"]
+---
 
 # Transmitter Architecture
 

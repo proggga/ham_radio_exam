@@ -1,11 +1,12 @@
+---
 id: 202512292014
 title: Physics Principles
 tags: ["basics", "formulas", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Natuurkundige principes"]
+---
 
 # Physics Principles
 

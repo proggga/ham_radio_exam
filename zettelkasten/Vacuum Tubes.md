@@ -1,11 +1,12 @@
+---
 id: 202512292020
 title: Vacuum Tubes
 tags: ["amplifiers", "components", "semiconductors", "tubes"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Elektronenbuizen", "Vacuümbuizen"]
+---
 
 # Vacuum Tubes
 

@@ -5,8 +5,7 @@ tags: ["emc", "regulations"]
 created: 2025-01-10
 type: permanent-note
 modified: 2025-01-10
-
-aliases: ["EMC-richtlijn", "EMC Directive"]
+aliases: ["EMC Directive", "EMC-richtlijn"]
 ---
 
 # EMC Directive (2014/30/EU)

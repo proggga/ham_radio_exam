@@ -1,10 +1,12 @@
+---
 id: 202501112055
 title: Conductance
 tags: ["electricity", "formulas"]
 created: 2026-01-11
 type: permanent-note
 modified: 2026-01-11
-aliases: ["Geleidbaarheid", "G"]
+aliases: ["G", "Geleidbaarheid"]
+---
 
 # Conductance
 

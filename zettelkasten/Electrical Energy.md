@@ -1,11 +1,12 @@
+---
 id: 202512292172
 title: Electrical Energy
 tags: ["electricity", "formulas", "physics"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Elektrische energie", "Arbeid"]
+aliases: ["Arbeid", "Elektrische energie", "Energie", "Vermogen en arbeid"]
+---
 
 # Electrical Energy (Arbeid/Energie)
 

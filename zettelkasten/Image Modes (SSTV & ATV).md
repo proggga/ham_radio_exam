@@ -1,11 +1,12 @@
+---
 id: 202512311420
 title: Image Modes (SSTV & ATV)
 tags: ["image", "modes", "operating", "regulations"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
-aliases: ["Beeldmodi", "SSTV", "ATV"]
+aliases: ["ATV", "Amateur television", "Beeldmodi", "SSTV", "Slow scan television"]
+---
 
 # Image Modes (SSTV & ATV)
 

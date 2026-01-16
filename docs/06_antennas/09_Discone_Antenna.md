@@ -1,12 +1,3 @@
-id: 202501111625
-title: Discone Antenna
-tags: ["antennas", "transmission-lines", "vhf-uhf"]
-created: 2025-01-11
-type: permanent-note
-modified: 2025-01-11
-
-aliases: ["Discone Antenne", "Discone", "Wideband Antenna"]
-
 # Discone Antenna
 
 The **Discone** (Disc + Cone) is a popular omnidirectional wideband antenna, primarily used for scanning and wide-spectrum monitoring.
@@ -25,7 +16,7 @@ The **Discone** (Disc + Cone) is a popular omnidirectional wideband antenna, pri
 
 ## Applications
 *   **Scanners**: Ideal for listening to Police, Airband, Marine, and Ham bands simultaneously.
-*   **Transmit**: Can be used for transmitting on amateur bands (6m, 2m, 70cm, 23cm) within its frequency range due to low SWR.
+*   **Transmit**: Can be used for transmitting on amateur bands (6m, 2m, 70cm, 23cm) within its frequency range due to low [SWR](23_Standing_Wave_Ratio_SWR.md).
     *   *Note:* It is not optimized for transmitting efficiency (low angle radiation varies), but it is safe for the radio.
 
 ---

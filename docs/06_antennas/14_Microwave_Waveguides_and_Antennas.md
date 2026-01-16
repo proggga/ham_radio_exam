@@ -1,12 +1,3 @@
-id: 202512311650
-title: Microwave Waveguides and Antennas
-tags: ["antennas", "filters", "formulas", "microwave", "propagation", "safety", "transmission-lines"]
-created: 2025-12-31
-type: permanent-note
-modified: 2025-12-31
-
-aliases: ["Golfpijpen", "Microgolfantennes"]
-
 # Microwave Waveguides and Antennas
 
 At microwave frequencies (above 1-3 GHz), standard cables (coax) become too lossy. **Waveguides**—hollow metal pipes—are used to guide electromagnetic energy.

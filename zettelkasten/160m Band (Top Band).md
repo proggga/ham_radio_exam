@@ -1,11 +1,12 @@
+---
 id: 202512291901
 title: "160m Band (Top Band)"
 tags: ["bands", "hf", "ionosphere"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["160m band", "Top band"]
+---
 
 # 160m Band (1.8 MHz)
 

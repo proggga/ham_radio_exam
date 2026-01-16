@@ -1,11 +1,12 @@
+---
 id: 202512311440
 title: Doppler Shift
 tags: ["formulas", "physics", "propagation", "satellite"]
 created: 2025-12-31
 type: permanent-note
 modified: 2025-12-31
-
 aliases: ["Dopplereffect"]
+---
 
 # Doppler Shift
 

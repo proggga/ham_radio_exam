@@ -1,11 +1,12 @@
+---
 id: 202512292116
 title: Vertical Antennas
 tags: ["antennas", "ionosphere", "math", "transmission-lines"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
-aliases: ["Verticale antennes", "Groundplane"]
+aliases: ["Groundplane", "Kwartgolf verticale antenne", "Verticale antennes"]
+---
 
 # Vertical Antennas
 

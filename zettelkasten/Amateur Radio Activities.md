@@ -1,11 +1,12 @@
+---
 id: 202512292001
 title: Amateur Radio Activities
 tags: ["activities", "ionosphere", "operating"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Radiozendamateurisme activiteiten"]
+---
 
 # Amateur Radio Activities
 

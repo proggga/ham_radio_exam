@@ -1,11 +1,12 @@
+---
 id: 202512292133
 title: Voltage Dividers
 tags: ["circuits", "electricity", "formulas"]
 created: 2025-12-29
 type: permanent-note
 modified: 2025-12-29
-
 aliases: ["Spanningsdelers"]
+---
 
 # Voltage Dividers
 
