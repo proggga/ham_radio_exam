@@ -86,6 +86,7 @@ This index provides a comprehensive list of all study topics organized by catego
     *   **[[Discone Antenna]]**
 *   **[[End-Fed Antenna]]** (EFHW, Zepp)
 *   [[Antenna Characteristics|Characteristics]] (Gain, Pattern, ERP)
+*   **[[Take-Off Angle]]** (Opstraalhoek, Elevation)
 *   [[Vertical Antennas]] (Ground Plane, 5/8 Wave)
     *   **[[J-Pole Antenna]]**
 *   [[Transmission Lines]] (Coax, Velocity Factor)

@@ -16,7 +16,7 @@ The **Discone** (Disc + Cone) is a popular omnidirectional wideband antenna, pri
 
 ## Applications
 *   **Scanners**: Ideal for listening to Police, Airband, Marine, and Ham bands simultaneously.
-*   **Transmit**: Can be used for transmitting on amateur bands (6m, 2m, 70cm, 23cm) within its frequency range due to low [SWR](23_Standing_Wave_Ratio_SWR.md).
+*   **Transmit**: Can be used for transmitting on amateur bands (6m, 2m, 70cm, 23cm) within its frequency range due to low [SWR](24_Standing_Wave_Ratio_SWR.md).
     *   *Note:* It is not optimized for transmitting efficiency (low angle radiation varies), but it is safe for the radio.
 
 ---

@@ -5,7 +5,7 @@ This map covers the instruments used to test and maintain radio equipment.
 ## Transmitter Testing
 *   **[SWR Meter](05_SWR_Meter.md)** - Checking antenna match.
 *   **[Dummy Load](../06_antennas/15_Dummy_Load.md)** - Safe non-radiating test load.
-*   **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Analyzer** - A handheld instrument that generates a low-power signal to measure [SWR](../06_antennas/23_Standing_Wave_Ratio_SWR.md), resistance ($R$), and reactance ($X$) of an antenna system across a range of frequencies without using a transmitter.
+*   **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Analyzer** - A handheld instrument that generates a low-power signal to measure [SWR](../06_antennas/24_Standing_Wave_Ratio_SWR.md), resistance ($R$), and reactance ($X$) of an antenna system across a range of frequencies without using a transmitter.
 
 ## Circuit Analysis
 *   **[Dip Meter](06_Dip_Meter.md)** - Finding resonance of passive circuits.

@@ -20,7 +20,7 @@ The **J-Pole** is a popular, omnidirectional vertical antenna used primarily for
     *   The $\lambda/4$ parallel line stub acts as an impedance transformer (Stub Match), transforming the high impedance of the radiator down to $50 \Omega$ at the feedpoint.
 
 ## Characteristics
-*   **Gain**: Slightly higher than a Ground Plane ($\approx 2-3$ dBi) due to the lower angle of radiation.
+*   **Gain**: Slightly higher than a Ground Plane ($\approx 2-3$ dBi) due to the lower [[Take-Off Angle|angle of radiation]].
 *   **Pattern**: Omnidirectional.
 *   **Grounding**: The bottom of the stub is a voltage node (zero voltage) and can be grounded directly to the mast (DC grounded), providing some lightning protection.
 *   **No Radials**: Unlike a Ground Plane, it does not require ground radials, making it less wind-resistant and easier to mount.

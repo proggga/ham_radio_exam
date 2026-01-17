@@ -10,7 +10,7 @@ Designed by Louis Varney (G5RV).
     *   **Matching Section**: ~30 ft (9m) of **Ladder Line** (Open wire or Window line) acting as a 1:1 impedance transformer on 20m.
 *   **Operation**:
     *   Works well on 80m, 40m, 20m, and 12m.
-    *   **Requires an ATU ([Tuner](25_Antenna_Tuning_Unit_ATU.md))** for most bands (except 20m).
+    *   **Requires an ATU ([Tuner](26_Antenna_Tuning_Unit_ATU.md))** for most bands (except 20m).
     *   Often acts as a "Cloud Warmer" on 80m due to low height relative to wavelength.
 
 ## 2. Windom / OCFD (Off-Center Fed Dipole)

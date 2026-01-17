@@ -296,7 +296,7 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
     *   *Cause:* Talking too close to the microphone or Mic Gain too high.
     *   *Fix:* Speak farther away ("Eat the mic" is bad for [FM](01_electricity/36_Frequency_Modulation_FM.md)) or turn down Mic Gain.
 *   **RF Feedback**: Audio sounds garbled, buzzing, or has a "motorboat" sound.
-    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/23_Standing_Wave_Ratio_SWR.md) or poor grounding.
+    *   *Cause:* Stray RF energy is being picked up by the microphone cable shield and getting into the audio amplifier. Common with high [SWR](06_antennas/24_Standing_Wave_Ratio_SWR.md) or poor grounding.
     *   *Fix:* Install a **Ferrite Choke** on the microphone cable. Improve station [RF Ground](11_procedures.md).
 *   **Low Voltage**: Audio sounds "warbly" or weak.
     *   *Cause:* Battery low or high resistance connection causing voltage drop during transmit peaks.
@@ -310,7 +310,7 @@ Diagnosing and fixing common station problems is a key skill for any radio opera
 ## Antenna & Power Problems
 
 ### High SWR
-*   **Intermittent [SWR](06_antennas/23_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
+*   **Intermittent [SWR](06_antennas/24_Standing_Wave_Ratio_SWR.md)**: Readings jump around (erratic).
     *   *Cause:* Loose connection (PL-259), bad solder joint, or corroded connector.
     *   *Fix:* Wiggle cables to find the fault. Resolder or replace connectors.
 *   **High SWR (Constant)**:

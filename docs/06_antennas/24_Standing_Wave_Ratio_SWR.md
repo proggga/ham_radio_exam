@@ -23,7 +23,7 @@ For purely resistive loads (at resonance):
 *   **$\infty$:1**: Total reflection. Open or Short circuit.
 
 ## Impact
-*   **Loss**: Higher SWR increases [Transmission Line Loss](19_Transmission_Line_Loss.md).
+*   **Loss**: Higher SWR increases [Transmission Line Loss](20_Transmission_Line_Loss.md).
 *   **Damage**: High voltage peaks can arc in cables; reflected power can overheat the transmitter PA.
 
 ---

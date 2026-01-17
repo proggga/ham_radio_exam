@@ -17,6 +17,9 @@ A dipole resonates not only at its fundamental frequency ($f$) but also at harmo
 ## Characteristics
 *   **[Impedance](../01_electricity/22_Impedance.md)**: $\approx 73 \Omega$ in free space. Lowers as it gets closer to the ground.
 *   **Radiation Pattern**: Figure-8 (Broadside to the wire). Nulls off the ends.
+*   **[Take-Off Angle](17_Take-Off_Angle.md)**: Dependent on height above ground.
+    *   *Low Height (< $\lambda/4$):* High angle (Cloud warmer / [NVIS](../07_propagation/13_Near_Vertical_Incidence_Skywave_NVIS.md)).
+    *   *High Height ($\ge \lambda/2$):* Lower angle (better for DX).
 *   **Polarization**: Horizontal (if hung horizontally).
 
 ## Variants

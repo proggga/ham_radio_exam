@@ -29,7 +29,7 @@ Different dielectric materials are suitable for different capacitance ranges.
 
 | Type | Typical Range | Key Application |
 | :--- | :--- | :--- |
-| **Air / Vacuum** | 1 pF - 500 pF | VFO Tuning, [ATU](../06_antennas/25_Antenna_Tuning_Unit_ATU.md) |
+| **Air / Vacuum** | 1 pF - 500 pF | VFO Tuning, [ATU](../06_antennas/26_Antenna_Tuning_Unit_ATU.md) |
 | **Mica** | 1 pF - 10 nF | High stability RF [Filters](../03_circuits/03_Filters_&_Resonance.md) |
 | **Ceramic** | 1 pF - 100 nF | RF coupling/decoupling, general purpose |
 | **Plastic Film** | 1 nF - 10 µF | Audio, timing circuits |

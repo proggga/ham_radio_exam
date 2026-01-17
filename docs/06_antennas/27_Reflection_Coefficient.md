@@ -9,7 +9,7 @@ In terms of Impedance ($Z_{load}$) and Characteristic Impedance ($Z_0$):
 $$\Gamma = \frac{Z_{load} - Z_0}{Z_{load} + Z_0}$$
 
 ## Values
-*   **$\Gamma = 0$**: Perfect match ($Z_{load} = Z_0$). No reflection. [SWR](23_Standing_Wave_Ratio_SWR.md) = 1:1.
+*   **$\Gamma = 0$**: Perfect match ($Z_{load} = Z_0$). No reflection. [SWR](24_Standing_Wave_Ratio_SWR.md) = 1:1.
 *   **$\Gamma = 1$**: Open Circuit ($Z_{load} = \infty$). 100% reflection (in phase).
 *   **$\Gamma = -1$**: Short Circuit ($Z_{load} = 0$). 100% reflection (180° phase reversal).
 

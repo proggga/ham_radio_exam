@@ -24,7 +24,7 @@ Accurate measurement is essential for testing equipment, verifying compliance, a
     *   *Critical Feature:* Calibrated Attenuator for sensitivity measurements.
 
 ## 4. Transmission & Antenna
-*   **[Impedance](22_Impedance.md) Matching:** [SWR Meter](../08_measurements/05_SWR_Meter.md). Measures [Standing Wave Ratio](../06_antennas/23_Standing_Wave_Ratio_SWR.md).
+*   **[Impedance](22_Impedance.md) Matching:** [SWR Meter](../08_measurements/05_SWR_Meter.md). Measures [Standing Wave Ratio](../06_antennas/24_Standing_Wave_Ratio_SWR.md).
 *   **Transmitter Load:** [Dummy Load](../06_antennas/15_Dummy_Load.md). Non-radiating $50 \Omega$ load.
 *   **Power:** Measured with an RF Power Meter or derived from Voltage ($P = U^2/R$) on a scope/dummy load.
     *   **[PEP](33_Analogue_Modulation_&_AM.md) Measurement:** Requires a Peak-Reading meter (capacitor hold) or [Oscilloscope](44_Oscilloscope.md).

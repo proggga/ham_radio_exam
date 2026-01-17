@@ -44,7 +44,7 @@ A virtual resistance that accounts for the power radiated as EM waves.
 
 ## 4. Patterns
 *   **Horizontal Pattern:** Azimuth (compass direction).
-*   **Vertical Pattern:** Elevation (angle above horizon).
+*   **Vertical Pattern:** [[Take-Off Angle|Elevation]] (angle above horizon).
 *   **Beamwidth:** The angle between the -3dB (half-power) points on the main lobe.
 *   **Front-to-Back Ratio:** The difference in signal strength (dB) between the front and back of a directional antenna.
 

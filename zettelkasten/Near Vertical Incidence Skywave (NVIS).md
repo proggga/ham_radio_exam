@@ -25,7 +25,7 @@ NVIS is a propagation mode used to cover the "Skip Zone" area (typically 0 to 30
 *   **Emergency Comms**: Covering a region/state during disasters when repeaters are down.
 
 ## Antennas
-*   **Requirement**: High-angle radiation (cloud warmer).
+*   **Requirement**: High [[Take-Off Angle|angle of radiation]] (cloud warmer).
 *   **Horizontal [[The Dipole Antenna|Dipole]]**: Mounted **low** (0.1$\lambda$ to 0.25$\lambda$ height, e.g., 2-5 meters high).
     *   Ground reflection reinforces the upward signal.
 *   **Inverted V**: Center supported, ends close to ground.

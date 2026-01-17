@@ -13,7 +13,7 @@ Transmission lines carry RF energy from the transmitter to the antenna.
 *   **Structure**: Two parallel wires separated by insulating spacers.
     *   *Examples*: "Ladder line", "Kippenladder", 300 $\Omega$ TV ribbon.
 *   **[Impedance](../01_electricity/22_Impedance.md) ($Z_0$)**: Typically **300 $\Omega$, 450 $\Omega$, or 600 $\Omega$**.
-*   **Characteristics**: Extremely low loss, even at high [SWR](23_Standing_Wave_Ratio_SWR.md). ideal for multiband doublets.
+*   **Characteristics**: Extremely low loss, even at high [SWR](24_Standing_Wave_Ratio_SWR.md). ideal for multiband doublets.
 *   **Installation**: Must be kept away from metal and ground (affects impedance).
 
 ---

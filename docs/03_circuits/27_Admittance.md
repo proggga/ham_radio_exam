@@ -28,7 +28,7 @@ Admittance is primarily used when analyzing **[Parallel Circuits](../01_electric
     *   This makes calculation much simpler than using the complex impedance parallel formula ($1/Z_{tot} = 1/Z_1 + \dots$).
 
 ## Smith Chart
-On the [Smith Chart](../06_antennas/24_Smith_Chart.md), Admittance is often used for matching stubs in parallel with the transmission line. The chart can be "rotated" to convert Impedance coordinates to Admittance coordinates.
+On the [Smith Chart](../06_antennas/25_Smith_Chart.md), Admittance is often used for matching stubs in parallel with the transmission line. The chart can be "rotated" to convert Impedance coordinates to Admittance coordinates.
 
 ---
 [< Back to Section Index](README.md)

@@ -27,7 +27,7 @@ A Quarter-wave ($\lambda/4$) vertical element.
 
 ## Characteristics
 *   **Radiation Pattern**: Omni-directional (radiates equally in all horizontal directions).
-*   **Take-off Angle**: Low angle, good for reaching the ionosphere for long hops.
+*   **[[Take-Off Angle]]:** Low angle, good for reaching the ionosphere for long hops.
 *   **[[AC Signals & Noise|Noise]]**: Susceptible to man-made noise (QRM) which is often vertically polarized.
 
 ## Variants

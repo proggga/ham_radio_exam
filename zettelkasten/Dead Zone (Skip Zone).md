@@ -33,7 +33,7 @@ If the Ground Wave dies out *before* the Sky Wave returns to Earth, there is a g
 2.  **Ionospheric Conditions**:
     *   Higher ionization (e.g., during solar max or daytime) allows steeper angles to be reflected.
     *   Steeper angles mean a shorter Skip Distance $\rightarrow$ **smaller** Dead Zone.
-3.  **Antenna Take-off Angle**:
+3.  **Antenna [[Take-Off Angle]]**:
     *   Vertical antennas often have low take-off angles, good for DX but creating a large Dead Zone.
     *   Horizontal dipoles low to the ground shoot straight up (high angle).
 

@@ -18,7 +18,7 @@ Radio waves radiate upward and are refracted (bent) back to earth by the ionized
 *   **Frequency**: 3-30 MHz ([[Propagation Basics|HF]]).
 
 ## Geometry
-*   **Critical Angle**: The steepest angle of radiation at which a wave will still be reflected. Waves sent at angles *steeper* than the critical angle punch through into space.
+*   **Critical Angle**: The steepest [[Take-Off Angle|angle of radiation]] at which a wave will still be reflected. Waves sent at angles *steeper* than the critical angle punch through into space.
 *   **Skip Distance**: The distance along the ground from the transmitter to where the first reflected wave lands.
 *   **[[Dead Zone (Skip Zone)]]**: The area between the end of [[Ground Wave Propagation|Ground Wave]] coverage and the start of [[Sky Wave Propagation|Sky Wave]] coverage. Signals are skipped over this area.
     *   *Solution:* Use [[Near Vertical Incidence Skywave (NVIS)]] to fill this gap.

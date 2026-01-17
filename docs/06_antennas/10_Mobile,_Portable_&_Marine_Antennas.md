@@ -34,7 +34,7 @@ Salt water is an excellent conductor, making it a perfect RF ground.
 
 ### Antenna Types
 *   **Marine Whips**: Usually longer than car antennas (no height restrictions at sea).
-*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner ([ATU](25_Antenna_Tuning_Unit_ATU.md))** at the base.
+*   **Backstay [Antenna](../10_safety/03_Antenna_&_Tower_Safety.md)**: On sailboats, the rear rigging wire (backstay) is insulated at top and bottom and fed as a random wire antenna. Requires a good **[Antenna](../10_safety/03_Antenna_&_Tower_Safety.md) Tuner ([ATU](26_Antenna_Tuning_Unit_ATU.md))** at the base.
 
 ---
 [< Back to Section Index](README.md)

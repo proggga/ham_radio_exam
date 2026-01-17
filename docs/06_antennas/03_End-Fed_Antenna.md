@@ -10,7 +10,7 @@ An **End-Fed** antenna is fed at the very end of the wire, where:
 *   **[Impedance](../01_electricity/22_Impedance.md) is Very High**: Typically $2500 \Omega$ to $5000 \Omega$.
 
 ## Matching (The Unun)
-To feed this high impedance with standard $50 \Omega$ [Coax](17_Transmission_Lines.md), a broadband **Impedance Transformer** is required.
+To feed this high impedance with standard $50 \Omega$ [Coax](18_Transmission_Lines.md), a broadband **Impedance Transformer** is required.
 *   **Ratio**: Typically **49:1** or **64:1**.
     *   $50 \Omega \times 49 = 2450 \Omega$.
 *   **Type**: **Unun** (Unbalanced to Unbalanced), as both the coax and the end-fed wire are unbalanced.

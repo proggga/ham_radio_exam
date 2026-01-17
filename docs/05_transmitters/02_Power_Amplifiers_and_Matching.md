@@ -12,9 +12,9 @@ Power amplifiers generate harmonics (multiples of the frequency).
 *   **Pi-[Filter](../03_circuits/03_Filters_&_Resonance.md):** A common [LC circuit](../03_circuits/01_Reactive_Combinations.md) ($\pi$-shape) used for both impedance matching and low-pass filtering.
 
 ## 3. Antenna Matching (ATU)
-Matches the transmitter impedance (usually $50 \Omega$) to the antenna system. See [Matching](../06_antennas/22_Matching_and_SWR.md).
+Matches the transmitter impedance (usually $50 \Omega$) to the antenna system. See [Matching](../06_antennas/23_Matching_and_SWR.md).
 *   **Purpose:** Allows the PA to deliver full power (happy transmitter).
-*   **Note:** An [ATU](../06_antennas/25_Antenna_Tuning_Unit_ATU.md) at the transmitter does **NOT** fix the [SWR](../06_antennas/22_Matching_and_SWR.md) on the feedline. It only matches the *input* of the feedline to the TX.
+*   **Note:** An [ATU](../06_antennas/26_Antenna_Tuning_Unit_ATU.md) at the transmitter does **NOT** fix the [SWR](../06_antennas/23_Matching_and_SWR.md) on the feedline. It only matches the *input* of the feedline to the TX.
 
 ## 4. Cooling and Duty Cycle
 *   **Dissipation:** Efficiency is never 100%. Heat must be removed (Heatsinks, Fans).

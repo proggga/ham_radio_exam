@@ -13,7 +13,7 @@ Most amateur radio coax has a characteristic [Impedance](../01_electricity/22_Im
 ### Loss Characteristics
 *   **Frequency**: Loss **increases** as frequency increases. (RG-58 is acceptable for 80m, but poor for 440 MHz).
 *   **Length**: Loss is proportional to length. Keep feed lines as short as possible.
-*   **[SWR](23_Standing_Wave_Ratio_SWR.md)**: High [SWR](23_Standing_Wave_Ratio_SWR.md) increases loss (power is lost as heat).
+*   **[SWR](24_Standing_Wave_Ratio_SWR.md)**: High [SWR](24_Standing_Wave_Ratio_SWR.md) increases loss (power is lost as heat).
 
 ## Failure Modes
 *   **Moisture**: The #1 cause of coax failure. Water intrusion increases loss and changes impedance.
@@ -31,7 +31,7 @@ Most amateur radio coax has a characteristic [Impedance](../01_electricity/22_Im
 *   **Features**: Constant impedance, moisture-resistant (if properly installed), lower loss at high frequencies.
 
 ### Installation
-*   Erratic [SWR](23_Standing_Wave_Ratio_SWR.md) is often caused by loose connections or bad solder joints in connectors.
+*   Erratic [SWR](24_Standing_Wave_Ratio_SWR.md) is often caused by loose connections or bad solder joints in connectors.
 *   Always waterproof outdoor connections.
 
 ---
